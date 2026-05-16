@@ -12,7 +12,6 @@ const els = {
   refreshButton: document.querySelector("#refreshButton"),
   digestTitle: document.querySelector("#digestTitle"),
   digestDate: document.querySelector("#digestDate"),
-  digestNote: document.querySelector("#digestNote"),
   storyCount: document.querySelector("#storyCount"),
   sourceCount: document.querySelector("#sourceCount"),
   sectionCount: document.querySelector("#sectionCount"),
@@ -401,7 +400,6 @@ function renderSummary() {
 
   els.digestTitle.textContent = digest?.title || "No digest";
   els.digestDate.textContent = digest?.date || "";
-  els.digestNote.textContent = digest?.note || "";
   els.storyCount.textContent = stories.length;
   els.sourceCount.textContent = links.length;
   els.sectionCount.textContent = (digest?.sections || []).length;
@@ -468,5 +466,5 @@ els.confidenceFilter.addEventListener("change", (event) => {
 
 loadDigests().catch((error) => {
   els.digestTitle.textContent = "Could not load digests";
-  els.digestNote.textContent = error.message;
+  els.digestDate.textContent = error.message;
 });

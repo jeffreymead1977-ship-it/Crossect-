@@ -124,16 +124,11 @@ input {
   margin: 8px 0;
 }
 
-.muted,
-.note {
+.muted {
   color: var(--muted);
   font-size: 14px;
   line-height: 1.45;
   margin: 0;
-}
-
-.note {
-  margin-top: 12px;
 }
 
 .stats-grid {
