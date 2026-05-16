@@ -25,6 +25,14 @@ if (-not $changedDigestFiles) {
   exit 0
 }
 
+$digestPath = Join-Path $repoRoot "docs\data\digests\$DigestDate-expanded.json"
+if (Test-Path $digestPath) {
+  node .\scripts\validate-digest-freshness.mjs $digestPath .\docs\data\digests
+  if ($LASTEXITCODE -ne 0) {
+    throw "Digest freshness validation failed. Regenerate $DigestDate with fresher current-day sources before publishing."
+  }
+}
+
 git add -- docs/data/digests
 
 git diff --cached --quiet -- docs/data/digests
