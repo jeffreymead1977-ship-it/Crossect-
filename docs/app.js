@@ -30,6 +30,16 @@ const els = {
 };
 
 const biasOrder = ["Left", "Lean Left", "Center", "Lean Right", "Right", "Unknown/Mixed", "Official", "Company"];
+const alignmentScale = [
+  ["Left", "L"],
+  ["Center", "C"],
+  ["Right", "R"]
+];
+const reliabilityScale = [
+  ["low", "Low"],
+  ["medium", "Med"],
+  ["high", "High"]
+];
 
 const sunIcon = `
   <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -104,6 +114,48 @@ function segmentClass(value) {
 
 function confidenceValue(value) {
   return String(value || "unknown").toLowerCase();
+}
+
+function alignmentActiveValues(bias) {
+  if (bias === "Lean Left") return ["Left", "Center"];
+  if (bias === "Lean Right") return ["Center", "Right"];
+  if (bias === "Left" || bias === "Center" || bias === "Right") return [bias];
+  return [];
+}
+
+function renderIndicatorScale(label, items, activeValue, classPrefix, activeValues = [activeValue]) {
+  const wrapper = document.createElement("div");
+  wrapper.className = "indicator-scale";
+  wrapper.setAttribute("aria-label", `${label}: ${activeValue || "unknown"}`);
+
+  const name = document.createElement("span");
+  name.className = "indicator-name";
+  name.textContent = label;
+
+  const options = document.createElement("span");
+  options.className = "indicator-options";
+
+  let hasActive = false;
+  for (const [value, shortLabel] of items) {
+    const item = document.createElement("span");
+    const isActive = activeValues.includes(value);
+    hasActive = hasActive || isActive;
+    item.className = `indicator-pill ${classPrefix}-${slug(value)}${isActive ? ` active ${classPrefix}-${slug(activeValue)}` : ""}`;
+    item.textContent = shortLabel;
+    item.title = value;
+    options.append(item);
+  }
+
+  if (!hasActive && activeValue) {
+    const extra = document.createElement("span");
+    extra.className = `indicator-pill ${classPrefix}-${slug(activeValue)} active`;
+    extra.textContent = activeValue;
+    extra.title = activeValue;
+    options.append(extra);
+  }
+
+  wrapper.append(name, options);
+  return wrapper;
 }
 
 function allStories(digest = state.currentDigest) {
@@ -300,7 +352,8 @@ function renderStoryImage(story, className = "story-image") {
     const img = document.createElement("img");
     img.src = image.src;
     img.alt = image.alt;
-    img.loading = "lazy";
+    img.loading = className === "lead-image" ? "eager" : "lazy";
+    if (className === "lead-image") img.fetchPriority = "high";
     img.addEventListener("error", () => {
       wrapper.classList.add("is-placeholder");
       wrapper.replaceChildren(renderImageFallback(story));
@@ -379,20 +432,20 @@ function renderSourceRow(link) {
   if (excerpt.textContent) sourceCopy.append(excerpt);
   sourceMain.append(sourceCopy);
 
-  const chip = document.createElement("span");
   const bias = normalizeBias(link.bias);
-  chip.className = `chip bias-${slug(bias)}`;
-  chip.textContent = bias;
-
-  const confidence = document.createElement("span");
-  confidence.className = "confidence";
-  confidence.textContent = confidenceValue(link.confidence);
+  const confidence = confidenceValue(link.confidence);
+  const indicators = document.createElement("div");
+  indicators.className = "source-indicators";
+  indicators.append(
+    renderIndicatorScale("Alignment", alignmentScale, bias, "bias", alignmentActiveValues(bias)),
+    renderIndicatorScale("Reliability", reliabilityScale, confidence, "reliability")
+  );
 
   const quality = document.createElement("span");
   quality.className = "quality";
   quality.textContent = link.quality || "";
 
-  row.append(sourceMain, chip, confidence);
+  row.append(sourceMain, indicators);
   if (quality.textContent) row.append(quality);
   return row;
 }
