@@ -31,6 +31,8 @@ The Codex automation runs `scripts/publish-digest.ps1` after each digest to stag
 
 The publish script runs git in non-interactive mode. If GitHub credentials expire or the push cannot complete, it fails quickly so the automation can email the digest with a publish-failed note instead of waiting for input.
 
+Before publishing, the automation runs `scripts/enrich-digest-images.mjs` to extract real Open Graph/Twitter card images from the linked articles. It skips generic placeholders and leaves the dashboard's clean fallback panel when an article does not expose a usable image.
+
 Suggested Pages settings:
 
 ```text
