@@ -27,6 +27,8 @@ docs/data/digests/*.json
 
 For daily external access, the automation needs to save the new JSON digest, update `docs/data/digests/index.json`, then commit and push those files to GitHub. GitHub Pages will serve the latest digest after the push.
 
+The Codex automation runs `scripts/publish-digest.ps1` after each digest to stage only `docs/data/digests`, commit the new/updated digest files, rebase on `origin/main`, and push the update for GitHub Pages.
+
 Suggested Pages settings:
 
 ```text
