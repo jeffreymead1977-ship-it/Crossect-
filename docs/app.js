@@ -458,6 +458,7 @@ function storiesForActiveSection() {
 function renderHero() {
   const stories = storiesForActiveSection();
   const lead = stories[0];
+  const briefStories = state.activeSection === "All" ? allStories() : stories;
   els.hero.replaceChildren();
 
   if (!lead) {
@@ -501,11 +502,11 @@ function renderHero() {
   label.textContent = "Today's Brief";
   const count = document.createElement("span");
   count.className = "count";
-  count.textContent = `${stories.length} stories`;
+  count.textContent = `${briefStories.length} stories`;
   briefHead.append(label, count);
   brief.append(briefHead);
 
-  for (const [index, story] of stories.slice(1, 6).entries()) {
+  for (const [index, story] of briefStories.slice(0, 6).entries()) {
     brief.append(renderBriefItem(story, index + 1));
   }
 
