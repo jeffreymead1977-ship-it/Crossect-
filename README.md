@@ -1,6 +1,6 @@
-# Source Balance News
+# Crossect News
 
-A local dashboard for Codex-generated news digests. It does not use OpenAI API billing. Codex gathers and analyzes the news during the automation run, saves a JSON digest, and this app renders the saved digest files.
+Source Balance News is a dashboard for Codex-generated news digests. It does not use OpenAI API billing. Codex gathers and analyzes the news during the automation run, saves a JSON digest, and this app renders the saved digest files.
 
 ## Run
 
