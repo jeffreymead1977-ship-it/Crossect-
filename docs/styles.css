@@ -320,6 +320,7 @@ main {
 .lead {
   display: grid;
   gap: 16px;
+  min-width: 0;
 }
 
 .lead-image,
@@ -436,6 +437,7 @@ main {
   font-size: clamp(32px, 5vw, 56px);
   font-weight: 700;
   line-height: 1.02;
+  overflow-wrap: break-word;
 }
 
 .standfirst {
@@ -445,6 +447,7 @@ main {
   font-family: "Source Serif 4", Georgia, serif;
   font-size: 18px;
   line-height: 1.55;
+  overflow-wrap: break-word;
 }
 
 .byline,
@@ -1001,7 +1004,42 @@ footer {
   }
 
   .hero {
-    gap: 22px;
+    display: block;
+    gap: 18px;
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+    min-width: 0;
+  }
+
+  .lead {
+    gap: 12px;
+    width: 100%;
+    margin-bottom: 18px;
+  }
+
+  .lead-image {
+    height: clamp(180px, 36vw, 240px);
+    aspect-ratio: auto;
+  }
+
+  .lead h2,
+  .standfirst {
+    max-width: calc(100vw - 40px);
+    overflow-wrap: anywhere;
+  }
+
+  .story-image {
+    aspect-ratio: 16 / 9;
+  }
+
+  .lead h2 {
+    font-size: 30px;
+    line-height: 1.06;
+  }
+
+  .standfirst {
+    font-size: 16px;
+    line-height: 1.45;
   }
 
   .brief {
@@ -1056,5 +1094,136 @@ footer {
 
   .footer-bottom {
     flex-direction: column;
+  }
+}
+
+@media (max-width: 430px) {
+  .container {
+    padding: 0 14px;
+  }
+
+  .top-bar {
+    gap: 8px;
+    min-height: 50px;
+    padding: 10px 0;
+  }
+
+  .wordmark {
+    font-size: 21px;
+  }
+
+  .wordmark .dot {
+    width: 6px;
+    height: 6px;
+  }
+
+  .icon-btn {
+    width: 32px;
+    height: 32px;
+  }
+
+  .icon-btn svg {
+    width: 15px;
+    height: 15px;
+  }
+
+  .nav-strip button {
+    min-height: 34px;
+    padding: 0 11px;
+    font-size: 10px;
+  }
+
+  .marquee {
+    padding: 7px 0;
+    font-size: 11px;
+  }
+
+  main {
+    padding-top: 14px;
+  }
+
+  .hero {
+    gap: 14px;
+    padding-bottom: 18px;
+    margin-bottom: 18px;
+  }
+
+  .lead-image {
+    height: clamp(145px, 42vw, 180px);
+  }
+
+  .lead h2,
+  .standfirst,
+  .byline,
+  .brief,
+  .section-head,
+  .stories-grid {
+    max-width: calc(100vw - 28px);
+  }
+
+  .image-credit {
+    left: 9px;
+    bottom: 8px;
+    font-size: 9px;
+    padding: 3px 7px;
+  }
+
+  .kicker {
+    font-size: 11px;
+  }
+
+  .lead h2 {
+    font-size: 25px;
+    line-height: 1.04;
+  }
+
+  .standfirst {
+    font-size: 15px;
+  }
+
+  .byline,
+  .story-meta {
+    gap: 7px;
+    font-size: 11px;
+  }
+
+  .brief {
+    gap: 12px;
+    padding: 14px;
+  }
+
+  .brief-item {
+    gap: 10px;
+    padding-bottom: 11px;
+  }
+
+  .brief-item .num {
+    font-size: 17px;
+  }
+
+  .brief-item .body {
+    font-size: 14px;
+  }
+
+  .section-title {
+    font-size: 22px;
+  }
+
+  .stories-grid {
+    gap: 20px;
+  }
+
+  .story-card,
+  .story-card.compact {
+    gap: 10px;
+  }
+
+  .story-card h3,
+  .story-card.compact h3 {
+    font-size: 21px;
+  }
+
+  .dek {
+    font-size: 14px;
   }
 }
