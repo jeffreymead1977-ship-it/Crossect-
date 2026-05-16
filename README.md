@@ -49,7 +49,7 @@ docs/data/digests
 
 Each file should follow the structure shown in `docs/data/digests/2026-05-16-expanded.json`.
 
-Stories can include optional visual fields:
+Stories can include optional visual fields. Use actual article, official, or publisher Open Graph images only; omit these fields instead of substituting generic topic images.
 
 ```json
 {
@@ -59,7 +59,7 @@ Stories can include optional visual fields:
 }
 ```
 
-Links can include optional preview fields:
+Links can include optional preview fields. Link images should come from that article's own metadata or a directly related official source.
 
 ```json
 {

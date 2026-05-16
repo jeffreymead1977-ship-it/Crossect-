@@ -236,15 +236,36 @@ function renderBalance(story) {
   return wrapper;
 }
 
+function primaryStoryImage(story) {
+  const storyImage = safeImageUrl(story.imageUrl);
+  if (storyImage) {
+    return {
+      src: storyImage,
+      alt: textValue(story.imageAlt) || story.title || "Story image",
+      credit: textValue(story.imageCredit)
+    };
+  }
+
+  const source = (story.links || []).find((link) => safeImageUrl(link.imageUrl));
+  if (!source) return null;
+
+  return {
+    src: safeImageUrl(source.imageUrl),
+    alt: textValue(source.imageAlt) || source.headline || source.outlet || "Article preview",
+    credit: textValue(source.outlet)
+  };
+}
+
 function renderStoryImage(story) {
-  const src = safeImageUrl(story.imageUrl);
+  const image = primaryStoryImage(story);
+  const src = image?.src || "";
   const media = document.createElement("div");
   media.className = `story-image${src ? "" : " is-placeholder"}`;
 
   if (src) {
     const img = document.createElement("img");
     img.src = src;
-    img.alt = textValue(story.imageAlt) || story.title || "Story image";
+    img.alt = image.alt;
     img.loading = "lazy";
     img.addEventListener("error", () => {
       media.classList.add("is-placeholder");
@@ -252,10 +273,10 @@ function renderStoryImage(story) {
     });
     media.append(img);
 
-    if (story.imageCredit) {
+    if (image.credit) {
       const credit = document.createElement("span");
       credit.className = "image-credit";
-      credit.textContent = story.imageCredit;
+      credit.textContent = image.credit;
       media.append(credit);
     }
   } else {
