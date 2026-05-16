@@ -1,0 +1,13 @@
+{
+  "name": "source-balance-news",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local dashboard for Codex-generated daily news digests.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

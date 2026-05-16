@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Source Balance News</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Daily Brief</p>
+          <h1>Source Balance News</h1>
+        </div>
+        <div class="topbar-actions">
+          <select id="digestSelect" aria-label="Digest date"></select>
+          <button id="refreshButton" type="button">Refresh</button>
+        </div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar">
+          <section class="panel">
+            <p class="panel-label">Digest</p>
+            <h2 id="digestTitle">Loading</h2>
+            <p id="digestDate" class="muted">Preparing dashboard</p>
+            <p id="digestNote" class="note"></p>
+          </section>
+
+          <section class="panel stats-grid" aria-label="Digest totals">
+            <div>
+              <span id="storyCount">0</span>
+              <small>Stories</small>
+            </div>
+            <div>
+              <span id="sourceCount">0</span>
+              <small>Sources</small>
+            </div>
+            <div>
+              <span id="sectionCount">0</span>
+              <small>Sections</small>
+            </div>
+          </section>
+
+          <section class="panel">
+            <p class="panel-label">Coverage</p>
+            <div id="biasMix" class="bias-mix"></div>
+          </section>
+
+          <section class="panel controls">
+            <label>
+              <span>Search</span>
+              <input id="searchInput" type="search" placeholder="story, outlet, topic">
+            </label>
+            <label>
+              <span>Section</span>
+              <select id="sectionFilter"></select>
+            </label>
+            <label>
+              <span>Bias</span>
+              <select id="biasFilter"></select>
+            </label>
+            <label>
+              <span>Confidence</span>
+              <select id="confidenceFilter"></select>
+            </label>
+          </section>
+        </aside>
+
+        <section class="content">
+          <div id="sectionTabs" class="tabs" aria-label="Sections"></div>
+          <div id="storyList" class="story-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
