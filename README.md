@@ -44,3 +44,24 @@ docs/data/digests
 ```
 
 Each file should follow the structure shown in `docs/data/digests/2026-05-16-expanded.json`.
+
+Stories can include optional visual fields:
+
+```json
+{
+  "imageUrl": "https://stable-image-url.example/image.jpg",
+  "imageAlt": "Short factual image description",
+  "imageCredit": "Outlet, official source, or Wikimedia Commons"
+}
+```
+
+Links can include optional preview fields:
+
+```json
+{
+  "headline": "Display headline",
+  "excerpt": "Short paraphrased preview",
+  "imageUrl": "https://optional-link-thumbnail.example/image.jpg",
+  "imageAlt": "Optional thumbnail description"
+}
+```

@@ -51,6 +51,20 @@ function confidenceValue(value) {
   return String(value || "unknown").toLowerCase();
 }
 
+function safeImageUrl(value) {
+  if (!value) return "";
+  try {
+    const url = new URL(value, window.location.href);
+    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
+  } catch (error) {
+    return "";
+  }
+}
+
+function textValue(value) {
+  return String(value || "").trim();
+}
+
 function allStories(digest = state.currentDigest) {
   if (!digest) return [];
   return (digest.sections || []).flatMap((section) =>
@@ -82,7 +96,8 @@ function storyMatches(story) {
     story.title,
     story.summary,
     story.section,
-    ...(story.links || []).flatMap((link) => [link.outlet, link.bias, link.quality])
+    story.imageCredit,
+    ...(story.links || []).flatMap((link) => [link.outlet, link.headline, link.excerpt, link.bias, link.quality])
   ]
     .join(" ")
     .toLowerCase();
@@ -222,15 +237,88 @@ function renderBalance(story) {
   return wrapper;
 }
 
+function renderStoryImage(story) {
+  const src = safeImageUrl(story.imageUrl);
+  const media = document.createElement("div");
+  media.className = `story-image${src ? "" : " is-placeholder"}`;
+
+  if (src) {
+    const img = document.createElement("img");
+    img.src = src;
+    img.alt = textValue(story.imageAlt) || story.title || "Story image";
+    img.loading = "lazy";
+    img.addEventListener("error", () => {
+      media.classList.add("is-placeholder");
+      media.replaceChildren(renderImageFallback(story));
+    });
+    media.append(img);
+
+    if (story.imageCredit) {
+      const credit = document.createElement("span");
+      credit.className = "image-credit";
+      credit.textContent = story.imageCredit;
+      media.append(credit);
+    }
+  } else {
+    media.append(renderImageFallback(story));
+  }
+
+  return media;
+}
+
+function renderImageFallback(story) {
+  const fallback = document.createElement("div");
+  fallback.className = "image-fallback";
+
+  const label = document.createElement("span");
+  label.textContent = story.section || "News";
+
+  const title = document.createElement("strong");
+  title.textContent = story.title || "Story";
+
+  fallback.append(label, title);
+  return fallback;
+}
+
 function renderSourceRow(link) {
   const row = document.createElement("div");
   row.className = "source-row";
+
+  const thumbUrl = safeImageUrl(link.imageUrl);
+  const sourceMain = document.createElement("div");
+  sourceMain.className = `source-main${thumbUrl ? " has-thumb" : ""}`;
+
+  if (thumbUrl) {
+    const thumb = document.createElement("img");
+    thumb.className = "source-thumb";
+    thumb.src = thumbUrl;
+    thumb.alt = textValue(link.imageAlt) || link.outlet || "Article preview";
+    thumb.loading = "lazy";
+    thumb.addEventListener("error", () => thumb.remove());
+    sourceMain.append(thumb);
+  }
+
+  const sourceCopy = document.createElement("div");
+  sourceCopy.className = "source-copy";
 
   const anchor = document.createElement("a");
   anchor.href = link.url;
   anchor.target = "_blank";
   anchor.rel = "noopener noreferrer";
-  anchor.textContent = link.outlet || "Source";
+  anchor.textContent = link.headline || link.outlet || "Source";
+
+  const outlet = document.createElement("span");
+  outlet.className = "source-outlet";
+  outlet.textContent = link.headline && link.outlet ? link.outlet : "";
+
+  const excerpt = document.createElement("p");
+  excerpt.className = "source-excerpt";
+  excerpt.textContent = link.excerpt || "";
+
+  sourceCopy.append(anchor);
+  if (outlet.textContent) sourceCopy.append(outlet);
+  if (excerpt.textContent) sourceCopy.append(excerpt);
+  sourceMain.append(sourceCopy);
 
   const bias = normalizeBias(link.bias);
   const chip = document.createElement("span");
@@ -245,13 +333,17 @@ function renderSourceRow(link) {
   quality.className = "quality";
   quality.textContent = link.quality || "";
 
-  row.append(anchor, chip, confidence, quality);
+  row.append(sourceMain, chip, confidence, quality);
   return row;
 }
 
 function renderStory(story) {
   const card = document.createElement("article");
   card.className = "story-card";
+
+  const preview = document.createElement("div");
+  preview.className = "story-preview";
+  preview.append(renderStoryImage(story));
 
   const main = document.createElement("div");
   main.className = "story-main";
@@ -264,6 +356,7 @@ function renderStory(story) {
   copy.append(title, summary);
 
   main.append(copy, renderBalance(story));
+  preview.append(main);
 
   const sourceList = document.createElement("div");
   sourceList.className = "source-list";
@@ -271,7 +364,7 @@ function renderStory(story) {
     sourceList.append(renderSourceRow(link));
   }
 
-  card.append(main, sourceList);
+  card.append(preview, sourceList);
   return card;
 }
 
