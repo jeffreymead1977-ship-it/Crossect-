@@ -8,8 +8,14 @@ const state = {
 };
 
 const els = {
+  dateline: document.querySelector("#dateline"),
   digestSelect: document.querySelector("#digestSelect"),
   refreshButton: document.querySelector("#refreshButton"),
+  themeToggle: document.querySelector("#themeToggle"),
+  sectionTabs: document.querySelector("#sectionTabs"),
+  ticker: document.querySelector("#ticker"),
+  hero: document.querySelector("#hero"),
+  digestSummary: document.querySelector("#digestSummary"),
   digestTitle: document.querySelector("#digestTitle"),
   digestDate: document.querySelector("#digestDate"),
   storyCount: document.querySelector("#storyCount"),
@@ -20,17 +26,57 @@ const els = {
   sectionFilter: document.querySelector("#sectionFilter"),
   biasFilter: document.querySelector("#biasFilter"),
   confidenceFilter: document.querySelector("#confidenceFilter"),
-  sectionTabs: document.querySelector("#sectionTabs"),
   storyList: document.querySelector("#storyList")
 };
 
 const biasOrder = ["Left", "Lean Left", "Center", "Lean Right", "Right", "Unknown/Mixed", "Official", "Company"];
+
+const sunIcon = `
+  <svg viewBox="0 0 24 24" aria-hidden="true">
+    <circle cx="12" cy="12" r="4"></circle>
+    <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"></path>
+  </svg>`;
+
+const moonIcon = `
+  <svg viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+  </svg>`;
+
+function setTheme(theme) {
+  const next = theme === "dark" ? "dark" : "light";
+  document.documentElement.setAttribute("data-theme", next);
+  localStorage.setItem("cn-theme", next);
+  els.themeToggle.innerHTML = next === "dark" ? moonIcon : sunIcon;
+  els.themeToggle.title = next === "dark" ? "Switch to light mode" : "Switch to dark mode";
+  els.themeToggle.setAttribute("aria-label", els.themeToggle.title);
+}
+
+function initTheme() {
+  setTheme(document.documentElement.getAttribute("data-theme") || "light");
+  els.themeToggle.addEventListener("click", () => {
+    setTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark");
+  });
+}
 
 function slug(value) {
   return String(value || "unknown")
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/(^-|-$)/g, "");
+}
+
+function textValue(value) {
+  return String(value || "").trim();
+}
+
+function safeImageUrl(value) {
+  if (!value) return "";
+  try {
+    const url = new URL(value, window.location.href);
+    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
+  } catch (error) {
+    return "";
+  }
 }
 
 function normalizeBias(value) {
@@ -46,22 +92,18 @@ function normalizeBias(value) {
   return "Unknown/Mixed";
 }
 
+function segmentClass(value) {
+  const bias = normalizeBias(value);
+  if (bias === "Left" || bias === "Lean Left") return "l";
+  if (bias === "Center") return "c";
+  if (bias === "Right" || bias === "Lean Right") return "r";
+  if (bias === "Official") return "o";
+  if (bias === "Company") return "co";
+  return "u";
+}
+
 function confidenceValue(value) {
   return String(value || "unknown").toLowerCase();
-}
-
-function safeImageUrl(value) {
-  if (!value) return "";
-  try {
-    const url = new URL(value, window.location.href);
-    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
-  } catch (error) {
-    return "";
-  }
-}
-
-function textValue(value) {
-  return String(value || "").trim();
 }
 
 function allStories(digest = state.currentDigest) {
@@ -119,14 +161,24 @@ function option(value, label = value) {
   return item;
 }
 
+function formatDate(value) {
+  if (!value) return "";
+  const date = new Date(`${value}T00:00:00`);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat(undefined, {
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+    year: "numeric"
+  }).format(date);
+}
+
 async function fetchJson(candidates) {
   let lastError = null;
   for (const candidate of candidates) {
     try {
       const response = await fetch(candidate, { cache: "no-store" });
-      if (response.ok) {
-        return response.json();
-      }
+      if (response.ok) return response.json();
       lastError = new Error(`${candidate} returned ${response.status}`);
     } catch (error) {
       lastError = error;
@@ -138,7 +190,8 @@ async function fetchJson(candidates) {
 function renderDigestOptions() {
   els.digestSelect.replaceChildren();
   for (const digest of state.digests) {
-    els.digestSelect.append(option(digest.id, digest.date ? `${digest.date} - ${digest.title}` : digest.title));
+    const label = digest.date ? `${digest.date} - ${digest.title}` : digest.title;
+    els.digestSelect.append(option(digest.id, label));
   }
 }
 
@@ -153,13 +206,13 @@ function renderFilters() {
   ];
 
   els.sectionFilter.replaceChildren(...sections.map((section) => option(section)));
-  els.sectionFilter.value = state.activeSection;
+  els.sectionFilter.value = sections.includes(state.activeSection) ? state.activeSection : "All";
 
   els.biasFilter.replaceChildren(...biases.map((bias) => option(bias)));
-  els.biasFilter.value = state.bias;
+  els.biasFilter.value = biases.includes(state.bias) ? state.bias : "All";
 
   els.confidenceFilter.replaceChildren(...confidences.map((confidence) => option(confidence)));
-  els.confidenceFilter.value = state.confidence;
+  els.confidenceFilter.value = confidences.includes(state.confidence) ? state.confidence : "All";
 }
 
 function renderTabs() {
@@ -169,8 +222,8 @@ function renderTabs() {
   for (const section of sections) {
     const button = document.createElement("button");
     button.type = "button";
-    button.className = `tab${section === state.activeSection ? " active" : ""}`;
-    button.textContent = section;
+    button.className = section === state.activeSection ? "active" : "";
+    button.textContent = section === "All" ? "Front Page" : section;
     button.addEventListener("click", () => {
       state.activeSection = section;
       render();
@@ -179,61 +232,29 @@ function renderTabs() {
   }
 }
 
-function renderBiasMix() {
-  const links = allLinks();
-  const counts = countBias(links);
-  const total = Math.max(links.length, 1);
-  els.biasMix.replaceChildren();
+function renderTicker() {
+  const digest = state.currentDigest;
+  const stories = allStories(digest);
+  const links = allLinks(digest);
+  const parts = [
+    ["Stories", stories.length],
+    ["Sources", links.length],
+    ["Sections", (digest?.sections || []).length]
+  ];
 
-  for (const bias of biasOrder) {
-    if (!counts[bias]) continue;
-    const row = document.createElement("div");
-    row.className = "mix-row";
-
-    const label = document.createElement("span");
-    label.textContent = bias;
-
-    const track = document.createElement("div");
-    track.className = "mix-track";
-
-    const fill = document.createElement("div");
-    fill.className = `mix-fill bias-${slug(bias)}`;
-    fill.style.width = `${Math.max((counts[bias] / total) * 100, 4)}%`;
-    track.append(fill);
-
-    const count = document.createElement("span");
-    count.textContent = counts[bias];
-
-    row.append(label, track, count);
-    els.biasMix.append(row);
-  }
-}
-
-function renderBalance(story) {
-  const links = story.links || [];
-  const counts = countBias(links);
-  const total = Math.max(links.length, 1);
-
-  const wrapper = document.createElement("div");
-  wrapper.className = "source-balance";
-
-  const bar = document.createElement("div");
-  bar.className = "balance-bar";
-
-  for (const bias of biasOrder) {
-    if (!counts[bias]) continue;
-    const segment = document.createElement("div");
-    segment.className = `balance-segment bias-${slug(bias)}`;
-    segment.style.width = `${(counts[bias] / total) * 100}%`;
-    bar.append(segment);
+  for (const section of digest?.sections || []) {
+    parts.push([section.name, (section.stories || []).length]);
   }
 
-  const caption = document.createElement("div");
-  caption.className = "balance-caption";
-  caption.textContent = `${sourceCount(story)} sources`;
-
-  wrapper.append(bar, caption);
-  return wrapper;
+  els.ticker.replaceChildren();
+  const doubled = [...parts, ...parts];
+  for (const [label, value] of doubled) {
+    const span = document.createElement("span");
+    const strong = document.createElement("strong");
+    strong.textContent = label;
+    span.append(strong, ` ${value}`);
+    els.ticker.append(span);
+  }
 }
 
 function primaryStoryImage(story) {
@@ -256,36 +277,6 @@ function primaryStoryImage(story) {
   };
 }
 
-function renderStoryImage(story) {
-  const image = primaryStoryImage(story);
-  const src = image?.src || "";
-  const media = document.createElement("div");
-  media.className = `story-image${src ? "" : " is-placeholder"}`;
-
-  if (src) {
-    const img = document.createElement("img");
-    img.src = src;
-    img.alt = image.alt;
-    img.loading = "lazy";
-    img.addEventListener("error", () => {
-      media.classList.add("is-placeholder");
-      media.replaceChildren(renderImageFallback(story));
-    });
-    media.append(img);
-
-    if (image.credit) {
-      const credit = document.createElement("span");
-      credit.className = "image-credit";
-      credit.textContent = image.credit;
-      media.append(credit);
-    }
-  } else {
-    media.append(renderImageFallback(story));
-  }
-
-  return media;
-}
-
 function renderImageFallback(story) {
   const fallback = document.createElement("div");
   fallback.className = "image-fallback";
@@ -298,6 +289,54 @@ function renderImageFallback(story) {
 
   fallback.append(label, title);
   return fallback;
+}
+
+function renderStoryImage(story, className = "story-image") {
+  const image = primaryStoryImage(story);
+  const wrapper = document.createElement("div");
+  wrapper.className = className;
+
+  if (image?.src) {
+    const img = document.createElement("img");
+    img.src = image.src;
+    img.alt = image.alt;
+    img.loading = "lazy";
+    img.addEventListener("error", () => {
+      wrapper.classList.add("is-placeholder");
+      wrapper.replaceChildren(renderImageFallback(story));
+    });
+    wrapper.append(img);
+
+    if (image.credit) {
+      const credit = document.createElement("span");
+      credit.className = "image-credit";
+      credit.textContent = image.credit;
+      wrapper.append(credit);
+    }
+  } else {
+    wrapper.classList.add("is-placeholder");
+    wrapper.append(renderImageFallback(story));
+  }
+
+  return wrapper;
+}
+
+function renderCoverageStrip(story) {
+  const links = story.links || [];
+  const wrapper = document.createElement("div");
+  wrapper.className = "coverage-strip";
+
+  for (const link of links) {
+    const segment = document.createElement("div");
+    segment.className = `seg ${segmentClass(link.bias)}`;
+    wrapper.append(segment);
+  }
+
+  const label = document.createElement("span");
+  label.className = "coverage-label";
+  label.textContent = `${sourceCount(story)} sources`;
+  wrapper.append(label);
+  return wrapper;
 }
 
 function renderSourceRow(link) {
@@ -331,7 +370,7 @@ function renderSourceRow(link) {
   outlet.className = "source-outlet";
   outlet.textContent = link.headline && link.outlet ? link.outlet : "";
 
-  const excerpt = document.createElement("p");
+  const excerpt = document.createElement("span");
   excerpt.className = "source-excerpt";
   excerpt.textContent = link.excerpt || "";
 
@@ -340,8 +379,8 @@ function renderSourceRow(link) {
   if (excerpt.textContent) sourceCopy.append(excerpt);
   sourceMain.append(sourceCopy);
 
-  const bias = normalizeBias(link.bias);
   const chip = document.createElement("span");
+  const bias = normalizeBias(link.bias);
   chip.className = `chip bias-${slug(bias)}`;
   chip.textContent = bias;
 
@@ -353,30 +392,116 @@ function renderSourceRow(link) {
   quality.className = "quality";
   quality.textContent = link.quality || "";
 
-  row.append(sourceMain, chip, confidence, quality);
+  row.append(sourceMain, chip, confidence);
+  if (quality.textContent) row.append(quality);
   return row;
 }
 
-function renderStory(story) {
-  const card = document.createElement("article");
-  card.className = "story-card";
+function storiesForActiveSection() {
+  const stories = allStories();
+  return stories.filter((story) => state.activeSection === "All" || story.section === state.activeSection);
+}
 
-  const preview = document.createElement("div");
-  preview.className = "story-preview";
-  preview.append(renderStoryImage(story));
+function renderHero() {
+  const stories = storiesForActiveSection();
+  const lead = stories[0];
+  els.hero.replaceChildren();
 
-  const main = document.createElement("div");
-  main.className = "story-main";
+  if (!lead) {
+    const empty = document.createElement("div");
+    empty.className = "empty";
+    empty.textContent = "No stories available for this section.";
+    els.hero.append(empty);
+    return;
+  }
+
+  const article = document.createElement("article");
+  article.className = "lead";
+  article.append(renderStoryImage(lead, "lead-image"));
+
+  const kicker = document.createElement("div");
+  kicker.className = "kicker";
+  const dot = document.createElement("span");
+  dot.className = "live-dot";
+  kicker.append(dot, `${lead.section} - ${sourceCount(lead)} sources`);
+
+  const title = document.createElement("h2");
+  title.textContent = lead.title;
+
+  const summary = document.createElement("p");
+  summary.className = "standfirst";
+  summary.textContent = lead.summary;
+
+  const byline = document.createElement("div");
+  byline.className = "byline";
+  byline.append(formatDate(state.currentDigest?.date), " - ", `${allLinks().length} source links indexed`);
+
+  article.append(kicker, title, summary, renderCoverageStrip(lead), byline);
+
+  const brief = document.createElement("aside");
+  brief.className = "brief";
+
+  const briefHead = document.createElement("div");
+  briefHead.className = "brief-head";
+  const label = document.createElement("span");
+  label.className = "label";
+  label.textContent = "Today's Brief";
+  const count = document.createElement("span");
+  count.className = "count";
+  count.textContent = `${stories.length} stories`;
+  briefHead.append(label, count);
+  brief.append(briefHead);
+
+  for (const [index, story] of stories.slice(1, 6).entries()) {
+    brief.append(renderBriefItem(story, index + 1));
+  }
+
+  els.hero.append(article, brief);
+}
+
+function renderBriefItem(story, index) {
+  const item = document.createElement("div");
+  item.className = "brief-item";
+
+  const num = document.createElement("span");
+  num.className = "num";
+  num.textContent = String(index).padStart(2, "0");
 
   const copy = document.createElement("div");
+  const body = document.createElement("div");
+  body.className = "body";
+  body.textContent = story.title;
+  const meta = document.createElement("div");
+  meta.className = "meta";
+  meta.textContent = `${story.section} - ${sourceCount(story)} sources`;
+  copy.append(body, meta);
+
+  const conf = document.createElement("span");
+  conf.className = "conf mono";
+  const dot = document.createElement("span");
+  dot.className = "conf-dot";
+  conf.append(dot, "LIVE");
+
+  item.append(num, copy, conf);
+  return item;
+}
+
+function renderStory(story, index) {
+  const card = document.createElement("article");
+  card.className = `story-card${index % 3 === 2 ? " compact" : ""}`;
+
+  card.append(renderStoryImage(story));
+
+  const section = document.createElement("div");
+  section.className = "story-section";
+  section.textContent = story.section;
+
   const title = document.createElement("h3");
   title.textContent = story.title;
-  const summary = document.createElement("p");
-  summary.textContent = story.summary;
-  copy.append(title, summary);
 
-  main.append(copy, renderBalance(story));
-  preview.append(main);
+  const summary = document.createElement("p");
+  summary.className = "dek";
+  summary.textContent = story.summary;
 
   const sourceList = document.createElement("div");
   sourceList.className = "source-list";
@@ -384,7 +509,7 @@ function renderStory(story) {
     sourceList.append(renderSourceRow(link));
   }
 
-  card.append(preview, sourceList);
+  card.append(section, title, summary, renderCoverageStrip(story), sourceList);
   return card;
 }
 
@@ -401,6 +526,7 @@ function renderStories() {
   }
 
   let currentSection = "";
+  let visibleIndex = 0;
   for (const story of stories) {
     if (story.section !== currentSection) {
       currentSection = story.section;
@@ -410,7 +536,38 @@ function renderStories() {
       els.storyList.append(heading);
     }
 
-    els.storyList.append(renderStory(story));
+    els.storyList.append(renderStory(story, visibleIndex));
+    visibleIndex += 1;
+  }
+}
+
+function renderBiasMix() {
+  const links = allLinks();
+  const counts = countBias(links);
+  const total = Math.max(links.length, 1);
+  els.biasMix.replaceChildren();
+
+  for (const bias of biasOrder) {
+    if (!counts[bias]) continue;
+    const row = document.createElement("div");
+    row.className = "mix-row";
+
+    const label = document.createElement("span");
+    label.textContent = bias;
+
+    const track = document.createElement("div");
+    track.className = "mix-track";
+
+    const fill = document.createElement("div");
+    fill.className = `mix-fill bias-${slug(bias)}`;
+    fill.style.width = `${Math.max((counts[bias] / total) * 100, 4)}%`;
+    track.append(fill);
+
+    const count = document.createElement("span");
+    count.textContent = counts[bias];
+
+    row.append(label, track, count);
+    els.biasMix.append(row);
   }
 }
 
@@ -418,18 +575,23 @@ function renderSummary() {
   const digest = state.currentDigest;
   const stories = allStories(digest);
   const links = allLinks(digest);
+  const date = digest?.date || "";
 
+  els.dateline.textContent = date ? `${formatDate(date)} - Daily Source Digest` : "Daily Source Digest";
   els.digestTitle.textContent = digest?.title || "No digest";
-  els.digestDate.textContent = digest?.date || "";
+  els.digestDate.textContent = formatDate(date) || "";
   els.storyCount.textContent = stories.length;
   els.sourceCount.textContent = links.length;
   els.sectionCount.textContent = (digest?.sections || []).length;
+  els.digestSummary.textContent = `${stories.length} stories - ${links.length} source links`;
 }
 
 function render() {
   renderSummary();
   renderFilters();
   renderTabs();
+  renderTicker();
+  renderHero();
   renderBiasMix();
   renderStories();
 }
@@ -450,11 +612,7 @@ async function loadDigest(id) {
 }
 
 async function loadDigests() {
-  const body = await fetchJson([
-    "data/digests/index.json",
-    "../data/digests/index.json",
-    "api/digests"
-  ]);
+  const body = await fetchJson(["data/digests/index.json", "../data/digests/index.json", "api/digests"]);
   state.digests = body.digests || [];
   renderDigestOptions();
 
@@ -465,6 +623,8 @@ async function loadDigests() {
     render();
   }
 }
+
+initTheme();
 
 els.digestSelect.addEventListener("change", () => loadDigest(els.digestSelect.value));
 els.refreshButton.addEventListener("click", loadDigests);
@@ -488,4 +648,5 @@ els.confidenceFilter.addEventListener("change", (event) => {
 loadDigests().catch((error) => {
   els.digestTitle.textContent = "Could not load digests";
   els.digestDate.textContent = error.message;
+  els.dateline.textContent = "Digest unavailable";
 });
