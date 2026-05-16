@@ -29,6 +29,8 @@ For daily external access, the automation needs to save the new JSON digest, upd
 
 The Codex automation runs `scripts/publish-digest.ps1` after each digest to stage only `docs/data/digests`, commit the new/updated digest files, rebase on `origin/main`, and push the update for GitHub Pages.
 
+The publish script runs git in non-interactive mode. If GitHub credentials expire or the push cannot complete, it fails quickly so the automation can email the digest with a publish-failed note instead of waiting for input.
+
 Suggested Pages settings:
 
 ```text

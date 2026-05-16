@@ -3,6 +3,8 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+$env:GIT_TERMINAL_PROMPT = "0"
+$env:GCM_INTERACTIVE = "Never"
 
 $repoRoot = Split-Path -Parent $PSScriptRoot
 Set-Location $repoRoot
