@@ -3,6 +3,10 @@ import path from "node:path";
 
 const currentPath = path.resolve(process.argv[2] || "");
 const digestsDir = path.resolve(process.argv[3] || path.dirname(currentPath));
+const maxRepeatedUrlRatio = 0.25;
+const maxSimilarStoryRatio = 0.45;
+const maxAustraliaStoryRatio = 0.35;
+const maxSingleJournalismFamilyRatio = 0.3;
 
 if (!currentPath) {
   console.error("Usage: node scripts/validate-digest-freshness.mjs <current-digest.json> [digests-dir]");
@@ -49,6 +53,51 @@ function links(digest) {
   return stories(digest).flatMap((story) => story.links || []);
 }
 
+function isOfficialOrPrimary(link) {
+  const bias = String(link.bias || "").toLowerCase();
+  const quality = String(link.quality || "").toLowerCase();
+  return (
+    bias === "official" ||
+    bias === "company" ||
+    /\b(government|court|regulator|official|company|primary source)\b/.test(quality)
+  );
+}
+
+function hostname(value = "") {
+  try {
+    return new URL(value).hostname.replace(/^www\./i, "").toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
+function sourceFamily(link) {
+  const host = hostname(link.url);
+  if (host.endsWith("abc.net.au")) return "ABC Australia";
+  if (host.endsWith("sbs.com.au")) return "SBS";
+  if (host.endsWith("bbc.com") || host.endsWith("bbc.co.uk")) return "BBC";
+  if (host.endsWith("apnews.com")) return "AP";
+  if (host.endsWith("reuters.com")) return "Reuters";
+  if (host.endsWith("aljazeera.com")) return "Al Jazeera";
+  if (host.endsWith("theguardian.com")) return "The Guardian";
+  if (host.endsWith("news.com.au")) return "News.com.au";
+  if (host.endsWith("abcnews.go.com")) return "ABC News US";
+
+  return String(link.outlet || host || "Unknown")
+    .replace(/\s*\/.*$/, "")
+    .trim();
+}
+
+function journalismLinks(digest) {
+  return links(digest).filter((link) => !isOfficialOrPrimary(link));
+}
+
+function australiaStories(digest) {
+  return (digest.sections || [])
+    .filter((section) => /australia/i.test(section.name || ""))
+    .flatMap((section) => section.stories || []);
+}
+
 async function readJson(filePath) {
   return JSON.parse(await fs.readFile(filePath, "utf8"));
 }
@@ -93,15 +142,43 @@ const repeatedStories = stories(current).filter((story) =>
 );
 const storyOverlap = repeatedStories.length / Math.max(stories(current).length, 1);
 
+const currentStories = stories(current);
+const ausStories = australiaStories(current);
+const australiaStoryRatio = ausStories.length / Math.max(currentStories.length, 1);
+const familyCounts = new Map();
+for (const link of journalismLinks(current)) {
+  const family = sourceFamily(link);
+  familyCounts.set(family, (familyCounts.get(family) || 0) + 1);
+}
+const journalismLinkCount = [...familyCounts.values()].reduce((sum, count) => sum + count, 0);
+const topFamily = [...familyCounts.entries()].sort((a, b) => b[1] - a[1])[0] || ["None", 0];
+const topFamilyRatio = topFamily[1] / Math.max(journalismLinkCount, 1);
+
 const report = [
   `Freshness check ${current.id} vs ${previous.id}`,
   `Repeated URLs: ${repeatedUrls.length}/${currentUrls.size} (${Math.round(urlOverlap * 100)}%)`,
-  `Similar story titles: ${repeatedStories.length}/${stories(current).length} (${Math.round(storyOverlap * 100)}%)`
+  `Similar story titles: ${repeatedStories.length}/${currentStories.length} (${Math.round(storyOverlap * 100)}%)`,
+  `Australia stories: ${ausStories.length}/${currentStories.length} (${Math.round(australiaStoryRatio * 100)}%)`,
+  `Largest journalism source family: ${topFamily[0]} ${topFamily[1]}/${journalismLinkCount} (${Math.round(topFamilyRatio * 100)}%)`
 ];
 
 console.log(report.join("\n"));
 
-if (urlOverlap > 0.25 || storyOverlap > 0.45) {
+if (urlOverlap > maxRepeatedUrlRatio || storyOverlap > maxSimilarStoryRatio) {
   console.error("Digest appears stale. Regenerate with fresher current-day sources before publishing.");
+  process.exit(1);
+}
+
+if (australiaStoryRatio > maxAustraliaStoryRatio) {
+  console.error(
+    `Digest is too Australia-heavy. Keep Australian stories to ${Math.round(maxAustraliaStoryRatio * 100)}% or less unless the user explicitly overrides it.`
+  );
+  process.exit(1);
+}
+
+if (topFamilyRatio > maxSingleJournalismFamilyRatio) {
+  console.error(
+    `Digest is too dependent on ${topFamily[0]}. Keep any one journalism source family to ${Math.round(maxSingleJournalismFamilyRatio * 100)}% or less.`
+  );
   process.exit(1);
 }
