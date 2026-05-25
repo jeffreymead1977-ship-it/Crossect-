@@ -500,6 +500,10 @@ function renderHero() {
   const byline = document.createElement("div");
   byline.className = "byline";
   byline.append(formatDate(state.currentDigest?.date), " - ", `${allLinks().length} source links indexed`);
+  const ut = formatTime(state.currentDigest?.generatedAt);
+  if (ut) {
+    byline.append(" · Updated ", ut);
+  }
 
   article.append(kicker, title, summary, renderCoverageStrip(lead), byline);
 
