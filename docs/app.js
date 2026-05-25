@@ -225,6 +225,17 @@ function formatDate(value) {
   }).format(date);
 }
 
+function formatTime(isoString) {
+  if (!isoString) return "";
+  const date = new Date(isoString);
+  if (Number.isNaN(date.getTime())) return "";
+  return new Intl.DateTimeFormat(undefined, {
+    hour: "numeric",
+    minute: "2-digit",
+    timeZoneName: "short"
+  }).format(date);
+}
+
 async function fetchJson(candidates) {
   let lastError = null;
   for (const candidate of candidates) {
@@ -632,6 +643,10 @@ function renderSummary() {
   const date = digest?.date || "";
 
   els.dateline.textContent = date ? `${formatDate(date)} - Daily Source Digest` : "Daily Source Digest";
+  const updateTime = formatTime(digest?.generatedAt);
+  if (updateTime) {
+    els.dateline.textContent += ` · Updated ${updateTime}`;
+  }
   els.digestTitle.textContent = digest?.title || "No digest";
   els.digestDate.textContent = formatDate(date) || "";
   els.storyCount.textContent = stories.length;
