@@ -669,11 +669,14 @@ function render() {
   renderStories();
 }
 
+const RAW_BASE = "https://raw.githubusercontent.com/jeffreymead1977-ship-it/Crossect-/main/docs/data/digests";
+
 async function loadDigest(id) {
   const digestFile = `${encodeURIComponent(id)}.json`;
   state.currentDigest = await fetchJson([
     `data/digests/${digestFile}`,
     `../data/digests/${digestFile}`,
+    RAW_BASE + `/${digestFile}`,
     `api/digests/${encodeURIComponent(id)}`
   ]);
   state.activeSection = "All";
@@ -685,7 +688,12 @@ async function loadDigest(id) {
 }
 
 async function loadDigests() {
-  const body = await fetchJson(["data/digests/index.json", "../data/digests/index.json", "api/digests"]);
+  const body = await fetchJson([
+    "data/digests/index.json",
+    "../data/digests/index.json",
+    RAW_BASE + "/index.json",
+    "api/digests"
+  ]);
   state.digests = body.digests || [];
   renderDigestOptions();
 
