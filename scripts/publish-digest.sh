@@ -41,8 +41,18 @@ echo "Found changed digest files:"
 echo "$CHANGED_DIGEST_FILES"
 echo ""
 
-# Step 2: Enrich images (download/cache article images for GitHub Pages)
+# If the only change is today-expanded.json (LLM job output), rename it first
 DIGEST_PATH="$REPO_ROOT/docs/data/digests/${DIGEST_DATE}-expanded.json"
+if [ ! -f "$DIGEST_PATH" ]; then
+  TODAY_FILE="$REPO_ROOT/docs/data/digests/today-expanded.json"
+  if [ -f "$TODAY_FILE" ]; then
+    echo "Found today-expanded.json — renaming to $DIGEST_DATE-expanded.json..."
+    cp "$TODAY_FILE" "$DIGEST_PATH"
+    git add -- "$DIGEST_PATH"
+  fi
+fi
+
+# Step 2: Enrich images (download/cache article images for GitHub Pages)
 if [ -f "$DIGEST_PATH" ]; then
   echo "Step 1/3: Running image enrichment..."
   node ./scripts/enrich-digest-images.mjs "$DIGEST_PATH" || {
