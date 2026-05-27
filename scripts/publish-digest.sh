@@ -30,8 +30,8 @@ if [ -z "$ORIGIN" ]; then
   exit 1
 fi
 
-# Step 1: Check if there are any changes in docs/data/digests
-CHANGED_DIGEST_FILES=$(git status --porcelain -- docs/data/digests)
+# Step 1: Check if there are any changes in data/digests
+CHANGED_DIGEST_FILES=$(git status --porcelain -- data/digests)
 if [ -z "$CHANGED_DIGEST_FILES" ]; then
   echo "No digest changes to publish."
   exit 0
@@ -42,9 +42,9 @@ echo "$CHANGED_DIGEST_FILES"
 echo ""
 
 # If the only change is today-expanded.json (LLM job output), rename it first
-DIGEST_PATH="$REPO_ROOT/docs/data/digests/${DIGEST_DATE}-expanded.json"
+DIGEST_PATH="$REPO_ROOT/data/digests/${DIGEST_DATE}-expanded.json"
 if [ ! -f "$DIGEST_PATH" ]; then
-  TODAY_FILE="$REPO_ROOT/docs/data/digests/today-expanded.json"
+  TODAY_FILE="$REPO_ROOT/data/digests/today-expanded.json"
   if [ -f "$TODAY_FILE" ]; then
     echo "Found today-expanded.json — renaming to $DIGEST_DATE-expanded.json..."
     cp "$TODAY_FILE" "$DIGEST_PATH"
@@ -68,7 +68,7 @@ if [ -f "$DIGEST_PATH" ]; then
   echo ""
   echo "Step 2/3: Validating digest freshness..."
   VALIDATION_OK=true
-  node ./scripts/validate-digest-freshness.mjs "$DIGEST_PATH" "./docs/data/digests" || VALIDATION_OK=false
+  node ./scripts/validate-digest-freshness.mjs "$DIGEST_PATH" "./data/digests" || VALIDATION_OK=false
   
   if [ "$VALIDATION_OK" = false ]; then
     echo "ERROR: Digest freshness validation failed. Regenerate $DIGEST_DATE with fresher current-day sources before publishing." >&2
@@ -81,7 +81,8 @@ else
 fi
 
 # Step 4: Update index.json if it exists (metadata for the app)
-if [ -f "$REPO_ROOT/docs/index.json" ]; then
+INDEX_JSON="$REPO_ROOT/data/digests/index.json"
+if [ -f "$INDEX_JSON" ]; then
   echo ""
   echo "Step 3/3: Updating index.json..."
   # Rebuild index.json with latest digest info
@@ -89,7 +90,7 @@ if [ -f "$REPO_ROOT/docs/index.json" ]; then
 import json, os, glob
 
 digests_dir = "$DIGEST_PATH".rsplit("/", 1)[0]
-index_path = "$REPO_ROOT/docs/index.json"
+index_path = "$INDEX_JSON"
 
 # Load existing index or create new
 if os.path.exists(index_path):
@@ -136,13 +137,13 @@ fi
 echo ""
 echo "--- Git Operations ---"
 
-git add -- docs/data/digests
-if [ -f "$REPO_ROOT/docs/index.json" ]; then
-  git add -- docs/index.json
+git add -- data/digests
+if [ -f "$INDEX_JSON" ]; then
+  git add -- data/digests/index.json
 fi
 
 # Check if there are staged changes
-if ! git diff --cached --quiet -- docs/data/digests; then
+if ! git diff --cached --quiet -- data/digests; then
   : # Changes exist, continue with commit
 else
   echo "No staged digest changes to publish."

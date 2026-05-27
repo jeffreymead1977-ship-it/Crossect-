@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const digestPath = path.resolve(process.argv[2] || "docs/data/digests/2026-05-16-expanded.json");
+const digestPath = path.resolve(process.argv[2] || "data/digests/2026-05-16-expanded.json");
 const htmlCache = new Map();
 
 function decodeEntities(value = "") {
