@@ -1,158 +1,374 @@
 {
+  "id": "2026-05-27-expanded",
   "date": "2026-05-27",
+  "title": "Daily Source Digest",
+  "generatedAt": "2026-05-27T06:05:46.701345+08:00",
+  "updatedAfternoon": "2026-05-27T15:00:00+08:00",
+  "note": "Daily source-balanced news digest \u2014 updated with afternoon breaking news.",
   "sections": [
     {
-      "name": "Technology",
+      "name": "World / US / Geopolitics",
       "stories": [
         {
-          "title": "Apple MacBook Air M5 & MacBook Pro M5 Reviews",
+          "title": "US launches new strikes on Iran, targeting missile sites and boats",
+          "summary": "The US military launched new strikes on southern Iran near Bandar Abbas, targeting Iranian missile sites and boats attempting to place mines in the Strait of Hormuz. US Central Command said the strikes were taken in 'self-defense' during an ongoing ceasefire. The attack comes as senior Iranian negotiators are in Qatar for talks with Qatar's PM to end the war. CBS reports that US intelligence believes Iran's Supreme Leader Mojtaba Khamenei \u2014 injured in an Israeli strike on day one of the war \u2014 is holed up in an undisclosed location, complicating communications and delaying pace of negotiations.",
           "links": [
-            {"url": "https://www.theguardian.com/technology/macbook-air-m5-review", "headline": "MacBook Air M5 review: Apple's best consumer laptop speeds up", "excerpt": "The new M5 chip delivers significant performance gains in the MacBook Air, making it Apple's fastest consumer laptop yet.", "source": "The Guardian Technology"},
-            {"url": "https://www.theguardian.com/technology/macbook-pro-m5-review", "headline": "MacBook Pro M5 review: serious power, still long battery life", "excerpt": "Apple's MacBook Pro with M5 offers serious computing power while maintaining the excellent battery life users expect.", "source": "The Guardian Technology"}
-          ]
+            {
+              "outlet": "BBC News",
+              "headline": "US launches new strikes on Iran, targeting missile sites and boats",
+              "excerpt": "The US said it launched new strikes on southern Iran, targeting Iranian missile sites and boats attempting to place mines.",
+              "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Major broadcaster",
+              "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg",
+              "imageAlt": "US launches new strikes on Iran, targeting missile sites and boats"
+            },
+            {
+              "outlet": "ABC News Australia",
+              "headline": "US military strikes Iranian boats and missile launch sites",
+              "excerpt": "US Centcom says the strikes were designed 'to protect our troops from threats posed by Iranian forces'.",
+              "url": "https://www.abc.net.au/news/2026-05-27/us-military-strikes-iranian-boats-missile-launch-sites/106721678",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/4fee7007bf544176846f577299275e3c?impolicy=wcms_watermark_news&cropH=542&cropW=963&xPos=237&yPos=12&width=862&height=485&imformat=generic",
+              "imageAlt": "US military strikes Iranian boats and missile launch sites"
+            }
+          ],
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg",
+          "imageAlt": "US launches new strikes on Iran, targeting missile sites and boats",
+          "imageCredit": "BBC News"
         },
         {
-          "title": "Delivery Robots in Los Angeles",
+          "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+          "summary": "Israel launched a fresh wave of strikes across Lebanon following PM Benjamin Netanyahu's announcement that Israel would 'increase the intensity' of attacks on Hezbollah. The IDF struck targets in the Bekaa Valley and other parts of eastern Lebanon. Hezbollah retaliated with 22 drone and rocket attacks targeting Israeli soldiers, tanks and barracks. Since the April ceasefire, over 400 people have been killed in Lebanon by heavy Israeli bombardment and ten Israeli soldiers killed. Lebanese President Joseph Aoun has demanded a complete Israeli withdrawal from southern Lebanon.",
           "links": [
-            {"url": "https://www.theguardian.com/technology/delivery-robots-la", "headline": "Delivery robots are spreading across LA. Residents 'both pity and hate them'", "excerpt": "Autonomous delivery robots are proliferating on LA sidewalks, sparking mixed reactions from residents who find them both amusing and obstructive.", "source": "The Guardian Technology"}
-          ]
+            {
+              "outlet": "BBC News",
+              "headline": "Netanyahu says Israel will intensify strikes against Hezbollah",
+              "excerpt": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+              "url": "https://www.bbc.com/news/articles/c9d330wqq2zo",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Major broadcaster",
+              "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e021/live/f636a680-58ce-11f1-89a3-d1f559421220.jpg",
+              "imageAlt": "Netanyahu says Israel will intensify strikes against Hezbollah"
+            }
+          ],
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e021/live/f636a680-58ce-11f1-89a3-d1f559421220.jpg",
+          "imageAlt": "Netanyahu says Israel will intensify strikes against Hezbollah",
+          "imageCredit": "BBC News"
         },
         {
-          "title": "Universal Music Group & TikTok AI Agreement",
+          "title": "Russia hits Kyiv with Oreshnik hypersonic missile in one of largest attacks since war began",
+          "summary": "Russia unleashed one of its largest aerial assaults on Kyiv since the start of the four-year war, firing its nuclear-capable Oreshnik hypersonic ballistic missile \u2014 only the third time it has been used in conflict. The attack caused ceilings to crumble in metro stations and sent hundreds into underground shelters. Moscow warned foreigners to leave Ukraine as analysts say Putin's 'ego is bruised' following Ukrainian long-range strikes on Russian infrastructure. European leaders condemned the use of the weapon as 'reckless'.",
           "links": [
-            {"url": "https://techcrunch.com/umg-tiktok-ai-agreement", "headline": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music", "excerpt": "UMG and TikTok have renewed their partnership with a focus on preventing the use of AI to generate unauthorized music content.", "source": "TechCrunch"}
-          ]
+            {
+              "outlet": "ABC News Australia",
+              "headline": "Hypersonic missile attack a sign of Putin's 'bruised ego', expert says",
+              "excerpt": "Russia escalates attacks on Kyiv, using a hypersonic missile in one of its largest assaults on the Ukrainian capital since the start of the four-year war.",
+              "url": "https://www.abc.net.au/news/2026-05-27/russia-responds-to-ukraine-advantage-with-hypersonic-missile/106683822",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a17b2147a4c17f28b78ac0fa07e75dee?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+              "imageAlt": "Hypersonic missile attack a sign of Putin's 'bruised ego', expert says"
+            }
+          ],
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a17b2147a4c17f28b78ac0fa07e75dee?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+          "imageAlt": "Hypersonic missile attack a sign of Putin's 'bruised ego', expert says",
+          "imageCredit": "ABC News Australia"
         },
         {
-          "title": "American Airlines & Starlink Wi-Fi",
+          "title": "Trump pushes Arab recognition of Israel in Iran deal framework as Rubio reports progress",
+          "summary": "Trump demanded Arab nations recognise Israel as part of any Iran war settlement. Iran's foreign ministry signalled the Strait of Hormuz crossing would not be free even with a deal. Oil prices slid on hopes the strait may reopen as negotiations intensify.",
           "links": [
-            {"url": "https://www.theverge.com/american-airlines-starlink", "headline": "American Airlines is getting Starlink Wi-Fi", "excerpt": "American Airlines will equip its fleet with SpaceX's Starlink satellite internet, promising faster in-flight connectivity.", "source": "The Verge"}
-          ]
+            {
+              "outlet": "ABC News Australia",
+              "headline": "Trump demands Arab nations recognise Israel as part of Iran war deal",
+              "excerpt": "Trump pushed Gulf leaders to sign the Abraham Accords as part of any regional peace framework.",
+              "url": "https://www.abc.net.au/news/2026-05-27/trump-arab-nations-recognise-israel-iran-war-deal/106720000",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/9ba4de1cdf4d97b810a05c0e3bc268d7?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+              "imageAlt": "Trump demands Arab nations recognise Israel as part of Iran war deal"
+            },
+            {
+              "outlet": "ABC News Australia",
+              "headline": "Iran says 'no tolls' on Strait of Hormuz, but warns everything has a cost",
+              "excerpt": "ABC's reporter inside Iran \u2014 the spokesperson signalled crossing would not be entirely free.",
+              "url": "https://www.abc.net.au/news/2026-05-27/iran-no-tolls-strait-of-hormuz-warns-cost/106720010",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ab98dfa46bfabac2e5346d81cec144b7?impolicy=wcms_watermark_news&cropH=2590&cropW=4605&xPos=0&yPos=48&width=862&height=485&imformat=generic",
+              "imageAlt": "Iran says 'no tolls' on Strait of Hormuz, but warns everything has a cost"
+            }
+          ],
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/9ba4de1cdf4d97b810a05c0e3bc268d7?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+          "imageAlt": "Trump demands Arab nations recognise Israel as part of Iran war deal",
+          "imageCredit": "ABC News Australia"
         },
         {
-          "title": "Memory V — Virtual Moog Synthesizer",
+          "title": "At least 20 hospitalised after substance sprayed at Tokyo's Ginza 6 mall",
+          "summary": "A man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre in Tokyo, sending at least 20 people to hospital. Authorities identified the irritant as likely containing capsaicin from chilli peppers.",
           "links": [
-            {"url": "https://www.theverge.com/memory-v-moog", "headline": "Memory V re-creates the Memorymoog without the massive headaches or price tag", "excerpt": "A new virtual instrument faithfully recreates the legendary Moog Memorymoog synthesizer at a fraction of the cost and complexity.", "source": "The Verge"}
-          ]
+            {
+              "outlet": "ABC News Australia",
+              "headline": "More than 20 hospitalised after substance sprayed in Tokyo mall",
+              "excerpt": "ABC adds details about the evacuation and the suspected substance analysis.",
+              "url": "https://www.abc.net.au/news/2026-05-27/tokyo-ginza-mall-substance-incident/106719800",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/71fa0c08fb381f174518b2f8f03cf975?impolicy=wcms_watermark_news&cropH=2481&cropW=4411&xPos=294&yPos=526&width=862&height=485&imformat=generic",
+              "imageAlt": "More than 20 hospitalised after substance sprayed in Tokyo mall"
+            }
+          ],
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/71fa0c08fb381f174518b2f8f03cf975?impolicy=wcms_watermark_news&cropH=2481&cropW=4411&xPos=294&yPos=526&width=862&height=485&imformat=generic",
+          "imageAlt": "More than 20 hospitalised after substance sprayed in Tokyo mall",
+          "imageCredit": "ABC News Australia"
         },
         {
-          "title": "Other Tech News",
+          "title": "Teals eye party structure to fill Liberal vacuum and counter One Nation",
+          "summary": "The Teal independents are exploring forming a formal party structure, a move that could reshape Australia's political landscape ahead of the next election by filling the Liberal Party's moderate vacuum.",
           "links": [
-            {"url": "https://www.theguardian.com/technology", "headline": "Guardian Technology: Latest headlines from the tech section", "excerpt": "Coverage of major technology developments including AI, consumer electronics, and digital policy.", "source": "The Guardian Technology"},
-            {"url": "https://techcrunch.com", "headline": "TechCrunch: Startup and venture capital news", "excerpt": "Breaking news on startups, funding rounds, and the broader tech industry landscape.", "source": "TechCrunch"},
-            {"url": "https://www.theverge.com", "headline": "The Verge: Consumer technology coverage", "excerpt": "Reviews, news, and analysis of consumer gadgets, science, and digital culture.", "source": "The Verge"}
-          ]
+            {
+              "outlet": "The Guardian",
+              "headline": "Teals eye party structure to fill Liberal vacuum and counter One Nation",
+              "excerpt": "The Guardian reports on discussions among Teal MPs about forming a formal political party.",
+              "url": "https://www.theguardian.com/australia-news/2026/may/26/teals-eye-party-structure-to-fill-liberal-vacuum-and-counter-one-nation",
+              "bias": "Lean Left",
+              "confidence": "high",
+              "quality": "Major newspaper",
+              "imageUrl": "https://i.guim.co.uk/img/media/b050980ebfc45cdf95b41350dd420032cce78826/619_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1905683e6f0f141698ee0df12f505954",
+              "imageAlt": "Teals eye party structure to fill Liberal vacuum and counter One Nation"
+            }
+          ],
+          "imageUrl": "https://i.guim.co.uk/img/media/b050980ebfc45cdf95b41350dd420032cce78826/619_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1905683e6f0f141698ee0df12f505954",
+          "imageAlt": "Teals eye party structure to fill Liberal vacuum and counter One Nation",
+          "imageCredit": "The Guardian"
         }
       ]
     },
     {
-      "name": "Australia & Pacific",
+      "name": "Business / Tech / Aviation",
       "stories": [
         {
-          "title": "Australian Employment Services Overhaul",
+          "title": "The BHP files: leaked documents reveal world's biggest miner's climate backtrack",
+          "summary": "A joint Guardian/Four Corners investigation reveals leaked BHP internal documents showing the mining giant delayed renewable energy rollout and scrapped plans to build a beneficiation plant at its Jimblebar mine in the Pilbara. The $US1.2 billion project, 80% designed by May last year, would have cut overseas customers' emissions by 1.7 million tonnes per year \u2014 equivalent to BHP cutting 75% of its Pilbara emissions. Internal memos said it was 'not well placed to compete' for funding with higher-priority iron ore expansion projects that made the economics 'marginal'.",
           "links": [
-            {"url": "https://www.abc.net.au/employment-services-overhaul", "headline": "Employment services to get largest overhaul in 30 years", "excerpt": "The Australian government is announcing the most significant reform of employment services in three decades, aiming to improve job outcomes for disadvantaged Australians.", "source": "ABC Australia"}
-          ]
+            {
+              "outlet": "The Guardian",
+              "headline": "Revealed: the internal memo that slammed the brakes on world's biggest miner's climate push",
+              "excerpt": "Guardian investigation reveals BHP backtracked on decarbonisation across its network of mines.",
+              "url": "https://www.theguardian.com/world/ng-interactive/2026/may/25/bhp-files-internal-memo-revealed",
+              "bias": "Lean Left",
+              "confidence": "high",
+              "quality": "Major newspaper",
+              "imageUrl": "https://i.guim.co.uk/img/media/5b927d8ae3f79d4d1704c1c74719229b08b30584/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=faedaa7f9d5adb081ac44354210322de",
+              "imageAlt": "Revealed: the internal memo that slammed the brakes on world's biggest miner's climate push"
+            },
+            {
+              "outlet": "ABC News Australia (Four Corners)",
+              "headline": "BHP dumped plans for processing plant that would cut global emissions by 1.7 million tonnes a year",
+              "excerpt": "Internal BHP documents reveal the mining giant planned to set up an iron ore processing facility in the Pilbara before backing away from it entirely.",
+              "url": "https://www.abc.net.au/news/2026-05-27/bhp-dumped-pilbara-iron-ore-plant-cut-emissions-four-corners/106721700",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/5a515e7df58cf2747e4dc9bfc7115db5?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+              "imageAlt": "BHP dumped plans for processing plant that would cut global emissions by 1.7 million tonnes a year"
+            }
+          ],
+          "imageUrl": "https://i.guim.co.uk/img/media/5b927d8ae3f79d4d1704c1c74719229b08b30584/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=faedaa7f9d5adb081ac44354210322de",
+          "imageAlt": "Revealed: the internal memo that slammed the brakes on world's biggest miner's climate push",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "Philippine President Marcos Eid'l Adha Message",
+          "title": "Ferrari unveils Luce, its first fully electric car",
+          "summary": "Luxury sports car maker Ferrari has unveiled its first fully electric car \u2014 the $640,000 Luce. The five-seater was created in collaboration with Jony Ive's LoveFrom agency. Responses on social media have been polarised, ranging from 'absolute masterclass in design' to 'straight to the junkyard trash'. Ferrari plans to continue offering petrol and hybrid cars alongside the EV.",
           "links": [
-            {"url": "https://newsinfo.inquirer.net/2235142/marcos-eidl-adha-message-look-beyond-personal-desires", "headline": "Marcos Eid'l Adha message to Filipinos: Look beyond personal desires", "excerpt": "President Ferdinand Marcos Jr. joined Muslims in observance of Eid'l Adha, urging Filipinos to look beyond personal desires and embrace compassion.", "source": "Philippine Daily Inquirer"}
-          ]
-        },
-        {
-          "title": "Philippine Senate Online Voting Controversy",
-          "links": [
-            {"url": "https://www.rappler.com/senate-voting-walkout", "headline": "Clash on Senate online voting ends in walkout", "excerpt": "The Philippine Senate minority walked out over a motion to allow virtual voting, accusing the majority of 'railroading' the rule change.", "source": "Rappler World"},
-            {"url": "https://newsinfo.inquirer.net/senate-online-voting", "headline": "Senate minority: Majority rushing rule change for members with raps?", "excerpt": "Opposition senators question whether the push for virtual voting is motivated by absent members with criminal cases.", "source": "Philippine Daily Inquirer"}
-          ]
-        },
-        {
-          "title": "Australian Defence — PAF Plane Crash",
-          "links": [
-            {"url": "https://newsinfo.inquirer.net/2235142/paf-planes-crash-delays-training", "headline": "Grounding of PAF planes after crash delays training", "excerpt": "The Philippine Air Force has grounded its fleet following a crash, causing significant delays in pilot training programs.", "source": "Philippine Daily Inquirer"}
-          ]
-        },
-        {
-          "title": "Australian Regional & Social Issues",
-          "links": [
-            {"url": "https://www.abc.net.au/outback-school-rebuild", "headline": "Outback school finally set to be rebuilt after mould forced demolition", "excerpt": "A remote Australian outback school will finally be reconstructed after severe mould contamination forced its previous building's demolition.", "source": "ABC Australia"},
-            {"url": "https://www.abc.net.au/dezi-freeman-arrest", "headline": "Two men released without charge after Dezi Freeman-related arrest", "excerpt": "Police have released two men without charges following arrests connected to the Dezi Freeman case.", "source": "ABC Australia"},
-            {"url": "https://www.abc.net.au/female-driving-instructor", "headline": "The extraordinary legacy of a trailblazing female driving instructor", "excerpt": "A profile of an Australian woman who broke barriers as one of the country's first female driving instructors.", "source": "ABC Australia"},
-            {"url": "https://newsinfo.inquirer.net/chinese-workers-davao", "headline": "24 'illegal' Chinese workers held in Davao", "excerpt": "Philippine authorities detained 24 Chinese nationals for immigration violations in Davao City.", "source": "Philippine Daily Inquirer"},
-            {"url": "https://newsinfo.inquirer.net/investment-scam-suspects", "headline": "Cops catch 63 investment scam suspects", "excerpt": "Philippine police busted a large-scale investment scam operation, arresting 63 suspected fraudsters.", "source": "Philippine Daily Inquirer"},
-            {"url": "https://newsinfo.inquirer.net/ntf-elcac-npa-killings", "headline": "NTF-Elcac: Negros epicenter of NPA 'spy-tagging' killings", "excerpt": "The Philippine government's anti-communist task force identified Negros as the hotspot for NPA-linked assassinations.", "source": "Philippine Daily Inquirer"}
-          ]
+            {
+              "outlet": "BBC News",
+              "headline": "Ferrari unveils first fully electric car",
+              "excerpt": "The new model departs from the look of typical Ferraris as the Italian brand's first ever five-seater.",
+              "url": "https://www.bbc.com/news/articles/cwy22rddy5no",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Major broadcaster",
+              "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8d99/live/303f3030-58ad-11f1-9cb9-b10f27a755d1.jpg",
+              "imageAlt": "Ferrari unveils first fully electric car"
+            }
+          ],
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8d99/live/303f3030-58ad-11f1-9cb9-b10f27a755d1.jpg",
+          "imageAlt": "Ferrari unveils first fully electric car",
+          "imageCredit": "BBC News"
         }
       ]
     },
     {
-      "name": "World News",
+      "name": "Australia",
       "stories": [
         {
-          "title": "Middle East — Gaza & Lebanon",
+          "title": "Another group of ISIS-linked women and children land in Australia",
+          "summary": "A flight carrying women and children linked to the Islamic State group has touched down at Melbourne Airport. They left the Al-Roj camp in northern Syria last week and are understood to have boarded a flight from Qatar. The group includes two so-called ISIS brides and seven children, including a teenager who recently turned 18. A second group is expected to arrive in Sydney tonight. PM Albanese declared he had 'nothing but contempt for anyone who has any sympathy with ISIS' and warned they would face the full force of the law. Three women from an earlier return were arrested and charged on arrival.",
           "links": [
-            {"url": "https://www.aljazeera.com/gaza-pilgrims-blocked", "headline": "Children perform 'mini Hajj' in Gaza as Israel blocks pilgrims", "excerpt": "With real pilgrimage to Mecca blocked for Gazans, children stage a symbolic mini-Hajj ceremony amid the ongoing humanitarian crisis.", "source": "Al Jazeera"},
-            {"url": "https://www.aljazeera.com/lebanon-strikes", "headline": "Aftermath of deadly Israeli strikes in southern Lebanon", "excerpt": "Deadly Israeli airstrikes have hit southern Lebanon, adding to the escalating violence along the Israel-Lebanon border.", "source": "Al Jazeera"},
-            {"url": "https://www.wsj.com/trump-gaza-refugees-egypt-jordan", "headline": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan", "excerpt": "President Trump has floated the controversial proposal of relocating Gaza's population to Egypt and Jordan.", "source": "Wall Street Journal"}
-          ]
+            {
+              "outlet": "ABC News Australia",
+              "headline": "Another group of women and children linked to Islamic State group return to Australia",
+              "excerpt": "The plane believed to be carrying a number of ISIS-linked women and children arrived at Melbourne Airport this afternoon.",
+              "url": "https://www.abc.net.au/news/2026-05-27/nsw-isis-linked-women-and-children-sydney-melbourne-airports/106723786",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e1396979466fc2d3e2200b7859f52e4b?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+              "imageAlt": "Another group of women and children linked to Islamic State group return to Australia"
+            }
+          ],
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e1396979466fc2d3e2200b7859f52e4b?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+          "imageAlt": "Another group of women and children linked to Islamic State group return to Australia",
+          "imageCredit": "ABC News Australia"
         },
         {
-          "title": "Europe Heatwave",
+          "title": "Navy chief says Chinese flotilla in Tasman Sea stirred anxiety and anger in Australia, NZ",
+          "summary": "Incoming Chief of the Defence Force Vice Admiral Mark Hammond said China triggered 'anxiety' in Australia and 'a level of anger' in New Zealand by sending a powerful naval flotilla into the Tasman Sea last year. The incident also had an impact on the Albanese government's plan to 'uplift the lethality and commitment of the ADF at speed'. Hammond delivered a forceful defence of AUKUS, urging critics not to politicise the nuclear submarine push. He said China's circumnavigation resulted in New Zealand doubling its defence budget.",
           "links": [
-            {"url": "https://www.bbc.com/paris-heatwave", "headline": "Paris 'punishingly hot' as Western Europe hit by heatwave", "excerpt": "Western Europe is experiencing an intense heatwave, with Paris and other major cities recording extreme temperatures.", "source": "BBC World"}
-          ]
+            {
+              "outlet": "ABC News Australia",
+              "headline": "Navy chief says Chinese flotilla in Tasman Sea stirred anxiety and anger in Australia, NZ",
+              "excerpt": "Australia's Chief of Navy says China stirred 'anger' in New Zealand when it sent a powerful naval flotilla into the Tasman Sea last year.",
+              "url": "https://www.abc.net.au/news/2026-05-27/navy-chief-chinese-flotilla-in-tasman-sea-impact/106723960",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b726c9792ecb01a0019095ce24dd9aac?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+              "imageAlt": "Navy chief says Chinese flotilla in Tasman Sea stirred anxiety and anger in Australia, NZ"
+            }
+          ],
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b726c9792ecb01a0019095ce24dd9aac?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+          "imageAlt": "Navy chief says Chinese flotilla in Tasman Sea stirred anxiety and anger in Australia, NZ",
+          "imageCredit": "ABC News Australia"
         },
         {
-          "title": "Armenia-US Strategic Partnership",
+          "title": "Dozens of drones crash into Sydney harbour after light show glitch",
+          "summary": "Almost 90 drones fell from the sky over Sydney's Darling Harbour during Vivid Sydney's 'Star-Bound' drone show. Skymagic, the UK company behind the display, blamed an unforeseen change in radio frequency environment that triggered failsafe landing procedures. The drones splashed into Cockle Bay waters close to crowds. Two upcoming shows have been cancelled and a full safety assessment will be conducted before decisions on remaining scheduled shows.",
           "links": [
-            {"url": "https://www.aljazeera.com/armenia-us-partnership", "headline": "Armenia signs strategic partnership deal with US as election approaches", "excerpt": "Armenia has signed a new strategic partnership agreement with the United States, shifting its geopolitical alignment ahead of domestic elections.", "source": "Al Jazeera"}
-          ]
+            {
+              "outlet": "BBC News",
+              "headline": "Vivid Sydney: Dozens of drones crash into Sydney harbour during light show glitch",
+              "excerpt": "Organisers of Vivid Sydney said the malfunction was due to 'unforeseen technical difficulties' and have cancelled two upcoming shows.",
+              "url": "https://www.bbc.com/news/articles/c9d330wqq2zo",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Major broadcaster",
+              "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e021/live/f636a680-58ce-11f1-89a3-d1f559421220.jpg",
+              "imageAlt": "Vivid Sydney: Dozens of drones crash into Sydney harbour during light show glitch"
+            }
+          ],
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e021/live/f636a680-58ce-11f1-89a3-d1f559421220.jpg",
+          "imageAlt": "Vivid Sydney: Dozens of drones crash into Sydney harbour during light show glitch",
+          "imageCredit": "BBC News"
         },
         {
-          "title": "India Entertainment — Zee & World Cup",
+          "title": "Labor consults on CGT carve-outs as tax reform debate intensifies",
+          "summary": "PM Albanese confirmed Labor will proceed with changes to negative gearing and capital gains tax. The government consulted with business on possible carve-outs while facing opposition from property groups.",
           "links": [
-            {"url": "https://www.aljazeera.com/india-world-cup-broadcast", "headline": "India's World Cup broadcast hopes boosted by Zee Entertainment talks", "excerpt": "Negotiations involving Zee Entertainment are improving prospects for India to secure broadcasting rights for the upcoming Cricket World Cup.", "source": "Al Jazeera"}
-          ]
+            {
+              "outlet": "ABC News Australia",
+              "headline": "Labor consults on CGT carve-outs as businesses call for reset",
+              "excerpt": "Government consults with industry on potential business exemptions to tax reform.",
+              "url": "https://www.abc.net.au/news/2026-05-27/labor-consults-on-cgt-carve-outs-as-businesses-call-for-reset/106720056",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c855cc7ae358c5a38ea834c0565238bf?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+              "imageAlt": "Labor consults on CGT carve-outs as businesses call for reset"
+            },
+            {
+              "outlet": "Sydney Morning Herald",
+              "headline": "Labor presses ahead with CGT overhaul as business lobby cries foul",
+              "excerpt": "SMH adds business reaction and potential impact on the housing market.",
+              "url": "https://www.smh.com.au/politics/federal/labor-cgt-negative-gearing-20260526-p600k4.html",
+              "bias": "Center",
+              "confidence": "medium",
+              "quality": "Major newspaper",
+              "imageUrl": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/6c1d6b5affb0e50eb752e7f1e2c48c8fe78129e7",
+              "imageAlt": "Labor presses ahead with CGT overhaul as business lobby cries foul"
+            }
+          ],
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c855cc7ae358c5a38ea834c0565238bf?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+          "imageAlt": "Labor consults on CGT carve-outs as businesses call for reset",
+          "imageCredit": "ABC News Australia"
         },
         {
-          "title": "Ghana Football — Partey Named in Squad",
+          "title": "Xi's banquet diplomacy: Albanese snubbed as China-Australia ties cool",
+          "summary": "ABC analysis reveals the diplomatic signals behind Xi Jinping's recent visit, with Albanese excluded from key banquet events in a snub highlighting cooling China-Australia relations.",
           "links": [
-            {"url": "https://www.aljazeera.com/partey-ghana-world-cup-squad", "headline": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup", "excerpt": "Arsenal's Thomas Partey has been included in Ghana's preliminary squad for the upcoming World Cup tournament.", "source": "Al Jazeera"}
-          ]
+            {
+              "outlet": "ABC News Australia",
+              "headline": "Inside Xi's banquet diplomacy and why Albanese missed out on Peking duck",
+              "excerpt": "ABC analysis reveals diplomatic signals behind seating arrangements and menu choices.",
+              "url": "https://www.abc.net.au/news/2026-05-27/menu-state-banquet-china-food-diplomacy-xi-jinping-donald-trump/106657710",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a71d993ef5edc8cc1199955e700da060?impolicy=wcms_watermark_news&cropH=2050&cropW=3645&xPos=1103&yPos=1041&width=862&height=485&imformat=generic",
+              "imageAlt": "Inside Xi's banquet diplomacy and why Albanese missed out on Peking duck"
+            }
+          ],
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a71d993ef5edc8cc1199955e700da060?impolicy=wcms_watermark_news&cropH=2050&cropW=3645&xPos=1103&yPos=1041&width=862&height=485&imformat=generic",
+          "imageAlt": "Inside Xi's banquet diplomacy and why Albanese missed out on Peking duck",
+          "imageCredit": "ABC News Australia"
         },
         {
-          "title": "US Immigration & Taxes",
+          "title": "Lismore flood survivors begin moving homes to higher ground in landmark adaptation project",
+          "summary": "Residents of Lismore, repeatedly devastated by floods, are moving their homes to higher ground in a landmark community-led climate adaptation project that could serve as a model for other flood-prone areas.",
           "links": [
-            {"url": "https://www.cnn.com/undocumented-immigrants-taxes", "headline": "Undocumented immigrants are paying their taxes today, too", "excerpt": "A look at how undocumented immigrants contribute to the US tax system despite lacking legal status.", "source": "CNN Top Stories"}
-          ]
+            {
+              "outlet": "The Guardian",
+              "headline": "Lismore flood survivors begin moving homes to higher ground",
+              "excerpt": "The Guardian reports on the community-led relocation project as a model for climate adaptation.",
+              "url": "https://www.theguardian.com/australia-news/2026/may/26/lismore-home-move-higher-ground-floods-nsw",
+              "bias": "Lean Left",
+              "confidence": "high",
+              "quality": "Major newspaper",
+              "imageUrl": "https://i.guim.co.uk/img/media/0dbab79d3606eaff6a41f9ec74da2d3430ab7b6c/77_0_3698_2959/master/3698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e295bf9237c5d7bced22e2b3913dee26",
+              "imageAlt": "Lismore flood survivors begin moving homes to higher ground"
+            }
+          ],
+          "imageUrl": "https://i.guim.co.uk/img/media/0dbab79d3606eaff6a41f9ec74da2d3430ab7b6c/77_0_3698_2959/master/3698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e295bf9237c5d7bced22e2b3913dee26",
+          "imageAlt": "Lismore flood survivors begin moving homes to higher ground",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "Other World News",
+          "title": "AVG Travels enters liquidation, leaving customers stranded",
+          "summary": "Melbourne-based travel company AVG Travels has entered liquidation a week after customers reported tours being cancelled or placed under review just days before departure. Insolvency firm McGrathNicol was appointed liquidator and ongoing operations have been suspended. The ABC has been contacted by more than 100 customers, with a Facebook support group now having over 860 members.",
           "links": [
-            {"url": "https://www.bbc.com/world", "headline": "BBC World: International news roundup", "excerpt": "Comprehensive coverage of global events from the BBC's world news team.", "source": "BBC World"},
-            {"url": "https://www.cnn.com/world", "headline": "CNN Top Stories: Breaking international news", "excerpt": "Latest breaking news and analysis from CNN's global network of correspondents.", "source": "CNN Top Stories"}
-          ]
+            {
+              "outlet": "ABC News Australia",
+              "headline": "'Very scary and sad': Travellers in limbo after company enters liquidation",
+              "excerpt": "An Australian travel company selling heavily discounted international holidays has collapsed, leaving customers scrambling.",
+              "url": "https://www.abc.net.au/news/2026-05-27/avg-travels-enters-liquidation/106723448",
+              "bias": "Center",
+              "confidence": "high",
+              "quality": "Public broadcaster",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/edc8fa7d642311cb888d543b32c61673?impolicy=wcms_watermark_news&cropH=1193&cropW=2120&xPos=0&yPos=38&width=862&height=485&imformat=generic",
+              "imageAlt": "'Very scary and sad': Travellers in limbo after company enters liquidation"
+            }
+          ],
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/edc8fa7d642311cb888d543b32c61673?impolicy=wcms_watermark_news&cropH=1193&cropW=2120&xPos=0&yPos=38&width=862&height=485&imformat=generic",
+          "imageAlt": "'Very scary and sad': Travellers in limbo after company enters liquidation",
+          "imageCredit": "ABC News Australia"
         }
       ]
     },
     {
-      "name": "Business & Economy",
-      "stories": [
-        {
-          "title": "Trump Gaza Relocation Proposal",
-          "links": [
-            {"url": "https://www.wsj.com/trump-gaza-refugees-egypt-jordan", "headline": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to WSJ", "excerpt": "President Trump's proposal to relocate Gaza refugees has drawn international attention and criticism.", "source": "Wall Street Journal"}
-          ]
-        },
-        {
-          "title": "Other Business & Economy News",
-          "links": [
-            {"url": "https://www.wsj.com", "headline": "Wall Street Journal: Markets, finance, and business news", "excerpt": "Comprehensive coverage of global financial markets, corporate developments, and economic policy.", "source": "Wall Street Journal"},
-            {"url": "https://newsinfo.inquirer.net/housing-tax-reform", "headline": "Guardian Essential report on housing and tax reform", "excerpt": "Analysis of Australian housing market dynamics and proposed tax reforms affecting property investors.", "source": "The Guardian Australia"}
-          ]
-        }
-      ]
+      "name": "Philippines",
+      "stories": []
     }
-  ]
+  ],
+  "updatedAt": "2026-05-27T06:30:13.179440"
 }
