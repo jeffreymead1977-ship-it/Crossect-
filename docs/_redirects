@@ -1,0 +1,2 @@
+# GitHub Pages redirects — map legacy API paths to static data files
+/api/digests/*  /data/digests/:splat  200

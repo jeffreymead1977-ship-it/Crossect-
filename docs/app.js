@@ -671,13 +671,18 @@ function render() {
 
 const RAW_BASE = "https://raw.githubusercontent.com/jeffreymead1977-ship-it/Crossect-/main/docs/data/digests";
 
+// Compute the correct data path regardless of whether user lands on root or docs/
+(function () {
+  var parts = window.location.pathname.split("/").filter(Boolean);
+  var repoName = parts[0] || "";
+  window.__DATA_BASE = "/" + repoName + "/docs/data/digests";
+})();
+
 async function loadDigest(id) {
   const digestFile = `${encodeURIComponent(id)}.json`;
   state.currentDigest = await fetchJson([
-    `data/digests/${digestFile}`,
-    `../data/digests/${digestFile}`,
-    RAW_BASE + `/${digestFile}`,
-    `api/digests/${encodeURIComponent(id)}`
+    window.__DATA_BASE + `/${digestFile}`,
+    RAW_BASE + `/${digestFile}`
   ]);
   state.activeSection = "All";
   state.bias = "All";
@@ -689,10 +694,8 @@ async function loadDigest(id) {
 
 async function loadDigests() {
   const body = await fetchJson([
-    "data/digests/index.json",
-    "../data/digests/index.json",
-    RAW_BASE + "/index.json",
-    "api/digests"
+    window.__DATA_BASE + "/index.json",
+    RAW_BASE + "/index.json"
   ]);
   state.digests = body.digests || [];
   renderDigestOptions();
