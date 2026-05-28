@@ -41,15 +41,13 @@ echo "Found changed digest files:"
 echo "$CHANGED_DIGEST_FILES"
 echo ""
 
-# If the only change is today-expanded.json (LLM job output), rename it first
+# If today-expanded.json exists, copy it over the dated digest (always use fresh data)
 DIGEST_PATH="$REPO_ROOT/docs/data/digests/${DIGEST_DATE}-expanded.json"
-if [ ! -f "$DIGEST_PATH" ]; then
-  TODAY_FILE="$REPO_ROOT/docs/data/digests/today-expanded.json"
-  if [ -f "$TODAY_FILE" ]; then
-    echo "Found today-expanded.json — renaming to $DIGEST_DATE-expanded.json..."
-    cp "$TODAY_FILE" "$DIGEST_PATH"
-    git add -- "$DIGEST_PATH"
-  fi
+TODAY_FILE="$REPO_ROOT/docs/data/digests/today-expanded.json"
+if [ -f "$TODAY_FILE" ]; then
+  echo "Found today-expanded.json — copying to $DIGEST_DATE-expanded.json..."
+  cp "$TODAY_FILE" "$DIGEST_PATH"
+  git add -- "$DIGEST_PATH"
 fi
 
 # Step 2: Enrich images (download/cache article images for GitHub Pages)
@@ -112,10 +110,15 @@ for df in digest_files[:10]:  # Keep last 10
         sections = data.get("sections", [])
         total_stories = sum(len(s.get("stories", [])) for s in sections)
         recent_digests.append({
-            "date": date_str,
-            "stories": total_stories,
-            "sections": len(sections),
-            "filename": basename
+            "id": basename,
+            "date": data.get("date", date_str),
+            "title": data.get("title", "Daily Source Digest"),
+            "generatedAt": data.get("generatedAt", ""),
+            "note": data.get("note", ""),
+            "sectionCount": len(sections),
+            "storyCount": total_stories,
+            "sourceCount": sum(len(s.get("stories", [])) for s in sections),
+            "sections": [{"name": s.get("name", ""), "storyCount": len(s.get("stories", []))} for s in sections]
         })
     except:
         pass
