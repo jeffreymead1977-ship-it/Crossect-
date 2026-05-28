@@ -679,10 +679,10 @@ const RAW_BASE = "https://raw.githubusercontent.com/jeffreymead1977-ship-it/Cros
 })();
 
 async function loadDigest(id) {
-  const digestFile = `${encodeURIComponent(id)}.json`;
+  const digestFile = encodeURIComponent(id);
   state.currentDigest = await fetchJson([
-    window.__DATA_BASE + `/${digestFile}`,
-    RAW_BASE + `/${digestFile}`
+    window.__DATA_BASE + "/" + digestFile,
+    RAW_BASE + "/" + digestFile
   ]);
   state.activeSection = "All";
   state.bias = "All";
