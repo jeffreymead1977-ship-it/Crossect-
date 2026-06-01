@@ -56,6 +56,10 @@ if [ -f "$DIGEST_PATH" ]; then
   node ./scripts/enrich-digest-images.mjs "$DIGEST_PATH" || {
     echo "WARNING: Image enrichment failed or had issues. Continuing anyway." >&2
   }
+  if [ -f "$TODAY_FILE" ]; then
+    echo "Syncing enriched digest back to today-expanded.json..."
+    cp "$DIGEST_PATH" "$TODAY_FILE"
+  fi
   echo "Image enrichment complete."
 else
   echo "No expanded digest found at $DIGEST_PATH — skipping image enrichment."
