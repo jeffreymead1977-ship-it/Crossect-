@@ -17,9 +17,9 @@ else
   if echo "$SCRIPT_DIR" | grep -q "hermes"; then
     # Detect which job by checking CRONJOB_JOB_ID env var
     if [ "${CRONJOB_JOB_ID:-}" = "7cd80014ef0c" ]; then
-      OUTPUT="/Users/e4042381/Crossect-/docs/data/feeds/afternoon.json"
+      OUTPUT="/Users/e4042381/github/crossect-/docs/data/feeds/afternoon.json"
     else
-      OUTPUT="/Users/e4042381/Crossect-/docs/data/feeds/morning.json"
+      OUTPUT="/Users/e4042381/github/crossect-/docs/data/feeds/morning.json"
     fi
     FEED_LIST="${SCRIPT_DIR}/feeds.txt"
   else

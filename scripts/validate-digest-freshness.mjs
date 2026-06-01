@@ -102,23 +102,33 @@ async function readJson(filePath) {
   return JSON.parse(await fs.readFile(filePath, "utf8"));
 }
 
+function isPreviousDigest(digest, current) {
+  return digest?.id !== current.id && digest?.date < current.date;
+}
+
 async function findPreviousDigest(current) {
   const indexPath = path.join(digestsDir, "index.json");
   const index = await readJson(indexPath).catch(() => ({ digests: [] }));
-  const previousEntry = (index.digests || [])
-    .filter((entry) => entry.id !== current.id && entry.date < current.date)
-    .sort((a, b) => b.date.localeCompare(a.date))[0];
+  const indexEntries = (index.digests || [])
+    .filter((entry) => entry.date < current.date)
+    .sort((a, b) => b.date.localeCompare(a.date));
 
-  if (previousEntry?.id) {
-    return readJson(path.join(digestsDir, `${previousEntry.id}.json`));
+  for (const entry of indexEntries) {
+    if (!entry.id) continue;
+    const entryPath = path.resolve(digestsDir, entry.id.endsWith(".json") ? entry.id : `${entry.id}.json`);
+    if (entryPath === currentPath) continue;
+    const digest = await readJson(entryPath).catch(() => null);
+    if (isPreviousDigest(digest, current)) return digest;
   }
 
   const files = await fs.readdir(digestsDir);
   const candidates = [];
   for (const file of files) {
     if (!file.endsWith(".json") || file === "index.json") continue;
-    const digest = await readJson(path.join(digestsDir, file)).catch(() => null);
-    if (digest?.id !== current.id && digest?.date < current.date) candidates.push(digest);
+    const filePath = path.resolve(digestsDir, file);
+    if (filePath === currentPath) continue;
+    const digest = await readJson(filePath).catch(() => null);
+    if (isPreviousDigest(digest, current)) candidates.push(digest);
   }
   return candidates.sort((a, b) => b.date.localeCompare(a.date))[0] || null;
 }
