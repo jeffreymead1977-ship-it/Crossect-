@@ -2,13 +2,13 @@
   "digests": [
     {
       "id": "today-expanded.json",
-      "date": "2026-05-29",
+      "date": "2026-06-01",
       "title": "Daily Source Digest",
-      "generatedAt": "2026-05-29T06:29:13.315849",
+      "generatedAt": "2026-06-01T18:12:04.726218",
       "note": "Daily source-balanced news digest \u2014 morning update.",
       "sectionCount": 4,
-      "storyCount": 24,
-      "sourceCount": 24,
+      "storyCount": 25,
+      "sourceCount": 25,
       "sections": [
         {
           "name": "World / Geopolitics",
@@ -24,7 +24,35 @@
         },
         {
           "name": "Asia Pacific",
-          "storyCount": 4
+          "storyCount": 5
+        }
+      ]
+    },
+    {
+      "id": "2026-06-01-expanded.json",
+      "date": "2026-06-01",
+      "title": "Daily Source Digest",
+      "generatedAt": "2026-06-01T18:12:04.726218",
+      "note": "Daily source-balanced news digest \u2014 morning update.",
+      "sectionCount": 4,
+      "storyCount": 25,
+      "sourceCount": 25,
+      "sections": [
+        {
+          "name": "World / Geopolitics",
+          "storyCount": 5
+        },
+        {
+          "name": "Australia",
+          "storyCount": 5
+        },
+        {
+          "name": "Technology",
+          "storyCount": 10
+        },
+        {
+          "name": "Asia Pacific",
+          "storyCount": 5
         }
       ]
     },
@@ -259,35 +287,7 @@
           "storyCount": 1
         }
       ]
-    },
-    {
-      "id": "2026-05-19-expanded.json",
-      "date": "2026-05-19",
-      "title": "Daily Source Digest",
-      "generatedAt": "2026-05-19T06:30:00+08:00",
-      "note": "Daily source-balanced news digest.",
-      "sectionCount": 4,
-      "storyCount": 16,
-      "sourceCount": 16,
-      "sections": [
-        {
-          "name": "World / US / Geopolitics",
-          "storyCount": 8
-        },
-        {
-          "name": "Business / Tech / Policy",
-          "storyCount": 3
-        },
-        {
-          "name": "Australia",
-          "storyCount": 3
-        },
-        {
-          "name": "Philippines",
-          "storyCount": 2
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-05-29"
+  "lastUpdated": "2026-06-01"
 }
