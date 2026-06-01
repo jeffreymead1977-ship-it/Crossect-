@@ -41,6 +41,21 @@ const reliabilityScale = [
   ["high", "High"]
 ];
 
+const sourceMetadata = {
+  "abc.net.au": { bias: "Center", confidence: "high", outlet: "ABC News" },
+  "aljazeera.com": { bias: "Lean Left", confidence: "medium", outlet: "Al Jazeera" },
+  "bbc.co.uk": { bias: "Center", confidence: "high", outlet: "BBC" },
+  "bbc.com": { bias: "Center", confidence: "high", outlet: "BBC" },
+  "cnn.com": { bias: "Lean Left", confidence: "medium", outlet: "CNN" },
+  "inquirer.net": { bias: "Center", confidence: "medium", outlet: "Philippine Daily Inquirer" },
+  "rappler.com": { bias: "Center", confidence: "medium", outlet: "Rappler" },
+  "techcrunch.com": { bias: "Center", confidence: "medium", outlet: "TechCrunch" },
+  "theguardian.com": { bias: "Lean Left", confidence: "high", outlet: "The Guardian" },
+  "theverge.com": { bias: "Lean Left", confidence: "medium", outlet: "The Verge" },
+  "sj.com": { bias: "Lean Right", confidence: "high", outlet: "Wall Street Journal" },
+  "wsj.com": { bias: "Lean Right", confidence: "high", outlet: "Wall Street Journal" }
+};
+
 const sunIcon = `
   <svg viewBox="0 0 24 24" aria-hidden="true">
     <circle cx="12" cy="12" r="4"></circle>
@@ -112,8 +127,41 @@ function segmentClass(value) {
   return "u";
 }
 
+function sourceKey(link) {
+  const value = link?.source || link?.outlet || link?.url || "";
+  try {
+    const host = value.includes("://") ? new URL(value).hostname : value;
+    return host.toLowerCase().replace(/^www\./, "");
+  } catch (error) {
+    return String(value || "").toLowerCase().replace(/^www\./, "");
+  }
+}
+
+function sourceMeta(link) {
+  const key = sourceKey(link);
+  const host = key.split("/")[0];
+  const matchedKey = Object.keys(sourceMetadata).find((source) => host === source || host.endsWith(`.${source}`));
+  return sourceMetadata[key] || sourceMetadata[host] || sourceMetadata[matchedKey] || {};
+}
+
+function linkBias(link) {
+  return normalizeBias(link?.bias || link?.alignment || sourceMeta(link).bias);
+}
+
 function confidenceValue(value) {
-  return String(value || "unknown").toLowerCase();
+  const text = String(value || "").trim().toLowerCase();
+  if (/^(hi|high|strong|trusted|reliable|a|b)$/.test(text)) return "high";
+  if (/^(med|medium|moderate|mixed|c)$/.test(text)) return "medium";
+  if (/^(lo|low|weak|unreliable|d|f)$/.test(text)) return "low";
+  return "unknown";
+}
+
+function linkConfidence(link) {
+  return confidenceValue(link?.confidence || link?.reliability || link?.quality || sourceMeta(link).confidence);
+}
+
+function linkOutlet(link) {
+  return textValue(link?.outlet || sourceMeta(link).outlet || link?.source || sourceKey(link));
 }
 
 function alignmentActiveValues(bias) {
@@ -174,7 +222,7 @@ function allLinks(digest = state.currentDigest) {
 
 function countBias(links) {
   return links.reduce((counts, link) => {
-    const key = normalizeBias(link.bias);
+    const key = linkBias(link);
     counts[key] = (counts[key] || 0) + 1;
     return counts;
   }, {});
@@ -190,7 +238,7 @@ function storyMatches(story) {
     story.summary,
     story.section,
     story.imageCredit,
-    ...(story.links || []).flatMap((link) => [link.outlet, link.headline, link.excerpt, link.bias, link.quality])
+    ...(story.links || []).flatMap((link) => [linkOutlet(link), link.headline, link.excerpt, linkBias(link), linkConfidence(link), link.quality])
   ]
     .join(" ")
     .toLowerCase();
@@ -198,10 +246,10 @@ function storyMatches(story) {
   const hasSearch = !state.search || haystack.includes(state.search.toLowerCase());
   const hasSection = state.activeSection === "All" || story.section === state.activeSection;
   const hasBias =
-    state.bias === "All" || (story.links || []).some((link) => normalizeBias(link.bias) === state.bias);
+    state.bias === "All" || (story.links || []).some((link) => linkBias(link) === state.bias);
   const hasConfidence =
     state.confidence === "All" ||
-    (story.links || []).some((link) => confidenceValue(link.confidence) === state.confidence);
+    (story.links || []).some((link) => linkConfidence(link) === state.confidence);
 
   return hasSearch && hasSection && hasBias && hasConfidence;
 }
@@ -262,10 +310,10 @@ function renderFilters() {
   const digest = state.currentDigest;
   const sections = ["All", ...(digest?.sections || []).map((section) => section.name)];
   const links = allLinks(digest);
-  const biases = ["All", ...biasOrder.filter((bias) => links.some((link) => normalizeBias(link.bias) === bias))];
+  const biases = ["All", ...biasOrder.filter((bias) => links.some((link) => linkBias(link) === bias))];
   const confidences = [
     "All",
-    ...Array.from(new Set(links.map((link) => confidenceValue(link.confidence)).filter(Boolean))).sort()
+    ...Array.from(new Set(links.map((link) => linkConfidence(link)).filter(Boolean))).sort()
   ];
 
   els.sectionFilter.replaceChildren(...sections.map((section) => option(section)));
@@ -335,8 +383,8 @@ function primaryStoryImage(story) {
 
   return {
     src: safeImageUrl(source.imageUrl),
-    alt: textValue(source.imageAlt) || source.headline || source.outlet || "Article preview",
-    credit: textValue(source.outlet)
+    alt: textValue(source.imageAlt) || source.headline || linkOutlet(source) || "Article preview",
+    credit: linkOutlet(source)
   };
 }
 
@@ -392,7 +440,7 @@ function renderCoverageStrip(story) {
 
   for (const link of links) {
     const segment = document.createElement("div");
-    segment.className = `seg ${segmentClass(link.bias)}`;
+    segment.className = `seg ${segmentClass(linkBias(link))}`;
     wrapper.append(segment);
   }
 
@@ -415,7 +463,7 @@ function renderSourceRow(link) {
     const thumb = document.createElement("img");
     thumb.className = "source-thumb";
     thumb.src = thumbUrl;
-    thumb.alt = textValue(link.imageAlt) || link.outlet || "Article preview";
+    thumb.alt = textValue(link.imageAlt) || linkOutlet(link) || "Article preview";
     thumb.loading = "lazy";
     thumb.addEventListener("error", () => thumb.remove());
     sourceMain.append(thumb);
@@ -428,11 +476,11 @@ function renderSourceRow(link) {
   anchor.href = link.url;
   anchor.target = "_blank";
   anchor.rel = "noopener noreferrer";
-  anchor.textContent = link.headline || link.outlet || "Source";
+  anchor.textContent = link.headline || linkOutlet(link) || "Source";
 
   const outlet = document.createElement("span");
   outlet.className = "source-outlet";
-  outlet.textContent = link.headline && link.outlet ? link.outlet : "";
+  outlet.textContent = link.headline ? linkOutlet(link) : "";
 
   const excerpt = document.createElement("span");
   excerpt.className = "source-excerpt";
@@ -443,8 +491,8 @@ function renderSourceRow(link) {
   if (excerpt.textContent) sourceCopy.append(excerpt);
   sourceMain.append(sourceCopy);
 
-  const bias = normalizeBias(link.bias);
-  const confidence = confidenceValue(link.confidence);
+  const bias = linkBias(link);
+  const confidence = linkConfidence(link);
   const indicators = document.createElement("div");
   indicators.className = "source-indicators";
   indicators.append(
