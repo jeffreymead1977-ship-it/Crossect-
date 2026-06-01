@@ -679,7 +679,8 @@ const RAW_BASE = "https://raw.githubusercontent.com/jeffreymead1977-ship-it/Cros
 })();
 
 async function loadDigest(id) {
-  const digestFile = `${encodeURIComponent(id)}.json`;
+  const digestId = String(id || "today-expanded.json");
+  const digestFile = encodeURIComponent(digestId.endsWith(".json") ? digestId : `${digestId}.json`);
   state.currentDigest = await fetchJson([
     window.__DATA_BASE + `/${digestFile}`,
     RAW_BASE + `/${digestFile}`
