@@ -2,30 +2,30 @@
   "id": "2026-06-03-expanded",
   "date": "2026-06-03",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-03T03:05:57.117234",
+  "generatedAt": "2026-06-03T04:33:58.381709",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-03T03:05:57",
+  "updatedAt": "2026-06-03T04:33:58",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve",
-          "summary": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve. NFF president Lise Klaveness has called on FIFA to scrap the FIFA Peace Prize award to protect its political neutrality.",
+          "title": "McCarthy slams Biden in handling of US debt",
+          "summary": "McCarthy slams Biden in handling of US debt. House Speaker Kevin McCarthy traveled to Wall Street on Monday to deliver a fresh warning that the House GOP majority will refuse to lift a cap on government borrowing unless Biden agrees to spending cuts that would effectively neutralize his domestic agenda.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/sports/2026/6/2/norwegian-fa-supports-ethics-complaint-against-fifa-chief-infantino?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve",
-              "excerpt": "NFF president Lise Klaveness has called on FIFA to scrap the FIFA Peace Prize award to protect its political neutrality.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP25170540268760-1780418647.jpg?resize=1920%2C1440",
-              "imageAlt": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve",
-              "outlet": "Al Jazeera",
+              "url": "https://www.cnn.com/videos/politics/2023/04/18/kevin-mccarthy-wall-street-speech-debt-ceiling-biden-economy-vpx.cnn",
+              "source": "CNN Top Stories",
+              "headline": "McCarthy slams Biden in handling of US debt",
+              "excerpt": "House Speaker Kevin McCarthy traveled to Wall Street on Monday to deliver a fresh warning that the House GOP majority will refuse to lift a cap on government borrowing unless Biden agrees to spending cuts that would effectively neutralize his domestic agenda.",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418162757-mccarthy-biden-super-169.jpg",
+              "imageAlt": "McCarthy slams Biden in handling of US debt",
+              "outlet": "CNN",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "article-text: Right cue(s): (government waste|spending cuts|deficit reduction)",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
@@ -33,138 +33,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP25170540268760-1780418647.jpg?resize=1920%2C1440",
-          "imageAlt": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve",
-          "imageCredit": "Al Jazeera"
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418162757-mccarthy-biden-super-169.jpg",
+          "imageAlt": "McCarthy slams Biden in handling of US debt",
+          "imageCredit": "CNN"
         },
         {
-          "title": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
-          "summary": "Iran’s supreme leader appears more active as talks continue: US’s Rubio. Tehran has agreed to discuss previously off-limits aspects of its nuclear file, US State Secretary tells lawmakers.",
+          "title": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
+          "summary": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday. Fans set a new world record for the largest gathering of people dressed as Marilyn Monroe to celebrate what would have been the legendary actress’ centenary.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
-              "excerpt": "Tehran has agreed to discuss previously off-limits aspects of its nuclear file, US State Secretary tells lawmakers.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a1f086ed843-1780418670.jpg?resize=1920%2C1440",
-              "imageAlt": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a1f086ed843-1780418670.jpg?resize=1920%2C1440",
-          "imageAlt": "Iran’s supreme leader appears more active as talks continue: US’s Rubio",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "French PM to fast-track security bill after PSG football violence and riots",
-          "summary": "French PM to fast-track security bill after PSG football violence and riots. More than 200 people were arrested in France following PSG's Champions League win, which followed semifinal disorder.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/sports/2026/6/2/french-pm-to-fast-track-security-bill-after-psg-football-violence-and-riots?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "French PM to fast-track security bill after PSG football violence and riots",
-              "excerpt": "More than 200 people were arrested in France following PSG's Champions League win, which followed semifinal disorder.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-05-30T223438Z_174001134_UP1EM5U1QPP6M_RTRMADP_3_SOCCER-CHAMPIONS-PSG-ARS-PARIS-1780417720.jpg?resize=1920%2C1440",
-              "imageAlt": "French PM to fast-track security bill after PSG football violence and riots",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-05-30T223438Z_174001134_UP1EM5U1QPP6M_RTRMADP_3_SOCCER-CHAMPIONS-PSG-ARS-PARIS-1780417720.jpg?resize=1920%2C1440",
-          "imageAlt": "French PM to fast-track security bill after PSG football violence and riots",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "UK police bodycam video shows wrongful arrest of dying teen",
-          "summary": "UK police bodycam video shows wrongful arrest of dying teen. Newly-released bodycam video shows the moment UK police wrongfully arrested 18-year-old Henry Nowak as he was dying.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/uk-police-bodycam-video-shows-wrongful-arrest-of-dying-teen-2?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "UK police bodycam video shows wrongful arrest of dying teen",
-              "excerpt": "Newly-released bodycam video shows the moment UK police wrongfully arrested 18-year-old Henry Nowak as he was dying.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780420427.jpg?resize=1920%2C1074&quality=80",
-              "imageAlt": "UK police bodycam video shows wrongful arrest of dying teen",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780420427.jpg?resize=1920%2C1074&quality=80",
-          "imageAlt": "UK police bodycam video shows wrongful arrest of dying teen",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Scene of damaged hospital after Israeli strike in southern Lebanon",
-          "summary": "Scene of damaged hospital after Israeli strike in southern Lebanon. Al Jazeera’s Obaida Hitto is at the scene of Jabal Amel Hospital, which was ‘significantly damaged’ in Israeli attacks.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Scene of damaged hospital after Israeli strike in southern Lebanon",
-              "excerpt": "Al Jazeera’s Obaida Hitto is at the scene of Jabal Amel Hospital, which was ‘significantly damaged’ in Israeli attacks.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780419924.jpg?resize=1920%2C1076&quality=80",
-              "imageAlt": "Scene of damaged hospital after Israeli strike in southern Lebanon",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780419924.jpg?resize=1920%2C1076&quality=80",
-          "imageAlt": "Scene of damaged hospital after Israeli strike in southern Lebanon",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Mysteriously missing New Jersey congressman receives Trump endorsement",
-          "summary": "Mysteriously missing New Jersey congressman receives Trump endorsement. Republican Congressman Tom Kean Jr has not been seen for months but is expected to win Tuesday's election.",
-          "links": [
-            {
-              "url": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Mysteriously missing New Jersey congressman receives Trump endorsement",
-              "excerpt": "Republican Congressman Tom Kean Jr has not been seen for months but is expected to win Tuesday's election.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b9/live/d5510eb0-5ea5-11f1-9c69-5be5e9be5821.jpg",
-              "imageAlt": "Mysteriously missing New Jersey congressman receives Trump endorsement",
+              "headline": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
+              "excerpt": "Fans set a new world record for the largest gathering of people dressed as Marilyn Monroe to celebrate what would have been the legendary actress’ centenary.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b800/live/fd48f800-5d84-11f1-9eb5-ab3a963c44d3.jpg",
+              "imageAlt": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -179,130 +63,155 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b9/live/d5510eb0-5ea5-11f1-9c69-5be5e9be5821.jpg",
-          "imageAlt": "Mysteriously missing New Jersey congressman receives Trump endorsement",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b800/live/fd48f800-5d84-11f1-9eb5-ab3a963c44d3.jpg",
+          "imageAlt": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
           "imageCredit": "BBC"
         },
         {
-          "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-          "summary": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold. Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+          "title": "Top secrets come spilling out",
+          "summary": "Top secrets come spilling out.\n\nIn 1917, British analysts deciphered a coded message the German foreign minister sent to one of his country's diplomats vowing to begin \"unrestricted submarine warfare\" and seeking to win over Mexico with a promise to \"reconquer the lost territory in Texas, New Mexico and Arizona\" if the US entered the world war.\n\nWhen it became public, the Zimmerman Telegram caused a sensation, helping propel the US into the conflict against Germany.",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-              "excerpt": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e350/live/d8c88660-5e9e-11f1-9c69-5be5e9be5821.jpg",
-              "imageAlt": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "url": "https://www.cnn.com/2023/04/16/opinions/top-secrets-come-spilling-out-opinion-column-galant/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Top secrets come spilling out",
+              "excerpt": "In 1917, British analysts deciphered a coded message the German foreign minister sent to one of his country's diplomats vowing to begin \"unrestricted submarine warfare\" and seeking to win over Mexico with a promise to \"reconquer the lost territory in Texas, New Mexico and Arizona\" if the US entered the world war. When it became public, the Zimmerman Telegram caused a sensation, helping propel the US into the conflict against Germany.",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
+              "imageAlt": "Top secrets come spilling out",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e350/live/d8c88660-5e9e-11f1-9c69-5be5e9be5821.jpg",
-          "imageAlt": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
+          "imageAlt": "Top secrets come spilling out",
+          "imageCredit": "CNN"
         },
         {
-          "title": "British couple lose Iran jail sentence appeal, family says",
-          "summary": "British couple lose Iran jail sentence appeal, family says. Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
+          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
+          "summary": "Why isn't the House Judiciary Committee looking into Thomas?. On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\".",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "British couple lose Iran jail sentence appeal, family says",
-              "excerpt": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aede/live/aad19c60-28ed-11f1-a95f-75471ca6e71e.jpg",
-              "imageAlt": "British couple lose Iran jail sentence appeal, family says",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
+              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
+              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[7]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aede/live/aad19c60-28ed-11f1-a95f-75471ca6e71e.jpg",
-          "imageAlt": "British couple lose Iran jail sentence appeal, family says",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
+          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
+          "imageCredit": "CNN"
         },
         {
-          "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-          "summary": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan. The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
+          "title": "Review: 'Barry' takes a whack at its farewell season",
+          "summary": "Review: 'Barry' takes a whack at its farewell season. \"Barry\" has taken chances from the very beginning, which is certainly true of a fourth and final season that picks up where the third left off, with its hitman-turned-wannabe actor getting arrested.\n\nThat paves the way for an even darker season that accentuates the show's ensemble aspect while leaning a little too heavily on blurring lines with flights of fancy.",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-              "excerpt": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aefc/live/23fb5880-5e52-11f1-a8d1-c3a6936cb189.jpg",
-              "imageAlt": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "url": "https://www.cnn.com/2023/04/14/entertainment/barry-season-4-review/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Review: 'Barry' takes a whack at its farewell season",
+              "excerpt": "\"Barry\" has taken chances from the very beginning, which is certainly true of a fourth and final season that picks up where the third left off, with its hitman-turned-wannabe actor getting arrested. That paves the way for an even darker season that accentuates the show's ensemble aspect while leaning a little too heavily on blurring lines with flights of fancy.",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230412113212-01-barry-season-4-super-169.jpg",
+              "imageAlt": "Review: 'Barry' takes a whack at its farewell season",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aefc/live/23fb5880-5e52-11f1-a8d1-c3a6936cb189.jpg",
-          "imageAlt": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230412113212-01-barry-season-4-super-169.jpg",
+          "imageAlt": "Review: 'Barry' takes a whack at its farewell season",
+          "imageCredit": "CNN"
         },
         {
-          "title": "Canada formally requests renewal of North American free trade pact",
-          "summary": "Canada formally requests renewal of North American free trade pact. In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA trade deal.",
+          "title": "FDA clears the way for additional bivalent boosters for certain vulnerable individuals",
+          "summary": "FDA clears the way for additional bivalent boosters for certain vulnerable individuals. The U.S. Food and Drug Administration amended the terms of its emergency use authorizations for the Pfizer and Moderna bivalent vaccines on Tuesday, allowing people ages 65 and older and certain people with weakened immunity to get additional doses before this fall's vaccination campaigns.",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Canada formally requests renewal of North American free trade pact",
-              "excerpt": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA trade deal.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eecf/live/1a0fa640-5e94-11f1-926a-77cd300adf90.jpg",
-              "imageAlt": "Canada formally requests renewal of North American free trade pact",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "url": "https://www.cnn.com/2023/04/18/health/fda-bivalent-booster-additional-doses/index.html",
+              "source": "CNN Top Stories",
+              "headline": "FDA clears the way for additional bivalent boosters for certain vulnerable individuals",
+              "excerpt": "The U.S. Food and Drug Administration amended the terms of its emergency use authorizations for the Pfizer and Moderna bivalent vaccines on Tuesday, allowing people ages 65 and older and certain people with weakened immunity to get additional doses before this fall's vaccination campaigns.",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418103631-covid-vaccine-booster-bivalent-super-169.jpg",
+              "imageAlt": "FDA clears the way for additional bivalent boosters for certain vulnerable individuals",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[9]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eecf/live/1a0fa640-5e94-11f1-926a-77cd300adf90.jpg",
-          "imageAlt": "Canada formally requests renewal of North American free trade pact",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418103631-covid-vaccine-booster-bivalent-super-169.jpg",
+          "imageAlt": "FDA clears the way for additional bivalent boosters for certain vulnerable individuals",
+          "imageCredit": "CNN"
+        },
+        {
+          "title": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams",
+          "summary": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams. Artificial intelligence tools such as ChatGPT could lead to a \"turbocharging\" of consumer harms including fraud and scams, and the US government has substantial authority to crack down on AI-driven consumer harms under existing law, members of the Federal Trade Commission said Tuesday.",
+          "links": [
+            {
+              "url": "https://www.cnn.com/2023/04/18/tech/lina-khan-ai-warning/index.html",
+              "source": "CNN Top Stories",
+              "headline": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams",
+              "excerpt": "Artificial intelligence tools such as ChatGPT could lead to a \"turbocharging\" of consumer harms including fraud and scams, and the US government has substantial authority to crack down on AI-driven consumer harms under existing law, members of the Federal Trade Commission said Tuesday.",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418125823-02-internet-user-stock-super-169.jpg",
+              "imageAlt": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418125823-02-internet-user-stock-super-169.jpg",
+          "imageAlt": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams",
+          "imageCredit": "CNN"
         }
       ]
     },
@@ -310,16 +219,16 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Quiz: Hold on to your hat, we're off on a tour of the globe",
-          "summary": "Quiz: Hold on to your hat, we're off on a tour of the globe. The famous US road trip along Route 66 links which two cities?\n\nAnd which country eats the most garlic per person?",
+          "title": "Expensive watches, work bags and gold-plated stationary claimed in SA Health scheme",
+          "summary": "Expensive watches, work bags and gold-plated stationary claimed in SA Health scheme. The Independent Commission Against Corruption (ICAC) has called for stronger governance of professional development reimbursements for public sector medical officers, with some staff making claims for luxury items like watches and work bags.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-06-03/travel-quiz-june-3/106620560",
+              "url": "https://www.abc.net.au/news/2026-06-02/sa-icac-expenses-claimed-by-sa-health-staff/106751276",
               "source": "ABC Australia",
-              "headline": "Quiz: Hold on to your hat, we're off on a tour of the globe",
-              "excerpt": "The famous US road trip along Route 66 links which two cities? And which country eats the most garlic per person?",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/44e23f9574b51e4cec59cada45a86843?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-              "imageAlt": "Quiz: Hold on to your hat, we're off on a tour of the globe",
+              "headline": "Expensive watches, work bags and gold-plated stationary claimed in SA Health scheme",
+              "excerpt": "The Independent Commission Against Corruption (ICAC) has called for stronger governance of professional development reimbursements for public sector medical officers, with some staff making claims for luxury items like watches and work bags.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b3b0fe78979b266878b1ae1d7b87026c?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=730&width=862&height=485",
+              "imageAlt": "Expensive watches, work bags and gold-plated stationary claimed in SA Health scheme",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -334,58 +243,28 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[10]",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/44e23f9574b51e4cec59cada45a86843?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-          "imageAlt": "Quiz: Hold on to your hat, we're off on a tour of the globe",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b3b0fe78979b266878b1ae1d7b87026c?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=730&width=862&height=485",
+          "imageAlt": "Expensive watches, work bags and gold-plated stationary claimed in SA Health scheme",
           "imageCredit": "ABC News"
         },
         {
-          "title": "This rapper was having panic attacks on stage, until he transitioned",
-          "summary": "This rapper was having panic attacks on stage, until he transitioned. Poet, rapper, musician, playwright, and novelist, Kae Tempest is a prodigious polymath.\n\nIt wasn't until he affirmed his gender that he connected with his true self.",
+          "title": "Trucking in a fuel crisis: the Australian drivers sacrificing their paycheck for diesel – video",
+          "summary": "Trucking in a fuel crisis: the Australian drivers sacrificing their paycheck for diesel – video. Frank is a truck owner-driver, meaning he owns his own truck, picks up contracts wherever he happens to be in Australia and pays for his own fuel.\n\nHe can spend up to two months at a time on the road, and lives by the rule-of-thumb that one third of a job's pay should go to fuel, one third should go to truck maintenance and the remaining third is his wages. But the war in Iran, leading to increased diesel prices, has put significant financial strain on this model.\n\nCoupled with historically sli.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-06-03/kae-tempest-interview-transitioning-australia-self-titled/106750532",
-              "source": "ABC Australia",
-              "headline": "This rapper was having panic attacks on stage, until he transitioned",
-              "excerpt": "Poet, rapper, musician, playwright, and novelist, Kae Tempest is a prodigious polymath. It wasn't until he affirmed his gender that he connected with his true self.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/8604924283f117d3fdc8363f830aeaef?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=375&width=862&height=485",
-              "imageAlt": "This rapper was having panic attacks on stage, until he transitioned",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[11]",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/8604924283f117d3fdc8363f830aeaef?impolicy=wcms_crop_resize&cropH=1125&cropW=2000&xPos=0&yPos=375&width=862&height=485",
-          "imageAlt": "This rapper was having panic attacks on stage, until he transitioned",
-          "imageCredit": "ABC News"
-        },
-        {
-          "title": "Trump signs executive order seeking early access to new AI releases",
-          "summary": "Trump signs executive order seeking early access to new AI releases. Under new rules, tech companies will be asked to share AI models with government for review before public release Donald Trump signed an executive order to create a voluntary framework for the federal government to vet powerful new AI models before they.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review",
-              "source": "The Guardian Technology",
-              "headline": "Trump signs executive order seeking early access to new AI releases",
-              "excerpt": "<p>Under new rules, tech companies will be asked to share AI models with government for review before public release</p><p>Donald Trump signed an <a href=\"https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/\">executive order</a> to create a voluntary framework for the federal government to vet powerful new AI models before they",
-              "imageUrl": "https://i.guim.co.uk/img/media/c5cba33af1567905ced9113cb0b1db454b271b04/287_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=36aa842ef8d8f07b4858f8f826a21968",
-              "imageAlt": "Trump signs executive order seeking early access to new AI releases",
+              "url": "https://www.theguardian.com/world/video/2026/may/30/trucking-in-a-fuel-crisis-the-australian-driver-sacrificing-his-paycheck-for-diesel-video",
+              "source": "The Guardian Australia",
+              "headline": "Trucking in a fuel crisis: the Australian drivers sacrificing their paycheck for diesel – video",
+              "excerpt": "Frank is a truck owner-driver, meaning he owns his own truck, picks up contracts wherever he happens to be in Australia and pays for his own fuel. He can spend up to two months at a time on the road, and lives by the rule-of-thumb that one third of a job's pay should go to fuel, one third should go to truck maintenance and the remaining third is his wages. But the war in Iran, leading to increased diesel prices, has put significant financial strain on this model. Coupled with historically sli",
+              "imageUrl": "https://i.guim.co.uk/img/media/c9ba2c1058ccc78ac2b7c51ad718924379bc2472/377_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0ae252ca5d279a310d2fbc7bbe39b6d6",
+              "imageAlt": "Trucking in a fuel crisis: the Australian drivers sacrificing their paycheck for diesel – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
@@ -393,38 +272,67 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
-          "imageUrl": "https://i.guim.co.uk/img/media/c5cba33af1567905ced9113cb0b1db454b271b04/287_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=36aa842ef8d8f07b4858f8f826a21968",
-          "imageAlt": "Trump signs executive order seeking early access to new AI releases",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://i.guim.co.uk/img/media/c9ba2c1058ccc78ac2b7c51ad718924379bc2472/377_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0ae252ca5d279a310d2fbc7bbe39b6d6",
+          "imageAlt": "Trucking in a fuel crisis: the Australian drivers sacrificing their paycheck for diesel – video",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
-          "summary": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened. Rolling coverage of the latest economic and financial news Anthropic confidentially files for initial public offering on US stock market In a landmark moment, gold has overtaken US government bonds as the world’s top reserve asset, according to calculations from the European C.",
+          "title": "David Pocock highlights ‘bonkers’ situation facing podcasts over gambling ad opt-out – video",
+          "summary": "David Pocock highlights ‘bonkers’ situation facing podcasts over gambling ad opt-out – video.\n\nLive-read sponsorships on podcasts would be included in proposed online advertising restrictions to gambling ads, officials confirmed in Senate estimates, which independent senator David Pocock said would be a 'bonkers' situation requiring podcasters to upload multiple versions of a podcast.\n\nUnder the proposed restrictions, streaming platforms can only have gambling ads for users who are over 18 and have logged in and must allow users to opt out of seeing or hearing such advertisements, in or.",
           "links": [
             {
-              "url": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
-              "source": "The Guardian Technology",
-              "headline": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
-              "excerpt": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo\">Anthropic confidentially files for initial public offering on US stock market</a></p></li></ul><p><strong>In a landmark moment, gold has overtaken US government bonds as the world’s top reserve asset, according to calculations from the European C",
-              "imageUrl": "https://i.guim.co.uk/img/media/48c2f1158b35ff75cb2edcbb613c747af1215f74/0_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=813fec0e09dd392ef8ac6542da1d373c",
-              "imageAlt": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
+              "url": "https://www.theguardian.com/australia-news/video/2026/may/27/senator-david-pocock-on-gambling-podcast-ad-rules",
+              "source": "The Guardian Australia",
+              "headline": "David Pocock highlights ‘bonkers’ situation facing podcasts over gambling ad opt-out – video",
+              "excerpt": "Live-read sponsorships on podcasts would be included in proposed online advertising restrictions to gambling ads, officials confirmed in Senate estimates, which independent senator David Pocock said would be a 'bonkers' situation requiring podcasters to upload multiple versions of a podcast. Under the proposed restrictions, streaming platforms can only have gambling ads for users who are over 18 and have logged in and must allow users to opt out of seeing or hearing such advertisements, in or",
+              "imageUrl": "https://i.guim.co.uk/img/media/5196252580c4a4ffbf24359a30aaab02845ddf1d/477_0_5468_4374/master/5468.jpg?width=140&quality=85&auto=format&fit=max&s=3f1ea1995483513ce80533a028a0de65",
+              "imageAlt": "David Pocock highlights ‘bonkers’ situation facing podcasts over gambling ad opt-out – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
-          "imageUrl": "https://i.guim.co.uk/img/media/48c2f1158b35ff75cb2edcbb613c747af1215f74/0_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=813fec0e09dd392ef8ac6542da1d373c",
-          "imageAlt": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://i.guim.co.uk/img/media/5196252580c4a4ffbf24359a30aaab02845ddf1d/477_0_5468_4374/master/5468.jpg?width=140&quality=85&auto=format&fit=max&s=3f1ea1995483513ce80533a028a0de65",
+          "imageAlt": "David Pocock highlights ‘bonkers’ situation facing podcasts over gambling ad opt-out – video",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Australian doctor says Gaza flotilla activists treated ‘worse than animals’ by Israel – video",
+          "summary": "Australian doctor says Gaza flotilla activists treated ‘worse than animals’ by Israel – video. Activists from the Global Sumud flotilla, which was attempting to break Israel’s blockade and deliver humanitarian aid to the Gaza Strip, recounted the violence they allegedly faced after being detained by Israel.\n\nBianca Webb-Pullman, an Australian doctor, said activists were handled roughly after being transferred to what she described as a prison boat before being dragged off the vessel at the port and forced into stress positions.\n\nIsrael’s far-right national security minister, <a href=\"htt.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/world/video/2026/may/22/australian-doctor-says-gaza-flotilla-activists-treated-worse-than-animals-by-israel-video",
+              "source": "The Guardian Australia",
+              "headline": "Australian doctor says Gaza flotilla activists treated ‘worse than animals’ by Israel – video",
+              "excerpt": "Activists from the Global Sumud flotilla, which was attempting to break Israel’s blockade and deliver humanitarian aid to the Gaza Strip, recounted the violence they allegedly faced after being detained by Israel. Bianca Webb-Pullman, an Australian doctor, said activists were handled roughly after being transferred to what she described as a prison boat before being dragged off the vessel at the port and forced into stress positions. Israel’s far-right national security minister, <a href=\"htt",
+              "imageUrl": "https://i.guim.co.uk/img/media/8cad1d6467610bc9ae10f4db290b25aa5493d8be/331_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=db21369ecae4b8e36bd2551b24351e5d",
+              "imageAlt": "Australian doctor says Gaza flotilla activists treated ‘worse than animals’ by Israel – video",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://i.guim.co.uk/img/media/8cad1d6467610bc9ae10f4db290b25aa5493d8be/331_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=db21369ecae4b8e36bd2551b24351e5d",
+          "imageAlt": "Australian doctor says Gaza flotilla activists treated ‘worse than animals’ by Israel – video",
           "imageCredit": "The Guardian"
         }
       ]
@@ -433,161 +341,34 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Trump signs executive order to review AI models before they’re released",
-          "summary": "Trump signs executive order to review AI models before they’re released. Pr.",
+          "title": "Trump signs executive order seeking early access to new AI releases",
+          "summary": "Trump signs executive order seeking early access to new AI releases. Under new rules, tech companies will be asked to share AI models with government for review before public release Donald Trump signed an executive order to create a voluntary framework for the federal government to vet powerful new AI models before they are released.\n\nTuesday’s highly anticipated order represents an attempt by the president to tighten. The Guardian: How big tech got its way on Trump’s AI executive order.\n\nThe Guardian reports that the US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power Only hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new artificial intelligence models before their release, the president abruptly <a h.",
           "links": [
             {
-              "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-              "source": "The Verge",
-              "headline": "Trump signs executive order to review AI models before they’re released",
-              "excerpt": "<figure> <img alt=\"A photo of Donald Trump with an illustrated background.\" data-caption=\"\" data-portal-copyright=\"Image: Cath Virginia / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100\" /> <figcaption> </figcaption> </figure> <p class=\"has-text-align-none\">Pr",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-              "imageAlt": "Trump signs executive order to review AI models before they’re released",
-              "outlet": "The Verge",
+              "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
+              "source": "The Guardian Technology",
+              "headline": "How big tech got its way on Trump’s AI executive order",
+              "excerpt": "The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power Only hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new artificial intelligence models before their release, the president abruptly <a h",
+              "imageUrl": "https://i.guim.co.uk/img/media/1fc1c3f2c938f57503782eed5cb531731e192afa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=065c45aef388a8fd12e84ff23985cb61",
+              "imageAlt": "How big tech got its way on Trump’s AI executive order",
+              "outlet": "The Guardian",
               "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
+              "sourceReliability": "high",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-          "imageAlt": "Trump signs executive order to review AI models before they’re released",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-          "summary": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts. Google is <a href=\"https://blog.",
-          "links": [
+            },
             {
-              "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-              "source": "The Verge",
-              "headline": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-              "excerpt": "<figure> <img alt=\"An image of Google’s fake call detection feature\" data-caption=\"\" data-portal-copyright=\"Image: Google\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/0.-Fake-call-detection-header.png?quality=90&strip=all&crop=0,0,100,100\" /> <figcaption> </figcaption> </figure> <p class=\"has-text-align-none\">Google is <a href=\"https://blog",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/0.-Fake-call-detection-header.png?quality=90&strip=all&crop=0%2C3.579433208423%2C100%2C92.841133583154&w=1200",
-              "imageAlt": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/0.-Fake-call-detection-header.png?quality=90&strip=all&crop=0%2C3.579433208423%2C100%2C92.841133583154&w=1200",
-          "imageAlt": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-          "summary": "Microsoft Scout is a new AI personal assistant built on OpenClaw. Much like Google, Microsoft is launching its own version of OpenClaw.\n\nMicrosoft Scout is a.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-              "source": "The Verge",
-              "headline": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-              "excerpt": "<figure> <img alt=\"\" data-caption=\"\" data-portal-copyright=\"Image: Microsoft\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&strip=all&crop=0,0,100,100\" /> <figcaption> </figcaption> </figure> <p class=\"has-text-align-none\">Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is a",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&strip=all&crop=0%2C8.7943183843327%2C100%2C82.411363231335&w=1200",
-              "imageAlt": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&strip=all&crop=0%2C8.7943183843327%2C100%2C82.411363231335&w=1200",
-          "imageAlt": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Microsoft’s first advanced reasoning AI is here",
-          "summary": "Microsoft’s first advanced reasoning AI is here. <p class=\"has-.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-              "source": "The Verge",
-              "headline": "Microsoft’s first advanced reasoning AI is here",
-              "excerpt": "<figure> <img alt=\"Vector illustration of the Microsoft logo.\" data-caption=\"\" data-portal-copyright=\"Image: Cath Virginia / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100\" /> <figcaption> </figcaption> </figure> <p class=\"has-",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-              "imageAlt": "Microsoft’s first advanced reasoning AI is here",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "imageAlt": "Microsoft’s first advanced reasoning AI is here",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "A startup, Everand, is now bundling ebooks, audiobooks, and book clubs in challenge to Amazon",
-          "summary": "A startup, Everand, is now bundling ebooks, audiobooks, and book clubs in challenge to Amazon. A new reading subscription from Everand offers access to both ebooks and audiobooks, and Fable's book club community.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/",
+              "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
               "source": "TechCrunch",
-              "headline": "A startup, Everand, is now bundling ebooks, audiobooks, and book clubs in challenge to Amazon",
-              "excerpt": "A new reading subscription from Everand offers access to both ebooks and audiobooks, and Fable's book club community.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Everand-x-Fable_03.png?resize=1200,840",
-              "imageAlt": "A startup, Everand, is now bundling ebooks, audiobooks, and book clubs in challenge to Amazon",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Everand-x-Fable_03.png?resize=1200,840",
-          "imageAlt": "A startup, Everand, is now bundling ebooks, audiobooks, and book clubs in challenge to Amazon",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-          "summary": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI. The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-              "source": "TechCrunch",
-              "headline": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-              "excerpt": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2244067270.jpg?resize=1200,800",
-              "imageAlt": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+              "headline": "Trump signs narrower executive order on AI oversight after industry objections",
+              "excerpt": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
+              "imageAlt": "Trump signs narrower executive order on AI oversight after industry objections",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -598,18 +379,54 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+              "source": "The Verge",
+              "headline": "Trump signs executive order to review AI models before they’re released",
+              "excerpt": "President Donald Trump <a href=\"https://www.whitehouse.gov/presidential-actions/2026/06/promoting-adva",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+              "imageAlt": "Trump signs executive order to review AI models before they’re released",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2244067270.jpg?resize=1200,800",
-          "imageAlt": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-          "imageCredit": "TechCrunch"
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://i.guim.co.uk/img/media/1fc1c3f2c938f57503782eed5cb531731e192afa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=065c45aef388a8fd12e84ff23985cb61",
+          "imageAlt": "How big tech got its way on Trump’s AI executive order",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-          "summary": "Microsoft launches Scout, an OpenClaw-inspired personal assistant. Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+          "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+          "summary": "Microsoft Scout is a new AI personal assistant built on OpenClaw. Much like Google, Microsoft is launching its own version of OpenClaw.\n\nMicrosoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft.\n\nTechCrunch: Microsoft launches Scout, an OpenClaw-inspired personal assistant. TechCrunch reports that launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
           "links": [
+            {
+              "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+              "source": "The Verge",
+              "headline": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+              "excerpt": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&strip=all&crop=0%2C8.7943183843327%2C100%2C82.411363231335&w=1200",
+              "imageAlt": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
             {
               "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
               "source": "TechCrunch",
@@ -630,36 +447,97 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]"
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&strip=all&crop=0%2C8.7943183843327%2C100%2C82.411363231335&w=1200",
+          "imageAlt": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+          "imageCredit": "The Verge"
         },
         {
-          "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-          "summary": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts. Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
+          "title": "Call of controversy? Call of Duty: Modern Warfare 4 imagines a revived Korean war",
+          "summary": "Call of controversy? Call of Duty: Modern Warfare 4 imagines a revived Korean war.\n\nInfinity Ward’s new game in the storied shooter genre embraces change with a potentially controversial real-world setting There was a time when Call of Duty (CoD) regularly courted controversy.\n\nIn 2009, Modern Warfare 2’s infamous “No Russian” mission saw players (optionally) shooting screaming civilians in a Moscow airport. In 2022’s entry, a drone strike mission that drew chilling parallels to the real-world US assassination of Iranian general Qassem Suleimani two years earlier was fe.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
-              "source": "TechCrunch",
-              "headline": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-              "excerpt": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/layup-parts-hq.jpeg?resize=1200,626",
-              "imageAlt": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "url": "https://www.theguardian.com/games/2026/may/28/call-of-duty-modern-warfare-4-korean-war",
+              "source": "The Guardian Technology",
+              "headline": "Call of controversy? Call of Duty: Modern Warfare 4 imagines a revived Korean war",
+              "excerpt": "Infinity Ward’s new game in the storied shooter genre embraces change with a potentially controversial real-world setting There was a time when Call of Duty (CoD) regularly courted controversy. In 2009, Modern Warfare 2’s infamous “No Russian” mission saw players (optionally) shooting screaming civilians in a Moscow airport. In 2022’s entry, a drone strike mission that drew chilling parallels to the real-world US assassination of Iranian general Qassem Suleimani two years earlier was fe",
+              "imageUrl": "https://i.guim.co.uk/img/media/753de16883ea8f862f37d6c5879cf9a3d178a280/211_90_2287_1830/master/2287.jpg?width=140&quality=85&auto=format&fit=max&s=2b55c3ff16680351b08e40a2aa0df072",
+              "imageAlt": "Call of controversy? Call of Duty: Modern Warfare 4 imagines a revived Korean war",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/layup-parts-hq.jpeg?resize=1200,626",
-          "imageAlt": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-          "imageCredit": "TechCrunch"
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://i.guim.co.uk/img/media/753de16883ea8f862f37d6c5879cf9a3d178a280/211_90_2287_1830/master/2287.jpg?width=140&quality=85&auto=format&fit=max&s=2b55c3ff16680351b08e40a2aa0df072",
+          "imageAlt": "Call of controversy? Call of Duty: Modern Warfare 4 imagines a revived Korean war",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "AI ‘art’ is boring, soulless theft – and when I see it as an artist I see red | Jess Harwood",
+          "summary": "AI ‘art’ is boring, soulless theft – and when I see it as an artist I see red | Jess Harwood. I draw the old way – with my hand.\n\nDoing it with AI would not make me more creative, it would drain the colour out of my existence Last week I went to a gig by myself for the first time.\n\nI sat myself down in my single seat, possibly the youngest person in the room and one of thousands excited to see Split Enz. I loved it – I felt joy and heartache as the lyrics spoke of human experiences, really lived.\n\nI happily realised that I did not have to wonder whether Split Enz had used AI in the.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/commentisfree/2026/may/28/ai-art-is-boring-soulless-theft-visual-artist",
+              "source": "The Guardian Technology",
+              "headline": "AI ‘art’ is boring, soulless theft – and when I see it as an artist I see red",
+              "excerpt": "I draw the old way – with my hand. Doing it with AI would not make me more creative, it would drain the colour out of my existence Last week I went to a gig by myself for the first time. I sat myself down in my single seat, possibly the youngest person in the room and one of thousands excited to see Split Enz. I loved it – I felt joy and heartache as the lyrics spoke of human experiences, really lived. I happily realised that I did not have to wonder whether Split Enz had used AI in the",
+              "imageUrl": "https://i.guim.co.uk/img/media/8c59c1993b44b6b85fb550da175ed2b186dfa563/1_0_2046_1638/master/2046.jpg?width=140&quality=85&auto=format&fit=max&s=a99ed00f1cc91c71b1f84b4530856f7e",
+              "imageAlt": "AI ‘art’ is boring, soulless theft – and when I see it as an artist I see red | Jess Harwood",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://i.guim.co.uk/img/media/8c59c1993b44b6b85fb550da175ed2b186dfa563/1_0_2046_1638/master/2046.jpg?width=140&quality=85&auto=format&fit=max&s=a99ed00f1cc91c71b1f84b4530856f7e",
+          "imageAlt": "AI ‘art’ is boring, soulless theft – and when I see it as an artist I see red | Jess Harwood",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Charities decry UK plan to use AI to assess age of young asylum seekers",
+          "summary": "Charities decry UK plan to use AI to assess age of young asylum seekers.\n\nCoalition of more than 100 organisations says move could lead to more children ending up in adult detention facilities A coalition of more than a hundred refugee children’s organisations has said controversial plans to use AI to assess the age of young asylum seekers could lead to more children wrongly ending up in adult prisons or detention centres.\n\nThe warning follows a Home Office announcement on Friday of a contract to roll out AI facial age estimation technology on young asyl.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
+              "source": "The Guardian Technology",
+              "headline": "Charities decry UK plan to use AI to assess age of young asylum seekers",
+              "excerpt": "Coalition of more than 100 organisations says move could lead to more children ending up in adult detention facilities A coalition of more than a hundred refugee children’s organisations has said controversial plans to use AI to assess the age of young asylum seekers could lead to more children wrongly ending up in adult prisons or detention centres. The warning follows a Home Office announcement on Friday of a contract to roll out AI facial age estimation technology on young asyl",
+              "imageUrl": "https://i.guim.co.uk/img/media/c3631d6aa5ecaac3fd446659bf42886de8c8abfa/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=caa201199580edd707419d4af70537aa",
+              "imageAlt": "Charities decry UK plan to use AI to assess age of young asylum seekers",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://i.guim.co.uk/img/media/c3631d6aa5ecaac3fd446659bf42886de8c8abfa/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=caa201199580edd707419d4af70537aa",
+          "imageAlt": "Charities decry UK plan to use AI to assess age of young asylum seekers",
+          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -667,17 +545,17 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Senate minority urges Cayetano to resign | The wRap",
-          "summary": "Senate minority urges Cayetano to resign | The wRap. Today’s headlines: Philippine Senate, Alan Peter Cayetano, Kiko Barzaga.",
+          "title": "3,004 out of 9,745 pass May 2026 CPA licensure exams",
+          "summary": "3,004 out of 9,745 pass May 2026 CPA licensure exams. MANILA, Philippines — A total of 3,004 out of 9,745 passed the May 2026 certified public accountants licensure examinations, said the Professional Regulation Commission (PRC) on Tuesday.\n\nThe results were released after the examinations took place across testing centers in Metro Manila, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga,. Rappler: RESULTS: May 2026 Certified Public Accountants Licensure Examination.\n\nRappler reports that pRESS RELEASE: The Professional Regulation Commission announces that 3,004 out of 9,745 passed the Certified Public Accountants Licensure Examination.",
           "links": [
             {
-              "url": "https://www.rappler.com/video/daily-wrap/june-2-2026/",
-              "source": "Rappler World",
-              "headline": "Senate minority urges Cayetano to resign",
-              "excerpt": "Today’s headlines: Philippine Senate, Alan Peter Cayetano, Kiko Barzaga",
-              "imageUrl": "https://www.rappler.com/rappler-prod-01/uploads/2026/06/THE-WRAP-LS-MAIN-11-1024x576.png",
-              "imageAlt": "Senate minority urges Cayetano to resign",
-              "outlet": "Rappler",
+              "url": "https://newsinfo.inquirer.net/2239014/3004-pass-may-2026-cpa-licensure-exams",
+              "source": "Philippine Daily Inquirer",
+              "headline": "3,004 out of 9,745 pass May 2026 CPA licensure exams",
+              "excerpt": "MANILA, Philippines — A total of 3,004 out of 9,745 passed the May 2026 certified public accountants licensure examinations, said the Professional Regulation Commission (PRC) on Tuesday. The results were released after the examinations took place across testing centers in Metro Manila, Baguio, Butuan, Cagayan de Oro, Cebu, Davao, Iloilo, Koronadal, Legazpi, Lucena, Pagadian, Pampanga,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/06/PRC-Professional-Regulation-Commission-11June2024.png",
+              "imageAlt": "3,004 out of 9,745 pass May 2026 CPA licensure exams",
+              "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
@@ -687,76 +565,7 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
-          "imageUrl": "https://www.rappler.com/rappler-prod-01/uploads/2026/06/THE-WRAP-LS-MAIN-11-1024x576.png",
-          "imageAlt": "Senate minority urges Cayetano to resign",
-          "imageCredit": "Rappler"
-        },
-        {
-          "title": "Rappler Recap: Senate majority skips session again; minority seeks Cayetano’s resignation",
-          "summary": "Rappler Recap: Senate majority skips session again; minority seeks Cayetano’s resignation. Without a quorum, the Senate is once again unable to conduct business, leaving several measures in limbo.",
-          "links": [
-            {
-              "url": "https://www.rappler.com/philippines/video-recap-senate-majority-skips-session-again-minority-seeks-alan-cayetano-resignation/",
-              "source": "Rappler World",
-              "headline": "Rappler Recap: Senate majority skips session again; minority seeks Cayetano’s resignation",
-              "excerpt": "Without a quorum, the Senate is once again unable to conduct business, leaving several measures in limbo",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/06/r5tv_wjrmmg.jpg",
-              "imageAlt": "Rappler Recap: Senate majority skips session again; minority seeks Cayetano’s resignation",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
-          "imageUrl": "https://www.rappler.com/tachyon/2026/06/r5tv_wjrmmg.jpg",
-          "imageAlt": "Rappler Recap: Senate majority skips session again; minority seeks Cayetano’s resignation",
-          "imageCredit": "Rappler"
-        },
-        {
-          "title": "Rappler Recap: Estrada, Bonoan’s arraignment rescheduled to June 4",
-          "summary": "Rappler Recap: Estrada, Bonoan’s arraignment rescheduled to June 4. Senator Jinggoy Estrada has a pending motion questioning his cases, while former public works secretary Manuel Bonoan is said to have hypertension.",
-          "links": [
-            {
-              "url": "https://www.rappler.com/philippines/video-recap-jinggoy-estrada-manuel-bonoan-graft-arraignment-rescheduled-june-2026/",
-              "source": "Rappler World",
-              "headline": "Rappler Recap: Estrada, Bonoan’s arraignment rescheduled to June 4",
-              "excerpt": "Senator Jinggoy Estrada has a pending motion questioning his cases, while former public works secretary Manuel Bonoan is said to have hypertension",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/06/jinggoy-estrada-arraignment-sandiganbayan-june-2-2026-006-scaled.jpg",
-              "imageAlt": "Rappler Recap: Estrada, Bonoan’s arraignment rescheduled to June 4",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]",
-          "imageUrl": "https://www.rappler.com/tachyon/2026/06/jinggoy-estrada-arraignment-sandiganbayan-june-2-2026-006-scaled.jpg",
-          "imageAlt": "Rappler Recap: Estrada, Bonoan’s arraignment rescheduled to June 4",
-          "imageCredit": "Rappler"
-        },
-        {
-          "title": "RESULTS: May 2026 Certified Public Accountants Licensure Examination",
-          "summary": "RESULTS: May 2026 Certified Public Accountants Licensure Examination. PRESS RELEASE: The Professional Regulation Commission announces that 3,004 out of 9,745 passed the Certified Public Accountants Licensure Examination.",
-          "links": [
+            },
             {
               "url": "https://www.rappler.com/bulletin-board/examination-results/certified-public-accountants-licensure-may-2026/",
               "source": "Rappler World",
@@ -777,173 +586,28 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
-          "imageUrl": "https://www.rappler.com/tachyon/2026/06/prc-accountant.jpg",
-          "imageAlt": "RESULTS: May 2026 Certified Public Accountants Licensure Examination",
-          "imageCredit": "Rappler"
-        },
-        {
-          "title": "UN urges the world to ready for extreme heat risk from El Niño",
-          "summary": "UN urges the world to ready for extreme heat risk from El Niño. The World Meteorological Organization says it is likely El Niño will continue until November.",
-          "links": [
-            {
-              "url": "https://www.rappler.com/world/global-affairs/un-urges-world-prepare-extreme-heat-risk-el-nino/",
-              "source": "Rappler World",
-              "headline": "UN urges the world to ready for extreme heat risk from El Niño",
-              "excerpt": "The World Meteorological Organization says it is likely El Niño will continue until November",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/04/china-drought-may-29-2025-001.jpg",
-              "imageAlt": "UN urges the world to ready for extreme heat risk from El Niño",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[26]",
-          "imageUrl": "https://www.rappler.com/tachyon/2026/04/china-drought-may-29-2025-001.jpg",
-          "imageAlt": "UN urges the world to ready for extreme heat risk from El Niño",
-          "imageCredit": "Rappler"
-        },
-        {
-          "title": "Mayor Zamora: Let Estrada answer the charges and prove his innocence",
-          "summary": "Mayor Zamora: Let Estrada answer the charges and prove his innocence.\n\nMANILA, Philippines — San Juan City Mayor Francis Zamora called on the public to respect due process and “allow legal process to take its course” as Sen. Jinggoy Estrada, a fellow San Juaneño, faces charges in connection with the flood control projects scandal.\n\nZamora said this as he referred to the Sandiganbayan as the proper.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2239198/mayor-zamora-let-estrada-answer-the-charges-and-prove-his-innocence",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Mayor Zamora: Let Estrada answer the charges and prove his innocence",
-              "excerpt": "MANILA, Philippines — San Juan City Mayor Francis Zamora called on the public to respect due process and “allow legal process to take its course” as Sen. Jinggoy Estrada, a fellow San Juaneño, faces charges in connection with the flood control projects scandal. Zamora said this as he referred to the Sandiganbayan as the proper",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/08/WhatsApp-Image-2025-08-01-at-18.44.23_91fcc82a.jpg",
-              "imageAlt": "Mayor Zamora: Let Estrada answer the charges and prove his innocence",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[27]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/08/WhatsApp-Image-2025-08-01-at-18.44.23_91fcc82a.jpg",
-          "imageAlt": "Mayor Zamora: Let Estrada answer the charges and prove his innocence",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/06/PRC-Professional-Regulation-Commission-11June2024.png",
+          "imageAlt": "3,004 out of 9,745 pass May 2026 CPA licensure exams",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Erwin Tulfo tells Cayetano: Consult our Senate psychiatrist",
-          "summary": "Erwin Tulfo tells Cayetano: Consult our Senate psychiatrist. MANILA, Philippines — Senator Erwin Tulfo on Tuesday told Senate president Alan Peter Cayetano to consult a psychiatrist after the latter criticized him and his brother, Sen. Raffy Tulfo, amid a standoff between the Senate majority and minority blocs.\n\nAccording to Tulfo, Cayetano may just simply be stressed, which is why he should consider consulting.",
+          "title": "Bukidnon’s biggest public school grapples with classroom shortage, flood",
+          "summary": "Bukidnon’s biggest public school grapples with classroom shortage, flood.\n\nVALENCIA CITY, Bukidnon — Despite being the largest public elementary school in Bukidnon in terms of enrollment, Valencia City Central School continues to struggle with chronic classroom shortages and recurring flooding, problems school officials say require urgent intervention from the Department of Education (DepEd).\n\nAs schools nationwide conducted Brigada Eskwela preparations ahead of the June.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2239174/erwin-tulfo-tells-cayetano-consult-our-senate-psychiatrist",
+              "url": "https://newsinfo.inquirer.net/2239037/bukidnons-biggest-public-school-grapples-with-classroom-shortage-flood",
               "source": "Philippine Daily Inquirer",
-              "headline": "Erwin Tulfo tells Cayetano: Consult our Senate psychiatrist",
-              "excerpt": "MANILA, Philippines — Senator Erwin Tulfo on Tuesday told Senate president Alan Peter Cayetano to consult a psychiatrist after the latter criticized him and his brother, Sen. Raffy Tulfo, amid a standoff between the Senate majority and minority blocs. According to Tulfo, Cayetano may just simply be stressed, which is why he should consider consulting",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/Erwin-Tulfo-10February2026.jpg",
-              "imageAlt": "Erwin Tulfo tells Cayetano: Consult our Senate psychiatrist",
+              "headline": "Bukidnon’s biggest public school grapples with classroom shortage, flood",
+              "excerpt": "VALENCIA CITY, Bukidnon — Despite being the largest public elementary school in Bukidnon in terms of enrollment, Valencia City Central School continues to struggle with chronic classroom shortages and recurring flooding, problems school officials say require urgent intervention from the Department of Education (DepEd). As schools nationwide conducted Brigada Eskwela preparations ahead of the June",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Bukidnon-classroom-2June2026.jpg",
+              "imageAlt": "Bukidnon’s biggest public school grapples with classroom shortage, flood",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[28]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/Erwin-Tulfo-10February2026.jpg",
-          "imageAlt": "Erwin Tulfo tells Cayetano: Consult our Senate psychiatrist",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Man dead after getting shot in knee during Pasig anti-drug op",
-          "summary": "Man dead after getting shot in knee during Pasig anti-drug op. MANILA, Philippines — A man died after sustaining a gunshot wound in the knee during an anti-illegal drug operation in Pasig City, according to a police report obtained by the Inquirer.\n\nIt only identified the suspect as a 31-year-old Pasig City-based porter with the alias “Jon.” Personnel from the Pasig City Police Station-San Joaquin Substation.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2239163/man-dead-after-getting-shot-in-knee-during-pasig-anti-drug-op",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Man dead after getting shot in knee during Pasig anti-drug op",
-              "excerpt": "MANILA, Philippines — A man died after sustaining a gunshot wound in the knee during an anti-illegal drug operation in Pasig City, according to a police report obtained by the Inquirer. It only identified the suspect as a 31-year-old Pasig City-based porter with the alias “Jon.” Personnel from the Pasig City Police Station-San Joaquin Substation",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-pasig.jpg",
-              "imageAlt": "Man dead after getting shot in knee during Pasig anti-drug op",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[29]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-pasig.jpg",
-          "imageAlt": "Man dead after getting shot in knee during Pasig anti-drug op",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Cops seize P3.3-M ‘shabu’ in Iloilo drug sting",
-          "summary": "Cops seize P3.3-M ‘shabu’ in Iloilo drug sting. ILOILO CITY, Philippines — Police seized over P3.3 million worth of suspected “shabu” and arrested three suspects during a buy-bust operation in Balasan town on Monday, June 1.\n\nA 14-year-old girl, identified as the granddaughter of the primary target, was also rescued during the operation and turned over to local social welfare authorities. Police identified.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2239095/cops-seize-p3-3-m-shabu-in-iloilo-drug-sting",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Cops seize P3.3-M ‘shabu’ in Iloilo drug sting",
-              "excerpt": "ILOILO CITY, Philippines — Police seized over P3.3 million worth of suspected “shabu” and arrested three suspects during a buy-bust operation in Balasan town on Monday, June 1. A 14-year-old girl, identified as the granddaughter of the primary target, was also rescued during the operation and turned over to local social welfare authorities. Police identified",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-iloilo.jpg",
-              "imageAlt": "Cops seize P3.3-M ‘shabu’ in Iloilo drug sting",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[30]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-iloilo.jpg",
-          "imageAlt": "Cops seize P3.3-M ‘shabu’ in Iloilo drug sting",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Court junks bid of Zaldy Co’s co-accused to dismiss malversation case",
-          "summary": "Court junks bid of Zaldy Co’s co-accused to dismiss malversation case. MANILA, Philippines — The Sandiganbayan Sixth Division has junked the petition of resigned Ako Bicol Rep. Zaldy Co’s co-accused to dismiss the malversation case against them.\n\nThe non-bailable malversation of funds case, through falsification of public documents, stems from a Sunwest project — or the company where Co is said to be a beneficial owner — worth P289.4.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2239122/court-junks-bid-of-zaldy-cos-co-accused-to-dismiss-malversation-case",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Court junks bid of Zaldy Co’s co-accused to dismiss malversation case",
-              "excerpt": "MANILA, Philippines — The Sandiganbayan Sixth Division has junked the petition of resigned Ako Bicol Rep. Zaldy Co’s co-accused to dismiss the malversation case against them. The non-bailable malversation of funds case, through falsification of public documents, stems from a Sunwest project — or the company where Co is said to be a beneficial owner — worth P289.4",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/11/Elizaldy-Co-18November2025_2.jpg",
-              "imageAlt": "Court junks bid of Zaldy Co’s co-accused to dismiss malversation case",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
@@ -951,10 +615,235 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[31]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/11/Elizaldy-Co-18November2025_2.jpg",
-          "imageAlt": "Court junks bid of Zaldy Co’s co-accused to dismiss malversation case",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Bukidnon-classroom-2June2026.jpg",
+          "imageAlt": "Bukidnon’s biggest public school grapples with classroom shortage, flood",
           "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Marcos, Angara push school safety, literacy at Navotas Brigada Eskwela",
+          "summary": "Marcos, Angara push school safety, literacy at Navotas Brigada Eskwela. MANILA, Philippines — President Ferdinand R.\n\nMarcos Jr., and Education Secretary Sonny Angara on Tuesday led an inspection of Brigada Eskwela activities at Kapitbahayan Elementary School, highlighting the administration’s efforts to improve campus safety and strengthen literacy programs ahead of the opening of classes.\n\nJoined by Social Welfare Secretary Rex Gatchalian, Marcos toured the school.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2238944/marcos-angara-push-school-safety-literacy-at-navotas-brigada-eskwela",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Marcos, Angara push school safety, literacy at Navotas Brigada Eskwela",
+              "excerpt": "MANILA, Philippines — President Ferdinand R. Marcos Jr., and Education Secretary Sonny Angara on Tuesday led an inspection of Brigada Eskwela activities at Kapitbahayan Elementary School, highlighting the administration’s efforts to improve campus safety and strengthen literacy programs ahead of the opening of classes. Joined by Social Welfare Secretary Rex Gatchalian, Marcos toured the school",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/WhatsApp-Image-2026-06-02-at-18.54.20.jpg",
+              "imageAlt": "Marcos, Angara push school safety, literacy at Navotas Brigada Eskwela",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/WhatsApp-Image-2026-06-02-at-18.54.20.jpg",
+          "imageAlt": "Marcos, Angara push school safety, literacy at Navotas Brigada Eskwela",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "UP law prof: Impeachment is truth-telling, not a judicial process",
+          "summary": "UP law prof: Impeachment is truth-telling, not a judicial process. MANILA, Philippines — Impeachment trial should remain focused on uncovering the truth rather than becoming a highly technical legal battle, according to a constitutional law expert.\n\nUniversity of the Philippines (UP) College of Law Associate Dean and Assistant Professor Paolo Tamase on Tuesday warned against efforts to “over-judicialize” the proceedings against Vice President Sara Duterte. Philippine Daily Inquirer: Questions raised on impeachment trial: Can absent senators vote?\n\nPhilippine Daily Inquirer reports that mANILA, Philippines — With the impeachment trial against Vice President Sara Duterte set to begin on July 6, and some senators facing arrest, questions emerge over whether all 24 senator-judges will be able to participate in person and vote in the upcoming impeachment trial.\n\nMore importantly: should the t",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2238909/questions-raised-on-impeachment-trial-can-absent-senators-vote",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Questions raised on impeachment trial: Can absent senators vote?",
+              "excerpt": "MANILA, Philippines — With the impeachment trial against Vice President Sara Duterte set to begin on July 6, and some senators facing arrest, questions emerge over whether all 24 senator-judges will be able to participate in person and vote in the upcoming impeachment trial. More importantly: should the two-thirds threshold be based on all 24",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Minority-block-2June2026_13.jpg",
+              "imageAlt": "Questions raised on impeachment trial: Can absent senators vote?",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Minority-block-2June2026_13.jpg",
+          "imageAlt": "Questions raised on impeachment trial: Can absent senators vote?",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Eastern Visayas police headquarters shifts to solar power",
+          "summary": "Eastern Visayas police headquarters shifts to solar power.\n\nTACLOBAN CITY — The Philippine National Police’s regional headquarters in Eastern Visayas has begun harnessing solar energy to power its operations, a move expected to significantly cut electricity costs while promoting the government’s push for renewable energy use.\n\nA ceremonial switch-on was held Tuesday at the Police Regional Office-8 (PRO-8) headquarters inside Camp Ruperto Kangleon.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2239043/eastern-visayas-police-headquarters-shifts-to-solar-power",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Eastern Visayas police headquarters shifts to solar power",
+              "excerpt": "TACLOBAN CITY — The Philippine National Police’s regional headquarters in Eastern Visayas has begun harnessing solar energy to power its operations, a move expected to significantly cut electricity costs while promoting the government’s push for renewable energy use. A ceremonial switch-on was held Tuesday at the Police Regional Office-8 (PRO-8) headquarters inside Camp Ruperto Kangleon",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/EASTERN-VISAYAS-MAP-09082022.jpeg",
+              "imageAlt": "Eastern Visayas police headquarters shifts to solar power",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/EASTERN-VISAYAS-MAP-09082022.jpeg",
+          "imageAlt": "Eastern Visayas police headquarters shifts to solar power",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+          "summary": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack. Aid workers estimate as many as 300,000 people are fleeing advances by the Rwandan-backed M23 rebel group, which has taken two strategic towns on the approaches to Goma over the past several days.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c",
+              "source": "Wall Street Journal",
+              "headline": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+              "excerpt": "Aid workers estimate as many as 300,000 people are fleeing advances by the Rwandan-backed M23 rebel group, which has taken two strategic towns on the approaches to Goma over the past several days.",
+              "imageUrl": "",
+              "imageAlt": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed"
+        },
+        {
+          "title": "OpenAI launches new Codex tools for white-collar work",
+          "summary": "OpenAI launches new Codex tools for white-collar work. OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking.\n\nAvailable from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+              "source": "TechCrunch",
+              "headline": "OpenAI launches new Codex tools for white-collar work",
+              "excerpt": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.",
+              "imageUrl": "",
+              "imageAlt": "OpenAI launches new Codex tools for white-collar work",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed"
+        },
+        {
+          "title": "Meta legal action forces Facebook whistleblower to sit in silence at Hay festival",
+          "summary": "Meta legal action forces Facebook whistleblower to sit in silence at Hay festival.\n\nSarah Wynn-Williams did not speak during event after lawyers warned of possible sanctions from tech firm Facebook whistleblower Sarah Wynn-Williams was forced to sit in silence on stage at an event at Hay festival, after lawyers advised her not to speak because of ongoing legal action brought by Meta.\n\nWynn-Williams, whose bestselling memoir, Careless People, details her years working at Facebook, was due to appear in conversation with the investigative journalist Carole Cadwalladr.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+              "source": "The Guardian Technology",
+              "headline": "Meta legal action forces Facebook whistleblower to sit in silence at Hay festival",
+              "excerpt": "Sarah Wynn-Williams did not speak during event after lawyers warned of possible sanctions from tech firm Facebook whistleblower Sarah Wynn-Williams was forced to sit in silence on stage at an event at Hay festival, after lawyers advised her not to speak because of ongoing legal action brought by Meta. Wynn-Williams, whose bestselling memoir, Careless People, details her years working at Facebook, was due to appear in conversation with the investigative journalist Carole Cadwalladr",
+              "imageUrl": "https://i.guim.co.uk/img/media/647dd9f90f0840e9609ac00f7eac302b7255b8e8/40_312_6492_5192/master/6492.jpg?width=140&quality=85&auto=format&fit=max&s=c678ff804ba64a831179abb69498fa1f",
+              "imageAlt": "Meta legal action forces Facebook whistleblower to sit in silence at Hay festival",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "imageUrl": "https://i.guim.co.uk/img/media/647dd9f90f0840e9609ac00f7eac302b7255b8e8/40_312_6492_5192/master/6492.jpg?width=140&quality=85&auto=format&fit=max&s=c678ff804ba64a831179abb69498fa1f",
+          "imageAlt": "Meta legal action forces Facebook whistleblower to sit in silence at Hay festival",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+          "summary": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan. The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc",
+              "source": "Wall Street Journal",
+              "headline": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+              "excerpt": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+              "imageUrl": "",
+              "imageAlt": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed"
+        },
+        {
+          "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+          "summary": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line. The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+              "source": "Wall Street Journal",
+              "headline": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+              "excerpt": "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.",
+              "imageUrl": "",
+              "imageAlt": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed"
         }
       ]
     }
