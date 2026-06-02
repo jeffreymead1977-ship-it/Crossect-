@@ -37,7 +37,7 @@ DEFAULT_METADATA = {
 }
 
 DEFAULT_LM_STUDIO_BASE_URL = "http://localhost:1234/v1"
-DEFAULT_LM_STUDIO_MODEL = "qwen3.6-35b-a3b@q4_k_s"
+DEFAULT_LM_STUDIO_MODEL = "qwen3.6-35b-a3b-mtp"
 DEFAULT_LM_STUDIO_TIMEOUT_SECONDS = 5.0
 
 ALIGNMENT_CUES = {
@@ -360,7 +360,13 @@ def local_rating_mode() -> str:
 
 def lm_studio_config() -> tuple[str, str, float]:
     base_url = str(os.environ.get("CROSSECT_LM_STUDIO_BASE_URL") or DEFAULT_LM_STUDIO_BASE_URL).rstrip("/")
-    model = str(os.environ.get("CROSSECT_LM_STUDIO_MODEL") or DEFAULT_LM_STUDIO_MODEL)
+    requested_model = str(os.environ.get("CROSSECT_LM_STUDIO_MODEL") or DEFAULT_LM_STUDIO_MODEL).strip()
+    # Hard pin Crossect to the MTP Qwen model. Loading any other LM Studio model
+    # can open a second model and bog the machine down, so env fallbacks/overrides
+    # are ignored unless they exactly match the approved model.
+    model = DEFAULT_LM_STUDIO_MODEL
+    if requested_model and requested_model != DEFAULT_LM_STUDIO_MODEL:
+        os.environ["CROSSECT_LM_STUDIO_MODEL_IGNORED"] = requested_model
     try:
         timeout = float(os.environ.get("CROSSECT_LM_STUDIO_TIMEOUT") or DEFAULT_LM_STUDIO_TIMEOUT_SECONDS)
     except ValueError:
