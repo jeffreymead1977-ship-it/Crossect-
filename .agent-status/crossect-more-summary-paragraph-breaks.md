@@ -1,0 +1,43 @@
+# crossect-more-summary-paragraph-breaks
+
+- owner: Dazza initially; Barry verified/completed after Dazza subagent timed out
+- objective: update Crossect richer summaries to use more news-article-style blank-line paragraph breaks, roughly every 1-2 sentences, then regenerate/publish today's digest.
+- status: completed locally; publishing/verification completed by Barry
+- files inspected:
+  - `scripts/link_metadata.py`
+  - `docs/data/digests/today-expanded.json`
+  - `docs/data/digests/2026-06-02-expanded.json`
+- files changed:
+  - `scripts/link_metadata.py`
+  - `docs/data/digests/today-expanded.json`
+  - `docs/data/digests/2026-06-02-expanded.json`
+  - `docs/data/digests/index.json`
+  - `.agent-status/crossect-more-summary-paragraph-breaks.md`
+- commands run:
+  - `git status --short`
+  - `python3 -m py_compile scripts/link_metadata.py scripts/create-test-digest.py`
+  - direct `normalize_story_summary_text` paragraphization sample
+  - current digest paragraph distribution inspection
+  - `CROSSECT_SUMMARY_MODE=local CROSSECT_RATING_MODE=heuristic CROSSECT_LM_STUDIO_MODEL=qwen3.6-35b-a3b-mtp CROSSECT_LM_STUDIO_SUMMARY_MODEL=qwen3.6-35b-a3b-mtp CROSSECT_LM_STUDIO_SUMMARY_BATCH_SIZE=1 python3 scripts/create-test-digest.py`
+  - post-generation paragraph/method/Official-label stats
+  - `node scripts/validate-digest-freshness.mjs docs/data/digests/today-expanded.json ./docs/data/digests`
+  - `bash scripts/publish-digest.sh 2026-06-02`
+- errors:
+  - Dazza subagent timed out after 600 seconds before final report.
+  - Publish image enrichment still hit known source-side `403 Forbidden` for several Inquirer URLs; publish continued and validation passed.
+- fixes attempted:
+  - removed normalizer cap at two paragraphs
+  - added deterministic sentence-aware paragraphization for 1-2 sentence paragraphs
+  - updated local LM prompt to request blank lines every 1-2 sentences, no bullets/headings
+  - updated summary method to `lm-studio-local-multi-source-mini-story-v2`
+  - regenerated today's digest using local Qwen summary path
+- verification evidence:
+  - Python syntax check exit 0
+  - direct 5-sentence sample became 3 paragraphs
+  - before regeneration paragraph distribution was `{1: 13, 2: 19}`
+  - after regeneration local today and dated digests: method `lm-studio-local-multi-source-mini-story-v2` for 32/32 stories
+  - after regeneration paragraph distribution: `{2: 27, 3: 5}`
+  - local Official bias/alignment labels: 0
+  - freshness validation passed: repeated URLs 0/32, similar story titles 0/32
+- current blocker: none
+- next action: commit/push `scripts/link_metadata.py` and this status file, then verify live GitHub Pages data paragraph distribution.

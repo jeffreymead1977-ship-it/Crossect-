@@ -851,12 +851,74 @@ def iter_digest_stories(digest: dict):
                 yield section_index, story_index, story
 
 
+SENTENCE_BOUNDARY_RE = re.compile(r"(?<=[.!?])\s+(?=(?:[\"'“”‘’(]*[A-Z0-9]))")
+
+
+def split_summary_sentences(text: str) -> list[str]:
+    """Split digest prose into sentences without depending on external NLP."""
+    protected = str(text or "").strip()
+    placeholders: dict[str, str] = {}
+    abbreviations = ["U.S.", "U.K.", "U.N.", "E.U.", "Mr.", "Mrs.", "Ms.", "Dr.", "Prof.", "Sen.", "Rep.", "Gov.", "Inc.", "Ltd.", "Co."]
+    for i, abbreviation in enumerate(abbreviations):
+        token = f"__ABBR_{i}__"
+        if abbreviation in protected:
+            protected = protected.replace(abbreviation, token)
+            placeholders[token] = abbreviation
+    pieces = [part.strip() for part in SENTENCE_BOUNDARY_RE.split(protected) if part.strip()]
+    sentences: list[str] = []
+    for piece in pieces:
+        for token, abbreviation in placeholders.items():
+            piece = piece.replace(token, abbreviation)
+        # Keep very short fragments with the prior sentence so deterministic
+        # paragraphing does not create choppy prose.
+        if sentences and len(piece) < 35 and not re.search(r"[.!?]$", sentences[-1]):
+            sentences[-1] = f"{sentences[-1]} {piece}".strip()
+        else:
+            sentences.append(piece)
+    return sentences
+
+
+def paragraphize_summary_prose(paragraphs: list[str]) -> list[str]:
+    """Return news-style short paragraphs while preserving model breaks.
+
+    The local model may still emit two large blocks. Split each block into
+    readable 1-2 sentence paragraphs, preferring two-sentence paragraphs unless a
+    sentence is already long. This is deterministic and only rearranges supplied
+    prose; it does not add facts.
+    """
+    result: list[str] = []
+    for paragraph in paragraphs:
+        sentences = split_summary_sentences(paragraph)
+        if len(sentences) <= 2:
+            result.append(paragraph)
+            continue
+        current: list[str] = []
+        current_len = 0
+        for sentence in sentences:
+            sentence_len = len(sentence)
+            should_flush = bool(current) and (
+                len(current) >= 2
+                or current_len >= 220
+                or (len(current) == 1 and current_len + sentence_len > 320)
+            )
+            if should_flush:
+                result.append(" ".join(current).strip())
+                current = []
+                current_len = 0
+            current.append(sentence)
+            current_len += sentence_len + 1
+        if current:
+            result.append(" ".join(current).strip())
+    return result
+
+
 def normalize_story_summary_text(summary, limit: int = 1200) -> str:
-    """Normalize a story summary while preserving up to two prose paragraphs.
+    """Normalize a story summary into short news-style prose paragraphs.
 
     Crossect story summaries are displayed as digest prose, not lists. Keep
-    paragraph breaks from the local model when available, but collapse accidental
-    extra whitespace and reject obvious bullet/list formatting elsewhere.
+    paragraph breaks from the local model when available, collapse accidental
+    extra whitespace, and deterministically split overlong blocks every 1-2
+    sentences for better readability.
     """
     text = str(summary or "").replace("\r\n", "\n").replace("\r", "\n").strip()
     text = re.sub(r"<[^>]+>", " ", text)
@@ -868,10 +930,9 @@ def normalize_story_summary_text(summary, limit: int = 1200) -> str:
         cleaned = re.sub(r"\n+", " ", cleaned).strip()
         if cleaned:
             paragraphs.append(cleaned)
-        if len(paragraphs) == 2:
-            break
     if not paragraphs:
         paragraphs = [re.sub(r"\s+", " ", text).strip()]
+    paragraphs = paragraphize_summary_prose(paragraphs)
     normalized = "\n\n".join(paragraphs)
     return normalized[:limit].rstrip()
 
@@ -1056,16 +1117,17 @@ def summarize_story_batch_with_lm_studio(articles: list[dict]) -> tuple[dict[int
         "Do not include prose outside JSON, comments, bullets, markdown, or reasoning. "
         "Use only the supplied title, RSS summary, source metadata, headlines, excerpts and URLs; do not invent facts. "
         "Synthesize across multiple source materials when present instead of copying one RSS blurb. "
-        "Prefer two concise paragraphs in the summary field; use one substantial paragraph if source material is thin. "
+        "Format the summary like a short news article with blank lines between several concise paragraphs. "
+        "Each paragraph should usually contain 1-2 sentences or one short idea; use fewer paragraphs only when source material is thin. "
         "Mention disagreement or framing differences only when they are explicit in the supplied material. "
         "Keep tone factual, neutral, digest-style and readable. "
         "Return JSON object {\"summaries\":[...]} with one item per input article: index, summary. "
-        "Each summary must be prose only, no bullet lists, around 80-180 words unless the supplied material is too thin."
+        "Each summary must be prose only, no bullet lists, no markdown headings, around 80-180 words unless the supplied material is too thin."
     )
     user_prompt = (
         "<think>\n\n</think>\n"
         "Return the JSON in assistant content. Do not put the answer only in reasoning_content. "
-        "Summarize these grouped stories as strict JSON only. Each summary should read like a 1-2 paragraph mini-story, not a headline blurb:\n"
+        "Summarize these grouped stories as strict JSON only. Each summary should read like a concise news article with blank lines every 1-2 sentences, not a headline blurb:\n"
         + json.dumps({"articles": articles}, ensure_ascii=False)
     )
     payload = {
@@ -1283,7 +1345,7 @@ def enrich_digest_story_summaries(digest: dict) -> dict:
         summary = summaries_by_index.get(idx)
         if summary:
             story["summary"] = summary
-            story["summaryMethod"] = "lm-studio-local-multi-source-mini-story-v1"
+            story["summaryMethod"] = "lm-studio-local-multi-source-mini-story-v2"
             story.pop("summaryFallbackReason", None)
         else:
             story["summaryFallbackReason"] = fallback_reasons_by_index.get(idx, "lm-studio-summary-missing-index")
