@@ -38,7 +38,7 @@ DEFAULT_METADATA = {
 
 DEFAULT_LM_STUDIO_BASE_URL = "http://localhost:1234/v1"
 DEFAULT_LM_STUDIO_MODEL = "qwen3.6-35b-a3b-mtp"
-DEFAULT_LM_STUDIO_SUMMARY_MODEL = "gemma-4-26b-a4b-it"
+DEFAULT_LM_STUDIO_SUMMARY_MODEL = DEFAULT_LM_STUDIO_MODEL
 DEFAULT_LM_STUDIO_TIMEOUT_SECONDS = 5.0
 
 ALIGNMENT_CUES = {
@@ -430,16 +430,15 @@ def lm_studio_summary_config() -> tuple[str, str, float]:
 def lm_studio_summary_batch_size() -> int:
     """Return story-summary batch size for LM Studio calls.
 
-    Gemma can reliably handle the Crossect summary task in smaller batches, but
-    one 32-story response can be large enough for LM Studio to occasionally emit
-    malformed/truncated response JSON. Keep the default comfortably below that
-    while allowing cron/test overrides.
+    Qwen MTP on LM Studio returns JSON most reliably when constrained with a JSON
+    schema and kept in small batches. Default to one article per request so the
+    already-loaded Qwen worker model can be reused without loading Gemma.
     """
     try:
-        raw = int(os.environ.get("CROSSECT_LM_STUDIO_SUMMARY_BATCH_SIZE") or 4)
+        raw = int(os.environ.get("CROSSECT_LM_STUDIO_SUMMARY_BATCH_SIZE") or 1)
     except ValueError:
-        raw = 4
-    return max(1, min(32, raw))
+        raw = 1
+    return max(1, min(8, raw))
 
 
 def extract_json_object(text: str) -> dict:
@@ -773,6 +772,92 @@ def validate_lm_summary(parsed: dict) -> str:
     return re.sub(r"\s+", " ", summary)[:500]
 
 
+def extract_qwen_reasoning_summaries_batch(reasoning: str, articles: list[dict]) -> dict[int, str] | None:
+    """Extract per-article summaries from Qwen's reasoning_content for batch requests.
+
+    When Qwen MTP ignores no-thinking flags it puts all output in reasoning_content.
+    For a batch of N articles the reasoning will contain draft summaries for each.
+    Returns {index: summary} or None if nothing extractable.
+    """
+    text = str(reasoning or "")
+    if not text.strip():
+        return None
+
+    # Strategy 1: Look for per-article numbered sections with "Draft" patterns
+    # Qwen typically structures batch reasoning like:
+    #   Index: 0, Title: "...", Draft Summary (Mental): "..."
+    #   Index: 1, Title: "...", Draft Summary: "..."
+    results: dict[int, str] = {}
+
+    # Split on index markers that Qwen uses in batch reasoning
+    index_sections = re.split(r'\*\s*Index:\s*(\d+)', text)
+    # index_sections is ['', '0', 'section0', '1', 'section1', ...]
+    for i in range(1, len(index_sections), 3):
+        try:
+            idx = int(index_sections[i])
+        except (ValueError, IndexError):
+            continue
+        section = index_sections[i + 2] if i + 2 < len(index_sections) else ""
+
+        # Try to find a draft summary in this section
+        patterns = [
+            r"Draft Summary \(Mental\):\s*\n\s*(.+?)(?:\n\s*[-*]\s*Check constraints|\n\s*Refinement|\n\s*$)",
+            r"Draft Summary:\s*\n\s*(.+?)(?:\n\s*[-*]\s*Check constraints|\n\s*Refinement|\n\s*$)",
+            r"Draft 1:\s*(.+?)(?:\n|$)",
+        ]
+        for pattern in patterns:
+            match = re.search(pattern, section, flags=re.IGNORECASE | re.DOTALL)
+            if not match:
+                continue
+            candidate = re.sub(r"\s+", " ", match.group(1)).strip(" -*`\"'")
+            # Clean up check constraints notes
+            candidate = re.sub(r"\s*\*?\s*Check constraints.*$", "", candidate, flags=re.IGNORECASE).strip()
+            if 40 <= len(candidate) <= 500 and candidate.endswith((".", "!", "?")):
+                results[idx] = candidate[:500]
+                break
+
+    # Strategy 2: If strategy 1 found nothing, try to find any numbered draft sentences
+    # matching article indices from the input
+    if not results:
+        for article in articles:
+            idx = int(article["index"])
+            title = str(article.get("title", "")).lower()[:80]
+            # Look for this title mentioned followed by a draft sentence
+            pattern = re.escape(title[:30]) + r".*?(?:Draft|Summary).*?([^.]*\.[^.\n]{0,200}\.)"
+            match = re.search(pattern, text, flags=re.IGNORECASE | re.DOTALL)
+            if not match:
+                continue
+            candidate = re.sub(r"\s+", " ", match.group(1)).strip()
+            if 40 <= len(candidate) <= 500 and candidate.endswith("."):
+                results[idx] = candidate[:500]
+
+    return results if results else None
+
+
+def extract_qwen_reasoning_summary(reasoning: str) -> str | None:
+    """Extract Qwen's draft sentence when LM Studio returns reasoning_content only.
+
+    The local Qwen MTP model can ignore no-thinking flags and put the useful
+    draft in reasoning_content with empty message.content. This keeps the host on
+    the already-loaded Qwen model instead of loading Gemma.
+    """
+    text = str(reasoning or "")
+    patterns = [
+        r"Draft Summary \(Mental\):\s*\n\s*(.+?)(?:\n\s*\d+\.|\n\s*[-*]\s*One sentence|\n\s*Check Constraints|$)",
+        r"Draft Summary:\s*\n\s*(.+?)(?:\n\s*\d+\.|\n\s*[-*]\s*One sentence|\n\s*Check Constraints|$)",
+        r"Draft 1:\s*(.+?)(?:\n|$)",
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE | re.DOTALL)
+        if not match:
+            continue
+        candidate = re.sub(r"\s+", " ", match.group(1)).strip(" -*`\"'")
+        candidate = re.sub(r"\s*\*\s*Check constraints.*$", "", candidate, flags=re.IGNORECASE).strip()
+        if 40 <= len(candidate) <= 500 and candidate.endswith((".", "!", "?")):
+            return candidate[:500]
+    return None
+
+
 def summarize_story_batch_with_lm_studio(articles: list[dict]) -> tuple[dict[int, str], str | None, str | None]:
     """Call local LM Studio for one chunk of story summaries.
 
@@ -790,21 +875,52 @@ def summarize_story_batch_with_lm_studio(articles: list[dict]) -> tuple[dict[int
 
     system_prompt = (
         "You write concise news story summaries for Crossect. Return strict JSON only. "
-        "Do not include markdown, prose outside JSON, comments, or reasoning. "
+        "Do not include prose outside JSON, comments, or reasoning. "
         "Use only the supplied title, RSS summary, source and URL. Do not invent facts. "
         "Return JSON object {\"summaries\":[...]} with one item per input article: index, summary. "
         "Each summary must be one neutral sentence, 18-35 words, and non-empty."
+    )
+    user_prompt = (
+        "<think>\n\n</think>\n"
+        "Return the JSON in assistant content. Do not put the answer only in reasoning_content. "
+        "Summarize these articles as strict JSON only:\n"
+        + json.dumps({"articles": articles}, ensure_ascii=False)
     )
     payload = {
         "model": model,
         "messages": [
             {"role": "system", "content": system_prompt},
-            {"role": "user", "content": json.dumps({"articles": articles}, ensure_ascii=False)},
+            {"role": "user", "content": user_prompt},
         ],
         "temperature": 0,
-        "max_tokens": max(220, min(1600, 100 * len(articles) + 80)),
+        "max_tokens": max(180, min(1200, 120 * len(articles) + 120)),
         "stream": False,
         "chat_template_kwargs": {"enable_thinking": False},
+        "response_format": {
+            "type": "json_schema",
+            "json_schema": {
+                "name": "crossect_story_summaries",
+                "schema": {
+                    "type": "object",
+                    "properties": {
+                        "summaries": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "index": {"type": "integer"},
+                                    "summary": {"type": "string"},
+                                },
+                                "required": ["index", "summary"],
+                                "additionalProperties": False,
+                            },
+                        }
+                    },
+                    "required": ["summaries"],
+                    "additionalProperties": False,
+                },
+            },
+        },
     }
     request = urllib.request.Request(
         url,
@@ -823,16 +939,52 @@ def summarize_story_batch_with_lm_studio(articles: list[dict]) -> tuple[dict[int
 
     try:
         completion = json.loads(body)
-        raw_content = completion["choices"][0]["message"]["content"]
-        parsed = extract_json_object(raw_content)
-        summaries = parsed.get("summaries")
-        if not isinstance(summaries, list):
-            raise ValueError("summaries was not a list")
-        by_index: dict[int, str] = {}
-        for item in summaries:
-            if not isinstance(item, dict) or "index" not in item:
-                continue
-            by_index[int(item["index"])] = validate_lm_summary(item)
+        message = completion["choices"][0]["message"]
+        raw_content = message.get("content") or ""
+        reasoning_text = message.get("reasoning_content") or ""
+
+        by_index: dict[int, str] | None = None
+
+        def parse_summary_json(source_text: str) -> dict[int, str] | None:
+            if not source_text:
+                return None
+            parsed = extract_json_object(source_text)
+            summaries = parsed.get("summaries")
+            if not isinstance(summaries, list):
+                return None
+            parsed_by_index: dict[int, str] = {}
+            for item in summaries:
+                if not isinstance(item, dict) or "index" not in item:
+                    continue
+                summary_text = validate_lm_summary(item)
+                lower = summary_text.lower()
+                if (summary_text.startswith((": ", '"', "'", "- "))
+                        or "word count" in lower
+                        or "meets constraint" in lower
+                        or len(summary_text) < 40):
+                    return None
+                parsed_by_index[int(item["index"])] = summary_text
+            return parsed_by_index or None
+
+        # Try assistant content first. With LM Studio JSON schema enabled on Qwen,
+        # the valid JSON may arrive in reasoning_content instead, so parse that as
+        # structured JSON before falling back to heuristic reasoning extraction.
+        try:
+            by_index = parse_summary_json(raw_content)
+        except Exception:
+            by_index = None
+        if not by_index and reasoning_text:
+            try:
+                by_index = parse_summary_json(reasoning_text)
+            except Exception:
+                by_index = None
+        if not by_index and reasoning_text:
+            extracted = extract_qwen_reasoning_summaries_batch(reasoning_text, articles)
+            if extracted:
+                return extracted, None, reasoning_text
+
+        if not by_index:
+            raise ValueError("no valid summaries found in content or reasoning_content")
         return by_index, None, raw_content
     except Exception as exc:
         raw = body[:1000].replace("\n", " ")
