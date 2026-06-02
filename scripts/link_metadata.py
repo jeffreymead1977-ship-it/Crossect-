@@ -1,14 +1,22 @@
-"""Per-link source metadata enrichment for Crossect digests.
+"""Per-link article metadata enrichment for Crossect digests.
 
 The generation pipeline should emit article-level link fields so the app does not
 have to infer alignment/reliability entirely from dashboard fallback metadata.
-This module preserves valid link-level LLM/manual ratings and only fills missing
-or invalid values from deterministic source/domain metadata.
+This module keeps source metadata as a prior/fallback, then prefers a local
+LM Studio OpenAI-compatible per-article judgement when available. If local LLM
+judging is disabled, unavailable, times out, or returns invalid JSON, it falls
+back to a conservative deterministic/source-prior result.
 """
 from __future__ import annotations
 
 from copy import deepcopy
+import json
+import os
+import socket
+import urllib.error
+import urllib.request
 from urllib.parse import urlparse
+import re
 
 ALLOWED_BIASES = {
     "Left",
@@ -27,6 +35,51 @@ DEFAULT_METADATA = {
     "bias": "Unknown/Mixed",
     "confidence": "low",
 }
+
+DEFAULT_LM_STUDIO_BASE_URL = "http://localhost:1234/v1"
+DEFAULT_LM_STUDIO_MODEL = "qwen3.6-35b-a3b@q4_k_s"
+DEFAULT_LM_STUDIO_TIMEOUT_SECONDS = 5.0
+
+ALIGNMENT_CUES = {
+    "Left": [
+        r"\b(union-backed|labou?r union|strike action|collective bargaining)\b",
+        r"\b(climate crisis|polluters?|environmental justice)\b",
+        r"\b(wealth inequality|social programmes?|public housing|human rights advocates?)\b",
+        r"\b(far-right|hard-right|right-wing extremis[mt]|authoritarian)\b",
+        r"\b(police brutality|racial justice|indigenous rights|refugee rights)\b",
+    ],
+    "Right": [
+        r"\b(tax cuts?|red tape|small business|property rights|free speech)\b",
+        r"\b(border security|illegal immigration|tough on crime|law and order)\b",
+        r"\b(woke|cancel culture|left-wing extremis[mt]|socialist agenda)\b",
+        r"\b(government waste|spending cuts?|deficit reduction)\b",
+        r"\b(gun rights|religious liberty|parental rights)\b",
+    ],
+    "Official": [
+        r"\b(government|ministry|department|court|regulator|commission|police said|officials? said)\b",
+        r"\b(white house|palace|senate|parliament|council|agency)\b",
+    ],
+    "Company": [
+        r"\b(company|startup|earnings|shares?|stock|ipo|product launch|quarterly results?)\b",
+        r"\b(ceo|founder|investors?|funding round|acquisition|merger)\b",
+    ],
+}
+
+RELIABILITY_CUES = {
+    "raise": [
+        r"\b(reuters|associated press|ap news|court documents?|officials? said|according to)\b",
+        r"\b(data|study|report|filing|statement|interview|confirmed|verified)\b",
+        r"\b(public broadcaster|regulator|court|ministry|department)\b",
+    ],
+    "lower": [
+        r"\b(rumou?rs?|unverified|alleged without evidence|speculation|conspiracy)\b",
+        r"\b(opinion|op-ed|analysis|sponsored|advertorial|promoted)\b",
+        r"\b(shocking|bombshell|you won't believe|secret plot|exposed)\b",
+    ],
+}
+
+CONFIDENCE_SCORE = {"low": 0, "medium": 1, "high": 2}
+SCORE_CONFIDENCE = {0: "low", 1: "medium", 2: "high"}
 
 SOURCE_METADATA = {
     # Domains used by current RSS sources / dashboard fallback.
@@ -192,12 +245,241 @@ def metadata_for_link(link: dict) -> dict:
     return fallback
 
 
-def enrich_link_metadata(link: dict) -> dict:
-    """Return a link copy with required per-link metadata filled.
+def article_text(link: dict) -> str:
+    """Return searchable article text available locally in the feed/digest."""
+    return " ".join(
+        str(link.get(field) or "")
+        for field in ("headline", "title", "excerpt", "summary", "description", "content", "source", "outlet", "url")
+    ).strip()
 
-    Valid existing link-level fields are kept to allow future LLM/grouping stages
-    to provide article-specific judgements. Invalid/missing bias/confidence values
-    are replaced with deterministic metadata fallback.
+
+def matching_cues(text: str, patterns: list[str]) -> list[str]:
+    matches = []
+    for pattern in patterns:
+        if re.search(pattern, text, flags=re.IGNORECASE):
+            # Keep basis readable while not leaking regex syntax into every entry.
+            matches.append(pattern.replace(r"\b", "").replace("?", "").replace("\\", ""))
+    return matches
+
+
+def judge_article_alignment(link: dict, metadata: dict) -> tuple[str, str]:
+    """Judge alignment from article text first; source metadata is fallback only."""
+    text = article_text(link)
+    scores: dict[str, int] = {}
+    evidence: dict[str, list[str]] = {}
+
+    for label, patterns in ALIGNMENT_CUES.items():
+        cues = matching_cues(text, patterns)
+        if cues:
+            scores[label] = len(cues)
+            evidence[label] = cues[:2]
+
+    # Official/company are provenance descriptors. Use them when those cues are
+    # clearly stronger than ideological cues, otherwise keep ideological result.
+    ideological = {k: v for k, v in scores.items() if k in {"Left", "Right"}}
+    if ideological:
+        left_score = ideological.get("Left", 0)
+        right_score = ideological.get("Right", 0)
+        if left_score == right_score and left_score:
+            return "Unknown/Mixed", "article-text: balanced/conflicting left and right framing cues"
+        winner = "Left" if left_score > right_score else "Right"
+        return winner, f"article-text: {winner} cue(s): {', '.join(evidence[winner])}"
+
+    for provenance in ("Official", "Company"):
+        if scores.get(provenance):
+            return provenance, f"article-text: {provenance.lower()} provenance cue(s): {', '.join(evidence[provenance])}"
+
+    fallback = metadata.get("bias", DEFAULT_METADATA["bias"])
+    return fallback, f"source-default-fallback: no article alignment cues; source prior={fallback}"
+
+
+def judge_article_reliability(link: dict, metadata: dict) -> tuple[str, str]:
+    """Judge reliability from article text with source reliability as a prior."""
+    text = article_text(link)
+    source_confidence = str(metadata.get("confidence") or DEFAULT_METADATA["confidence"]).lower()
+    score = CONFIDENCE_SCORE.get(source_confidence, CONFIDENCE_SCORE[DEFAULT_METADATA["confidence"]])
+
+    raise_cues = matching_cues(text, RELIABILITY_CUES["raise"])
+    lower_cues = matching_cues(text, RELIABILITY_CUES["lower"])
+    if raise_cues:
+        score += 1
+    if lower_cues:
+        score -= 1
+
+    reliability = SCORE_CONFIDENCE[max(0, min(2, score))]
+    basis_parts = [f"source-prior={source_confidence}"]
+    if raise_cues:
+        basis_parts.append("article-text raises reliability: " + ", ".join(raise_cues[:2]))
+    if lower_cues:
+        basis_parts.append("article-text lowers reliability: " + ", ".join(lower_cues[:2]))
+    if not raise_cues and not lower_cues:
+        basis_parts.append("article-text: no reliability modifier cues")
+    return reliability, "; ".join(basis_parts)
+
+
+def source_default_judgement(metadata: dict) -> tuple[str, str, str, str]:
+    """Return the safest fallback: source prior and source confidence."""
+    bias = metadata.get("bias", DEFAULT_METADATA["bias"])
+    if bias not in ALLOWED_BIASES:
+        bias = DEFAULT_METADATA["bias"]
+    reliability = str(metadata.get("confidence") or DEFAULT_METADATA["confidence"]).lower()
+    if reliability not in ALLOWED_CONFIDENCES:
+        reliability = DEFAULT_METADATA["confidence"]
+    return (
+        bias,
+        reliability,
+        f"source-default-fallback: conservative source prior={bias}",
+        f"source-default-fallback: conservative source reliability prior={reliability}",
+    )
+
+
+def local_rating_mode() -> str:
+    """Return normalized rating mode.
+
+    Default is local LLM first. Supported env values:
+    - local/lm/llm/auto/default: try LM Studio, fallback deterministic
+    - heuristic/deterministic: skip LM, use conservative deterministic article cues
+    - source/off: skip LM and article cues, use source defaults only
+    """
+    raw = str(os.environ.get("CROSSECT_RATING_MODE") or "local").strip().lower()
+    aliases = {
+        "": "local",
+        "auto": "local",
+        "default": "local",
+        "lm": "local",
+        "llm": "local",
+        "lmstudio": "local",
+        "lm-studio": "local",
+        "deterministic": "heuristic",
+        "source-default": "source",
+        "none": "source",
+        "off": "source",
+    }
+    return aliases.get(raw, raw)
+
+
+def lm_studio_config() -> tuple[str, str, float]:
+    base_url = str(os.environ.get("CROSSECT_LM_STUDIO_BASE_URL") or DEFAULT_LM_STUDIO_BASE_URL).rstrip("/")
+    model = str(os.environ.get("CROSSECT_LM_STUDIO_MODEL") or DEFAULT_LM_STUDIO_MODEL)
+    try:
+        timeout = float(os.environ.get("CROSSECT_LM_STUDIO_TIMEOUT") or DEFAULT_LM_STUDIO_TIMEOUT_SECONDS)
+    except ValueError:
+        timeout = DEFAULT_LM_STUDIO_TIMEOUT_SECONDS
+    return base_url, model, max(0.5, timeout)
+
+
+def extract_json_object(text: str) -> dict:
+    """Parse a strict JSON object, tolerating only surrounding whitespace/fences."""
+    cleaned = str(text or "").strip()
+    if cleaned.startswith("```"):
+        cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned, flags=re.IGNORECASE).strip()
+        cleaned = re.sub(r"\s*```$", "", cleaned).strip()
+    try:
+        parsed = json.loads(cleaned)
+    except json.JSONDecodeError:
+        start = cleaned.find("{")
+        end = cleaned.rfind("}")
+        if start < 0 or end <= start:
+            raise
+        parsed = json.loads(cleaned[start : end + 1])
+    if not isinstance(parsed, dict):
+        raise ValueError("LM rating JSON was not an object")
+    return parsed
+
+
+def validate_lm_judgement(parsed: dict) -> dict:
+    bias = str(parsed.get("bias") or "").strip()
+    confidence = str(parsed.get("confidence") or "").strip().lower()
+    alignment_basis = str(parsed.get("alignmentBasis") or "").strip()
+    reliability_basis = str(parsed.get("reliabilityBasis") or "").strip()
+
+    if bias not in ALLOWED_BIASES:
+        raise ValueError(f"invalid bias: {bias!r}")
+    if confidence not in ALLOWED_CONFIDENCES:
+        raise ValueError(f"invalid confidence: {confidence!r}")
+    if not alignment_basis or not reliability_basis:
+        raise ValueError("missing basis field(s)")
+
+    return {
+        "bias": bias,
+        "confidence": confidence,
+        "alignmentBasis": alignment_basis[:500],
+        "reliabilityBasis": reliability_basis[:500],
+    }
+
+
+def judge_article_with_lm_studio(link: dict, metadata: dict) -> tuple[dict | None, str | None, str | None]:
+    """Call local LM Studio for a per-article judgement.
+
+    Returns (judgement, error, raw_content). Only stdlib urllib is used so cron
+    can run without agent-only dependencies. Errors are deliberately converted to
+    short strings so callers can mark fallback provenance.
+    """
+    base_url, model, timeout = lm_studio_config()
+    url = f"{base_url}/chat/completions"
+    source_bias = metadata.get("bias", DEFAULT_METADATA["bias"])
+    source_reliability = str(metadata.get("confidence") or DEFAULT_METADATA["confidence"]).lower()
+    outlet = metadata.get("outlet") or link.get("outlet") or link.get("source") or DEFAULT_METADATA["outlet"]
+    article = article_text(link)[:3500]
+
+    system_prompt = (
+        "You are rating a single news article for Crossect. Return strict JSON only. Do not include reasoning. "
+        "Judge the article's own framing, claims, evidence, sourcing, and tone; do not merely copy the source prior. "
+        "Use the source prior lightly when article text is too thin. "
+        "Allowed bias values: Left, Lean Left, Center, Lean Right, Right, Unknown/Mixed, Official, Company. "
+        "Allowed confidence values: high, medium, low. "
+        "alignmentBasis and reliabilityBasis must each be one short sentence."
+    )
+    user_prompt = {
+        "task": "Rate this article/link. Return only JSON with keys bias, confidence, alignmentBasis, reliabilityBasis. No markdown and no explanation outside JSON.",
+        "sourcePrior": {"outlet": outlet, "bias": source_bias, "confidence": source_reliability},
+        "article": {
+            "headline": link.get("headline") or link.get("title") or "",
+            "excerpt": link.get("excerpt") or link.get("summary") or link.get("description") or "",
+            "source": link.get("source") or "",
+            "url": link.get("url") or "",
+            "availableText": article,
+        },
+    }
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": json.dumps(user_prompt, ensure_ascii=False)},
+        ],
+        "temperature": 0,
+        "max_tokens": 500,
+    }
+    request = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            body = response.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as exc:
+        error_body = exc.read().decode("utf-8", "replace")[:500].replace("\n", " ")
+        return None, f"lm-studio-http-error: {exc.code}: {error_body}", None
+    except (urllib.error.URLError, TimeoutError, socket.timeout, OSError) as exc:
+        return None, f"lm-studio-error: {type(exc).__name__}: {exc}", None
+
+    try:
+        completion = json.loads(body)
+        raw_content = completion["choices"][0]["message"]["content"]
+        return validate_lm_judgement(extract_json_object(raw_content)), None, raw_content
+    except Exception as exc:
+        raw = body[:1000].replace("\n", " ")
+        return None, f"lm-studio-invalid: {type(exc).__name__}: {exc}; raw={raw}", body[:1000]
+
+
+def enrich_link_metadata(link: dict, use_local_lm: bool = False) -> dict:
+    """Return a link copy with per-article and source metadata filled.
+
+    By default this is fast and deterministic. Whole-digest builders should call
+    enrich_digest_link_metadata() after constructing the digest to get one local
+    LM Studio batch judgement, instead of making a slow model call per link.
     """
     enriched = dict(link)
     metadata = metadata_for_link(enriched)
@@ -205,19 +487,201 @@ def enrich_link_metadata(link: dict) -> dict:
     if not str(enriched.get("outlet") or "").strip():
         enriched["outlet"] = metadata.get("outlet") or DEFAULT_METADATA["outlet"]
 
-    if enriched.get("bias") not in ALLOWED_BIASES:
-        alignment = enriched.get("alignment")
-        enriched["bias"] = alignment if alignment in ALLOWED_BIASES else metadata.get("bias", DEFAULT_METADATA["bias"])
+    source_bias = metadata.get("bias", DEFAULT_METADATA["bias"])
+    source_reliability = str(metadata.get("confidence") or DEFAULT_METADATA["confidence"]).lower()
+    if source_reliability not in ALLOWED_CONFIDENCES:
+        source_reliability = DEFAULT_METADATA["confidence"]
 
-    confidence = str(enriched.get("confidence") or enriched.get("reliability") or "").strip().lower()
+    enriched["sourceBias"] = source_bias
+    enriched["sourceReliability"] = source_reliability
+
+    mode = local_rating_mode()
+    rating_method = "deterministic-local-article-heuristic-v2"
+    rating_error = ""
+
+    if mode == "source":
+        alignment, confidence, alignment_basis, reliability_basis = source_default_judgement(metadata)
+        rating_method = "source-default-v1"
+    else:
+        llm_judgement = None
+        if mode == "local" and use_local_lm:
+            llm_judgement, rating_error, _raw = judge_article_with_lm_studio(enriched, metadata)
+        elif mode == "local" and not use_local_lm:
+            # Fast path for builders: deterministic metadata first; the builder
+            # will try one LM Studio batch call after the whole digest exists.
+            pass
+        elif mode not in {"heuristic", "local"}:
+            rating_error = f"unknown CROSSECT_RATING_MODE={mode!r}; used heuristic fallback"
+
+        if llm_judgement:
+            alignment = llm_judgement["bias"]
+            confidence = llm_judgement["confidence"]
+            alignment_basis = "lm-studio: " + llm_judgement["alignmentBasis"]
+            reliability_basis = "lm-studio: " + llm_judgement["reliabilityBasis"]
+            rating_method = "lm-studio-local-article-json-v1"
+        else:
+            alignment, alignment_basis = judge_article_alignment(enriched, metadata)
+            confidence, reliability_basis = judge_article_reliability(enriched, metadata)
+            if rating_error:
+                rating_method = "deterministic-local-article-heuristic-v2-fallback"
+                alignment_basis = f"{alignment_basis}; fallbackReason={rating_error[:240]}"
+                reliability_basis = f"{reliability_basis}; fallbackReason={rating_error[:240]}"
+
+    if alignment not in ALLOWED_BIASES:
+        alignment = source_bias
+        alignment_basis = f"source-default-fallback: invalid article alignment; source prior={source_bias}"
+        rating_method = "source-default-v1-fallback"
+    enriched["bias"] = alignment
+    enriched["alignment"] = alignment
+    enriched["alignmentBasis"] = alignment_basis
+
     if confidence not in ALLOWED_CONFIDENCES:
-        confidence = str(metadata.get("confidence") or DEFAULT_METADATA["confidence"]).lower()
-    enriched["confidence"] = confidence if confidence in ALLOWED_CONFIDENCES else DEFAULT_METADATA["confidence"]
+        confidence = source_reliability
+        reliability_basis = f"source-default-fallback: invalid article reliability; source prior={source_reliability}"
+        rating_method = "source-default-v1-fallback"
+    enriched["confidence"] = confidence
+    enriched["reliability"] = confidence
+    enriched["reliabilityBasis"] = reliability_basis
+    enriched["ratingMethod"] = rating_method
 
     if not str(enriched.get("quality") or "").strip() and metadata.get("quality"):
         enriched["quality"] = metadata["quality"]
 
     return enriched
+
+
+def iter_digest_links(digest: dict):
+    """Yield (section_index, story_index, link_index, link) for dict links."""
+    for section_index, section in enumerate(digest.get("sections", [])):
+        for story_index, story in enumerate(section.get("stories", [])):
+            for link_index, link in enumerate(story.get("links", [])):
+                if isinstance(link, dict):
+                    yield section_index, story_index, link_index, link
+
+
+def judge_digest_links_with_lm_studio(digest: dict) -> tuple[dict[int, dict], str | None, str | None]:
+    """Call local LM Studio once for all links in a digest.
+
+    Returns (ratings_by_index, error, raw_content). This keeps cron practical:
+    one local model request for the whole morning digest instead of one slow
+    request per article.
+    """
+    base_url, model, _timeout = lm_studio_config()
+    timeout = max(
+        _timeout,
+        float(os.environ.get("CROSSECT_LM_STUDIO_BATCH_TIMEOUT") or 60),
+    )
+    url = f"{base_url}/chat/completions"
+    articles = []
+    for idx, (_section_index, _story_index, _link_index, link) in enumerate(iter_digest_links(digest)):
+        metadata = metadata_for_link(link)
+        articles.append({
+            "index": idx,
+            "sourcePrior": {
+                "outlet": metadata.get("outlet") or link.get("outlet") or link.get("source") or DEFAULT_METADATA["outlet"],
+                "bias": metadata.get("bias", DEFAULT_METADATA["bias"]),
+                "confidence": str(metadata.get("confidence") or DEFAULT_METADATA["confidence"]).lower(),
+            },
+            "headline": link.get("headline") or link.get("title") or "",
+            "excerpt": link.get("excerpt") or link.get("summary") or link.get("description") or "",
+            "source": link.get("source") or link.get("outlet") or "",
+            "url": link.get("url") or "",
+        })
+    if not articles:
+        return {}, None, None
+
+    system_prompt = (
+        "You rate individual news article links for Crossect. Return strict JSON only. "
+        "Judge each article's own framing, language, claims, evidence, sourcing and tone. "
+        "Do not simply copy the source prior. Use source prior only when text is thin. "
+        "Allowed bias values: Left, Lean Left, Center, Lean Right, Right, Unknown/Mixed, Official, Company. "
+        "Use Official only for government/court/regulator/official-source dispatches; use Company only for company/product/earnings/startup items. "
+        "Allowed confidence values: high, medium, low. "
+        "Return JSON object {\"ratings\":[...]} with one item per input article: index, bias, confidence, alignmentBasis, reliabilityBasis. "
+        "alignmentBasis and reliabilityBasis must be short human-readable per-article explanations."
+    )
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": json.dumps({"articles": articles}, ensure_ascii=False)},
+        ],
+        "temperature": 0,
+        "max_tokens": max(1200, min(6000, 180 * len(articles))),
+        "stream": False,
+        "chat_template_kwargs": {"enable_thinking": False},
+    }
+    request = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            body = response.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as exc:
+        error_body = exc.read().decode("utf-8", "replace")[:500].replace("\n", " ")
+        return {}, f"lm-studio-batch-http-error: {exc.code}: {error_body}", None
+    except (urllib.error.URLError, TimeoutError, socket.timeout, OSError) as exc:
+        return {}, f"lm-studio-batch-error: {type(exc).__name__}: {exc}", None
+
+    try:
+        completion = json.loads(body)
+        raw_content = completion["choices"][0]["message"]["content"]
+        parsed = extract_json_object(raw_content)
+        ratings = parsed.get("ratings")
+        if not isinstance(ratings, list):
+            raise ValueError("ratings was not a list")
+        by_index: dict[int, dict] = {}
+        for item in ratings:
+            if not isinstance(item, dict):
+                continue
+            if "index" not in item:
+                continue
+            index = int(item["index"])
+            by_index[index] = validate_lm_judgement(item)
+        return by_index, None, raw_content
+    except Exception as exc:
+        raw = body[:1000].replace("\n", " ")
+        return {}, f"lm-studio-batch-invalid: {type(exc).__name__}: {exc}; raw={raw}", body[:1000]
+
+
+def enrich_digest_link_metadata(digest: dict) -> dict:
+    """Apply one local-LM batch judgement to all links in a digest when enabled.
+
+    Existing link fields from enrich_link_metadata() remain as fallback. This
+    mutates and returns digest for easy use by builder scripts.
+    """
+    mode = local_rating_mode()
+    if mode == "source":
+        return digest
+    links = list(iter_digest_links(digest))
+    if not links:
+        return digest
+    if mode != "local":
+        return digest
+
+    ratings_by_index, error, _raw = judge_digest_links_with_lm_studio(digest)
+    if error:
+        for _section_index, _story_index, _link_index, link in links:
+            link["ratingMethod"] = "deterministic-local-article-heuristic-v2-fallback"
+            link["alignmentBasis"] = f"{link.get('alignmentBasis', '')}; batchFallbackReason={error[:240]}".strip("; ")
+            link["reliabilityBasis"] = f"{link.get('reliabilityBasis', '')}; batchFallbackReason={error[:240]}".strip("; ")
+        return digest
+
+    for idx, (_section_index, _story_index, _link_index, link) in enumerate(links):
+        judgement = ratings_by_index.get(idx)
+        if not judgement:
+            continue
+        link["bias"] = judgement["bias"]
+        link["alignment"] = judgement["bias"]
+        link["confidence"] = judgement["confidence"]
+        link["reliability"] = judgement["confidence"]
+        link["alignmentBasis"] = "lm-studio-batch: " + judgement["alignmentBasis"]
+        link["reliabilityBasis"] = "lm-studio-batch: " + judgement["reliabilityBasis"]
+        link["ratingMethod"] = "lm-studio-local-digest-batch-json-v1"
+    return digest
 
 
 def missing_required_link_metadata(digest: dict) -> list[dict]:
@@ -228,7 +692,7 @@ def missing_required_link_metadata(digest: dict) -> list[dict]:
                 if not isinstance(link, dict):
                     missing.append({"section": section_index, "story": story_index, "link": link_index, "field": "link-object"})
                     continue
-                for field in ("outlet", "bias", "confidence"):
+                for field in ("outlet", "bias", "confidence", "alignmentBasis", "reliabilityBasis", "sourceBias", "sourceReliability"):
                     if not str(link.get(field) or "").strip():
                         missing.append({"section": section_index, "story": story_index, "link": link_index, "field": field})
                 if link.get("bias") and link.get("bias") not in ALLOWED_BIASES:
