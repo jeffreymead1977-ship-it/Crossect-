@@ -2,16 +2,16 @@
   "id": "2026-06-02-expanded",
   "date": "2026-06-02",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-02T17:29:45.343881",
+  "generatedAt": "2026-06-02T19:13:59.213286",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-02T17:29:45",
+  "updatedAt": "2026-06-02T19:13:59",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
           "title": "US Defense Department bars journalists from its press office",
-          "summary": "The US Defense Department has implemented a policy barring journalists from its press office, a move that has drawn sharp criticism from media freedom advocates. According to reports, this decision is viewed as part of a broader effort to restrict independent reporting on the activities and operations of the United States military. The restriction limits direct access for reporters, potentially impacting transparency and the public's ability to receive unfiltered information about defense matters.\n\nAdvocates for press freedom argue that such measures undermine journalistic independence and could lead to self-censorship or skewed narratives regarding military actions. While specific details surrounding the rationale behind the ban remain limited in available sources, the reaction highlights ongoing tensions between government institutions and the media over access and control of information. The incident underscores broader concerns about shrinking spaces for free press engagement within federal agencies.",
+          "summary": "The US Defense Department has implemented a new policy barring journalists from its press office, a move that has drawn sharp criticism from media freedom advocates. The decision is being viewed as part of a broader effort to restrict independent reporting on military operations and departmental activities.\n\nCritics argue that the restriction undermines transparency and limits the public's ability to receive unfiltered information about defense matters. Media organizations have expressed concern over the potential impact on press freedom and the government's accountability.",
           "links": [
             {
               "url": "https://www.aljazeera.com/economy/2026/6/2/us-defense-department-bars-journalists-from-its-press-office?traffic_source=rss",
@@ -32,14 +32,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26152829867592-1780361371_9a946a-1780364888.jpg?resize=1200%2C630&quality=80",
           "imageAlt": "US Defense Department bars journalists from its press office",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "President Trump attempts to end hostilities in Lebanon",
-          "summary": "US President Donald Trump has announced a diplomatic breakthrough aimed at halting military escalation in Lebanon, following direct communications with Israeli Prime Minister Benjamin Netanyahu. The reported intervention seeks to de-escalate tensions and prevent further hostilities directed toward Beirut. This development marks a significant shift in the region's immediate security landscape, as international pressure mounts to contain the conflict. The US administration frames this diplomatic effort as a critical step toward stabilizing the area and preventing broader regional spillover.",
+          "summary": "US President Donald Trump has announced a diplomatic breakthrough aimed at halting military escalation toward Beirut, Lebanon. The claim follows direct communications between the US president and Israeli Prime Minister Benjamin Netanyahu regarding ongoing hostilities in the region.\n\nThe reported intervention seeks to de-escalate tensions that have raised concerns about a broader conflict involving Lebanese territory. Details regarding specific terms or agreements reached during the discussions remain limited in initial reports.",
           "links": [
             {
               "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss",
@@ -60,14 +60,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780364882.jpg?resize=1620%2C1080&quality=80",
           "imageAlt": "President Trump attempts to end hostilities in Lebanon",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Celebration, shock and scepticism follow Colombia’s presidential election",
-          "summary": "Colombia’s presidential election concluded with a result that defied widespread pre-vote projections, as far-right lawyer Abelardo de la Espriella secured victory over left-wing Senator Ivan Cepeda in the first round. The outcome has triggered a complex mix of reactions across the nation, characterized by celebration among Espriella’s supporters and palpable shock within segments of the electorate who had anticipated a different trajectory for the country’s political future.",
+          "summary": "Colombia’s presidential election concluded with a surprising first-round victory for far-right lawyer Abelardo de la Espriella, who defeated left-wing Senator Ivan Cepeda. The result has triggered a mix of celebration among his supporters and shock across the political spectrum.\n\nThe outcome upended pre-election expectations, which had largely favored more centrist or progressive candidates following the tenure of former President Gustavo Petro. Analysts note that voter fatigue and concerns over security and economic stability may have driven support toward Espriella’s conservative platform.\n\nScepticism remains high regarding the new president’s ability to govern effectively in a deeply polarized environment. Opposition figures and international observers are closely monitoring the transition, emphasizing the need for inclusive dialogue and institutional stability.",
           "links": [
             {
               "url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election?traffic_source=rss",
@@ -88,14 +88,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a1e20c8-1780359368.jpg?resize=1920%2C1440",
           "imageAlt": "Celebration, shock and scepticism follow Colombia’s presidential election",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-          "summary": "Amidst escalating hostilities in Lebanon, Israeli National Security Minister Itamar Ben-Gvir has signaled a willingness to defy President Donald Trump's diplomatic overtures. As fighting surges between Israel and Hezbollah, Ben-Gvir stated that the time has come to say 'no' to Trump and continue military strikes against the Lebanese militant group. This stance highlights a growing rift within the Israeli government regarding how to handle the ongoing conflict and potential ceasefire negotiations.\n\nSimultaneously, President Trump is reportedly engaging in direct communications with both Hezbollah leadership and Israeli officials in an effort to de-escalate the situation. The juxtaposition of high-level diplomatic talks and continued ground operations underscores the complex dynamics at play. While the White House seeks a resolution through dialogue, hardline elements within Israel are pushing for sustained military pressure, complicating international mediation efforts and raising tensions across the region.",
+          "summary": "Tensions in the Middle East escalated as fighting surged in Lebanon, prompting direct diplomatic engagement from US President Donald Trump with both Israel and Hezbollah. The live updates indicate a complex geopolitical maneuvering where Washington is attempting to mediate or influence the ongoing conflict between Israeli forces and the Lebanese militant group.\n\nIn response to potential US intervention or ceasefire pressures, Israeli National Security Minister Itamar Ben-Gvir issued a defiant stance. He declared that it was time for Israel to say 'no' to Trump's proposals and continue its military strikes against Hezbollah targets in Lebanon, signaling internal disagreement with any diplomatic off-ramps.",
           "links": [
             {
               "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
@@ -116,14 +116,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a1e91c3d94e8-1780388291.jpg?resize=1920%2C1440",
           "imageAlt": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Ultra-Orthodox protesters clash with Israeli police over army draft",
-          "summary": "Ultra-Orthodox demonstrators in Jerusalem engaged in confrontations with Israeli police, resulting in arrests and the removal of protesters from beneath a bus. The unrest was sparked by ongoing tensions regarding military conscription policies within the Ultra-Orthodox community. Police were observed dragging individuals away after they blocked major roads, highlighting the persistent friction between religious groups and state authorities over draft exemptions.",
+          "summary": "Ultra-Orthodox protesters clashed with Israeli police in Jerusalem over the issue of military conscription. Police were observed dragging demonstrators from beneath a bus after they blocked roads to protest the draft.\n\nThe confrontation highlights ongoing tensions regarding army service obligations within Israel's Ultra-Orthodox community.",
           "links": [
             {
               "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss",
@@ -144,14 +144,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780356920.jpg?resize=1920%2C1080&quality=80",
           "imageAlt": "Ultra-Orthodox protesters clash with Israeli police over army draft",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
-          "summary": "The strikes specifically impacted Kyiv, where thousands of residents fled to underground shelters following reports of ballistic missiles hitting the city center. Local emergency services rushed to the scene to manage the aftermath, while government officials condemned the attack as a deliberate attempt to target civilian infrastructure and population centers. The incident underscores the ongoing intensity of the conflict and the persistent threat facing Ukrainian urban areas despite international diplomatic efforts.",
+          "summary": "Massive overnight Russian strikes have hit Ukraine, resulting in at least five fatalities. The attacks targeted the capital city of Kyiv, prompting a significant emergency response from local authorities and residents.\n\nThousands of people in Kyiv were forced to seek shelter as ballistic missiles struck the city center. Officials confirmed that the strikes caused substantial damage and loss of life, marking another escalation in the ongoing conflict.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
@@ -173,14 +173,14 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf8/live/411c3100-5e2a-11f1-b682-cf91850925ea.jpg",
           "imageAlt": "Massive overnight Russian strikes hit Ukraine killing at least five",
           "imageCredit": "BBC"
         },
         {
           "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
-          "summary": "Denmark's Prime Minister Mette Frederiksen has secured a third term in office following the conclusion of extensive political negotiations. As the leader of the Social Democratic Party, she is moving forward to establish a centre-left coalition minority government. This development marks a significant milestone after months of deliberation among various political factions, allowing her party to maintain its grip on power despite not holding an outright majority. The formation of this new administration signals a continuation of Frederiksen's leadership style and policy direction, which has characterized her previous terms in office.",
+          "summary": "Denmark's Prime Minister Mette Frederiksen is set to form a new government following an extended period of political negotiations. As the leader of the Social Democratic Party, she will establish a centre-left coalition minority administration.\n\nThis development secures her position for a third term in office. The formation of this government concludes months of complex talks aimed at stabilizing the country's political landscape.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
@@ -202,14 +202,14 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c28/live/307a81b0-5e22-11f1-a6fd-eda29808c5f6.jpg",
           "imageAlt": "Denmark's Mette Frederiksen to form government after months of negotiations",
           "imageCredit": "BBC"
         },
         {
           "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-          "summary": "Lebanese authorities have announced that Hezbollah has agreed to a reciprocal halt in attacks directed at Israel, marking a potential de-escalation in the ongoing cross-border conflict. The agreement was presented as a mutual cessation of hostilities between the two sides. However, the stability of this truce appeared fragile almost immediately following its announcement. Within hours, the Israeli military reported intercepting projectiles launched from Lebanese territory, suggesting that violations or misunderstandings may have occurred right at the outset of the proposed pause.\n\nThis rapid development highlights the volatility of the situation on the ground and the challenges in enforcing such agreements amidst active conflict. While the diplomatic announcement signaled a move toward reducing violence, the immediate military response indicates that tensions remain high and that compliance with any ceasefire terms is not yet guaranteed. The incident underscores the difficulty of maintaining a reciprocal halt when security concerns and operational realities continue to drive actions on both sides of the border.",
+          "summary": "Lebanese authorities have announced that Hezbollah has agreed to a reciprocal halt in attacks against Israel. The development marks a significant potential de-escalation in the ongoing cross-border conflict between the two nations.\n\nHowever, tensions remain high as the Israeli military reported intercepting projectiles fired from Lebanon shortly after the pause was declared. This immediate violation underscores the fragility of the agreement and the complex security dynamics on the ground.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
@@ -231,14 +231,14 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg",
           "imageAlt": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
           "imageCredit": "BBC"
         },
         {
           "title": "How health workers in DR Congo are treating Ebola and staying safe",
-          "summary": "Health workers in the Democratic Republic of Congo are currently managing an Ebola outbreak caused by the Bundibugyo species, a strain for which there are no approved therapeutic drugs. This lack of specific medical countermeasures places significant pressure on frontline personnel, who must rely on supportive care and strict adherence to safety protocols to treat patients while protecting themselves from infection. The absence of targeted pharmaceutical interventions necessitates rigorous isolation procedures and the use of personal protective equipment as primary defenses against transmission.\n\nThe situation highlights the ongoing challenges faced by medical teams in the region when confronting viral hemorrhagic fevers with limited treatment options. Workers must balance effective patient care with their own safety, operating in an environment where standard Ebola management techniques are adapted to account for the specific characteristics of the Bundibugyo variant. Their efforts underscore the critical role of healthcare infrastructure and training in containing outbreaks where pharmaceutical solutions remain unavailable.",
+          "summary": "Health workers in the Democratic Republic of Congo are currently managing an Ebola outbreak caused by the Bundibugyo species. This specific strain presents a unique challenge for medical teams because there are no approved drugs that target it.\n\nThe absence of targeted pharmaceutical treatments means that care relies heavily on supportive measures and strict safety protocols. Workers must navigate these risks while providing essential treatment to infected patients in the region.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/cgepl7ler5eo?at_medium=RSS&at_campaign=rss",
@@ -260,14 +260,14 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/710b/live/9b1e7d90-5db0-11f1-8132-9508271dd882.jpg",
           "imageAlt": "How health workers in DR Congo are treating Ebola and staying safe",
           "imageCredit": "BBC"
         },
         {
           "title": "Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
-          "summary": "Tom Hanks has highlighted the theme of children's screen addiction in the upcoming Toy Story 5, describing it as a source of 'terror.' The latest installment in the beloved franchise features Woody, Buzz Lightyear, and the rest of the toy ensemble facing competition from a new tablet device for the attention of their young owners. This narrative element underscores growing societal concerns regarding digital engagement among younger demographics.",
+          "summary": "Tom Hanks has highlighted the theme of children's screen addiction in the upcoming Toy Story 5. The latest installment features Woody, Buzz Lightyear, and the rest of the toy gang facing competition from a new tablet for their young owners' attention.\n\nHanks described this dynamic as portraying the \"terror\" associated with modern digital distractions. The film uses its familiar characters to explore how technology is reshaping childhood engagement and play.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/cy5222wn410o?at_medium=RSS&at_campaign=rss",
@@ -289,7 +289,7 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a394/live/904a0a10-58f1-11f1-b682-cf91850925ea.jpg",
           "imageAlt": "Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
           "imageCredit": "BBC"
@@ -301,7 +301,7 @@
       "stories": [
         {
           "title": "NSW government commits to remove barriers to Aboriginal cultural burning",
-          "summary": "The New South Wales government has formally committed to removing barriers that have historically hindered Aboriginal cultural burning practices. This commitment is outlined in the newly released NSW Cultural Fire Strategy, which establishes a definitive timeline for implementation. The strategy aims to enhance resources and provide robust support specifically tailored to Indigenous-led initiatives, recognizing their critical role in land management and ecological health.\n\nBy setting clear milestones, the government seeks to address systemic obstacles that have limited the practice of cultural burning by Traditional Owners. This structured approach signifies a shift towards greater collaboration and respect for Indigenous knowledge systems in fire management across the state.",
+          "summary": "The New South Wales government has formally committed to removing barriers that have historically hindered Aboriginal cultural burning practices. This commitment is outlined in the newly released NSW Cultural Fire Strategy, which establishes a definitive timeline for implementation.\n\nThe strategy aims to provide better resources and support specifically for Indigenous-led cultural burning initiatives across the state. By setting clear milestones, the government intends to facilitate greater integration of traditional fire management techniques into broader land care efforts.",
           "links": [
             {
               "url": "https://www.abc.net.au/news/2026-06-02/nsw-cultural-fire-strategy-released/106747566",
@@ -323,14 +323,14 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/5297f8b2aec9c5df0593c7e3d9edf25c?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=60&width=862&height=485",
           "imageAlt": "NSW government commits to remove barriers to Aboriginal cultural burning",
           "imageCredit": "ABC News"
         },
         {
           "title": "Mother shares incredible survival story after WA's strongest storm in 49 years",
-          "summary": "A mother in Western Australia has shared her harrowing survival story following the state's most severe storm in 49 years, which struck on Sunday. The extreme weather conditions led to a freak accident on a regional highway where a large tree fell onto her vehicle. The driver described the incident as a near-death experience, highlighting the unpredictable and dangerous nature of the wild weather that swept through the area.",
+          "summary": "A Western Australian mother has recounted her harrowing survival experience following the state's most severe storm in nearly five decades. The incident occurred on a regional highway during intense weather conditions that swept through the area on Sunday.\n\nThe driver described how a tree fell onto her vehicle, resulting in a near-fatal accident. She stated that she narrowly escaped serious injury or death during the freak occurrence.",
           "links": [
             {
               "url": "https://www.abc.net.au/news/2026-06-02/divine-intervention-woman-defies-death-after-tree-falls-on-car/106748920",
@@ -352,14 +352,14 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/654278442e330d8fca887dd7c0e0c5de?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=1509&width=862&height=485",
           "imageAlt": "Mother shares incredible survival story after WA's strongest storm in 49 years",
           "imageCredit": "ABC News"
         },
         {
           "title": "Australia politics live: nearly 3 million workers to receive a 4.75% pay rise under minimum wage decision; Chalmers says economic woes driving voters ",
-          "summary": "Nearly three million Australian workers are set to receive a 4.75% pay rise following the Fair Work Commission's latest minimum wage decision. The ruling falls short of the 6% increase demanded by unions, which had argued for higher adjustments based on last month’s budget projections indicating inflation would reach 5% in the year leading to June. The decision impacts a significant portion of the workforce, aiming to balance wage growth with broader economic stability.\n\nTreasury Secretary Jim Chalmers has linked current economic challenges to shifting voter sentiment, suggesting that financial pressures are influencing political dynamics. As the government navigates these economic woes, the minimum wage adjustment represents a key policy outcome intended to support low-income earners while managing inflationary expectations. The decision underscores ongoing tensions between labor demands and fiscal constraints in Australia's current economic landscape.",
+          "summary": "Nearly three million Australian workers are set to receive a 4.75% pay rise following the Fair Work Commission's latest minimum wage decision. The ruling falls short of the 6% increase demanded by unions, which had argued for higher wages based on last month’s budget projections estimating inflation would reach 5% in the year leading to June.\n\nTreasury Secretary Jim Chalmers has suggested that ongoing economic difficulties are influencing voter sentiment ahead of upcoming elections. The decision marks a significant adjustment for low-income earners amid broader financial pressures affecting households across the country.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
@@ -380,14 +380,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://i.guim.co.uk/img/media/44d0a61861e54cd8806e23121fff2b5dc78470d7/0_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=fedd6b2b1bcf197a0ebe05b6f5b1660d",
           "imageAlt": "Australia politics live: nearly 3 million workers to receive a 4.75% pay rise under minimum wage decision; Chalmers says economic woes driving voters",
           "imageCredit": "The Guardian"
         },
         {
           "title": "Victorian minister under fire for writing 33 character references including for taxi driver who assaulted women",
-          "summary": "Victorian Labor minister Luba Grigorovitch is facing intense scrutiny after it was revealed she authored 33 character references for individuals involved in legal proceedings. The controversy has intensified due to the nature of some of these cases, including a reference written on behalf of a taxi driver accused of assaulting women. This disclosure has sparked significant public and political backlash regarding her judgment and the appropriateness of her involvement in such matters.\n\nIn response to the growing criticism, Grigorovitch has publicly expressed regret for six of the references she wrote. She has stated that she vows never to write another character reference moving forward. The incident highlights the ongoing debate surrounding the role of public officials in private legal disputes and the potential conflicts of interest that may arise from such actions.",
+          "summary": "Victorian Labor minister Luba Grigorovitch is facing intense scrutiny after it was revealed she wrote 33 character references for individuals involved in legal proceedings. The controversy has intensified due to the nature of some cases, including a reference provided for a taxi driver accused of assaulting women.\n\nGrigorovitch has publicly acknowledged her involvement and expressed regret over six of the specific references she authored. In response to the backlash, she has stated that she will not write any further character references in the future.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/2026/jun/02/victorian-minister-under-fire-for-writing-33-character-references-including-for-taxi-driver-who-assaulted-women-ntwnfb",
@@ -408,7 +408,7 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://i.guim.co.uk/img/media/3d964b0853c4352270bc77a7c0e206ef1516a230/673_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=23878626806a42f61a48f8e972f9c7b9",
           "imageAlt": "Victorian minister under fire for writing 33 character references including for taxi driver who assaulted women",
           "imageCredit": "The Guardian"
@@ -420,7 +420,7 @@
       "stories": [
         {
           "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
-          "summary": "Rumors surrounding the upcoming Google Pixel Watch 5 have taken an unexpected turn after Borderlands creator Randy Pitchford inadvertently shared images of the device on social media. The leak, which appeared via X, features screenshots that allegedly depict the next-generation wearable, offering a rare glimpse into its design before any official announcement from Google. This accidental disclosure has sparked immediate speculation among tech enthusiasts and industry observers regarding the watch's potential specifications and release timeline.\n\nWhile no formal confirmation or detailed specifications have been released by Google, the leaked visuals provide a focal point for current discussions about the device's aesthetic direction and hardware improvements. The incident highlights the ongoing challenges manufacturers face in maintaining secrecy ahead of major product launches, particularly when high-profile figures are involved. As interest in the Pixel Watch 5 continues to grow, all eyes remain on Google for an official reveal that can validate or clarify these early impressions.",
+          "summary": "The Google Pixel Watch 5 may have been prematurely revealed through an unexpected source. Randy Pitchford, the creator of the Borderlands video game series, shared images on X that appear to show the upcoming smartwatch.\n\nThe leak suggests that details about the device's design or features could be circulating ahead of an official announcement. This development highlights how product information can sometimes emerge from unconventional channels before companies are ready to share them.",
           "links": [
             {
               "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
@@ -441,14 +441,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
           "imageAlt": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
           "imageCredit": "The Verge"
         },
         {
           "title": "Pebblebee’s Halo can help track lost items and keep you safe, and it’s on sale for $50",
-          "summary": "Pebblebee has introduced the Halo, a compact device designed to serve dual purposes as both an item tracker and a personal safety tool. The device utilizes Bluetooth technology to help users locate misplaced belongings, addressing common travel concerns regarding lost luggage or keys. Beyond tracking capabilities, the Halo integrates features intended to enhance user security, making it a multifunctional accessory for those prioritizing safety during transit.",
+          "summary": "Pebblebee’s Halo is a compact device designed to serve dual purposes for travelers and everyday users. It functions as both a Bluetooth tracker to locate lost items and a personal safety tool to help keep the user secure.\n\nThe product is currently available at a discounted price of $50, making it an accessible option for those looking to enhance their travel preparedness or daily security routine.",
           "links": [
             {
               "url": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
@@ -469,14 +469,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pebblebee_halo2.jpg?quality=90&strip=all&crop=0%2C10.747740781622%2C100%2C78.504518436757&w=1200",
           "imageAlt": "Pebblebee’s Halo can help track lost items and keep you safe, and it’s on sale for $50",
           "imageCredit": "The Verge"
         },
         {
           "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-          "summary": "Nvidia has unveiled the RTX Spark, a new line of Windows laptops powered by ARM-based processors designed to compete directly with Apple’s M-series chips. The announcement at Computex 2026 marks a significant shift for the Windows ecosystem, aiming to replicate the performance and efficiency breakthroughs that Apple achieved with its transition from Intel to custom silicon. Nvidia CEO Jensen Huang showcased the devices, positioning them as a potential turning point for PC computing by offering superior battery life and processing power in a thin form factor.\n\nHowever, early indications suggest these machines will come at a premium price point. The Verge notes that while the technology represents a \"M1 moment\" for Windows, consumers should expect high costs associated with the new hardware. This pricing strategy mirrors Apple’s initial approach to its ARM-based Macs, where advanced capabilities were initially reserved for higher-end models. The move signals Nvidia's intent to redefine laptop performance standards, though widespread adoption may depend on how quickly manufacturers can scale production and reduce prices.",
+          "summary": "Windows laptops are poised for a significant shift in performance and efficiency, drawing comparisons to Apple’s M1 chip transition. Nvidia has showcased new RTX Spark laptops at Computex 2026, signaling a move toward ARM-based architecture for Windows devices.\n\nThe technology promises improved battery life and processing power, potentially challenging the dominance of Intel and AMD in the laptop market. However, early indications suggest that these advanced systems will come with a premium price tag.\n\nManufacturers are expected to launch high-end models first, targeting professionals and enthusiasts willing to pay for cutting-edge hardware. The broader impact on consumer pricing and availability remains uncertain as the ecosystem develops.",
           "links": [
             {
               "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
@@ -497,14 +497,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
           "imageAlt": "This could be Windows’ M1 moment — but expect it to cost a ton",
           "imageCredit": "The Verge"
         },
         {
           "title": "Gemini’s new AI agent is about as good as Google’s demo",
-          "summary": "Google has introduced Gemini Spark, a new AI agent designed to operate continuously and assist users with a wide range of tasks. Early hands-on evaluations suggest that the agent performs comparably to the capabilities demonstrated in Google's official promotional materials. The system is positioned as a \"24/7\" assistant, implying an always-available interface for handling complex queries or multi-step workflows without significant latency or degradation in performance.\n\nInitial testing indicates that Gemini Spark can deliver surprisingly effective results when navigating real-world scenarios, matching the polished outcomes showcased during its launch presentation. This alignment between demo and actual user experience suggests that Google has successfully translated its theoretical AI advancements into a functional product. The agent’s ability to maintain consistency across varied tasks highlights progress in making large language models more reliable for everyday utility.",
+          "summary": "Google has introduced Gemini Spark, a new \"24/7\" AI agent designed to handle continuous tasks and user requests. Early hands-on evaluations suggest the tool performs impressively well in practical scenarios.\n\nThe agent demonstrates significant capability in executing complex instructions without constant human oversight. This marks a notable step forward for Google's integration of autonomous AI features into its Gemini ecosystem.",
           "links": [
             {
               "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
@@ -525,14 +525,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0%2C10.604950381935%2C100%2C78.79009923613&w=1200",
           "imageAlt": "Gemini’s new AI agent is about as good as Google’s demo",
           "imageCredit": "The Verge"
         },
         {
           "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
-          "summary": "Startup Battlefield, a prominent competition at TechCrunch Disrupt, offers founders the chance to present on the prestigious Main Stage. While securing a spot in the Top 20 is a primary goal for many applicants, the process involves rigorous preparation and strategic pitching that extends far beyond the final performance. Success requires founders to refine their value proposition, demonstrate market traction, and effectively communicate their vision to judges and investors alike.\n\nRegardless of whether a company reaches the Main Stage, participation in Startup Battlefield provides significant benefits. Every applicant gains exposure within the startup ecosystem, access to networking opportunities with industry leaders, and valuable feedback on their business model. This structure ensures that even those not selected for the top tier derive meaningful value from the experience, turning the competition into a broader developmental opportunity rather than solely a winner-takes-all event.",
+          "summary": "Founders applying to the Startup Battlefield competition share a common goal: securing a spot on the Disrupt Main Stage. However, the path to that prestigious platform begins long before the final pitch.\n\nSuccess requires strategic preparation and adherence to specific criteria that distinguish top-tier startups from the rest of the applicant pool. The process involves more than just a compelling idea; it demands rigorous execution and clear market validation.\n\nRegardless of whether a company reaches the Top 20, all participants receive valuable opportunities and exposure. This universal benefit ensures that every founder gains meaningful engagement with investors and industry leaders, regardless of their final ranking.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
@@ -553,14 +553,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/54889021188_e8f5317c37_o.jpg?resize=1200,800",
           "imageAlt": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Alphabet plans to raise $80B to pay for AI buildout",
-          "summary": "This massive financial commitment underscores the intensifying competition within the AI sector and Alphabet's strategy to scale its operations rapidly. By securing such a large pool of capital, the company aims to bridge the gap between surging user demand and its current production capacity. The move signals a continued heavy investment in AI technologies as a core component of Alphabet's long-term growth strategy.",
+          "summary": "Alphabet has announced plans to raise $80 billion to fund its ongoing artificial intelligence infrastructure expansion. The tech giant cited robust demand for its AI solutions and services from both enterprise clients and consumers as the primary driver behind this significant capital increase.\n\nIn a recent statement, the company noted that current interest in its AI offerings is exceeding available supply. This surge in demand underscores the intensifying competition to build out the necessary computing resources required to support large-scale generative AI applications.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
@@ -581,14 +581,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
           "imageAlt": "Alphabet plans to raise $80B to pay for AI buildout",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
-          "summary": "Mach Industries, a defense technology firm founded by 22-year-old CEO Ethan Thornton, has achieved an $1.8 billion valuation following a recent $300 million funding round. This latest investment marks a significant milestone for the company, representing a fourfold increase in its valuation over the past year and underscoring strong investor confidence in its autonomous vehicle capabilities.\n\nThe company currently has five autonomous vehicles in various stages of development, highlighting its rapid progress in the defense sector. In addition to securing new capital, Mach Industries recently completed a major acquisition, further expanding its operational scope and technological portfolio. The combination of substantial funding, product development momentum, and strategic acquisitions positions Mach Industries as a prominent player in the defense technology landscape.",
+          "summary": "Mach Industries, a defense technology company founded by 22-year-old CEO Ethan Thornton, has achieved an $1.8 billion valuation following a recent $300 million funding round. This latest investment marks a significant fourfold increase in the company's worth over the past year.\n\nThe startup currently has five autonomous vehicles under development and recently completed a major acquisition to bolster its capabilities. The rapid growth highlights increasing investor confidence in Mach Industries' role within the defense sector.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
@@ -609,14 +609,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/Ethan-Thornton-SVCSF-2025-e1780338289712.jpg?resize=1200,957",
           "imageAlt": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-          "summary": "Nvidia is aggressively targeting the $200 billion personal computer CPU market by partnering with major industry players including Microsoft, Dell, and HP to integrate AI agents directly into consumer devices. This strategic move aims to transition Nvidia's dominance beyond data center GPUs into the broader PC ecosystem, positioning its technology as a core component of next-generation computing experiences. The collaboration focuses on delivering artificial intelligence capabilities that are accessible, secure, and practically useful for everyday users, potentially reshaping how individuals interact with their computers.\n\nThe initiative represents a significant expansion of Nvidia's business model, leveraging its expertise in AI processing to capture a larger share of the consumer hardware market. By working with established OEMs and software giants, Nvidia seeks to standardize AI agent functionality across different PC platforms. If successful, this approach could accelerate the adoption of on-device AI, reducing reliance on cloud-based services while offering users more responsive and private intelligent assistants. The move underscores the growing convergence between high-perfo",
+          "summary": "Nvidia is targeting the $200 billion personal computer CPU market by partnering with major technology firms including Microsoft, Dell, and HP. The collaboration aims to integrate AI agents directly into consumer PCs, making these intelligent tools accessible to a broader audience.\n\nThe initiative focuses on delivering AI capabilities in a manner that is both easy to use and secure for everyday users. If Nvidia successfully establishes a reliable framework for deploying AI agents safely at scale, the move could significantly expand its market presence beyond traditional graphics processing units.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
@@ -637,7 +637,7 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
           "imageAlt": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
           "imageCredit": "TechCrunch"
@@ -649,7 +649,7 @@
       "stories": [
         {
           "title": "Here are DepEd policy changes you need to know for SY 2026-2027",
-          "summary": "The Department of Education (DepEd) has announced a series of policy reforms set to take effect for the School Year 2026-2027, marking significant structural adjustments to the Philippine basic education system. Central to these changes is the adoption of a three-term academic calendar, which replaces the traditional two-term schedule. This shift aims to distribute instructional time more evenly throughout the year, potentially reducing student fatigue and allowing for more focused learning periods.\n\nIn addition to the revised calendar, DepEd is implementing a new grading system designed to provide a more comprehensive assessment of student performance. While specific metrics remain under development, the overhaul signals a broader effort to modernize educational evaluation methods. These reforms are part of ongoing initiatives to enhance the quality and accessibility of education across the country, addressing long-standing concerns about curriculum pacing and assessment accuracy.",
+          "summary": "The Department of Education has announced significant policy reforms for the 2026-2027 school year, introducing a three-term academic calendar. This structural shift aims to reorganize the traditional two-term schedule into a more distributed format.\n\nAlongside the calendar change, the agency is implementing a new grading system designed to assess student performance differently. These combined adjustments represent a major overhaul of the current educational framework for the upcoming academic year.",
           "links": [
             {
               "url": "https://www.rappler.com/philippines/department-education-policy-reforms-school-year-2026-2027/",
@@ -670,14 +670,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/SY-2026-2027-calendar-DepEd-Order-9-s.-2026.png",
           "imageAlt": "Here are DepEd policy changes you need to know for SY 2026-2027",
           "imageCredit": "Rappler"
         },
         {
           "title": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue",
-          "summary": "Lebanon has announced a partial ceasefire between Israel and Hezbollah, though reports indicate that attacks continue despite the agreement. The fragile truce highlights the ongoing volatility in the region as hostilities persist even amidst diplomatic efforts to de-escalate tensions. This development comes against a backdrop of broader regional instability, with multiple actors involved in the conflict maintaining military postures.\n\nIn a related escalation, the head of Iran's Revolutionary Guards Quds Force has threatened to expand the blockade of the Strait of Hormuz to include the Bab el-Mandeb Strait. This move would extend Iranian pressure to another critical maritime chokepoint at the mouth of the Red Sea, potentially impacting global shipping routes and further complicating efforts to stabilize the Middle East. The threat underscores the widening scope of regional confrontations and their potential to disrupt international trade.",
+          "summary": "Lebanon has announced a partial ceasefire between Israel and Hezbollah, though reports indicate that attacks continue despite the agreement. The fragile truce highlights ongoing tensions in the region as hostilities persist on the ground.\n\nIn a related development, Iran's Revolutionary Guards Quds Force commander has threatened to expand the blockade of the Strait of Hormuz. The threat includes extending restrictions to the Bab el-Mandeb Strait, another critical chokepoint located at the mouth of the Red Sea.",
           "links": [
             {
               "url": "https://www.rappler.com/world/middle-east/lebanon-partial-ceasefire-israel-hezbollah-june-1-2026/",
@@ -698,14 +698,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.rappler.com/tachyon/2026/04/IRAN-CRISIS-2026-04-08-scaled.jpg",
           "imageAlt": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue",
           "imageCredit": "Rappler"
         },
         {
           "title": "Over 700 families seek return of 80 hectares in Iloilo island dispute",
-          "summary": "Over 700 families in Iloilo are seeking the return of approximately 80 hectares of land on Sicogon Island, marking a significant development in a long-standing local dispute. The push for land restitution coincides with the cessation of operations at tourism facilities managed by the Sicogon Island Tourism Estate Corporation. This operational halt has intensified calls from the affected families to reclaim their ancestral or claimed territories, highlighting tensions between community rights and commercial land use.",
+          "summary": "More than 700 families in Iloilo are demanding the return of approximately 80 hectares of land on Sicogon Island. The claim arises as operations at the island's tourism facilities have halted under the management of the Sicogon Island Tourism Estate Corporation.\n\nThe dispute highlights ongoing tensions regarding land ownership and usage rights in the area. Families involved are seeking to reclaim the territory, citing their historical ties and potential claims to the property.",
           "links": [
             {
               "url": "https://www.rappler.com/philippines/visayas/families-seek-land-return-iloilo-island-dispute/",
@@ -726,14 +726,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/Sicogon-Island-dispute2-scaled.jpg",
           "imageAlt": "Over 700 families seek return of 80 hectares in Iloilo island dispute",
           "imageCredit": "Rappler"
         },
         {
           "title": "Cayetano’s old playbook returns: No WiFi, no air-conditioning for Senate minority",
-          "summary": "Senate President Alan Cayetano has reportedly implemented measures restricting amenities for the Senate minority, specifically denying access to WiFi and air-conditioning. This action mirrors tactics previously employed by Cayetano during his tenure as House Speaker in 2020. At that time, facing potential ouster, he ordered the disconnection of electricity and internet services within a padlocked Batasan plenary hall. The current situation highlights a recurrence of these restrictive strategies aimed at the minority faction within the legislative body.",
+          "summary": "Senate Minority Leader Alan Cayetano has reportedly implemented measures restricting access to basic amenities for the minority bloc, drawing comparisons to tactics he employed during his tenure as House Speaker. According to reports, the Senate minority is currently without WiFi and air-conditioning in their designated workspace.\n\nThis situation mirrors events from 2020 when Cayetano faced potential removal from his position as House Speaker. During that period, he allegedly ordered the disconnection of electricity and internet services within a padlocked Batasan plenary hall to exert pressure on opposing lawmakers.",
           "links": [
             {
               "url": "https://www.rappler.com/newsbreak/inside-track/alan-cayetano-old-playbook-returns-no-internet-airconditioning/",
@@ -754,14 +754,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg",
           "imageAlt": "Cayetano’s old playbook returns: No WiFi, no air-conditioning for Senate minority",
           "imageCredit": "Rappler"
         },
         {
           "title": "Jinggoy Estrada is back in jail after 9 years",
-          "summary": "Former Senator Jinggoy Estrada has been remanded to custody, marking his return to jail after a nine-year absence from detention. This development follows his initial release in 2017, which occurred in the context of legal proceedings related to the controversial pork barrel fund scandal. The current detention signifies a renewed phase in the ongoing judicial processes involving the former legislator.\n\nEstrada's re-incarceration highlights the persistent legal challenges he faces regarding allegations tied to his time in office. While specific details regarding the immediate cause for this latest detention are not elaborated upon in the provided summary, it underscores the continued scrutiny and legal obligations surrounding high-profile political figures in the Philippines. The case remains a significant point of interest within the nation's political landscape.",
+          "summary": "Former Philippine Senator Jinggoy Estrada has been remanded to custody, marking his return to jail after a nine-year absence. This development follows his initial release from detention in 2017, which occurred in connection with the high-profile pork barrel case.\n\nThe decision to detain him again underscores the ongoing legal proceedings surrounding graft allegations tied to his time in office. Estrada's re-incarceration highlights the persistent judicial scrutiny faced by former officials involved in significant corruption investigations.",
           "links": [
             {
               "url": "https://www.rappler.com/philippines/jinggoy-estrada-return-jail-years-plunder-graft-cases/",
@@ -782,14 +782,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/photo_2026-06-01-23.35.02.jpeg",
           "imageAlt": "Jinggoy Estrada is back in jail after 9 years",
           "imageCredit": "Rappler"
         },
         {
           "title": "Drug suspect nabbed in Tawi-Tawi; P6.8-M shabu seized",
-          "summary": "Philippine authorities in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) have arrested an alleged major drug peddler and confiscated a significant quantity of illegal narcotics. The Philippine Drug Enforcement Agency (PDEA) reported that Edgar Jubay, the regional director for BARMM, confirmed the arrest took place on Monday in Tawi-Tawi during a targeted buy-bust operation.\n\nThe seizure involved one kilogram of suspected shabu, an illicit methamphetamine variant, which officials estimated to be worth approximately P6.8 million. This operation underscores ongoing enforcement efforts by local law enforcement agencies to combat drug trafficking within the island province.",
+          "summary": "Authorities in the Philippines arrested an alleged major drug peddler in Tawi-Tawi on Monday, seizing one kilogram of suspected shabu valued at approximately P6.8 million.\n\nThe Philippine Drug Enforcement Agency (PDEA) confirmed the operation, with Edgar Jubay, regional director for the Bangsamoro Autonomous Region in Muslim Mindanao, stating that the suspect was apprehended during a buy-bust mission.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2238491/drug-suspect-nabbed-in-tawi-tawi-p6-8-m-shabu-seized",
@@ -810,14 +810,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Tawi-Tawi-map-filephoto-091522.jpg",
           "imageAlt": "Drug suspect nabbed in Tawi-Tawi; P6.8-M shabu seized",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Lipa City declines Leviste’s 1,000 rice pack donation",
-          "summary": "The local government of Lipa City in Batangas province has officially declined a donation of 1,000 packs of rice that was reportedly intended for city hall employees. The offer came from Leviste, though the specific nature of his relationship to the donation is not detailed in the provided materials. In an official statement released in Filipino, the city government expressed gratitude to individuals and organizations seeking to extend assistance to the community during this time.",
+          "summary": "The local government of Lipa City in Batangas province has officially declined a donation of 1,000 packs of rice. The contribution was reportedly intended for employees of the City Hall.\n\nIn an official statement released in Filipino, city officials expressed gratitude to individuals and organizations seeking to assist the community. They emphasized their appreciation while maintaining that the specific offer from Leviste would not be accepted.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2238486/lipa-city-declines-levistes-1000-rice-pack-donation",
@@ -838,14 +838,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/710755267_122214126410455336_3035758728435282379_n-1.jpg",
           "imageAlt": "Lipa City declines Leviste’s 1,000 rice pack donation",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "BFAR: Bolinao, Anda coastal waters in Pangasinan now red tide-free",
-          "summary": "The Bureau of Fisheries and Aquatic Resources (BFAR) Region I has officially declared that the coastal waters of Bolinao and Anda in western Pangasinan are now free from red tide toxins. This update was communicated through Shellfish Bulletin No. 13, which was issued on Monday by the agency based in San Fernando City, La Union. The bulletin confirms that shellfish harvested from these specific towns no longer pose a health risk to consumers.\n\nThe declaration marks a significant recovery for local fisheries in the area, allowing residents and vendors to resume normal harvesting and selling activities without safety concerns. BFAR’s monitoring continues to ensure that toxin levels remain below dangerous thresholds, providing assurance to the community regarding the safety of their seafood supply.",
+          "summary": "The Bureau of Fisheries and Aquatic Resources (BFAR) Region I has declared that the coastal waters of Bolinao and Anda in western Pangasinan are now free from red tide toxins. This official status was confirmed through Shellfish Bulletin No.\n\n13, which was issued on Monday.\n\nAccording to the agency's announcement, all shellfish harvested from these two towns are considered safe for consumption. The update marks a significant recovery for local fisheries that had previously been affected by the harmful algal blooms.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2238424/bfar-bolinao-anda-coastal-waters-in-pangasinan-now-red-tide-free",
@@ -866,14 +866,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/20260523_WL09-scaled.jpg",
           "imageAlt": "BFAR: Bolinao, Anda coastal waters in Pangasinan now red tide-free",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Pia Cayetano revokes invite to 18 ‘ex-Marines’ in flood control probe",
-          "summary": "Senator Pia Cayetano has withdrawn the invitation extended to 18 former Philippine Marines and their legal counsel, Atty. Levito Baligod, to appear before the Senate Blue Ribbon Committee regarding its ongoing probe into flood control projects. The withdrawal was confirmed via an email from the committee's Oversight Office, a screenshot of which Baligod shared on social media on Tuesday.\n\nThe decision marks a procedural shift in the investigation, potentially altering the scope or direction of testimony sought by the legislative body. By revoking the summons, Cayetano may be reassessing the relevance or admissibility of the former Marines' accounts concerning alleged irregularities in government infrastructure spending. The committee has yet to provide an official public statement detailing the rationale behind the withdrawal, leaving observers to speculate on whether this reflects a strategic adjustment in the inquiry's focus.",
+          "summary": "Senator Pia Cayetano has withdrawn the invitation extended to 18 alleged former Marines and their legal counsel, Atty. Levito Baligod, to appear before the Senate Blue Ribbon Committee's ongoing flood control probe.\n\nThe development was confirmed via a social media post by Baligod on Tuesday, who shared a screenshot of an email from the committee's Oversight Office notifying him of the withdrawal.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2238429/pia-cayetano-revokes-invite-to-18-ex-marines-in-flood-control-probe",
@@ -894,14 +894,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/2131421WhatsApp-Image-2026-06-02-at-10.23.15.png",
           "imageAlt": "Pia Cayetano revokes invite to 18 ‘ex-Marines’ in flood control probe",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Bohol provincial government restores regular workweek",
-          "summary": "The restoration of the regular workweek marks a return to pre-existing administrative routines within the Bohol Provincial Capitol in Tagbilaran City. By lifting the temporary four-day arrangement, Governor Aumentado’s executive order ensures that all provincial government entities align with the standard five-day operational schedule, affecting the broader public service delivery and administrative processes across the province.",
+          "summary": "The Bohol provincial government has officially restored the regular five-day workweek for all its offices. This change follows the issuance of Executive Order No.\n\n34, Series of 2026, signed by Governor Erico Aristotle Aumentado.\n\nThe order directs all provincial departments, divisions, and units to resume standard operations after a temporary four-day schedule was implemented. Government offices at the Bohol Provincial Capitol in Tagbilaran City have already returned to their normal routines.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2238407/bohol-provincial-government-restores-regular-workweek",
@@ -922,7 +922,7 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v1",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_2731-scaled.jpeg",
           "imageAlt": "Bohol provincial government restores regular workweek",
           "imageCredit": "Philippine Daily Inquirer"
