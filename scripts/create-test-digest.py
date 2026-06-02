@@ -2,6 +2,7 @@
 """Create a test today-expanded.json from fresh feed data for publish pipeline testing."""
 import json, os, re
 from datetime import datetime
+from link_metadata import enrich_link_metadata, missing_required_link_metadata
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.join(SCRIPT_DIR, "..")
@@ -112,11 +113,19 @@ def make_section(name, domains, count=5):
             url = normalize_url(item.get("url", ""))
             if url and url in previous_urls:
                 continue
-            desc = (item.get("description", "") or "").replace("<[^>]*>", "").strip()[:400]
+            desc = (item.get("description", "") or item.get("summary", "") or "").replace("<[^>]*>", "").strip()[:400]
+            link_entry = enrich_link_metadata({
+                "url": item.get("url", ""),
+                "source": item.get("source") or domain,
+                "headline": title,
+                "excerpt": desc,
+                "imageUrl": item.get("imageUrl", ""),
+                "imageAlt": item.get("imageAlt", "") or title,
+            })
             stories.append({
                 "title": title,
                 "summary": desc,
-                "links": [{"url": item.get("url", ""), "source": domain}]
+                "links": [link_entry]
             })
     if stories:
         sections.append({"name": name, "stories": stories})
@@ -146,6 +155,10 @@ digest = {
     "updatedAt": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
     "sections": sections
 }
+
+missing_link_metadata = missing_required_link_metadata(digest)
+if missing_link_metadata:
+    raise SystemExit(f"Digest link metadata validation failed: {missing_link_metadata[:10]}")
 
 total_stories = sum(len(s["stories"]) for s in sections)
 print(f"Created {OUTPUT_PATH}")
