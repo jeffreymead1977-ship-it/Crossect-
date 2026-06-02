@@ -160,6 +160,46 @@ SOURCE_METADATA = {
         "bias": "Lean Right",
         "confidence": "high",
     },
+    "foxnews.com": {
+        "outlet": "Fox News",
+        "bias": "Right",
+        "confidence": "medium",
+    },
+    "nypost.com": {
+        "outlet": "New York Post",
+        "bias": "Right",
+        "confidence": "medium",
+    },
+    "washingtonexaminer.com": {
+        "outlet": "Washington Examiner",
+        "bias": "Lean Right",
+        "confidence": "medium",
+    },
+    "washingtontimes.com": {
+        "outlet": "Washington Times",
+        "bias": "Lean Right",
+        "confidence": "medium",
+    },
+    "nationalreview.com": {
+        "outlet": "National Review",
+        "bias": "Right",
+        "confidence": "medium",
+    },
+    "spectator.com.au": {
+        "outlet": "Spectator Australia",
+        "bias": "Lean Right",
+        "confidence": "medium",
+    },
+    "breitbart.com": {
+        "outlet": "Breitbart",
+        "bias": "Right",
+        "confidence": "low",
+    },
+    "dailywire.com": {
+        "outlet": "Daily Wire",
+        "bias": "Right",
+        "confidence": "medium",
+    },
     # Historical typo/alias kept for compatibility with existing docs/app.js data.
     "sj.com": {
         "outlet": "Wall Street Journal",
@@ -223,6 +263,46 @@ SOURCE_METADATA = {
         "outlet": "Wall Street Journal",
         "bias": "Lean Right",
         "confidence": "high",
+    },
+    "fox news": {
+        "outlet": "Fox News",
+        "bias": "Right",
+        "confidence": "medium",
+    },
+    "new york post": {
+        "outlet": "New York Post",
+        "bias": "Right",
+        "confidence": "medium",
+    },
+    "washington examiner": {
+        "outlet": "Washington Examiner",
+        "bias": "Lean Right",
+        "confidence": "medium",
+    },
+    "washington times": {
+        "outlet": "Washington Times",
+        "bias": "Lean Right",
+        "confidence": "medium",
+    },
+    "national review": {
+        "outlet": "National Review",
+        "bias": "Right",
+        "confidence": "medium",
+    },
+    "spectator australia": {
+        "outlet": "Spectator Australia",
+        "bias": "Lean Right",
+        "confidence": "medium",
+    },
+    "breitbart": {
+        "outlet": "Breitbart",
+        "bias": "Right",
+        "confidence": "low",
+    },
+    "daily wire": {
+        "outlet": "Daily Wire",
+        "bias": "Right",
+        "confidence": "medium",
     },
 }
 
