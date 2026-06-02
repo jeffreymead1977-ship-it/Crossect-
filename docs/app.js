@@ -325,6 +325,23 @@ function renderFilters() {
   els.confidenceFilter.value = confidences.includes(state.confidence) ? state.confidence : "All";
 }
 
+function scrollToDigestTop() {
+  window.scrollTo({
+    top: 0,
+    left: 0,
+    behavior: "smooth"
+  });
+}
+
+function switchSection(section) {
+  const changed = state.activeSection !== section;
+  state.activeSection = section;
+  render();
+  if (changed) {
+    scrollToDigestTop();
+  }
+}
+
 function renderTabs() {
   const sections = ["All", ...(state.currentDigest?.sections || []).map((section) => section.name)];
   els.sectionTabs.replaceChildren();
@@ -334,10 +351,7 @@ function renderTabs() {
     button.type = "button";
     button.className = section === state.activeSection ? "active" : "";
     button.textContent = section === "All" ? "Front Page" : section;
-    button.addEventListener("click", () => {
-      state.activeSection = section;
-      render();
-    });
+    button.addEventListener("click", () => switchSection(section));
     els.sectionTabs.append(button);
   }
 }
@@ -765,8 +779,7 @@ els.searchInput.addEventListener("input", (event) => {
   renderStories();
 });
 els.sectionFilter.addEventListener("change", (event) => {
-  state.activeSection = event.target.value;
-  render();
+  switchSection(event.target.value);
 });
 els.biasFilter.addEventListener("change", (event) => {
   state.bias = event.target.value;
