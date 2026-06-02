@@ -2,9 +2,9 @@
   "id": "2026-06-02-expanded",
   "date": "2026-06-02",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-02T10:06:19.077649",
+  "generatedAt": "2026-06-02T10:50:04.241900",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-02T10:06:19",
+  "updatedAt": "2026-06-02T10:50:04",
   "sections": [
     {
       "name": "World / Geopolitics",
@@ -21,8 +21,15 @@
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780364882.jpg?resize=1620%2C1080&quality=80",
               "imageAlt": "President Trump attempts to end hostilities in Lebanon",
               "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
               "bias": "Lean Left",
-              "confidence": "medium"
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780364882.jpg?resize=1620%2C1080&quality=80",
@@ -41,8 +48,15 @@
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a1e20c8-1780359368.jpg?resize=1920%2C1440",
               "imageAlt": "Celebration, shock and scepticism follow Colombia’s presidential election",
               "outlet": "Al Jazeera",
-              "bias": "Lean Left",
-              "confidence": "medium"
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a1e20c8-1780359368.jpg?resize=1920%2C1440",
@@ -61,8 +75,15 @@
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26152576900536-1780357099.jpg?resize=1920%2C1440",
               "imageAlt": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
               "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
               "bias": "Lean Left",
-              "confidence": "medium"
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26152576900536-1780357099.jpg?resize=1920%2C1440",
@@ -81,8 +102,15 @@
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780356920.jpg?resize=1920%2C1080&quality=80",
               "imageAlt": "Ultra-Orthodox protesters clash with Israeli police over army draft",
               "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
               "bias": "Lean Left",
-              "confidence": "medium"
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780356920.jpg?resize=1920%2C1080&quality=80",
@@ -101,8 +129,15 @@
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780356119.jpg?resize=1620%2C1080&quality=80",
               "imageAlt": "Violent protests erupt in Chile over government cuts of social programmes",
               "outlet": "Al Jazeera",
-              "bias": "Lean Left",
-              "confidence": "medium"
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (wealth inequality|social programmes|public housing|human rights advocates)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780356119.jpg?resize=1620%2C1080&quality=80",
@@ -121,8 +156,15 @@
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9ca/live/b21ad9d0-5e1e-11f1-b682-cf91850925ea.jpg",
               "imageAlt": "Four dead and dozens injured after massive Russian strikes across Ukraine",
               "outlet": "BBC",
-              "bias": "Center",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said)",
               "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
@@ -142,8 +184,15 @@
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c28/live/307a81b0-5e22-11f1-a6fd-eda29808c5f6.jpg",
               "imageAlt": "Denmark's Mette Frederiksen to form government after months of negotiations",
               "outlet": "BBC",
-              "bias": "Center",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said)",
               "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
@@ -163,8 +212,15 @@
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg",
               "imageAlt": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
               "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
               "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
@@ -184,8 +240,15 @@
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/710b/live/9b1e7d90-5db0-11f1-8132-9508271dd882.jpg",
               "imageAlt": "How health workers in DR Congo are treating Ebola and staying safe",
               "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
               "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
@@ -205,8 +268,15 @@
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a394/live/904a0a10-58f1-11f1-b682-cf91850925ea.jpg",
               "imageAlt": "Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
               "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
               "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
@@ -231,8 +301,15 @@
               "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b9dfbb9127ee5417154e089c75cefc43?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=668&width=862&height=485",
               "imageAlt": "Farm profits to dive by 70 per cent as drought and costs bite",
               "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
               "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
@@ -252,8 +329,15 @@
               "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2344a165d3fb761534d2dd2fb5de75bd?impolicy=wcms_crop_resize&cropH=896&cropW=1592&xPos=0&yPos=412&width=862&height=485",
               "imageAlt": "Owning a dog wasn't like I'd imagined",
               "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
               "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
@@ -273,8 +357,15 @@
               "imageUrl": "https://i.guim.co.uk/img/media/44d0a61861e54cd8806e23121fff2b5dc78470d7/0_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=fedd6b2b1bcf197a0ebe05b6f5b1660d",
               "imageAlt": "Australia politics live: nearly 3 million workers to receive a 4.75% pay rise under minimum wage decision; Chalmers says economic woes driving voters",
               "outlet": "The Guardian",
-              "bias": "Lean Left",
-              "confidence": "high"
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://i.guim.co.uk/img/media/44d0a61861e54cd8806e23121fff2b5dc78470d7/0_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=fedd6b2b1bcf197a0ebe05b6f5b1660d",
@@ -293,8 +384,15 @@
               "imageUrl": "https://i.guim.co.uk/img/media/61252922be16b56e232b33d92c0def23849215b8/490_0_1169_936/master/1169.jpg?width=140&quality=85&auto=format&fit=max&s=f8bdd93cf754da2c6de070aac39ee966",
               "imageAlt": "Dog rescued on NSW south coast after being swept off rocks and swimming 800 metres to island",
               "outlet": "The Guardian",
-              "bias": "Lean Left",
-              "confidence": "high"
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://i.guim.co.uk/img/media/61252922be16b56e232b33d92c0def23849215b8/490_0_1169_936/master/1169.jpg?width=140&quality=85&auto=format&fit=max&s=f8bdd93cf754da2c6de070aac39ee966",
@@ -318,8 +416,15 @@
               "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
               "imageAlt": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
               "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
               "bias": "Lean Left",
-              "confidence": "medium"
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
@@ -338,8 +443,15 @@
               "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pebblebee_halo2.jpg?quality=90&strip=all&crop=0%2C10.747740781622%2C100%2C78.504518436757&w=1200",
               "imageAlt": "Pebblebee’s Halo can help track lost items and keep you safe, and it’s on sale for $50",
               "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
               "bias": "Lean Left",
-              "confidence": "medium"
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pebblebee_halo2.jpg?quality=90&strip=all&crop=0%2C10.747740781622%2C100%2C78.504518436757&w=1200",
@@ -358,8 +470,15 @@
               "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
               "imageAlt": "This could be Windows’ M1 moment — but expect it to cost a ton",
               "outlet": "The Verge",
-              "bias": "Lean Left",
-              "confidence": "medium"
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
@@ -378,8 +497,15 @@
               "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0%2C10.604950381935%2C100%2C78.79009923613&w=1200",
               "imageAlt": "Gemini’s new AI agent is about as good as Google’s demo",
               "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
               "bias": "Lean Left",
-              "confidence": "medium"
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0%2C10.604950381935%2C100%2C78.79009923613&w=1200",
@@ -398,8 +524,15 @@
               "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/54889021188_e8f5317c37_o.jpg?resize=1200,800",
               "imageAlt": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
               "outlet": "TechCrunch",
-              "bias": "Center",
-              "confidence": "medium"
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results), (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/54889021188_e8f5317c37_o.jpg?resize=1200,800",
@@ -418,8 +551,15 @@
               "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
               "imageAlt": "Alphabet plans to raise $80B to pay for AI buildout",
               "outlet": "TechCrunch",
-              "bias": "Center",
-              "confidence": "medium"
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
@@ -438,8 +578,15 @@
               "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/Ethan-Thornton-SVCSF-2025-e1780338289712.jpg?resize=1200,957",
               "imageAlt": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
               "outlet": "TechCrunch",
-              "bias": "Center",
-              "confidence": "medium"
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/Ethan-Thornton-SVCSF-2025-e1780338289712.jpg?resize=1200,957",
@@ -458,8 +605,15 @@
               "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
               "imageAlt": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
               "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
               "bias": "Center",
-              "confidence": "medium"
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
@@ -483,8 +637,15 @@
               "imageUrl": "https://www.rappler.com/tachyon/2026/06/SY-2026-2027-calendar-DepEd-Order-9-s.-2026.png",
               "imageAlt": "Here are DepEd policy changes you need to know for SY 2026-2027",
               "outlet": "Rappler",
-              "bias": "Center",
-              "confidence": "medium"
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/SY-2026-2027-calendar-DepEd-Order-9-s.-2026.png",
@@ -503,8 +664,15 @@
               "imageUrl": "https://www.rappler.com/tachyon/2026/04/IRAN-CRISIS-2026-04-08-scaled.jpg",
               "imageAlt": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue",
               "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
               "bias": "Center",
-              "confidence": "medium"
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2026/04/IRAN-CRISIS-2026-04-08-scaled.jpg",
@@ -523,8 +691,15 @@
               "imageUrl": "https://www.rappler.com/tachyon/2026/06/Sicogon-Island-dispute2-scaled.jpg",
               "imageAlt": "Over 700 families seek return of 80 hectares in Iloilo island dispute",
               "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
               "bias": "Center",
-              "confidence": "medium"
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/Sicogon-Island-dispute2-scaled.jpg",
@@ -543,8 +718,15 @@
               "imageUrl": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg",
               "imageAlt": "Cayetano’s old playbook returns: No WiFi, no air-conditioning for Senate minority",
               "outlet": "Rappler",
-              "bias": "Center",
-              "confidence": "medium"
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg",
@@ -563,8 +745,15 @@
               "imageUrl": "https://www.rappler.com/tachyon/2026/06/photo_2026-06-01-23.35.02.jpeg",
               "imageAlt": "Jinggoy Estrada is back in jail after 9 years",
               "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
               "bias": "Center",
-              "confidence": "medium"
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/photo_2026-06-01-23.35.02.jpeg",
@@ -583,8 +772,15 @@
               "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/WhatsApp-Image-2026-03-11-at-10.54.49.jpeg",
               "imageAlt": "OIL PRICE WATCH as of June 2, 2026",
               "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
               "bias": "Center",
-              "confidence": "medium"
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/WhatsApp-Image-2026-03-11-at-10.54.49.jpeg",
@@ -603,8 +799,15 @@
               "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_7455.jpg",
               "imageAlt": "Overnight search yields 4 more bodies in Angeles building rubble",
               "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
               "bias": "Center",
-              "confidence": "medium"
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_7455.jpg",
@@ -623,8 +826,15 @@
               "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Negros-Occidental-map-filephoto-091322.jpg",
               "imageAlt": "Army soldier dies in NPA encounter in Negros Occidental town",
               "outlet": "Philippine Daily Inquirer",
-              "bias": "Center",
-              "confidence": "medium"
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Negros-Occidental-map-filephoto-091322.jpg",
@@ -643,8 +853,15 @@
               "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/Heat-hot-summer-el-nino-6April2026.jpeg",
               "imageAlt": "Dangerous heat index expected in 16 areas on Tuesday",
               "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
               "bias": "Center",
-              "confidence": "medium"
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/Heat-hot-summer-el-nino-6April2026.jpeg",
@@ -663,8 +880,15 @@
               "imageUrl": "https://newsinfo.inquirer.net/files/2026/01/Manuel-Bonoan-19January2026.jpg",
               "imageAlt": "Ex-DPWH chief Bonoan’s condition slowly improving – PNP Health Service",
               "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
               "bias": "Center",
-              "confidence": "medium"
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/01/Manuel-Bonoan-19January2026.jpg",
