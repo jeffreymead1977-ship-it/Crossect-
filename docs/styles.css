@@ -223,7 +223,9 @@ svg {
 .nav-strip {
   display: flex;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
+  width: min-content;
   border-top: 1px solid var(--rule-soft);
   border-bottom: 1px solid var(--rule);
 }
