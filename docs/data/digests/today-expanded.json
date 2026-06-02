@@ -2,13 +2,40 @@
   "id": "2026-06-02-expanded",
   "date": "2026-06-02",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-02T10:50:04.241900",
+  "generatedAt": "2026-06-02T11:28:13.572074",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-02T10:50:04",
+  "updatedAt": "2026-06-02T11:28:13",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
+        {
+          "title": "US Defense Department bars journalists from its press office",
+          "summary": "Media freedom advocates condemn move as latest effort to curtail independent reporting on the US military.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/economy/2026/6/2/us-defense-department-bars-journalists-from-its-press-office?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US Defense Department bars journalists from its press office",
+              "excerpt": "Media freedom advocates condemn move as latest effort to curtail independent reporting on the US military.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26152829867592-1780361371_9a946a-1780364888.jpg?resize=1200%2C630&quality=80",
+              "imageAlt": "US Defense Department bars journalists from its press office",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
+            }
+          ],
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26152829867592-1780361371_9a946a-1780364888.jpg?resize=1200%2C630&quality=80",
+          "imageAlt": "US Defense Department bars journalists from its press office",
+          "imageCredit": "Al Jazeera"
+        },
         {
           "title": "President Trump attempts to end hostilities in Lebanon",
           "summary": "US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut.",
@@ -25,11 +52,11 @@
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780364882.jpg?resize=1620%2C1080&quality=80",
@@ -52,11 +79,11 @@
               "sourceReliability": "medium",
               "bias": "Left",
               "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a1e20c8-1780359368.jpg?resize=1920%2C1440",
@@ -65,13 +92,13 @@
         },
         {
           "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-          "summary": "Israeli minister Itamar Ben-Gvir says 'time to tell' President Trump 'no', and continue striking Hezbollah in Lebanon.",
+          "summary": "Israeli National Security Minister Ben-Gvir says 'time' to say 'no' to Trump and continue striking Hezbollah in Lebanon.",
           "links": [
             {
               "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
               "source": "Al Jazeera",
               "headline": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-              "excerpt": "Israeli minister Itamar Ben-Gvir says 'time to tell' President Trump 'no', and continue striking Hezbollah in Lebanon.",
+              "excerpt": "Israeli National Security Minister Ben-Gvir says 'time' to say 'no' to Trump and continue striking Hezbollah in Lebanon.",
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26152576900536-1780357099.jpg?resize=1920%2C1440",
               "imageAlt": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
               "outlet": "Al Jazeera",
@@ -79,11 +106,11 @@
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26152576900536-1780357099.jpg?resize=1920%2C1440",
@@ -106,11 +133,11 @@
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780356920.jpg?resize=1920%2C1080&quality=80",
@@ -118,58 +145,31 @@
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Violent protests erupt in Chile over government cuts of social programmes",
-          "summary": "Labour unions and student groups protested in Chile as President Kast delivered his first State of the Nation.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_clip_violent-protests-erupt-in-chile-010626?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Violent protests erupt in Chile over government cuts of social programmes",
-              "excerpt": "Labour unions and student groups protested in Chile as President Kast delivered his first State of the Nation.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780356119.jpg?resize=1620%2C1080&quality=80",
-              "imageAlt": "Violent protests erupt in Chile over government cuts of social programmes",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Left",
-              "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (wealth inequality|social programmes|public housing|human rights advocates)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780356119.jpg?resize=1620%2C1080&quality=80",
-          "imageAlt": "Violent protests erupt in Chile over government cuts of social programmes",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Four dead and dozens injured after massive Russian strikes across Ukraine",
+          "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
           "summary": "Thousands of Kyiv residents ran for shelter following what officials said were ballistic missile strikes on the city centre.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Four dead and dozens injured after massive Russian strikes across Ukraine",
+              "headline": "Massive overnight Russian strikes hit Ukraine killing at least five",
               "excerpt": "Thousands of Kyiv residents ran for shelter following what officials said were ballistic missile strikes on the city centre.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9ca/live/b21ad9d0-5e1e-11f1-b682-cf91850925ea.jpg",
-              "imageAlt": "Four dead and dozens injured after massive Russian strikes across Ukraine",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf8/live/411c3100-5e2a-11f1-b682-cf91850925ea.jpg",
+              "imageAlt": "Massive overnight Russian strikes hit Ukraine killing at least five",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
               "bias": "Official",
               "alignment": "Official",
-              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said)",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback",
               "quality": "Public broadcaster"
             }
           ],
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9ca/live/b21ad9d0-5e1e-11f1-b682-cf91850925ea.jpg",
-          "imageAlt": "Four dead and dozens injured after massive Russian strikes across Ukraine",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf8/live/411c3100-5e2a-11f1-b682-cf91850925ea.jpg",
+          "imageAlt": "Massive overnight Russian strikes hit Ukraine killing at least five",
           "imageCredit": "BBC"
         },
         {
@@ -188,11 +188,11 @@
               "sourceReliability": "high",
               "bias": "Official",
               "alignment": "Official",
-              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said)",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback",
               "quality": "Public broadcaster"
             }
           ],
@@ -216,11 +216,11 @@
               "sourceReliability": "high",
               "bias": "Center",
               "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback",
               "quality": "Public broadcaster"
             }
           ],
@@ -244,11 +244,11 @@
               "sourceReliability": "high",
               "bias": "Center",
               "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback",
               "quality": "Public broadcaster"
             }
           ],
@@ -272,11 +272,11 @@
               "sourceReliability": "high",
               "bias": "Center",
               "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback",
               "quality": "Public broadcaster"
             }
           ],
@@ -290,59 +290,59 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Farm profits to dive by 70 per cent as drought and costs bite",
-          "summary": "The ABARES report for the June quarter predicts national crop production will fall by more than 20 per cent, with profits down 70 per cent for broadacre farms.",
+          "title": "NSW government commits to remove barriers to Aboriginal cultural burning",
+          "summary": "The NSW Cultural Fire Strategy has set a clear timeline to better resource and support Indigenous-led cultural burning.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-06-02/crop-production-down-as-farm-profits-take-a-big-hit/106745960",
+              "url": "https://www.abc.net.au/news/2026-06-02/nsw-cultural-fire-strategy-released/106747566",
               "source": "ABC Australia",
-              "headline": "Farm profits to dive by 70 per cent as drought and costs bite",
-              "excerpt": "The ABARES report for the June quarter predicts national crop production will fall by more than 20 per cent, with profits down 70 per cent for broadacre farms.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b9dfbb9127ee5417154e089c75cefc43?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=668&width=862&height=485",
-              "imageAlt": "Farm profits to dive by 70 per cent as drought and costs bite",
+              "headline": "NSW government commits to remove barriers to Aboriginal cultural burning",
+              "excerpt": "The NSW Cultural Fire Strategy has set a clear timeline to better resource and support Indigenous-led cultural burning.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/5297f8b2aec9c5df0593c7e3d9edf25c?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=60&width=862&height=485",
+              "imageAlt": "NSW government commits to remove barriers to Aboriginal cultural burning",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback",
               "quality": "Public broadcaster"
             }
           ],
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b9dfbb9127ee5417154e089c75cefc43?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=668&width=862&height=485",
-          "imageAlt": "Farm profits to dive by 70 per cent as drought and costs bite",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/5297f8b2aec9c5df0593c7e3d9edf25c?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=60&width=862&height=485",
+          "imageAlt": "NSW government commits to remove barriers to Aboriginal cultural burning",
           "imageCredit": "ABC News"
         },
         {
-          "title": "Owning a dog wasn't like I'd imagined",
-          "summary": "I completely neglected to give much thought to whether my personality would slot into a dog's lifestyle. Spoiler — it did not.",
+          "title": "Mother shares incredible survival story after WA's strongest storm in 49 years",
+          "summary": "A driver says she almost died in a freak car accident on a highway in regional WA during Sunday's wild weather.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-06-02/raising-a-dog-not-like-i-had-imagined/106516070",
+              "url": "https://www.abc.net.au/news/2026-06-02/divine-intervention-woman-defies-death-after-tree-falls-on-car/106748920",
               "source": "ABC Australia",
-              "headline": "Owning a dog wasn't like I'd imagined",
-              "excerpt": "I completely neglected to give much thought to whether my personality would slot into a dog's lifestyle. Spoiler — it did not.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2344a165d3fb761534d2dd2fb5de75bd?impolicy=wcms_crop_resize&cropH=896&cropW=1592&xPos=0&yPos=412&width=862&height=485",
-              "imageAlt": "Owning a dog wasn't like I'd imagined",
+              "headline": "Mother shares incredible survival story after WA's strongest storm in 49 years",
+              "excerpt": "A driver says she almost died in a freak car accident on a highway in regional WA during Sunday's wild weather.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/654278442e330d8fca887dd7c0e0c5de?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=1509&width=862&height=485",
+              "imageAlt": "Mother shares incredible survival story after WA's strongest storm in 49 years",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback",
               "quality": "Public broadcaster"
             }
           ],
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2344a165d3fb761534d2dd2fb5de75bd?impolicy=wcms_crop_resize&cropH=896&cropW=1592&xPos=0&yPos=412&width=862&height=485",
-          "imageAlt": "Owning a dog wasn't like I'd imagined",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/654278442e330d8fca887dd7c0e0c5de?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=1509&width=862&height=485",
+          "imageAlt": "Mother shares incredible survival story after WA's strongest storm in 49 years",
           "imageCredit": "ABC News"
         },
         {
@@ -361,11 +361,11 @@
               "sourceReliability": "high",
               "bias": "Official",
               "alignment": "Official",
-              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency)",
+              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://i.guim.co.uk/img/media/44d0a61861e54cd8806e23121fff2b5dc78470d7/0_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=fedd6b2b1bcf197a0ebe05b6f5b1660d",
@@ -373,30 +373,30 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Dog rescued on NSW south coast after being swept off rocks and swimming 800 metres to island",
-          "summary": "<p>Marine Rescue NSW volunteer coaxes distressed dog on to jetski after it paddled to Snapper Island in Batemans Bay</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb\">Follow our Australia news live blog for latest updates</a></p>",
+          "title": "Victorian minister under fire for writing 33 character references including for taxi driver who assaulted women",
+          "summary": "<p>Labor’s Luba Grigorovitch says she regrets six of the character references and vows never to write another</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><l",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/jun/02/dog-rescued-snapper-island-batemans-bay-nsw-australia",
+              "url": "https://www.theguardian.com/australia-news/2026/jun/02/victorian-minister-under-fire-for-writing-33-character-references-including-for-taxi-driver-who-assaulted-women-ntwnfb",
               "source": "The Guardian Australia",
-              "headline": "Dog rescued on NSW south coast after being swept off rocks and swimming 800 metres to island",
-              "excerpt": "<p>Marine Rescue NSW volunteer coaxes distressed dog on to jetski after it paddled to Snapper Island in Batemans Bay</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb\">Follow our Australia news live blog for latest updates</a></p>",
-              "imageUrl": "https://i.guim.co.uk/img/media/61252922be16b56e232b33d92c0def23849215b8/490_0_1169_936/master/1169.jpg?width=140&quality=85&auto=format&fit=max&s=f8bdd93cf754da2c6de070aac39ee966",
-              "imageAlt": "Dog rescued on NSW south coast after being swept off rocks and swimming 800 metres to island",
+              "headline": "Victorian minister under fire for writing 33 character references including for taxi driver who assaulted women",
+              "excerpt": "<p>Labor’s Luba Grigorovitch says she regrets six of the character references and vows never to write another</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><l",
+              "imageUrl": "https://i.guim.co.uk/img/media/3d964b0853c4352270bc77a7c0e206ef1516a230/673_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=23878626806a42f61a48f8e972f9c7b9",
+              "imageAlt": "Victorian minister under fire for writing 33 character references including for taxi driver who assaulted women",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
               "bias": "Official",
               "alignment": "Official",
-              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency)",
+              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
-          "imageUrl": "https://i.guim.co.uk/img/media/61252922be16b56e232b33d92c0def23849215b8/490_0_1169_936/master/1169.jpg?width=140&quality=85&auto=format&fit=max&s=f8bdd93cf754da2c6de070aac39ee966",
-          "imageAlt": "Dog rescued on NSW south coast after being swept off rocks and swimming 800 metres to island",
+          "imageUrl": "https://i.guim.co.uk/img/media/3d964b0853c4352270bc77a7c0e206ef1516a230/673_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=23878626806a42f61a48f8e972f9c7b9",
+          "imageAlt": "Victorian minister under fire for writing 33 character references including for taxi driver who assaulted women",
           "imageCredit": "The Guardian"
         }
       ]
@@ -420,11 +420,11 @@
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
@@ -447,11 +447,11 @@
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pebblebee_halo2.jpg?quality=90&strip=all&crop=0%2C10.747740781622%2C100%2C78.504518436757&w=1200",
@@ -474,11 +474,11 @@
               "sourceReliability": "medium",
               "bias": "Company",
               "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
@@ -501,11 +501,11 @@
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0%2C10.604950381935%2C100%2C78.79009923613&w=1200",
@@ -528,11 +528,11 @@
               "sourceReliability": "medium",
               "bias": "Company",
               "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results), (ceo|founder|investors|funding round|acquisition|merger)",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results), (ceo|founder|investors|funding round|acquisition|merger); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/54889021188_e8f5317c37_o.jpg?resize=1200,800",
@@ -555,11 +555,11 @@
               "sourceReliability": "medium",
               "bias": "Company",
               "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
@@ -582,11 +582,11 @@
               "sourceReliability": "medium",
               "bias": "Company",
               "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/Ethan-Thornton-SVCSF-2025-e1780338289712.jpg?resize=1200,957",
@@ -609,11 +609,11 @@
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
@@ -641,11 +641,11 @@
               "sourceReliability": "medium",
               "bias": "Official",
               "alignment": "Official",
-              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said)",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/SY-2026-2027-calendar-DepEd-Order-9-s.-2026.png",
@@ -668,11 +668,11 @@
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2026/04/IRAN-CRISIS-2026-04-08-scaled.jpg",
@@ -695,11 +695,11 @@
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/Sicogon-Island-dispute2-scaled.jpg",
@@ -722,11 +722,11 @@
               "sourceReliability": "medium",
               "bias": "Official",
               "alignment": "Official",
-              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency)",
+              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg",
@@ -749,11 +749,11 @@
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
           "imageUrl": "https://www.rappler.com/tachyon/2026/06/photo_2026-06-01-23.35.02.jpeg",
@@ -761,138 +761,138 @@
           "imageCredit": "Rappler"
         },
         {
-          "title": "OIL PRICE WATCH as of June 2, 2026",
-          "summary": "MANILA, Philippines – A significant relief welcomed Filipino motorists on Tuesday, June 2, as oil prices post major rollbacks after weeks of continued price hikes. Diesel prices were slashed by at least P9.26 per liter, while gasoline went down by a minimum of P4.76 per liter. Kerosene will see the biggest reduction, dropping by at",
+          "title": "Drug suspect nabbed in Tawi-Tawi; P6.8-M shabu seized",
+          "summary": "COTABATO CITY – Authorities arrested an alleged big time drug peddler in the island-province of Tawi-Tawi and seized one kilogram of suspected shabu worth an estimated P6.8 million on Monday, the Philippine Drug Enforcement Agency (PDEA) said. Edgar Jubay, PDEA-Bangsamoro Autonomous Region in Muslim Mindanao regional director, said the suspect was arrested during a buy-bust",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2238406/oil-price-watch-as-of-june-2-2026",
+              "url": "https://newsinfo.inquirer.net/2238491/drug-suspect-nabbed-in-tawi-tawi-p6-8-m-shabu-seized",
               "source": "Philippine Daily Inquirer",
-              "headline": "OIL PRICE WATCH as of June 2, 2026",
-              "excerpt": "MANILA, Philippines – A significant relief welcomed Filipino motorists on Tuesday, June 2, as oil prices post major rollbacks after weeks of continued price hikes. Diesel prices were slashed by at least P9.26 per liter, while gasoline went down by a minimum of P4.76 per liter. Kerosene will see the biggest reduction, dropping by at",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/WhatsApp-Image-2026-03-11-at-10.54.49.jpeg",
-              "imageAlt": "OIL PRICE WATCH as of June 2, 2026",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/WhatsApp-Image-2026-03-11-at-10.54.49.jpeg",
-          "imageAlt": "OIL PRICE WATCH as of June 2, 2026",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Overnight search yields 4 more bodies in Angeles building rubble",
-          "summary": "ANGELES CITY — Rescuers recovered four more bodies from the rubble of the collapsed nine-story building under construction in Barangay Balibago from late Monday night to early Tuesday morning, raising the confirmed death toll to 17. The recovery operations spanned several hours, according to authorities. At least three more people are reported to be still",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2238400/overnight-search-yields-4-more-bodies-in-angeles-building-rubble",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Overnight search yields 4 more bodies in Angeles building rubble",
-              "excerpt": "ANGELES CITY — Rescuers recovered four more bodies from the rubble of the collapsed nine-story building under construction in Barangay Balibago from late Monday night to early Tuesday morning, raising the confirmed death toll to 17. The recovery operations spanned several hours, according to authorities. At least three more people are reported to be still",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_7455.jpg",
-              "imageAlt": "Overnight search yields 4 more bodies in Angeles building rubble",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_7455.jpg",
-          "imageAlt": "Overnight search yields 4 more bodies in Angeles building rubble",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Army soldier dies in NPA encounter in Negros Occidental town",
-          "summary": "BACOLOD CITY—A soldier from the 79th Infantry Battalion (IB) was killed during an encounter with remnants of the New People’s Army (NPA) in Barangay Tamlang, Escalante City, Negros Occidental, on Monday afternoon. According to Lt. Col. Eric Alfonso, commander of the 79th IB, government troops encountered communist rebels allegedly responsible for a series of civilian",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2238398/army-soldier-dies-in-npa-encounter-in-negros-occidental-town",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Army soldier dies in NPA encounter in Negros Occidental town",
-              "excerpt": "BACOLOD CITY—A soldier from the 79th Infantry Battalion (IB) was killed during an encounter with remnants of the New People’s Army (NPA) in Barangay Tamlang, Escalante City, Negros Occidental, on Monday afternoon. According to Lt. Col. Eric Alfonso, commander of the 79th IB, government troops encountered communist rebels allegedly responsible for a series of civilian",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Negros-Occidental-map-filephoto-091322.jpg",
-              "imageAlt": "Army soldier dies in NPA encounter in Negros Occidental town",
+              "headline": "Drug suspect nabbed in Tawi-Tawi; P6.8-M shabu seized",
+              "excerpt": "COTABATO CITY – Authorities arrested an alleged big time drug peddler in the island-province of Tawi-Tawi and seized one kilogram of suspected shabu worth an estimated P6.8 million on Monday, the Philippine Drug Enforcement Agency (PDEA) said. Edgar Jubay, PDEA-Bangsamoro Autonomous Region in Muslim Mindanao regional director, said the suspect was arrested during a buy-bust",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Tawi-Tawi-map-filephoto-091522.jpg",
+              "imageAlt": "Drug suspect nabbed in Tawi-Tawi; P6.8-M shabu seized",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Official",
               "alignment": "Official",
-              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Negros-Occidental-map-filephoto-091322.jpg",
-          "imageAlt": "Army soldier dies in NPA encounter in Negros Occidental town",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Tawi-Tawi-map-filephoto-091522.jpg",
+          "imageAlt": "Drug suspect nabbed in Tawi-Tawi; P6.8-M shabu seized",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Dangerous heat index expected in 16 areas on Tuesday",
-          "summary": "MANILA, Philippines — Sixteen areas are expected to experience a dangerous heat index on Tuesday, according to the state weather bureau. Heat index or the “apparent heat” is the combination of air temperature and humidity, indicating how hot the body feels. In its latest weather briefing, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa)",
+          "title": "Lipa City declines Leviste’s 1,000 rice pack donation",
+          "summary": "LUCENA CITY — The local government of Lipa City in Batangas province has declined a donation of 1,000 packs of rice that was reportedly intended for City Hall employees. In an official statement written in Filipino, the city government said it remains grateful to individuals and organizations seeking to extend assistance to the community. “Along",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2238395/heat-index-watch-16-areas-with-danger-level-heat-on-tuesday",
+              "url": "https://newsinfo.inquirer.net/2238486/lipa-city-declines-levistes-1000-rice-pack-donation",
               "source": "Philippine Daily Inquirer",
-              "headline": "Dangerous heat index expected in 16 areas on Tuesday",
-              "excerpt": "MANILA, Philippines — Sixteen areas are expected to experience a dangerous heat index on Tuesday, according to the state weather bureau. Heat index or the “apparent heat” is the combination of air temperature and humidity, indicating how hot the body feels. In its latest weather briefing, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa)",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/Heat-hot-summer-el-nino-6April2026.jpeg",
-              "imageAlt": "Dangerous heat index expected in 16 areas on Tuesday",
+              "headline": "Lipa City declines Leviste’s 1,000 rice pack donation",
+              "excerpt": "LUCENA CITY — The local government of Lipa City in Batangas province has declined a donation of 1,000 packs of rice that was reportedly intended for City Hall employees. In an official statement written in Filipino, the city government said it remains grateful to individuals and organizations seeking to extend assistance to the community. “Along",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/710755267_122214126410455336_3035758728435282379_n-1.jpg",
+              "imageAlt": "Lipa City declines Leviste’s 1,000 rice pack donation",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
+            }
+          ],
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/710755267_122214126410455336_3035758728435282379_n-1.jpg",
+          "imageAlt": "Lipa City declines Leviste’s 1,000 rice pack donation",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "BFAR: Bolinao, Anda coastal waters in Pangasinan now red tide-free",
+          "summary": "SAN FERNANDO CITY, La Union — The coastal areas of Bolinao and Anda in western Pangasinan are now free of red tide toxin, the Bureau of Fisheries and Aquatic Resources (BFAR) Region I announced in Shellfish Bulletin No. 13, issued on Monday. BFAR stated that all shellfish gathered from the two towns are now safe",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2238424/bfar-bolinao-anda-coastal-waters-in-pangasinan-now-red-tide-free",
+              "source": "Philippine Daily Inquirer",
+              "headline": "BFAR: Bolinao, Anda coastal waters in Pangasinan now red tide-free",
+              "excerpt": "SAN FERNANDO CITY, La Union — The coastal areas of Bolinao and Anda in western Pangasinan are now free of red tide toxin, the Bureau of Fisheries and Aquatic Resources (BFAR) Region I announced in Shellfish Bulletin No. 13, issued on Monday. BFAR stated that all shellfish gathered from the two towns are now safe",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/20260523_WL09-scaled.jpg",
+              "imageAlt": "BFAR: Bolinao, Anda coastal waters in Pangasinan now red tide-free",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/Heat-hot-summer-el-nino-6April2026.jpeg",
-          "imageAlt": "Dangerous heat index expected in 16 areas on Tuesday",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/20260523_WL09-scaled.jpg",
+          "imageAlt": "BFAR: Bolinao, Anda coastal waters in Pangasinan now red tide-free",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Ex-DPWH chief Bonoan’s condition slowly improving – PNP Health Service",
-          "summary": "MANILA, Philippines — Former Public Works and Highways secretary Manuel Bonoan’s condition is slowly improving, according to the Philippine National Police – Health Service (PNP-HS). In a text message sent to reporters on Tuesday morning, PNP-HS Director Brig. Gen. Portia Manalad confirmed that Bonoan had been admitted to the PNP General Hospital in Camp Crame,",
+          "title": "Pia Cayetano revokes invite to 18 ‘ex-Marines’ in flood control probe",
+          "summary": "MANILA, Philippines — The invitation to the 18 alleged ex-Marines, along with their legal counsel, Atty. Levito Baligod, to appear before the Senate blue ribbon committee has supposedly been withdrawn. Baligod shared in a social media post on Tuesday a screenshot of an email from the Blue Ribbon Oversight Office that was sent to him",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2238392/bonoans-condition-slowly-improving-pnp-health-service",
+              "url": "https://newsinfo.inquirer.net/2238429/pia-cayetano-revokes-invite-to-18-ex-marines-in-flood-control-probe",
               "source": "Philippine Daily Inquirer",
-              "headline": "Ex-DPWH chief Bonoan’s condition slowly improving – PNP Health Service",
-              "excerpt": "MANILA, Philippines — Former Public Works and Highways secretary Manuel Bonoan’s condition is slowly improving, according to the Philippine National Police – Health Service (PNP-HS). In a text message sent to reporters on Tuesday morning, PNP-HS Director Brig. Gen. Portia Manalad confirmed that Bonoan had been admitted to the PNP General Hospital in Camp Crame,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/01/Manuel-Bonoan-19January2026.jpg",
-              "imageAlt": "Ex-DPWH chief Bonoan’s condition slowly improving – PNP Health Service",
+              "headline": "Pia Cayetano revokes invite to 18 ‘ex-Marines’ in flood control probe",
+              "excerpt": "MANILA, Philippines — The invitation to the 18 alleged ex-Marines, along with their legal counsel, Atty. Levito Baligod, to appear before the Senate blue ribbon committee has supposedly been withdrawn. Baligod shared in a social media post on Tuesday a screenshot of an email from the Blue Ribbon Oversight Office that was sent to him",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/2131421WhatsApp-Image-2026-06-02-at-10.23.15.png",
+              "imageAlt": "Pia Cayetano revokes invite to 18 ‘ex-Marines’ in flood control probe",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (white house|palace|senate|parliament|council|agency); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
             }
           ],
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/01/Manuel-Bonoan-19January2026.jpg",
-          "imageAlt": "Ex-DPWH chief Bonoan’s condition slowly improving – PNP Health Service",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/2131421WhatsApp-Image-2026-06-02-at-10.23.15.png",
+          "imageAlt": "Pia Cayetano revokes invite to 18 ‘ex-Marines’ in flood control probe",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Bohol provincial government restores regular workweek",
+          "summary": "TAGBILARAN CITY, Bohol — Government offices at the Bohol Provincial Capitol have returned to the regular five-day workweek following the issuance of an executive order lifting the province’s temporary four-day workweek arrangement. Gov. Erico Aristotle Aumentado signed Executive Order No. 34, Series of 2026, directing all provincial government offices, departments, divisions, and units to resume",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2238407/bohol-provincial-government-restores-regular-workweek",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Bohol provincial government restores regular workweek",
+              "excerpt": "TAGBILARAN CITY, Bohol — Government offices at the Bohol Provincial Capitol have returned to the regular five-day workweek following the issuance of an executive order lifting the province’s temporary four-day workweek arrangement. Gov. Erico Aristotle Aumentado signed Executive Order No. 34, Series of 2026, directing all provincial government offices, departments, divisions, and units to resume",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_2731-scaled.jpeg",
+              "imageAlt": "Bohol provincial government restores regular workweek",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Official",
+              "alignment": "Official",
+              "alignmentBasis": "article-text: official provenance cue(s): (government|ministry|department|court|regulator|commission|police said|officials said); batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues; batchFallbackReason=lm-studio-batch-error: TimeoutError: timed out",
+              "ratingMethod": "deterministic-local-article-heuristic-v2-fallback"
+            }
+          ],
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_2731-scaled.jpeg",
+          "imageAlt": "Bohol provincial government restores regular workweek",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
