@@ -359,6 +359,34 @@ def local_rating_mode() -> str:
     return aliases.get(raw, raw)
 
 
+def local_summary_mode() -> str:
+    """Return normalized story-summary mode.
+
+    Summaries are intentionally configured independently from article ratings so
+    cron can run local AI summaries while keeping ratings deterministic. This
+    avoids asking LM Studio to load a second model after the summary model.
+    Supported env values:
+    - local/lm/llm/auto/default: try LM Studio, fallback to RSS/feed summaries
+    - rss/feed/fallback/source/off/none: skip LM, keep RSS/feed summaries
+    """
+    raw = str(os.environ.get("CROSSECT_SUMMARY_MODE") or "local").strip().lower()
+    aliases = {
+        "": "local",
+        "auto": "local",
+        "default": "local",
+        "lm": "local",
+        "llm": "local",
+        "lmstudio": "local",
+        "lm-studio": "local",
+        "rss": "feed",
+        "fallback": "feed",
+        "source": "feed",
+        "none": "feed",
+        "off": "feed",
+    }
+    return aliases.get(raw, raw)
+
+
 def lm_studio_config() -> tuple[str, str, float]:
     base_url = str(os.environ.get("CROSSECT_LM_STUDIO_BASE_URL") or DEFAULT_LM_STUDIO_BASE_URL).rstrip("/")
     requested_model = str(os.environ.get("CROSSECT_LM_STUDIO_MODEL") or DEFAULT_LM_STUDIO_MODEL).strip()
@@ -378,10 +406,9 @@ def lm_studio_config() -> tuple[str, str, float]:
 def lm_studio_summary_config() -> tuple[str, str, float]:
     """Return LM Studio config for story summaries.
 
-    Link alignment/reliability ratings intentionally keep lm_studio_config()'s
-    Qwen hard-pin and deterministic fallback. Story summaries use a separate
-    non-thinking local model because the Qwen MTP endpoint can emit reasoning-only
-    content or time out on batch summary JSON.
+    Story summaries are configured separately from link alignment/reliability
+    ratings. Cron can set CROSSECT_RATING_MODE=heuristic and
+    CROSSECT_SUMMARY_MODE=local so LM Studio only needs the summary model loaded.
     """
     base_url = str(os.environ.get("CROSSECT_LM_STUDIO_BASE_URL") or DEFAULT_LM_STUDIO_BASE_URL).rstrip("/")
     model = str(
@@ -398,6 +425,21 @@ def lm_studio_summary_config() -> tuple[str, str, float]:
     except ValueError:
         timeout = DEFAULT_LM_STUDIO_TIMEOUT_SECONDS
     return base_url, model, max(0.5, timeout)
+
+
+def lm_studio_summary_batch_size() -> int:
+    """Return story-summary batch size for LM Studio calls.
+
+    Gemma can reliably handle the Crossect summary task in smaller batches, but
+    one 32-story response can be large enough for LM Studio to occasionally emit
+    malformed/truncated response JSON. Keep the default comfortably below that
+    while allowing cron/test overrides.
+    """
+    try:
+        raw = int(os.environ.get("CROSSECT_LM_STUDIO_SUMMARY_BATCH_SIZE") or 4)
+    except ValueError:
+        raw = 4
+    return max(1, min(32, raw))
 
 
 def extract_json_object(text: str) -> dict:
@@ -731,12 +773,11 @@ def validate_lm_summary(parsed: dict) -> str:
     return re.sub(r"\s+", " ", summary)[:500]
 
 
-def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str], str | None, str | None]:
-    """Call local LM Studio once for all story summaries in a digest.
+def summarize_story_batch_with_lm_studio(articles: list[dict]) -> tuple[dict[int, str], str | None, str | None]:
+    """Call local LM Studio for one chunk of story summaries.
 
-    Returns (summaries_by_index, error, raw_content). This deliberately uses a
-    summary-specific LM Studio model and makes one request per digest, not one
-    request per story.
+    Article indexes are digest-global, so callers can merge successful chunks and
+    fall back only failed/missing indexes.
     """
     base_url, model, _timeout = lm_studio_summary_config()
     timeout = max(
@@ -744,16 +785,6 @@ def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str
         float(os.environ.get("CROSSECT_LM_STUDIO_BATCH_TIMEOUT") or 60),
     )
     url = f"{base_url}/chat/completions"
-    articles = []
-    for idx, (_section_index, _story_index, story) in enumerate(iter_digest_stories(digest)):
-        first_link = next((link for link in story.get("links", []) if isinstance(link, dict)), {})
-        articles.append({
-            "index": idx,
-            "title": story.get("title") or first_link.get("headline") or "",
-            "rssSummary": story.get("summary") or first_link.get("excerpt") or "",
-            "source": first_link.get("source") or first_link.get("outlet") or "",
-            "url": first_link.get("url") or "",
-        })
     if not articles:
         return {}, None, None
 
@@ -771,7 +802,7 @@ def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str
             {"role": "user", "content": json.dumps({"articles": articles}, ensure_ascii=False)},
         ],
         "temperature": 0,
-        "max_tokens": max(1000, min(5000, 80 * len(articles))),
+        "max_tokens": max(220, min(1600, 100 * len(articles) + 80)),
         "stream": False,
         "chat_template_kwargs": {"enable_thinking": False},
     }
@@ -808,6 +839,76 @@ def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str
         return {}, f"lm-studio-summary-invalid: {type(exc).__name__}: {exc}; raw={raw}", body[:1000]
 
 
+def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str], dict[int, str], str | None]:
+    """Call local LM Studio for digest story summaries in reliable chunks.
+
+    Returns (summaries_by_index, fallback_reasons_by_index, raw_content). Unlike
+    the previous whole-digest request, failures are isolated to the affected
+    chunk so successful Gemma batches still become local AI summaries.
+    """
+    articles = []
+    for idx, (_section_index, _story_index, story) in enumerate(iter_digest_stories(digest)):
+        first_link = next((link for link in story.get("links", []) if isinstance(link, dict)), {})
+        articles.append({
+            "index": idx,
+            "title": story.get("title") or first_link.get("headline") or "",
+            "rssSummary": story.get("summary") or first_link.get("excerpt") or "",
+            "source": first_link.get("source") or first_link.get("outlet") or "",
+            "url": first_link.get("url") or "",
+        })
+    if not articles:
+        return {}, {}, None
+
+    batch_size = lm_studio_summary_batch_size()
+    summaries_by_index: dict[int, str] = {}
+    fallback_reasons_by_index: dict[int, str] = {}
+    raw_content = None
+
+    def apply_chunk(chunk: list[dict], requested_size: int, retry_single: bool = True) -> None:
+        nonlocal raw_content
+        chunk_indexes = [int(article["index"]) for article in chunk]
+        chunk_summaries, error, raw = summarize_story_batch_with_lm_studio(chunk)
+        if raw and raw_content is None:
+            raw_content = raw
+        if error:
+            # LM Studio/Gemma can occasionally produce malformed outer response
+            # JSON for larger chunks. Split failed chunks and retry with the same
+            # model before falling back, so a bad response does not poison the
+            # rest of the digest.
+            if len(chunk) > 1:
+                midpoint = max(1, len(chunk) // 2)
+                apply_chunk(chunk[:midpoint], len(chunk[:midpoint]))
+                apply_chunk(chunk[midpoint:], len(chunk[midpoint:]))
+                return
+            if retry_single:
+                retry_summaries, retry_error, retry_raw = summarize_story_batch_with_lm_studio(chunk)
+                if retry_raw and raw_content is None:
+                    raw_content = retry_raw
+                if not retry_error:
+                    chunk_summaries = retry_summaries
+                    error = None
+                else:
+                    error = f"{error[:180]}; retryError={retry_error[:180]}"
+            if error:
+                reason = f"{error[:300]}; summaryBatchSize={requested_size}; chunkIndexes={chunk_indexes}"
+                for index in chunk_indexes:
+                    fallback_reasons_by_index[index] = reason[:500]
+                return
+        for index in chunk_indexes:
+            summary = chunk_summaries.get(index)
+            if summary:
+                summaries_by_index[index] = summary
+                fallback_reasons_by_index.pop(index, None)
+            else:
+                fallback_reasons_by_index[index] = (
+                    f"lm-studio-summary-missing-index; summaryBatchSize={requested_size}; chunkIndexes={chunk_indexes}"
+                )[:500]
+
+    for start in range(0, len(articles), batch_size):
+        apply_chunk(articles[start : start + batch_size], batch_size)
+    return summaries_by_index, fallback_reasons_by_index, raw_content
+
+
 def enrich_digest_story_summaries(digest: dict) -> dict:
     """Write story summaries via one local LM Studio batch call when enabled.
 
@@ -823,17 +924,13 @@ def enrich_digest_story_summaries(digest: dict) -> dict:
             story["summary"] = str(story.get("title") or "").strip()
         story["summaryMethod"] = "rss-feed-fallback-v1"
 
-    mode = local_rating_mode()
+    mode = local_summary_mode()
     if mode != "local":
         for _section_index, _story_index, story in stories:
-            story["summaryFallbackReason"] = f"local-summary-skipped: CROSSECT_RATING_MODE={mode}"
+            story["summaryFallbackReason"] = f"local-summary-skipped: CROSSECT_SUMMARY_MODE={mode}"
         return digest
 
-    summaries_by_index, error, _raw = summarize_digest_stories_with_lm_studio(digest)
-    if error:
-        for _section_index, _story_index, story in stories:
-            story["summaryFallbackReason"] = error[:240]
-        return digest
+    summaries_by_index, fallback_reasons_by_index, _raw = summarize_digest_stories_with_lm_studio(digest)
 
     for idx, (_section_index, _story_index, story) in enumerate(stories):
         summary = summaries_by_index.get(idx)
@@ -842,7 +939,7 @@ def enrich_digest_story_summaries(digest: dict) -> dict:
             story["summaryMethod"] = "lm-studio-local-digest-batch-json-v1"
             story.pop("summaryFallbackReason", None)
         else:
-            story["summaryFallbackReason"] = "lm-studio-summary-missing-index"
+            story["summaryFallbackReason"] = fallback_reasons_by_index.get(idx, "lm-studio-summary-missing-index")
     return digest
 
 
