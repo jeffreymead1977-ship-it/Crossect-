@@ -2,7 +2,7 @@
 """Create a test today-expanded.json from fresh feed data for publish pipeline testing."""
 import json, os, re
 from datetime import datetime
-from link_metadata import enrich_digest_link_metadata, enrich_link_metadata, missing_required_link_metadata
+from link_metadata import enrich_digest_link_metadata, enrich_digest_story_summaries, enrich_link_metadata, missing_required_link_metadata
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.join(SCRIPT_DIR, "..")
@@ -156,6 +156,7 @@ digest = {
     "sections": sections
 }
 
+digest = enrich_digest_story_summaries(digest)
 digest = enrich_digest_link_metadata(digest)
 
 missing_link_metadata = missing_required_link_metadata(digest)

@@ -38,6 +38,7 @@ DEFAULT_METADATA = {
 
 DEFAULT_LM_STUDIO_BASE_URL = "http://localhost:1234/v1"
 DEFAULT_LM_STUDIO_MODEL = "qwen3.6-35b-a3b-mtp"
+DEFAULT_LM_STUDIO_SUMMARY_MODEL = "gemma-4-26b-a4b-it"
 DEFAULT_LM_STUDIO_TIMEOUT_SECONDS = 5.0
 
 ALIGNMENT_CUES = {
@@ -374,6 +375,31 @@ def lm_studio_config() -> tuple[str, str, float]:
     return base_url, model, max(0.5, timeout)
 
 
+def lm_studio_summary_config() -> tuple[str, str, float]:
+    """Return LM Studio config for story summaries.
+
+    Link alignment/reliability ratings intentionally keep lm_studio_config()'s
+    Qwen hard-pin and deterministic fallback. Story summaries use a separate
+    non-thinking local model because the Qwen MTP endpoint can emit reasoning-only
+    content or time out on batch summary JSON.
+    """
+    base_url = str(os.environ.get("CROSSECT_LM_STUDIO_BASE_URL") or DEFAULT_LM_STUDIO_BASE_URL).rstrip("/")
+    model = str(
+        os.environ.get("CROSSECT_LM_STUDIO_SUMMARY_MODEL")
+        or DEFAULT_LM_STUDIO_SUMMARY_MODEL
+    ).strip() or DEFAULT_LM_STUDIO_SUMMARY_MODEL
+    try:
+        timeout = float(
+            os.environ.get("CROSSECT_LM_STUDIO_SUMMARY_TIMEOUT")
+            or os.environ.get("CROSSECT_LM_STUDIO_BATCH_TIMEOUT")
+            or os.environ.get("CROSSECT_LM_STUDIO_TIMEOUT")
+            or DEFAULT_LM_STUDIO_TIMEOUT_SECONDS
+        )
+    except ValueError:
+        timeout = DEFAULT_LM_STUDIO_TIMEOUT_SECONDS
+    return base_url, model, max(0.5, timeout)
+
+
 def extract_json_object(text: str) -> dict:
     """Parse a strict JSON object, tolerating only surrounding whitespace/fences."""
     cleaned = str(text or "").strip()
@@ -687,6 +713,136 @@ def enrich_digest_link_metadata(digest: dict) -> dict:
         link["alignmentBasis"] = "lm-studio-batch: " + judgement["alignmentBasis"]
         link["reliabilityBasis"] = "lm-studio-batch: " + judgement["reliabilityBasis"]
         link["ratingMethod"] = "lm-studio-local-digest-batch-json-v1"
+    return digest
+
+
+def iter_digest_stories(digest: dict):
+    """Yield (section_index, story_index, story) for story dicts."""
+    for section_index, section in enumerate(digest.get("sections", [])):
+        for story_index, story in enumerate(section.get("stories", [])):
+            if isinstance(story, dict):
+                yield section_index, story_index, story
+
+
+def validate_lm_summary(parsed: dict) -> str:
+    summary = str(parsed.get("summary") or "").strip()
+    if not summary:
+        raise ValueError("missing summary")
+    return re.sub(r"\s+", " ", summary)[:500]
+
+
+def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str], str | None, str | None]:
+    """Call local LM Studio once for all story summaries in a digest.
+
+    Returns (summaries_by_index, error, raw_content). This deliberately uses a
+    summary-specific LM Studio model and makes one request per digest, not one
+    request per story.
+    """
+    base_url, model, _timeout = lm_studio_summary_config()
+    timeout = max(
+        _timeout,
+        float(os.environ.get("CROSSECT_LM_STUDIO_BATCH_TIMEOUT") or 60),
+    )
+    url = f"{base_url}/chat/completions"
+    articles = []
+    for idx, (_section_index, _story_index, story) in enumerate(iter_digest_stories(digest)):
+        first_link = next((link for link in story.get("links", []) if isinstance(link, dict)), {})
+        articles.append({
+            "index": idx,
+            "title": story.get("title") or first_link.get("headline") or "",
+            "rssSummary": story.get("summary") or first_link.get("excerpt") or "",
+            "source": first_link.get("source") or first_link.get("outlet") or "",
+            "url": first_link.get("url") or "",
+        })
+    if not articles:
+        return {}, None, None
+
+    system_prompt = (
+        "You write concise news story summaries for Crossect. Return strict JSON only. "
+        "Do not include markdown, prose outside JSON, comments, or reasoning. "
+        "Use only the supplied title, RSS summary, source and URL. Do not invent facts. "
+        "Return JSON object {\"summaries\":[...]} with one item per input article: index, summary. "
+        "Each summary must be one neutral sentence, 18-35 words, and non-empty."
+    )
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": json.dumps({"articles": articles}, ensure_ascii=False)},
+        ],
+        "temperature": 0,
+        "max_tokens": max(1000, min(5000, 80 * len(articles))),
+        "stream": False,
+        "chat_template_kwargs": {"enable_thinking": False},
+    }
+    request = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            body = response.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as exc:
+        error_body = exc.read().decode("utf-8", "replace")[:500].replace("\n", " ")
+        return {}, f"lm-studio-summary-http-error: {exc.code}: {error_body}", None
+    except (urllib.error.URLError, TimeoutError, socket.timeout, OSError) as exc:
+        return {}, f"lm-studio-summary-error: {type(exc).__name__}: {exc}", None
+
+    try:
+        completion = json.loads(body)
+        raw_content = completion["choices"][0]["message"]["content"]
+        parsed = extract_json_object(raw_content)
+        summaries = parsed.get("summaries")
+        if not isinstance(summaries, list):
+            raise ValueError("summaries was not a list")
+        by_index: dict[int, str] = {}
+        for item in summaries:
+            if not isinstance(item, dict) or "index" not in item:
+                continue
+            by_index[int(item["index"])] = validate_lm_summary(item)
+        return by_index, None, raw_content
+    except Exception as exc:
+        raw = body[:1000].replace("\n", " ")
+        return {}, f"lm-studio-summary-invalid: {type(exc).__name__}: {exc}; raw={raw}", body[:1000]
+
+
+def enrich_digest_story_summaries(digest: dict) -> dict:
+    """Write story summaries via one local LM Studio batch call when enabled.
+
+    Existing RSS/feed summaries remain the fallback on timeout, error, invalid JSON,
+    or missing per-story model output. Summary provenance is always marked.
+    """
+    stories = list(iter_digest_stories(digest))
+    if not stories:
+        return digest
+
+    for _section_index, _story_index, story in stories:
+        if not str(story.get("summary") or "").strip():
+            story["summary"] = str(story.get("title") or "").strip()
+        story["summaryMethod"] = "rss-feed-fallback-v1"
+
+    mode = local_rating_mode()
+    if mode != "local":
+        for _section_index, _story_index, story in stories:
+            story["summaryFallbackReason"] = f"local-summary-skipped: CROSSECT_RATING_MODE={mode}"
+        return digest
+
+    summaries_by_index, error, _raw = summarize_digest_stories_with_lm_studio(digest)
+    if error:
+        for _section_index, _story_index, story in stories:
+            story["summaryFallbackReason"] = error[:240]
+        return digest
+
+    for idx, (_section_index, _story_index, story) in enumerate(stories):
+        summary = summaries_by_index.get(idx)
+        if summary:
+            story["summary"] = summary
+            story["summaryMethod"] = "lm-studio-local-digest-batch-json-v1"
+            story.pop("summaryFallbackReason", None)
+        else:
+            story["summaryFallbackReason"] = "lm-studio-summary-missing-index"
     return digest
 
 
