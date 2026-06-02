@@ -1,19 +1,29 @@
 # Crossect live richer summary test
 
-- task status: in progress — local Qwen digest generated and validated; preparing explicit publish commit/push.
+- task status: completed — local Qwen richer mini-story digest generated, validated, committed, pushed, and verified live on GitHub Pages.
 - chosen worker: Dazza
+- commit pushed: `44f295b Update Crossect richer summary digest test`
 - files inspected:
   - `docs/data/digests/today-expanded.json`
+  - `docs/data/digests/2026-06-02-expanded.json`
+  - `docs/data/digests/index.json`
   - `scripts/link_metadata.py`
   - `scripts/create-test-digest.py`
   - `scripts/publish-digest.sh`
-  - `docs/data/digests/index.json`
 - files changed intentionally:
-  - `scripts/link_metadata.py` (pre-existing richer mini-story implementation changes)
-  - `docs/data/digests/today-expanded.json` (generated digest)
-  - `docs/data/digests/2026-06-02-expanded.json` (generated digest copy/enriched)
-  - `docs/data/digests/index.json` (generatedAt metadata update)
-  - `.agent-status/crossect-live-richer-summary-test.md`
+  - `scripts/link_metadata.py` — richer mini-story implementation changes already present in the worktree and included in the publish commit.
+  - `docs/data/digests/today-expanded.json` — regenerated digest.
+  - `docs/data/digests/2026-06-02-expanded.json` — regenerated/enriched dated digest.
+  - `docs/data/digests/index.json` — generatedAt metadata updated for today and dated entries.
+  - `.agent-status/crossect-live-richer-summary-test.md` — task evidence/status.
+- unrelated dirty/untracked files deliberately not staged/committed:
+  - `docs/data/feeds/afternoon.json`
+  - `docs/data/feeds/morning.json`
+  - `__pycache__/`, `scripts/__pycache__/`
+  - `build_digest.py`, `debug_cat.py`, `debug_cat2.py`
+  - `docs/app.js.bak`, `docs/fix-digest-404.md`
+  - `scripts/run-full-pipeline.sh`
+  - other pre-existing untracked `.agent-status/*` files
 - commands run:
   - `pwd && git status --short && TZ=Australia/Perth date`
   - inspected pre-generation summary method counts for `today-expanded.json`
@@ -27,17 +37,35 @@
   - `node ./scripts/enrich-digest-images.mjs docs/data/digests/2026-06-02-expanded.json`
   - copied enriched dated digest back to `today-expanded.json`
   - rebuilt `docs/data/digests/index.json` metadata
-- key outputs:
+  - explicitly staged only intended files
+  - `git commit -m "Update Crossect richer summary digest test"`
+  - attempted `git pull --rebase origin main`; first failed because unrelated tracked feed files were dirty
+  - stashed only `docs/data/feeds/afternoon.json` and `docs/data/feeds/morning.json`, pulled/rebased, popped stash, pushed
+  - fetched live GitHub Pages URLs and parsed JSON
+- key local outputs:
+  - working directory: `/Users/e4042381/github/crossect-`
+  - AWST date: `Tue Jun  2 17:29:26 AWST 2026`
   - pre-generation method counts: `{'rss-feed-fallback-v1': 32}`
   - LM Studio `/v1/models` included `qwen3.6-35b-a3b-mtp`
-  - generation loaded 332 feed items and created 32 stories across 4 sections
+  - generation loaded `332` feed items, loaded `267` previously published URLs, created `32` stories across `4` sections
   - post-generation method counts: `{'lm-studio-local-multi-source-mini-story-v1': 32}`
-  - freshness validation: repeated URLs `0/32`, similar story titles `0/32`, Australia stories `4/32`, largest journalism source family `Al Jazeera 4/15 (27%)`
+  - freshness validation: repeated URLs `0/32`; similar story titles `0/32`; Australia stories `4/32 (13%)`; largest journalism source family `Al Jazeera 4/15 (27%)`
   - image enrichment: `Enriched 28 links and 13 article images`; four Inquirer URLs returned `403 Forbidden`
+- live GitHub Pages verification:
+  - `https://jeffreymead1977-ship-it.github.io/Crossect-/docs/data/digests/index.json` returned HTTP 200, `lastUpdated: 2026-06-02`, first entry `today-expanded.json`, generatedAt `2026-06-02T17:29:45.343881`
+  - `https://jeffreymead1977-ship-it.github.io/Crossect-/docs/data/digests/today-expanded.json` returned HTTP 200, generatedAt `2026-06-02T17:29:45.343881`, method counts `{'lm-studio-local-multi-source-mini-story-v1': 32}`
+  - `https://jeffreymead1977-ship-it.github.io/Crossect-/docs/data/digests/2026-06-02-expanded.json` returned HTTP 200 with matching generatedAt/file size
+  - first live fetch still showed old cached Pages data; second fetch after wait showed the pushed richer-summary digest.
+- live sample summaries:
+  1. `US Defense Department bars journalists from its press office` — method `lm-studio-local-multi-source-mini-story-v1` — summary begins `The US Defense Department has implemented a policy barring journalists from its press office...`
+  2. `President Trump attempts to end hostilities in Lebanon` — method `lm-studio-local-multi-source-mini-story-v1` — summary begins `US President Donald Trump has announced a diplomatic breakthrough aimed at halting military escalation in Lebanon...`
+  3. `Celebration, shock and scepticism follow Colombia’s presidential election` — method `lm-studio-local-multi-source-mini-story-v1` — summary begins `Colombia’s presidential election concluded with a result that defied widespread pre-vote projections...`
 - errors:
+  - `git pull --rebase` initially failed with `cannot pull with rebase: You have unstaged changes` because unrelated tracked feed JSON files were dirty.
   - image enrichment could not fetch four `newsinfo.inquirer.net` URLs due to `403 Forbidden`; enrichment continued and the digest remains valid.
 - fixes attempted:
   - Used local LM Studio Qwen model already available on port 1234.
-  - Used manual explicit digest/index steps instead of the publish script's broad `git add -- docs/data/digests`, so intended code/status files can be staged explicitly and unrelated dirty files remain untouched.
-- current blocker: none at this stage.
-- next recommended action: explicit-stage intended files, commit, push, then verify live GitHub Pages JSON URLs and parse method counts/sample summaries.
+  - Used manual explicit digest/index steps and explicit staging so unrelated dirty/scratch files stayed out of the commit.
+  - Temporarily stashed only unrelated tracked feed JSON files before pull/rebase, then restored them with `git stash pop` before push.
+- current blocker: none.
+- next recommended action: Jeff can view the live GitHub Pages site/data now; no manual action required.
