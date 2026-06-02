@@ -249,9 +249,16 @@
               "headline": "US-Nigeria Coordinated Strike Against ISIS Fighters",
               "excerpt": "AFRICOM's statement is the primary source on the follow-on strike and the official damage assessment language.",
               "url": "https://www.africom.mil/pressrelease/36570/us-nigeria-coordinated-strike-against-isis-fighters",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "medium",
+              "quality": "Government primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Unknown/Mixed",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://dims.apnews.com/dims4/default/9d9d486/2147483647/strip/true/crop/5211x3472+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F16%2F29%2F80b64ea73725da92d1e9090f1ae8%2F3d4f0b9b632c4d95856ba25a0b794057",
@@ -491,14 +498,14 @@
           "links": [
             {
               "outlet": "The Guardian",
-              "headline": "Australia wants to sell its social media ban to the world – but are the measures even working?",
+              "headline": "Australia wants to sell its social media ban to the world \u2013 but are the measures even working?",
               "excerpt": "The Guardian adds broader scrutiny of whether the ban is achieving its goals even before the new research landed.",
               "url": "https://www.theguardian.com/australia-news/2026/apr/01/australia-social-media-ban-adoption-world",
               "bias": "Lean Left",
               "confidence": "high",
               "quality": "International newspaper",
               "imageUrl": "https://i.guim.co.uk/img/media/a15bdff7ed04daf3aadf4a625132e61464348407/510_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ff0c7d6264acc5558fbd49362320d31",
-              "imageAlt": "Australia wants to sell its social media ban to the world – but are the measures even working?"
+              "imageAlt": "Australia wants to sell its social media ban to the world \u2013 but are the measures even working?"
             },
             {
               "outlet": "ABC News Australia",
@@ -555,12 +562,19 @@
             },
             {
               "outlet": "NT Parliament",
-              "headline": "Meeting Documents – Northern Territory Government – Legislative Assembly",
+              "headline": "Meeting Documents \u2013 Northern Territory Government \u2013 Legislative Assembly",
               "excerpt": "The assembly documents page is the official reference point for current papers and draft Hansard around the bill.",
               "url": "https://parliament.nt.gov.au/business/meeting-documents",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Government primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a3dfc35b8e417ba6ffd2eb930a73724d?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485&imformat=generic",
@@ -598,9 +612,16 @@
               "headline": "State government elections fact sheet",
               "excerpt": "The ECQ fact sheet is the primary reference for the state's donation rules and prohibited-donor framework.",
               "url": "https://www.ecq.qld.gov.au/__data/assets/pdf_file/0013/100642/State-fact-sheet-35-Donations-from-prohibited-donors-v.-Mar-26.pdf",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Government primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b9460c47786983b5a7b1326570499725?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",

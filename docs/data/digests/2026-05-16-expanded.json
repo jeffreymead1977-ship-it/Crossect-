@@ -29,19 +29,26 @@
               "bias": "Lean Left",
               "confidence": "high",
               "quality": "Progressive editorial profile",
-              "headline": "Jim Chalmers rules out fuel excise extension and downplays hopes for tax relief in ‘most responsible’ budget yet",
-              "excerpt": "The treasurer also says May federal budget will play ‘helpful not harmful role in fight against inflation’",
+              "headline": "Jim Chalmers rules out fuel excise extension and downplays hopes for tax relief in \u2018most responsible\u2019 budget yet",
+              "excerpt": "The treasurer also says May federal budget will play \u2018helpful not harmful role in fight against inflation\u2019",
               "imageUrl": "https://i.guim.co.uk/img/media/4c8996de9db7a970eff3b2cf7c9e6271c1def36e/539_0_4423_3538/master/4423.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40c31a833063f29cac76db3740f7f007",
-              "imageAlt": "Jim Chalmers rules out fuel excise extension and downplays hopes for tax relief in ‘most responsible’ budget yet"
+              "imageAlt": "Jim Chalmers rules out fuel excise extension and downplays hopes for tax relief in \u2018most responsible\u2019 budget yet"
             },
             {
               "outlet": "Prime Minister of Australia",
               "url": "https://www.pm.gov.au/media/fuel-excise-halved-three-months",
-              "bias": "Official",
-              "confidence": "high",
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
               "quality": "Government primary source",
               "headline": "Fuel excise halved for three months",
-              "excerpt": "Following a meeting of the National Cabinet today convened by the Prime Minister, the Australian Government will halve the fuel excise on petrol and diesel for three months.The halving of the fuel excise will reduce the cost of fuel by 26.3 cents per litre.This will reduce the cost of a 65L tank of fuel by nearly $19.The spike in fuel prices as a result of the war in the Middle East is hurting Australians and causing financial stress. This will help to provide some relief.The halving of the fuel excise will commence from April 1 and run to 30 June."
+              "excerpt": "Following a meeting of the National Cabinet today convened by the Prime Minister, the Australian Government will halve the fuel excise on petrol and diesel for three months.The halving of the fuel excise will reduce the cost of fuel by 26.3 cents per litre.This will reduce the cost of a 65L tank of fuel by nearly $19.The spike in fuel prices as a result of the war in the Middle East is hurting Australians and causing financial stress. This will help to provide some relief.The halving of the fuel excise will commence from April 1 and run to 30 June.",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/7a77df92f1af986f53598304968d8ca3?impolicy=wcms_watermark_news&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485&imformat=generic",
@@ -75,9 +82,16 @@
             {
               "outlet": "Bureau of Meteorology",
               "url": "https://www.bom.gov.au/jsp/watl/rainfall/pme.jsp",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government forecast source"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Government forecast source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/6215c2f3f0e50749aacf33b707b745f2?impolicy=wcms_watermark_news&cropH=518&cropW=920&xPos=61&yPos=0&width=862&height=485&imformat=generic",
@@ -106,16 +120,23 @@
               "confidence": "medium",
               "quality": "Aviation trade outlet",
               "headline": "Budget flags $40m+ for airline competition and consumer protection",
-              "excerpt": "In the 2026 Budget, announced this week, $38.1 million over four years from 2026–27 and $7.3 million per year ongoing was earmarked for the government’s consumer protection priorities, as well as $4.5 million over four years to continue the ACCC’s domestic airline monitoring program.",
+              "excerpt": "In the 2026 Budget, announced this week, $38.1 million over four years from 2026\u201327 and $7.3 million per year ongoing was earmarked for the government\u2019s consumer protection priorities, as well as $4.5 million over four years to continue the ACCC\u2019s domestic airline monitoring program.",
               "imageUrl": "https://res.cloudinary.com/momentum-media-group-pty-ltd/images/f_auto/v1768969345/Australian%20Aviation/1755653845369_ttoqxl/1755653845369_ttoqxl.jpg",
               "imageAlt": "Budget flags $40m+ for airline competition and consumer protection"
             },
             {
               "outlet": "Department of Infrastructure",
               "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/aviation/aviation-consumer-ombuds-scheme/progress-so-far-and-next-steps",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government policy source"
+              "bias": "Unknown/Mixed",
+              "confidence": "medium",
+              "quality": "Government policy source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/d781df7d2e9b15f28d07ba1f7182ee9d?impolicy=wcms_watermark_news&cropH=1303&cropW=2316&xPos=0&yPos=1130&width=862&height=485&imformat=generic",
@@ -143,17 +164,24 @@
               "bias": "Lean Left",
               "confidence": "high",
               "quality": "Live coverage with health update",
-              "headline": "Michele Bullock says ‘we are poorer and there is no way out of it’ after rate rise – as it happened",
+              "headline": "Michele Bullock says \u2018we are poorer and there is no way out of it\u2019 after rate rise \u2013 as it happened",
               "excerpt": "This blog is now closed",
               "imageUrl": "https://i.guim.co.uk/img/media/1dc527d5ac148632ffe0fff252676379ea41b0e9/245_0_4338_3471/master/4338.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6f06da6971cfb48661738d008501bcd5",
-              "imageAlt": "Michele Bullock says ‘we are poorer and there is no way out of it’ after rate rise – as it happened"
+              "imageAlt": "Michele Bullock says \u2018we are poorer and there is no way out of it\u2019 after rate rise \u2013 as it happened"
             },
             {
               "outlet": "Australian Centre for Disease Control",
               "url": "https://www.cdc.gov.au/sites/default/files/2026-04/diphtheria-in-australia-epidemiological-update-8-april-2026.pdf",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government epidemiology PDF"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Government epidemiology PDF",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/3175b68fe3e7d8234b3c69033ab7208c?impolicy=wcms_watermark_news&cropH=911&cropW=1620&xPos=0&yPos=0&width=862&height=485&imformat=generic",
@@ -230,10 +258,10 @@
               "bias": "Center",
               "confidence": "medium",
               "quality": "Multicultural public broadcaster",
-              "headline": "Government defends 'contentious' changes in budget as Hanson labels spending 'wrong' — as it happened",
+              "headline": "Government defends 'contentious' changes in budget as Hanson labels spending 'wrong' \u2014 as it happened",
               "excerpt": "Treasurer Jim Chalmers has announced major tax reforms that he said will target intergenerational inequity.",
               "imageUrl": "https://assets.sbs.com.au/dims4/default/b5a026b/2147483647/strip/true/crop/2479x1394+753+202/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F74%2Ff3%2Ff7350c9c4a66874b1323ee28944b%2Fgettyimages-2275755263.jpg",
-              "imageAlt": "Government defends 'contentious' changes in budget as Hanson labels spending 'wrong' — as it happened"
+              "imageAlt": "Government defends 'contentious' changes in budget as Hanson labels spending 'wrong' \u2014 as it happened"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/4e5c3d4c124da5114b93b28e0fbed432?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
@@ -266,10 +294,10 @@
               "bias": "Lean Left",
               "confidence": "high",
               "quality": "Progressive international outlet",
-              "headline": "Ukraine ‘entirely justified’ to plan strikes against Russian energy and military targets after Kyiv attacks, Zelenskyy says – as it happpened",
+              "headline": "Ukraine \u2018entirely justified\u2019 to plan strikes against Russian energy and military targets after Kyiv attacks, Zelenskyy says \u2013 as it happpened",
               "excerpt": "Zelenskyy accused Russia of committing war crimes after latest strikes on Ukraine killed at least 24",
               "imageUrl": "https://i.guim.co.uk/img/media/b7101880e536524b466d9b77bd40884544a4ee80/236_19_1044_835/master/1044.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=35ceda7678b55dcf9df1ac63033a9fc8",
-              "imageAlt": "Ukraine ‘entirely justified’ to plan strikes against Russian energy and military targets after Kyiv attacks, Zelenskyy says – as it happpened"
+              "imageAlt": "Ukraine \u2018entirely justified\u2019 to plan strikes against Russian energy and military targets after Kyiv attacks, Zelenskyy says \u2013 as it happpened"
             },
             {
               "outlet": "Al Jazeera",
@@ -278,7 +306,7 @@
               "confidence": "medium",
               "quality": "Global South framing, Reuters-supported",
               "headline": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
-              "excerpt": "Ukraine’s air force says the attack on Thursday was part of the largest aerial assault since the war began.",
+              "excerpt": "Ukraine\u2019s air force says the attack on Thursday was part of the largest aerial assault since the war began.",
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a07596c2a-1778866540.jpg?resize=1920%2C1440",
               "imageAlt": "Zelenskyy vows response after Russian strike kills 24 in Kyiv"
             },
@@ -373,7 +401,7 @@
               "confidence": "high",
               "quality": "More critical Trump framing",
               "headline": "Trump leaves China without breakthroughs on Iran, Taiwan or AI",
-              "excerpt": "US president hails ‘fantastic’ deals, but details remain scarce after pageantry and little progress at much-hyped summit with Xi",
+              "excerpt": "US president hails \u2018fantastic\u2019 deals, but details remain scarce after pageantry and little progress at much-hyped summit with Xi",
               "imageUrl": "https://i.guim.co.uk/img/media/0e32019caf163081a99e8527f3036af18ac1769a/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8b2331d76db6897bda3022a17714745",
               "imageAlt": "Trump leaves China without breakthroughs on Iran, Taiwan or AI"
             },
@@ -391,7 +419,7 @@
               "confidence": "medium",
               "quality": "Regional and Global South framing",
               "headline": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway",
-              "excerpt": "White House says the two leaders agree that the strait ‘must remain open to support the free flow of energy’.",
+              "excerpt": "White House says the two leaders agree that the strait \u2018must remain open to support the free flow of energy\u2019.",
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a05bc38-1778760760_fde934-1778763318.jpg?resize=1200%2C630&quality=80",
               "imageAlt": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway"
             }
@@ -411,7 +439,7 @@
               "confidence": "high",
               "quality": "Wire service",
               "headline": "Iran's top diplomat says a lack of trust is impeding talks to end war with the US",
-              "excerpt": "Iran’s foreign minister says that a lack of trust remains the biggest obstacle in negotiations to end the war with the U.S.",
+              "excerpt": "Iran\u2019s foreign minister says that a lack of trust remains the biggest obstacle in negotiations to end the war with the U.S.",
               "imageUrl": "https://dims.apnews.com/dims4/default/0830c27/2147483647/strip/true/crop/3992x2660+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2Ff2%2F10f6e73f79992f33c2f0f6d884c1%2F3f81ee2ed6d9466fa4d1fdd55642abaf",
               "imageAlt": "Iran's top diplomat says a lack of trust is impeding talks to end war with the US"
             },
@@ -428,10 +456,10 @@
               "bias": "Lean Left",
               "confidence": "medium",
               "quality": "Tehran-region emphasis",
-              "headline": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-              "excerpt": "President Trump says the US will begin ‘Project Freedom’ on Monday to guide stranded ships through Strait of Hormuz.",
+              "headline": "Iran warns US to stay out of Hormuz after Trump says US will \u2018guide\u2019 ships",
+              "excerpt": "President Trump says the US will begin \u2018Project Freedom\u2019 on Monday to guide stranded ships through Strait of Hormuz.",
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26108447320171-1777883488.jpg?resize=1920%2C1440",
-              "imageAlt": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships"
+              "imageAlt": "Iran warns US to stay out of Hormuz after Trump says US will \u2018guide\u2019 ships"
             },
             {
               "outlet": "The Week",
@@ -471,7 +499,7 @@
               "confidence": "high",
               "quality": "Wire service",
               "headline": "Gaza airstrike targeted Hamas military wing leader, Israel says",
-              "excerpt": "Israeli officials say an airstrike in Gaza has targeted Izz al-Din al-Haddad, the leader of Hamas’ military wing. It's unclear if he was killed or injured.",
+              "excerpt": "Israeli officials say an airstrike in Gaza has targeted Izz al-Din al-Haddad, the leader of Hamas\u2019 military wing. It's unclear if he was killed or injured.",
               "imageUrl": "https://dims.apnews.com/dims4/default/1165915/2147483647/strip/true/crop/8484x5653+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdc%2Fe0%2F27e0eaab17921bef2b35bfbb6bc9%2F2f99b53555e2423cb40c012423432d84",
               "imageAlt": "Gaza airstrike targeted Hamas military wing leader, Israel says"
             },
@@ -489,7 +517,7 @@
               "confidence": "medium",
               "quality": "Stronger Palestinian-civilian framing",
               "headline": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
-              "excerpt": "Three women and a child among civilians killed in Israel’s latest attacks on Gaza City.",
+              "excerpt": "Three women and a child among civilians killed in Israel\u2019s latest attacks on Gaza City.",
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-15T180831Z_1429041989_RC2U9LAFRPJ6_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-HAMAS-1778876097.jpg?resize=1920%2C1440",
               "imageAlt": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member"
             }
@@ -525,7 +553,7 @@
               "confidence": "high",
               "quality": "Wire service",
               "headline": "ICC unseals arrest warrant for a prominent Philippine senator over drug war killings under Duterte",
-              "excerpt": "The International Criminal Court has unsealed an arrest warrant for a prominent Philippine senator linked to the deadly “war on drugs” overseen by ex-President Rodrigo Duterte, which allegedly involved the extrajudicial killings of suspects.",
+              "excerpt": "The International Criminal Court has unsealed an arrest warrant for a prominent Philippine senator linked to the deadly \u201cwar on drugs\u201d overseen by ex-President Rodrigo Duterte, which allegedly involved the extrajudicial killings of suspects.",
               "imageUrl": "https://dims.apnews.com/dims4/default/435ceb4/2147483647/strip/true/crop/5184x3454+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F42%2F2b88a232e455c49d93df39265485%2Fac3b3e3e90ea4dd3bddb7c0ca7ee5590",
               "imageAlt": "ICC unseals arrest warrant for a prominent Philippine senator over drug war killings under Duterte"
             },
@@ -543,7 +571,7 @@
               "confidence": "medium",
               "quality": "Rights and accountability framing",
               "headline": "Philippine politician wanted by ICC flees Senate",
-              "excerpt": "Senate president says Senator Ronald ‘Bato’ dela Rosa ‘no longer in the building’ where he had taken refuge.",
+              "excerpt": "Senate president says Senator Ronald \u2018Bato\u2019 dela Rosa \u2018no longer in the building\u2019 where he had taken refuge.",
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a04590b3e14-1778669835.jpg?resize=1920%2C1440",
               "imageAlt": "Philippine politician wanted by ICC flees Senate"
             },
@@ -589,7 +617,7 @@
               "confidence": "medium",
               "quality": "EV specialist outlet with Tesla scrutiny",
               "headline": "Tesla finally reveals what happened in 17 'Robotaxi' crashes",
-              "excerpt": "Tesla has unredacted all 17 of its ADS crash narratives filed with NHTSA, revealing for the first time what actually happened. Most crashes weren't Tesla's fault — but some are concerning.",
+              "excerpt": "Tesla has unredacted all 17 of its ADS crash narratives filed with NHTSA, revealing for the first time what actually happened. Most crashes weren't Tesla's fault \u2014 but some are concerning.",
               "imageUrl": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Robotaxi-hero.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
               "imageAlt": "Tesla finally reveals what happened in 17 'Robotaxi' crashes"
             },
@@ -599,10 +627,10 @@
               "bias": "Lean Left",
               "confidence": "medium",
               "quality": "Tech magazine, safety and regulatory emphasis",
-              "headline": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
-              "excerpt": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
+              "headline": "Tesla Reveals New Details About Robotaxi Crashes\u2014and the Humans Involved",
+              "excerpt": "Remote operators (slowly) drove the automaker\u2019s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
               "imageUrl": "https://media.wired.com/photos/6a0765d467132e88ffa72f17/191:100/w_1280,c_limit/GettyImages-2220743976.jpg",
-              "imageAlt": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved"
+              "imageAlt": "Tesla Reveals New Details About Robotaxi Crashes\u2014and the Humans Involved"
             },
             {
               "outlet": "Drive Tesla Canada",
@@ -610,10 +638,10 @@
               "bias": "Unknown/Mixed",
               "confidence": "low",
               "quality": "Tesla-focused enthusiast outlet",
-              "headline": "Tesla’s Robotaxi Crash Reports Are Now Unredacted — Here’s What They Show",
+              "headline": "Tesla\u2019s Robotaxi Crash Reports Are Now Unredacted \u2014 Here\u2019s What They Show",
               "excerpt": "Tesla has released unredacted robotaxi crash narratives through April 2026, revealing no major at-fault incidents in Austin despite growing scrutiny over autonomous vehicle safety.",
               "imageUrl": "https://driveteslacanada.ca/wp-content/uploads/2025/06/austin-tesla-robotaxi.jpg",
-              "imageAlt": "Tesla’s Robotaxi Crash Reports Are Now Unredacted — Here’s What They Show"
+              "imageAlt": "Tesla\u2019s Robotaxi Crash Reports Are Now Unredacted \u2014 Here\u2019s What They Show"
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
@@ -651,7 +679,7 @@
               "confidence": "low",
               "quality": "Startup and tech news site",
               "headline": "OpenAI rolls out 'ChatGPT Personal Finance' tool with real-time bank account connectivity - The Tech Portal",
-              "excerpt": "OpenAI has rolled out a personal finance tool for ChatGPT that connects directly with users’ financial accounts through Plaid-backed",
+              "excerpt": "OpenAI has rolled out a personal finance tool for ChatGPT that connects directly with users\u2019 financial accounts through Plaid-backed",
               "imageUrl": "https://i0.wp.com/thetechportal.com/wp-content/uploads/2026/05/openai-chatgpt-personal-finance.webp?fit=949%2C561&ssl=1",
               "imageAlt": "OpenAI rolls out 'ChatGPT Personal Finance' tool with real-time bank account connectivity - The Tech Portal"
             }
@@ -670,10 +698,10 @@
               "bias": "Center",
               "confidence": "medium",
               "quality": "Tech reporting",
-              "headline": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+              "headline": "Runway started by helping filmmakers \u2014 now it wants to beat Google at AI",
               "excerpt": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
               "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
-              "imageAlt": "Runway started by helping filmmakers — now it wants to beat Google at AI"
+              "imageAlt": "Runway started by helping filmmakers \u2014 now it wants to beat Google at AI"
             },
             {
               "outlet": "TechCrunch on GoPro",
@@ -710,7 +738,7 @@
             }
           ],
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
-          "imageAlt": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+          "imageAlt": "Runway started by helping filmmakers \u2014 now it wants to beat Google at AI",
           "imageCredit": "TechCrunch on Runway"
         }
       ]

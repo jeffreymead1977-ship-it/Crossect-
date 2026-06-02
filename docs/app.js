@@ -29,7 +29,7 @@ const els = {
   storyList: document.querySelector("#storyList")
 };
 
-const biasOrder = ["Left", "Lean Left", "Center", "Lean Right", "Right", "Unknown/Mixed", "Official", "Company"];
+const biasOrder = ["Left", "Lean Left", "Center", "Lean Right", "Right", "Unknown/Mixed", "Company"];
 const alignmentScale = [
   ["Left", "L"],
   ["Center", "C"],
@@ -106,7 +106,7 @@ function safeImageUrl(value) {
 
 function normalizeBias(value) {
   const text = String(value || "Unknown/Mixed");
-  if (/official/i.test(text)) return "Official";
+  if (/official/i.test(text)) return "Unknown/Mixed";
   if (/company/i.test(text)) return "Company";
   if (/lean left/i.test(text)) return "Lean Left";
   if (/lean right/i.test(text)) return "Lean Right";
@@ -122,7 +122,6 @@ function segmentClass(value) {
   if (bias === "Left" || bias === "Lean Left") return "l";
   if (bias === "Center") return "c";
   if (bias === "Right" || bias === "Lean Right") return "r";
-  if (bias === "Official") return "o";
   if (bias === "Company") return "co";
   return "u";
 }

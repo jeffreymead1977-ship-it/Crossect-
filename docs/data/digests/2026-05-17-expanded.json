@@ -123,9 +123,16 @@
               "headline": "Budget 2026-27 overview",
               "excerpt": "Primary-source budget overview for the government's stated reform and savings framing.",
               "url": "https://budget.gov.au/content/overview/download/budget-overview-2026-27.pdf",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Government primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/f62f9fac545f81a256022ffa3580f78e?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485&imformat=generic",
@@ -183,9 +190,16 @@
               "headline": "Judgment summaries and recent cases",
               "excerpt": "Primary-source court context for constitutional constraints on donation laws.",
               "url": "https://www.hcourt.gov.au/cases/recent-cases",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Court primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "medium",
+              "quality": "Court primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ca7e33e9f68fd89714e9bf8c94d6bd3f?impolicy=wcms_watermark_news&cropH=771&cropW=1371&xPos=0&yPos=128&width=862&height=485&imformat=generic",
@@ -212,9 +226,16 @@
               "headline": "Queensland Police stay connected",
               "excerpt": "Official Queensland Police channel directory for local police news and alerts.",
               "url": "https://www.police.qld.gov.au/stay-connected",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Police primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Police primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e2c310a369eda576c41573c912ebef1f?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=0&width=862&height=485&imformat=generic",
@@ -272,9 +293,16 @@
               "headline": "Inquiry into e-mobility safety and use in Queensland",
               "excerpt": "Primary parliamentary context for the e-mobility reform process behind council enforcement decisions.",
               "url": "https://www.parliament.qld.gov.au/Work-of-Committees/Committees/Committee-Details?id=4522",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Local government primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Local government primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/1fab154f358f650845ae3f2f8085a3f2?impolicy=wcms_watermark_news&cropH=608&cropW=1080&xPos=0&yPos=55&width=862&height=485&imformat=generic",
@@ -538,18 +566,32 @@
               "headline": "Budget 2026-27 overview",
               "excerpt": "Primary-source budget context for technology and productivity measures.",
               "url": "https://budget.gov.au/content/overview/download/budget-overview-2026-27.pdf",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Government primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
               "outlet": "IP Australia",
               "headline": "IP First Response",
               "excerpt": "Example of Australian government AI-assisted business tooling referenced in the broader approval debate.",
               "url": "https://www.ipaustralia.gov.au/",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Government primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ba37489561088f2948dd5acc1868fad1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
@@ -585,9 +627,16 @@
               "headline": "Atlas of Living Australia",
               "excerpt": "Primary biodiversity-data platform for Australian species records.",
               "url": "https://www.ala.org.au/",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Research infrastructure"
+              "bias": "Unknown/Mixed",
+              "confidence": "medium",
+              "quality": "Research infrastructure",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Unknown/Mixed",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2d4e4a86230363f8a324b53c61de4271?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
@@ -614,9 +663,16 @@
               "headline": "APY Art Centre Collective",
               "excerpt": "Primary organisation representing Anangu artists and art centres.",
               "url": "https://www.apyartcentrecollective.com/",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Community arts organisation"
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
+              "quality": "Community arts organisation",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/580cf04d4bcc5e5c9056e35c9a476665?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",

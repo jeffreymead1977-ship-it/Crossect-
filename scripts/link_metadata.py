@@ -25,7 +25,6 @@ ALLOWED_BIASES = {
     "Lean Right",
     "Right",
     "Unknown/Mixed",
-    "Official",
     "Company",
 }
 ALLOWED_CONFIDENCES = {"high", "medium", "low"}
@@ -55,10 +54,6 @@ ALIGNMENT_CUES = {
         r"\b(woke|cancel culture|left-wing extremis[mt]|socialist agenda)\b",
         r"\b(government waste|spending cuts?|deficit reduction)\b",
         r"\b(gun rights|religious liberty|parental rights)\b",
-    ],
-    "Official": [
-        r"\b(government|ministry|department|court|regulator|commission|police said|officials? said)\b",
-        r"\b(white house|palace|senate|parliament|council|agency)\b",
     ],
     "Company": [
         r"\b(company|startup|earnings|shares?|stock|ipo|product launch|quarterly results?)\b",
@@ -289,12 +284,10 @@ def is_official_source(link: dict, metadata: dict) -> bool:
     """True only when the source/outlet/domain itself is official.
 
     Article body phrases such as "officials said", "government", "court" or
-    "police said" are common in normal journalism and must not turn media
-    outlets (BBC, ABC, Guardian, Reuters-like sources, etc.) into Official.
+    "police said" are common in normal journalism and must not affect media
+    outlet alignments (BBC, ABC, Guardian, Reuters-like sources, etc.). Official
+    provenance is tracked for basis text only; it is not a bias category.
     """
-    if metadata.get("bias") == "Official":
-        return True
-
     hosts = [source_key(link.get("url")), source_key(link.get("source")), source_key(link.get("outlet"))]
     for host in hosts:
         if not host or " " in host:
@@ -332,8 +325,9 @@ def judge_article_alignment(link: dict, metadata: dict) -> tuple[str, str]:
             scores[label] = len(cues)
             evidence[label] = cues[:2]
 
-    # Official/company are provenance descriptors. Use them when those cues are
-    # clearly stronger than ideological cues, otherwise keep ideological result.
+    # Company remains a source/provenance category. Official provenance is not an
+    # alignment label; official sources fall through to ideological cues or the
+    # political/source prior below, with provenance noted in the basis.
     ideological = {k: v for k, v in scores.items() if k in {"Left", "Right"}}
     if ideological:
         left_score = ideological.get("Left", 0)
@@ -344,9 +338,13 @@ def judge_article_alignment(link: dict, metadata: dict) -> tuple[str, str]:
         return winner, f"article-text: {winner} cue(s): {', '.join(evidence[winner])}"
 
     if official_source:
-        if scores.get("Official"):
-            return "Official", f"official-source: source identity plus provenance cue(s): {', '.join(evidence['Official'])}"
-        return "Official", "official-source: source/outlet/domain is official"
+        fallback = metadata.get("bias", DEFAULT_METADATA["bias"])
+        if fallback not in ALLOWED_BIASES:
+            fallback = DEFAULT_METADATA["bias"]
+        return fallback, (
+            "official-source-provenance: source/outlet/domain is official; "
+            f"alignment uses source/article prior={fallback}"
+        )
 
     if scores.get("Company"):
         return "Company", f"article-text: company provenance cue(s): {', '.join(evidence['Company'])}"
@@ -356,15 +354,16 @@ def judge_article_alignment(link: dict, metadata: dict) -> tuple[str, str]:
 
 
 def guard_official_alignment_for_media_source(link: dict, metadata: dict, alignment: str, alignment_basis: str) -> tuple[str, str]:
-    """Prevent ordinary media articles quoting officials from being labelled Official."""
-    if alignment != "Official" or is_official_source(link, metadata):
+    """Ensure Official is never emitted as an alignment label."""
+    if alignment != "Official":
         return alignment, alignment_basis
     fallback = metadata.get("bias", DEFAULT_METADATA["bias"])
     if fallback == "Official" or fallback not in ALLOWED_BIASES:
         fallback = DEFAULT_METADATA["bias"]
+    provenance = "official-source-provenance" if is_official_source(link, metadata) else "source-prior-guard"
     return fallback, (
-        "source-prior-guard: non-official media/source kept at "
-        f"source prior={fallback}; suppressed Official from {alignment_basis[:220]}"
+        f"{provenance}: Official is not an alignment label; "
+        f"using source/article prior={fallback}; suppressed Official from {alignment_basis[:220]}"
     )
 
 
@@ -573,8 +572,8 @@ def judge_article_with_lm_studio(link: dict, metadata: dict) -> tuple[dict | Non
         "You are rating a single news article for Crossect. Return strict JSON only. Do not include reasoning. "
         "Judge the article's own framing, claims, evidence, sourcing, and tone; do not merely copy the source prior. "
         "Use the source prior lightly when article text is too thin. "
-        "Allowed bias values: Left, Lean Left, Center, Lean Right, Right, Unknown/Mixed, Official, Company. "
-        "Use Official only when the source/outlet/domain itself is government, court, regulator, police, parliament, ministry or an official dispatch; never use Official for normal journalism merely quoting officials or mentioning government/court/police. "
+        "Allowed bias values: Left, Lean Left, Center, Lean Right, Right, Unknown/Mixed, Company. "
+        "Do not use Official as a bias value: official communications must be rated for political framing or source prior, while official provenance may be noted in alignmentBasis or reliabilityBasis. "
         "Allowed confidence values: high, medium, low. "
         "alignmentBasis and reliabilityBasis must each be one short sentence."
     )
@@ -636,6 +635,8 @@ def enrich_link_metadata(link: dict, use_local_lm: bool = False) -> dict:
         enriched["outlet"] = metadata.get("outlet") or DEFAULT_METADATA["outlet"]
 
     source_bias = metadata.get("bias", DEFAULT_METADATA["bias"])
+    if source_bias not in ALLOWED_BIASES:
+        source_bias = DEFAULT_METADATA["bias"]
     source_reliability = str(metadata.get("confidence") or DEFAULT_METADATA["confidence"]).lower()
     if source_reliability not in ALLOWED_CONFIDENCES:
         source_reliability = DEFAULT_METADATA["confidence"]
@@ -744,8 +745,8 @@ def judge_digest_links_with_lm_studio(digest: dict) -> tuple[dict[int, dict], st
         "You rate individual news article links for Crossect. Return strict JSON only. "
         "Judge each article's own framing, language, claims, evidence, sourcing and tone. "
         "Do not simply copy the source prior. Use source prior only when text is thin. "
-        "Allowed bias values: Left, Lean Left, Center, Lean Right, Right, Unknown/Mixed, Official, Company. "
-        "Use Official only when the source/outlet/domain itself is government, court, regulator, police, parliament, ministry or an official dispatch; never use Official for normal journalism merely quoting officials or mentioning government/court/police. "
+        "Allowed bias values: Left, Lean Left, Center, Lean Right, Right, Unknown/Mixed, Company. "
+        "Do not use Official as a bias value: official communications must be rated for political framing or source prior, while official provenance may be noted in alignmentBasis or reliabilityBasis. "
         "Use Company only for company/product/earnings/startup items. "
         "Allowed confidence values: high, medium, low. "
         "Return JSON object {\"ratings\":[...]} with one item per input article: index, bias, confidence, alignmentBasis, reliabilityBasis. "

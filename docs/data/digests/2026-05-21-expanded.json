@@ -34,14 +34,14 @@
             },
             {
               "outlet": "The Guardian",
-              "headline": "Trump’s shifting remarks on Taiwan are perfect for China to exploit",
+              "headline": "Trump\u2019s shifting remarks on Taiwan are perfect for China to exploit",
               "excerpt": "The Guardian focuses on how Beijing can use mixed White House messaging to pressure Taiwan politically and psychologically.",
               "url": "https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis",
               "bias": "Lean Left",
               "confidence": "high",
               "quality": "International newspaper analysis",
               "imageUrl": "https://i.guim.co.uk/img/media/ae774700c4fa9de0d4e52cd846d8da726ed23ccd/283_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfffd0bed05d8aeab64e0193bd95f152",
-              "imageAlt": "Trump’s shifting remarks on Taiwan are perfect for China to exploit"
+              "imageAlt": "Trump\u2019s shifting remarks on Taiwan are perfect for China to exploit"
             }
           ],
           "imageUrl": "https://dims.apnews.com/dims4/default/8ee202c/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F80%2F70%2Ff01801b76330e5b77af3df954286%2F905c6faee975451188c32b19a98567ae",
@@ -219,11 +219,18 @@
               "headline": "Secretary General highlights how Allies are stepping up ahead of Foreign Ministers meeting in Sweden",
               "excerpt": "The NATO statement lays out the official alliance line on burden-sharing, spending and preparations for the next ministerial meeting.",
               "url": "https://www.nato.int/en/news-and-events/articles/news/2026/05/20/secretary-general-highlights-how-allies-are-stepping-up-ahead-of-foreign-ministers-meeting-in-sweden",
-              "bias": "Official",
-              "confidence": "high",
+              "bias": "Unknown/Mixed",
+              "confidence": "medium",
               "quality": "Alliance primary source",
               "imageUrl": "https://s7g10.scene7.com/is/image/ncia/32-flags-monument-2",
-              "imageAlt": "Secretary General highlights how Allies are stepping up ahead of Foreign Ministers meeting in Sweden"
+              "imageAlt": "Secretary General highlights how Allies are stepping up ahead of Foreign Ministers meeting in Sweden",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Unknown/Mixed",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://dims.apnews.com/dims4/default/6c7a80b/2147483647/strip/true/crop/1925x1283+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2Fef%2F7b9f3171b3e34f78e6b5c361ab71%2F9794522ec6f84646aa564cf33857d348",
@@ -291,22 +298,36 @@
               "headline": "FAA Releases Bold, New Air Traffic Controller Hiring Plan",
               "excerpt": "The FAA's own hiring plan sets out the agency's new controller targets and the argument for a broader workforce reset.",
               "url": "https://www.faa.gov/newsroom/faa-releases-bold-new-air-traffic-controller-hiring-plan",
-              "bias": "Official",
-              "confidence": "high",
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
               "quality": "Government primary source",
               "imageUrl": "https://www.faa.gov/themes/custom/dot_cms/images/seal_dot.png",
-              "imageAlt": "FAA Releases Bold, New Air Traffic Controller Hiring Plan"
+              "imageAlt": "FAA Releases Bold, New Air Traffic Controller Hiring Plan",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
               "outlet": "Federal Aviation Administration",
               "headline": "New FAA Program Moves to Strengthen Controller Pipeline, Standardize Training",
               "excerpt": "This companion FAA release explains the training pipeline changes meant to support the staffing push over the next few years.",
               "url": "https://www.faa.gov/newsroom/new-faa-program-moves-strengthen-controller-pipeline-standardize-training",
-              "bias": "Official",
-              "confidence": "high",
+              "bias": "Unknown/Mixed",
+              "confidence": "low",
               "quality": "Government primary source",
               "imageUrl": "https://www.faa.gov/themes/custom/dot_cms/images/seal_dot.png",
-              "imageAlt": "New FAA Program Moves to Strengthen Controller Pipeline, Standardize Training"
+              "imageAlt": "New FAA Program Moves to Strengthen Controller Pipeline, Standardize Training",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://www.faa.gov/themes/custom/dot_cms/images/seal_dot.png",
@@ -337,7 +358,7 @@
             },
             {
               "outlet": "ASML",
-              "headline": "ASML reports €8.8 billion total net sales and €2.8 billion net income in Q1 2026",
+              "headline": "ASML reports \u20ac8.8 billion total net sales and \u20ac2.8 billion net income in Q1 2026",
               "excerpt": "ASML's latest official results provide the company-side demand and backlog context behind today's warning on constrained supply.",
               "url": "https://ourbrand.asml.com/asset/6ec62875-6d6a-4ec5-a4d7-43f59ce8e5c5/ASML-Press-Release-Financial-Results-Q1-2026.pdf",
               "bias": "Company",
@@ -392,7 +413,7 @@
           "links": [
             {
               "outlet": "Investing.com / Reuters",
-              "headline": "SpaceX’s upgraded Starship V3 ready for debut launch ahead of IPO",
+              "headline": "SpaceX\u2019s upgraded Starship V3 ready for debut launch ahead of IPO",
               "excerpt": "Reuters frames the launch as a technology and capital-markets test rolled into one.",
               "url": "https://m.investing.com/news/stock-market-news/spacexs-upgraded-starship-v3-ready-for-debut-launch-ahead-of-ipo-4697882?ampMode=1",
               "bias": "Center",
@@ -473,9 +494,16 @@
               "headline": "Weekly fuel price monitoring report - 8 May 2026",
               "excerpt": "The ACCC's monitoring report provides the regulator-side context for how fragile domestic fuel conditions had already become.",
               "url": "https://www.accc.gov.au/system/files/weekly-fuel-price-monitoring-report-8-may-2026.pdf",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Regulator primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "medium",
+              "quality": "Regulator primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://images.rigzone.com/images/news/articles/China-Agrees-to-Supply-Australia-Over-600000-Barrels-of-Jet-Fuel-183720-1200x628.png",
@@ -499,12 +527,19 @@
             },
             {
               "outlet": "NSW Parliament",
-              "headline": "Budget Estimates 2025-26 – Additional hearing questions for Hon Prue Car MP",
+              "headline": "Budget Estimates 2025-26 \u2013 Additional hearing questions for Hon Prue Car MP",
               "excerpt": "These parliamentary materials provide official regulator and enforcement context for the policy pressures behind today's inquiry report.",
               "url": "https://www.parliament.nsw.gov.au/lcdocs/other/23381/ASQs%20-%20Hon%20Prue%20Car%20MP%20-%20Received%207%20April%202026.pdf",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Parliamentary primary source"
+              "bias": "Unknown/Mixed",
+              "confidence": "medium",
+              "quality": "Parliamentary primary source",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ed0595a96391aec5899ee64379ba381d?impolicy=wcms_watermark_news&cropH=585&cropW=1041&xPos=0&yPos=162&width=862&height=485&imformat=generic",
@@ -531,9 +566,16 @@
               "headline": "NSW Reconstruction Authority annual report 2024-25",
               "excerpt": "The authority's own reporting gives the program metrics and implementation frame against which the auditor's criticism lands.",
               "url": "https://www.nsw.gov.au/sites/default/files/2026-01/nsw-reconstruction-authority-annual-report-2024-25.pdf",
-              "bias": "Official",
-              "confidence": "high",
-              "quality": "Government program report"
+              "bias": "Unknown/Mixed",
+              "confidence": "medium",
+              "quality": "Government program report",
+              "sourceBias": "Unknown/Mixed",
+              "sourceReliability": "low",
+              "alignment": "Unknown/Mixed",
+              "alignmentBasis": "official-source-provenance: source/outlet/domain is official; alignment uses source/article prior=Unknown/Mixed",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/178b84a4dc668d42ffe0ae77d91a5e5b?impolicy=wcms_watermark_news&cropH=482&cropW=856&xPos=1&yPos=0&width=862&height=485&imformat=generic",
