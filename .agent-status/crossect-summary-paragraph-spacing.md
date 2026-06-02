@@ -2,7 +2,7 @@
 
 - Owner: Dazza
 - Objective: Fix Crossect dashboard rendering so story summaries preserve paragraph breaks/blank lines from JSON.
-- Status: in progress; local fix implemented and verified, pending staged commit/push/live verification.
+- Status: completed; local fix verified, pushed to `main`, and GitHub Pages verified live.
 - Files inspected:
   - `docs/data/digests/today-expanded.json`
   - `docs/app.js`
@@ -18,13 +18,26 @@
   - `node --check docs/app.js`
   - Python selector/cache-buster/textContent verification
   - `git diff -- docs/styles.css docs/index.html docs/app.js`
-- Errors: none so far.
+  - `git status --short && git branch --show-current && git remote -v`
+  - `git add docs/styles.css docs/index.html .agent-status/crossect-summary-paragraph-spacing.md && git status --short && git diff --cached -- docs/styles.css docs/index.html .agent-status/crossect-summary-paragraph-spacing.md`
+  - `git commit -m "Preserve summary paragraph breaks" && git push origin main`
+  - Initial live verification command using shell variables piped into Python snippets (failed after reporting `LIVE_VERIFY_OK attempt=1` because here-doc Python did not receive the piped content; stderr: `IndexError: list index out of range`).
+  - Retried live verification safely with downloaded temp files; succeeded.
+- Errors:
+  - First live verification script failed due command construction, not site failure: Python here-doc consumed stdin instead of the `printf` data, producing `IndexError: list index out of range` after `LIVE_VERIFY_OK attempt=1`.
 - Findings:
-  - Data is not the problem: `docs/data/digests/today-expanded.json` contains summaries with `\n\n` paragraph breaks, e.g. World / Geopolitics / “US Defense Department bars journalists from its press office”.
+  - Data is not the problem: local and live `docs/data/digests/today-expanded.json` contain summaries with `\n\n` paragraph breaks, e.g. World / Geopolitics / “US Defense Department bars journalists from its press office”.
   - Renderer already assigns summaries via `textContent`, so XSS-safe text insertion is preserved.
   - Rendered summary classes are `.standfirst` for hero and `.dek` for story cards.
-- Fixes attempted:
+- Fixes applied:
   - Added `white-space: pre-line;` to `.standfirst` and `.dek` so newline paragraph breaks render visibly while keeping safe `textContent` rendering.
   - Updated CSS cache buster in `docs/index.html` to `styles.css?v=20260602-paragraphs`.
-- Blocker: none currently.
-- Next action: stage only intended files, commit/push, then fetch GitHub Pages HTML and CSS to confirm live cache buster and paragraph CSS.
+- Verification:
+  - `node --check docs/app.js` passed with no output.
+  - Local Python verification passed: `.standfirst` and `.dek` contain `white-space: pre-line`, `docs/app.js` uses `summary.textContent` for both summary render sites, and `docs/index.html` references the new CSS cache buster.
+  - Live GitHub Pages fetch succeeded for `https://jeffreymead1977-ship-it.github.io/Crossect-/docs/index.html` and `https://jeffreymead1977-ship-it.github.io/Crossect-/docs/styles.css?v=20260602-paragraphs`.
+  - Live HTML contains `<link rel="stylesheet" href="styles.css?v=20260602-paragraphs">` and `<script src="app.js?v=20260602-indicators"></script>`.
+  - Live CSS contains `white-space: pre-line;` in both `.standfirst` and `.dek` blocks.
+  - Live data contains at least one summary with `\n\n` paragraph breaks.
+- Blocker: none.
+- Next action: none.
