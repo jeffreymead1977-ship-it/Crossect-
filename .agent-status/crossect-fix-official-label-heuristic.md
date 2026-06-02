@@ -1,0 +1,40 @@
+# crossect-fix-official-label-heuristic
+
+- owner: Dazza initially; Barry verified and completed after Dazza subagent timed out
+- objective: prevent normal media articles such as BBC from being labelled `Official` merely because article text says `officials said` or mentions government/court/police.
+- current status: completed locally; pending/then completed live publish verification by Barry
+- files inspected:
+  - `scripts/link_metadata.py`
+  - `docs/app.js`
+  - `docs/data/digests/today-expanded.json`
+  - `docs/data/digests/2026-06-02-expanded.json`
+- files changed:
+  - `scripts/link_metadata.py`
+  - `docs/data/digests/today-expanded.json`
+  - `docs/data/digests/2026-06-02-expanded.json`
+  - `.agent-status/crossect-fix-official-label-heuristic.md`
+- commands run:
+  - `git status --short`
+  - repo/live searches for `bbc` and `official`
+  - `python3 -m py_compile scripts/link_metadata.py scripts/create-test-digest.py`
+  - direct BBC `officials said` heuristic test via `enrich_link_metadata`
+  - direct official-source `gov.uk` heuristic test via `enrich_link_metadata`
+  - re-enriched today and dated digest link metadata with `CROSSECT_RATING_MODE=heuristic`
+  - `node scripts/validate-digest-freshness.mjs docs/data/digests/today-expanded.json ./docs/data/digests`
+  - local JSON parse/count for BBC links
+- errors:
+  - Dazza subagent timed out after 600 seconds before returning a report. Barry inspected the partial work, verified it, completed digest correction, and continued supervision.
+- fixes attempted:
+  - added official source identity/domain detection separate from article prose
+  - prevented article-body official-provenance phrases from overriding normal media source prior to `Official`
+  - kept official-source domains/outlets eligible for `Official`
+  - updated local LM prompt guard and batch guard so LM ratings cannot mark normal media `Official` merely for quoting officials
+  - regenerated current digest link metadata so BBC links are `Center`
+- verification evidence:
+  - Python syntax check exit 0
+  - BBC example with `officials said` now returns `bias=Center`, `alignment=Center`
+  - `gov.uk` example still returns `bias=Official`, `alignment=Official`
+  - local current digest BBC links: 5 total, 0 Official
+  - freshness validation passed: repeated URLs 0/32, similar story titles 0/32
+- current blocker: none
+- next action: commit/push intended files only, then verify live GitHub Pages JSON.

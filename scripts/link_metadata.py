@@ -79,6 +79,24 @@ RELIABILITY_CUES = {
     ],
 }
 
+OFFICIAL_SOURCE_NAME_CUES = [
+    r"\b(?:department|ministry|office|bureau|agency)\s+of\b",
+    r"\b(?:government|parliament|senate|congress|court|supreme court|police|regulator|commission)\b",
+    r"\b(?:white house|downing street|palace|official gazette)\b",
+]
+
+OFFICIAL_SOURCE_DOMAINS = {
+    "gov.uk",
+    "gov.au",
+    "govt.nz",
+    "gc.ca",
+    "europa.eu",
+    "un.org",
+    "who.int",
+    "worldbank.org",
+    "imf.org",
+}
+
 CONFIDENCE_SCORE = {"low": 0, "medium": 1, "high": 2}
 SCORE_CONFIDENCE = {0: "low", 1: "medium", 2: "high"}
 
@@ -254,6 +272,44 @@ def article_text(link: dict) -> str:
     ).strip()
 
 
+def source_identity_text(link: dict, metadata: dict) -> str:
+    """Return source identity fields only, excluding article prose."""
+    return " ".join(
+        str(value or "")
+        for value in (
+            link.get("source"),
+            link.get("outlet"),
+            metadata.get("outlet"),
+            source_key(link.get("url")),
+        )
+    ).strip()
+
+
+def is_official_source(link: dict, metadata: dict) -> bool:
+    """True only when the source/outlet/domain itself is official.
+
+    Article body phrases such as "officials said", "government", "court" or
+    "police said" are common in normal journalism and must not turn media
+    outlets (BBC, ABC, Guardian, Reuters-like sources, etc.) into Official.
+    """
+    if metadata.get("bias") == "Official":
+        return True
+
+    hosts = [source_key(link.get("url")), source_key(link.get("source")), source_key(link.get("outlet"))]
+    for host in hosts:
+        if not host or " " in host:
+            continue
+        if host == "gov" or host.endswith(".gov") or ".gov." in host:
+            return True
+        if any(host == domain or host.endswith(f".{domain}") for domain in OFFICIAL_SOURCE_DOMAINS):
+            return True
+        if re.search(r"(^|\.)(?:parliament|senate|congress|court|police|regulator)\.", host):
+            return True
+
+    identity = source_identity_text(link, metadata)
+    return any(re.search(pattern, identity, flags=re.IGNORECASE) for pattern in OFFICIAL_SOURCE_NAME_CUES)
+
+
 def matching_cues(text: str, patterns: list[str]) -> list[str]:
     matches = []
     for pattern in patterns:
@@ -264,10 +320,11 @@ def matching_cues(text: str, patterns: list[str]) -> list[str]:
 
 
 def judge_article_alignment(link: dict, metadata: dict) -> tuple[str, str]:
-    """Judge alignment from article text first; source metadata is fallback only."""
+    """Judge alignment from article text with source metadata as a safe prior."""
     text = article_text(link)
     scores: dict[str, int] = {}
     evidence: dict[str, list[str]] = {}
+    official_source = is_official_source(link, metadata)
 
     for label, patterns in ALIGNMENT_CUES.items():
         cues = matching_cues(text, patterns)
@@ -286,12 +343,29 @@ def judge_article_alignment(link: dict, metadata: dict) -> tuple[str, str]:
         winner = "Left" if left_score > right_score else "Right"
         return winner, f"article-text: {winner} cue(s): {', '.join(evidence[winner])}"
 
-    for provenance in ("Official", "Company"):
-        if scores.get(provenance):
-            return provenance, f"article-text: {provenance.lower()} provenance cue(s): {', '.join(evidence[provenance])}"
+    if official_source:
+        if scores.get("Official"):
+            return "Official", f"official-source: source identity plus provenance cue(s): {', '.join(evidence['Official'])}"
+        return "Official", "official-source: source/outlet/domain is official"
+
+    if scores.get("Company"):
+        return "Company", f"article-text: company provenance cue(s): {', '.join(evidence['Company'])}"
 
     fallback = metadata.get("bias", DEFAULT_METADATA["bias"])
     return fallback, f"source-default-fallback: no article alignment cues; source prior={fallback}"
+
+
+def guard_official_alignment_for_media_source(link: dict, metadata: dict, alignment: str, alignment_basis: str) -> tuple[str, str]:
+    """Prevent ordinary media articles quoting officials from being labelled Official."""
+    if alignment != "Official" or is_official_source(link, metadata):
+        return alignment, alignment_basis
+    fallback = metadata.get("bias", DEFAULT_METADATA["bias"])
+    if fallback == "Official" or fallback not in ALLOWED_BIASES:
+        fallback = DEFAULT_METADATA["bias"]
+    return fallback, (
+        "source-prior-guard: non-official media/source kept at "
+        f"source prior={fallback}; suppressed Official from {alignment_basis[:220]}"
+    )
 
 
 def judge_article_reliability(link: dict, metadata: dict) -> tuple[str, str]:
@@ -500,6 +574,7 @@ def judge_article_with_lm_studio(link: dict, metadata: dict) -> tuple[dict | Non
         "Judge the article's own framing, claims, evidence, sourcing, and tone; do not merely copy the source prior. "
         "Use the source prior lightly when article text is too thin. "
         "Allowed bias values: Left, Lean Left, Center, Lean Right, Right, Unknown/Mixed, Official, Company. "
+        "Use Official only when the source/outlet/domain itself is government, court, regulator, police, parliament, ministry or an official dispatch; never use Official for normal journalism merely quoting officials or mentioning government/court/police. "
         "Allowed confidence values: high, medium, low. "
         "alignmentBasis and reliabilityBasis must each be one short sentence."
     )
@@ -591,10 +666,12 @@ def enrich_link_metadata(link: dict, use_local_lm: bool = False) -> dict:
             confidence = llm_judgement["confidence"]
             alignment_basis = "lm-studio: " + llm_judgement["alignmentBasis"]
             reliability_basis = "lm-studio: " + llm_judgement["reliabilityBasis"]
+            alignment, alignment_basis = guard_official_alignment_for_media_source(enriched, metadata, alignment, alignment_basis)
             rating_method = "lm-studio-local-article-json-v1"
         else:
             alignment, alignment_basis = judge_article_alignment(enriched, metadata)
             confidence, reliability_basis = judge_article_reliability(enriched, metadata)
+            alignment, alignment_basis = guard_official_alignment_for_media_source(enriched, metadata, alignment, alignment_basis)
             if rating_error:
                 rating_method = "deterministic-local-article-heuristic-v2-fallback"
                 alignment_basis = f"{alignment_basis}; fallbackReason={rating_error[:240]}"
@@ -668,7 +745,8 @@ def judge_digest_links_with_lm_studio(digest: dict) -> tuple[dict[int, dict], st
         "Judge each article's own framing, language, claims, evidence, sourcing and tone. "
         "Do not simply copy the source prior. Use source prior only when text is thin. "
         "Allowed bias values: Left, Lean Left, Center, Lean Right, Right, Unknown/Mixed, Official, Company. "
-        "Use Official only for government/court/regulator/official-source dispatches; use Company only for company/product/earnings/startup items. "
+        "Use Official only when the source/outlet/domain itself is government, court, regulator, police, parliament, ministry or an official dispatch; never use Official for normal journalism merely quoting officials or mentioning government/court/police. "
+        "Use Company only for company/product/earnings/startup items. "
         "Allowed confidence values: high, medium, low. "
         "Return JSON object {\"ratings\":[...]} with one item per input article: index, bias, confidence, alignmentBasis, reliabilityBasis. "
         "alignmentBasis and reliabilityBasis must be short human-readable per-article explanations."
@@ -747,11 +825,18 @@ def enrich_digest_link_metadata(digest: dict) -> dict:
         judgement = ratings_by_index.get(idx)
         if not judgement:
             continue
-        link["bias"] = judgement["bias"]
-        link["alignment"] = judgement["bias"]
+        metadata = metadata_for_link(link)
+        alignment, alignment_basis = guard_official_alignment_for_media_source(
+            link,
+            metadata,
+            judgement["bias"],
+            "lm-studio-batch: " + judgement["alignmentBasis"],
+        )
+        link["bias"] = alignment
+        link["alignment"] = alignment
         link["confidence"] = judgement["confidence"]
         link["reliability"] = judgement["confidence"]
-        link["alignmentBasis"] = "lm-studio-batch: " + judgement["alignmentBasis"]
+        link["alignmentBasis"] = alignment_basis
         link["reliabilityBasis"] = "lm-studio-batch: " + judgement["reliabilityBasis"]
         link["ratingMethod"] = "lm-studio-local-digest-batch-json-v1"
     return digest
