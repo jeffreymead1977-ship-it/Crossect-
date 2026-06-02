@@ -1,0 +1,43 @@
+# Crossect live richer summary test
+
+- task status: in progress — local Qwen digest generated and validated; preparing explicit publish commit/push.
+- chosen worker: Dazza
+- files inspected:
+  - `docs/data/digests/today-expanded.json`
+  - `scripts/link_metadata.py`
+  - `scripts/create-test-digest.py`
+  - `scripts/publish-digest.sh`
+  - `docs/data/digests/index.json`
+- files changed intentionally:
+  - `scripts/link_metadata.py` (pre-existing richer mini-story implementation changes)
+  - `docs/data/digests/today-expanded.json` (generated digest)
+  - `docs/data/digests/2026-06-02-expanded.json` (generated digest copy/enriched)
+  - `docs/data/digests/index.json` (generatedAt metadata update)
+  - `.agent-status/crossect-live-richer-summary-test.md`
+- commands run:
+  - `pwd && git status --short && TZ=Australia/Perth date`
+  - inspected pre-generation summary method counts for `today-expanded.json`
+  - searched config for `qwen3.6-35b-a3b-mtp` and LM Studio env handling
+  - `curl -sS --max-time 5 http://localhost:1234/v1/models`
+  - `python3 -m py_compile scripts/link_metadata.py scripts/create-test-digest.py`
+  - `CROSSECT_SUMMARY_MODE=local CROSSECT_RATING_MODE=heuristic CROSSECT_LM_STUDIO_MODEL=qwen3.6-35b-a3b-mtp CROSSECT_LM_STUDIO_SUMMARY_MODEL=qwen3.6-35b-a3b-mtp CROSSECT_LM_STUDIO_SUMMARY_BATCH_SIZE=1 python3 scripts/create-test-digest.py`
+  - inspected generated summary method counts and 3 sample summaries
+  - `node scripts/validate-digest-freshness.mjs docs/data/digests/today-expanded.json ./docs/data/digests`
+  - copied `today-expanded.json` to `2026-06-02-expanded.json`
+  - `node ./scripts/enrich-digest-images.mjs docs/data/digests/2026-06-02-expanded.json`
+  - copied enriched dated digest back to `today-expanded.json`
+  - rebuilt `docs/data/digests/index.json` metadata
+- key outputs:
+  - pre-generation method counts: `{'rss-feed-fallback-v1': 32}`
+  - LM Studio `/v1/models` included `qwen3.6-35b-a3b-mtp`
+  - generation loaded 332 feed items and created 32 stories across 4 sections
+  - post-generation method counts: `{'lm-studio-local-multi-source-mini-story-v1': 32}`
+  - freshness validation: repeated URLs `0/32`, similar story titles `0/32`, Australia stories `4/32`, largest journalism source family `Al Jazeera 4/15 (27%)`
+  - image enrichment: `Enriched 28 links and 13 article images`; four Inquirer URLs returned `403 Forbidden`
+- errors:
+  - image enrichment could not fetch four `newsinfo.inquirer.net` URLs due to `403 Forbidden`; enrichment continued and the digest remains valid.
+- fixes attempted:
+  - Used local LM Studio Qwen model already available on port 1234.
+  - Used manual explicit digest/index steps instead of the publish script's broad `git add -- docs/data/digests`, so intended code/status files can be staged explicitly and unrelated dirty files remain untouched.
+- current blocker: none at this stage.
+- next recommended action: explicit-stage intended files, commit, push, then verify live GitHub Pages JSON URLs and parse method counts/sample summaries.

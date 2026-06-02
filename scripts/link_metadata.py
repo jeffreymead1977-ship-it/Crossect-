@@ -765,11 +765,102 @@ def iter_digest_stories(digest: dict):
                 yield section_index, story_index, story
 
 
+def normalize_story_summary_text(summary, limit: int = 1200) -> str:
+    """Normalize a story summary while preserving up to two prose paragraphs.
+
+    Crossect story summaries are displayed as digest prose, not lists. Keep
+    paragraph breaks from the local model when available, but collapse accidental
+    extra whitespace and reject obvious bullet/list formatting elsewhere.
+    """
+    text = str(summary or "").replace("\r\n", "\n").replace("\r", "\n").strip()
+    text = re.sub(r"<[^>]+>", " ", text)
+    if not text:
+        return ""
+    paragraphs = []
+    for part in re.split(r"\n\s*\n+", text):
+        cleaned = re.sub(r"[ \t]+", " ", part).strip()
+        cleaned = re.sub(r"\n+", " ", cleaned).strip()
+        if cleaned:
+            paragraphs.append(cleaned)
+        if len(paragraphs) == 2:
+            break
+    if not paragraphs:
+        paragraphs = [re.sub(r"\s+", " ", text).strip()]
+    normalized = "\n\n".join(paragraphs)
+    return normalized[:limit].rstrip()
+
+
 def validate_lm_summary(parsed: dict) -> str:
-    summary = str(parsed.get("summary") or "").strip()
+    summary = normalize_story_summary_text(parsed.get("summary"), limit=1200)
     if not summary:
         raise ValueError("missing summary")
-    return re.sub(r"\s+", " ", summary)[:500]
+    if re.search(r"(^|\n)\s*(?:[-*•]|\d+[.)])\s+", summary):
+        raise ValueError("summary looked like a bullet/list")
+    return summary
+
+
+def fallback_story_summary(story: dict) -> str:
+    """Build a deterministic mini-story from locally available metadata.
+
+    This is deliberately extractive/synthetic from title, RSS summary and link
+    excerpts only. It does not add facts beyond the feed/digest metadata.
+    """
+    title = normalize_story_summary_text(story.get("title"), limit=220).strip()
+    original = normalize_story_summary_text(story.get("summary"), limit=700).strip()
+    links = [link for link in story.get("links", []) if isinstance(link, dict)]
+
+    snippets: list[str] = []
+    seen = set()
+
+    def sentence(text: str) -> str:
+        cleaned = normalize_story_summary_text(text, limit=700).strip()
+        if cleaned and cleaned[-1] not in ".!?":
+            cleaned += "."
+        return cleaned
+
+    def remember(text: str) -> bool:
+        cleaned = sentence(text)
+        if not cleaned:
+            return False
+        key = cleaned.lower()
+        if key == title.lower() or key in seen:
+            return False
+        if any(key in existing.lower() or existing.lower() in key for existing in snippets):
+            return False
+        snippets.append(cleaned)
+        seen.add(key)
+        return True
+
+    for value in [original]:
+        remember(value)
+    for link in links[:4]:
+        outlet = str(link.get("outlet") or link.get("source") or "").strip()
+        headline = normalize_story_summary_text(link.get("headline") or link.get("title"), limit=220).strip()
+        excerpt = normalize_story_summary_text(
+            link.get("excerpt") or link.get("summary") or link.get("description"),
+            limit=500,
+        ).strip()
+        if headline and headline.lower() != title.lower():
+            text = f"{outlet}: {headline}" if outlet else headline
+            remember(text)
+        if excerpt:
+            text = f"{outlet} reports that {excerpt[0].lower() + excerpt[1:]}" if outlet and excerpt[:1].isupper() else (f"{outlet} reports that {excerpt}" if outlet else excerpt)
+            remember(text)
+
+    if snippets:
+        summary = snippets[0]
+        for addition in snippets[1:3]:
+            if len(summary) >= 650:
+                break
+            if addition and addition not in summary:
+                summary = f"{summary} {addition}"
+    else:
+        summary = title
+
+    summary = normalize_story_summary_text(summary, limit=900)
+    if title and summary and not summary.lower().startswith(title.lower()):
+        summary = f"{title}. {summary}"
+    return normalize_story_summary_text(summary, limit=900) or title
 
 
 def extract_qwen_reasoning_summaries_batch(reasoning: str, articles: list[dict]) -> dict[int, str] | None:
@@ -812,8 +903,8 @@ def extract_qwen_reasoning_summaries_batch(reasoning: str, articles: list[dict])
             candidate = re.sub(r"\s+", " ", match.group(1)).strip(" -*`\"'")
             # Clean up check constraints notes
             candidate = re.sub(r"\s*\*?\s*Check constraints.*$", "", candidate, flags=re.IGNORECASE).strip()
-            if 40 <= len(candidate) <= 500 and candidate.endswith((".", "!", "?")):
-                results[idx] = candidate[:500]
+            if 40 <= len(candidate) <= 1200 and candidate.endswith((".", "!", "?")):
+                results[idx] = normalize_story_summary_text(candidate, limit=1200)
                 break
 
     # Strategy 2: If strategy 1 found nothing, try to find any numbered draft sentences
@@ -828,8 +919,8 @@ def extract_qwen_reasoning_summaries_batch(reasoning: str, articles: list[dict])
             if not match:
                 continue
             candidate = re.sub(r"\s+", " ", match.group(1)).strip()
-            if 40 <= len(candidate) <= 500 and candidate.endswith("."):
-                results[idx] = candidate[:500]
+            if 40 <= len(candidate) <= 1200 and candidate.endswith("."):
+                results[idx] = normalize_story_summary_text(candidate, limit=1200)
 
     return results if results else None
 
@@ -853,8 +944,8 @@ def extract_qwen_reasoning_summary(reasoning: str) -> str | None:
             continue
         candidate = re.sub(r"\s+", " ", match.group(1)).strip(" -*`\"'")
         candidate = re.sub(r"\s*\*\s*Check constraints.*$", "", candidate, flags=re.IGNORECASE).strip()
-        if 40 <= len(candidate) <= 500 and candidate.endswith((".", "!", "?")):
-            return candidate[:500]
+        if 40 <= len(candidate) <= 1200 and candidate.endswith((".", "!", "?")):
+            return normalize_story_summary_text(candidate, limit=1200)
     return None
 
 
@@ -862,7 +953,8 @@ def summarize_story_batch_with_lm_studio(articles: list[dict]) -> tuple[dict[int
     """Call local LM Studio for one chunk of story summaries.
 
     Article indexes are digest-global, so callers can merge successful chunks and
-    fall back only failed/missing indexes.
+    fall back only failed/missing indexes. Each article entry may represent a
+    grouped story with multiple locally available source materials.
     """
     base_url, model, _timeout = lm_studio_summary_config()
     timeout = max(
@@ -874,16 +966,20 @@ def summarize_story_batch_with_lm_studio(articles: list[dict]) -> tuple[dict[int
         return {}, None, None
 
     system_prompt = (
-        "You write concise news story summaries for Crossect. Return strict JSON only. "
-        "Do not include prose outside JSON, comments, or reasoning. "
-        "Use only the supplied title, RSS summary, source and URL. Do not invent facts. "
+        "You write neutral Crossect digest mini-stories from source metadata. Return strict JSON only. "
+        "Do not include prose outside JSON, comments, bullets, markdown, or reasoning. "
+        "Use only the supplied title, RSS summary, source metadata, headlines, excerpts and URLs; do not invent facts. "
+        "Synthesize across multiple source materials when present instead of copying one RSS blurb. "
+        "Prefer two concise paragraphs in the summary field; use one substantial paragraph if source material is thin. "
+        "Mention disagreement or framing differences only when they are explicit in the supplied material. "
+        "Keep tone factual, neutral, digest-style and readable. "
         "Return JSON object {\"summaries\":[...]} with one item per input article: index, summary. "
-        "Each summary must be one neutral sentence, 18-35 words, and non-empty."
+        "Each summary must be prose only, no bullet lists, around 80-180 words unless the supplied material is too thin."
     )
     user_prompt = (
         "<think>\n\n</think>\n"
         "Return the JSON in assistant content. Do not put the answer only in reasoning_content. "
-        "Summarize these articles as strict JSON only:\n"
+        "Summarize these grouped stories as strict JSON only. Each summary should read like a 1-2 paragraph mini-story, not a headline blurb:\n"
         + json.dumps({"articles": articles}, ensure_ascii=False)
     )
     payload = {
@@ -893,7 +989,7 @@ def summarize_story_batch_with_lm_studio(articles: list[dict]) -> tuple[dict[int
             {"role": "user", "content": user_prompt},
         ],
         "temperature": 0,
-        "max_tokens": max(180, min(1200, 120 * len(articles) + 120)),
+        "max_tokens": max(420, min(2800, 420 * len(articles) + 180)),
         "stream": False,
         "chat_template_kwargs": {"enable_thinking": False},
         "response_format": {
@@ -996,17 +1092,30 @@ def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str
 
     Returns (summaries_by_index, fallback_reasons_by_index, raw_content). Unlike
     the previous whole-digest request, failures are isolated to the affected
-    chunk so successful Gemma batches still become local AI summaries.
+    chunk so successful local Qwen batches still become local AI summaries.
     """
     articles = []
-    for idx, (_section_index, _story_index, story) in enumerate(iter_digest_stories(digest)):
-        first_link = next((link for link in story.get("links", []) if isinstance(link, dict)), {})
+    for idx, (section_index, _story_index, story) in enumerate(iter_digest_stories(digest)):
+        links = [link for link in story.get("links", []) if isinstance(link, dict)]
+        first_link = links[0] if links else {}
+        source_materials = []
+        for link_index, link in enumerate(links[:6]):
+            source_materials.append({
+                "linkIndex": link_index,
+                "source": link.get("source") or link.get("outlet") or "",
+                "outlet": link.get("outlet") or "",
+                "headline": link.get("headline") or link.get("title") or "",
+                "excerpt": link.get("excerpt") or link.get("summary") or link.get("description") or "",
+                "url": link.get("url") or "",
+            })
         articles.append({
             "index": idx,
+            "section": digest.get("sections", [{}])[section_index].get("name", "") if section_index < len(digest.get("sections", [])) else "",
             "title": story.get("title") or first_link.get("headline") or "",
             "rssSummary": story.get("summary") or first_link.get("excerpt") or "",
             "source": first_link.get("source") or first_link.get("outlet") or "",
             "url": first_link.get("url") or "",
+            "sourceMaterials": source_materials,
         })
     if not articles:
         return {}, {}, None
@@ -1023,7 +1132,7 @@ def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str
         if raw and raw_content is None:
             raw_content = raw
         if error:
-            # LM Studio/Gemma can occasionally produce malformed outer response
+            # LM Studio/Qwen can occasionally produce malformed outer response
             # JSON for larger chunks. Split failed chunks and retry with the same
             # model before falling back, so a bad response does not poison the
             # rest of the digest.
@@ -1064,17 +1173,17 @@ def summarize_digest_stories_with_lm_studio(digest: dict) -> tuple[dict[int, str
 def enrich_digest_story_summaries(digest: dict) -> dict:
     """Write story summaries via one local LM Studio batch call when enabled.
 
-    Existing RSS/feed summaries remain the fallback on timeout, error, invalid JSON,
-    or missing per-story model output. Summary provenance is always marked.
+    A deterministic multi-source metadata summary remains the fallback on timeout,
+    error, invalid JSON, or missing per-story model output. Summary provenance is
+    always marked.
     """
     stories = list(iter_digest_stories(digest))
     if not stories:
         return digest
 
     for _section_index, _story_index, story in stories:
-        if not str(story.get("summary") or "").strip():
-            story["summary"] = str(story.get("title") or "").strip()
-        story["summaryMethod"] = "rss-feed-fallback-v1"
+        story["summary"] = fallback_story_summary(story)
+        story["summaryMethod"] = "deterministic-multi-source-mini-story-fallback-v1"
 
     mode = local_summary_mode()
     if mode != "local":
@@ -1088,7 +1197,7 @@ def enrich_digest_story_summaries(digest: dict) -> dict:
         summary = summaries_by_index.get(idx)
         if summary:
             story["summary"] = summary
-            story["summaryMethod"] = "lm-studio-local-digest-batch-json-v1"
+            story["summaryMethod"] = "lm-studio-local-multi-source-mini-story-v1"
             story.pop("summaryFallbackReason", None)
         else:
             story["summaryFallbackReason"] = fallback_reasons_by_index.get(idx, "lm-studio-summary-missing-index")
