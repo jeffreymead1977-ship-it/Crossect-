@@ -1,0 +1,30 @@
+# crossect-summary-paragraph-spacing
+
+- Owner: Dazza
+- Objective: Fix Crossect dashboard rendering so story summaries preserve paragraph breaks/blank lines from JSON.
+- Status: in progress; local fix implemented and verified, pending staged commit/push/live verification.
+- Files inspected:
+  - `docs/data/digests/today-expanded.json`
+  - `docs/app.js`
+  - `docs/styles.css`
+  - `docs/index.html`
+- Files changed:
+  - `docs/styles.css`
+  - `docs/index.html`
+  - `.agent-status/crossect-summary-paragraph-spacing.md`
+- Commands run:
+  - `pwd && git status --short`
+  - Python JSON check for first summary containing `\n\n`
+  - `node --check docs/app.js`
+  - Python selector/cache-buster/textContent verification
+  - `git diff -- docs/styles.css docs/index.html docs/app.js`
+- Errors: none so far.
+- Findings:
+  - Data is not the problem: `docs/data/digests/today-expanded.json` contains summaries with `\n\n` paragraph breaks, e.g. World / Geopolitics / “US Defense Department bars journalists from its press office”.
+  - Renderer already assigns summaries via `textContent`, so XSS-safe text insertion is preserved.
+  - Rendered summary classes are `.standfirst` for hero and `.dek` for story cards.
+- Fixes attempted:
+  - Added `white-space: pre-line;` to `.standfirst` and `.dek` so newline paragraph breaks render visibly while keeping safe `textContent` rendering.
+  - Updated CSS cache buster in `docs/index.html` to `styles.css?v=20260602-paragraphs`.
+- Blocker: none currently.
+- Next action: stage only intended files, commit/push, then fetch GitHub Pages HTML and CSS to confirm live cache buster and paragraph CSS.
