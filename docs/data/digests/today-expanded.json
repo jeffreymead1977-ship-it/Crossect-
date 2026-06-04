@@ -2,42 +2,42 @@
   "id": "2026-06-04-expanded",
   "date": "2026-06-04",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-04T04:35:52.622213",
+  "generatedAt": "2026-06-04T12:30:29.156916",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-04T04:35:52",
+  "updatedAt": "2026-06-04T12:30:29",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
-          "summary": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum. Ukrainian long-range drones struck an oil terminal in St.\n\nPetersburg and set it ablaze, President Volodymyr Zelenskyy said Wednesday, sending smoke billowing over the city where President Vladimir Putin was born as it hosts Russia's leading event for attracting foreign capital.\n\nAl Jazeera: What is the St Petersburg forum, Putin’s economic outreach to the world? Al Jazeera reports that a Ukrainian drone strike targeted energy facilities near St Petersburg hours before the forum began.",
+          "title": "One Killed, at Least 63 Injured by Iran Strike on Airport in Kuwait",
+          "summary": "One Killed, at Least 63 Injured by Iran Strike on Airport in Kuwait. Kuwaiti officials said on Wednesday that at least one person was killed and 63 injured by an Iranian missile and drone attack on the Kuwait International Airport.\n\nThe post One Killed, at Least 63 Injured by Iran Strike on Airport in Kuwait appeared first on Breitbart .\n\nAl Jazeera: Kuwait labels Iran attack ‘heinous aggression’. Al Jazeera reports that kuwait’s defence ministry has labelled an attack on the country’s international airport as ‘heinous Iranian aggression’.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
-              "excerpt": "A Ukrainian drone strike targeted energy facilities near St Petersburg hours before the forum began.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-16T144622Z_1224955203_RC2EK1ADAQU5_RTRMADP_3_RUSSIA-FORUM-PUTIN-1686930260.jpg?resize=1920%2C1440",
-              "imageAlt": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
+              "headline": "Kuwait labels Iran attack ‘heinous aggression’",
+              "excerpt": "Kuwait’s defence ministry has labelled an attack on the country’s international airport as ‘heinous Iranian aggression’.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780521303.jpg?resize=1620%2C1080&quality=80",
+              "imageAlt": "Kuwait labels Iran attack ‘heinous aggression’",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-              "excerpt": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada8/live/ac6c5b60-5f79-11f1-8b8c-6d33e1d5abb6.jpg",
-              "imageAlt": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+              "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+              "excerpt": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df3/live/72b3c3e0-5f42-11f1-89a3-d1f559421220.jpg",
+              "imageAlt": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -51,12 +51,78 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/jun/3/ukrainian-drones-strike-st-petersburg-oil-terminal-hosts-russian/",
+              "url": "https://www.breitbart.com/national-security/2026/06/03/one-killed-at-least-63-injured-by-iran-strike-on-airport-in-kuwait/",
+              "source": "Breitbart",
+              "headline": "One Killed, at Least 63 Injured by Iran Strike on Airport in Kuwait",
+              "excerpt": "Kuwaiti officials said on Wednesday that at least one person was killed and 63 injured by an Iranian missile and drone attack on the Kuwait International Airport. The post One Killed, at Least 63 Injured by Iran Strike on Airport in Kuwait appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/GettyImages2278541806-640x335.jpg",
+              "imageAlt": "One Killed, at Least 63 Injured by Iran Strike on Airport in Kuwait",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[0]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780521303.jpg?resize=1620%2C1080&quality=80",
+          "imageAlt": "Kuwait labels Iran attack ‘heinous aggression’",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "US House passes Iran war powers resolution in rare pushback against Trump",
+          "summary": "US House passes Iran war powers resolution in rare pushback against Trump. Four Republicans allied with Democrats to pass bill to rein in Trump, though it is likely to face a presidential veto.\n\nBBC: US House votes to rein in Trump's war powers in rebuke over Iran.\n\nBBC reports that in the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US House passes Iran war powers resolution in rare pushback against Trump",
+              "excerpt": "Four Republicans allied with Democrats to pass bill to rein in Trump, though it is likely to face a presidential veto.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a20a635-1780524597.jpg?resize=1920%2C1440",
+              "imageAlt": "US House passes Iran war powers resolution in rare pushback against Trump",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "US House votes to rein in Trump's war powers in rebuke over Iran",
+              "excerpt": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9757/live/80b94b40-5f9c-11f1-b682-cf91850925ea.jpg",
+              "imageAlt": "US House votes to rein in Trump's war powers in rebuke over Iran",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/3/house-passes-war-powers-resolution-end-hostilities-iran-weakens/",
               "source": "Washington Times",
-              "headline": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
-              "excerpt": "Ukrainian long-range drones struck an oil terminal in St. Petersburg and set it ablaze, President Volodymyr Zelenskyy said Wednesday, sending smoke billowing over the city where President Vladimir Putin was born as it hosts Russia's leading event for attracting foreign capital.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/03/APTOPIX_Russia_Drone_Attack_51658_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
+              "headline": "House passes war powers resolution to end hostilities in Iran, weakens Trump's negotiating leverage",
+              "excerpt": "Four House Republicans helped Democrats pass a war powers resolution on Wednesday to end hostilities with Iran.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2025/11/16/Congress_Epstein_10903_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "House passes war powers resolution to end hostilities in Iran, weakens Trump's negotiating leverage",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -70,61 +136,14 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-16T144622Z_1224955203_RC2EK1ADAQU5_RTRMADP_3_RUSSIA-FORUM-PUTIN-1686930260.jpg?resize=1920%2C1440",
-          "imageAlt": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[1]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a20a635-1780524597.jpg?resize=1920%2C1440",
+          "imageAlt": "US House passes Iran war powers resolution in rare pushback against Trump",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Terrorist-Linked Dem Rides ‘Squad’ Support To Primary Victory",
-          "summary": "Terrorist-Linked Dem Rides ‘Squad’ Support To Primary Victory. On Tuesday, Egyptian-born Adam Hamawy, a defense witness for a convicted terrorist dubbed the “Blind Sheikh,” won the Democratic primary for New Jersey’s 12th Congressional District. Dr. Hamawy, a veteran U.S. Army combat surgeon, gained national attention when he scored endorsements from big-name “Squad” members, like far-Left Reps.\n\nAlexandria Ocasio-Cortez (D-NY), Ilhan Omar (D-MN), and ... Al Jazeera: Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary.\n\nAl Jazeera reports that a former US Army combat surgeon who volunteered at Gaza hospital has a Democratic primary in New Jersey.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
-              "excerpt": "A former US Army combat surgeon who volunteered at Gaza hospital has a Democratic primary in New Jersey.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780498775.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/terrorist-linked-dem-rides-squad-support-to-primary-victory",
-              "source": "Daily Wire",
-              "headline": "Terrorist-Linked Dem Rides ‘Squad’ Support To Primary Victory",
-              "excerpt": "On Tuesday, Egyptian-born Adam Hamawy, a defense witness for a convicted terrorist dubbed the “Blind Sheikh,” won the Democratic primary for New Jersey’s 12th Congressional District. Dr. Hamawy, a veteran U.S. Army combat surgeon, gained national attention when he scored endorsements from big-name “Squad” members, like far-Left Reps. Alexandria Ocasio-Cortez (D-NY), Ilhan Omar (D-MN), and ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2157277712.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Terrorist-Linked Dem Rides ‘Squad’ Support To Primary Victory",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780498775.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Alleged Home Intruder ID'd, Arrested After Leaving Behind Wallet when Resident Opened Fire",
-          "summary": "Alleged Home Intruder ID'd, Arrested After Leaving Behind Wallet when Resident Opened Fire. An alleged Tulsa, Oklahoma, home intruder was shot around 12:00 a.m.\n\nMonday then identified and arrested after dropping his wallet while fleeing the armed resident.\n\nThe post Alleged Home Intruder ID’d, Arrested After Leaving Behind Wallet when Resident Opened Fire appeared first on <a rel=\"nofollow\" href=\"https://www.b. BBC: CBS News fires correspondent Scott Pelley from 60 Minutes.\n\nBBC reports that the veteran host had accused leadership of \"murdering\" the news show in a confrontation at a staff meeting this week.",
+          "title": "Longtime ‘60 Minutes’ Anchor Fired After Attacks On New Leadership",
+          "summary": "Longtime ‘60 Minutes’ Anchor Fired After Attacks On New Leadership. CBS News fired “60 Minutes” correspondent Scott Pelley on Tuesday, just one day after he accused editor-in-chief Bari Weiss of attempting to “murder” the long-running show.\n\nNick Bilton, the tech journalist and filmmaker recently named the new boss of “60 Minutes,” told Pelley that he was being fired after he aggressively “hijacked” a staff meeting ... BBC: CBS News fires correspondent Scott Pelley from 60 Minutes.\n\nBBC reports that the veteran host had accused leadership of \"murdering\" the news show in a confrontation at a staff meeting this week.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/c62rpdkem0mo?at_medium=RSS&at_campaign=rss",
@@ -146,26 +165,26 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/2nd-amendment/2026/06/02/alleged-home-intruder-idd-arrested-after-leaving-behind-wallet-when-resident-opened-fire/",
-              "source": "Breitbart",
-              "headline": "Alleged Home Intruder ID'd, Arrested After Leaving Behind Wallet when Resident Opened Fire",
-              "excerpt": "An alleged Tulsa, Oklahoma, home intruder was shot around 12:00 a.m. Monday then identified and arrested after dropping his wallet while fleeing the armed resident. The post Alleged Home Intruder ID’d, Arrested After Leaving Behind Wallet when Resident Opened Fire appeared first on <a rel=\"nofollow\" href=\"https://www.b",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/Suspect-Attacks-K-9-640x335.jpeg",
-              "imageAlt": "Alleged Home Intruder ID'd, Arrested After Leaving Behind Wallet when Resident Opened Fire",
-              "outlet": "Breitbart",
+              "url": "https://www.dailywire.com/news/longtime-60-minutes-reporter-fired-after-attacks-on-new-leadership",
+              "source": "Daily Wire",
+              "headline": "Longtime ‘60 Minutes’ Anchor Fired After Attacks On New Leadership",
+              "excerpt": "CBS News fired “60 Minutes” correspondent Scott Pelley on Tuesday, just one day after he accused editor-in-chief Bari Weiss of attempting to “murder” the long-running show. Nick Bilton, the tech journalist and filmmaker recently named the new boss of “60 Minutes,” told Pelley that he was being fired after he aggressively “hijacked” a staff meeting ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2150632560.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Longtime ‘60 Minutes’ Anchor Fired After Attacks On New Leadership",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
-              "sourceReliability": "low",
+              "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {\"error\":\"Model reloaded.\"}; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; summaryBatchSize=1; chunkIndexes=[2]",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/d0723c60-5f3c-11f1-b027-7de5029274c2.jpg",
           "imageAlt": "CBS News fires correspondent Scott Pelley from 60 Minutes",
           "imageCredit": "BBC"
@@ -213,41 +232,40 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a037b5b-1778613083.jpg?resize=1920%2C1440",
           "imageAlt": "US cites forced labour concerns as grounds for new tariffs",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "US ally Kuwait condemns 'brutal and ongoing Iranian attacks' after airport was hit",
-          "summary": "US ally Kuwait condemns 'brutal and ongoing Iranian attacks' after airport was hit. Kuwait has condemned \"the brutal and ongoing Iranian attacks using ballistic missiles and drones,\" saying that the Kuwait International Airport had been targeted.\n\nBBC: One killed and dozens injured in Iranian drone strikes on Kuwait airport.\n\nBBC reports that iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+          "title": "Rubio torches Democrat after bizarre hearing questions about his shoes: 'Is this a circus?'",
+          "summary": "Rubio torches Democrat after bizarre hearing questions about his shoes: 'Is this a circus?'. Secretary of State Marco Rubio called a House Foreign Affairs Committee hearing \"a circus\" after Democratic California Rep. Sara Jacobs questioned him about shoes gifted by Trump.\n\nAl Jazeera: Does Israel have nukes?\n\n‘Most of the world assesses they do,’ says Rubio. Al Jazeera reports that uS secretary of state dodges question at congressional hearing on Washington's position on Israel's nuclear programme.",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-              "excerpt": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df3/live/72b3c3e0-5f42-11f1-89a3-d1f559421220.jpg",
-              "imageAlt": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "url": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+              "excerpt": "US secretary of state dodges question at congressional hearing on Washington's position on Israel's nuclear programme.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-05-20T101703Z_1210285587_RC2XCLA8LCX4_RTRMADP_3_ISRAEL-PALESTINIANS-1780513799.jpg?resize=1200%2C630",
+              "imageAlt": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/world/us-ally-kuwait-condemns-brutal-ongoing-iranian-attacks-airport-hit",
+              "url": "https://www.foxnews.com/politics/rubio-torches-democrat-bizarre-hearing-questions-shoes-circus",
               "source": "Fox News",
-              "headline": "US ally Kuwait condemns 'brutal and ongoing Iranian attacks' after airport was hit",
-              "excerpt": "Kuwait has condemned \"the brutal and ongoing Iranian attacks using ballistic missiles and drones,\" saying that the Kuwait International Airport had been targeted.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/kuwait-international-airport-june-1-2026.jpeg?ve=1&tl=1",
-              "imageAlt": "US ally Kuwait condemns 'brutal and ongoing Iranian attacks' after airport was hit",
+              "headline": "Rubio torches Democrat after bizarre hearing questions about his shoes: 'Is this a circus?'",
+              "excerpt": "Secretary of State Marco Rubio called a House Foreign Affairs Committee hearing \"a circus\" after Democratic California Rep. Sara Jacobs questioned him about shoes gifted by Trump.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/rubio-white-house-fox-news.jpeg?ve=1&tl=1",
+              "imageAlt": "Rubio torches Democrat after bizarre hearing questions about his shoes: 'Is this a circus?'",
               "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -261,22 +279,40 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df3/live/72b3c3e0-5f42-11f1-89a3-d1f559421220.jpg",
-          "imageAlt": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-05-20T101703Z_1210285587_RC2XCLA8LCX4_RTRMADP_3_ISRAEL-PALESTINIANS-1780513799.jpg?resize=1200%2C630",
+          "imageAlt": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Chilling words Bakersfield bank robber said while taking 10 hostages — as he’s unmasked as disgraced Army vet and sex offender",
-          "summary": "Chilling words Bakersfield bank robber said while taking 10 hostages — as he’s unmasked as disgraced Army vet and sex offender. The man who strapped a bomb to himself and held multiple hostages for hours inside a Bakersfield bank until officials shot him dead has been identified.\n\nBBC: Man shot dead by FBI after taking hostages at California bank.\n\nBBC reports that two hostages were released on Tuesday, and the remaining hostages released on Wednesday were unharmed, police said.",
+          "title": "Foreign nationals among at least 21 killed in Delhi fire",
+          "summary": "Foreign nationals among at least 21 killed in Delhi fire. Many victims were South Asians who had travelled to India for treatment or to accompany relatives.\n\nAl Jazeera: Deadly fire rips through New Delhi hotel.\n\nAl Jazeera reports that a fire has ripped through a hotel in New Delhi, killing at least 21 people including 18 foreign nationals.",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Deadly fire rips through New Delhi hotel",
+              "excerpt": "A fire has ripped through a hotel in New Delhi, killing at least 21 people including 18 foreign nationals.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780520173.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Deadly fire rips through New Delhi hotel",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Man shot dead by FBI after taking hostages at California bank",
-              "excerpt": "Two hostages were released on Tuesday, and the remaining hostages released on Wednesday were unharmed, police said.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78bb/live/3cc98b20-5f5b-11f1-8dad-8347ac6f73d8.jpg",
-              "imageAlt": "Man shot dead by FBI after taking hostages at California bank",
+              "headline": "Foreign nationals among at least 21 killed in Delhi fire",
+              "excerpt": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/aa946180-5f41-11f1-b682-cf91850925ea.jpg",
+              "imageAlt": "Foreign nationals among at least 21 killed in Delhi fire",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -288,43 +324,25 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://nypost.com/2026/06/03/us-news/bakersfield-bank-robber-identified-as-sex-offender-army-veteran/",
-              "source": "New York Post",
-              "headline": "Chilling words Bakersfield bank robber said while taking 10 hostages — as he’s unmasked as disgraced Army vet and sex offender",
-              "excerpt": "The man who strapped a bomb to himself and held multiple hostages for hours inside a Bakersfield bank until officials shot him dead has been identified.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2FAnthony-Scott-Searles-Harris.jpg?w%3D200",
-              "imageAlt": "Chilling words Bakersfield bank robber said while taking 10 hostages — as he’s unmasked as disgraced Army vet and sex offender",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78bb/live/3cc98b20-5f5b-11f1-8dad-8347ac6f73d8.jpg",
-          "imageAlt": "Man shot dead by FBI after taking hostages at California bank",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780520173.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Deadly fire rips through New Delhi hotel",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Trump Just Drew A New Line For AI",
-          "summary": "Trump Just Drew A New Line For AI. President Donald Trump signed an executive order on Tuesday that seeks more oversight over new artificial intelligence models before companies release them to the public.\n\nAfter months of debate over how to handle AI, Trump took his biggest step yet in regulating the quickly developing tech.\n\nTrump’s executive order asks AI companies to voluntarily submit ... Breitbart: Actor Richard Gere Unleashes Deranged Rant on ‘Maniac’ Trump in Norway: ‘Dictatorship of Monsters’.\n\nBreitbart reports that hollywood actor Richard Gere criticised Donald Trump on Tuesday, calling the US president a “maniac” who has “dismantled almost everything that was good” about the United States.\n\nThe post Actor Richard Gere Unleashes Deranged Rant on ‘Maniac’ Trump in Norway: ‘Dictatorship of Monsters’ appeared first on <a rel=\"no.",
+          "title": "Unions condemn Trump order making federal workers ‘at-will’ employees",
+          "summary": "Unions condemn Trump order making federal workers ‘at-will’ employees. President Donald Trump signed an executive order Wednesday making it easier to remove thousands of senior federal employees, prompting backlash from federal worker unions that accused the administration of attempting to politicize the civil service.\n\nThe order reclassifies roughly 8,000 federal positions into a new category known as “Schedule Policy/Career,” affecting employees with significant policymaking […]. Breitbart: Trump Signs EOs Bolstering Customs Enforcement, Federal Workforce Accountability.\n\nBreitbart reports that wASHINGTON—President Donald Trump signed a pair of executive orders on Wednesday to bolster customs enforcement and bring more accountability to the federal workforce. The post Trump Signs EOs Bolstering Customs Enforcement, Federal Workforce Accountability appeared first on Breitba.",
           "links": [
             {
-              "url": "https://www.breitbart.com/entertainment/2026/06/02/actor-richard-gere-unleashes-deranged-rant-on-maniac-trump-in-norway-dictatorship-of-monsters/",
+              "url": "https://www.breitbart.com/politics/2026/06/03/trump-signs-eos-bolstering-customs-enforcement-federal-workforce-accountability/",
               "source": "Breitbart",
-              "headline": "Actor Richard Gere Unleashes Deranged Rant on ‘Maniac’ Trump in Norway: ‘Dictatorship of Monsters’",
-              "excerpt": "Hollywood actor Richard Gere criticised Donald Trump on Tuesday, calling the US president a “maniac” who has “dismantled almost everything that was good” about the United States. The post Actor Richard Gere Unleashes Deranged Rant on ‘Maniac’ Trump in Norway: ‘Dictatorship of Monsters’ appeared first on <a rel=\"no",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/richardgere-640x335.jpg",
-              "imageAlt": "Actor Richard Gere Unleashes Deranged Rant on ‘Maniac’ Trump in Norway: ‘Dictatorship of Monsters’",
+              "headline": "Trump Signs EOs Bolstering Customs Enforcement, Federal Workforce Accountability",
+              "excerpt": "WASHINGTON—President Donald Trump signed a pair of executive orders on Wednesday to bolster customs enforcement and bring more accountability to the federal workforce. The post Trump Signs EOs Bolstering Customs Enforcement, Federal Workforce Accountability appeared first on Breitba",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/Trump-and-Navarro-EO-640x335.jpeg",
+              "imageAlt": "Trump Signs EOs Bolstering Customs Enforcement, Federal Workforce Accountability",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -337,18 +355,18 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/trump-just-drew-a-new-line-for-ai",
-              "source": "Daily Wire",
-              "headline": "Trump Just Drew A New Line For AI",
-              "excerpt": "President Donald Trump signed an executive order on Tuesday that seeks more oversight over new artificial intelligence models before companies release them to the public. After months of debate over how to handle AI, Trump took his biggest step yet in regulating the quickly developing tech. Trump’s executive order asks AI companies to voluntarily submit ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2277845510.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Trump Just Drew A New Line For AI",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4594195/unions-trump-order-federal-workers-at-will/",
+              "source": "Washington Examiner",
+              "headline": "Unions condemn Trump order making federal workers ‘at-will’ employees",
+              "excerpt": "President Donald Trump signed an executive order Wednesday making it easier to remove thousands of senior federal employees, prompting backlash from federal worker unions that accused the administration of attempting to politicize the civil service. The order reclassifies roughly 8,000 federal positions into a new category known as “Schedule Policy/Career,” affecting employees with significant policymaking […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26154730494185_c42f40.jpg?w=696",
+              "imageAlt": "Unions condemn Trump order making federal workers ‘at-will’ employees",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
@@ -356,9 +374,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://media.breitbart.com/media/2026/06/richardgere-640x335.jpg",
-          "imageAlt": "Actor Richard Gere Unleashes Deranged Rant on ‘Maniac’ Trump in Norway: ‘Dictatorship of Monsters’",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
+          "imageUrl": "https://media.breitbart.com/media/2026/06/Trump-and-Navarro-EO-640x335.jpeg",
+          "imageAlt": "Trump Signs EOs Bolstering Customs Enforcement, Federal Workforce Accountability",
           "imageCredit": "Breitbart"
         }
       ]
@@ -390,14 +408,14 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[7]",
           "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/05/GettyImages-3351734.jpg",
           "imageAlt": "The Architecture Cult",
           "imageCredit": "Spectator Australia"
         },
         {
           "title": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour",
-          "summary": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour. Trade minister says Australia has ‘robust, comprehensive and world-leading legislation addressing forced labour and modern slavery’ Get our breaking news email , free app or daily news podcast Australia is among dozens of countries facing a 12.5% trade tariff fr.\n\nABC News: Australia faces proposed 12.5pc US tariff over forced labour crackdown. ABC News reports that australia could be hit with a new US tariff after the Trump administration accused dozens of countries of failing to crack down on goods made with forced labour.",
+          "summary": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour. Trade minister says Australia has ‘robust, comprehensive and world-leading legislation addressing forced labour and modern slavery’ Get our breaking news email , free app or daily news podcast Australia is among dozens of countries facing a 12.5% trade tariff fr.\n\nABC News: PM says Australia has 'ideological disagreement' with US after it reveals anti-slavery tariff. ABC News reports that the planned new tariff is to be slapped on dozens of countries that have allegedly failed to take action to prevent slavery and forced labour.",
           "links": [
             {
               "url": "https://www.theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour",
@@ -418,12 +436,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.abc.net.au/news/2026-06-03/australia-faces-proposed-us-tariff-over-forced-labour-crackdown/106756686",
+              "url": "https://www.abc.net.au/news/2026-06-04/us-plans-to-impose-anti-slavery-tariff-on-australian-products/106757472",
               "source": "ABC Australia",
-              "headline": "Australia faces proposed 12.5pc US tariff over forced labour crackdown",
-              "excerpt": "Australia could be hit with a new US tariff after the Trump administration accused dozens of countries of failing to crack down on goods made with forced labour.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/7d366a0edfd01720c4d1cd263dfe96eb?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=263&width=862&height=485",
-              "imageAlt": "Australia faces proposed 12.5pc US tariff over forced labour crackdown",
+              "headline": "PM says Australia has 'ideological disagreement' with US after it reveals anti-slavery tariff",
+              "excerpt": "The planned new tariff is to be slapped on dozens of countries that have allegedly failed to take action to prevent slavery and forced labour.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/7a77df92f1af986f53598304968d8ca3?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485",
+              "imageAlt": "PM says Australia has 'ideological disagreement' with US after it reveals anti-slavery tariff",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -438,7 +456,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
           "imageUrl": "https://i.guim.co.uk/img/media/8b2d2238d4006d72768f53a955411275103a58f4/468_0_4683_3747/master/4683.jpg?width=140&quality=85&auto=format&fit=max&s=9c679b73c80ceab6f705239d5f554575",
           "imageAlt": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour",
           "imageCredit": "The Guardian"
@@ -467,7 +485,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[9]",
           "imageUrl": "https://i.guim.co.uk/img/media/5196252580c4a4ffbf24359a30aaab02845ddf1d/477_0_5468_4374/master/5468.jpg?width=140&quality=85&auto=format&fit=max&s=3f1ea1995483513ce80533a028a0de65",
           "imageAlt": "David Pocock highlights ‘bonkers’ situation facing podcasts over gambling ad opt-out – video",
           "imageCredit": "The Guardian"
@@ -496,7 +514,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[10]",
           "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages_2278013167.jpg",
           "imageAlt": "Does a stray drone constitute an attack?",
           "imageCredit": "Spectator Australia"
@@ -548,22 +566,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[11]",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&strip=all&crop=0%2C4.865499187579%2C100%2C90.269001624842&w=1200",
           "imageAlt": "Amazon’s search bar will invent AI-generated products you can’t buy",
           "imageCredit": "The Verge"
         },
         {
-          "title": "Thousands sign petition against cuts to tech support for disabled students in England",
-          "summary": "Thousands sign petition against cuts to tech support for disabled students in England.\n\nDfE plans to withdraw funding for assistive software, saying it is now rarely needed due to ‘widely available free tools’ Disability campaigners have called on the government to halt plans to cut funding for specialist tech support for tens of thousands of disabled students in England.\n\nAlmost 10,000 people have signed a petition opposing Department for Education (DfE) proposals to withdraw funding for specialist assistive software available as part of the Disabled Students’ Allowa.",
+          "title": "Tech industry wins big in California primary election with millions spent paying off",
+          "summary": "Tech industry wins big in California primary election with millions spent paying off. Silicon Valley is fighting against regulation, taxes and growth of AI and will benefit from having political leverage Silicon Valley had a big night in California’s primary election, proving that the tens of millions of dollars funding candidates across the state was money well spent.\n\nWhile the tech industry’s preferred candidate for governor came in a scant sixth place, donations to smaller elections proved to be a successful strategy. Tech billionaires have in past months thrown.",
           "links": [
             {
-              "url": "https://www.theguardian.com/world/2026/jun/03/petition-tech-support-cuts-disabled-students-england-dsa",
+              "url": "https://www.theguardian.com/us-news/2026/jun/03/silicon-valley-california-primary-election-tech-industry",
               "source": "The Guardian Technology",
-              "headline": "Thousands sign petition against cuts to tech support for disabled students in England",
-              "excerpt": "DfE plans to withdraw funding for assistive software, saying it is now rarely needed due to ‘widely available free tools’ Disability campaigners have called on the government to halt plans to cut funding for specialist tech support for tens of thousands of disabled students in England. Almost 10,000 people have signed a petition opposing Department for Education (DfE) proposals to withdraw funding for specialist assistive software available as part of the Disabled Students’ Allowa",
-              "imageUrl": "https://i.guim.co.uk/img/media/ff9d841b1e380c6abcd04367b36fe3b7de9d6bc0/561_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=eed476fc9b902e7844c9e77e8affa4d9",
-              "imageAlt": "Thousands sign petition against cuts to tech support for disabled students in England",
+              "headline": "Tech industry wins big in California primary election with millions spent paying off",
+              "excerpt": "Silicon Valley is fighting against regulation, taxes and growth of AI and will benefit from having political leverage Silicon Valley had a big night in California’s primary election, proving that the tens of millions of dollars funding candidates across the state was money well spent. While the tech industry’s preferred candidate for governor came in a scant sixth place, donations to smaller elections proved to be a successful strategy. Tech billionaires have in past months thrown",
+              "imageUrl": "https://i.guim.co.uk/img/media/b5c6a70e1c52f808a1b3423b9041ba3840a43b4b/125_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=84af181b203aea1ea7d96b384ce4299d",
+              "imageAlt": "Tech industry wins big in California primary election with millions spent paying off",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -572,14 +590,43 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://i.guim.co.uk/img/media/ff9d841b1e380c6abcd04367b36fe3b7de9d6bc0/561_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=eed476fc9b902e7844c9e77e8affa4d9",
-          "imageAlt": "Thousands sign petition against cuts to tech support for disabled students in England",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
+          "imageUrl": "https://i.guim.co.uk/img/media/b5c6a70e1c52f808a1b3423b9041ba3840a43b4b/125_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=84af181b203aea1ea7d96b384ce4299d",
+          "imageAlt": "Tech industry wins big in California primary election with millions spent paying off",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Colorado governor vetoes block on surveillance pricing as other states push for bans",
+          "summary": "Colorado governor vetoes block on surveillance pricing as other states push for bans. Consumer advocates decry Democrat Jared Polis for ‘choosing to side with dominant corporations’ over workers Colorado’s governor vetoed a bill on Tuesday that would have banned companies from using surveillance pricing to set workers’ wages and prices for consumer goods.\n\nThe measure would have been the strongest in the nation against algorithmic pricing. While Maryland became the first state to approve a law <a href=\"https://www.theguardian.com/technology/2026/apr/29/maryland-groc.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/03/colorado-governor-veto-ban-surveillance-pricing",
+              "source": "The Guardian Technology",
+              "headline": "Colorado governor vetoes block on surveillance pricing as other states push for bans",
+              "excerpt": "Consumer advocates decry Democrat Jared Polis for ‘choosing to side with dominant corporations’ over workers Colorado’s governor vetoed a bill on Tuesday that would have banned companies from using surveillance pricing to set workers’ wages and prices for consumer goods. The measure would have been the strongest in the nation against algorithmic pricing. While Maryland became the first state to approve a law <a href=\"https://www.theguardian.com/technology/2026/apr/29/maryland-groc",
+              "imageUrl": "https://i.guim.co.uk/img/media/7f00b3ad112e5e3963fc5bab279ecccd39c7e6b3/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=dff7fbc974dc81c812a7734668d2521a",
+              "imageAlt": "Colorado governor vetoes block on surveillance pricing as other states push for bans",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "imageUrl": "https://i.guim.co.uk/img/media/7f00b3ad112e5e3963fc5bab279ecccd39c7e6b3/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=dff7fbc974dc81c812a7734668d2521a",
+          "imageAlt": "Colorado governor vetoes block on surveillance pricing as other states push for bans",
           "imageCredit": "The Guardian"
         },
         {
@@ -606,7 +653,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
           "imageUrl": "https://i.guim.co.uk/img/media/c300310f00434d27f0d5d0c7777e5ecae3e7bbe1/0_347_3016_2412/master/3016.jpg?width=140&quality=85&auto=format&fit=max&s=bd36a77400ad478e27c18a5ff0247ec2",
           "imageAlt": "If you want to run your first marathon in your 50s, it helps to be chased by zombies",
           "imageCredit": "The Guardian"
@@ -635,38 +682,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
           "imageUrl": "https://i.guim.co.uk/img/media/b8a04a058c722fa9ac62f7ef883531db94daeb4c/967_138_5267_4214/master/5267.jpg?width=140&quality=85&auto=format&fit=max&s=3d828d6563a380c556de4b8162e68979",
           "imageAlt": "Studio Display XDR review: Apple’s pro display shines very brightly",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
-          "summary": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears.\n\nSpecial anniversary edition of award-winning headphones are some of the best sounding you can buy, but cost far more than top Sony noise cancellers Sony’s latest noise-cancelling headphones are a special anniversary set made to celebrate a decade of its prized 1000X series, designed to be plusher, slimmer, more comfortable and the best sounding yet.\n\nThe original 1000X launched in 2016, igniting a fierce rivalry with the dominant Bose and its <a href=\"https://www.theguardian.com/te.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/may/20/sony-1000xx-the-collexion-headphones-review-supreme-comfort-quiet-luxury",
-              "source": "The Guardian Technology",
-              "headline": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
-              "excerpt": "Special anniversary edition of award-winning headphones are some of the best sounding you can buy, but cost far more than top Sony noise cancellers Sony’s latest noise-cancelling headphones are a special anniversary set made to celebrate a decade of its prized 1000X series, designed to be plusher, slimmer, more comfortable and the best sounding yet. The original 1000X launched in 2016, igniting a fierce rivalry with the dominant Bose and its <a href=\"https://www.theguardian.com/te",
-              "imageUrl": "https://i.guim.co.uk/img/media/65146a274e4419f52678ec6504edec5a90e30986/1159_443_4181_3345/master/4181.jpg?width=140&quality=85&auto=format&fit=max&s=c91d0f62817defa28aab01762c336087",
-              "imageAlt": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://i.guim.co.uk/img/media/65146a274e4419f52678ec6504edec5a90e30986/1159_443_4181_3345/master/4181.jpg?width=140&quality=85&auto=format&fit=max&s=c91d0f62817defa28aab01762c336087",
-          "imageAlt": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
           "imageCredit": "The Guardian"
         }
       ]
@@ -675,22 +693,40 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Watchdog: Fake news bill in current form threatens free speech online",
-          "summary": "Watchdog: Fake news bill in current form threatens free speech online. MANILA, Philippines — An international watchdog group has warned House lawmakers against passing the anti-fake news bill with “vague and overly broad” provisions that threaten to undermine — rather than protect — freedom of expression.\n\nHuman Rights Watch expressed alarm over House Bill No. 9465 or the proposed Digital Media Anti-False Information Act, which was.",
+          "title": "Gatchalian to lead Duterte impeachment trial as acting Senate president",
+          "summary": "Gatchalian to lead Duterte impeachment trial as acting Senate president. MANILA, Philippines — Senator Sherwin Gatchalian on Thursday said he iwill preside over Vice President Sara Duterte’s impeachment trial as the acting Senate president after a recent leadership change in the upper chamber.\n\n“Well under the rules since ang Senate president pro tempore assumes the acting president, tayo ang magp-preside ng impeachment,” said Gatchalian. Asked.\n\nRappler: Post-Senate shakeup sees two sides still battling for control. Rappler reports that acting Senate President Sherwin Gatchalian reaffirms the legitimacy of the latest leadership change in the upper chamber.\n\nAlan Peter Cayetano insists he remains in control of the Senate.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2239718/fake-news-bill-in-its-current-form-threatens-free-speech-online-watchdog",
+              "url": "https://newsinfo.inquirer.net/2240033/gatchalian-to-preside-over-dutertes-impeachment-trial-as-acting-senate-sp",
               "source": "Philippine Daily Inquirer",
-              "headline": "Watchdog: Fake news bill in current form threatens free speech online",
-              "excerpt": "MANILA, Philippines — An international watchdog group has warned House lawmakers against passing the anti-fake news bill with “vague and overly broad” provisions that threaten to undermine — rather than protect — freedom of expression. Human Rights Watch expressed alarm over House Bill No. 9465 or the proposed Digital Media Anti-False Information Act, which was",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2023/08/HOUSE-OF-REPRESENTATIVES-LOGO.png",
-              "imageAlt": "Watchdog: Fake news bill in current form threatens free speech online",
+              "headline": "Gatchalian to lead Duterte impeachment trial as acting Senate president",
+              "excerpt": "MANILA, Philippines — Senator Sherwin Gatchalian on Thursday said he iwill preside over Vice President Sara Duterte’s impeachment trial as the acting Senate president after a recent leadership change in the upper chamber. “Well under the rules since ang Senate president pro tempore assumes the acting president, tayo ang magp-preside ng impeachment,” said Gatchalian. Asked",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/News1229045.jpg",
+              "imageAlt": "Gatchalian to lead Duterte impeachment trial as acting Senate president",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "article-text: Right cue(s): (tax cuts|red tape|small business|property rights|free speech)",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/post-senate-leadership-shake-up-cayetano-gatchalian-battle-control/",
+              "source": "Rappler World",
+              "headline": "Post-Senate shakeup sees two sides still battling for control",
+              "excerpt": "Acting Senate President Sherwin Gatchalian reaffirms the legitimacy of the latest leadership change in the upper chamber. Alan Peter Cayetano insists he remains in control of the Senate.",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/05/1920px-Philippine_Senate_Session_Hall.jpg",
+              "imageAlt": "Post-Senate shakeup sees two sides still battling for control",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
@@ -698,22 +734,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2023/08/HOUSE-OF-REPRESENTATIVES-LOGO.png",
-          "imageAlt": "Watchdog: Fake news bill in current form threatens free speech online",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/News1229045.jpg",
+          "imageAlt": "Gatchalian to lead Duterte impeachment trial as acting Senate president",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Why the Philippines needs a modern industrial policy",
-          "summary": "Why the Philippines needs a modern industrial policy. (First of a series) The Philippines stands at a critical juncture in its economic history, facing entrenched structural dependency, underindustrialization and vulnerability to global shocks.\n\nDespite decades of reforms, the absence of a coherent industrial policy has left the nation reliant on remittances, services and import-dependent consumption. This paper synthesizes two complementary strands of.",
+          "title": "PPI holds meeting, forum, media awards June 4-6",
+          "summary": "PPI holds meeting, forum, media awards June 4-6. MANILA, Philippines — On its 62nd year, the Philippine Press Institute (PPI)—the national association of newspapers and online publications—continues to recognize initiatives that benefit not just its members but the communities they serve.\n\nAs digital innovations present both challenges and opportunities for the press, PPI tackles this shift with twin goals—maintaining credibility amid a wave.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2239587/why-the-philippines-needs-a-modern-industrial-policy",
+              "url": "https://newsinfo.inquirer.net/2239848/ppi-holds-meeting-forum-media-awards-june-4-6",
               "source": "Philippine Daily Inquirer",
-              "headline": "Why the Philippines needs a modern industrial policy",
-              "excerpt": "(First of a series) The Philippines stands at a critical juncture in its economic history, facing entrenched structural dependency, underindustrialization and vulnerability to global shocks. Despite decades of reforms, the absence of a coherent industrial policy has left the nation reliant on remittances, services and import-dependent consumption. This paper synthesizes two complementary strands of",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/PH-economic-compositeimage-03jun2026.jpg",
-              "imageAlt": "Why the Philippines needs a modern industrial policy",
+              "headline": "PPI holds meeting, forum, media awards June 4-6",
+              "excerpt": "MANILA, Philippines — On its 62nd year, the Philippine Press Institute (PPI)—the national association of newspapers and online publications—continues to recognize initiatives that benefit not just its members but the communities they serve. As digital innovations present both challenges and opportunities for the press, PPI tackles this shift with twin goals—maintaining credibility amid a wave",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/philippine-press-institute-PPI.jpg",
+              "imageAlt": "PPI holds meeting, forum, media awards June 4-6",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -727,51 +763,51 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/PH-economic-compositeimage-03jun2026.jpg",
-          "imageAlt": "Why the Philippines needs a modern industrial policy",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/philippine-press-institute-PPI.jpg",
+          "imageAlt": "PPI holds meeting, forum, media awards June 4-6",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Green groups urge gov’t to fast-track energy transition",
-          "summary": "Green groups urge gov’t to fast-track energy transition. MANILA, Philippines — Environmental groups on Wednesday called on the government to fast-track the country’s transition to renewable energy given the worsening climate crisis.\n\nDuring a forum at the University of the Philippines Diliman, Jefferson Chua of Greenpeace Philippines stressed the need for a just energy transition as he pointed out the possibility of a.",
+          "title": "Siquijor resorts warned over illegal foreshore use",
+          "summary": "Siquijor resorts warned over illegal foreshore use.\n\nTAGBILARAN CITY, BOHOL, Philippines — The Department of Environment and Natural Resources (DENR) has urged resort owners and occupants along the coastline of Siquijor province to comply with foreshore regulations and legal easement requirements, warning that violations could result in penalties and legal action.\n\nThe DENR assessed 107 coastal resorts across the island province, based.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2239694/green-groups-urge-govt-to-fast-track-just-energy-transition",
+              "url": "https://newsinfo.inquirer.net/2239818/siquijor-resorts-warned-over-illegal-foreshore-use",
               "source": "Philippine Daily Inquirer",
-              "headline": "Green groups urge gov’t to fast-track energy transition",
-              "excerpt": "MANILA, Philippines — Environmental groups on Wednesday called on the government to fast-track the country’s transition to renewable energy given the worsening climate crisis. During a forum at the University of the Philippines Diliman, Jefferson Chua of Greenpeace Philippines stressed the need for a just energy transition as he pointed out the possibility of a",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/03june2026-greenpeace-e1780486121352.jpg",
-              "imageAlt": "Green groups urge gov’t to fast-track energy transition",
+              "headline": "Siquijor resorts warned over illegal foreshore use",
+              "excerpt": "TAGBILARAN CITY, BOHOL, Philippines — The Department of Environment and Natural Resources (DENR) has urged resort owners and occupants along the coastline of Siquijor province to comply with foreshore regulations and legal easement requirements, warning that violations could result in penalties and legal action. The DENR assessed 107 coastal resorts across the island province, based",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Regions1234248.jpeg",
+              "imageAlt": "Siquijor resorts warned over illegal foreshore use",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
-              "bias": "Left",
-              "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (climate crisis|polluters|environmental justice)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/03june2026-greenpeace-e1780486121352.jpg",
-          "imageAlt": "Green groups urge gov’t to fast-track energy transition",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Regions1234248.jpeg",
+          "imageAlt": "Siquijor resorts warned over illegal foreshore use",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "House leaders commend Bojie Dy for steady leadership, strong performance",
-          "summary": "House leaders commend Bojie Dy for steady leadership, strong performance. MANILA, Philippines — House of Representatives leaders on Wednesday night adopted a resolution commending Speaker Faustino “Bojie” G.\n\nDy III for providing what they described as stable, collaborative, and purposeful leadership.\n\nHis stewardship, according to the resolution, enabled the House of Representatives to sustain its legislative momentum and public trust during the First Regular Session. Philippine Daily Inquirer: Filipinos are still looking for concrete proof Congress is changing – Dy.\n\nPhilippine Daily Inquirer reports that mANILA, Philippines — House Speaker Faustino “Bojie” Dy III understands that the people are still looking for concrete proof of changes in the chamber, despite the lawmakers’ passage of several priority and meaningful measures.\n\nIn his speech on Wednesday before the House adjourned si",
+          "title": "Sen. Padilla, DILG chief Remulla figure in Senate scuffle",
+          "summary": "Sen. Padilla, DILG chief Remulla figure in Senate scuffle. MANILA, Philippines — Tensions at the Senate have turned physical on Thursday as Sen. Robinhood Padilla and Interior Sec.\n\nJonvic Remulla shoved each other right inside the Senate building.\n\nThe physical altercation occurred while Padilla—along with Sen. Pia Cayetano—guided the 18 supposedly former Marines, who were invited as resource persons in Thursday’s Senate blue ribbon. Philippine Daily Inquirer: Cayetano, allies show up at Senate.\n\nPhilippine Daily Inquirer reports that mANILA, Philippines — After three days of absence, Sen. Alan Peter Cayetano and his allies arrived at the Senate on Thursday. He was joined by Sen. Robin Padilla and Sen. Pia Cayetano.\n\nOther members of the bloc are also anticipated to arrive. Prior to the Senate reorganization on Wednesday, Pia Cayetano set a blue ribbon.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2239790/filipinos-are-still-looking-for-concrete-proof-congress-is-changing-dy",
+              "url": "https://newsinfo.inquirer.net/2240029/alan-cayetano-arrives-at-senate-for-blue-ribbon",
               "source": "Philippine Daily Inquirer",
-              "headline": "Filipinos are still looking for concrete proof Congress is changing – Dy",
-              "excerpt": "MANILA, Philippines — House Speaker Faustino “Bojie” Dy III understands that the people are still looking for concrete proof of changes in the chamber, despite the lawmakers’ passage of several priority and meaningful measures. In his speech on Wednesday before the House adjourned sine die — ending the first regular session of the 20th Congress — Dy",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/20250917NJO-19.jpg",
-              "imageAlt": "Filipinos are still looking for concrete proof Congress is changing – Dy",
+              "headline": "Cayetano, allies show up at Senate",
+              "excerpt": "MANILA, Philippines — After three days of absence, Sen. Alan Peter Cayetano and his allies arrived at the Senate on Thursday. He was joined by Sen. Robin Padilla and Sen. Pia Cayetano. Other members of the bloc are also anticipated to arrive. Prior to the Senate reorganization on Wednesday, Pia Cayetano set a blue ribbon",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/AlanPeterCayetano-Senate-30May2026.jpg",
+              "imageAlt": "Cayetano, allies show up at Senate",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -785,22 +821,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/20250917NJO-19.jpg",
-          "imageAlt": "Filipinos are still looking for concrete proof Congress is changing – Dy",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/AlanPeterCayetano-Senate-30May2026.jpg",
+          "imageAlt": "Cayetano, allies show up at Senate",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "House approves anti-dynasty bill on third and final reading",
-          "summary": "House approves anti-dynasty bill on third and final reading.\n\nMANILA, Philippines — The House of Representatives on Wednesday passed on third and final reading a bill barring second-degree relatives from holding public office simultaneously, advancing the proposal further than any similar effort since the 1987 Constitution prohibited political dynasties.\n\nWith 267 lawmakers voting in favor, 20 against and seven abstaining, the lower chamber approved.",
+          "title": "Critics unhappy with House’s final version of antidynasty bill",
+          "summary": "Critics unhappy with House’s final version of antidynasty bill.\n\nMANILA, Philippines — The House of Representatives on Wednesday passed on final reading a bill barring second degree relatives from holding public office simultaneously, although minority lawmakers viewed the approved measure as a sham attempt at preventing dynastic clans from continuing to dominate politics.\n\nWith 267 lawmakers in favor, 20 against and seven abstaining, the.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading",
+              "url": "https://newsinfo.inquirer.net/2239868/critics-unhappy-with-houses-final-version-of-antidynasty-bill",
               "source": "Philippine Daily Inquirer",
-              "headline": "House approves anti-dynasty bill on third and final reading",
-              "excerpt": "MANILA, Philippines — The House of Representatives on Wednesday passed on third and final reading a bill barring second-degree relatives from holding public office simultaneously, advancing the proposal further than any similar effort since the 1987 Constitution prohibited political dynasties. With 267 lawmakers voting in favor, 20 against and seven abstaining, the lower chamber approved",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/07/house-of-representatives-opens-1st-regular-session-of-20th-congress-07282025jb-e1780493076934.jpg",
-              "imageAlt": "House approves anti-dynasty bill on third and final reading",
+              "headline": "Critics unhappy with House’s final version of antidynasty bill",
+              "excerpt": "MANILA, Philippines — The House of Representatives on Wednesday passed on final reading a bill barring second degree relatives from holding public office simultaneously, although minority lawmakers viewed the approved measure as a sham attempt at preventing dynastic clans from continuing to dominate politics. With 267 lawmakers in favor, 20 against and seven abstaining, the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/House-of-Representatives-congress-20May2026.jpg",
+              "imageAlt": "Critics unhappy with House’s final version of antidynasty bill",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -814,9 +850,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/07/house-of-representatives-opens-1st-regular-session-of-20th-congress-07282025jb-e1780493076934.jpg",
-          "imageAlt": "House approves anti-dynasty bill on third and final reading",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/House-of-Representatives-congress-20May2026.jpg",
+          "imageAlt": "Critics unhappy with House’s final version of antidynasty bill",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -848,19 +884,19 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]"
         },
         {
-          "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-          "summary": "Coralogix raises $200M on bet that someone needs to watch the AI agents. Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
+          "title": "The worst hacks and breaches of 2026 (so far)",
+          "summary": "The worst hacks and breaches of 2026 (so far). From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+              "url": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
               "source": "TechCrunch",
-              "headline": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-              "excerpt": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
-              "imageAlt": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+              "headline": "The worst hacks and breaches of 2026 (so far)",
+              "excerpt": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/water-dam-spill-2263108794.jpg?resize=1200,801",
+              "imageAlt": "The worst hacks and breaches of 2026 (so far)",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -874,22 +910,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
-          "imageAlt": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/water-dam-spill-2263108794.jpg?resize=1200,801",
+          "imageAlt": "The worst hacks and breaches of 2026 (so far)",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao",
-          "summary": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao. Fixating on questions of whether Altman is untrustworthy, or whether Musk is even less so distracts from a far deeper problem with AI If it wasn’t already clear, Elon Musk and Sam Altman hate each other.\n\nWhile the two men were once co-founders of OpenAI, they’re now locked in a vicious feud, playing out in all its theatrics in front of a judge and jury in a California courtroom. Musk is suing, alleging that Altman and OpenAI’s president, Greg Brockman, tricked him into forming and.",
+          "title": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
+          "summary": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears.\n\nSpecial anniversary edition of award-winning headphones are some of the best sounding you can buy, but cost far more than top Sony noise cancellers Sony’s latest noise-cancelling headphones are a special anniversary set made to celebrate a decade of its prized 1000X series, designed to be plusher, slimmer, more comfortable and the best sounding yet.\n\nThe original 1000X launched in 2016, igniting a fierce rivalry with the dominant Bose and its <a href=\"https://www.theguardian.com/te.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud",
+              "url": "https://www.theguardian.com/technology/2026/may/20/sony-1000xx-the-collexion-headphones-review-supreme-comfort-quiet-luxury",
               "source": "The Guardian Technology",
-              "headline": "The Elon Musk v Sam Altman battle is a distraction",
-              "excerpt": "Fixating on questions of whether Altman is untrustworthy, or whether Musk is even less so distracts from a far deeper problem with AI If it wasn’t already clear, Elon Musk and Sam Altman hate each other. While the two men were once co-founders of OpenAI, they’re now locked in a vicious feud, playing out in all its theatrics in front of a judge and jury in a California courtroom. Musk is suing, alleging that Altman and OpenAI’s president, Greg Brockman, tricked him into forming and",
-              "imageUrl": "https://i.guim.co.uk/img/media/58416a7cd940b07811f030978f7bb03328d5357d/148_0_1483_1186/master/1483.jpg?width=140&quality=85&auto=format&fit=max&s=0a898ffc61a848f4e16a7b5774dfdbb1",
-              "imageAlt": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao",
+              "headline": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
+              "excerpt": "Special anniversary edition of award-winning headphones are some of the best sounding you can buy, but cost far more than top Sony noise cancellers Sony’s latest noise-cancelling headphones are a special anniversary set made to celebrate a decade of its prized 1000X series, designed to be plusher, slimmer, more comfortable and the best sounding yet. The original 1000X launched in 2016, igniting a fierce rivalry with the dominant Bose and its <a href=\"https://www.theguardian.com/te",
+              "imageUrl": "https://i.guim.co.uk/img/media/65146a274e4419f52678ec6504edec5a90e30986/1159_443_4181_3345/master/4181.jpg?width=140&quality=85&auto=format&fit=max&s=c91d0f62817defa28aab01762c336087",
+              "imageAlt": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -903,9 +939,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed",
-          "imageUrl": "https://i.guim.co.uk/img/media/58416a7cd940b07811f030978f7bb03328d5357d/148_0_1483_1186/master/1483.jpg?width=140&quality=85&auto=format&fit=max&s=0a898ffc61a848f4e16a7b5774dfdbb1",
-          "imageAlt": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
+          "imageUrl": "https://i.guim.co.uk/img/media/65146a274e4419f52678ec6504edec5a90e30986/1159_443_4181_3345/master/4181.jpg?width=140&quality=85&auto=format&fit=max&s=c91d0f62817defa28aab01762c336087",
+          "imageAlt": "Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears",
           "imageCredit": "The Guardian"
         },
         {
@@ -932,7 +968,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]"
         },
         {
           "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
@@ -958,7 +994,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "local-summary-skipped: CROSSECT_SUMMARY_MODE=feed"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]"
         }
       ]
     }
