@@ -2,9 +2,41 @@
   "digests": [
     {
       "id": "today-expanded.json",
-      "date": "2026-06-04",
+      "date": "2026-06-06",
       "title": "Daily Source Digest",
-      "generatedAt": "2026-06-04T12:30:29.156916",
+      "generatedAt": "2026-06-06T18:33:28.679451",
+      "note": "Daily source-balanced news digest \u2014 morning update.",
+      "sectionCount": 5,
+      "storyCount": 26,
+      "sourceCount": 26,
+      "sections": [
+        {
+          "name": "World / Geopolitics",
+          "storyCount": 7
+        },
+        {
+          "name": "Australia",
+          "storyCount": 4
+        },
+        {
+          "name": "Technology",
+          "storyCount": 5
+        },
+        {
+          "name": "Asia Pacific",
+          "storyCount": 5
+        },
+        {
+          "name": "Business / Finance",
+          "storyCount": 5
+        }
+      ]
+    },
+    {
+      "id": "2026-06-06-expanded.json",
+      "date": "2026-06-06",
+      "title": "Daily Source Digest",
+      "generatedAt": "2026-06-06T18:33:28.679451",
       "note": "Daily source-balanced news digest \u2014 morning update.",
       "sectionCount": 5,
       "storyCount": 26,
@@ -271,35 +303,7 @@
           "storyCount": 0
         }
       ]
-    },
-    {
-      "id": "2026-05-25-expanded.json",
-      "date": "2026-05-25",
-      "title": "Daily Source Digest",
-      "generatedAt": "2026-05-25T20:19:43.663186+08:00",
-      "note": "Daily source-balanced news digest.",
-      "sectionCount": 4,
-      "storyCount": 17,
-      "sourceCount": 17,
-      "sections": [
-        {
-          "name": "World / US / Geopolitics",
-          "storyCount": 7
-        },
-        {
-          "name": "Business / Tech / Aviation",
-          "storyCount": 3
-        },
-        {
-          "name": "Australia",
-          "storyCount": 5
-        },
-        {
-          "name": "Philippines",
-          "storyCount": 2
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-06-04"
+  "lastUpdated": "2026-06-06"
 }
