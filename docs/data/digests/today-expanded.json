@@ -2,24 +2,42 @@
   "id": "2026-06-07-expanded",
   "date": "2026-06-07",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-07T06:08:05.866840",
+  "generatedAt": "2026-06-07T12:30:50.670302",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-07T06:08:05",
+  "updatedAt": "2026-06-07T12:30:50",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "American Journalist Caught In FBI Sting Admits Working For China",
-          "summary": "American Journalist Caught In FBI Sting Admits Working For China. An American journalist pleaded guilty Thursday to working as an unregistered agent for China after prosecutors said he helped a Chinese intelligence officer try to steal classified information from the U.S. government.\n\nThomas Pauken II, 50, admitted in a plea agreement with Justice Department prosecutors that he acted as an agent of China from 2019 ... BBC: US journalist pleads guilty to working as China's agent.\n\nBBC reports that thomas Weir Pauken II, 50, knowingly worked with people employed by the Chinese government for years.",
+          "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+          "summary": "Israeli airstrikes in southern Lebanon on Saturday killed nine people, including three high-ranking Lebanese military officers, according to the Lebanese army and state media. The attack occurred just days after Israel and Hezbollah agreed to a new ceasefire deal.\n\nThe Israeli military has launched an investigation into the incident, which targeted a vehicle carrying the soldiers. This development complicates regional efforts to stabilize the area following recent escalations involving Iran and its allies.",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+              "excerpt": "Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260606__B68A388__v1__HighRes__LebanonIranIsraelUsWar-1780799461.jpg?resize=1920%2C1440",
+              "imageAlt": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "US journalist pleads guilty to working as China's agent",
-              "excerpt": "Thomas Weir Pauken II, 50, knowingly worked with people employed by the Chinese government for years.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7b2/live/b1528320-60c3-11f1-ba0c-494087e54831.jpg",
-              "imageAlt": "US journalist pleads guilty to working as China's agent",
+              "headline": "Lebanese general among three soldiers killed in Israeli attack on car",
+              "excerpt": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
+              "imageAlt": "Lebanese general among three soldiers killed in Israeli attack on car",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -33,33 +51,80 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.dailywire.com/news/american-journalist-caught-in-fbi-sting-admits-working-for-china",
-              "source": "Daily Wire",
-              "headline": "American Journalist Caught In FBI Sting Admits Working For China",
-              "excerpt": "An American journalist pleaded guilty Thursday to working as an unregistered agent for China after prosecutors said he helped a Chinese intelligence officer try to steal classified information from the U.S. government. Thomas Pauken II, 50, admitted in a plea agreement with Justice Department prosecutors that he acted as an agent of China from 2019 ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2150094845-2.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "American Journalist Caught In FBI Sting Admits Working For China",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.washingtontimes.com/news/2026/jun/6/israeli-airstrikes-kill-9-including-lebanese-army-officers-ceasefire/",
+              "source": "Washington Times",
+              "headline": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+              "excerpt": "Israeli airstrikes on southern Lebanon on Saturday killed nine people including three members of the Lebanese military, the Lebanese army and state media said, days after the two sides reached a new ceasefire deal.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/06/Lebanon_Israel_Hezbollah_82642_s1014x676.jpg?0e86e75391d80185530f57d3433d676a9022dbc0",
+              "imageAlt": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260606__B68A388__v1__HighRes__LebanonIranIsraelUsWar-1780799461.jpg?resize=1920%2C1440",
+          "imageAlt": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Ukraine Targets Russia's St. Petersburg With More Drone Strikes",
+          "summary": "Ukraine Targets Russia's St. Petersburg With More Drone Strikes.\n\n(AP) — Residents of St. Petersburg, Russia’s second-largest city, were told not to leave their homes after a “large-scale” Ukrainian drone attack targeted the city Saturday morning, underscoring Kyiv’s growing ability to hit deep inside Russia, a day after the The post Ukraine Targets Russia’s St.\n\nPetersburg With More Drone Strikes appeared first on <a. BBC: Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'.\n\nBBC reports that residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+          "links": [
+            {
+              "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+              "excerpt": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
+              "imageAlt": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/europe/2026/06/06/ukraine-targets-russias-st-petersburg-with-more-drone-strikes/",
+              "source": "Breitbart",
+              "headline": "Ukraine Targets Russia's St. Petersburg With More Drone Strikes",
+              "excerpt": "(AP) — Residents of St. Petersburg, Russia’s second-largest city, were told not to leave their homes after a “large-scale” Ukrainian drone attack targeted the city Saturday morning, underscoring Kyiv’s growing ability to hit deep inside Russia, a day after the The post Ukraine Targets Russia’s St. Petersburg With More Drone Strikes appeared first on <a",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/GettyImages-2278845365-1-640x335.jpg",
+              "imageAlt": "Ukraine Targets Russia's St. Petersburg With More Drone Strikes",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[0]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7b2/live/b1528320-60c3-11f1-ba0c-494087e54831.jpg",
-          "imageAlt": "US journalist pleads guilty to working as China's agent",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[1]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
+          "imageAlt": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
           "imageCredit": "BBC"
         },
         {
           "title": "Disaster Declared as 2nd Screwworm Case Found in Texas near Border, Canada Bans Texas Cattle",
-          "summary": "Disaster Declared as 2nd Screwworm Case Found in Texas near Border, Canada Bans Texas Cattle. A second case of the flesh‑eating New World screwworm has been confirmed in Texas, only miles from the Mexican border, prompting Canada to shut its border to Texas livestock and Governor Greg Abbott to declare a state of disaster over what he warns is an “imminent threat.” The post Disaster Declared as 2nd Screwworm Case Found.\n\nBBC: Canada bans Texas cattle over flesh-eating screwworm outbreak in US. BBC reports that the ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
+          "summary": "Texas has declared a state of disaster after confirming a second case of the New World screwworm, a flesh-eating parasite found in a calf near the Mexican border. The outbreak has prompted immediate international trade restrictions, with Canada banning all livestock imports from Texas.\n\nGovernor Greg Abbott described the situation as an imminent threat to public health and agriculture. The rapid spread of the infestation has raised concerns about containment efforts along the southern border.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
@@ -99,23 +164,22 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[1]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75e8/live/56843df0-6193-11f1-b682-cf91850925ea.jpg",
           "imageAlt": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
           "imageCredit": "BBC"
         },
         {
-          "title": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
-          "summary": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers. The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.\n\nBBC: Lebanese general among three soldiers killed in Israeli attack on car.\n\nBBC reports that the Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+          "title": "Cuba ex-President Raul Castro makes first appearance since U.S. charges to celebrate birthday",
+          "summary": "Cuba ex-President Raul Castro makes first appearance since U.S. charges to celebrate birthday. Raul Castro, Cuba's low-profile former president and revolutionary guerilla, appeared in public for the first time since being indicted by the United States for his alleged role in the 1996 downing of two civilian aircraft, official video released Saturday showed.\n\nAl Jazeera: Cuba’s Raul Castro makes first public appearance since US charges. Al Jazeera reports that former Cuban president Raul Castro made his first public appearance in Havana since being indicted by the United States.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cubas-raul-castro-makes-first-public-appearance-since-us-charges?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
-              "excerpt": "The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a247826-1780774950.jpg?resize=1920%2C1440",
-              "imageAlt": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+              "headline": "Cuba’s Raul Castro makes first public appearance since US charges",
+              "excerpt": "Former Cuban president Raul Castro made his first public appearance in Havana since being indicted by the United States",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780779321.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Cuba’s Raul Castro makes first public appearance since US charges",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -128,42 +192,41 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Lebanese general among three soldiers killed in Israeli attack on car",
-              "excerpt": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
-              "imageAlt": "Lebanese general among three soldiers killed in Israeli attack on car",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "url": "https://www.washingtontimes.com/news/2026/jun/6/cuba-ex-president-raul-castro-makes-first-appearance-since-us-charges/",
+              "source": "Washington Times",
+              "headline": "Cuba ex-President Raul Castro makes first appearance since U.S. charges to celebrate birthday",
+              "excerpt": "Raul Castro, Cuba's low-profile former president and revolutionary guerilla, appeared in public for the first time since being indicted by the United States for his alleged role in the 1996 downing of two civilian aircraft, official video released Saturday showed.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/04/APTOPIX_Cuba_Raul_Castro_9584__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Cuba ex-President Raul Castro makes first appearance since U.S. charges to celebrate birthday",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[2]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a247826-1780774950.jpg?resize=1920%2C1440",
-          "imageAlt": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[3]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780779321.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Cuba’s Raul Castro makes first public appearance since US charges",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Putin Vows to Boost Russian Air Defences After Humiliating Ukrainian Drone Strikes on St Petersburg",
-          "summary": "Putin Vows to Boost Russian Air Defences After Humiliating Ukrainian Drone Strikes on St Petersburg. Putin said that Russia will strengthen its air defenses to counter recent Ukrainian drone attacks, which have reached deep inside his country.\n\nThe post Putin Vows to Boost Russian Air Defences After Humiliating Ukrainian Drone Strikes on St Petersburg appeared first on <a rel=\"nofollow\" href=\"https://www.breitbart.\n\nBBC: Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'. BBC reports that the city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+          "title": "Armenia prepares for an election that could reshape ties with Moscow and the West",
+          "summary": "Armenia prepares for an election that could reshape ties with Moscow and the West. Armenia's parliamentary elections Sunday will be a vote on its geopolitical future as incumbent Prime Minister Nikol Pashinyan seeks closer relations with the European Union and the United States despite longstanding ties with Russia that have been championed by his critics.\n\nBBC: Armenia votes as Russia piles pressure on pro-West government. BBC reports that incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-              "excerpt": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
-              "imageAlt": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+              "headline": "Armenia votes as Russia piles pressure on pro-West government",
+              "excerpt": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/353c/live/d82787d0-6185-11f1-b682-cf91850925ea.jpg",
+              "imageAlt": "Armenia votes as Russia piles pressure on pro-West government",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -177,12 +240,60 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/06/05/putin-vows-to-boost-russian-air-defences-after-humiliating-ukrainian-drone-strikes-on-st-petersburg/",
+              "url": "https://www.washingtontimes.com/news/2026/jun/6/armenia-prepares-election-could-reshape-ties-moscow-west/",
+              "source": "Washington Times",
+              "headline": "Armenia prepares for an election that could reshape ties with Moscow and the West",
+              "excerpt": "Armenia's parliamentary elections Sunday will be a vote on its geopolitical future as incumbent Prime Minister Nikol Pashinyan seeks closer relations with the European Union and the United States despite longstanding ties with Russia that have been championed by his critics.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/06/Armenia_Election_82983_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Armenia prepares for an election that could reshape ties with Moscow and the West",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[4]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/353c/live/d82787d0-6185-11f1-b682-cf91850925ea.jpg",
+          "imageAlt": "Armenia votes as Russia piles pressure on pro-West government",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Anthony Head, Actor Known for 'Buffy & 'Ted Lasso,' Dies at 72",
+          "summary": "Anthony Head, Actor Known for 'Buffy & 'Ted Lasso,' Dies at 72. Buffy the Vampire Slayer, Merlin and Ted Lasso icon Anthony Stewart Head has died of pneumonia at the age of 72, his family announced Friday.\n\nThe post Anthony Head, Actor Known for ‘Buffy & ‘Ted Lasso,’ Dies at 72 appeared first on Breitbart .\n\nBBC: From Nescafe to Ted Lasso: Anthony Head's life in pictures. BBC reports that anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+          "links": [
+            {
+              "url": "https://www.bbc.com/news/articles/cy42428yx8go?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+              "excerpt": "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef6/live/53834750-6101-11f1-ae0d-afcc10479766.jpg",
+              "imageAlt": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/entertainment/2026/06/06/anthony-head-actor-known-for-buffy-ted-lasso-dies-at-72/",
               "source": "Breitbart",
-              "headline": "Putin Vows to Boost Russian Air Defences After Humiliating Ukrainian Drone Strikes on St Petersburg",
-              "excerpt": "Putin said that Russia will strengthen its air defenses to counter recent Ukrainian drone attacks, which have reached deep inside his country. The post Putin Vows to Boost Russian Air Defences After Humiliating Ukrainian Drone Strikes on St Petersburg appeared first on <a rel=\"nofollow\" href=\"https://www.breitbart.",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/GettyImages-2278845133-e1780688955511-640x335.jpg",
-              "imageAlt": "Putin Vows to Boost Russian Air Defences After Humiliating Ukrainian Drone Strikes on St Petersburg",
+              "headline": "Anthony Head, Actor Known for 'Buffy & 'Ted Lasso,' Dies at 72",
+              "excerpt": "Buffy the Vampire Slayer, Merlin and Ted Lasso icon Anthony Stewart Head has died of pneumonia at the age of 72, his family announced Friday. The post Anthony Head, Actor Known for ‘Buffy & ‘Ted Lasso,’ Dies at 72 appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/GettyImages-749052-640x335.jpg",
+              "imageAlt": "Anthony Head, Actor Known for 'Buffy & 'Ted Lasso,' Dies at 72",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -196,9 +307,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[3]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
-          "imageAlt": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[5]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef6/live/53834750-6101-11f1-ae0d-afcc10479766.jpg",
+          "imageAlt": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
           "imageCredit": "BBC"
         },
         {
@@ -244,122 +355,10 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[4]",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[6]",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg",
           "imageAlt": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
           "imageCredit": "BBC"
-        },
-        {
-          "title": "Golden Tempo set for Belmont Stakes after historic Derby win",
-          "summary": "Golden Tempo set for Belmont Stakes after historic Derby win. Kentucky Derby winner Golden Tempo will take to the track Saturday evening at Saratoga Race Course for the 158th Belmont Stakes, the final leg of horse racing's Triple Crown, with post time set for 7:04 p.m.\n\nET.\n\nFox News: Belmont Stakes 2026 at Saratoga Race Course: Best bets, exotics, 'Pick 5' for the Grade 1 stakes races. Fox News reports that expert picks and best bets for the 2026 Belmont Stakes at Saratoga Race Course, including analysis of Commandment, Renegade, and Golden Tempo.",
-          "links": [
-            {
-              "url": "https://www.foxnews.com/outkick-sports/belmont-stakes-2026-saratoga-race-course-best-bets-exotics-pick-5-grade-1-stakes-races",
-              "source": "Fox News",
-              "headline": "Belmont Stakes 2026 at Saratoga Race Course: Best bets, exotics, 'Pick 5' for the Grade 1 stakes races",
-              "excerpt": "Expert picks and best bets for the 2026 Belmont Stakes at Saratoga Race Course, including analysis of Commandment, Renegade, and Golden Tempo.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/woody-stephens-stakes-saratoga-fox-news-001.jpeg?ve=1&tl=1",
-              "imageAlt": "Belmont Stakes 2026 at Saratoga Race Course: Best bets, exotics, 'Pick 5' for the Grade 1 stakes races",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://nypost.com/2026/06/06/betting/2026-belmont-stakes-picks-best-bets-long-shots-exactas-trifectas/",
-              "source": "New York Post",
-              "headline": "2026 Belmont Stakes picks: Best bets, long shots, exactas, trifectas",
-              "excerpt": "Renegade headlines the field at the 2026 Belmont Stakes.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fhorse-trains-morning-workouts-oklahoma-129715695.jpg?quality%3D90%26strip%3Dall",
-              "imageAlt": "2026 Belmont Stakes picks: Best bets, long shots, exactas, trifectas",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/jun/6/golden-tempo-set-belmont-stakes-historic-derby-win/",
-              "source": "Washington Times",
-              "headline": "Golden Tempo set for Belmont Stakes after historic Derby win",
-              "excerpt": "Kentucky Derby winner Golden Tempo will take to the track Saturday evening at Saratoga Race Course for the 158th Belmont Stakes, the final leg of horse racing's Triple Crown, with post time set for 7:04 p.m. ET.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/05/Belmont_Stakes_Horse_Racing_1_497_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Golden Tempo set for Belmont Stakes after historic Derby win",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[5]",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/woody-stephens-stakes-saratoga-fox-news-001.jpeg?ve=1&tl=1",
-          "imageAlt": "Belmont Stakes 2026 at Saratoga Race Course: Best bets, exotics, 'Pick 5' for the Grade 1 stakes races",
-          "imageCredit": "Fox News"
-        },
-        {
-          "title": "Hegseth says ‘European beaches are stormed’ by mass immigration in Normandy D-Day speech",
-          "summary": "Hegseth says ‘European beaches are stormed’ by mass immigration in Normandy D-Day speech. Secretary of War Pete Hegseth linked the Allied invasion of Normandy during World War II to modern immigration challenges facing Europe in a speech Saturday marking the 82nd anniversary of D-Day.\n\n“Sadly, today, different European beaches are stormed by different, dangerous ideologies,” Hegseth said during remarks at the Normandy American Cemetery in Colleville-sur-Mer, France. “Beaches […].\n\nWashington Times: Hegseth invokes immigration and 'invasion' in D-Day speech in France. Washington Times reports that u.S.\n\nDefense Secretary Pete Hegseth used a D-Day anniversary speech on Saturday to appear to link immigration by sea to the wartime liberation of Europe, warning that the freedom won by Allied troops could prove temporary if leaders failed to defend it.",
-          "links": [
-            {
-              "url": "https://www.washingtonexaminer.com/policy/immigration/4597913/hegseth-mass-immigration-normandy-d-day-speech/",
-              "source": "Washington Examiner",
-              "headline": "Hegseth says ‘European beaches are stormed’ by mass immigration in Normandy D-Day speech",
-              "excerpt": "Secretary of War Pete Hegseth linked the Allied invasion of Normandy during World War II to modern immigration challenges facing Europe in a speech Saturday marking the 82nd anniversary of D-Day. “Sadly, today, different European beaches are stormed by different, dangerous ideologies,” Hegseth said during remarks at the Normandy American Cemetery in Colleville-sur-Mer, France. “Beaches […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2025/12/AP25157428476030.jpg?w=696",
-              "imageAlt": "Hegseth says ‘European beaches are stormed’ by mass immigration in Normandy D-Day speech",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/jun/6/hegseth-invokes-immigration-invasion-d-day-speech-france/",
-              "source": "Washington Times",
-              "headline": "Hegseth invokes immigration and 'invasion' in D-Day speech in France",
-              "excerpt": "U.S. Defense Secretary Pete Hegseth used a D-Day anniversary speech on Saturday to appear to link immigration by sea to the wartime liberation of Europe, warning that the freedom won by Allied troops could prove temporary if leaders failed to defend it.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/06/France_D-Day_936_8_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Hegseth invokes immigration and 'invasion' in D-Day speech in France",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[6]",
-          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2025/12/AP25157428476030.jpg?w=696",
-          "imageAlt": "Hegseth says ‘European beaches are stormed’ by mass immigration in Normandy D-Day speech",
-          "imageCredit": "Washington Examiner"
         }
       ]
     },
@@ -390,40 +389,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[7]",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[7]",
           "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/8Panic_1873_Getty.jpg",
           "imageAlt": "The Panic of 1873 seems eerily familiar",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Man dies after shark attack off Western Australia coast near Albany",
-          "summary": "Man dies after shark attack off Western Australia coast near Albany. Government department says man was in the water around Michaelmas Island, near Albany, when he was bitten by a suspected 4.5-metre shark Get our breaking news email , free app or daily news podcast A male diver aged in his 30s has died after being bitten by a sh.\n\nThe Guardian: Australian snow season begins amid El Niño fears. The Guardian reports that webcams showed snow blanketing the ground in some areas.\n\nIn others, it was patchy or nonexistent Get our breaking news email , free app or daily news podcast Australia’s snow season has officially begun, with resorts predicting a good season despite climactic th.",
+          "title": "'Beyond our capacity' to defend sea trade lanes, Shoebridge says",
+          "summary": "'Beyond our capacity' to defend sea trade lanes, Shoebridge says. Greens defence spokesman David Shoebridge says it is \"ridiculous\" to think Australia's military could defend the nation's global trade lanes, and acquiring nuclear-powered submarines under AUKUS only invites Australia to a conflict between the United States and China.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/jun/06/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
-              "source": "The Guardian Australia",
-              "headline": "Australian snow season begins amid El Niño fears",
-              "excerpt": "Webcams showed snow blanketing the ground in some areas. In others, it was patchy or nonexistent Get our breaking news email , free app or daily news podcast Australia’s snow season has officially begun, with resorts predicting a good season despite climactic th",
-              "imageUrl": "https://i.guim.co.uk/img/media/225e1fcaae9ae6453bcdac84639fd1d5b9fc9536/0_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=9dc2345b35bcd23e0f6221fab3bc5575",
-              "imageAlt": "Australian snow season begins amid El Niño fears",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-06-06/diver-dies-in-shark-attack-off-albany-western-australia/106768050",
+              "url": "https://www.abc.net.au/news/2026-06-07/shoebridge-beyond-capacity-aukus-defend-sea-trade-lanes/106769392",
               "source": "ABC Australia",
-              "headline": "Diver dies after being bitten by 4.5m shark off Albany, WA",
-              "excerpt": "A male diver has died after an attack by a suspected 4.5-metre shark near Michaelmas Island, off WA's Albany coast, on Saturday morning.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/5fa03fe209400c9d3bb8b10f354c9af8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Diver dies after being bitten by 4.5m shark off Albany, WA",
+              "headline": "'Beyond our capacity' to defend sea trade lanes, Shoebridge says",
+              "excerpt": "Greens defence spokesman David Shoebridge says it is \"ridiculous\" to think Australia's military could defend the nation's global trade lanes, and acquiring nuclear-powered submarines under AUKUS only invites Australia to a conflict between the United States and China.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ea2f05a090d1816fcd043dbad926792c?impolicy=wcms_crop_resize&cropH=3305&cropW=5876&xPos=0&yPos=1&width=862&height=485",
+              "imageAlt": "'Beyond our capacity' to defend sea trade lanes, Shoebridge says",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -438,22 +419,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[8]",
-          "imageUrl": "https://i.guim.co.uk/img/media/225e1fcaae9ae6453bcdac84639fd1d5b9fc9536/0_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=9dc2345b35bcd23e0f6221fab3bc5575",
-          "imageAlt": "Australian snow season begins amid El Niño fears",
-          "imageCredit": "The Guardian"
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[8]",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ea2f05a090d1816fcd043dbad926792c?impolicy=wcms_crop_resize&cropH=3305&cropW=5876&xPos=0&yPos=1&width=862&height=485",
+          "imageAlt": "'Beyond our capacity' to defend sea trade lanes, Shoebridge says",
+          "imageCredit": "ABC News"
         },
         {
-          "title": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett",
-          "summary": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett.\n\nNothing does more for your ego than realising you can make a better decision than a bot with all of human knowledge at its digital fingertips I am not, by nature, an early adopter. There comes a point in our lives where change becomes more irritating than exciting and, I suspect, I reached it sooner than most.\n\nBut when a workplace recently tasked me with exploring practical applications for AI, I spotted an opportunity to cast off my luddite inclinations. It turned out AI was very.",
+          "title": "Newsroom edition: Labor broke a promise for bold reform. Does it matter? – Full Story podcast",
+          "summary": "Newsroom edition: Labor broke a promise for bold reform. Does it matter? – Full Story podcast.\n\nIn a big gamble, Labor broke a big promise. In this week’s budget, the government announced changes to capital gains tax and negative gearing.\n\nThe treasurer, Jim Chalmers, is suggesting it’s the broken promise we had to have, in order to tackle intergenerational inequality and make the tax system fairer.\n\nReged Ahmad speaks with Mike Ticher, Patrick Keneally and Sarah Martin about when broken promises matter in politics <a href=\"https://www.theguardian.com/australia-news/2026/may. The Guardian: Newsroom edition: House prices in Australia are falling – will it hurt Labor? – Full Story podcast.\n\nThe Guardian reports that josephine Tovey speaks with Gabrielle Jackson , Patrick Keneally and Jonathan Barrett about why Labor is damned if they do and damned if they don’t when it comes to the diaboli",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/commentisfree/2026/jun/05/ai-artificial-intelligence-help-with-diy-valuable-lessons",
+              "url": "https://www.theguardian.com/australia-news/video/2026/jun/05/newsroom-edition-house-prices-in-australia-are-falling-will-it-hurt-labor-full-story-podcast",
               "source": "The Guardian Australia",
-              "headline": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons",
-              "excerpt": "Nothing does more for your ego than realising you can make a better decision than a bot with all of human knowledge at its digital fingertips I am not, by nature, an early adopter. There comes a point in our lives where change becomes more irritating than exciting and, I suspect, I reached it sooner than most. But when a workplace recently tasked me with exploring practical applications for AI, I spotted an opportunity to cast off my luddite inclinations. It turned out AI was very",
-              "imageUrl": "https://i.guim.co.uk/img/media/9385ef37578d73ffa5287d97c3ee8c0f14aa4c9a/64_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=76a8aba7e62f98f469249a17843f2ac7",
-              "imageAlt": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett",
+              "headline": "Newsroom edition: House prices in Australia are falling – will it hurt Labor? – Full Story podcast",
+              "excerpt": "Josephine Tovey speaks with Gabrielle Jackson , Patrick Keneally and Jonathan Barrett about why Labor is damned if they do and damned if they don’t when it comes to the diabolical political conundrum of trying to solve the housing affordability crisis without bringing down house prices <a href=\"https://www.theguardian.com/australia-news/video/2026/jun/05/newsroom-edition-house-prices-in-australia-are-falling-will-it-hurt-l",
+              "imageUrl": "https://i.guim.co.uk/img/media/fc4acca6dd6e7bca8e93617ac06895dcbc575f60/382_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=418111f248f68089aa62cb202e869167",
+              "imageAlt": "Newsroom edition: House prices in Australia are falling – will it hurt Labor? – Full Story podcast",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -467,22 +448,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[9]",
-          "imageUrl": "https://i.guim.co.uk/img/media/9385ef37578d73ffa5287d97c3ee8c0f14aa4c9a/64_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=76a8aba7e62f98f469249a17843f2ac7",
-          "imageAlt": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[9]",
+          "imageUrl": "https://i.guim.co.uk/img/media/fc4acca6dd6e7bca8e93617ac06895dcbc575f60/382_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=418111f248f68089aa62cb202e869167",
+          "imageAlt": "Newsroom edition: House prices in Australia are falling – will it hurt Labor? – Full Story podcast",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "What a rabbit hole this film takes you down",
-          "summary": "What a rabbit hole this film takes you down. Madfabulous is a biopic of Henry Paget, the fifth Marquess of Anglesey, who was probably mad and definitely fabulous.\n\nHis… The post What a rabbit hole this film takes you down appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/03/the-peaky-blinders-film-is-s. Spectator Australia: None of McCartney’s new songs will trouble his setlist for long.\n\nSpectator Australia reports that on 30 May 1966, the Beatles released ‘Paperback Writer’ – a fortnight after ‘Paint It Black’ by the Rolling Stones… The post None of McCartney’s new songs will trouble his setlist for long appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026.",
+          "title": "The wonder of Nature’s ability to heal itself",
+          "summary": "The wonder of Nature’s ability to heal itself. A decade ago, I planted 12 acres of trees in a field that had proved unsuitable for productive grazing.\n\nThe… The post The wonder of Nature’s ability to heal itself appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/05/portrait-of-an-addict-keshed-by-stu-hen. Spectator Australia: The Battle of Cross Street: High and Low, by Amanda Craig, reviewed.\n\nSpectator Australia reports that writing a state-of-the-nation novel that is also tense and funny is no mean feat, but that’s what Amanda Craig seems… The post The Battle of Cross Street: High and Low, by Amanda Craig, reviewed appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/06/none-of-mccartneys-new-songs-will-trouble-his-setlist-for-long/",
+              "url": "https://www.spectator.com.au/2026/06/the-battle-of-cross-street-high-and-low-by-amanda-craig-reviewed/",
               "source": "Spectator Australia",
-              "headline": "None of McCartney’s new songs will trouble his setlist for long",
-              "excerpt": "On 30 May 1966, the Beatles released ‘Paperback Writer’ – a fortnight after ‘Paint It Black’ by the Rolling Stones… The post None of McCartney’s new songs will trouble his setlist for long appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/PaulMcCartney_Cover_copy.png",
-              "imageAlt": "None of McCartney’s new songs will trouble his setlist for long",
+              "headline": "The Battle of Cross Street: High and Low, by Amanda Craig, reviewed",
+              "excerpt": "Writing a state-of-the-nation novel that is also tense and funny is no mean feat, but that’s what Amanda Craig seems… The post The Battle of Cross Street: High and Low, by Amanda Craig, reviewed appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/3Amanda-Craig-2026.jpg",
+              "imageAlt": "The Battle of Cross Street: High and Low, by Amanda Craig, reviewed",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -496,9 +477,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[10]",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/PaulMcCartney_Cover_copy.png",
-          "imageAlt": "None of McCartney’s new songs will trouble his setlist for long",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[10]",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/3Amanda-Craig-2026.jpg",
+          "imageAlt": "The Battle of Cross Street: High and Low, by Amanda Craig, reviewed",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -507,32 +488,31 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Mira Murati steps back into the spotlight, carefully",
-          "summary": "Mira Murati steps back into the spotlight, carefully. In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+          "summary": "OpenAI has introduced a new feature called Lockdown Mode designed to safeguard sensitive information against prompt injection attacks. This update aims to minimize the risk of confidential data being inadvertently exposed through malicious prompts.\n\nDespite these enhancements, ChatGPT may still remain susceptible to certain types of prompt injections. The primary objective is not complete immunity but rather a significant reduction in the probability that sensitive details are shared during such incidents.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+              "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
               "source": "TechCrunch",
-              "headline": "Mira Murati steps back into the spotlight, carefully",
-              "excerpt": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-              "imageAlt": "Mira Murati steps back into the spotlight, carefully",
+              "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+              "excerpt": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798",
+              "imageAlt": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[11]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-          "imageAlt": "Mira Murati steps back into the spotlight, carefully",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798",
+          "imageAlt": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
           "imageCredit": "TechCrunch"
         },
         {
@@ -559,9 +539,38 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[12]",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[12]",
           "imageUrl": "https://i.guim.co.uk/img/media/46220c650589099f91e2d8734928255c847d145e/402_0_4427_3543/master/4427.jpg?width=140&quality=85&auto=format&fit=max&s=bf789cace56d82a7ca7275e3417308d3",
           "imageAlt": "‘We should not have to sacrifice’: New York could become first state to temporarily ban large datacenters",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett",
+          "summary": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett.\n\nNothing does more for your ego than realising you can make a better decision than a bot with all of human knowledge at its digital fingertips I am not, by nature, an early adopter. There comes a point in our lives where change becomes more irritating than exciting and, I suspect, I reached it sooner than most.\n\nBut when a workplace recently tasked me with exploring practical applications for AI, I spotted an opportunity to cast off my luddite inclinations. It turned out AI was very.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/commentisfree/2026/jun/05/ai-artificial-intelligence-help-with-diy-valuable-lessons",
+              "source": "The Guardian Technology",
+              "headline": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons",
+              "excerpt": "Nothing does more for your ego than realising you can make a better decision than a bot with all of human knowledge at its digital fingertips I am not, by nature, an early adopter. There comes a point in our lives where change becomes more irritating than exciting and, I suspect, I reached it sooner than most. But when a workplace recently tasked me with exploring practical applications for AI, I spotted an opportunity to cast off my luddite inclinations. It turned out AI was very",
+              "imageUrl": "https://i.guim.co.uk/img/media/9385ef37578d73ffa5287d97c3ee8c0f14aa4c9a/64_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=76a8aba7e62f98f469249a17843f2ac7",
+              "imageAlt": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[13]",
+          "imageUrl": "https://i.guim.co.uk/img/media/9385ef37578d73ffa5287d97c3ee8c0f14aa4c9a/64_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=76a8aba7e62f98f469249a17843f2ac7",
+          "imageAlt": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett",
           "imageCredit": "The Guardian"
         },
         {
@@ -588,7 +597,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[13]",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[14]",
           "imageUrl": "https://i.guim.co.uk/img/media/6e1c2389d660df5b46402b1141bfc14cae25429a/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=81bbece985446989e7d6c29242a2f97c",
           "imageAlt": "Labour will make AI ‘work for the workers’, says Liz Kendall",
           "imageCredit": "The Guardian"
@@ -617,38 +626,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[14]",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[15]",
           "imageUrl": "https://i.guim.co.uk/img/media/0a41736a8aab0e4d02c65d8f4a1dd681254ac353/300_236_2775_2221/master/2775.jpg?width=140&quality=85&auto=format&fit=max&s=59d5394645674112cc04faaf8c6001e9",
           "imageAlt": "Are You Watching? review – unflinching, fury-filled interrogation of the vile side of the web",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
-          "summary": "My year with the robots: how Joanna Stern let AI into her home, work – and heart. In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment.\n\nSome of it was useful, some not – but it was her time with a chatbot companion that really shook her For a year, Joanna Stern decided to turn herself into a “lab rat” – the object of her own experiment. Throughout 2025, she invited artificial intelligence into “every corner” of her life.\n\nShe.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai",
-              "source": "The Guardian Technology",
-              "headline": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
-              "excerpt": "In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment. Some of it was useful, some not – but it was her time with a chatbot companion that really shook her For a year, Joanna Stern decided to turn herself into a “lab rat” – the object of her own experiment. Throughout 2025, she invited artificial intelligence into “every corner” of her life. She",
-              "imageUrl": "https://i.guim.co.uk/img/media/4d9ba96429aad6ab98e1760f58b27462ff7186ad/179_0_5901_4720/master/5901.jpg?width=140&quality=85&auto=format&fit=max&s=34746815e5cdf3151383da9b01383082",
-              "imageAlt": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[15]",
-          "imageUrl": "https://i.guim.co.uk/img/media/4d9ba96429aad6ab98e1760f58b27462ff7186ad/179_0_5901_4720/master/5901.jpg?width=140&quality=85&auto=format&fit=max&s=34746815e5cdf3151383da9b01383082",
-          "imageAlt": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
           "imageCredit": "The Guardian"
         }
       ]
@@ -680,43 +660,72 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[16]",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[16]",
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/712523105_990492963939456_5683622086333547431_n.jpg",
           "imageAlt": "Bukidnon tribal leaders reject NPA, reaffirm commitment to peace",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Kanlaon Volcano emits ash Saturday morning; Alert Level 2 stays",
-          "summary": "Kanlaon Volcano emits ash Saturday morning; Alert Level 2 stays. Screenshot of ash emission of Kanlaon Volcano on Saturday, June 6, as captured by IP camera at Kanlaon Volcano Observatory-Canlaon City.\n\n(Video from Phivolcs/Inquirer) MANILA, Philippines — Kanlaon Volcano in Negros Island Region emitted ash on Saturday morning, generating plumes that rose 800 meters above the crater, the Philippine Institute of Volcanology and Seismology (Phivolcs).",
+          "title": "Over 55,000 PNP personnel to be deployed for school opening",
+          "summary": "Over 55,000 PNP personnel to be deployed for school opening.\n\nMANILA, Philippines — As millions of students return to classrooms on Monday, the Philippine National Police (PNP) said it is “fully prepared and strategically positioned” to secure schools nationwide without compromising anti-crime and other public safety operations.\n\nIn a statement on Sunday, PNP chief Jose Melencio Nartatez Jr. gave parents and guardians his assurance that.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2241250/kanlaon-volcano-emits-ash-on-saturday-morning",
+              "url": "https://newsinfo.inquirer.net/2241589/over-55000-pnp-personnel-to-be-deployed-for-school-opening",
               "source": "Philippine Daily Inquirer",
-              "headline": "Kanlaon Volcano emits ash Saturday morning; Alert Level 2 stays",
-              "excerpt": "Screenshot of ash emission of Kanlaon Volcano on Saturday, June 6, as captured by IP camera at Kanlaon Volcano Observatory-Canlaon City. (Video from Phivolcs/Inquirer) MANILA, Philippines — Kanlaon Volcano in Negros Island Region emitted ash on Saturday morning, generating plumes that rose 800 meters above the crater, the Philippine Institute of Volcanology and Seismology (Phivolcs)",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Screenshot-2026-06-06-at-10.21.05-AM.png",
-              "imageAlt": "Kanlaon Volcano emits ash Saturday morning; Alert Level 2 stays",
+              "headline": "Over 55,000 PNP personnel to be deployed for school opening",
+              "excerpt": "MANILA, Philippines — As millions of students return to classrooms on Monday, the Philippine National Police (PNP) said it is “fully prepared and strategically positioned” to secure schools nationwide without compromising anti-crime and other public safety operations. In a statement on Sunday, PNP chief Jose Melencio Nartatez Jr. gave parents and guardians his assurance that",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/nartatez-07june2026.jpg",
+              "imageAlt": "Over 55,000 PNP personnel to be deployed for school opening",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[17]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Screenshot-2026-06-06-at-10.21.05-AM.png",
-          "imageAlt": "Kanlaon Volcano emits ash Saturday morning; Alert Level 2 stays",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[17]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/nartatez-07june2026.jpg",
+          "imageAlt": "Over 55,000 PNP personnel to be deployed for school opening",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Suspect in Maguindanao ambush that left 5 cops dead nabbed in GenSan",
-          "summary": "Suspect in Maguindanao ambush that left 5 cops dead nabbed in GenSan. COTABATO CITY— The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) police announced on Saturday the arrest of a suspected member of the Dawlah Islamiya-Hassan Group (DI-HG) linked to the ambush that killed five police officers in Shariff Aguak, Maguindanao del Sur last March.\n\nBrig. Gen.\n\nChristopher Abecia, director of the Police Regional Office-Bangsamoro Autonomous Region. Philippine Daily Inquirer: Cops seize almost P3-M smuggled cigarettes in Cotabato, GenSan.\n\nPhilippine Daily Inquirer reports that kORONADAL CITY, South Cotabato – What appeared to be an ordinary residence in Barangay Labangal in Gen.\n\nSantos City turned out to be a “secret warehouse” that concealed a sizeable cache of smuggled cigarettes, uncovered during an anti-smuggling operation, police said on Friday, June 5.\n\nBrig. Gen.\n\nAllan Manib",
+          "title": "Zamboanga del Sur sees agriculture growth with P345-M FMR projects",
+          "summary": "Zamboanga del Sur sees agriculture growth with P345-M FMR projects. PAGADIAN CITY, Zamboanga del Sur — The provincial government of Zamboanga del Sur has secured P345 million worth of farm-to-market (FMR) projects, a development seen to enhance agricultural productivity, ease transportation and stimulate economic growth in the area. Gov. Divina Grace Yu said the infrastructure investment will be funded by the Department of Agriculture (DA).",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2241582/zamboanga-del-sur-sees-agriculture-growth-with-p345-m-fmr-projects",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Zamboanga del Sur sees agriculture growth with P345-M FMR projects",
+              "excerpt": "PAGADIAN CITY, Zamboanga del Sur — The provincial government of Zamboanga del Sur has secured P345 million worth of farm-to-market (FMR) projects, a development seen to enhance agricultural productivity, ease transportation and stimulate economic growth in the area. Gov. Divina Grace Yu said the infrastructure investment will be funded by the Department of Agriculture (DA)",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Department-of-Agriculture-and-Zamboanga-del-Sur-officials-signed-the-Memorandum-of-Agreement-for-the-P345-million-farm-to-market-road-projects-last-week-in-Pagadian-City.-Photo-by-Zamboanga-del-Sur-LGU-.jpg",
+              "imageAlt": "Zamboanga del Sur sees agriculture growth with P345-M FMR projects",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[18]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Department-of-Agriculture-and-Zamboanga-del-Sur-officials-signed-the-Memorandum-of-Agreement-for-the-P345-million-farm-to-market-road-projects-last-week-in-Pagadian-City.-Photo-by-Zamboanga-del-Sur-LGU-.jpg",
+          "imageAlt": "Zamboanga del Sur sees agriculture growth with P345-M FMR projects",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "P4.4-M suspected smuggled cigarettes seized; 3 arrested in Lanao del Sur",
+          "summary": "P4.4-M suspected smuggled cigarettes seized; 3 arrested in Lanao del Sur. COTABATO CITY – The police in Malabang, Lanao del Sur intercepted an estimated P4.4 million worth of suspected smuggled cigarettes and arrested three persons on Saturday.\n\nBrig.\n\nGen. Christopher Abecia, director of the Police Regional Office– Bangsamoro Autonomous Region in Muslim Mindanao(PRO-BAR), said suspects were arrested at around 2:30 a.m. at a checkpoint in Barangay.\n\nPhilippine Daily Inquirer: Cops seize almost P3-M smuggled cigarettes in Cotabato, GenSan. Philippine Daily Inquirer reports that kORONADAL CITY, South Cotabato – What appeared to be an ordinary residence in Barangay Labangal in Gen.\n\nSantos City turned out to be a “secret warehouse” that concealed a sizeable cache of smuggled cigarettes, uncovered during an anti-smuggling operation, police said on Friday, June 5.\n\nBrig. Gen.\n\nAllan Manibog,",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2241487/cops-seize-almost-p3-m-smuggled-cigarettes-in-cotabato-gensan",
@@ -738,22 +747,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[18]",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[19]",
           "imageUrl": "https://newsinfo.inquirer.net/files/2025/01/PNP-Philippine-National-Police-22January2025.jpg",
           "imageAlt": "Cops seize almost P3-M smuggled cigarettes in Cotabato, GenSan",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "‘Habagat’ to continue to dampen parts of Luzon",
-          "summary": "‘Habagat’ to continue to dampen parts of Luzon. MANILA – The southwest monsoon or “habagat” will continue to drench parts of Luzon, the weather bureau said Saturday.moderate winds and slight to moderate seas In its 4 a.m. bulletin, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) said the southwest monsoon will bring occasional rains over the Ilocos Region, Abra, Benguet, Zambales, and.\n\nPhilippine Daily Inquirer: Tropical Depression Ester exits PAR Saturday morning. Philippine Daily Inquirer reports that 24-hour tropical cyclone formation outlook issued at 10 a.m. on June 6, 2026.\n\n(Image from Pagasa) MANILA, Philippines — Tropical Depression Ester exited the Philippine area of responsibility (PAR) on Saturday morning, the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) reported in its 10 a.m. bulletin.\n\nREA",
+          "title": "Pagasa: Habagat to bring rains over Luzon, soon to weaken",
+          "summary": "Pagasa: Habagat to bring rains over Luzon, soon to weaken. MANILA, Philippines — The southwest monsoon, or “habagat,” is expected to bring rains over Luzon on Sunday, the state weather bureau said.\n\nIn its 5 a.m. bulletin, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) reported that the southwest monsoon will affect northern and central Luzon. Pagasa said, Ilocos Norte and Ilocos Sur are.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2241271/tropical-depression-ester-exits-par-on-saturday-morning",
+              "url": "https://newsinfo.inquirer.net/2241553/pagasa-habagat-to-bring-some-rains-in-luzon-soon-to-weaken",
               "source": "Philippine Daily Inquirer",
-              "headline": "Tropical Depression Ester exits PAR Saturday morning",
-              "excerpt": "24-hour tropical cyclone formation outlook issued at 10 a.m. on June 6, 2026. (Image from Pagasa) MANILA, Philippines — Tropical Depression Ester exited the Philippine area of responsibility (PAR) on Saturday morning, the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) reported in its 10 a.m. bulletin. READ: Tropical Depression Ester forecast to exit PAR",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/TD-ester-6June2026.jpg",
-              "imageAlt": "Tropical Depression Ester exits PAR Saturday morning",
+              "headline": "Pagasa: Habagat to bring rains over Luzon, soon to weaken",
+              "excerpt": "MANILA, Philippines — The southwest monsoon, or “habagat,” is expected to bring rains over Luzon on Sunday, the state weather bureau said. In its 5 a.m. bulletin, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) reported that the southwest monsoon will affect northern and central Luzon. Pagasa said, Ilocos Norte and Ilocos Sur are",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/11/weather-update-storm32.jpeg",
+              "imageAlt": "Pagasa: Habagat to bring rains over Luzon, soon to weaken",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -767,38 +776,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[19]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/TD-ester-6June2026.jpg",
-          "imageAlt": "Tropical Depression Ester exits PAR Saturday morning",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "P120-M Quezon road projects set to benefit farmers",
-          "summary": "P120-M Quezon road projects set to benefit farmers. LUCENA CITY — Farm-to-market road (FMR) projects worth P120 million in Catanauan, Quezon, are nearing completion and are expected to open soon after an inspection by the Department of Agrarian Reform (DAR).\n\n“Based on our inspection, the roads were well-constructed and comply with proper engineering standards,” Engr.\n\nRandy Frogosa, provincial agrarian reform program officer, said.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2241230/p120-m-quezon-road-projects-set-to-benefit-farmers",
-              "source": "Philippine Daily Inquirer",
-              "headline": "P120-M Quezon road projects set to benefit farmers",
-              "excerpt": "LUCENA CITY — Farm-to-market road (FMR) projects worth P120 million in Catanauan, Quezon, are nearing completion and are expected to open soon after an inspection by the Department of Agrarian Reform (DAR). “Based on our inspection, the roads were well-constructed and comply with proper engineering standards,” Engr. Randy Frogosa, provincial agrarian reform program officer, said",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/infrastructure-Quezon-road-project-6June2026.jpg",
-              "imageAlt": "P120-M Quezon road projects set to benefit farmers",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[20]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/infrastructure-Quezon-road-project-6June2026.jpg",
-          "imageAlt": "P120-M Quezon road projects set to benefit farmers",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[20]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/11/weather-update-storm32.jpeg",
+          "imageAlt": "Pagasa: Habagat to bring rains over Luzon, soon to weaken",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -830,19 +810,19 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[21]"
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[21]"
         },
         {
-          "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
-          "summary": "NSA said to be readying Anthropic’s Mythos for use in cyber operations. The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
+          "title": "Mira Murati steps back into the spotlight, carefully",
+          "summary": "Mira Murati steps back into the spotlight, carefully. In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+              "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
               "source": "TechCrunch",
-              "headline": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
-              "excerpt": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/nsa-surveillance-525618310.jpg?resize=1200,800",
-              "imageAlt": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+              "headline": "Mira Murati steps back into the spotlight, carefully",
+              "excerpt": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+              "imageAlt": "Mira Murati steps back into the spotlight, carefully",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -856,22 +836,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[22]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/nsa-surveillance-525618310.jpg?resize=1200,800",
-          "imageAlt": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[22]",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+          "imageAlt": "Mira Murati steps back into the spotlight, carefully",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?",
-          "summary": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?.\n\nIt should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival.\n\nIt could transform indie film-making, claims the director Next week a breakthrough 75-minute drama about the brutal crackdown in Iran on anti-government protesters in January will premiere at the Tribeca film festival in New York.\n\nIt is called Dreams of Violets</a.",
+          "title": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
+          "summary": "My year with the robots: how Joanna Stern let AI into her home, work – and heart. In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment.\n\nSome of it was useful, some not – but it was her time with a chatbot companion that really shook her For a year, Joanna Stern decided to turn herself into a “lab rat” – the object of her own experiment. Throughout 2025, she invited artificial intelligence into “every corner” of her life.\n\nShe.",
           "links": [
             {
-              "url": "https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival",
+              "url": "https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai",
               "source": "The Guardian Technology",
-              "headline": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?",
-              "excerpt": "It should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival. It could transform indie film-making, claims the director Next week a breakthrough 75-minute drama about the brutal crackdown in Iran on anti-government protesters in January will premiere at the Tribeca film festival in New York. It is called Dreams of Violets</a",
-              "imageUrl": "https://i.guim.co.uk/img/media/9f9e1bc9c855334b0577ddbe82e99ff381f365fb/829_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=d6b18d24726e3be7e540f52a1875e264",
-              "imageAlt": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?",
+              "headline": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
+              "excerpt": "In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment. Some of it was useful, some not – but it was her time with a chatbot companion that really shook her For a year, Joanna Stern decided to turn herself into a “lab rat” – the object of her own experiment. Throughout 2025, she invited artificial intelligence into “every corner” of her life. She",
+              "imageUrl": "https://i.guim.co.uk/img/media/4d9ba96429aad6ab98e1760f58b27462ff7186ad/179_0_5901_4720/master/5901.jpg?width=140&quality=85&auto=format&fit=max&s=34746815e5cdf3151383da9b01383082",
+              "imageAlt": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -885,9 +865,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[23]",
-          "imageUrl": "https://i.guim.co.uk/img/media/9f9e1bc9c855334b0577ddbe82e99ff381f365fb/829_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=d6b18d24726e3be7e540f52a1875e264",
-          "imageAlt": "‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[23]",
+          "imageUrl": "https://i.guim.co.uk/img/media/4d9ba96429aad6ab98e1760f58b27462ff7186ad/179_0_5901_4720/master/5901.jpg?width=140&quality=85&auto=format&fit=max&s=34746815e5cdf3151383da9b01383082",
+          "imageAlt": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
           "imageCredit": "The Guardian"
         },
         {
@@ -914,11 +894,11 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: timeout: timed out; retryError=lm-studio-summary-error: timeout: timed out; summaryBatchSize=1; chunkIndexes=[24]"
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[24]"
         },
         {
           "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-          "summary": "President Trump announced that Colombia has agreed to accept deported migrants, effectively resolving a tariff standoff between the two nations. The agreement marks a significant shift in diplomatic relations and addresses one of the administration's early priorities regarding immigration enforcement.\n\nThe resolution comes as Immigration and Customs Enforcement (ICE) continues aggressive operations, reporting more than 900 arrests on Sunday alone. This surge in enforcement activity underscores the administration's commitment to strict border control measures from the outset of the second term.",
+          "summary": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff. The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
           "links": [
             {
               "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
@@ -939,7 +919,8 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[25]"
         }
       ]
     }
