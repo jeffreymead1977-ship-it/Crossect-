@@ -2,8 +2,900 @@
   "id": "2026-06-09-expanded",
   "date": "2026-06-09",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-09T12:30:51.895082",
+  "generatedAt": "2026-06-09T15:22:18.055420",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-09T12:30:51",
-  "sections": []
+  "updatedAt": "2026-06-09T15:22:18",
+  "sections": [
+    {
+      "name": "World / Geopolitics",
+      "stories": [
+        {
+          "title": "Confirmed Ebola Cases in Africa Rise Above 500",
+          "summary": "The Democratic Republic of Congo is facing its 17th Ebola outbreak since the virus was first identified in 1976, with confirmed cases now exceeding 500. According to the latest World Health Organization update released over the weekend, there are 534 confirmed cases in the affected region.\n\nThe death toll has risen significantly, with reports indicating 93 confirmed fatalities from the initial data and a subsequent climb to 101 deaths as reported by Al Jazeera. The outbreak continues to pose a serious public health challenge for the nation.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/6/9/ebola-death-toll-in-dr-congo-climbs-to-101?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Ebola death toll in DR Congo climbs to 101",
+              "excerpt": "The Democratic Republic of the Congo is grappling with its 17th Ebola outbreak since virus was first identified in 1976.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/14041544-1-1780980905.jpg?resize=1920%2C1440",
+              "imageAlt": "Ebola death toll in DR Congo climbs to 101",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/africa/2026/06/08/confirmed-ebola-cases-in-africa-rise-above-500/",
+              "source": "Breitbart",
+              "headline": "Confirmed Ebola Cases in Africa Rise Above 500",
+              "excerpt": "The latest World Health Organization (W.H.O.) update on the Ebola outbreak centered in Democratic Republic of Congo (DRC) this weekend confirmed 534 cases of the disease in the area, including 93 confirmed deaths. The post Confirmed Ebola Cases in Africa Rise Above 500 appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/ebola-in-africa-640x335.jpg",
+              "imageAlt": "Confirmed Ebola Cases in Africa Rise Above 500",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/14041544-1-1780980905.jpg?resize=1920%2C1440",
+          "imageAlt": "Ebola death toll in DR Congo climbs to 101",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Peru Presidential Election Too Close to Call as Slow Vote Count Continues",
+          "summary": "Peru's presidential runoff election remains too close to call as vote counting continues at a slow pace. Conservative candidate Keiko Fujimori currently holds a narrow lead over far-left contender Roberto Helbert Sánchez Palomino.\n\nThe race has been heavily influenced by voter concerns regarding crime and political instability throughout the country. Both candidates are vying for the presidency in a tightly contested second-round vote that keeps observers waiting for final results.",
+          "links": [
+            {
+              "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Peru election result close as vote counting continues",
+              "excerpt": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c596/live/76071270-6304-11f1-89a3-d1f559421220.jpg",
+              "imageAlt": "Peru election result close as vote counting continues",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/latin-america/2026/06/08/peru-runoff-election-too-close-to-call-slow-vote-count-continues/",
+              "source": "Breitbart",
+              "headline": "Peru Presidential Election Too Close to Call as Slow Vote Count Continues",
+              "excerpt": "Conservative Keiko Fujimori maintains a narrow lead against far-left Roberto Helbert Sánchez Palomino in Peru's presidential runoff. The post Peru Presidential Election Too Close to Call as Slow Vote Count Continues appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/Peru-presidential-runoff-2-640x335.jpg",
+              "imageAlt": "Peru Presidential Election Too Close to Call as Slow Vote Count Continues",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c596/live/76071270-6304-11f1-89a3-d1f559421220.jpg",
+          "imageAlt": "Peru election result close as vote counting continues",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military",
+          "summary": "The Pentagon has designated several major Chinese corporations, including Alibaba, BYD, and Baidu, as Chinese military companies. This classification effectively bars these firms from securing U.S. defense contracts.\n\nThe move targets prominent entities in the technology and electric vehicle sectors, signaling an escalation in economic restrictions between Washington and Beijing. By adding these companies to the list, the U.S. government aims to limit their access to American markets tied to national security.\n\nIn response, the Chinese embassy in Washington, D.C., strongly condemned the designations. Officials described the action as discriminatory, arguing that it unfairly targets legitimate commercial enterprises without sufficient justification.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
+              "excerpt": "Chinese embassy in Washington, DC, condemns designation, calling it 'discriminatory'.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP25253428993102-1780985465.jpg?resize=1920%2C1440",
+              "imageAlt": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/8/pentagon-labels-tech-giant-alibaba-electric-car-maker-byd-aiding/",
+              "source": "Washington Times",
+              "headline": "Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military",
+              "excerpt": "The Pentagon has added several prominent Chinese businesses, including the tech giant Alibaba, electric car maker BYD and search engine Baidu, to its list of Chinese military companies, preventing them from getting U.S. defense contracts.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/05/13/Alibaba_Earnings_71541_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Pentagon labels tech giant Alibaba and electric car maker BYD as aiding Chinese military",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP25253428993102-1780985465.jpg?resize=1920%2C1440",
+          "imageAlt": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "ICC chief prosecutor suspended pending decision by oversight body over sexual misconduct allegations",
+          "summary": "The International Criminal Court has suspended its chief prosecutor, Karim Khan, pending a decision by an oversight body regarding sexual misconduct allegations against him. The suspension was implemented late Monday after the court's governing body referred Khan to formal disciplinary proceedings before member states.\n\nKhan has publicly rejected the suspension as he faces these internal disciplinary measures. The referral marks a significant development in the ongoing scrutiny of the ICC leadership, with the oversight body now tasked with reviewing the claims before any final determination is made by the assembly of member states.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/6/9/icc-prosecutor-suspended-pending-vote-on-sexual-misconduct-claims?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "ICC prosecutor suspended pending vote on sexual misconduct claims",
+              "excerpt": "Karim Khan rejects suspension as ICC governing body refers him to disciplinary proceedings before member states.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2025-01-16T135023Z_464231263_RC2XACAJMECS_RTRMADP_3_ISRAEL-PALESTINIANS-ICC-KHAN-1780963689.jpg?resize=1920%2C1440",
+              "imageAlt": "ICC prosecutor suspended pending vote on sexual misconduct claims",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/8/karim-khan-suspended-pending-decision-oversight-body-sexual/",
+              "source": "Washington Times",
+              "headline": "ICC chief prosecutor suspended pending decision by oversight body over sexual misconduct allegations",
+              "excerpt": "The embattled chief prosecutor of the International Criminal Court was suspended from his duties late Monday, after the court's oversight body referred Karim Khan for disciplinary proceedings.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/08/ICC_Prosecutor_43335_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "ICC chief prosecutor suspended pending decision by oversight body over sexual misconduct allegations",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2025-01-16T135023Z_464231263_RC2XACAJMECS_RTRMADP_3_ISRAEL-PALESTINIANS-ICC-KHAN-1780963689.jpg?resize=1920%2C1440",
+          "imageAlt": "ICC prosecutor suspended pending vote on sexual misconduct claims",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Armenia's pro-West government wins election despite Russian pressure",
+          "summary": "Armenia's pro-Western government has secured a decisive victory in the country's recent parliamentary election, reinforcing Prime Minister Nikol Pashinyan's mandate despite ongoing geopolitical pressures from Russia. The Civil Contract Party, led by Pashinyan, captured nearly half of the total vote share, significantly outpacing its political rivals and ensuring a comfortable majority in the legislature.\n\nWhile BBC reporting highlights the broad consensus behind the pro-Western administration, alternative outlets such as Breitbart have framed the outcome as a clear endorsement of closer ties with the United States. Pashinyan publicly declared victory on Monday, citing the 51 percent vote tally as evidence of strong public support for his administration's foreign policy direction.\n\nThe election results underscore Armenia's continued strategic pivot away from traditional Russian influence and toward Western institutions. This shift comes amid heightened regional tensions and ongoing diplomatic friction with Moscow, marking a significant development in the country's geopolitical alignment.",
+          "links": [
+            {
+              "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Armenia's pro-West government wins election despite Russian pressure",
+              "excerpt": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1783/live/0075ad00-630e-11f1-89a3-d1f559421220.jpg",
+              "imageAlt": "Armenia's pro-West government wins election despite Russian pressure",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/asia/2026/06/08/armenia-pro-u-s-prime-minister-declares-election-victory/",
+              "source": "Breitbart",
+              "headline": "Armenia: Pro-U.S. Prime Minister Declares Election Victory",
+              "excerpt": "Armenian Prime Minister Nikol Pashinyan declared victory for himself and Civil Contract party on Monday, winning 51% of the vote. The post Armenia: Pro-U.S. Prime Minister Declares Election Victory appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/Nikol-Pashinyan-640x335.jpg",
+              "imageAlt": "Armenia: Pro-U.S. Prime Minister Declares Election Victory",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1783/live/0075ad00-630e-11f1-89a3-d1f559421220.jpg",
+          "imageAlt": "Armenia's pro-West government wins election despite Russian pressure",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Trump nominates Todd Blanche as US attorney general, teeing up Senate fight",
+          "summary": "President Donald Trump has formally nominated Todd Blanche to serve as the permanent U.S. attorney general, a move that is expected to trigger a contentious confirmation battle in the Senate.\n\nBlanche currently holds the position of acting attorney general and has already drawn scrutiny regarding his handling of sensitive matters, including the release of files related to Jeffrey Epstein and issues surrounding January 6.\n\nThe Washington Times reported on Monday that the nomination sets the stage for significant political friction as lawmakers prepare to evaluate Blanche's qualifications and past decisions.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/6/8/trump-nominates-todd-blanche-as-attorney-general-setting-up-senate-fight?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump nominates Todd Blanche as US attorney general, teeing up Senate fight",
+              "excerpt": "Blanche, who currently serves as acting attorney general, has faced controversy over the Epstein files and January 6.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a273b3e-1780955966.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump nominates Todd Blanche as US attorney general, teeing up Senate fight",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/8/trump-nominates-todd-blanche-permanent-post-attorney-general/",
+              "source": "Washington Times",
+              "headline": "Trump nominates Todd Blanche to permanent post as attorney general",
+              "excerpt": "President Trump on Monday formally nominated Todd Blanche to be the U.S. attorney general, setting up a Senate confirmation battle.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/02/APTOPIX_Congress_Blanche_966__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump nominates Todd Blanche to permanent post as attorney general",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a273b3e-1780955966.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump nominates Todd Blanche as US attorney general, teeing up Senate fight",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "What to know about Nithya Raman, the LA mayoral candidate set to face Karen Bass in November",
+          "summary": "Los Angeles Mayor Karen Bass and City Councilwoman Nithya Raman have advanced to the November runoff election after a crowded primary. The results confirm that the two Democrats will face off in the general election, ending the campaign of reality TV personality Spencer Pratt.\n\nRaman secured second place with approximately 93% of votes counted, narrowly defeating Pratt who finished third. This outcome sets up a contest between the incumbent mayor and a progressive council member who previously served as an ally to Bass.",
+          "links": [
+            {
+              "url": "https://www.foxnews.com/politics/la-mayoral-race-heads-november-runoff-karen-bass-faces-mamdani-style-socialist",
+              "source": "Fox News",
+              "headline": "LA mayoral race heads to November runoff as Karen Bass faces Mamdani-style socialist",
+              "excerpt": "Karen Bass and Nithya Raman will face off in LA's November mayoral general election after advancing from a competitive primary.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Nithya-Raman-and-Karen-Bass.jpeg?ve=1&tl=1",
+              "imageAlt": "LA mayoral race heads to November runoff as Karen Bass faces Mamdani-style socialist",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4590328/los-angeles-mayoral-race-nithya-raman-karen-bass/",
+              "source": "Washington Examiner",
+              "headline": "Los Angeles mayoral primary results: Spencer Pratt upstart campaign falls short",
+              "excerpt": "LOS ANGELES — Mayor Karen Bass and Councilwoman Nithya Raman, both Democrats, advanced to the general election in the city’s mayoral race on Tuesday, setting up a clash between one-time political allies and ending the hopes of reality TV star Spencer Pratt. With roughly 93% of the vote counted, Bass and Raman led a crowded […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/image-collage-h08lbvbfo-1780964762721.jpg?1780950423&w=696",
+              "imageAlt": "Los Angeles mayoral primary results: Spencer Pratt upstart campaign falls short",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/8/spencer-pratt-slips-third-la-mayors-race-mail-ballots-reshape-results/",
+              "source": "Washington Times",
+              "headline": "Raman clinches spot in Los Angeles maoral runoff against Bass, as Pratt slips to third",
+              "excerpt": "Nithya Raman, a progressive Los Angeles City Council member, has edged out reality-TV star Spencer Pratt in the city's mayoral primary and will run off against incumbent Mayor Karen Bass in November.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/03/Election_2_26_Los_Angeles_Mayor_81_34_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Raman clinches spot in Los Angeles maoral runoff against Bass, as Pratt slips to third",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Nithya-Raman-and-Karen-Bass.jpeg?ve=1&tl=1",
+          "imageAlt": "LA mayoral race heads to November runoff as Karen Bass faces Mamdani-style socialist",
+          "imageCredit": "Fox News"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "title": "The tyranny of Pride is coming to an end",
+          "summary": "The Spectator Australia has published an article titled \"The logical fallacy of Artificial Intelligence,\" addressing the pervasive nature of AI discourse in recent years. The piece suggests that individuals online have likely encountered a constant stream of advertisements, articles, and enthusiastic commentary surrounding artificial intelligence.\n\nThis coverage highlights the saturation of AI-related content across digital platforms over the past couple of years. The publication frames this phenomenon as potentially excessive, inviting readers to consider the underlying assumptions and logical structures within popular AI narratives.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/06/the-logical-fallacy-of-artificial-intelligence/",
+              "source": "Spectator Australia",
+              "headline": "The logical fallacy of Artificial Intelligence",
+              "excerpt": "If you have been online in the last couple of years, you have probably been bombarded with advertisements, articles, over-enthusiastic… The post The logical fallacy of Artificial Intelligence appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/god-king",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages-2278706914.jpg",
+              "imageAlt": "The logical fallacy of Artificial Intelligence",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages-2278706914.jpg",
+          "imageAlt": "The logical fallacy of Artificial Intelligence",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "ABC boss confirms ex-news director in the dark about replacement hunt",
+          "summary": "ABC Managing Director Hugh Marks confirmed that former news director Justin Stevens was unaware of the corporation's search for his replacement following his sudden resignation last month. The revelation emerged during an interview with Sally Sara, where Marks addressed questions regarding the leadership transition and recent internal controversies.\n\nThe discussion also touched on broader issues affecting the broadcaster, including the hiring of Grace Tame and subsequent remarks made by radio host Charlie Pickering. These topics were raised alongside the details of Stevens's departure, highlighting ongoing scrutiny of ABC's management decisions.",
+          "links": [
+            {
+              "url": "https://www.abc.net.au/news/2026-06-09/abc-news-hugh-marks-radio-interview-details-justin-stevens-exit/106775434",
+              "source": "ABC Australia",
+              "headline": "ABC boss confirms ex-news director in the dark about replacement hunt",
+              "excerpt": "Managing director Hugh Marks is questioned by Sally Sara over Justin Stevens's sudden resignation last month, in addition to controversies over the hiring of Grace Tame and subsequent comments by radio host Charlie Pickering.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2736fe1226f36beff9f13709e833b83b?impolicy=wcms_crop_resize&cropH=814&cropW=1447&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "ABC boss confirms ex-news director in the dark about replacement hunt",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2736fe1226f36beff9f13709e833b83b?impolicy=wcms_crop_resize&cropH=814&cropW=1447&xPos=0&yPos=0&width=862&height=485",
+          "imageAlt": "ABC boss confirms ex-news director in the dark about replacement hunt",
+          "imageCredit": "ABC News"
+        },
+        {
+          "title": "The hill I will die on: Marmite is an insipid English imitation of Vegemite – the true Aussie hero | Kathy Lette",
+          "summary": "Kathy Lette argues that Vegemite is the superior spread, dismissing Marmite as an insipid English imitation. She characterizes Marmite's marketing question of whether consumers love or hate it as irrelevant compared to Vegemite's indifference.\n\nLette describes Vegemite as a culinary mainstay for Australians, curing ailments ranging from homesickness to heartbreak. She notes that the spread unites people across all social strata, from plebeians to prime ministers.\n\nThe author compares the cultural significance of the two products by likening Marmite to a negligible knoll and Vegemite to a substantial hill. She asserts that this preference aligns with the dry nature of Australian humour.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/commentisfree/2026/jun/09/hill-i-will-die-on-marmite-insipid-english-imitation-vegemite-true-aussie-hero",
+              "source": "The Guardian Australia",
+              "headline": "The hill I will die on: Marmite is an insipid English imitation of Vegemite – the true Aussie hero",
+              "excerpt": "Marmite asks: ‘Do you love me or hate me?’ Vegemite couldn’t give a stuff. It’s as dry as our Aussie humour, and I wouldn’t have it any other way The hill I would die on is made of Vegemite. Marmite is a minuscule mound in comparison. A hapless hillock. A negligible knoll. Vegemite is Australian penicillin. It cures everything from homesickness to heartbreak. From pleb to celeb and prime minister to prisoner, Vegemite is our culinary mainstay. Aussies are not that big on etiquette",
+              "imageUrl": "https://i.guim.co.uk/img/media/9e994b6d86ab953dbd65b4705f38915c84dc3948/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e2d138d518d4915c31a9fd739a40b072",
+              "imageAlt": "The hill I will die on: Marmite is an insipid English imitation of Vegemite – the true Aussie hero | Kathy Lette",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/9e994b6d86ab953dbd65b4705f38915c84dc3948/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e2d138d518d4915c31a9fd739a40b072",
+          "imageAlt": "The hill I will die on: Marmite is an insipid English imitation of Vegemite – the true Aussie hero | Kathy Lette",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Will robots simply bore us to extinction?",
+          "summary": "The Spectator Australia has published a piece titled 'From settlers to bludgers,' exploring the author's ancestral history in Australia. The article notes that the writer's forebears arrived from Scotland and Ireland approximately 150 years ago, describing them as tillers of the land.\n\nThis historical reflection is presented alongside other content on the publication's platform, including a discussion on whether robots might eventually bore humanity to extinction. That separate piece examines early reactions to the rise of generative AI tools like ChatGPT and Claude, suggesting that initial enthusiasm from tech leaders may have shifted over time.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/06/from-settlers-to-bludgers/",
+              "source": "Spectator Australia",
+              "headline": "From settlers to bludgers",
+              "excerpt": "My forebears came to this wide brown land from Scotland and Ireland around 150 years ago. They were tillers of… The post From settlers to bludgers appeared first on The Spectator Australia . What to read next: Is Musk’s SpaceX set to",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2023/02/captain-cook3.jpg",
+              "imageAlt": "From settlers to bludgers",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2023/02/captain-cook3.jpg",
+          "imageAlt": "From settlers to bludgers",
+          "imageCredit": "Spectator Australia"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "stories": [
+        {
+          "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+          "summary": "Apple is introducing a new Siri in Camera feature designed to simplify the process of splitting restaurant bills. The functionality allows users to point their iPhone camera at a receipt and use visual recognition to identify individual items ordered by each person.\n\nAccording to Apple VP of Software Sebastien Marineau-Mes, this integration streamlines payments through Apple Cash. Users can select specific line items corresponding to their meals, enabling accurate cost distribution among friends without manual calculation.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+              "source": "TechCrunch",
+              "headline": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+              "excerpt": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?resize=1200,666",
+              "imageAlt": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?resize=1200,666",
+          "imageAlt": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Revealed: the ‘less lethal’ weapons Australian police don’t want you to know about",
+          "summary": "An investigation has revealed that Australian police forces are utilizing a range of 'less lethal' weapons against crowds with minimal public scrutiny. These tools include launchers firing bullet-like missiles, chemical irritants designed to burn the eyes and throat, flashbang grenades, and teargas.\n\nExperts warn that despite their classification as non-lethal, these devices can cause serious injury or even death. In Victoria, police have declined to publicly disclose the specific make and model of their rubber bullets and other less lethal equipment.\n\nThe deployment of such weaponry raises significant concerns regarding accountability and safety standards in crowd control situations.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/jun/09/australia-police-less-lethal-weapons-tasers-pepper-spray-crowds",
+              "source": "The Guardian Technology",
+              "headline": "Revealed: the ‘less lethal’ weapons Australian police don’t want you to know about",
+              "excerpt": "Launchers that shoot ‘bullet-like missiles’, chemical irritants and stinger grenades: experts say these weapons can cause serious injury or even death. But they are deployed by police against crowds with little scrutiny Projectiles that release powder designed to burn the eyes and throat. Flashbang grenades. Teargas. Launchers that resemble semi-automatic rifles. In Victoria, police have refused to publicly provide the make and model of their rubber bullets and other weapons <a hr",
+              "imageUrl": "https://i.guim.co.uk/img/media/1cd079b8c603d7f99834237f24d916d551fc38d2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b2e9c2f852f4a25d72229ba4ec249c6f",
+              "imageAlt": "Revealed: the ‘less lethal’ weapons Australian police don’t want you to know about",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/1cd079b8c603d7f99834237f24d916d551fc38d2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b2e9c2f852f4a25d72229ba4ec249c6f",
+          "imageAlt": "Revealed: the ‘less lethal’ weapons Australian police don’t want you to know about",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "World’s first wind-powered underwater datacentre starts operating in China",
+          "summary": "The world’s first wind-powered underwater datacentre has commenced operations off the coast of Shanghai, marking a significant step in addressing energy demands driven by China's expanding artificial intelligence sector. The Shanghai Lingang undersea datacentre demonstration project officially launched in May and operates with a capacity of 24 megawatts.\n\nDeveloped as a joint initiative between HiCloud Technology and China Communications Services, the facility is designed to consume significantly less power and water compared to traditional land-based equivalents. This innovation represents an attempt to mitigate the environmental impact of growing computational needs while leveraging renewable energy sources in a marine environment.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china",
+              "source": "The Guardian Technology",
+              "headline": "World’s first wind-powered underwater datacentre starts operating in China",
+              "excerpt": "Datacentre off Shanghai coast uses less power and water than land-based equivalent The world’s first wind-powered underwater datacentre has started operations off the coast of Shanghai, as China presses forwards with solutions for energy challenges created by the country’s artificial intelligence boom. The Shanghai Lingang undersea datacentre demonstration project, which launched in May, has a capacity of 24 megawatts. It is a joint effort between HiCloud Technology and China Com",
+              "imageUrl": "https://i.guim.co.uk/img/media/b1257a3924a3d4b6e9c06dece08497f8e5cf0e7b/176_0_4880_3904/master/4880.jpg?width=140&quality=85&auto=format&fit=max&s=7bd4814be3e388aa3c0b20bb602f13f9",
+              "imageAlt": "World’s first wind-powered underwater datacentre starts operating in China",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/b1257a3924a3d4b6e9c06dece08497f8e5cf0e7b/176_0_4880_3904/master/4880.jpg?width=140&quality=85&auto=format&fit=max&s=7bd4814be3e388aa3c0b20bb602f13f9",
+          "imageAlt": "World’s first wind-powered underwater datacentre starts operating in China",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Child sexual abuse victims in England and Wales to get help to remove online images",
+          "summary": "Victims of child sexual abuse in England and Wales will receive assistance to remove online images of their abuse, according to a new initiative aimed at ending the prolonged suffering of survivors. The Echo project is designed to help those who have reported their crimes to the police identify and erase these images from the internet.\n\nThis effort is part of a broader package of support that includes trauma counseling for victims. By addressing both the digital footprint of the abuse and the psychological impact, authorities hope to provide comprehensive care to those affected.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/uk-news/2026/jun/09/child-sexual-abuse-victims-in-england-and-wales-to-get-help-to-remove-online-images",
+              "source": "The Guardian Technology",
+              "headline": "Child sexual abuse victims in England and Wales to get help to remove online images",
+              "excerpt": "Echo project will help erase images as part of package of support to end ‘prolonged suffering of survivors’ Victims of child sexual abuse in England and Wales will be given help to remove online images of their abuse as part of a wider package of support to end the “prolonged suffering of survivors”. The Echo project will help those who have reported their abuse to the police to identify and remove images of abuse online. They will also be given trauma support, the possibility of",
+              "imageUrl": "https://i.guim.co.uk/img/media/165f9eb481d56add98bf30e3af196ff6bf77bba8/0_0_6478_5181/master/6478.jpg?width=140&quality=85&auto=format&fit=max&s=2d75de0c6d7ba6aa595ba241a668147d",
+              "imageAlt": "Child sexual abuse victims in England and Wales to get help to remove online images",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/165f9eb481d56add98bf30e3af196ff6bf77bba8/0_0_6478_5181/master/6478.jpg?width=140&quality=85&auto=format&fit=max&s=2d75de0c6d7ba6aa595ba241a668147d",
+          "imageAlt": "Child sexual abuse victims in England and Wales to get help to remove online images",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Apple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads",
+          "summary": "Apple has unveiled a significant overhaul of its Siri voice assistant, integrating it with the company’s Apple Intelligence platform and rebranding it as “Siri AI.” The announcement was made during Tim Cook’s final keynote address at the annual WWDC developer conference. This major update follows years of user anticipation, frustration, and previous false starts regarding the assistant's capabilities.\n\nThe revamped Siri is scheduled for a wide release in the fall. Alongside the AI enhancements, Apple introduced new child safety features designed for iPhones and iPads.\n\nThese additions aim to address growing concerns about digital security and appropriate content filtering for younger users.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/08/apple-debuts-siri-ai-child-safety-features-wwdc",
+              "source": "The Guardian Technology",
+              "headline": "Apple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads",
+              "excerpt": "At his final WWDC keynote, Tim Cook highlights AI-forward upgrade to the voice assistant to be widely released in fall After years of anticipation, user frustration and false starts, Apple announced a major upgrade to Siri at its annual developer conference on Monday. The voice assistant will come integrated with Apple’s artificial intelligence tool, Apple Intelligence, and has been rechristened “Siri AI”. The new Siri, which will be widely released in the fall, will more closely",
+              "imageUrl": "https://i.guim.co.uk/img/media/b0b7dfbabdeb6c45806024fbb5ff29a0fb39b9fa/431_0_4313_3451/master/4313.jpg?width=140&quality=85&auto=format&fit=max&s=1a8a3f9ab090670f3b60f4cafd37e827",
+              "imageAlt": "Apple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/b0b7dfbabdeb6c45806024fbb5ff29a0fb39b9fa/431_0_4313_3451/master/4313.jpg?width=140&quality=85&auto=format&fit=max&s=1a8a3f9ab090670f3b60f4cafd37e827",
+          "imageAlt": "Apple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Authorities uproot 800 marijuana plants in Bukidnon town",
+          "summary": "Authorities in Bukidnon, Philippines, dismantled a marijuana cultivation site during an anti-drug operation on Monday. The raid targeted Sitio Salumayag in Barangay Halapitan, San Fernando, where 800 fully grown plants were found and uprooted.\n\nPolice Captain Sheila Joy Jangad of the Bukidnon Provincial Police Office confirmed that the 2nd Bukidnon Provincial Police conducted the joint operation. The area is described as remote and mountainous, which likely facilitated the hidden cultivation.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2243254/authorities-uproot-800-marijuana-plants-in-bukidnon-town",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Authorities uproot 800 marijuana plants in Bukidnon town",
+              "excerpt": "SAN FERNANDO, Bukidnon — Government authorities uprooted 800 fully grown marijuana plants during an anti-illegal drugs operation in the remote and mountainous area of Sitio Salumayag, Barangay Halapitan, San Fernando, Bukidnon, on Monday. According to Police Captain Sheila Joy Jangad, Bukidnon Provincial Police Office spokesperson, the operation was conducted jointly by the 2nd Bukidnon Provincial",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Authorities-uproot-800-marijuana-plants-in-Bukidnon-town.png",
+              "imageAlt": "Authorities uproot 800 marijuana plants in Bukidnon town",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Authorities-uproot-800-marijuana-plants-in-Bukidnon-town.png",
+          "imageAlt": "Authorities uproot 800 marijuana plants in Bukidnon town",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "SC suspends court operations in Mindanao after powerful earthquake",
+          "summary": "The Supreme Court has announced the continued suspension of court operations across Mindanao following a powerful earthquake that struck off the southern coast on Monday. The advisory, shared under the hashtag #SCPhWalangPasok, indicates that localized closures remain in effect as infrastructure damage persists.\n\nIn response to the disaster, the Department of Health reported that patients have been returned to hospitals in Sarangani. This move comes a day after the quake forced evacuations for safety reasons.\n\nAmong the facilities resuming operations is the Malungon Sarangani Provincial Hospital.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2243432/fwd-doh-several-patients-brought-back-inside-hospitals-in-sarangani-after-deadly-earthquake-2",
+              "source": "Philippine Daily Inquirer",
+              "headline": "DOH: Patients brought back inside Sarangani hospitals after earthquake",
+              "excerpt": "MANILA, Philippines — Patients have been brought back inside the hospitals in Sarangani, a day after a deadly earthquake struck off its coast on Monday and forced them out for safety, according to the Department of Health (DOH) on Tuesday. The DOH said that among these hospitals is Malungon Sarangani Provincial Hospital. Sarangani is one",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/image-17.png",
+              "imageAlt": "DOH: Patients brought back inside Sarangani hospitals after earthquake",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/image-17.png",
+          "imageAlt": "DOH: Patients brought back inside Sarangani hospitals after earthquake",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "LTFRB orders inspection of transport hubs affected by Mindanao quake",
+          "summary": "The Land Transportation Franchising and Regulatory Board (LTFRB) has directed its Regional Franchising and Regulatory Offices to conduct structural integrity inspections of public transportation hubs in areas impacted by a recent earthquake in Mindanao. The directive follows the deadly tremor that struck the region on Monday morning.\n\nLTFRB Chairperson Atty. Vigor Mendoza II issued the order, instructing regional office heads in Davao and other affected zones to prioritize these assessments.\n\nThe move aims to ensure the safety of commuters and infrastructure following the seismic event.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2243265/ltfrb-orders-inspection-of-transport-hubs-affected-by-deadly-mindanao-quake",
+              "source": "Philippine Daily Inquirer",
+              "headline": "LTFRB orders inspection of transport hubs affected by Mindanao quake",
+              "excerpt": "MANILA, Philippines — The Land Transportation Franchising and Regulatory Board (LTFRB) has ordered its Regional Franchising and Regulatory Offices (RFROs) to conduct structural integrity inspection of public transportation hubs in areas affected by the deadly earthquake in Mindanao on Monday morning. LTFRB Chairperson Atty. Vigor Mendoza II said the heads of the RFROs in Davao",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/The-damaged-highway-that-connects-Tboli-South-Cotabato-and-General-Santos-City-was-rendered-impassable-after-the-paved-road-collapsed-due-to-the-magnitude-7.8-earthquake-8June2026.png",
+              "imageAlt": "LTFRB orders inspection of transport hubs affected by Mindanao quake",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/The-damaged-highway-that-connects-Tboli-South-Cotabato-and-General-Santos-City-was-rendered-impassable-after-the-paved-road-collapsed-due-to-the-magnitude-7.8-earthquake-8June2026.png",
+          "imageAlt": "LTFRB orders inspection of transport hubs affected by Mindanao quake",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Analyst tracks why Marcos ratings sank most in Mindanao",
+          "summary": "President Ferdinand Marcos Jr.’s satisfaction ratings have dropped to their lowest level since he assumed office in 2022, according to the latest survey conducted by Social Weather Stations (SWS). The decline was most pronounced in Mindanao, where his approval numbers deteriorated significantly more than in other regions of the Philippines.\n\nAn analysis of regional data from SWS highlights a sharp contrast between Mindanao and other parts of the country. While Marcos’ ratings have weakened nationwide, the steepest fall is concentrated in Mindanao, suggesting localized factors may be driving public dissatisfaction.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2243261/analyst-tracks-why-marcos-ratings-sank-most-in-mindanao",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Analyst tracks why Marcos ratings sank most in Mindanao",
+              "excerpt": "MANILA, Philippines — President Ferdinand Marcos Jr.’s satisfaction ratings fell to their lowest level since he took office in 2022, according to the latest Social Weather Stations (SWS) survey, with the steepest deterioration coming from Mindanao. An examination of SWS regional data shows Marcos’ satisfaction ratings have weakened far more sharply in Mindanao than in",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/marcos-survey-inqfocus.png",
+              "imageAlt": "Analyst tracks why Marcos ratings sank most in Mindanao",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/marcos-survey-inqfocus.png",
+          "imageAlt": "Analyst tracks why Marcos ratings sank most in Mindanao",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "LIST: Canceled flights on Tuesday, June 9 due to Mindanao earthquake",
+          "summary": "Several flights to and from General Santos City were canceled on Tuesday, June 9, as the airport remained closed to commercial operations following a magnitude 7.8 earthquake that struck off Sarangani on Monday.\n\nThe Civil Aviation Authority of the Philippines issued an advisory confirming the suspension of services while assessments continued.\n\nA day after the powerful quake, General Santos City was still reeling from widespread destruction, with many structures brought down across the area.\n\nMost businesses in the downtown district remained closed at 9:45 a.m., including numerous establishments along main thoroughfares such as Pioneer Avenue, Santiago Boulevard, and Catolico.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2243280/a-day-after-the-mindanao-earthquake-gensan-reels-from-destruction",
+              "source": "Philippine Daily Inquirer",
+              "headline": "A day after the Mindanao earthquake: GenSan reels from destruction",
+              "excerpt": "General Santos City – A day after the powerful magnitude 7.8 earthquake that brought down many structures here, the city is still reeling from the destruction. Most of the businesses in the downtown area were still closed at 9:45 a.m. on Tuesday. Many businesses along the main Pioneer Avenue, Santiago Boulevard, and Catolico were seen",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/The-bus-terminal-in-Bulaong-Avenue-in-General-Santos-City-was-closed-to-give-way-to-structural-integrity-inspections-9june2026.png",
+              "imageAlt": "A day after the Mindanao earthquake: GenSan reels from destruction",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/The-bus-terminal-in-Bulaong-Avenue-in-General-Santos-City-was-closed-to-give-way-to-structural-integrity-inspections-9june2026.png",
+          "imageAlt": "A day after the Mindanao earthquake: GenSan reels from destruction",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+          "summary": "Rwandan-backed rebels have advanced into Goma, a major city in the eastern Democratic Republic of Congo that had been considered a safe haven for displaced civilians. Residents reported hearing gunfire and shelling as the M23 rebel group overran positions held by Congolese government troops.\n\nThe incursion has triggered a significant humanitarian crisis within the urban center. United Nations officials estimate that more than one million internally displaced people are now sheltering inside Goma, facing immediate danger from the escalating conflict.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+              "source": "Wall Street Journal",
+              "headline": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "excerpt": "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops. U.N. officials estimated that more than one million displaced people were now inside the city.",
+              "imageUrl": "",
+              "imageAlt": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+        },
+        {
+          "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+          "summary": "Apple’s recent WWDC keynote showcased a series of AI demonstrations that appeared notably more authentic to observers. This shift in presentation style follows the company's resolution of a $250 million settlement regarding false advertising claims.\n\nThe overall atmosphere of the 2026 event was described as reminiscent of a spouse proudly detailing completed household tasks. A specific example highlighted during the keynote involved multiple demonstrations featuring users standing while holding their phones, suggesting a move toward more realistic usage scenarios.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+              "source": "TechCrunch",
+              "headline": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+              "excerpt": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?resize=1200,677",
+              "imageAlt": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?resize=1200,677",
+          "imageAlt": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Silicon Valley including Meta has embraced Maga politics, says Nick Clegg",
+          "summary": "Nick Clegg, Meta’s former head of global affairs, has stated that Silicon Valley companies including Meta have embraced MAGA politics. Speaking on The Rest is Money podcast, the former UK deputy prime minister suggested some executives pivoted right for self-interested reasons.\n\nClegg noted that his nearly seven-year tenure at the tech giant concluded when he felt it was an appropriate time to depart. His comments highlight a shift in political alignment among major technology firms.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/politics/2026/jun/08/silicon-valley-meta-maga-politics-nick-clegg",
+              "source": "The Guardian Technology",
+              "headline": "Silicon Valley including Meta has embraced Maga politics, says Nick Clegg",
+              "excerpt": "Meta’s former head of global affairs says executives pivoted right in some cases for ‘rather more self-interested’ reasons Silicon Valley companies including Meta have decided to embrace Maga politics, some for “rather more self-interested” reasons, the former UK deputy prime minister Nick Clegg has said. Clegg, who spent nearly seven years at Meta as the head of global affairs, told The Rest is Money podcast that it felt like “a very good time for me to move on” when he left the",
+              "imageUrl": "https://i.guim.co.uk/img/media/08512db3c6c5392283771859f38473c090d637d5/610_0_5759_4608/master/5759.jpg?width=140&quality=85&auto=format&fit=max&s=90dbae610968fee32d817d00608483bd",
+              "imageAlt": "Silicon Valley including Meta has embraced Maga politics, says Nick Clegg",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/08512db3c6c5392283771859f38473c090d637d5/610_0_5759_4608/master/5759.jpg?width=140&quality=85&auto=format&fit=max&s=90dbae610968fee32d817d00608483bd",
+          "imageAlt": "Silicon Valley including Meta has embraced Maga politics, says Nick Clegg",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+          "summary": "NATO has launched its first coordinated response to a suspected sabotage campaign targeting critical undersea infrastructure. The alliance's intervention follows the recent severing of another deep-sea cable in the Baltic Sea, marking a significant escalation in how the military bloc addresses threats to digital connectivity.\n\nThe incident highlights growing concerns over the vulnerability of global communication networks to deliberate interference. By mounting a unified response, NATO signals its intent to treat attacks on essential infrastructure as matters requiring collective security measures.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+              "source": "Wall Street Journal",
+              "headline": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "excerpt": "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.",
+              "imageUrl": "",
+              "imageAlt": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+        },
+        {
+          "title": "Palestinians Stream Back to Northern Gaza on Foot",
+          "summary": "Palestinians are returning to northern Gaza on foot following a breakthrough in hostage release negotiations that ended a previous deadlock. Israel has permitted displaced Gazans to cross a military zone dividing the enclave, marking a significant shift in access restrictions.\n\nThe movement comes as part of broader efforts to facilitate humanitarian aid and allow families to reunite with relatives in their home areas. The crossing represents a temporary easing of tensions amid ongoing diplomatic talks aimed at securing further releases.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+              "source": "Wall Street Journal",
+              "headline": "Palestinians Stream Back to Northern Gaza on Foot",
+              "excerpt": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+              "imageUrl": "",
+              "imageAlt": "Palestinians Stream Back to Northern Gaza on Foot",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+        }
+      ]
+    }
+  ]
 }
