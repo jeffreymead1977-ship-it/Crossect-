@@ -2,24 +2,24 @@
   "id": "2026-06-10-expanded",
   "date": "2026-06-10",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-10T03:00:45.758099",
+  "generatedAt": "2026-06-10T12:30:00.830045",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-10T03:00:45",
+  "updatedAt": "2026-06-10T12:30:00",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
           "title": "Trump Vows America Will Answer After Iran Shoots Down U.S. Helicopter",
-          "summary": "President Donald Trump announced on Tuesday that the United States will respond after Iran shot down a U.S. Apache helicopter near the Strait of Hormuz. The incident occurred during a patrol operation, prompting immediate military and political reactions from Washington.\n\nAccording to reports from multiple outlets, including Al Jazeera and the BBC, two crew members aboard the aircraft were successfully rescued by an American sea drone following the crash. President Trump confirmed that both pilots are uninjured and safe, emphasizing their well-being in his initial statements.\n\nDespite the successful recovery of the personnel, Trump stated that Washington must respond to the attack as a matter of necessity. The White House has not yet detailed the specific nature of the planned retaliation, but officials have signaled that a response is imminent given the severity of the incident.",
+          "summary": "President Donald Trump announced on Tuesday that the United States will respond after Iran shot down an American Apache helicopter near the Strait of Hormuz. He stated he had just been informed by military officials about the incident, which occurred while the aircraft was patrolling the strategic waterway.\n\nIn retaliation for subsequent U.S. strikes on Iranian ports and islands in the region, Al Jazeera reports that Iran launched attacks against Bahrain, Kuwait, and Jordan. The escalation follows a direct exchange of fire between American and Iranian forces after the downing of the patrol helicopter.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
-              "excerpt": "US president says although the pilots were rescued, Washington 'must, of necessity, respond to this attack'.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260418__A8AX4WQ__v2__HighRes__IranUsIsraelWar-1-1781024119.jpg?resize=1200%2C675",
-              "imageAlt": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
+              "headline": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
+              "excerpt": "Strikes come after US attacked Iranian ports and islands in the Strait of Hormuz over the downing of a helicopter.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-10T024127Z_77615091_RC2EQLA9KW4C_RTRMADP_3_IRAN-CRISIS-SYRIA-ROCKET-1781062441_c14abe-1781063167.jpg?resize=1200%2C630&quality=80",
+              "imageAlt": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -34,10 +34,10 @@
             {
               "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Trump says Iran shot down US helicopter and vows to respond",
-              "excerpt": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+              "headline": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
+              "excerpt": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b309/live/8431d0d0-6429-11f1-a614-bb0f90cd931c.jpg",
-              "imageAlt": "Trump says Iran shot down US helicopter and vows to respond",
+              "imageAlt": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -49,24 +49,6 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/europe/2026/06/09/u-s-helicopter-crashes-over-strait-of-hormuz-pilots-safe-says-president/",
-              "source": "Breitbart",
-              "headline": "U.S. Apache Helicopter Crashes Over Strait of Hormuz, Pilots Safely Recovered Says Trump",
-              "excerpt": "President Trump confirmed two crew members of a U.S. Army Apache Helicopter that crashed near the Strait of Hormuz are uninjured and \"fine\". The post U.S. Apache Helicopter Crashes Over Strait of Hormuz, Pilots Safely Recovered Says Trump appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/image-17-e1780998053784-640x335.png",
-              "imageAlt": "U.S. Apache Helicopter Crashes Over Strait of Hormuz, Pilots Safely Recovered Says Trump",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
               "url": "https://www.dailywire.com/news/trump-vows-america-will-answer-after-iran-shoots-down-u-s-helicopter",
@@ -85,15 +67,61 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-10T024127Z_77615091_RC2EQLA9KW4C_RTRMADP_3_IRAN-CRISIS-SYRIA-ROCKET-1781062441_c14abe-1781063167.jpg?resize=1200%2C630&quality=80",
+          "imageAlt": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "US says it has completed strikes on Iran in response to Apache shootdown",
+          "summary": "The U.S. military has concluded retaliatory strikes against Iran, marking a significant escalation in tensions following the downing of an Army Apache helicopter near the Strait of Hormuz. U.S. Central Command (CENTCOM) confirmed that forces executed \"self-defense\" operations on June 9 at the direction of the Commander in Chief.\n\nOfficials described the action as a proportional response to Iranian aggression, occurring just one day after the incident. The strikes targeted military assets within Iran, underscoring Washington's commitment to defending its personnel and assets in the region.\n\nThis development comes amid ongoing negotiations between Washington and Tehran aimed at securing a broader agreement. Despite these diplomatic efforts, the helicopter shootdown has intensified hostilities, with President Donald Trump publicly blaming Tehran for the attack.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US military launches ‘self-defence strikes’ targeting Iran",
+              "excerpt": "US Central Command (CENTCOM) says its forces began launching ‘self-defence’ strikes against Iran.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781049331.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "US military launches ‘self-defence strikes’ targeting Iran",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/jun/9/iran-shoots-us-helicopter-strait-hormuz-trump-vows-retaliate/",
-              "source": "Washington Times",
-              "headline": "Iran shoots down U.S. helicopter over Strait of Hormuz; Trump vows to retaliate",
-              "excerpt": "President Trump said Tuesday the Iranians shot down the U.S. military helicopter that crashed in the Middle East late Monday, and he plans to hit back.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2025/09/19/US_Israel_Arms_Sale_94978_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Iran shoots down U.S. helicopter over Strait of Hormuz; Trump vows to retaliate",
-              "outlet": "Washington Times",
+              "url": "https://www.breitbart.com/politics/2026/06/09/u-s-hits-iranian-targets-helicopter-downing-centcom/",
+              "source": "Breitbart",
+              "headline": "CENTCOM: U.S. Hits Iranian Targets After Helicopter Downing",
+              "excerpt": "U.S. forces launched strikes against Iranian military targets Tuesday after President Donald Trump blamed Tehran for downing a U.S. Army Apache helicopter near the Strait of Hormuz, escalating tensions despite ongoing negotiations aimed at securing a broader agreement between Washington and Tehran. The post CENTCOM: U.S. Hits Iranian Targets After Helicopter Downi",
+              "imageUrl": "https://media.breitbart.com/media/2026/05/Strait-of-Hormuz-1-640x335.jpg",
+              "imageAlt": "CENTCOM: U.S. Hits Iranian Targets After Helicopter Downing",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/policy/defense/4601593/us-strikes-iran-apache-helicopter-shot-down/",
+              "source": "Washington Examiner",
+              "headline": "US says it has completed strikes on Iran in response to Apache shootdown",
+              "excerpt": "The U.S. military said it concluded “proportional” retaliatory strikes against Iran on Tuesday, one day after Iranian forces shot down an Army helicopter near the Strait of Hormuz. “U.S. Central Command (CENTCOM) forces completed self-defense strikes against Iran, June 9, at the Commander in Chief’s direction in response to yesterday’s downing of a U.S. Army […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26060521971986.jpg?w=696",
+              "imageAlt": "US says it has completed strikes on Iran in response to Apache shootdown",
+              "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -103,16 +131,34 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/9/us-launches-self-defense-strikes-iran-downs-military-helicopter/",
+              "source": "Washington Times",
+              "headline": "U.S. launches 'self-defense' strikes after Iran downs military helicopter",
+              "excerpt": "The U.S. launched what it called \"self-defense strikes\" against targets in Iran on Tuesday in response to the downing of a military helicopter earlier in the day, according to U.S. Central Command, which called the operation a \"proportional response to Iran's aggression.\"",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/08/Trump_4768__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "U.S. launches 'self-defense' strikes after Iran downs military helicopter",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260418__A8AX4WQ__v2__HighRes__IranUsIsraelWar-1-1781024119.jpg?resize=1200%2C675",
-          "imageAlt": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781049331.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "US military launches ‘self-defence strikes’ targeting Iran",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "ICC Chief Prosecutor Karim Khan Suspended After Sexual Misconduct Investigation",
-          "summary": "The International Criminal Court has suspended Chief Prosecutor Karim Khan following a two-year investigation into allegations of sexual misconduct. The suspension was announced late Monday after the probe examined long-standing claims against him.\n\nKhan denies all accusations and his legal team strongly rejects the court's decision to suspend him. The BBC reported that Khan maintains his innocence regarding the harassment allegations.",
+          "summary": "Karim Khan, the chief prosecutor of the International Criminal Court (ICC), has been suspended following a two-year investigation into allegations of sexual misconduct. The suspension was announced late Monday after probes examined long-standing claims regarding his conduct.\n\nKhan denies all allegations of sexual harassment and has strongly rejected the decision to suspend him. His legal representatives have stated that he disputes the findings and the resulting administrative action taken by court authorities.",
           "links": [
             {
               "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
@@ -158,63 +204,16 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "During Xi visit, North Korea's Kim voices support for China's claim to Taiwan",
-          "summary": "Chinese President Xi Jinping concluded a two-day state visit to North Korea on Tuesday, marking his first official trip to Pyongyang since 2019. The visit was characterized by elaborate ceremonial displays, though official statements regarding the enhancement of bilateral relations remained notably vague.\n\nDuring the summit, North Korean leader Kim Jong Un explicitly voiced support for China’s position regarding Taiwan. This endorsement aligns with Beijing's longstanding claim over the self-governing island, signaling a diplomatic reinforcement between the two nations amidst broader regional geopolitical tensions.",
+          "title": "Pilot At Major Airline Accused Of Flying For Nearly Two Decades Without Required License",
+          "summary": "An Air Canada captain has been arrested and accused of operating commercial aircraft for over 16 years without the necessary certification. Canadian authorities announced that Geoffrey Wall, a 59-year-old former pilot, allegedly served as an airline captain from 2009 through 2025 despite never obtaining the proper license required for the position.\n\nThe allegations indicate that Wall commanded more than 900 flights during this period while lacking the requisite credentials. He is currently facing fraud charges related to these alleged infractions, which span nearly two decades of commercial aviation service.",
           "links": [
             {
-              "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
-              "excerpt": "Xi has wrapped up a two-day visit to Pyongyang, his first official trip to North Korea since 2019.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32c/live/98b74fd0-63ca-11f1-997d-4b8ab5668d59.jpg",
-              "imageAlt": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/jun/9/xi-visit-north-koreas-kim-voices-support-chinas-claim-taiwan/",
-              "source": "Washington Times",
-              "headline": "During Xi visit, North Korea's Kim voices support for China's claim to Taiwan",
-              "excerpt": "Chinese President Xi Jinping wrapped up his two-day visit to neighboring North Korea Tuesday, after impressive ceremonial pomp but only vague official commentary on upgrades to bilateral ties.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/09/North_Korea_China_98969_s1440x954.jpg?be2443ec9d0a4177f836f86f43062e5764d7816b",
-              "imageAlt": "During Xi visit, North Korea's Kim voices support for China's claim to Taiwan",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32c/live/98b74fd0-63ca-11f1-997d-4b8ab5668d59.jpg",
-          "imageAlt": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
-          "summary": "Kenyan police have cracked down on demonstrators protesting the establishment of a US-run Ebola quarantine centre near Nanyuki. The confrontation occurred as protesters marched to voice their opposition to the facility, which has sparked significant local unrest.\n\nConcerns among the public center on potential cross-border infection risks and a perceived lack of transparency from the government regarding the treatment centre's operations. Reports indicate that tensions escalated during the demonstration, leading to clashes between marchers and law enforcement officers.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/gallery/2026/6/9/kenyas-police-crack-down-on-protest-against-us-ebola-centre-in-nanyuki?traffic_source=rss",
+              "url": "https://www.aljazeera.com/economy/2026/6/10/air-canada-pilot-accused-of-flying-for-17-years-without-proper-licence?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Kenya’s police crack down on protest against US Ebola centre in Nanyuki",
-              "excerpt": "Protesters clash with police in Kenya as they march against a US-run Ebola quarantine centre near the town of Nanyuki.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26160441380177-1781017014.jpg?resize=1920%2C1440",
-              "imageAlt": "Kenya’s police crack down on protest against US Ebola centre in Nanyuki",
+              "headline": "Air Canada pilot accused of flying for 17 years without proper licence",
+              "excerpt": "Former airline captain charged with fraud after allegedly commanding more than 900 flights without required credentials.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP22127442912314-1781056160.jpg?resize=1920%2C1440",
+              "imageAlt": "Air Canada pilot accused of flying for 17 years without proper licence",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -227,105 +226,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
-              "excerpt": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4780/live/7e53fff0-640e-11f1-8546-8f19e4fe30f4.jpg",
-              "imageAlt": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26160441380177-1781017014.jpg?resize=1920%2C1440",
-          "imageAlt": "Kenya’s police crack down on protest against US Ebola centre in Nanyuki",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Judge finds suspect accused of killing Iryna Zarutska incompetent to stand trial for now",
-          "summary": "A federal judge has ruled that Decarlos Brown Jr. is incompetent to stand trial for the alleged murder of Ukrainian refugee Iryna Zarutska on a Charlotte, North Carolina light rail train last year.\n\nU.S. Attorney Russ Ferguson confirmed the determination on Tuesday, stating that Brown will be hospitalized for treatment to address his mental health condition before any legal proceedings can resume.",
-          "links": [
-            {
-              "url": "https://www.foxnews.com/us/charlotte-train-stabbing-suspect-dodges-potential-death-penalty-hes-ruled-incompetent",
-              "source": "Fox News",
-              "headline": "Charlotte train stabbing suspect dodges potential death penalty for now after he's ruled incompetent",
-              "excerpt": "Decarlos Brown Jr., accused of fatally stabbing Ukrainian woman Iryna Zarutska on a Charlotte light-rail train, is deemed incompetent to stand trial.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/iryna-zarukska-charlotte.jpg?ve=1&tl=1",
-              "imageAlt": "Charlotte train stabbing suspect dodges potential death penalty for now after he's ruled incompetent",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/crime/4600714/judge-killing-iryna-zarutska-decarlos-brown-jr-incompetent-trial/",
-              "source": "Washington Examiner",
-              "headline": "Judge finds suspect accused of killing Iryna Zarutska incompetent to stand trial for now",
-              "excerpt": "A federal judge has found that the suspect who allegedly murdered Ukrainian refugee Iryna Zarutska last year on a light rail train in Charlotte, North Carolina, is incompetent to stand trial for the time being. U.S. Attorney Russ Ferguson confirmed the news on Tuesday, telling reporters that Decarlos Brown Jr. will be hospitalized for treatment […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26037615894951.jpg?w=696",
-              "imageAlt": "Judge finds suspect accused of killing Iryna Zarutska incompetent to stand trial for now",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/iryna-zarukska-charlotte.jpg?ve=1&tl=1",
-          "imageAlt": "Charlotte train stabbing suspect dodges potential death penalty for now after he's ruled incompetent",
-          "imageCredit": "Fox News"
-        },
-        {
-          "title": "WATCH: Fights Break Out Across NYC After Knicks Lose Game 3",
-          "summary": "Violence erupted across New York City on Monday night following the New York Knicks' home loss to the San Antonio Spurs in Game 3 of the NBA Finals. Although authorities had banned watch parties outside Madison Square Garden due to security concerns surrounding President Donald Trump's attendance, unregulated gatherings at other locations throughout the city turned into all-out brawls.\n\nIn a separate political development, California Republican Steve Hilton has advanced in the state’s gubernatorial race. According to reports, Hilton will now compete against former Biden administration Secretary of Health and Human Services Xavier Becerra for the governorship.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/06/08/republican-steve-hilton-advances-california-gubernatorial-race/",
-              "source": "Breitbart",
-              "headline": "Republican Steve Hilton Advances in California Gubernatorial Race",
-              "excerpt": "California Republican gubernatorial candidate Steve Hilton advanced in the state's gubernatorial race and will compete against former Biden administration Secretary of Health and Human Services Xavier Becerra. The post Republican Steve Hilton Advances in California Gubernatorial Race appeared first on <a rel=\"nofollow\" href=\"https://www.breitbart.co",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/Steve-Hilton-Republican-gubernatorial-candidate-California-june3-26-getty-640x335.jpg",
-              "imageAlt": "Republican Steve Hilton Advances in California Gubernatorial Race",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/watch-fights-break-out-across-nyc-after-knicks-lose-game-3",
+              "url": "https://www.dailywire.com/news/pilot-at-major-airline-accused-of-flying-for-nearly-two-decades-without-required-license",
               "source": "Daily Wire",
-              "headline": "WATCH: Fights Break Out Across NYC After Knicks Lose Game 3",
-              "excerpt": "NBA watch parties turned into all-out brawls following the New York Knicks’ home loss to the San Antonio Spurs in Game 3 of the NBA Finals Monday night. Although authorities banned watch parties outside of Madison Square Garden due to security issues around the attendance of President Donald Trump, other locations throughout the city were ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2279933565.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "WATCH: Fights Break Out Across NYC After Knicks Lose Game 3",
+              "headline": "Pilot At Major Airline Accused Of Flying For Nearly Two Decades Without Required License",
+              "excerpt": "An Air Canada captain was arrested after being accused of spending more than 16 years flying commercial aircraft without the certification required for the position, Canadian police announced Tuesday. Geoffrey Wall, 59, is accused of serving as an airline captain from 2009 through 2025 despite never obtaining the proper pilot license required for the position, ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/04/GettyImages-2244932321.jpeg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Pilot At Major Airline Accused Of Flying For Nearly Two Decades Without Required License",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -339,21 +245,68 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/06/Steve-Hilton-Republican-gubernatorial-candidate-California-june3-26-getty-640x335.jpg",
-          "imageAlt": "Republican Steve Hilton Advances in California Gubernatorial Race",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP22127442912314-1781056160.jpg?resize=1920%2C1440",
+          "imageAlt": "Air Canada pilot accused of flying for 17 years without proper licence",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Disgraced Crypto Fraudster Sam Bankman-Fried Formally Seeks Trump Pardon",
-          "summary": "Sam Bankman-Fried has formally submitted a request for a presidential pardon to Donald Trump, aiming to clear the fraud convictions associated with his collapsed cryptocurrency enterprise. The former FTX executive, often described as a disgraced figure in the digital asset industry, is seeking official clemency to erase the legal penalties resulting from his business failures.\n\nMultiple outlets, including Breitbart and the Washington Times, have reported on the development, highlighting the high-profile nature of the request. Bankman-Fried’s appeal marks a significant step in his post-conviction efforts to regain freedom and restore his reputation following widespread scrutiny of his financial practices.",
+          "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
+          "summary": "Two people were reportedly killed during a rare women's protest in Herat, Afghanistan. The demonstration was organized to oppose the detention of women for alleged dress code violations.\n\nAl Jazeera reports that Afghan authorities suppressed the gathering after police allegedly opened fire on the crowd. BBC confirms the fatalities and notes the location as the western city of Herat.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/06/09/disgraced-crypto-fraudster-sam-bankman-fried-formally-seeks-trump-pardon/",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Afghan authorities open fire on protesters over women’s dress code",
+              "excerpt": "Authorities suppressed a protest in western Afghanistan over the detention of women for dress code violations.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781048744.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Afghan authorities open fire on protesters over women’s dress code",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Two reportedly killed as women take part in rare protest in Afghanistan",
+              "excerpt": "The demonstration, in the western city of Herat, was broken up after police are alleged to have opened fire.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20bc/live/0357daf0-63f6-11f1-a912-830c48c544bf.jpg",
+              "imageAlt": "Two reportedly killed as women take part in rare protest in Afghanistan",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781048744.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Afghan authorities open fire on protesters over women’s dress code",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump-Backed Candidate Advances In South Carolina Governor Primary",
+          "summary": "South Carolina Republicans voted Tuesday in a crowded primary to select their nominee for governor, with no candidate securing an outright majority. Early results showed Lieutenant Governor Pamela Evette leading with approximately 29 percent of the vote, followed closely by Attorney General Alan Wilson at 26 percent.\n\nBecause neither candidate surpassed the threshold required to win immediately, Evette and Wilson advanced to a runoff election. The outcome marks another victory for former President Donald Trump’s endorsement power, as Evette secured her position in the final round with his backing.\n\nThe primary also featured other notable races, including U.S. Senator Lindsey Graham, who won his Republican nomination outright without needing a runoff. The upcoming runoff will determine which candidate faces the Democratic nominee in November's general election for South Carolina.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/politics/2026/06/09/trump-endorsed-pamela-evette-alan-wilson-runoff-south-carolina-gop-gubernatorial-primary/",
               "source": "Breitbart",
-              "headline": "Disgraced Crypto Fraudster Sam Bankman-Fried Formally Seeks Trump Pardon",
-              "excerpt": "Disgraced crypto tycoon Sam Bankman-Fried has filed a formal request for a pardon from President Donald Trump to erase the fraud charges tied to his failed cryptocurrency business. The post Disgraced Crypto Fraudster Sam Bankman-Fried Formally Seeks Trump Pardon appeared first on Breitbart",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/sam-bankman-fried-640x335.jpg",
-              "imageAlt": "Disgraced Crypto Fraudster Sam Bankman-Fried Formally Seeks Trump Pardon",
+              "headline": "Trump-Endorsed Pamela Evette, AG Alan Wilson Advance to Runoff in South Carolina GOP Gubernatorial Primary",
+              "excerpt": "South Carolina Lt. Gov. Pamela Evette and South Carolina Attorney General Alan Wilson have advanced to a runoff in South Carolina's Republican gubernatorial primary race. The post Trump-Endorsed Pamela Evette, AG Alan Wilson Advance to Runoff in South Carolina GOP Gubernatorial Primary appeared first on <a rel=\"nofollow\" hr",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/South-Carolina-LtGov-Pamela-Evette-SC-AG-Alan-Wilson-2025-getty-640x335.jpg",
+              "imageAlt": "Trump-Endorsed Pamela Evette, AG Alan Wilson Advance to Runoff in South Carolina GOP Gubernatorial Primary",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -366,12 +319,130 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/jun/9/crypto-convict-sam-bankman-fried-asks-trump-pardon/",
+              "url": "https://www.foxnews.com/politics/trumps-endorsement-power-roars-back-gop-gubernatorial-hopeful-advances-runoff",
+              "source": "Fox News",
+              "headline": "Trump rekindles endorsement winning streak as GOP gubernatorial hopeful advances to runoff",
+              "excerpt": "Trump-endorsed Lt. Gov. Pamela Evette advances to South Carolina GOP gubernatorial runoff after Tuesday's primary, facing a crowded field of rivals.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/pamela-evette-lt-gov.jpg?ve=1&tl=1",
+              "imageAlt": "Trump rekindles endorsement winning streak as GOP gubernatorial hopeful advances to runoff",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4601714/pamela-evette-alan-wilson-runoff-south-carolina-governor/",
+              "source": "Washington Examiner",
+              "headline": "Pamela Evette and Alan Wilson head to runoff for South Carolina governor GOP nod",
+              "excerpt": "South Carolina Lt. Gov. Pamela Evette and Attorney General Alan Wilson will head to a runoff to see who will face off in the general gubernatorial election after each placed in the top two slots in the Republican primary. Evette won the GOP gubernatorial primary with about 29.1% of the vote, compared to her closest […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/image-collage-fl6gjv44o-1781053755744-e1781057903769.jpg?1781039420&w=696",
+              "imageAlt": "Pamela Evette and Alan Wilson head to runoff for South Carolina governor GOP nod",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/9/pamela-evette-alan-wilson-advance-republican-runoff-south-carolina/",
               "source": "Washington Times",
-              "headline": "Crypto convict Sam Bankman-Fried asks Trump for pardon",
-              "excerpt": "Crypto \"poster boy\" Sam Bankman-Fried is seeking a pardon from President Trump.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2025/11/04/Bankman-Fried-FTX_50933_s1440x973.jpg?a8090330568649e16cd2c491bb57288f27a3332a",
-              "imageAlt": "Crypto convict Sam Bankman-Fried asks Trump for pardon",
+              "headline": "Pamela Evette and Alan Wilson advance to Republican runoff for South Carolina governor",
+              "excerpt": "Lt. Gov. Pamela Evette and state Attorney General Alan Wilson advanced to a runoff for the Republican nomination for South Carolina governor, while U.S. Sen. Lindsey Graham won his own primary outright Tuesday in his pursuit of a fifth term in November.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/09/Election_2_26_South_Carolina_Governor_71_4__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Pamela Evette and Alan Wilson advance to Republican runoff for South Carolina governor",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/trump-backed-candidate-advances-in-south-carolina-governor-primary",
+              "source": "Daily Wire",
+              "headline": "Trump-Backed Candidate Advances In South Carolina Governor Primary",
+              "excerpt": "South Carolina Republicans headed to the polls Tuesday to choose their party’s nominee to lead the fastest-growing state in the nation. With 41% of the vote counted, Trump-endorsed candidate Lt. Gov. Pamela Evette leads the crowded field with 29% of the vote, followed by Attorney General Alan Wilson’s 26% vote share. With no candidates passing ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/05/trump_southcarolina.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump-Backed Candidate Advances In South Carolina Governor Primary",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://media.breitbart.com/media/2026/06/South-Carolina-LtGov-Pamela-Evette-SC-AG-Alan-Wilson-2025-getty-640x335.jpg",
+          "imageAlt": "Trump-Endorsed Pamela Evette, AG Alan Wilson Advance to Runoff in South Carolina GOP Gubernatorial Primary",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "McDonald's worker in ICU after coworker allegedly throws hot oil on him",
+          "summary": "A 20-year-old McDonald's shift manager in Northern California remains in intensive care after a coworker allegedly threw hot cooking oil on him. Jacob Smith suffered severe burns across his face, neck, arm, and back during the incident at a Yuba City location.\n\nYuba City police have identified the suspect as 23-year-old Jalani Bluett. He was arraigned Wednesday afternoon and is currently being held without bail at the Sutter County Jail.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/crime/2026/06/09/video-california-coworker-accused-tossing-hot-oil-mcdonalds-employees-face-causing-severe-burns/",
+              "source": "Breitbart",
+              "headline": "VIDEO -- California: Coworker Accused of Tossing Hot Oil in McDonald's Employee's Face, Causing Severe Burns",
+              "excerpt": "A 20-year-old McDonald's worker in Yuba City, California, was left with severe burns after a coworker allegedly attacked him with hot oil. The post VIDEO — California: Coworker Accused of Tossing Hot Oil in McDonald’s Employee’s Face, Causing Severe Burns appeared first on <a rel=\"nofollow\" href=\"https://www.breitbart.c",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/Jalani-Bluett-1-640x335.jpg",
+              "imageAlt": "VIDEO -- California: Coworker Accused of Tossing Hot Oil in McDonald's Employee's Face, Causing Severe Burns",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/mcdonalds-worker-says-hes-fighting-severe-burns-after-hot-oil-attack",
+              "source": "Daily Wire",
+              "headline": "McDonald’s Worker Says He’s Fighting Severe Burns After Hot-Oil Attack",
+              "excerpt": "A California McDonald’s employee is in the hospital fighting severe second-degree burns after a co-worker allegedly threw hot oil at him, police said. Jacob Smith, 20, suffered burns on the side of his face, neck, right arm, and back, according to local outlet KCRA. The alleged assault happened Saturday night in Yuba City, California, which ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/Screenshot-2026-06-08-at-7.29.18-PM.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "McDonald’s Worker Says He’s Fighting Severe Burns After Hot-Oil Attack",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/9/mcdonalds-worker-icu-coworker-allegedly-throws-hot-oil/",
+              "source": "Washington Times",
+              "headline": "McDonald's worker in ICU after coworker allegedly throws hot oil on him",
+              "excerpt": "A 20-year-old McDonald's shift manager in Northern California, Jacob Smith, remained in the ICU Tuesday after a coworker allegedly threw hot cooking oil on him, leaving him with severe burns across his face, neck, arm and back. Yuba City police identified the suspect as Jalani Bluett, 23, who was arraigned Wednesday afternoon and was being held without bail at the Sutter County Jail.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/04/28/McDonalds_Fancier_Drinks_779_5_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "McDonald's worker in ICU after coworker allegedly throws hot oil on him",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -385,8 +456,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/06/sam-bankman-fried-640x335.jpg",
-          "imageAlt": "Disgraced Crypto Fraudster Sam Bankman-Fried Formally Seeks Trump Pardon",
+          "imageUrl": "https://media.breitbart.com/media/2026/06/Jalani-Bluett-1-640x335.jpg",
+          "imageAlt": "VIDEO -- California: Coworker Accused of Tossing Hot Oil in McDonald's Employee's Face, Causing Severe Burns",
           "imageCredit": "Breitbart"
         }
       ]
@@ -395,44 +466,44 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Is the US-Israel alliance breaking down?",
-          "summary": "Spectator Australia has published an opinion piece defending Barnaby Joyce following his recent interview on Sky News Australia with Andrew Bolt. The author notes that while the broadcast initially caused dismay, they ultimately concluded that Joyce acted appropriately during the exchange.\n\nThe article suggests that public reaction to the interview was mixed, with some observers criticizing the content. However, the publication argues that Joyce’s stance was justified given the context of the discussion and his political position.",
+          "title": "MAGA is doubling down",
+          "summary": "Recent commentary from The Spectator Australia challenges prevailing narratives regarding the political realignment of young conservative women. While various news outlets have spent months predicting a mass exodus of this demographic from the Republican Party, new analysis suggests the opposite trend is occurring.\n\nThe publication argues that the Make America Great Again movement is doubling down on its appeal to these voters rather than losing ground. This perspective directly contradicts earlier prognostications that suggested young conservative women were drifting away from the party's current direction.\n\nInstead of fragmentation, the report indicates a consolidation of support within the MAGA framework. The article implies that initial predictions of decline may have been premature or misinterpreted, highlighting a continued commitment to the movement among younger female conservatives.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/06/barnaby-joyce-did-the-right-thing/",
+              "url": "https://www.spectator.com.au/2026/06/maga-is-doubling-down/",
               "source": "Spectator Australia",
-              "headline": "Barnaby Joyce did the right thing",
-              "excerpt": "I watched Barnaby Joyce’s recent Sky News Australia interview with Andrew Bolt in dismay. Not because of its widely (dare we… The post Barnaby Joyce did the right thing appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/05/an-open-letter-to-the-honourable-barnaby-joyc",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2022/02/bj.jpg",
-              "imageAlt": "Barnaby Joyce did the right thing",
+              "headline": "MAGA is doubling down",
+              "excerpt": "Over the past several months, various news outlets have been prognosticating the flight of young conservative women from the Republican Party.… The post MAGA is doubling down appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/the-painful-truth-about-britains-world-class-univer",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/Screenshot_2026_06_08_at_11.40.08_AM.png",
+              "imageAlt": "MAGA is doubling down",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2022/02/bj.jpg",
-          "imageAlt": "Barnaby Joyce did the right thing",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/Screenshot_2026_06_08_at_11.40.08_AM.png",
+          "imageAlt": "MAGA is doubling down",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Mickey Mouse and friends freeze Super Netball finals out of prime venue",
-          "summary": "The 2025 Super Netball Grand Final set a new benchmark for attendance, drawing a record crowd to one of the country's largest stadiums. This significant milestone highlighted the sport's growing popularity and commercial appeal during its most recent championship event.\n\nHowever, the momentum appears to have stalled for the 2026 season, as organizers have been forced to move the finals series to smaller venues. The primary cause for this logistical retreat is a scheduling conflict with Disney on Ice, which has secured the prime stadium dates previously available to netball.",
+          "title": "Mining set to restart at one of the NT's biggest gold reserves",
+          "summary": "The Mount Todd gold mine near Katherine in the Northern Territory is preparing to resume operations after nearly three decades of dormancy. The site, recognized as one of Australia's largest gold reserves, marks a significant development for regional mining activity.\n\nDespite community expectations that local Aboriginal groups should receive priority access to employment opportunities, the mine operator has indicated plans to rely primarily on a fly-in-fly-out workforce. This approach contrasts with calls for greater inclusion of Indigenous residents in the project's labor force.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-06-09/2026-super-netball-round-up-round13/106777830",
+              "url": "https://www.abc.net.au/news/2026-06-10/nt-mount-todd-gold-mine-katherine-restart-gold-bars-2030/106776294",
               "source": "ABC Australia",
-              "headline": "Mickey Mouse and friends freeze Super Netball finals out of prime venue",
-              "excerpt": "The 2025 Super Netball Grand Final set a new standard with a record crowd at one of the biggest stadiums in the country. But in 2026, the sport has been forced to retreat to smaller finals venues due to a scheduling issue with Disney on Ice.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/cf17f77556679af3a5a9c83aaed004e0?impolicy=wcms_crop_resize&cropH=2597&cropW=4617&xPos=0&yPos=480&width=862&height=485",
-              "imageAlt": "Mickey Mouse and friends freeze Super Netball finals out of prime venue",
+              "headline": "Mining set to restart at one of the NT's biggest gold reserves",
+              "excerpt": "After being dormant for nearly 30 years, the Mount Todd gold mine near Katherine is gearing up to restart production. While there are calls for local Aboriginal people to have the \"first crack\" at mining jobs, the operator is planning to engage a largely FIFO workforce.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/1bc967c2561f8eb2f2a93609625bbd9f?impolicy=wcms_crop_resize&cropH=2214&cropW=3936&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Mining set to restart at one of the NT's biggest gold reserves",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -447,8 +518,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/cf17f77556679af3a5a9c83aaed004e0?impolicy=wcms_crop_resize&cropH=2597&cropW=4617&xPos=0&yPos=480&width=862&height=485",
-          "imageAlt": "Mickey Mouse and friends freeze Super Netball finals out of prime venue",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/1bc967c2561f8eb2f2a93609625bbd9f?impolicy=wcms_crop_resize&cropH=2214&cropW=3936&xPos=0&yPos=0&width=862&height=485",
+          "imageAlt": "Mining set to restart at one of the NT's biggest gold reserves",
           "imageCredit": "ABC News"
         },
         {
@@ -480,16 +551,16 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Revealed: the missing Mandelson messages",
-          "summary": "Spectator Australia reports that at the Shangri-La Dialogue last weekend, three defence ministers performed a quiet act of damage control and called it a… The post Is Aukus in disarray? appeared first on The Spectator Australia . What to read next: The Can",
+          "title": "Is the US-Israel alliance breaking down?",
+          "summary": "Air raid sirens echoed across Tel Aviv early this morning, signaling renewed tensions in the region. Despite the alarm, war-weary residents largely continued their daily routines, reflecting a sense of fatigue amid ongoing conflict.\n\nThe Spectator Australia has raised questions about whether the longstanding alliance between the United States and Israel is beginning to fracture under the weight of these developments. The publication suggests that shifting dynamics may be testing traditional diplomatic ties.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/06/is-aukus-in-disarray/",
+              "url": "https://www.spectator.com.au/2026/06/is-the-us-israel-alliance-breaking-down/",
               "source": "Spectator Australia",
-              "headline": "Is Aukus in disarray?",
-              "excerpt": "At the Shangri-La Dialogue last weekend, three defence ministers performed a quiet act of damage control and called it a… The post Is Aukus in disarray? appeared first on The Spectator Australia . What to read next: The Can",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages-2173669305.jpg",
-              "imageAlt": "Is Aukus in disarray?",
+              "headline": "Is the US-Israel alliance breaking down?",
+              "excerpt": "This morning at 5.53am, air raid sirens sounded across Tel Aviv. War-weary locals largely went about their business as usual… The post Is the US-Israel alliance breaking down? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/to-bring-down-iran-america-and-i",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages_2276016809.jpg",
+              "imageAlt": "Is the US-Israel alliance breaking down?",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -503,8 +574,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages-2173669305.jpg",
-          "imageAlt": "Is Aukus in disarray?",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages_2276016809.jpg",
+          "imageAlt": "Is the US-Israel alliance breaking down?",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -514,7 +585,7 @@
       "stories": [
         {
           "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-          "summary": "Anthropic has released Claude Fable 5, marking the first time its Mythos-class model architecture is available to the public. This release represents a significant step in making advanced AI capabilities accessible outside of restricted research environments.\n\nThe model includes specific safety guardrails designed to block responses in high-risk domains such as cybersecurity and biology. These restrictions aim to mitigate potential dangers associated with powerful generative models while still allowing broader public use.",
+          "summary": "Anthropic has officially released Claude Fable 5, marking the debut of its first Mythos-class model available to the general public. This release represents a significant step in Anthropic's model hierarchy, bringing advanced capabilities previously reserved for internal or restricted use into broader circulation.\n\nTo ensure responsible deployment, the new model includes specific guardrails designed to block responses in high-risk domains such as cybersecurity and biology. These restrictions aim to mitigate potential misuse while still allowing users to leverage the model's enhanced reasoning and creative abilities.\n\nThe announcement highlights Anthropic's strategy of gradually expanding access to its most powerful architectures while maintaining strict safety protocols. Industry observers note that this release could set a precedent for how AI companies balance innovation with risk management in public-facing products.",
           "links": [
             {
               "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
@@ -535,7 +606,7 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+              "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
               "source": "TechCrunch",
               "headline": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
               "excerpt": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
@@ -559,16 +630,62 @@
           "imageCredit": "The Verge"
         },
         {
-          "title": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
-          "summary": "Apple is introducing new generative AI photo editing tools in iOS 27, unveiled at WWDC 2026. The company is positioning these features as a way to enhance user creativity through advanced image manipulation capabilities.\n\nThe announcement highlights Apple's growing focus on integrating artificial intelligence into its core software ecosystem. These updates aim to provide users with more sophisticated options for modifying and enhancing their photos directly within the operating system.",
+          "title": "Apple brings streaming-style subscription bundles to the App Store",
+          "summary": "Apple is expanding its App Store subscription model to include bundled packages, drawing inspiration from streaming services. This update allows developers to partner with one another to offer discounted subscription bundles for iPhone apps.\n\nThe feature is scheduled to launch later this year, marking a shift in how users can access multiple app services simultaneously. By enabling cross-developer partnerships, Apple aims to provide more value and flexibility to subscribers looking to combine their favorite applications.",
           "links": [
             {
-              "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+              "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
               "source": "The Verge",
-              "headline": "Apple is embracing the fantasy of AI photo editing",
-              "excerpt": "The Verge \" data-portal-copyright=\"Images by Apple / compiled by The Verge \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jp",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
-              "imageAlt": "Apple is embracing the fantasy of AI photo editing",
+              "headline": "The App Store is going to add subscription bundles soon",
+              "excerpt": "Later this year, you will be able to get bundled subscriptions for iPhone apps, as Apple <a h",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "The App Store is going to add subscription bundles soon",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
+              "source": "TechCrunch",
+              "headline": "Apple brings streaming-style subscription bundles to the App Store",
+              "excerpt": "Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
+              "imageAlt": "Apple brings streaming-style subscription bundles to the App Store",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "The App Store is going to add subscription bundles soon",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
+          "summary": "Fitbit’s Charge 6 and Ace LTE smartwatches have dropped in price to match the cost of Apple’s new $100 Air model. This pricing shift positions the Fitbit devices as competitive alternatives for consumers seeking affordable wearable technology.\n\nThe Charge 6, which features a notifications screen and additional health tracking capabilities, is now available at the same price point as the entry-level Air. This development highlights increasing competition in the budget smartwatch market, where brands are adjusting prices to attract cost-conscious buyers.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
+              "source": "The Verge",
+              "headline": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
+              "excerpt": "<img alt=\"Person looking at the notifications screen on Fitbit Charge 6. It reads “Nothing new.”\" data-caption=\"Fitbit’s Charge 6 offers more features than the Air and is currently the same price. | Photo by Amelia Holowaty Krales / The Verge\" data-portal-copyright=\"Photo by Amelia Holowaty Krales / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25038280/236838_Fitbit_Charge_6_AKrales_0007.jpg?qua",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25038280/236838_Fitbit_Charge_6_AKrales_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
               "outlet": "The Verge",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -582,13 +699,13 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
-          "imageAlt": "Apple is embracing the fantasy of AI photo editing",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25038280/236838_Fitbit_Charge_6_AKrales_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
           "imageCredit": "The Verge"
         },
         {
           "title": "Doctors and NHS could be sued for mistakes made by AI tools, report warns",
-          "summary": "A report from the Medical Protection Society warns that doctors and the NHS could face medical negligence lawsuits for errors committed by artificial intelligence tools used in patient diagnosis and treatment planning. The organization is urging ministers to overhaul current liability laws, which currently hold healthcare professionals accountable even when AI systems are responsible for harmful outcomes.\n\nUnder existing legal frameworks, medics can be held liable if patients are harmed or die due to mistakes made by AI technology. This creates significant risk for healthcare providers who increasingly rely on these tools to assist in clinical decision-making processes.",
+          "summary": "A report from the Medical Protection Society warns that doctors and the NHS could face medical negligence lawsuits for errors committed by artificial intelligence tools used in patient diagnosis and treatment planning. The organization is urging ministers to overhaul current liability laws, which currently hold healthcare professionals accountable even when AI systems are responsible for harmful mistakes.\n\nUnder existing legal frameworks, medics and the health service remain liable if patients are harmed or die due to AI-generated errors. This creates significant risk for clinicians who rely on these technologies, prompting calls for regulatory reform to clarify responsibility and protect practitioners from undue liability.",
           "links": [
             {
               "url": "https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report",
@@ -616,7 +733,7 @@
         },
         {
           "title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread",
-          "summary": "The Bank of England has issued a warning to the public regarding AI-generated scams following the viral spread of deepfake videos featuring Governor Andrew Bailey and Nigel Farage. The fabricated clips, which depict the two men physically clashing in a Question Time studio setting, have circulated widely on social media platform X.\n\nGovernor Bailey highlighted that AI-generated content targeting central banks is increasingly prevalent online. He urged citizens to remain vigilant against such deceptive material and encouraged them to report any suspicious videos they encounter.",
+          "summary": "The Bank of England has issued a public warning regarding the rise of AI-generated scams, following the viral spread of deepfake videos depicting Governor Andrew Bailey in a physical altercation with Nigel Farage. The fabricated clips, which falsely show the two men clashing inside the Question Time studio, have circulated widely on social media platforms such as X.\n\nGovernor Bailey emphasized that synthetic content targeting central banks is increasingly prevalent and urged the public to remain vigilant against such deceptive material. He specifically encouraged users to report any suspicious videos they encounter online to help curb the spread of misinformation.",
           "links": [
             {
               "url": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
@@ -641,34 +758,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/97573692dff5b00b11ad3a3f1938aae80201903f/1391_125_3808_3046/master/3808.jpg?width=140&quality=85&auto=format&fit=max&s=cfb07284b0d66429e4804aa90d95ac05",
           "imageAlt": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
-          "summary": "Deputy Prime Minister David Lammy is set to announce a trial of AI-powered legal assistants in the crown courts of England and Wales. The initiative aims to reduce the significant backlog of court cases by integrating virtual assistants into judicial proceedings.\n\nLegal professionals have responded with caution, warning that the technology must not be used as a substitute for essential funding and additional court staff. Critics emphasize that while AI may offer efficiency gains, it cannot replace the vital human resources required to maintain the integrity and functionality of the legal system.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/jun/09/ai-legal-assistants-england-wales-cannot-replace-funding-staff",
-              "source": "The Guardian Technology",
-              "headline": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
-              "excerpt": "David Lammy to announce trial of AI assistants in crown courts in effort to cut backlog of cases A plan to roll out virtual legal assistants powered by artificial intelligence to crown courts has prompted warnings that the technology should not be used to “replace vital funding and additional court staff”. David Lammy, the deputy prime minister, will announce on Tuesday that AI assistants will be trialled in an effort to cut the backlog of court cases in England and Wales. <a",
-              "imageUrl": "https://i.guim.co.uk/img/media/775188b8648e1cef55108b4132b471fed8b8406a/1040_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=fff1ae48c864095c1f989dd143f497f2",
-              "imageAlt": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/775188b8648e1cef55108b4132b471fed8b8406a/1040_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=fff1ae48c864095c1f989dd143f497f2",
-          "imageAlt": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -676,16 +765,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "NEA mobilizes task force to restore power in quake-hit Mindanao",
-          "summary": "The National Electrification Administration (NEA) has reactivated Task Force Kapatid to restore electricity in Southern Mindanao following a magnitude 7.8 earthquake that struck Sarangani and surrounding provinces.\n\nAdministrator Antonio Mariano Almeda convened an emergency meeting with member electric cooperatives to coordinate the response for approximately 803,230 affected consumer connections.\n\nAs part of this mobilization, the Cotabato Electric Cooperative, Inc. deployed six linemen to General Santos City to assist South Cotabato Electric Cooperative II in repairing damaged infrastructure.",
+          "title": "Aftershock fears, lost homes leave families outdoors in GenSan",
+          "summary": "Thousands of residents in General Santos City, Philippines, are spending their nights outdoors following a powerful magnitude 7.8 earthquake that struck on Monday. The seismic event caused significant damage to homes and led to the collapse of several buildings across southern Mindanao.\n\nFear of aftershocks is driving survivors away from damaged structures, leaving many families without shelter in the immediate aftermath. Authorities are currently conducting search-and-rescue operations for four individuals who remain missing after being trapped in two collapsed establishments.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2243645/cotelco-sends-linemen-to-aid-power-restoration-in-quake-hit-gensan",
+              "url": "https://newsinfo.inquirer.net/2243885/aftershock-fears-lost-homes-leave-families-outdoors-in-gensan",
               "source": "Philippine Daily Inquirer",
-              "headline": "Cotelco sends linemen to aid power restoration in quake-hit GenSan",
-              "excerpt": "COTABATO CITY – Six linemen from the Cotabato Electric Cooperative, Inc. (Cotelco) have been deployed to General Santos City as part of the “Task Force Kapatid” program to help restore electricity in areas served by South Cotabato Electric Cooperative (Socoteco II) that were affected by the magnitude 7.8 earthquake. Cotelco General Manager Joel V. De",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_9147.jpeg",
-              "imageAlt": "Cotelco sends linemen to aid power restoration in quake-hit GenSan",
+              "headline": "Aftershock fears, lost homes leave families outdoors in GenSan",
+              "excerpt": "GENERAL SANTOS CITY, Philippines — Fear now drives thousands of General Santos City residents to spend their nights outdoors after Monday’s powerful magnitude 7.8 earthquake left homes damaged, buildings collapsed, and aftershocks rattling communities across southern Mindanao. While authorities continue search-and-rescue operations for four missing individuals trapped in two collapsed establishments, many survivors have chosen",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/quake-sarangani.png",
+              "imageAlt": "Aftershock fears, lost homes leave families outdoors in GenSan",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -699,8 +788,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_9147.jpeg",
-          "imageAlt": "Cotelco sends linemen to aid power restoration in quake-hit GenSan",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/quake-sarangani.png",
+          "imageAlt": "Aftershock fears, lost homes leave families outdoors in GenSan",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
@@ -732,44 +821,44 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Palace: No constitutional crisis, Gatchalian is sole Senate leader",
-          "summary": "The Malacañang Palace has dismissed concerns of a constitutional crisis regarding the leadership of the Senate, affirming that Sherwin Gatchalian is the sole recognized leader of the chamber. This stance was taken despite repeated assertions by Senator Alan Peter Cayetano that he remains the legitimate Senate president.\n\nPalace press officer Claire Castro stated that the executive branch only acknowledges Gatchalian as the Senate President Pro Tempore and sees no constitutional crisis in this position. The clarification comes amid ongoing political tensions between the two senators over who holds the rightful leadership of the upper house.\n\nIn a related development, Senator Cayetano has questioned the credibility of intelligence regarding a potential security threat within the Senate. He criticized the National Bureau of Investigation (NBI) for providing information he described as coming from a \"clearly partisan\" source.\n\nThis skepticism follows earlier statements by Gatchalian, who cited NBI reports about a possible security risk in the chamber. The conflicting views highlight the deepening rift between the two political figures and their respective camps.",
+          "title": "‘Habagat’ weakens; thunderstorms expected across PH – Pagasa",
+          "summary": "The southwest monsoon, locally known as \"habagat,\" has slightly weakened across the Philippines, though thunderstorms remain expected nationwide on Wednesday. The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) reported that the weather system is now primarily affecting only the western section of Northern Luzon.\n\nDespite the overall reduction in monsoon intensity, residents should still anticipate scattered rainfall and storm activity across various regions. Pagasa continues to monitor conditions closely as the habagat gradually loses strength but maintains its potential to trigger localized thunderstorms throughout the country.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2243545/cayetano-questions-credibility-of-senate-threat-intel-from-nbi",
+              "url": "https://newsinfo.inquirer.net/2243877/habagat-weakens-slightly-thunderstorms-expected-across-ph-pagasa",
               "source": "Philippine Daily Inquirer",
-              "headline": "Cayetano questions credibility of Senate threat intel from NBI",
-              "excerpt": "MANILA, Philippines — Sen. Alan Peter Cayetano questioned on Tuesday the credibility of a reported Senate security threat, saying the information came from a “clearly partisan” National Bureau of Investigation (NBI). Earlier, Senate President Pro Tempore Sherwin Gatchalian said there was a potential security threat in the chamber, citing the NBI’s information. Cayetano said not",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/1237787.jpeg",
-              "imageAlt": "Cayetano questions credibility of Senate threat intel from NBI",
+              "headline": "‘Habagat’ weakens; thunderstorms expected across PH – Pagasa",
+              "excerpt": "(Satellite image from Pagasa / Facebook) MANILA, Philippines — The southwest monsoon or “habagat” has slightly weakened, but thunderstorms are still expected nationwide on Wednesday, according to the state weather bureau. According to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa), the habagat is now only affecting the western section of Northern Luzon. “We",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/image_1-4.jpeg",
+              "imageAlt": "‘Habagat’ weakens; thunderstorms expected across PH – Pagasa",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/1237787.jpeg",
-          "imageAlt": "Cayetano questions credibility of Senate threat intel from NBI",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/image_1-4.jpeg",
+          "imageAlt": "‘Habagat’ weakens; thunderstorms expected across PH – Pagasa",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Peace adviser lauds BARMM solidarity with quake-affected communities",
-          "summary": "Presidential Adviser on Peace, Reconciliation and Unity Mel Senen Sarmiento praised the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) for its humanitarian response to a recent natural disaster. The region extended assistance to communities in neighboring Soccsksargen and Davao regions that were impacted by a magnitude 7.8 earthquake.\n\nSarmiento highlighted the deployment of the BARMM Rapid Damage Assessment team as part of this solidarity effort. The gesture underscores regional cooperation in addressing the aftermath of the seismic event affecting multiple areas in Mindanao.",
+          "title": "Driver in viral SLEx hit-and-run video surrenders, apologizes",
+          "summary": "The driver involved in a viral hit-and-run incident on the Southern Luzon Expressway (SLEX) has surrendered to authorities and issued an apology. Manjot Singh, a 21-year-old Indian-Filipino national, turned himself over to the Philippine National Police – Highway Patrol Group (PNP HPG).\n\nThe surrender follows widespread public attention generated by video footage of the incident that occurred last weekend.\n\nSingh was involved in a collision with Patrolman Jeric Aya-ay during the event. Following his voluntary appearance before law enforcement officials, he was released while authorities prepare to file formal complaints against him.\n\nThe case continues to draw significant media coverage as legal proceedings are initiated.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2243652/peace-adviser-lauds-barmm-solidarity-with-quake-affected-communities",
+              "url": "https://newsinfo.inquirer.net/2243894/pnp-hpg-driver-surrenders-apologizes-for-slex-hit-and-run",
               "source": "Philippine Daily Inquirer",
-              "headline": "Peace adviser lauds BARMM solidarity with quake-affected communities",
-              "excerpt": "COTABATO CITY — Presidential Adviser on Peace, Reconciliation and Unity Mel Senen Sarmiento on Tuesday lauded the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) for extending humanitarian assistance to communities affected by the magnitude 7.8 earthquake in neighboring Soccsksargen and Davao regions. In a statement, Sarmiento praised the deployment of the BARMM Rapid Damage Assessment",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_9149.jpeg",
-              "imageAlt": "Peace adviser lauds BARMM solidarity with quake-affected communities",
+              "headline": "Driver in viral SLEx hit-and-run video surrenders, apologizes",
+              "excerpt": "21-year-old Indian-Filipino Manjot Singh surrenders to the Philippine National Police – Highway Patrol Group (PNP HPG) after figuring in a hit-and-run incident with Patrolman Jeric Aya-ay along the Southern Luzon Expressway (SLEX) last weekend. Singh was released pending the filing of formal complaints. (Jason Sigales/INQUIRER.net) MANILA, Philippines — The driver who figured in a hit-and-run",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_0608.jpg",
+              "imageAlt": "Driver in viral SLEx hit-and-run video surrenders, apologizes",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -783,21 +872,21 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_9149.jpeg",
-          "imageAlt": "Peace adviser lauds BARMM solidarity with quake-affected communities",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_0608.jpg",
+          "imageAlt": "Driver in viral SLEx hit-and-run video surrenders, apologizes",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "DOST to unveil Mt. Pinatubo marker to recall 1991 eruption",
-          "summary": "The Department of Science and Technology – Philippine Institute of Volcanology and Seismology (DOST-PHIVOLCS) will commemorate the 35th anniversary of the Mount Pinatubo eruption with a series of events starting Tuesday. The commemoration aims to recall the historic 1991 disaster that significantly impacted Pampanga and global climate patterns.\n\nIn partnership with the Holy Angel University Center for Kapampangan Studies, DOST-PHIVOLCS will host a twin-event program titled “Pinatubo at.” A key component of these activities is the unveiling of a new marker dedicated to remembering the eruption. The initiative seeks to preserve the memory of the event while highlighting scientific monitoring efforts.",
+          "title": "Magnitude 8.2 quakes possible along PH trenches, says Phivolcs",
+          "summary": "Areas located along the country’s six active trenches could experience earthquakes of up to magnitude 8.2, according to Philippine Institute of Volcanology and Seismology (Phivolcs) Director Teresito Bacolcol.\n\nBacolcol made the statement during an interview with the Philippine News Agency on Tuesday, highlighting the seismic risks associated with these geological features.\n\nThe six active trenches identified by Phivolcs include the Philippine Trench, which stretches from East Luzon to Southeastern Mindanao.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2243548/dost-to-unveil-mt-pinatubo-marker-to-recall-1991-eruption",
+              "url": "https://newsinfo.inquirer.net/2243703/magnitude-8-2-quakes-possible-along-ph-trenches-says-phivolcs",
               "source": "Philippine Daily Inquirer",
-              "headline": "DOST to unveil Mt. Pinatubo marker to recall 1991 eruption",
-              "excerpt": "The Department of Science and Technology – Philippine Institute of Volcanology and Seismology (DOST-PHIVOLCS) will hold commemorative activities to mark the 35th anniversary of the eruption of Mount Pinatubo in Pampanga, starting on Tuesday. In partnership with the Holy Angel University (HAU) Center for Kapampangan Studies, the DOST-PHIVOLCS will hold a twin-event program, “Pinatubo at",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/06/News1039225.jpg",
-              "imageAlt": "DOST to unveil Mt. Pinatubo marker to recall 1991 eruption",
+              "headline": "Magnitude 8.2 quakes possible along PH trenches, says Phivolcs",
+              "excerpt": "MANILA, Philippines — Areas located along the country’s six active trenches could experience earthquakes of up to magnitude 8.2, Philippine Institute of Volcanology and Seismology (Phivolcs) Director Teresito Bacolcol said Tuesday. In an interview with the Philippine News Agency, Bacolcol identified the six active trenches as the Philippine Trench (located from East Luzon to Southeast",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/cebu-earthquake.jpeg",
+              "imageAlt": "Magnitude 8.2 quakes possible along PH trenches, says Phivolcs",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -806,13 +895,13 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/06/News1039225.jpg",
-          "imageAlt": "DOST to unveil Mt. Pinatubo marker to recall 1991 eruption",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/cebu-earthquake.jpeg",
+          "imageAlt": "Magnitude 8.2 quakes possible along PH trenches, says Phivolcs",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -874,16 +963,16 @@
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
-          "summary": "Valerie Veatch’s documentary Ghost in the Machine examines the historical roots of artificial intelligence within right-wing ideology and eugenics. The film explores this controversial lineage through a series of colorful, often eccentric figures who shaped early AI concepts.\n\nVeatch, known for previous documentaries such as Love Child and Me at the Zoo, brings her observational style to this polemic on technology's darker origins. The review describes the work as an entertaining dive into how race politics influenced the development of machine intelligence.",
+          "title": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
+          "summary": "Deputy Prime Minister David Lammy is set to announce a trial of AI-powered legal assistants in the crown courts of England and Wales. The initiative aims to reduce the significant backlog of court cases by integrating virtual assistants into the judicial process.\n\nLegal professionals have responded with caution, warning that the technology must not be used as a substitute for essential funding and additional court staff. Lawyers emphasize that while AI may assist with administrative tasks, it cannot replace the human resources necessary for effective legal proceedings.",
           "links": [
             {
-              "url": "https://www.theguardian.com/film/2026/jun/01/ghost-in-the-machine-review-entertaining-ai-polemic-dives-into-its-dark-history-in-race-politics-and-eugenics",
+              "url": "https://www.theguardian.com/technology/2026/jun/09/ai-legal-assistants-england-wales-cannot-replace-funding-staff",
               "source": "The Guardian Technology",
-              "headline": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
-              "excerpt": "The roots of AI in rightwing ideology is examined in Valerie Veatch’s enjoyable doc, including an array of colourful, often crazed, figures Director Valerie Veatch made her name with documentaries such as Love Child (about an online gaming-addicted couple whose child died of malnutrition) and Me at the Zoo (about American vlogger Cara Cunningham), film",
-              "imageUrl": "https://i.guim.co.uk/img/media/9705ea73cf164f37a98134045243cbe87b553374/472_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0e32ec17a18049c70adb9d06c650c3c6",
-              "imageAlt": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
+              "headline": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
+              "excerpt": "David Lammy to announce trial of AI assistants in crown courts in effort to cut backlog of cases A plan to roll out virtual legal assistants powered by artificial intelligence to crown courts has prompted warnings that the technology should not be used to “replace vital funding and additional court staff”. David Lammy, the deputy prime minister, will announce on Tuesday that AI assistants will be trialled in an effort to cut the backlog of court cases in England and Wales. <a",
+              "imageUrl": "https://i.guim.co.uk/img/media/775188b8648e1cef55108b4132b471fed8b8406a/1040_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=fff1ae48c864095c1f989dd143f497f2",
+              "imageAlt": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -892,13 +981,13 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/9705ea73cf164f37a98134045243cbe87b553374/472_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0e32ec17a18049c70adb9d06c650c3c6",
-          "imageAlt": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
+          "imageUrl": "https://i.guim.co.uk/img/media/775188b8648e1cef55108b4132b471fed8b8406a/1040_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=fff1ae48c864095c1f989dd143f497f2",
+          "imageAlt": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
           "imageCredit": "The Guardian"
         },
         {
@@ -927,16 +1016,16 @@
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
         },
         {
-          "title": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial",
-          "summary": "The Guardian editorial urges ministers to terminate Palantir’s contract with the NHS, warning that patient confidentiality is at risk. The publication argues that patients should not be treated as raw material for big tech companies driven by an appetite for public data.\n\nAlarm bells reportedly sounded last month when it emerged that Palantir engineers could gain unlimited access to identifiable NHS patient records. Such sensitive medical information was intended to be available only under strict conditions, raising concerns about the scope of corporate access.",
+          "title": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
+          "summary": "Valerie Veatch’s documentary Ghost in the Machine examines the historical roots of artificial intelligence within right-wing ideology and eugenics. The film explores this controversial lineage through a series of colorful, often eccentric figures who shaped early AI concepts.\n\nVeatch, known for previous documentaries such as Love Child and Me at the Zoo, brings her observational style to this polemic on technology's darker origins. The review describes the resulting work as an entertaining yet critical examination of how race politics influenced the development of machine intelligence.",
           "links": [
             {
-              "url": "https://www.theguardian.com/commentisfree/2026/jun/04/the-guardian-view-on-nhs-records-patients-are-not-raw-material-for-big-tech",
+              "url": "https://www.theguardian.com/film/2026/jun/01/ghost-in-the-machine-review-entertaining-ai-polemic-dives-into-its-dark-history-in-race-politics-and-eugenics",
               "source": "The Guardian Technology",
-              "headline": "The Guardian view on NHS records: patients are not raw material for big tech",
-              "excerpt": "Ministers should end Palantir’s contract before medical confidentiality is sacrificed to Silicon Valley’s appetite for public data Alarm bells ought to have rung when it emerged last month that Palantir engineers could gain “ unlimited access ” to identifiable NHS patient data. Such sensitive medical information was only supposed to be available eithe",
-              "imageUrl": "https://i.guim.co.uk/img/media/b1a6affbb60f92721cc723a18d551bc671e8dcdc/321_0_3052_2442/master/3052.jpg?width=140&quality=85&auto=format&fit=max&s=108d2f19eaf4f40bb8306dec9a18348b",
-              "imageAlt": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial",
+              "headline": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
+              "excerpt": "The roots of AI in rightwing ideology is examined in Valerie Veatch’s enjoyable doc, including an array of colourful, often crazed, figures Director Valerie Veatch made her name with documentaries such as Love Child (about an online gaming-addicted couple whose child died of malnutrition) and Me at the Zoo (about American vlogger Cara Cunningham), film",
+              "imageUrl": "https://i.guim.co.uk/img/media/9705ea73cf164f37a98134045243cbe87b553374/472_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0e32ec17a18049c70adb9d06c650c3c6",
+              "imageAlt": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -945,13 +1034,13 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/b1a6affbb60f92721cc723a18d551bc671e8dcdc/321_0_3052_2442/master/3052.jpg?width=140&quality=85&auto=format&fit=max&s=108d2f19eaf4f40bb8306dec9a18348b",
-          "imageAlt": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial",
+          "imageUrl": "https://i.guim.co.uk/img/media/9705ea73cf164f37a98134045243cbe87b553374/472_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0e32ec17a18049c70adb9d06c650c3c6",
+          "imageAlt": "Ghost in the Machine review – entertaining AI polemic dives into its dark history in race politics and eugenics",
           "imageCredit": "The Guardian"
         }
       ]
