@@ -2,24 +2,71 @@
   "id": "2026-06-14-expanded",
   "date": "2026-06-14",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-14T03:00:16.334957",
+  "generatedAt": "2026-06-14T12:30:25.629298",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-14T03:00:16",
+  "updatedAt": "2026-06-14T12:30:25",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Trump hails ‘WALL TO NO NUCLEAR WEAPON’ and promises deal ‘tomorrow’",
-          "summary": "Trump hails ‘WALL TO NO NUCLEAR WEAPON’ and promises deal ‘tomorrow’. President Donald Trump said Saturday that he expects to sign a new nuclear agreement with Iran on Sunday, June 14, following several days of military exchanges between the United States and Iran.\n\n“The Deal is scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL,” Trump wrote […]. Al Jazeera: US President Trump says US-Iran deal to be signed tomorrow.\n\nAl Jazeera reports that uS President Donald Trump says a deal between Washington and Tehran will be signed on Sunday.",
+          "title": "Greenville mall shooting leaves two hospitalized and several people detained",
+          "summary": "Greenville mall shooting leaves two hospitalized and several people detained. Two people were hospitalized Saturday after a shooting at a shopping mall in Greenville, South Carolina, authorities said.\n\nThe Greenville Police Department said two victims were transported to a local hospital and that several individuals have been detained as officers continue investigating the incident, which took place at Greenville’s Haywood Mall, according to Fox Carolina […].\n\nCNN: Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving.\n\nCNN reports that maine authorities have detained a person of interest and continue to investigate after two shooting incidents that appear to be connected left at least four people dead and three others injured, state police said.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss",
+              "url": "https://www.cnn.com/2023/04/18/us/maine-shooting-bowdoin-yarmouth/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving",
+              "excerpt": "Maine authorities have detained a person of interest and continue to investigate after two shooting incidents that appear to be connected left at least four people dead and three others injured, state police said.",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418144820-01-yarmouth-shooting-0418-super-169.jpg",
+              "imageAlt": "Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/crime/4607805/greenville-mall-shooting-two-hospitalized-several-detained/",
+              "source": "Washington Examiner",
+              "headline": "Greenville mall shooting leaves two hospitalized and several people detained",
+              "excerpt": "Two people were hospitalized Saturday after a shooting at a shopping mall in Greenville, South Carolina, authorities said. The Greenville Police Department said two victims were transported to a local hospital and that several individuals have been detained as officers continue investigating the incident, which took place at Greenville’s Haywood Mall, according to Fox Carolina […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26144599577719.jpg?w=696",
+              "imageAlt": "Greenville mall shooting leaves two hospitalized and several people detained",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418144820-01-yarmouth-shooting-0418-super-169.jpg",
+          "imageAlt": "Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving",
+          "imageCredit": "CNN"
+        },
+        {
+          "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+          "summary": "Iran war live: Trump says deal to be signed today; Tehran disputes timing. US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.\n\nBBC: Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing.\n\nBBC reports that the US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "US President Trump says US-Iran deal to be signed tomorrow",
-              "excerpt": "US President Donald Trump says a deal between Washington and Tehran will be signed on Sunday.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-Trump-says-deal-tomorrow-1781373673.jpg?resize=1920%2C1440",
-              "imageAlt": "US President Trump says US-Iran deal to be signed tomorrow",
+              "headline": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+              "excerpt": "US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260610__B6KZ2X2__v2__HighRes__IranUsIsraelWar-1781090486.jpg?resize=1920%2C1440",
+              "imageAlt": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -34,10 +81,10 @@
             {
               "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "US-Iran deal scheduled to be signed on Sunday, says Trump",
-              "excerpt": "Before the US president's comments, Iran expressed caution about the exact timing.",
+              "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+              "excerpt": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ff/live/e53f0010-674d-11f1-8546-8f19e4fe30f4.jpg",
-              "imageAlt": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+              "imageAlt": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -49,162 +96,13 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://nypost.com/2026/06/13/us-news/trump-says-iran-no-longer-wants-a-nuke-in-deal-that-could-be-signed-sunday/",
-              "source": "New York Post",
-              "headline": "Trump says Iran peace deal will be signed Sunday, reveals Tehran ‘no longer’ wants a nuke",
-              "excerpt": "The United States and Iran will sign a peace deal Sunday, President Trump said on Truth Social.",
-              "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/06/crop-39667237.jpg?quality=75&strip=all&w=1024",
-              "imageAlt": "Trump says Iran peace deal will be signed Sunday, reveals Tehran ‘no longer’ wants a nuke",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/white-house/4607754/trump-hail-wall-no-nuclear-weapon-deal-tomorrow/",
-              "source": "Washington Examiner",
-              "headline": "Trump hails ‘WALL TO NO NUCLEAR WEAPON’ and promises deal ‘tomorrow’",
-              "excerpt": "President Donald Trump said Saturday that he expects to sign a new nuclear agreement with Iran on Sunday, June 14, following several days of military exchanges between the United States and Iran. “The Deal is scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL,” Trump wrote […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/trump-calls-off-strikes-graphic-1.png?w=696",
-              "imageAlt": "Trump hails ‘WALL TO NO NUCLEAR WEAPON’ and promises deal ‘tomorrow’",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-Trump-says-deal-tomorrow-1781373673.jpg?resize=1920%2C1440",
-          "imageAlt": "US President Trump says US-Iran deal to be signed tomorrow",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "German State Media Accuses Elon Musk, Tommy Robinson of Inciting Belfast Rioters to 'Hunt' Migrants",
-          "summary": "German State Media Accuses Elon Musk, Tommy Robinson of Inciting Belfast Rioters to 'Hunt' Migrants. German state media has accused Tesla trillionaire Elon Musk and anti-grooming gang activist Tommy Robinson of calling for the \"hunting\" of migrants in the wake of an alleged asylum seeker beheading attempt in Belfast.\n\nThe post German State Media Accuses Elon Musk, Tommy Robinson of Inciting Belfast Rioters to ‘Hunt’ Migra. Al Jazeera: Thousands attend anti-racism rallies following unrest in Belfast.\n\nAl Jazeera reports that the rallies in Northern Ireland follow two nights of anti-immigrant violence provoked by a stabbing attack.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Thousands attend anti-racism rallies following unrest in Belfast",
-              "excerpt": "The rallies in Northern Ireland follow two nights of anti-immigrant violence provoked by a stabbing attack.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260613__B6YD6GD__v1__HighRes__BritainNirelandPoliceImmigrationProtest-1781361566.jpg?resize=1920%2C1440",
-              "imageAlt": "Thousands attend anti-racism rallies following unrest in Belfast",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.breitbart.com/europe/2026/06/13/german-state-media-accuses-elon-musk-tommy-robinson-of-inciting-belfast-rioters-to-hunt-migrants/",
-              "source": "Breitbart",
-              "headline": "German State Media Accuses Elon Musk, Tommy Robinson of Inciting Belfast Rioters to 'Hunt' Migrants",
-              "excerpt": "German state media has accused Tesla trillionaire Elon Musk and anti-grooming gang activist Tommy Robinson of calling for the \"hunting\" of migrants in the wake of an alleged asylum seeker beheading attempt in Belfast. The post German State Media Accuses Elon Musk, Tommy Robinson of Inciting Belfast Rioters to ‘Hunt’ Migra",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/GettyImages-2280173765-1-640x335.jpg",
-              "imageAlt": "German State Media Accuses Elon Musk, Tommy Robinson of Inciting Belfast Rioters to 'Hunt' Migrants",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/jun/13/german-broadcaster-accuses-elon-musk-tommy-robinson-inciting-belfast/",
-              "source": "Washington Times",
-              "headline": "German broadcaster accuses Elon Musk, Tommy Robinson of inciting Belfast riot",
-              "excerpt": "German public broadcaster ZDF accused Elon Musk and British right-wing activist Tommy Robinson of inciting anti-immigrant violence in Belfast following a brutal stabbing attack that triggered days of riots across Northern Ireland.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/11/Britain_Northern_Ireland_Stabbing_Protests_47787_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "German broadcaster accuses Elon Musk, Tommy Robinson of inciting Belfast riot",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260613__B6YD6GD__v1__HighRes__BritainNirelandPoliceImmigrationProtest-1781361566.jpg?resize=1920%2C1440",
-          "imageAlt": "Thousands attend anti-racism rallies following unrest in Belfast",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260610__B6KZ2X2__v2__HighRes__IranUsIsraelWar-1781090486.jpg?resize=1920%2C1440",
+          "imageAlt": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
           "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Trump Announces U.S. Military Strike Killed Tren de Aragua Leader Nino Guerrero",
-          "summary": "Trump Announces U.S. Military Strike Killed Tren de Aragua Leader Nino Guerrero. President Donald Trump announced Friday that the U.S. military killed Niño Guerrero, the leader of the Venezuelan gang Tren de Aragua, in what he described as a \"swift and lethal kinetic strike\" carried out by U.S. Southern Command at his direction.\n\nThe post Trump Announces U.S. Military Strike Killed Tren de Aragua Leader Niño Guerrero<. BBC: US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says.\n\nBBC reports that niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-          "links": [
-            {
-              "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-              "excerpt": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bf/live/d798f640-66d1-11f1-bb58-c91c9b854a9d.jpg",
-              "imageAlt": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/politics/2026/06/12/trump-announces-u-s-military-strike-killed-tren-de-aragua-leader-nino-guerrero/",
-              "source": "Breitbart",
-              "headline": "Trump Announces U.S. Military Strike Killed Tren de Aragua Leader Nino Guerrero",
-              "excerpt": "President Donald Trump announced Friday that the U.S. military killed Niño Guerrero, the leader of the Venezuelan gang Tren de Aragua, in what he described as a \"swift and lethal kinetic strike\" carried out by U.S. Southern Command at his direction. The post Trump Announces U.S. Military Strike Killed Tren de Aragua Leader Niño Guerrero<",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/Tren-de-Arugua-Gang-640x335.jpeg",
-              "imageAlt": "Trump Announces U.S. Military Strike Killed Tren de Aragua Leader Nino Guerrero",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bf/live/d798f640-66d1-11f1-bb58-c91c9b854a9d.jpg",
-          "imageAlt": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-          "imageCredit": "BBC"
         },
         {
           "title": "Why isn't the House Judiciary Committee looking into Thomas?",
@@ -230,22 +128,58 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
           "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
           "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
           "imageCredit": "CNN"
         },
         {
-          "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
-          "summary": "Anthropic says it has taken its latest AI models offline to comply with new export controls. AI giant Anthropic said Friday it has taken its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline to comply with a directive from the Trump administration to prevent their use by foreign nationals.\n\nAl Jazeera: US orders Anthropic to disable AI models for all foreign nationals. Al Jazeera reports that the company said it received ⁠an export control directive to suspend access to Fable 5 and Mythos 5.",
+          "title": "Trump names James M. McDonald to lead powerful New York federal prosecutor's office",
+          "summary": "Trump names James M. McDonald to lead powerful New York federal prosecutor's office.\n\nPresident Trump said Saturday that he will appoint one of his personal lawyers to serve as the top federal prosecutor in Manhattan after the attorney who holds the job was tapped this week for the role of director of national intelligence.\n\nBreitbart: Trump Names His Pick for U.S. Attorney for the Southern District of New York. Breitbart reports that president Donald Trump announced Saturday he intends to appoint James McDonald U.S. Attorney for the Southern District of New York.\n\nThe post Trump Names His Pick for U.S. Attorney for the Southern District of New York appeared first on Breitbart .",
           "links": [
             {
-              "url": "https://www.washingtontimes.com/news/2026/jun/13/anthropics-latest-ai-models-taken-offline-comply-new-export-controls/",
+              "url": "https://www.breitbart.com/politics/2026/06/13/trump-names-his-pick-u-s-attorney-southern-district-new-york/",
+              "source": "Breitbart",
+              "headline": "Trump Names His Pick for U.S. Attorney for the Southern District of New York",
+              "excerpt": "President Donald Trump announced Saturday he intends to appoint James McDonald U.S. Attorney for the Southern District of New York. The post Trump Names His Pick for U.S. Attorney for the Southern District of New York appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/Donald-Trump-3-640x335.jpg",
+              "imageAlt": "Trump Names His Pick for U.S. Attorney for the Southern District of New York",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/trump-picks-james-mcdonald-lead-powerful-southern-district-new-york-jay-claytons-departure",
+              "source": "Fox News",
+              "headline": "Trump picks James McDonald to lead powerful Southern District of New York after Jay Clayton's departure",
+              "excerpt": "President Donald Trump announces intent to appoint James M. McDonald as the next U.S. attorney for SDNY, replacing Jay Clayton who was nominated as DNI director.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/president-donald-trump-june-3-2026-4.jpg?ve=1&tl=1",
+              "imageAlt": "Trump picks James McDonald to lead powerful Southern District of New York after Jay Clayton's departure",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/13/trump-names-james-m-mcdonald-lead-powerful-new-york-federal/",
               "source": "Washington Times",
-              "headline": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
-              "excerpt": "AI giant Anthropic said Friday it has taken its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline to comply with a directive from the Trump administration to prevent their use by foreign nationals.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/10/Anthropic_AI_Disruptions_57538_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
+              "headline": "Trump names James M. McDonald to lead powerful New York federal prosecutor's office",
+              "excerpt": "President Trump said Saturday that he will appoint one of his personal lawyers to serve as the top federal prosecutor in Manhattan after the attorney who holds the job was tapped this week for the role of director of national intelligence.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/05/29/Trump_Settlement_Fund_9392__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump names James M. McDonald to lead powerful New York federal prosecutor's office",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -256,59 +190,12 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "US orders Anthropic to disable AI models for all foreign nationals",
-              "excerpt": "The company said it received ⁠an export control directive to suspend access to Fable 5 and Mythos 5.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2d1a3f6ff7-1781340735.jpg?resize=1920%2C1440",
-              "imageAlt": "US orders Anthropic to disable AI models for all foreign nationals",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
-          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/10/Anthropic_AI_Disruptions_57538_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-          "imageAlt": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
-          "imageCredit": "Washington Times"
-        },
-        {
-          "title": "Questions of Judgement Raised Over Texas Democrat Candidate's Ties to Former Bandmate Convicted of Child Sex Offense",
-          "summary": "Questions of Judgement Raised Over Texas Democrat Candidate's Ties to Former Bandmate Convicted of Child Sex Offense.\n\nIn a shocking revelation that rocked the Texas 15th Congressional District race, Latin Grammy-winning singer turned Democrat candidate Bobby Pulido was caught on tape bragging about helping his longtime bandmate—a convicted child sex offender—get out of jail.\n\nWhile Pulido’s campaign attempts to dismiss the surfacing of his own words as a “desperate smear,” the audio confirms the candidate boasted about his efforts to bail out accordionist Frankie Caballero, a man later imprisoned for the sexu.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/border/2026/06/12/texas-democrat-congressional-candidate-bragged-about-springing-child-predator-from-jail/",
-              "source": "Breitbart",
-              "headline": "Questions of Judgement Raised Over Texas Democrat Candidate's Ties to Former Bandmate Convicted of Child Sex Offense",
-              "excerpt": "In a shocking revelation that rocked the Texas 15th Congressional District race, Latin Grammy-winning singer turned Democrat candidate Bobby Pulido was caught on tape bragging about helping his longtime bandmate—a convicted child sex offender—get out of jail. While Pulido’s campaign attempts to dismiss the surfacing of his own words as a “desperate smear,” the audio confirms the candidate boasted about his efforts to bail out accordionist Frankie Caballero, a man later imprisoned for the sexu",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/AP26055603490911-1-640x335.jpg",
-              "imageAlt": "Questions of Judgement Raised Over Texas Democrat Candidate's Ties to Former Bandmate Convicted of Child Sex Offense",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
-          "imageUrl": "https://media.breitbart.com/media/2026/06/AP26055603490911-1-640x335.jpg",
-          "imageAlt": "Questions of Judgement Raised Over Texas Democrat Candidate's Ties to Former Bandmate Convicted of Child Sex Offense",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
+          "imageUrl": "https://media.breitbart.com/media/2026/06/Donald-Trump-3-640x335.jpg",
+          "imageAlt": "Trump Names His Pick for U.S. Attorney for the Southern District of New York",
           "imageCredit": "Breitbart"
         },
         {
@@ -332,12 +219,124 @@
               "reliability": "low",
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/us/cbp-coast-guard-intercept-migrant-vessel-heading-puerto-rico-40-apprehended-including-uzbek-national",
+              "source": "Fox News",
+              "headline": "CBP, Coast Guard intercept migrant vessel heading for Puerto Rico; 40 apprehended including Uzbek national",
+              "excerpt": "CBP agents intercepted a 30-foot boat carrying 40 migrants from the Dominican Republic, Haiti and Uzbekistan near Desecheo Island, Puerto Rico.",
+              "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/COASTGUARDRESCURE.gif",
+              "imageAlt": "CBP, Coast Guard intercept migrant vessel heading for Puerto Rico; 40 apprehended including Uzbek national",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
+          "imageUrl": "https://media.breitbart.com/media/2026/06/MixCollage-13-Jun-2026-10-30-AM-4888-1-640x335.jpg",
+          "imageAlt": "EXCLUSIVE: 40 Migrants Arrested on High Seas in Overloaded, Disabled Small Boat near Puerto Rico",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Thunderstorms and insects threaten UFC Freedom 250 fight at White House",
+          "summary": "Thunderstorms and insects threaten UFC Freedom 250 fight at White House. President Donald Trump’s highly anticipated UFC fighting event on the White House South Lawn appears more vulnerable to Washington, D.C.’s swampy summer weather and insect population than to any legal challenge.\n\nA federal judge yesterday declined to block the event, rejecting a lawsuit brought by two Virginia residents just days before the fight. Instead, organizers […].\n\nWashington Times: Thunderstorms threaten to upstage White House UFC event.\n\nWashington Times reports that severe weather may pose as much of a challenge as any fighter at Sunday's UFC Freedom 250 event on the South Lawn of the White House, with meteorologists warning of dangerous thunderstorms, lightning and extreme heat that could disrupt, or even halt, the historic $60 million card.",
+          "links": [
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4607779/thunderstorms-insect-threaten-ufc-freedom-250-fight-white-house/",
+              "source": "Washington Examiner",
+              "headline": "Thunderstorms and insects threaten UFC Freedom 250 fight at White House",
+              "excerpt": "President Donald Trump’s highly anticipated UFC fighting event on the White House South Lawn appears more vulnerable to Washington, D.C.’s swampy summer weather and insect population than to any legal challenge. A federal judge yesterday declined to block the event, rejecting a lawsuit brought by two Virginia residents just days before the fight. Instead, organizers […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26158675820464_248b73.jpg?w=696",
+              "imageAlt": "Thunderstorms and insects threaten UFC Freedom 250 fight at White House",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/13/thunderstorms-threaten-upstage-white-house-ufc-event/",
+              "source": "Washington Times",
+              "headline": "Thunderstorms threaten to upstage White House UFC event",
+              "excerpt": "Severe weather may pose as much of a challenge as any fighter at Sunday's UFC Freedom 250 event on the South Lawn of the White House, with meteorologists warning of dangerous thunderstorms, lightning and extreme heat that could disrupt, or even halt, the historic $60 million card.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/11/APTOPIX_UFC_Freedom_25__Trump_13143_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Thunderstorms threaten to upstage White House UFC event",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
+          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26158675820464_248b73.jpg?w=696",
+          "imageAlt": "Thunderstorms and insects threaten UFC Freedom 250 fight at White House",
+          "imageCredit": "Washington Examiner"
+        },
+        {
+          "title": "White House Responds To Ariana Grande Over Absurd ICE Video Criticism",
+          "summary": "White House Responds To Ariana Grande Over Absurd ICE Video Criticism. The White House issued a response to pop singer Ariana Grande on Thursday after she slammed the Trump administration for using one of her songs in a social media video about ICE arrests.\n\n“We’ll say this one last time: what’s actually barbaric, inhumane, and heinous are the criminal illegal aliens who have injured and murdered ... Breitbart: Ariana Grande Slams Trump White House Use of Her Music to Promote ICE Deportations: ‘Barbaric, Inhumane, Heinous Nonsense’.\n\nBreitbart reports that the White House used Ariana Grande's song Bye in a video showing ICE agents arresting illegal aliens and the left-wing pop star is not happy about it. To say the very least.\n\nThe post Ariana Grande Slams Trump White House Use of Her Music to Promote ICE Deportations: ‘Barbaric, Inhumane, Heinous.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/entertainment/2026/06/12/ariana-grande-slams-trump-white-house-use-of-her-music-to-promote-ice-deportations-barbaric-inhumane-heinous-nonsense/",
+              "source": "Breitbart",
+              "headline": "Ariana Grande Slams Trump White House Use of Her Music to Promote ICE Deportations: ‘Barbaric, Inhumane, Heinous Nonsense’",
+              "excerpt": "The White House used Ariana Grande's song Bye in a video showing ICE agents arresting illegal aliens and the left-wing pop star is not happy about it. To say the very least. The post Ariana Grande Slams Trump White House Use of Her Music to Promote ICE Deportations: ‘Barbaric, Inhumane, Heinous",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/Ariana-Grande-640x335.jpg",
+              "imageAlt": "Ariana Grande Slams Trump White House Use of Her Music to Promote ICE Deportations: ‘Barbaric, Inhumane, Heinous Nonsense’",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/white-house-owns-ariana-grande-over-absurd-ice-video-criticism",
+              "source": "Daily Wire",
+              "headline": "White House Responds To Ariana Grande Over Absurd ICE Video Criticism",
+              "excerpt": "The White House issued a response to pop singer Ariana Grande on Thursday after she slammed the Trump administration for using one of her songs in a social media video about ICE arrests. “We’ll say this one last time: what’s actually barbaric, inhumane, and heinous are the criminal illegal aliens who have injured and murdered ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/Ariana-Grande.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "White House Responds To Ariana Grande Over Absurd ICE Video Criticism",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
-          "imageUrl": "https://media.breitbart.com/media/2026/06/MixCollage-13-Jun-2026-10-30-AM-4888-1-640x335.jpg",
-          "imageAlt": "EXCLUSIVE: 40 Migrants Arrested on High Seas in Overloaded, Disabled Small Boat near Puerto Rico",
+          "imageUrl": "https://media.breitbart.com/media/2026/06/Ariana-Grande-640x335.jpg",
+          "imageAlt": "Ariana Grande Slams Trump White House Use of Her Music to Promote ICE Deportations: ‘Barbaric, Inhumane, Heinous Nonsense’",
           "imageCredit": "Breitbart"
         }
       ]
@@ -375,16 +374,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Woman in critical condition after shark attack at Coogee beach",
-          "summary": "Woman in critical condition after shark attack at Coogee beach. A woman in her 30s has been transported to hospital with arm and leg injuries and beaches in Sydney’s east have been closed after the attack Get our breaking news email , free app or daily news podcast A woman in her 30s is in a critical condition after being bi.\n\nABC News: Woman suffers critical arm and leg injuries in shark attack at Sydney beach. ABC News reports that a woman is in a critical condition after being bitten by a shark at a beach in Sydney's east.",
+          "title": "Butler warns Coalition against using NDIS cuts as ‘pawn in bigger game’ and says bill delays could cost billions",
+          "summary": "Butler warns Coalition against using NDIS cuts as ‘pawn in bigger game’ and says bill delays could cost billions. Opposition and Greens could team up to extend inquiry into changes but health minister ‘utterly convinced’ federal government’s plan is right Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/ema.\n\nABC News: Butler open to NDIS changes but convinced it's heading in 'right direction'. ABC News reports that health Minister Mark Butler is open to adjusting the proposed National Disability Insurance Scheme changes, but insists the government is on the right track.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach",
+              "url": "https://www.theguardian.com/australia-news/2026/jun/14/butler-warns-coalition-against-using-ndis-cuts-as-pawn-in-bigger-game-and-says-bill-delays-could-cost-billions",
               "source": "The Guardian Australia",
-              "headline": "Woman in critical condition after shark attack at Coogee beach",
-              "excerpt": "A woman in her 30s has been transported to hospital with arm and leg injuries and beaches in Sydney’s east have been closed after the attack Get our breaking news email , free app or daily news podcast A woman in her 30s is in a critical condition after being bi",
-              "imageUrl": "https://i.guim.co.uk/img/media/d7adc3dd0b70124e1ca9517c17a90da6e4e1da02/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=d97e0ddfd14bcf1f086518e0a0bde982",
-              "imageAlt": "Woman in critical condition after shark attack at Coogee beach",
+              "headline": "Butler warns Coalition against using NDIS cuts as ‘pawn in bigger game’ and says bill delays could cost billions",
+              "excerpt": "Opposition and Greens could team up to extend inquiry into changes but health minister ‘utterly convinced’ federal government’s plan is right Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/ema",
+              "imageUrl": "https://i.guim.co.uk/img/media/9e209e174cbee3c3a1b6c4ac567b7cbc655d116c/648_0_6480_5184/master/6480.jpg?width=140&quality=85&auto=format&fit=max&s=297b2871acdb15c48438f13f017a9775",
+              "imageAlt": "Butler warns Coalition against using NDIS cuts as ‘pawn in bigger game’ and says bill delays could cost billions",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -397,12 +396,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.abc.net.au/news/2026-06-13/woman-injured-after-shark-attack-sydney-coogee-beach/106794390",
+              "url": "https://www.abc.net.au/news/2026-06-14/butler-leaves-door-open-to-ndis-changes/106795696",
               "source": "ABC Australia",
-              "headline": "Woman suffers critical arm and leg injuries in shark attack at Sydney beach",
-              "excerpt": "A woman is in a critical condition after being bitten by a shark at a beach in Sydney's east.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/4e00f3ba5e6751d38f25d8553c955536?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=109&width=862&height=485",
-              "imageAlt": "Woman suffers critical arm and leg injuries in shark attack at Sydney beach",
+              "headline": "Butler open to NDIS changes but convinced it's heading in 'right direction'",
+              "excerpt": "Health Minister Mark Butler is open to adjusting the proposed National Disability Insurance Scheme changes, but insists the government is on the right track.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Butler open to NDIS changes but convinced it's heading in 'right direction'",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -418,21 +417,21 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
-          "imageUrl": "https://i.guim.co.uk/img/media/d7adc3dd0b70124e1ca9517c17a90da6e4e1da02/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=d97e0ddfd14bcf1f086518e0a0bde982",
-          "imageAlt": "Woman in critical condition after shark attack at Coogee beach",
+          "imageUrl": "https://i.guim.co.uk/img/media/9e209e174cbee3c3a1b6c4ac567b7cbc655d116c/648_0_6480_5184/master/6480.jpg?width=140&quality=85&auto=format&fit=max&s=297b2871acdb15c48438f13f017a9775",
+          "imageAlt": "Butler warns Coalition against using NDIS cuts as ‘pawn in bigger game’ and says bill delays could cost billions",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Labor MPs have been handed new talking points – revealing a growing concern about One Nation",
-          "summary": "Labor MPs have been handed new talking points – revealing a growing concern about One Nation. Labor and its trade union allies have shifted the focus of their rhetorical attacks, targeting Pauline Hanson as if she is the real opposition leader Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-new.\n\nABC News: Victorian opposition leader says Pauline Hanson has not approached her. ABC News reports that the One Nation leader last night told a political fundraiser she would work with the Coalition to oust Labor at the upcoming state election.",
+          "title": "Liberal frontbencher Jonno Duniam to quit politics, says leadership spill ‘started to really wear on me’",
+          "summary": "Liberal frontbencher Jonno Duniam to quit politics, says leadership spill ‘started to really wear on me’. Tasmanian senator says he feels he is ‘letting down the team’ but needs to prioritise family Follow our Australia news live blog for latest updates Get our breaking news email<.\n\nABC News: 'No regrets about pulling up stumps': Liberal frontbencher Jonno Duniam to retire.\n\nABC News reports that senator Duniam says it is time to prioritise his family after 25 years in politics, and he will leave his position in the Senate by the end of this year.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/jun/12/pauline-hanson-one-nation-labor-ntwnfb",
+              "url": "https://www.theguardian.com/australia-news/2026/jun/14/liberal-frontbencher-jonno-duniam-to-quit-politics-in-blow-to-struggling-coalition",
               "source": "The Guardian Australia",
-              "headline": "Labor MPs have been handed new talking points – revealing a growing concern about One Nation",
-              "excerpt": "Labor and its trade union allies have shifted the focus of their rhetorical attacks, targeting Pauline Hanson as if she is the real opposition leader Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-new",
-              "imageUrl": "https://i.guim.co.uk/img/media/00644e34cfc8197693b4097393cc88c994eccfd9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3fdb01a7ee0c9c3ad88ed6f8c27fb8e5",
-              "imageAlt": "Labor MPs have been handed new talking points – revealing a growing concern about One Nation",
+              "headline": "Liberal frontbencher Jonno Duniam to quit politics, says leadership spill ‘started to really wear on me’",
+              "excerpt": "Tasmanian senator says he feels he is ‘letting down the team’ but needs to prioritise family Follow our Australia news live blog for latest updates Get our breaking news email<",
+              "imageUrl": "https://i.guim.co.uk/img/media/82731c99903d1ef0503b405606f45f8a9f6b3a9e/541_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fc302b70fe672c986751d3aa7b8b682f",
+              "imageAlt": "Liberal frontbencher Jonno Duniam to quit politics, says leadership spill ‘started to really wear on me’",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -445,12 +444,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.abc.net.au/news/2026-06-13/one-nation-pauline-hanson-opposition-jess-wilson-protests/106794308",
+              "url": "https://www.abc.net.au/news/2026-06-14/liberal-senator-jonno-duniam-to-quit-politics/106795644",
               "source": "ABC Australia",
-              "headline": "Victorian opposition leader says Pauline Hanson has not approached her",
-              "excerpt": "The One Nation leader last night told a political fundraiser she would work with the Coalition to oust Labor at the upcoming state election.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/012cae31532213d53503ad500b949b95?impolicy=wcms_crop_resize&cropH=928&cropW=1650&xPos=152&yPos=33&width=862&height=485",
-              "imageAlt": "Victorian opposition leader says Pauline Hanson has not approached her",
+              "headline": "'No regrets about pulling up stumps': Liberal frontbencher Jonno Duniam to retire",
+              "excerpt": "Senator Duniam says it is time to prioritise his family after 25 years in politics, and he will leave his position in the Senate by the end of this year.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/f3e83a8673c8ac7cbf6c55f392093b52?impolicy=wcms_crop_resize&cropH=3451&cropW=6135&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "'No regrets about pulling up stumps': Liberal frontbencher Jonno Duniam to retire",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -466,8 +465,8 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[9]",
-          "imageUrl": "https://i.guim.co.uk/img/media/00644e34cfc8197693b4097393cc88c994eccfd9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3fdb01a7ee0c9c3ad88ed6f8c27fb8e5",
-          "imageAlt": "Labor MPs have been handed new talking points – revealing a growing concern about One Nation",
+          "imageUrl": "https://i.guim.co.uk/img/media/82731c99903d1ef0503b405606f45f8a9f6b3a9e/541_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fc302b70fe672c986751d3aa7b8b682f",
+          "imageAlt": "Liberal frontbencher Jonno Duniam to quit politics, says leadership spill ‘started to really wear on me’",
           "imageCredit": "The Guardian"
         },
         {
@@ -534,6 +533,53 @@
           "imageCredit": "TechCrunch"
         },
         {
+          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+          "summary": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown. Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.\n\nThe Verge: Amazon security research reportedly led to the White House’s Anthropic Fable ban.\n\nThe Verge reports that according to the <a href=\"https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-ant.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+              "source": "The Verge",
+              "headline": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+              "excerpt": "According to the <a href=\"https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-ant",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+              "source": "TechCrunch",
+              "headline": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+              "excerpt": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?resize=1200,767",
+              "imageAlt": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+          "imageCredit": "The Verge"
+        },
+        {
           "title": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?",
           "summary": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?. Government announces plans to invest billions, but questions linger over how its proposals on chips, social media and more will work Ownership of the commanding heights of the AI economy is a political talking point around the world, as countries seek to assert some control of a technology dominated by the US and China.\n\nLondon Tech Week, the showcase event for the UK tech industry, focused heavily on that theme this week. A government keen to show it has a growth story, and an ass.",
           "links": [
@@ -557,7 +603,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
           "imageUrl": "https://i.guim.co.uk/img/media/571ac47b1baf13ad655d8c2be5d25da424d398fc/452_0_4975_3980/master/4975.jpg?width=140&quality=85&auto=format&fit=max&s=29b585cd75929b8de0bf96c8cb0eabb9",
           "imageAlt": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?",
           "imageCredit": "The Guardian"
@@ -586,7 +632,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
           "imageUrl": "https://i.guim.co.uk/img/media/ab017bb369e63fdf05eb1da6036bf1bc96438a03/712_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=6002e027a1383ecb820f9b6757410872",
           "imageAlt": "UK parents support an under-16 social media ban – but what do their children think?",
           "imageCredit": "The Guardian"
@@ -615,38 +661,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
           "imageUrl": "https://i.guim.co.uk/img/media/ba3aa2b9b11a8ec2f237fb2a45e646c3da4d2bad/469_0_2655_2126/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=2f589f95b1fe080d09c7bf8fc95bae31",
           "imageAlt": "Dutch far-right party pays damages to court artist after changing image with AI",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
-          "summary": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time. Other projects include developing tools to help visually impaired people navigate video games Parents are constantly being told to limit their children’s screen time.\n\nBut when it comes to deciphering which films or TV shows are best suited to developing minds, the guidance remains largely one-size-fits-all.\n\nA relatively slow-paced programme such as Bluey offers a very different viewing experience to a fast-moving action series such as PAW Patrol, yet both are b.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
-              "source": "The Guardian Technology",
-              "headline": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
-              "excerpt": "Other projects include developing tools to help visually impaired people navigate video games Parents are constantly being told to limit their children’s screen time. But when it comes to deciphering which films or TV shows are best suited to developing minds, the guidance remains largely one-size-fits-all. A relatively slow-paced programme such as Bluey offers a very different viewing experience to a fast-moving action series such as PAW Patrol, yet both are b",
-              "imageUrl": "https://i.guim.co.uk/img/media/771af72e4610d0b12aa1a96202ad70538f50959e/642_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b651a65f69a06e300e51d140a320685e",
-              "imageAlt": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
-          "imageUrl": "https://i.guim.co.uk/img/media/771af72e4610d0b12aa1a96202ad70538f50959e/642_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b651a65f69a06e300e51d140a320685e",
-          "imageAlt": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
           "imageCredit": "The Guardian"
         }
       ]
@@ -655,32 +672,32 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Disaster drills helped prevent more deaths in Mindanao quake",
-          "summary": "Disaster drills helped prevent more deaths in Mindanao quake. Years of disaster-preparedness drills helped prevent a larger casualty toll when one of the strongest earthquakes in 50 years struck southern Mindanao on Monday, officials said Friday.\n\nTeresito Bacolcol, director of the Philippine Institute of Volcanology and Seismology (Phivolcs), said the preparations helped people anticipate and brace for extreme events like Monday’s quake. READ: Mindanao.",
+          "title": "Pakil mayor: LGU lacks power to enforce NHCP order on hydro project",
+          "summary": "Pakil mayor: LGU lacks power to enforce NHCP order on hydro project.\n\nLUCENA CITY — The municipal mayor of Pakil, Laguna clarified that the local government unit (LGU) has no legal authority to implement the cease-and-desist order (CDO) issued by the National Historical Commission of the Philippines (NHCP) against the proponent of the controversial 1,400-megawatt Ahunan Pumped Storage Hydropower Project (APSHP).\n\n“Although the local government unit received.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2245596/disaster-drills-helped-prevent-more-deaths-in-mindanao-quake",
+              "url": "https://newsinfo.inquirer.net/2245991/pakil-mayor-says-lgu-lacks-power-to-enforce-nhcp-order-vs-dam-project",
               "source": "Philippine Daily Inquirer",
-              "headline": "Disaster drills helped prevent more deaths in Mindanao quake",
-              "excerpt": "Years of disaster-preparedness drills helped prevent a larger casualty toll when one of the strongest earthquakes in 50 years struck southern Mindanao on Monday, officials said Friday. Teresito Bacolcol, director of the Philippine Institute of Volcanology and Seismology (Phivolcs), said the preparations helped people anticipate and brace for extreme events like Monday’s quake. READ: Mindanao",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/News1238181.jpg",
-              "imageAlt": "Disaster drills helped prevent more deaths in Mindanao quake",
+              "headline": "Pakil mayor: LGU lacks power to enforce NHCP order on hydro project",
+              "excerpt": "LUCENA CITY — The municipal mayor of Pakil, Laguna clarified that the local government unit (LGU) has no legal authority to implement the cease-and-desist order (CDO) issued by the National Historical Commission of the Philippines (NHCP) against the proponent of the controversial 1,400-megawatt Ahunan Pumped Storage Hydropower Project (APSHP). “Although the local government unit received",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Pakil-mayor-says-LGU-has-no-authority-to-enforce-ceast-and-desist-vs-Ahunan-dam-project.png",
+              "imageAlt": "Pakil mayor: LGU lacks power to enforce NHCP order on hydro project",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/News1238181.jpg",
-          "imageAlt": "Disaster drills helped prevent more deaths in Mindanao quake",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Pakil-mayor-says-LGU-has-no-authority-to-enforce-ceast-and-desist-vs-Ahunan-dam-project.png",
+          "imageAlt": "Pakil mayor: LGU lacks power to enforce NHCP order on hydro project",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
@@ -771,16 +788,16 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Marcos: ‘True leaders sacrifice own interests’",
-          "summary": "Marcos: ‘True leaders sacrifice own interests’. President Ferdinand Marcos Jr. on Independence Day reminded fellow government officials to always prioritize the collective welfare, saying “true leaders are those who sacrifice their own interests for the good of the people.” In rites commemorating the 1898 declaration of the nation’s breakaway from Spanish colonial rule, the President urged Filipinos to draw lessons from.",
+          "title": "Fisherman faces raps after P780,000 gear seized in Occidental Mindoro",
+          "summary": "Fisherman faces raps after P780,000 gear seized in Occidental Mindoro. CALAPAN CITY, Oriental Mindoro — Authorities arrested a fisherman for allegedly operating without the required permit and seized about P780,750 worth of fishing equipment and catch during a maritime law enforcement operation in the waters off Mamburao, Occidental Mindoro, early Saturday, June 13.\n\nThe operation was carried out by personnel of the Occidental Mindoro Maritime. Philippine Daily Inquirer: 25 arrested, P1.3-M illegal fishing equipment seized in Western Visayas.\n\nPhilippine Daily Inquirer reports that iLOILO CITY — Police arrested 25 suspected illegal fishers and seized more than P1.3 million worth of prohibited fishing equipment in a series of coordinated operations across Western Visayas, the Police Regional Office 6 (PRO-6) reported on Saturday, June 13.\n\nThe regionwide crackdown, conducted over a 24-hou",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2245605/marcos-true-leaders-sacrifice-own-interests",
+              "url": "https://newsinfo.inquirer.net/2245996/25-arrested-p1-3-m-illegal-fishing-equipment-seized-in-western-visayas",
               "source": "Philippine Daily Inquirer",
-              "headline": "Marcos: ‘True leaders sacrifice own interests’",
-              "excerpt": "President Ferdinand Marcos Jr. on Independence Day reminded fellow government officials to always prioritize the collective welfare, saying “true leaders are those who sacrifice their own interests for the good of the people.” In rites commemorating the 1898 declaration of the nation’s breakaway from Spanish colonial rule, the President urged Filipinos to draw lessons from",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/PHILIPPINE-INDEPENDENCE-DAY-Marcos-12June2026_4.jpg",
-              "imageAlt": "Marcos: ‘True leaders sacrifice own interests’",
+              "headline": "25 arrested, P1.3-M illegal fishing equipment seized in Western Visayas",
+              "excerpt": "ILOILO CITY — Police arrested 25 suspected illegal fishers and seized more than P1.3 million worth of prohibited fishing equipment in a series of coordinated operations across Western Visayas, the Police Regional Office 6 (PRO-6) reported on Saturday, June 13. The regionwide crackdown, conducted over a 24-hour period from 6 a.m. on June 12 to",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/Western-Visayas-INQUIRER-FILES-2.png",
+              "imageAlt": "25 arrested, P1.3-M illegal fishing equipment seized in Western Visayas",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -795,8 +812,8 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/PHILIPPINE-INDEPENDENCE-DAY-Marcos-12June2026_4.jpg",
-          "imageAlt": "Marcos: ‘True leaders sacrifice own interests’",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/Western-Visayas-INQUIRER-FILES-2.png",
+          "imageAlt": "25 arrested, P1.3-M illegal fishing equipment seized in Western Visayas",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -804,6 +821,32 @@
     {
       "name": "Business / Finance",
       "stories": [
+        {
+          "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+          "summary": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says. The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+              "source": "Wall Street Journal",
+              "headline": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+              "excerpt": "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.",
+              "imageUrl": "",
+              "imageAlt": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]"
+        },
         {
           "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
           "summary": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google. The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
@@ -828,48 +871,19 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]"
         },
         {
-          "title": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims",
-          "summary": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims. Former xAI engineer Devin Kim alleges he was illegally fired for trying to implement safety mechanisms for the chatbot A former engineer at Elon Musk ’s xAI who now heads a thinktank focused on AI safety filed a lawsuit claiming he was fired from the SpaceX subsidiary for raising concerns abou.",
+          "title": "Cassette tapes were the voice notes of my youth, bringing tales from the diaspora to our living room | Shadi Khan Saif",
+          "summary": "Cassette tapes were the voice notes of my youth, bringing tales from the diaspora to our living room | Shadi Khan Saif. A Melbourne exhibition summons memories of my family gathering to listen to stories from distant relatives On a sunny Melbourne winter morning, I visited the State Library of Victoria to catch up with a mate and stumbled upon an exhibition of heartfelt letters and souvenirs that lovers have been sharing with each throughout the ages.\n\nWhat really caught my eye was a glass box in a neglected corner containing cassette tapes from the past century. It looked like a lost universe redis.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/jun/11/elon-musk-engineer-fired-grok-lawsuit",
+              "url": "https://www.theguardian.com/commentisfree/2026/jun/11/cassette-tapes-voice-notes-of-my-youth",
               "source": "The Guardian Technology",
-              "headline": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims",
-              "excerpt": "Former xAI engineer Devin Kim alleges he was illegally fired for trying to implement safety mechanisms for the chatbot A former engineer at Elon Musk ’s xAI who now heads a thinktank focused on AI safety filed a lawsuit claiming he was fired from the SpaceX subsidiary for raising concerns abou",
-              "imageUrl": "https://i.guim.co.uk/img/media/45cdc89f89fba290a175f28fb25397be28c86655/333_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=110ab22ae013a924fdd79aee67597db5",
-              "imageAlt": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
-          "imageUrl": "https://i.guim.co.uk/img/media/45cdc89f89fba290a175f28fb25397be28c86655/333_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=110ab22ae013a924fdd79aee67597db5",
-          "imageAlt": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Pokémon Go data trained AI that could assist military drones in war zones",
-          "summary": "Pokémon Go data trained AI that could assist military drones in war zones. Location scans from the globally popular augmented reality game have helped train AI to recognise and interpret physical spaces Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\".\n\nThe Guardian: Playing with payphones: how the ubiquitous orange booths have been gamified by fans.\n\nThe Guardian reports that quaint and often overlooked, payphones continue to provide an essential public service, with millions of free calls being placed each year Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-newsletters?CM.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/society/2026/jun/12/payphones-phone-booths-free-calls-australia-resurgence",
-              "source": "The Guardian Technology",
-              "headline": "Playing with payphones: how the ubiquitous orange booths have been gamified by fans",
-              "excerpt": "Quaint and often overlooked, payphones continue to provide an essential public service, with millions of free calls being placed each year Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-newsletters?CM",
-              "imageUrl": "https://i.guim.co.uk/img/media/4f517d43643f32ad618f06fb24c1b624a726b3a5/689_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=d62fd42446ded568f9242d3233b41ba9",
-              "imageAlt": "Playing with payphones: how the ubiquitous orange booths have been gamified by fans",
+              "headline": "Cassette tapes were the voice notes of my youth, bringing tales from the diaspora to our living room",
+              "excerpt": "A Melbourne exhibition summons memories of my family gathering to listen to stories from distant relatives On a sunny Melbourne winter morning, I visited the State Library of Victoria to catch up with a mate and stumbled upon an exhibition of heartfelt letters and souvenirs that lovers have been sharing with each throughout the ages. What really caught my eye was a glass box in a neglected corner containing cassette tapes from the past century. It looked like a lost universe redis",
+              "imageUrl": "https://i.guim.co.uk/img/media/0c36f55e3807710e74d312e235c2f919e52c4d19/1471_0_2417_1933/master/2417.jpg?width=140&quality=85&auto=format&fit=max&s=6a036636c6cabb2d4abb121da7646069",
+              "imageAlt": "Cassette tapes were the voice notes of my youth, bringing tales from the diaspora to our living room | Shadi Khan Saif",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -884,27 +898,27 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
-          "imageUrl": "https://i.guim.co.uk/img/media/4f517d43643f32ad618f06fb24c1b624a726b3a5/689_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=d62fd42446ded568f9242d3233b41ba9",
-          "imageAlt": "Playing with payphones: how the ubiquitous orange booths have been gamified by fans",
+          "imageUrl": "https://i.guim.co.uk/img/media/0c36f55e3807710e74d312e235c2f919e52c4d19/1471_0_2417_1933/master/2417.jpg?width=140&quality=85&auto=format&fit=max&s=6a036636c6cabb2d4abb121da7646069",
+          "imageAlt": "Cassette tapes were the voice notes of my youth, bringing tales from the diaspora to our living room | Shadi Khan Saif",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Can a $159 Bluetooth sleep mask actually help you snooze better? I tested to find out",
-          "summary": "Can a $159 Bluetooth sleep mask actually help you snooze better? I tested to find out.\n\nBluetooth sleep masks block out light and let you stream audio. I spent weeks testing some of the top-rated ones on the market The best sleep masks in the US: I spent nine weeks testing 32 masks, and these are my favorites Sign up for the Fil.",
+          "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+          "summary": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact. Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
           "links": [
             {
-              "url": "https://www.theguardian.com/thefilter-us/2026/jun/08/best-bluetooth-sleep-masks",
-              "source": "The Guardian Technology",
-              "headline": "Can a $159 Bluetooth sleep mask actually help you snooze better? I tested to find out",
-              "excerpt": "Bluetooth sleep masks block out light and let you stream audio. I spent weeks testing some of the top-rated ones on the market The best sleep masks in the US: I spent nine weeks testing 32 masks, and these are my favorites Sign up for the Fil",
-              "imageUrl": "https://i.guim.co.uk/img/media/2186a7c8a05bcc4d3cd4e6f3ba4c24e43af870f1/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=175f445433006311dd55754dc36d4a3b",
-              "imageAlt": "Can a $159 Bluetooth sleep mask actually help you snooze better? I tested to find out",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+              "source": "Wall Street Journal",
+              "headline": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+              "excerpt": "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
+              "imageUrl": "",
+              "imageAlt": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
@@ -912,28 +926,25 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]",
-          "imageUrl": "https://i.guim.co.uk/img/media/2186a7c8a05bcc4d3cd4e6f3ba4c24e43af870f1/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=175f445433006311dd55754dc36d4a3b",
-          "imageAlt": "Can a $159 Bluetooth sleep mask actually help you snooze better? I tested to find out",
-          "imageCredit": "The Guardian"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]"
         },
         {
-          "title": "MacBook Pro M5 review: serious power, still long battery life",
-          "summary": "MacBook Pro M5 review: serious power, still long battery life. Apple laptop sets new performance bar with more storage, new chips and plenty of options, but now has two-tier specs depending on processor Apple’s Macs have been on a roll this year with the brand new budget MacBook Neo and a faster Mac.",
+          "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+          "summary": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump. The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/apr/28/apple-macbook-pro-m5-review-serious-power-still-long-battery-life",
-              "source": "The Guardian Technology",
-              "headline": "MacBook Pro M5 review: serious power, still long battery life",
-              "excerpt": "Apple laptop sets new performance bar with more storage, new chips and plenty of options, but now has two-tier specs depending on processor Apple’s Macs have been on a roll this year with the brand new budget MacBook Neo and a faster Mac",
-              "imageUrl": "https://i.guim.co.uk/img/media/c1a44e9a979785c0102dad34b32e84a06f88abf1/892_228_5151_4122/master/5151.jpg?width=140&quality=85&auto=format&fit=max&s=cf2a3664d907c576394639cfb77a1d15",
-              "imageAlt": "MacBook Pro M5 review: serious power, still long battery life",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+              "source": "Wall Street Journal",
+              "headline": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+              "excerpt": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+              "imageUrl": "",
+              "imageAlt": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
@@ -941,10 +952,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
-          "imageUrl": "https://i.guim.co.uk/img/media/c1a44e9a979785c0102dad34b32e84a06f88abf1/892_228_5151_4122/master/5151.jpg?width=140&quality=85&auto=format&fit=max&s=cf2a3664d907c576394639cfb77a1d15",
-          "imageAlt": "MacBook Pro M5 review: serious power, still long battery life",
-          "imageCredit": "The Guardian"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]"
         }
       ]
     }
