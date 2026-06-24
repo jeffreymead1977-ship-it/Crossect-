@@ -2,82 +2,35 @@
   "id": "2026-06-24-expanded",
   "date": "2026-06-24",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-24T03:00:44.127940",
+  "generatedAt": "2026-06-24T12:30:58.141148",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-24T03:00:44",
+  "updatedAt": "2026-06-24T12:30:58",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: 'Somebody Knows Something'",
-          "summary": "NBC Today show host Savannah Guthrie has publicly pleaded for information regarding the abduction of her mother, Nancy Guthrie, following a ransom note that falsely claimed she was dead. The emotional appeal comes 20 weeks after Nancy Guthrie was taken from her Tucson home.\n\nGuthrie appeared on air with visible distress, stating through tears that \"somebody knows something\" and emphasizing that the family is in agony. She urged anyone with potential leads to come forward as investigators continue their search for answers regarding the long-standing case.",
+          "title": "Iran Denies Any Agreement On Nuclear Site Inspections",
+          "summary": "Iran Denies Any Agreement On Nuclear Site Inspections. Iran’s Foreign Ministry flatly contradicted U.S. claims that Tehran had agreed to allow international nuclear inspectors into the country, setting up a sharp public dispute over the outcome of talks in Switzerland.\n\nSpokesman Esmail Baghaei said Iran had held no meeting with International Atomic Energy Agency (IAEA) Director General Rafael Grossi and had made no ... Al Jazeera: Trump disputes Iran’s rejection of nuclear inspectors.\n\nAl Jazeera reports that president Trump pushed back on Iran’s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Ransom note claims Nancy Guthrie died after abduction",
-              "excerpt": "On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\"",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg",
-              "imageAlt": "Ransom note claims Nancy Guthrie died after abduction",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump disputes Iran’s rejection of nuclear inspectors",
+              "excerpt": "President Trump pushed back on Iran’s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.",
+              "imageUrl": "",
+              "imageAlt": "Trump disputes Iran’s rejection of nuclear inspectors",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/entertainment/2026/06/23/savannah-guthrie-begs-for-information-after-ransom-note-claims-mom-is-dead-somebody-knows-something/",
-              "source": "Breitbart",
-              "headline": "Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: 'Somebody Knows Something'",
-              "excerpt": "NBC correspondent Savannah Guthrie is begging for information after a ransom note claimed her mother is dead. \"Somebody knows something,\" the Today show host said through tears. The post Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: ‘Somebody Knows Something’ appeared first on <",
-              "imageUrl": "https://media.breitbart.com/media/2026/02/Savannahnancyguthrie-640x335.jpg",
-              "imageAlt": "Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: 'Somebody Knows Something'",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
-            {
-              "url": "https://www.foxnews.com/us/savannah-guthrie-pleads-tips-ransom-note-claims-mom-dead-somebody-knows-something",
-              "source": "Fox News",
-              "headline": "Savannah Guthrie pleads for tips as ransom note claims mom is dead: 'Somebody knows something'",
-              "excerpt": "Savannah Guthrie pleads with viewers to come forward with information 20 weeks after her mother Nancy Guthrie was abducted from her Tucson home.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nancy-guthrie-updates-split-image.png?ve=1&tl=1",
-              "imageAlt": "Savannah Guthrie pleads for tips as ransom note claims mom is dead: 'Somebody knows something'",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg",
-          "imageAlt": "Ransom note claims Nancy Guthrie died after abduction",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Iran Denies Any Agreement On Nuclear Site Inspections",
-          "summary": "Iran has publicly denied reaching any agreement with the United States regarding the return of international nuclear inspectors to its territory. This statement directly contradicts claims made by U.S. officials following diplomatic talks held in Switzerland.\n\nThe Iranian Foreign Ministry, through spokesperson Esmail Baghaei, asserted that Tehran had not met with International Atomic Energy Agency Director General Rafael Grossi and had issued no new commitments on inspection protocols. The denial establishes a sharp public dispute regarding the actual outcomes of the recent negotiations between Washington and Tehran.",
-          "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -102,7 +55,7 @@
               "source": "Daily Wire",
               "headline": "Iran Denies Any Agreement On Nuclear Site Inspections",
               "excerpt": "Iran’s Foreign Ministry flatly contradicted U.S. claims that Tehran had agreed to allow international nuclear inspectors into the country, setting up a sharp public dispute over the outcome of talks in Switzerland. Spokesman Esmail Baghaei said Iran had held no meeting with International Atomic Energy Agency (IAEA) Director General Rafael Grossi and had made no ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2270976277.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageUrl": "",
               "imageAlt": "Iran Denies Any Agreement On Nuclear Site Inspections",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
@@ -116,22 +69,119 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66d4/live/4c1d6d60-6ebc-11f1-8e1d-bbbb1017d210.jpg",
           "imageAlt": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
           "imageCredit": "BBC"
         },
         {
-          "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
-          "summary": "The Afghan Taliban delegation met with European Union staff in Brussels for closed-door discussions focused on diplomatic services and the \"dignified returns\" of Afghans to their war-ravaged homeland. A Taliban official confirmed that these talks, held on Tuesday, marked a significant engagement between the isolated regime and EU representatives.\n\nThis meeting represents the first time European Union officials have hosted Taliban representatives for discussions regarding deportations. Despite this diplomatic contact, no European country currently recognizes the Taliban government, highlighting the complex political landscape surrounding these negotiations.",
+          "title": "Antifa Terror Cell Leader In Anti-ICE Ambush Gets Hefty Prison Sentence",
+          "summary": "Antifa Terror Cell Leader In Anti-ICE Ambush Gets Hefty Prison Sentence. An Antifa anarchist who led an ambush at a Texas Immigration and Customs Enforcement (ICE) detention center last year will spend a century behind bars.\n\nProsecutors claimed former Marine Corps Reservist Benjamin Hanil Song shot an officer during the July 4, 2025, attack before running and hiding from authorities for a week. On Tuesday, he ...\n\nBBC: Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot. BBC reports that an officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss",
+              "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+              "excerpt": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4888/live/320d54b0-6f4f-11f1-baa9-855c433fc27a.jpg",
+              "imageAlt": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/antifa-terror-cell-leader-in-anti-ice-ambush-gets-hefty-prison-sentence",
+              "source": "Daily Wire",
+              "headline": "Antifa Terror Cell Leader In Anti-ICE Ambush Gets Hefty Prison Sentence",
+              "excerpt": "An Antifa anarchist who led an ambush at a Texas Immigration and Customs Enforcement (ICE) detention center last year will spend a century behind bars. Prosecutors claimed former Marine Corps Reservist Benjamin Hanil Song shot an officer during the July 4, 2025, attack before running and hiding from authorities for a week. On Tuesday, he ...",
+              "imageUrl": "",
+              "imageAlt": "Antifa Terror Cell Leader In Anti-ICE Ambush Gets Hefty Prison Sentence",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4888/live/320d54b0-6f4f-11f1-baa9-855c433fc27a.jpg",
+          "imageAlt": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: 'Somebody Knows Something'",
+          "summary": "Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: 'Somebody Knows Something'. NBC correspondent Savannah Guthrie is begging for information after a ransom note claimed her mother is dead.\n\n\"Somebody knows something,\" the Today show host said through tears.\n\nThe post Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: ‘Somebody Knows Something’ appeared first on <. BBC: 'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge.\n\nBBC reports that savannah Guthrie spoke on NBC's Today show about a note sent to the media in February regarding her missing mother, Nancy Guthrie, which claimed she had died.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
+              "excerpt": "Savannah Guthrie spoke on NBC's Today show about a note sent to the media in February regarding her missing mother, Nancy Guthrie, which claimed she had died.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241f/live/e060c8d0-6f1d-11f1-b1db-af71d47507d6.jpg",
+              "imageAlt": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/entertainment/2026/06/23/savannah-guthrie-begs-for-information-after-ransom-note-claims-mom-is-dead-somebody-knows-something/",
+              "source": "Breitbart",
+              "headline": "Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: 'Somebody Knows Something'",
+              "excerpt": "NBC correspondent Savannah Guthrie is begging for information after a ransom note claimed her mother is dead. \"Somebody knows something,\" the Today show host said through tears. The post Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: ‘Somebody Knows Something’ appeared first on <",
+              "imageUrl": "",
+              "imageAlt": "Savannah Guthrie Begs for Information After Ransom Note Claims Mom is Dead: 'Somebody Knows Something'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241f/live/e060c8d0-6f1d-11f1-b1db-af71d47507d6.jpg",
+          "imageAlt": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "White House Shows How Trump's Migration Reforms Allow Cheaper Housing for Americans",
+          "summary": "White House Shows How Trump's Migration Reforms Allow Cheaper Housing for Americans. President Donald Trump's migration curbs are reducing the rents paid by Americans for their housing, says the White House.\n\nThe post White House Shows How Trump’s Migration Reforms Allow Cheaper Housing for Americans appeared first on Breitbart .\n\nAl Jazeera: US Senate votes to pause Iran war in rare rebuke to Trump. Al Jazeera reports that uS Senate votes to pause Iran war in rare rebuke to Trump.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "EU hosts Taliban officials for the first time in talks on deportations",
-              "excerpt": "The Taliban government is not recognised by any European country, despite this meeting in Brussels with EU officials.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3aba84edf9-1782233733.jpg?resize=1920%2C1440",
-              "imageAlt": "EU hosts Taliban officials for the first time in talks on deportations",
+              "headline": "US Senate votes to pause Iran war in rare rebuke to Trump",
+              "excerpt": "US Senate votes to pause Iran war in rare rebuke to Trump",
+              "imageUrl": "",
+              "imageAlt": "US Senate votes to pause Iran war in rare rebuke to Trump",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -144,33 +194,97 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/jun/23/afghan-taliban-holding-first-closed-door-talks-eu-deportations/",
-              "source": "Washington Times",
-              "headline": "Afghan Taliban hold first, closed-door talks with EU on deportations",
-              "excerpt": "A delegation from the Afghan Taliban met Tuesday with European Union staff in Brussels for closed-door talks that focused on diplomatic services and the \"dignified returns\" of Afghans to the isolated and war-ravaged nation, a Taliban official said.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/23/Taliban_Talks_89257_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Afghan Taliban hold first, closed-door talks with EU on deportations",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "url": "https://www.breitbart.com/politics/2026/06/23/senate-votes-adopt-war-powers-resolution-limiting-trumps-military-authority-iran/",
+              "source": "Breitbart",
+              "headline": "Senate Votes to Adopt War Powers Resolution Limiting Trump's Military Authority over Iran",
+              "excerpt": "The Senate voted to adopt a war powers resolution to limit President Donald Trump's military authority over Iran. The post Senate Votes to Adopt War Powers Resolution Limiting Trump’s Military Authority over Iran appeared first on Breitbart .",
+              "imageUrl": "",
+              "imageAlt": "Senate Votes to Adopt War Powers Resolution Limiting Trump's Military Authority over Iran",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3aba84edf9-1782233733.jpg?resize=1920%2C1440",
-          "imageAlt": "EU hosts Taliban officials for the first time in talks on deportations",
-          "imageCredit": "Al Jazeera"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]"
         },
         {
-          "title": "Supreme Court rules against Louisiana prisoner's lawsuit over shaved dreadlocks",
-          "summary": "The Supreme Court ruled Tuesday that a Rastafarian inmate cannot sue Louisiana prison officials who forcibly shaved his head. The former prisoner had argued that the act violated his religious rights under the First Amendment.\n\nThe decision prevents the lawsuit from proceeding against the state employees involved in the incident. The ruling highlights ongoing legal tensions between inmates' constitutional protections and prison administration policies regarding personal appearance.",
+          "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+          "summary": "Dettol apologises after ad to clean up 'toxic men' backfires in China. The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is \"not tainted by other men\".\n\nAl Jazeera: Disinfectant brand apologises after ‘toxic men’ advert backfires in China.\n\nAl Jazeera reports that dettol has apologised after an advert in China intended to challenge sexism was accused of reinforcing it.",
           "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/disinfectant-brand-apologises-after-toxic-men-advert-backfires-in-china?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Disinfectant brand apologises after ‘toxic men’ advert backfires in China",
+              "excerpt": "Dettol has apologised after an advert in China intended to challenge sexism was accused of reinforcing it.",
+              "imageUrl": "",
+              "imageAlt": "Disinfectant brand apologises after ‘toxic men’ advert backfires in China",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+              "excerpt": "The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is \"not tainted by other men\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d2/live/dc836e90-6ed0-11f1-8bcc-0dcbc11a720b.jpg",
+              "imageAlt": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d2/live/dc836e90-6ed0-11f1-8bcc-0dcbc11a720b.jpg",
+          "imageAlt": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
+          "summary": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks. The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair.\n\nAl Jazeera: US Supreme Court says Rastafarian man shaved by prison guards can’t sue.\n\nAl Jazeera reports that the high court has upheld ruling that prisoners cannot sue prison staff for money damages under religious liberties law.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
+              "excerpt": "The high court has upheld ruling that prisoners cannot sue prison staff for money damages under religious liberties law.",
+              "imageUrl": "",
+              "imageAlt": "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
             {
               "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -189,145 +303,34 @@
               "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/jun/23/supreme-court-rules-louisiana-prisoners-lawsuit-shaved-dreadlocks/",
-              "source": "Washington Times",
-              "headline": "Supreme Court rules against Louisiana prisoner's lawsuit over shaved dreadlocks",
-              "excerpt": "The Supreme Court ruled Tuesday that a Rastafarian inmate cannot sue the Louisiana prison officials who shaved his head, which he argued violated his religious rights.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/23/Supreme_Court_317_7_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Supreme Court rules against Louisiana prisoner's lawsuit over shaved dreadlocks",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e47/live/8ac99bd0-6f19-11f1-851c-afe522e622a4.jpg",
           "imageAlt": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
           "imageCredit": "BBC"
         },
         {
-          "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-          "summary": "Israeli forces killed two individuals in southern Lebanon following a recent lull in hostilities, sparking immediate accusations of a ceasefire breach. The Israeli military identified the deceased as operatives linked to Hezbollah, framing the incident as a targeted operation against militants.\n\nIn response, Hezbollah condemned the shooting as a treacherous and blatant violation of the ongoing truce agreement. The Iran-backed group used the incident to highlight what it described as aggressive actions by Israeli troops in the region.\n\nThe clash marks a significant escalation in tensions despite the relative quiet that had characterized the border area recently. Both sides have exchanged conflicting narratives regarding the circumstances surrounding the deaths, underscoring the fragility of the current ceasefire arrangement.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
-              "excerpt": "Lebanese armed group Hezbollah denounced the 'treacherous attack', saying it was a 'blatant' violation of the truce.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a396594c9dd5-1782146452.jpg?resize=1920%2C1440",
-              "imageAlt": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-              "excerpt": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg",
-              "imageAlt": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a396594c9dd5-1782146452.jpg?resize=1920%2C1440",
-          "imageAlt": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Kenya minister halts construction of US-backed Ebola quarantine centre",
-          "summary": "Kenya’s Health Minister Aden Duale has halted construction of a US-funded Ebola quarantine centre, defying a High Court order that mandated the work continue. The decision comes amid significant public outcry regarding the facility's purpose and oversight.\n\nThe project, backed by $13.5 million in United States funding, has faced criticism for potentially masking broader health risks rather than addressing them transparently. Al Jazeera reports that the suspension follows intense scrutiny over the US-run nature of the site.\n\nDespite the court directive to proceed with building activities, Duale’s intervention effectively pauses the initiative. The halt underscores growing tensions between government directives and judicial orders in managing high-profile public health infrastructure projects.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/6/23/kenya-minister-says-us-run-ebola-facility-plans-halted-after-court-order?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Kenya minister says US-run Ebola facility plans halted after court order",
-              "excerpt": "Kenya stops constructing US-run Ebola site amid public outcry; $13.5m US funding is criticised as masking health risks.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3a81c9-1782219209.jpg?resize=1200%2C675",
-              "imageAlt": "Kenya minister says US-run Ebola facility plans halted after court order",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Kenya minister halts construction of US-backed Ebola quarantine centre",
-              "excerpt": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e0/live/67833f10-6efa-11f1-8e1d-bbbb1017d210.png",
-              "imageAlt": "Kenya minister halts construction of US-backed Ebola quarantine centre",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3a81c9-1782219209.jpg?resize=1200%2C675",
-          "imageAlt": "Kenya minister says US-run Ebola facility plans halted after court order",
-          "imageCredit": "Al Jazeera"
-        },
-        {
           "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-          "summary": "A United Nations commission of inquiry has concluded that Israel is committing genocide in Gaza by deliberately targeting Palestinian children. The three-member expert panel released a report detailing how these actions constitute war crimes and genocide under international law.\n\nIsrael has strongly rejected the findings, dismissing the report as a \"libellous sham.\" The Israeli government's response underscores the deep diplomatic rift surrounding the commission's allegations and its broader investigation into conduct during the conflict.",
+          "summary": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children. Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".\n\nAl Jazeera: Israel’s deliberate targeting of Palestinian children.\n\nAl Jazeera reports that new UN report documents the toll of Israel's war on Gaza and its occupation of the West Bank on Palestinian children.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
-              "excerpt": "UN commission of inquiry says Israel's deliberate targeting of Palestinian children in Gaza resulted in genocide.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP23295350313968-1782205555.jpg?resize=1920%2C1440",
-              "imageAlt": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
+              "headline": "Israel’s deliberate targeting of Palestinian children",
+              "excerpt": "New UN report documents the toll of Israel's war on Gaza and its occupation of the West Bank on Palestinian children.",
+              "imageUrl": "",
+              "imageAlt": "Israel’s deliberate targeting of Palestinian children",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
@@ -350,10 +353,11 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP23295350313968-1782205555.jpg?resize=1920%2C1440",
-          "imageAlt": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
-          "imageCredit": "Al Jazeera"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51a/live/f1ee76e0-6f06-11f1-8546-8f19e4fe30f4.jpg",
+          "imageAlt": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+          "imageCredit": "BBC"
         }
       ]
     },
@@ -361,8 +365,8 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Sir Keir Starmer: I quit",
-          "summary": "Sir Keir Starmer has announced a timetable for his resignation as prime minister, according to breaking updates. The announcement marks a significant shift in the UK leadership landscape.\n\nMeanwhile, analysis from The Spectator Australia suggests that Labour’s recent by-election victory in Makerfield does not guarantee success for the party's future leader. Both major parties have experienced periods of difficulty, and these results offer cautious optimism.",
+          "title": "Watch: Andy Burnham sworn in",
+          "summary": "Watch: Andy Burnham sworn in. Andy Burnham sworn in as new Labour MP for Makerfield Follow live updates and analysis: https://t.co/SkfgqT7YpV pic.twitter.com/bwrKGBjWHg — BBC Politics… The post Watch: Andy Burnham sworn in appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/andy-burnham-is-going-to-be. Spectator Australia: Burnham’s Makerfield win doesn’t guarantee his success as PM.\n\nSpectator Australia reports that thursday’s by-elections gave new hope to both the Conservatives and Labour. Both parties have been in the doldrums in the… The post Burnham’s Makerfield win doesn’t guarantee his success as PM appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/06/burnhams-makerfield-win-doesnt-guarantee-his-success-as-pm/",
@@ -383,22 +387,23 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[7]",
           "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages_2282327291_4a888a_e1782137102327.jpg",
           "imageAlt": "Burnham’s Makerfield win doesn’t guarantee his success as PM",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Cult leader William Kamm and wife groomed young girl for a decade, Sydney court told",
-          "summary": "A Sydney court has heard allegations that cult leader William Kamm and his wife groomed a young girl over the course of ten years. The 76-year-old, known as \"Little Pebble,\" is accused of instructing the victim to become his queen with the mission of bearing 45 of his children.\n\nProsecutors allege that Kamm believed he needed twelve wives to repopulate the world. These claims were reportedly made during phone calls recorded by authorities.\n\nKamm and his wife have both denied the charges brought against them in connection with the alleged grooming and abuse.",
+          "title": "A weedkiller banned in 70 countries can be used in Australia. Are the regulatory scales tipped in favour of big agriculture?",
+          "summary": "A weedkiller banned in 70 countries can be used in Australia. Are the regulatory scales tipped in favour of big agriculture?.\n\nHerbicide manufacturer had reservations dating back to 1970s about paraquat but regulator says tighter controls, including phasing out backpack sprayers, can protect workers Follow our Australia news live blog for latest updates Get o.\n\nABC News: Qantas A380 to be inspected urgently after cracks found. ABC News reports that airbus says it will inspect 16 A380 planes, including one Qantas plane, after cracks were found in a key wing component.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/jun/23/cult-leader-william-kamm-little-pebble-wife-girl-sydney-court-ntwnfb",
+              "url": "https://www.theguardian.com/science/2026/jun/23/paraquat-herbicide-ban-continued-use-australia",
               "source": "The Guardian Australia",
-              "headline": "Cult leader William Kamm and wife groomed young girl for a decade, Sydney court told",
-              "excerpt": "The 76-year-old allegedly ordered he should have 12 wives to ‘repopulate’ the world. He and his wife deny the charges Get our breaking news email , free app or daily news podcast The leader of a cult and his wife allegedly groomed a young girl over a decade so s",
-              "imageUrl": "https://i.guim.co.uk/img/media/0e85ad4dc6f18c6719261572a3a7be5492ce1733/1228_0_9821_7858/master/9821.jpg?width=140&quality=85&auto=format&fit=max&s=8fc1ab61424445a2527f3a3a8fb3a69c",
-              "imageAlt": "Cult leader William Kamm and wife groomed young girl for a decade, Sydney court told",
+              "headline": "A weedkiller banned in 70 countries can be used in Australia. Are the regulatory scales tipped in favour of big agriculture?",
+              "excerpt": "Herbicide manufacturer had reservations dating back to 1970s about paraquat but regulator says tighter controls, including phasing out backpack sprayers, can protect workers Follow our Australia news live blog for latest updates Get o",
+              "imageUrl": "https://i.guim.co.uk/img/media/3ec1bc16dfa797c06d519dd97c634175cb1687fe/378_0_5153_4123/master/5153.jpg?width=140&quality=85&auto=format&fit=max&s=dc6f49cc44bdf589baa43b2cc683e7b6",
+              "imageAlt": "A weedkiller banned in 70 countries can be used in Australia. Are the regulatory scales tipped in favour of big agriculture?",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -411,12 +416,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.abc.net.au/news/2026-06-23/alleged-cult-leader-william-kamm-accused-grooming-girl/106831438",
+              "url": "https://www.abc.net.au/news/2026-06-24/airbus-finds-crack-in-a380-planes/106835572",
               "source": "ABC Australia",
-              "headline": "Court told alleged cult leader groomed girl to have 45 of his children",
-              "excerpt": "William \"Little Pebble\" Kamm has denied allegations he groomed a girl for more than a decade after he was accused of declaring in phone calls that it was her \"mission\" to become his queen.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/fd1c1601ed7ee0daedb69d3825771f80?impolicy=wcms_crop_resize&cropH=909&cropW=1616&xPos=0&yPos=71&width=862&height=485",
-              "imageAlt": "Court told alleged cult leader groomed girl to have 45 of his children",
+              "headline": "Qantas A380 to be inspected urgently after cracks found",
+              "excerpt": "Airbus says it will inspect 16 A380 planes, including one Qantas plane, after cracks were found in a key wing component.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/3f28e17f5771ca132008624e8dcc267b?impolicy=wcms_crop_resize&cropH=1582&cropW=2812&xPos=0&yPos=147&width=862&height=485",
+              "imageAlt": "Qantas A380 to be inspected urgently after cracks found",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -425,55 +430,76 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/0e85ad4dc6f18c6719261572a3a7be5492ce1733/1228_0_9821_7858/master/9821.jpg?width=140&quality=85&auto=format&fit=max&s=8fc1ab61424445a2527f3a3a8fb3a69c",
-          "imageAlt": "Cult leader William Kamm and wife groomed young girl for a decade, Sydney court told",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
+          "imageUrl": "https://i.guim.co.uk/img/media/3ec1bc16dfa797c06d519dd97c634175cb1687fe/378_0_5153_4123/master/5153.jpg?width=140&quality=85&auto=format&fit=max&s=dc6f49cc44bdf589baa43b2cc683e7b6",
+          "imageAlt": "A weedkiller banned in 70 countries can be used in Australia. Are the regulatory scales tipped in favour of big agriculture?",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Jim Chalmers accuses Angus Taylor of trying to ‘out-One Nation One Nation’ – video",
-          "summary": "Treasurer Jim Chalmers accused Opposition Leader Angus Taylor of attempting to 'out-One Nation One Nation' during a heated question time in the House of Representatives on Tuesday. The confrontation centered on Taylor's refusal to explicitly define or embrace Australia's multicultural society.\n\nThe exchange was triggered by comments made last week by Pauline Hanson, leader of One Nation, at the National Press Club. Hanson suggested that multiculturalism has failed and argued that Australia must adopt a monocultural identity.\n\nChalmers criticized the Coalition for playing 'footsie with the monoculture language' after Taylor sidestepped direct questions about his stance during a press conference. The Treasurer used the opportunity to attack the opposition leader over his ambiguous position on national cultural identity.",
+          "title": "Pauline Hanson and Donald Trump both exploit voters’ fury. But her popularity is rising while his is at a low | Bruce Wolpe",
+          "summary": "Pauline Hanson and Donald Trump both exploit voters’ fury. But her popularity is rising while his is at a low | Bruce Wolpe.\n\nHanson is taking off here partly because of the global economic mess induced by Trump’s Iran war – a crisis so big that the Albanese government is struggling to end the misery Follow our Australia news live blog for latest updates Get our <a href=\"https://www.th.\n\nABC News: Karl Stefanovic's interview with Tommy Robinson taken offline. ABC News reports that today show host-turned-podcaster Karl Stefanovic has had his interview with far-right extremist Tommy Robinson taken down from social media and podcast platforms.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/jun/23/liberal-party-opposition-leader-angus-taylor-multiculturalism-ntwnfb",
+              "url": "https://www.abc.net.au/news/2026-06-24/karl-stefanovic-tommy-robinson-podcast-interview-taken-offline/106834832",
+              "source": "ABC Australia",
+              "headline": "Karl Stefanovic's interview with Tommy Robinson taken offline",
+              "excerpt": "Today show host-turned-podcaster Karl Stefanovic has had his interview with far-right extremist Tommy Robinson taken down from social media and podcast platforms.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/5d2fbc77d10dcdcdf757c2e79990f393?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=152&width=862&height=485",
+              "imageAlt": "Karl Stefanovic's interview with Tommy Robinson taken offline",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.theguardian.com/media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb",
               "source": "The Guardian Australia",
-              "headline": "Angus Taylor won’t say if he supports multiculturalism",
-              "excerpt": "Treasurer says Coalition playing ‘footsie with the monoculture language’ after Liberal leader sidesteps questions at press conference Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/",
-              "imageUrl": "https://i.guim.co.uk/img/media/d7cc263d3a1840a7a819f14140dc90e8dd34bdba/417_0_3467_2774/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=6e49d0bbc823c190931af6c0e853439e",
-              "imageAlt": "Angus Taylor won’t say if he supports multiculturalism",
+              "headline": "Karl Stefanovic podcast interview with UK far-right activist Tommy Robinson removed from YouTube",
+              "excerpt": "Robinson says Pauline Hanson has ‘carried on fighting’ despite backlash in since-deleted episode of the Karl Stefanovic Show Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-new",
+              "imageUrl": "https://i.guim.co.uk/img/media/1d1e05ca81c95def0d4110754b27aeb4a48b4118/0_227_1210_968/master/1210.jpg?width=140&quality=85&auto=format&fit=max&s=3f23743dee5518b6da90a32633b6f855",
+              "imageAlt": "Karl Stefanovic podcast interview with UK far-right activist Tommy Robinson removed from YouTube",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/d7cc263d3a1840a7a819f14140dc90e8dd34bdba/417_0_3467_2774/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=6e49d0bbc823c190931af6c0e853439e",
-          "imageAlt": "Angus Taylor won’t say if he supports multiculturalism",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[9]",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/5d2fbc77d10dcdcdf757c2e79990f393?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=152&width=862&height=485",
+          "imageAlt": "Karl Stefanovic's interview with Tommy Robinson taken offline",
+          "imageCredit": "ABC News"
         },
         {
           "title": "The unique charisma of Pope Francis",
-          "summary": "The Spectator Australia has published an analysis titled \"The last days of Starmer: A view from inside the No.10 bunker,\" examining the decline of the current UK government. The article suggests that political collapses often appear sudden but are actually preceded by a slow accumulation of failures and strategic missteps.\n\nAccording to the report, the roots of this downturn began before the administration even took office. Internal perspectives indicate that early assumptions about governing capabilities proved flawed, setting the stage for subsequent challenges.\n\nThe piece offers an insider’s look at how these initial beliefs unraveled over time. It frames the current political instability as a predictable outcome of earlier miscalculations rather than unexpected events.",
+          "summary": "The unique charisma of Pope Francis. The anniversary of Pope Leo XIV’s election last month generated lots of thoughtful but inconclusive analysis from mainstream Catholic commentators… The post The unique charisma of Pope Francis appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/who-wants-to-govern. Spectator Australia: Starmer’s tears show why he failed as PM.\n\nSpectator Australia reports that keir Starmer looked visibly emotional as he walked up to the lectern in Downing Street this morning. The Prime Minister… The post Starmer’s tears show why he failed as PM appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/will-burnham-avoid-the-starmer-trap/\".",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/06/the-last-days-of-starmer-a-view-from-inside-the-no-10-bunker/",
+              "url": "https://www.spectator.com.au/2026/06/starmers-tears-show-why-he-failed-as-pm/",
               "source": "Spectator Australia",
-              "headline": "The last days of Starmer: A view from inside the No.10 bunker",
-              "excerpt": "It’s true that collapses come slowly and then fast. Ours started before we got into power with the belief that… The post The last days of Starmer: A view from inside the No.10 bunker appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/twel",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages_2281704498.jpg",
-              "imageAlt": "The last days of Starmer: A view from inside the No.10 bunker",
+              "headline": "Starmer’s tears show why he failed as PM",
+              "excerpt": "Keir Starmer looked visibly emotional as he walked up to the lectern in Downing Street this morning. The Prime Minister… The post Starmer’s tears show why he failed as PM appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/will-burnham-avoid-the-starmer-trap/\"",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/3ETBBN7_b1a03c.jpg",
+              "imageAlt": "Starmer’s tears show why he failed as PM",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -486,9 +512,10 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages_2281704498.jpg",
-          "imageAlt": "The last days of Starmer: A view from inside the No.10 bunker",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[10]",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/3ETBBN7_b1a03c.jpg",
+          "imageAlt": "Starmer’s tears show why he failed as PM",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -497,44 +524,42 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-          "summary": "Tesla is challenging the prevailing narrative surrounding a recent fatal crash in Texas involving its Autopilot system. The company's response comes as investigators continue to examine the vehicle's data logs to determine the exact status of the driver-assistance technology at the time of the incident.\n\nIt remains unclear whether the Autopilot feature was fully active, manually overridden by the driver, or experiencing a technical malfunction during the crash. These critical details are expected to emerge only after forensic analysts complete their review of the car's internal records.",
+          "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+          "summary": "Mark Zuckerberg wants Meta to launch its own prediction market. The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+              "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
               "source": "TechCrunch",
-              "headline": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-              "excerpt": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2202236922.jpg?w=1024",
-              "imageAlt": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+              "headline": "Mark Zuckerberg wants Meta to launch its own prediction market",
+              "excerpt": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
+              "imageUrl": "",
+              "imageAlt": "Mark Zuckerberg wants Meta to launch its own prediction market",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2202236922.jpg?w=1024",
-          "imageAlt": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-          "imageCredit": "TechCrunch"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[11]"
         },
         {
-          "title": "These are the 31 best Prime Day deals our editors are texting their friends about",
-          "summary": "Amazon’s Prime Day sale is currently underway, with the event spanning four days and concluding at 3:01 AM ET on June 27. The Guardian’s technology editors have curated a list of 31 standout deals across various product categories, emphasizing items they consider worth sharing with friends.\n\nThe selected offers include nontoxic cookware, bedding, tower fans, and wireless earbuds specifically compatible with iPhone users. These picks were vetted by experts to highlight value among the broader array of discounts available during the shopping event.\n\nWhile The Verge also reports on top tech deals for Prime members, The Guardian’s list provides a more lifestyle-focused approach. Shoppers can access these curated offers immediately as the sale progresses through its final days.",
+          "title": "Shun Amazon with the 24 best anti-Prime Day deals from Best Buy, REI and more",
+          "summary": "Shun Amazon with the 24 best anti-Prime Day deals from Best Buy, REI and more. Besides Amazon, plenty of other retailers are also lowering prices on great products our shopping experts can vouch for The best Prime Day deals on things our editors actually tested and love Sign up for the Filter US newsletter, your.\n\nThe Verge: The best Prime Day deals we found on our favorite gear. The Verge reports that amazon’s Prime Day is on, and it’s happening for the next four days.\n\nPrime members can jump into the deals now until the sale officially ends at 3:01AM ET / 12:01AM PT J.",
           "links": [
             {
-              "url": "https://www.theguardian.com/thefilter-us/2026/jun/23/best-prime-day-deals-sales-2026",
+              "url": "https://www.theguardian.com/thefilter-us/2026/jun/23/best-alternatives-prime-day-deals-sales",
               "source": "The Guardian Technology",
-              "headline": "These are the 31 best Prime Day deals our editors are texting their friends about",
-              "excerpt": "Our experts found and vetted the best Prime Day deals and sales. Here are our picks for nontoxic cookware, bedding, tower fans and more The 26 best anti-Prime Day deals for Amazon skeptics The best wireless earbuds for iPhone owners are on sale <a href=\"https:",
-              "imageUrl": "https://i.guim.co.uk/img/media/aed917f422828bb5a45df376cc72bb8a3bbeb81e/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=75cebcda74ec2a0b1fde3d0ea634488a",
-              "imageAlt": "These are the 31 best Prime Day deals our editors are texting their friends about",
+              "headline": "Shun Amazon with the 24 best anti-Prime Day deals from Best Buy, REI and more",
+              "excerpt": "Besides Amazon, plenty of other retailers are also lowering prices on great products our shopping experts can vouch for The best Prime Day deals on things our editors actually tested and love Sign up for the Filter US newsletter, your",
+              "imageUrl": "https://i.guim.co.uk/img/media/2fda645539bd21cda618914f0c80faed0d893f59/0_0_2132_1706/master/2132.jpg?width=140&quality=85&auto=format&fit=max&s=44febb173fe5e57f8fcfef4858524980",
+              "imageAlt": "Shun Amazon with the 24 best anti-Prime Day deals from Best Buy, REI and more",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -551,7 +576,7 @@
               "source": "The Verge",
               "headline": "The best Prime Day deals we found on our favorite gear",
               "excerpt": "Amazon’s Prime Day is on, and it’s happening for the next four days. Prime members can jump into the deals now until the sale officially ends at 3:01AM ET / 12:01AM PT J",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageUrl": "",
               "imageAlt": "The best Prime Day deals we found on our favorite gear",
               "outlet": "The Verge",
               "sourceBias": "Lean Left",
@@ -565,14 +590,41 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/aed917f422828bb5a45df376cc72bb8a3bbeb81e/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=75cebcda74ec2a0b1fde3d0ea634488a",
-          "imageAlt": "These are the 31 best Prime Day deals our editors are texting their friends about",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
+          "imageUrl": "https://i.guim.co.uk/img/media/2fda645539bd21cda618914f0c80faed0d893f59/0_0_2132_1706/master/2132.jpg?width=140&quality=85&auto=format&fit=max&s=44febb173fe5e57f8fcfef4858524980",
+          "imageAlt": "Shun Amazon with the 24 best anti-Prime Day deals from Best Buy, REI and more",
           "imageCredit": "The Guardian"
         },
         {
+          "title": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
+          "summary": "The Meta Quest 3S is on sale for $297 — which is basically its old price. <img alt=\"A white VR headset with a three-lens cluster on the lower left and right of the front visor, looking like a sad robot, plus a pair of handheld controllers with white grips and black control surfaces, on a small white end table, with pinkish background and lighting.\" data-caption=\"\" data-portal-copyright=\"Photo by Amelia Holowaty Krales / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/258.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale",
+              "source": "The Verge",
+              "headline": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
+              "excerpt": "<img alt=\"A white VR headset with a three-lens cluster on the lower left and right of the front visor, looking like a sad robot, plus a pair of handheld controllers with white grips and black control surfaces, on a small white end table, with pinkish background and lighting.\" data-caption=\"\" data-portal-copyright=\"Photo by Amelia Holowaty Krales / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/258",
+              "imageUrl": "",
+              "imageAlt": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]"
+        },
+        {
           "title": "Will California’s billionaire tax proposal make it to ballots?",
-          "summary": "California’s proposed billionaire tax faces an uncertain path to the ballot despite collecting more than double the required number of signatures. The initiative, which aims to impose a new levy on ultra-wealthy residents, has cleared the initial signature threshold but still confronts potential legal or procedural hurdles that could prevent it from reaching voters.\n\nThe debate highlights ongoing tensions over wealth taxation in one of the nation’s most populous states. Advocates argue the measure is necessary to address budget shortfalls and fund public services, while opponents contend it could drive capital out of California or face constitutional challenges.",
+          "summary": "Will California’s billionaire tax proposal make it to ballots?. Despite more than double the needed number of signatures to qualify for ballot, there’s uncertainty it’ll make it to voters Hi and welcome to TechScape.\n\nNick Robins-Early and Dara Kerr here, filling in for your usual host Blake Montgomery who is out on vacation.\n\nWe’ll be talking about the fight over a proposed billionaire tax in California, the UK’s social media ban and SpaceX making a big buy in the AI arms race. <a href=\"https://www.theguardian.com/us-news/2026/jun/18/california.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/jun/22/california-billionaire-tax-techscape",
@@ -593,14 +645,15 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
           "imageUrl": "https://i.guim.co.uk/img/media/38e509e5c6cebd21b697c28446bba95920578c09/356_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=113fce1d8a420b555a648ade73abb9c7",
           "imageAlt": "Will California’s billionaire tax proposal make it to ballots?",
           "imageCredit": "The Guardian"
         },
         {
           "title": "‘Navigating the unknown together’: me and my idiot AI boyfriend",
-          "summary": "A Guardian Technology columnist explores the ethical and personal implications of using AI companions, despite a general repulsion toward chatbots. The piece begins with an editor’s text message asking if it would be unethical to request that the writer acquire an AI boyfriend, prompting feelings of resentment and unease.\n\nThe author emphasizes their reliance on traditional text messaging for daily communication, noting exchanges with approximately fifteen people each day. This preference highlights a tension between established human interaction habits and the emerging role of artificial intelligence in personal relationships.\n\nWhile acknowledging skepticism about AI’s place in society, the narrative questions whether personal seduction or curiosity might override these reservations. The story frames this exploration as navigating uncharted territory together, blending humor with genuine discomfort regarding technology’s encroachment on intimate social dynamics.",
+          "summary": "‘Navigating the unknown together’: me and my idiot AI boyfriend. I believe that chatbots have no place in a decent society, and am repelled by the topic of AI in general.\n\nBut could I be seduced?\n\nI received a text message from my editor: “Um, is it unethical to ask you to get an AI bf?? You can prob say no.” Resentment.\n\nContempt! Sorrow.\n\nUnease. I love text messaging.\n\nI have text message exchanges with, let’s say, 15 people a day. If you want me to do something, you should ask via text message.\n\nMy editor knows this. She also knows, though it’s m.",
           "links": [
             {
               "url": "https://www.theguardian.com/news/2026/jun/23/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend",
@@ -621,14 +674,219 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
           "imageUrl": "https://i.guim.co.uk/img/media/417d3494d4112fa548c954861068720406a3e278/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b5baa91c39f20156cabace4f356f9468",
           "imageAlt": "‘Navigating the unknown together’: me and my idiot AI boyfriend",
           "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Calamity state to stay in Negros Occidental amid infestation",
+          "summary": "Calamity state to stay in Negros Occidental amid infestation. BACOLOD CITY, NEGROS OCCIDENTAL, Philippines — The state of calamity in Negros Occidental will remain in effect as Red Striped Soft-Scale Insects (RSSI) have infested 32.18 percent of the province’s sugarcane fields, Gov. Eugenio Jose Lacson said Tuesday.\n\nSugar Regulatory Administration (SRA) chief Pablo Luis Azcona and United Sugar Producers Federation president Manuel Lamata briefed.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2251545/calamity-state-to-stay-in-negros-occidental-amid-infestation",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Calamity state to stay in Negros Occidental amid infestation",
+              "excerpt": "BACOLOD CITY, NEGROS OCCIDENTAL, Philippines — The state of calamity in Negros Occidental will remain in effect as Red Striped Soft-Scale Insects (RSSI) have infested 32.18 percent of the province’s sugarcane fields, Gov. Eugenio Jose Lacson said Tuesday. Sugar Regulatory Administration (SRA) chief Pablo Luis Azcona and United Sugar Producers Federation president Manuel Lamata briefed",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Red-striped-soft-scale-insects-RSSI-Negros-Occidental-24June2026.jpg",
+              "imageAlt": "Calamity state to stay in Negros Occidental amid infestation",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Red-striped-soft-scale-insects-RSSI-Negros-Occidental-24June2026.jpg",
+          "imageAlt": "Calamity state to stay in Negros Occidental amid infestation",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "UN rapporteur should also talk to ex-rebels, says NTF-Elcac",
+          "summary": "UN rapporteur should also talk to ex-rebels, says NTF-Elcac.\n\nMANILA, Philippines — The National Task Force to End Local Communist Conflict (NTF-Elcac) has urged a United Nations special rapporteur to hear the testimonies of former rebels after she flagged the use of counterterrorism laws to prosecute journalists and human rights advocates.\n\nNTF-Elcac executive director Ernesto Torres said Irene Khan, the UN special rapporteur on.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2251676/un-rapporteur-should-also-talk-to-ex-rebels-says-ntf-elcac",
+              "source": "Philippine Daily Inquirer",
+              "headline": "UN rapporteur should also talk to ex-rebels, says NTF-Elcac",
+              "excerpt": "MANILA, Philippines — The National Task Force to End Local Communist Conflict (NTF-Elcac) has urged a United Nations special rapporteur to hear the testimonies of former rebels after she flagged the use of counterterrorism laws to prosecute journalists and human rights advocates. NTF-Elcac executive director Ernesto Torres said Irene Khan, the UN special rapporteur on",
+              "imageUrl": "",
+              "imageAlt": "UN rapporteur should also talk to ex-rebels, says NTF-Elcac",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (wealth inequality|social programmes|public housing|human rights advocates)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]"
+        },
+        {
+          "title": "Murder raps filed vs 15 year-old Tacloban school shooter",
+          "summary": "Murder raps filed vs 15 year-old Tacloban school shooter. MANILA, Philippines — Three murder complaints have been filed against the 15-year-old suspect in the Tacloban City school shooting.\n\nPhilippine National Police (PNP) public information chief Col.\n\nAllen Rae Co confirmed this while speaking to reporters at the Criminal Investigation and Detection Group (CIDG) headquarters in Camp Crame, Quezon City on Wednesday morning. Co added.\n\nPhilippine Daily Inquirer: Ateneo president, ex-players attend CIDG probe into Aurora tragedy. Philippine Daily Inquirer reports that mANILA, Philippines – Ateneo de Manila University president Fr.\n\nRoberto Yap, SJ, and several former ADMU players arrived at the Philippine National Police – Criminal Investigation and Detection Group (PNP CIDG) headquarters in Camp Crame, Quezon City on Wednesday for the investigation on the death of men’s basketball team",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2251716/ateneo-president-ex-players-attend-cidg-probe-into-aurora-tragedy",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Ateneo president, ex-players attend CIDG probe into Aurora tragedy",
+              "excerpt": "MANILA, Philippines – Ateneo de Manila University president Fr. Roberto Yap, SJ, and several former ADMU players arrived at the Philippine National Police – Criminal Investigation and Detection Group (PNP CIDG) headquarters in Camp Crame, Quezon City on Wednesday for the investigation on the death of men’s basketball team players Rene Baterbonia and Divine Adili",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_1140.jpg",
+              "imageAlt": "Ateneo president, ex-players attend CIDG probe into Aurora tragedy",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/IMG_1140.jpg",
+          "imageAlt": "Ateneo president, ex-players attend CIDG probe into Aurora tragedy",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "P1.7-B smuggled cigarettes seized at private Cebu port",
+          "summary": "P1.7-B smuggled cigarettes seized at private Cebu port. MANILA, Philippines — Suspected smuggled cigarettes worth over P1.7 billion, concealed in 24 containers from Cebu, were seized by the Bureau of Customs (BOC) and other government agencies.\n\nThe BOC, National Bureau of Investigation, and Bureau of Internal Revenue (BIR) conducted the operation after the NBI provided intelligence information. According to the BOC, the cigarettes.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2251541/p1-7-b-smuggled-cigarettes-seized-at-private-cebu-port",
+              "source": "Philippine Daily Inquirer",
+              "headline": "P1.7-B smuggled cigarettes seized at private Cebu port",
+              "excerpt": "MANILA, Philippines — Suspected smuggled cigarettes worth over P1.7 billion, concealed in 24 containers from Cebu, were seized by the Bureau of Customs (BOC) and other government agencies. The BOC, National Bureau of Investigation, and Bureau of Internal Revenue (BIR) conducted the operation after the NBI provided intelligence information. According to the BOC, the cigarettes",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/smuggled-cigarettes-BOC-24June2026.jpg",
+              "imageAlt": "P1.7-B smuggled cigarettes seized at private Cebu port",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/smuggled-cigarettes-BOC-24June2026.jpg",
+          "imageAlt": "P1.7-B smuggled cigarettes seized at private Cebu port",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "PDEA agents nab farmer in Sulu drug bust",
+          "summary": "PDEA agents nab farmer in Sulu drug bust. PAGADIAN CITY, ZAMBOANGA DEL SUR, Philippines — A joint anti-drug operation led by the Philippine Drug Enforcement Agency (PDEA)–Sulu Provincial Office, backed by various law enforcement, military, and intelligence units, arrested a farmer for selling meth to an undercover agent in Barangay Lianutan of Luuk, Sulu on Sunday morning.\n\nAuthorities identified the suspect as alias. Philippine Daily Inquirer: Cop in viral firearm video relieved; probe underway.\n\nPhilippine Daily Inquirer reports that pAGADIAN CITY, Zamboanga del Sur – The Misamis Occidental Police Provincial Office (MOCPPO) has launched an investigation into a viral video showing a police officer allegedly mishandling and pointing his firearm at a civilian in Barangay Antipolo, Dapitan City, on Sunday night.\n\nA video shared with the Inquirer showed the police officer pointing his gun a",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2251766/cop-in-viral-firearm-video-relieved-probe-underway",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Cop in viral firearm video relieved; probe underway",
+              "excerpt": "PAGADIAN CITY, Zamboanga del Sur – The Misamis Occidental Police Provincial Office (MOCPPO) has launched an investigation into a viral video showing a police officer allegedly mishandling and pointing his firearm at a civilian in Barangay Antipolo, Dapitan City, on Sunday night. A video shared with the Inquirer showed the police officer pointing his gun and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Misamis-Occidental-map-filephoto-091422.jpg",
+              "imageAlt": "Cop in viral firearm video relieved; probe underway",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Misamis-Occidental-map-filephoto-091422.jpg",
+          "imageAlt": "Cop in viral firearm video relieved; probe underway",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+          "summary": "Germany's Economic Model Is Broken, and No One Has a Plan B. The country is focused on exports, but China is slowing imports and U.S. tariff threats are growing.\n\nPoliticians are offering few alternatives.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+              "source": "Wall Street Journal",
+              "headline": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+              "excerpt": "The country is focused on exports, but China is slowing imports and U.S. tariff threats are growing. Politicians are offering few alternatives.",
+              "imageUrl": "",
+              "imageAlt": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]"
+        },
+        {
+          "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+          "summary": "Tesla pushes back on Autopilot narrative after fatal Texas crash. Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+              "source": "TechCrunch",
+              "headline": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+              "excerpt": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+              "imageUrl": "",
+              "imageAlt": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]"
         },
         {
           "title": "Met to expand use of live facial recognition into central London by Christmas",
-          "summary": "The Metropolitan Police is set to expand its deployment of live facial recognition technology into central London, with an initial rollout in the West End scheduled for Christmas. Following this phase, the force plans to extend the use of fixed cameras to six additional areas over the next year.\n\nThese new surveillance units are expected to be mounted on street furniture, such as lamp-posts, marking a shift toward more permanent infrastructure compared to previous mobile deployments. The expansion aims to enhance public safety through automated identification capabilities in high-traffic zones.\n\nCritics have raised significant concerns regarding the implications of this growth, warning that tens of thousands of individuals could effectively be subjected to a continuous digital police lineup. Opponents argue that the broadening scope of LFR usage raises serious privacy and civil liberty issues for London residents.",
+          "summary": "Met to expand use of live facial recognition into central London by Christmas. Technology to be used in six more areas next year as critics say tens of thousands of people will be forced into ‘digital police lineup’ The Metropolitan police is to expand its use of live facial recognition (LFR) technology, first into London’s West End by Christmas and then into a further six areas next year.\n\nThe new cameras will be fixed, and could be attached to street furniture such as lamp-posts. Critics said the new plans mean tens of thousands of people will be forced int.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
@@ -649,300 +907,63 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
           "imageUrl": "https://i.guim.co.uk/img/media/df1030acb076d3e304d806e4ecc3dc84a4ee478e/335_0_6303_5042/master/6303.jpg?width=140&quality=85&auto=format&fit=max&s=9d2d71609fd554e6cd4e98ba97c8d921",
           "imageAlt": "Met to expand use of live facial recognition into central London by Christmas",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Francisco weakens; Signal No. 1 still up Batanes, parts of Cagayan",
-          "summary": "Typhoon Francisco, known internationally as Mekkhala, has slightly weakened while continuing its northward trajectory over the Philippine Sea. The state weather bureau reported this development in its latest update regarding the storm's status.\n\nAccording to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa), the typhoon was located approximately 320 kilometers east of Calayan in Cagayan province at the time of the report.\n\nDespite the weakening intensity, Public Storm Warning Signal No. 1 remains raised for Batanes and parts of Cagayan to maintain public safety.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2251601/francisco-weakens-signal-no-1-still-up-batanes-parts-of-cagayan",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Francisco weakens; Signal No. 1 still up Batanes, parts of Cagayan",
-              "excerpt": "MANILA, Philippines — Typhoon Francisco (international name: “Mekkhala”) slightly weakened as it continued to move northward above the Philippine Sea, the state weather bureau said. According to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) in its latest typhoon bulletin, Francisco was last spotted 320 kilometers (km) east of Calayan, Cagayan. READ: Francisco weakens",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/pagasa-francisco-24June2026.jpg",
-              "imageAlt": "Francisco weakens; Signal No. 1 still up Batanes, parts of Cagayan",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/pagasa-francisco-24June2026.jpg",
-          "imageAlt": "Francisco weakens; Signal No. 1 still up Batanes, parts of Cagayan",
-          "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "PDEA agents nab farmer in Sulu drug bust",
-          "summary": "Philippine Drug Enforcement Agency (PDEA) operations in Mindanao have resulted in multiple arrests linked to illegal drug activities across Sulu and Zamboanga del Norte. In Sulu, PDEA agents working with military and intelligence units arrested a farmer for selling methamphetamine to an undercover operative in Barangay Lianutan, Luuk, on Sunday morning.\n\nSeparately, authorities targeted local leadership in Zamboanga del Norte, where an incumbent barangay chairman was apprehended during a joint anti-drug operation in Barangay Marapong, Sibutad. The arrest involved PDEA 9-Zamboanga del Norte Provincial Office personnel collaborating with the Sibutad Municipal Police Station and its Municipal Drug Enforcement Team.\n\nThese coordinated efforts highlight ongoing law enforcement initiatives to dismantle local drug networks within community structures across the region.",
+          "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+          "summary": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal. The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2251350/barangay-chairman-nabbed-in-zamboanga-del-norte-drug-bust",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Barangay chairman nabbed in Zamboanga del Norte drug bust",
-              "excerpt": "PAGADIAN CITY, Zamboanga del Sur – An incumbent barangay chairperson was arrested in a joint anti-drug operation in Barangay Marapong, Sibutad, Zamboanga del Norte on Monday. The Philippine Drug Enforcement Agency (PDEA) 9–Zamboanga del Norte Provincial Office, the Sibutad Municipal Police Station–Municipal Drug Enforcement Team (MDET), and the 1st Zamboanga del Norte Provincial Mobile Force",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Zamboanga-del-Norte-drug-bust-23June2026.jpg",
-              "imageAlt": "Barangay chairman nabbed in Zamboanga del Norte drug bust",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Zamboanga-del-Norte-drug-bust-23June2026.jpg",
-          "imageAlt": "Barangay chairman nabbed in Zamboanga del Norte drug bust",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "2 nabbed for fuel transfer sans DOE permit, P2.62-M fuel seized",
-          "summary": "Philippine authorities have conducted separate operations targeting illegal fuel activities in different regions, resulting in multiple arrests and significant fuel seizures.\n\nIn Marinduque, the Philippine National Police arrested two men for transferring fuel valued at P2.62 million without a Department of Energy permit. The suspects, identified as residents of Tiaong, Quezon, were apprehended last Wednesday while allegedly delivering the contraband in Barangay Amoingon, Boac town.\n\nConcurrently, in Navotas City, the PNP Criminal Investigation and Detection Group detained ten individuals involved in an alleged \"paihi\" scheme. This operation led to the confiscation of diesel fuel worth P12 million.\n\nThe \"paihi\" method involves the secret transfer of fuel from legitimate sources, representing a significant violation of energy regulations and contributing to illicit market activities.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2251572/10-nabbed-over-alleged-paihi-scheme-in-navotas-city-p12-m-fuel-seized",
-              "source": "Philippine Daily Inquirer",
-              "headline": "10 nabbed over alleged ‘paihi’ scheme in Navotas City, P12-M fuel seized",
-              "excerpt": "MANILA, Philippines — Ten individuals were arrested for an alleged “paihi” scheme in Navotas City, resulting in the confiscation of P12 million worth of diesel fuel, the Philippine National Police Criminal Investigation and Detection Group (PNP CIDG) said on Tuesday. “Paihi” refers to an illegal fuel pilferage scheme in which individuals secretly transfer fuel from",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Navotas-paihi-scheme-24June2026.jpg",
-              "imageAlt": "10 nabbed over alleged ‘paihi’ scheme in Navotas City, P12-M fuel seized",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Navotas-paihi-scheme-24June2026.jpg",
-          "imageAlt": "10 nabbed over alleged ‘paihi’ scheme in Navotas City, P12-M fuel seized",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Not just bullying? DOJ probes nihilistic extremism in Tacloban shooting",
-          "summary": "The Department of Justice (DOJ) in the Philippines is investigating whether the recent shooting in Tacloban City was driven by Nihilistic Violent Extremism rather than typical school bullying. DOJ spokesperson Polo Martinez highlighted that children are vulnerable to radicalization through online content, suggesting a deeper ideological motive behind the violence.\n\nThis shift in focus indicates authorities are looking beyond interpersonal conflicts to examine how digital media may influence youth behavior. The investigation aims to determine if exposure to extremist material played a significant role in the incident.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2251450/not-just-bullying-doj-probes-nihilistic-extremism-in-tacloban-shooting",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Not just bullying? DOJ probes nihilistic extremism in Tacloban shooting",
-              "excerpt": "MANILA, Philippines —The Department of Justice (DOJ) is exploring the possibility that the shooting in Tacloban City may have stemmed from a pattern of Nihilistic Violent Extremism (NVE) rather than a simple case of school bullying. DOJ spokesperson Polo Martinez explained that children can be easily radicalized by the content they encounter online. Martinez said",
-              "imageUrl": "https://www.inquirer.net/wp-content/uploads/2016/10/new-inq-fb-def.jpg",
-              "imageAlt": "Not just bullying? DOJ probes nihilistic extremism in Tacloban shooting",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.inquirer.net/wp-content/uploads/2016/10/new-inq-fb-def.jpg",
-          "imageAlt": "Not just bullying? DOJ probes nihilistic extremism in Tacloban shooting",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Flood control funds to be restored in proposed 2027 budget — Palace",
-          "summary": "Funding for flood control projects is set to be restored in the proposed national budget for 2027, according to the Malacañang Palace. This decision follows a period where these initiatives received zero funding last year due to a corruption scandal.\n\nPalace Press Officer Claire Castro confirmed on Tuesday that previously halted flood control projects may still be included in the National Expenditure Program (NEP). The restoration of funds marks a significant shift in government priorities for infrastructure development.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2251446/flood-control-funds-to-be-restored-in-proposed-2027-budget-palace",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Flood control funds to be restored in proposed 2027 budget — Palace",
-              "excerpt": "MANILA, Philippines — Funding for flood control projects will be restored in the proposed national budget for 2027 after receiving zero funding last year due to a corruption scandal, Malacañang said. Palace Press Officer Claire Castro on Tuesday confirmed that previously halted flood control projects may still be included in the National Expenditure Program (NEP)",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/marcos-dizon-g-araneta-may-20-2026.jpg",
-              "imageAlt": "Flood control funds to be restored in proposed 2027 budget — Palace",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/marcos-dizon-g-araneta-may-20-2026.jpg",
-          "imageAlt": "Flood control funds to be restored in proposed 2027 budget — Palace",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "Anthropic says Claude may want to see your ID",
-          "summary": "Anthropic has updated its privacy policy to indicate that its Claude chatbot may request users to verify their age and identity under specific circumstances. The company states that such verification could involve submitting documents like a passport or driver's license.\n\nThis change suggests a move toward stricter user authentication measures for the AI assistant, potentially aimed at compliance with regulatory requirements or safety protocols. The exact scenarios triggering these requests remain undefined in the current policy update.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-              "source": "TechCrunch",
-              "headline": "Anthropic says Claude may want to see your ID",
-              "excerpt": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-              "imageAlt": "Anthropic says Claude may want to see your ID",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-          "imageAlt": "Anthropic says Claude may want to see your ID",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
-          "summary": "An artificial intelligence law firm has secured a victory in an English court, marking what is believed to be the first instance of a trial won using an AI lawyer. The case involved Tamires Camal Taquidir, a freelance HR consultant who engaged Garfield AI to pursue an unpaid debt of £7,000.\n\nTaquidir paid approximately £400 for the firm to issue a legal letter and subsequently file court proceedings on her behalf. This financial arrangement highlights the growing accessibility of automated legal services for individuals seeking to resolve relatively small monetary disputes without traditional legal representation.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
-              "source": "The Guardian Technology",
-              "headline": "HR consultant wins English court case using AI lawyer in apparent legal first",
-              "excerpt": "Barrister who was given material produced by Garfield AI says advocacy at trial ‘remained fundamentally human’ An artificial intelligence law firm has won a case in an English court, in what is believed to be the first time a trial has been won using an AI lawyer. A freelance HR consultant, Tamires Camal Taquidir, paid the firm, Garfield AI, about £400 to send a legal letter and then issue court proceedings over an unpaid debt of £7,000. <a href=\"https://www.theguardian.com/te",
-              "imageUrl": "https://i.guim.co.uk/img/media/470afbbf9084ad8b092331924ab34ec009a91270/0_1062_5790_4631/master/5790.jpg?width=140&quality=85&auto=format&fit=max&s=7c96590f00702b44b0760ad06434b229",
-              "imageAlt": "HR consultant wins English court case using AI lawyer in apparent legal first",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
+              "source": "Wall Street Journal",
+              "headline": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+              "excerpt": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+              "imageUrl": "",
+              "imageAlt": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/470afbbf9084ad8b092331924ab34ec009a91270/0_1062_5790_4631/master/5790.jpg?width=140&quality=85&auto=format&fit=max&s=7c96590f00702b44b0760ad06434b229",
-          "imageAlt": "HR consultant wins English court case using AI lawyer in apparent legal first",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Two Britons plead guilty to £39m 2024 cyber-attack on Transport for London",
-          "summary": "Two British nationals have pleaded guilty to their roles in a significant cyber-attack on Transport for London that occurred in 2024. Thalha Jubair, aged 20, and Owen Flowers, aged 18, are linked to the Scattered Spider hacking group.\n\nThe pair changed their pleas to guilty on the first day of their trial. The attack resulted in financial losses estimated at £39 million for the transport authority.\n\nAuthorities state that the breach impacted approximately 10 million people who rely on London's public transit network. The defendants faced charges related to unauthorized access and damage to computer systems.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/jun/22/two-britons-plead-guilty-to-39m-2024-cyber-attack-on-transport-for-london",
-              "source": "The Guardian Technology",
-              "headline": "Two Britons plead guilty to £39m 2024 cyber-attack on Transport for London",
-              "excerpt": "Thalha Jubair and Owen Flowers, linked to the Scattered Spider hacking group, change pleas on first day of trial Two British cybercriminals from the Scattered Spider hacking group have pleaded guilty to a cyber-attack on Transport for London in 2024 that cost £39m and affected 10 million people. Thalha Jubair, 20, and Owen Flowers, 18, pleaded guilty to offences und",
-              "imageUrl": "https://i.guim.co.uk/img/media/65d69b2b25226c40efc55ba722e18ad43d7e00e4/667_0_3071_2457/master/3071.jpg?width=140&quality=85&auto=format&fit=max&s=ae3a4a9215f098fe129e4fdf24af19a0",
-              "imageAlt": "Two Britons plead guilty to £39m 2024 cyber-attack on Transport for London",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/65d69b2b25226c40efc55ba722e18ad43d7e00e4/667_0_3071_2457/master/3071.jpg?width=140&quality=85&auto=format&fit=max&s=ae3a4a9215f098fe129e4fdf24af19a0",
-          "imageAlt": "Two Britons plead guilty to £39m 2024 cyber-attack on Transport for London",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]"
         },
         {
-          "title": "How big tech got its way on Trump’s AI executive order",
-          "summary": "Donald Trump reversed course on a planned executive order regarding artificial intelligence, removing a provision that would have mandated government safety reviews for new AI models prior to their release. The decision came just hours before the scheduled signing event.\n\nThis last-minute change has been interpreted as a significant victory for major technology companies seeking minimal regulatory oversight. Critics argue the move grants tech firms unchecked power over the development and deployment of advanced AI systems without adequate public safety safeguards.",
+          "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+          "summary": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting. The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-              "source": "The Guardian Technology",
-              "headline": "How big tech got its way on Trump’s AI executive order",
-              "excerpt": "The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power Only hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new artificial intelligence models before their release, the president abruptly <a h",
-              "imageUrl": "https://i.guim.co.uk/img/media/1fc1c3f2c938f57503782eed5cb531731e192afa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=065c45aef388a8fd12e84ff23985cb61",
-              "imageAlt": "How big tech got its way on Trump’s AI executive order",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+              "source": "Wall Street Journal",
+              "headline": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+              "excerpt": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
+              "imageUrl": "",
+              "imageAlt": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/1fc1c3f2c938f57503782eed5cb531731e192afa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=065c45aef388a8fd12e84ff23985cb61",
-          "imageAlt": "How big tech got its way on Trump’s AI executive order",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Majority of datacenters are vulnerable to climate threats like floods and fires, study finds",
-          "summary": "A new report reveals that nearly 80% of data centers are exposed to extreme climate hazards, including flooding, extreme winds, and wildfires. This finding emerges amid growing concerns that the artificial intelligence boom is accelerating the climate crisis through increased greenhouse gas emissions.\n\nThe study highlights a significant vulnerability within the infrastructure supporting AI growth, noting that these facilities are often located in areas prone to severe weather events. The intersection of data center expansion and climate change presents a dual challenge: the industry contributes to global warming while simultaneously facing risks from its own environmental impact.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/us-news/2026/jun/23/datacenters-climate-hazards-study",
-              "source": "The Guardian Technology",
-              "headline": "Majority of datacenters are vulnerable to climate threats like floods and fires, study finds",
-              "excerpt": "Study warns AI datacenters are vulnerable to the climate hazards that their global greenhouse gas emissions bolster Amid rising concern that the artificial intelligence boom is fueling the climate crisis, a new report has found that nearly 80% of datacenters are also exposed to extreme climate hazards, including flooding, extreme winds and wild",
-              "imageUrl": "https://i.guim.co.uk/img/media/beeb1b282a4c9873eb541eec6c02f74961e097c3/116_319_2911_2329/master/2911.jpg?width=140&quality=85&auto=format&fit=max&s=162434d318f636f8bcc84e52d8c1ef83",
-              "imageAlt": "Majority of datacenters are vulnerable to climate threats like floods and fires, study finds",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Left",
-              "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (climate crisis|polluters|environmental justice)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/beeb1b282a4c9873eb541eec6c02f74961e097c3/116_319_2911_2329/master/2911.jpg?width=140&quality=85&auto=format&fit=max&s=162434d318f636f8bcc84e52d8c1ef83",
-          "imageAlt": "Majority of datacenters are vulnerable to climate threats like floods and fires, study finds",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]"
         }
       ]
     }
