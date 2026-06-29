@@ -2,24 +2,24 @@
   "id": "2026-06-29-expanded",
   "date": "2026-06-29",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-06-29T03:00:26.081873",
+  "generatedAt": "2026-06-29T12:30:39.852012",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-06-29T03:00:26",
+  "updatedAt": "2026-06-29T12:30:39",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Iraqi officials, including lawmakers, arrested on corruption charges in overnight raid",
-          "summary": "Iraqi officials, including lawmakers, arrested on corruption charges in overnight raid. Dozens of Iraqi political officials have been arrested on corruption charges, Iraq's state-run Iraqi News Agency reported Sunday.\n\nAl Jazeera: Iraq arrests senior officials in anti-corruption raids.\n\nAl Jazeera reports that iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad.",
+          "title": "Shocking Footage of Baby Pulled Out of Rubble in Venezuela",
+          "summary": "Shocking Footage of Baby Pulled Out of Rubble in Venezuela. A baby was miraculously rescued alive from the rubble of a collapsed building in Venezuela on Thursday, one of several amazing rescues that have raised the spirits of survivors and rescue workers as they struggle with the aftermath of the powerful quakes that devastated several Venezuelan cities.\n\nThe post Shocking Footage of Baby Pulled Out of Rubble i. Al Jazeera: Father and son pulled out alive four days after Venezuela earthquake.\n\nAl Jazeera reports that ootage shows search and rescue workers pulling out father and son from under the rubble of a collapsed building.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/father-and-son-pulled-out-alive-four-days-after-venezuela-earthquake?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Iraq arrests senior officials in anti-corruption raids",
-              "excerpt": "Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-Iraq-raids-1782659914.png?resize=1920%2C1431",
-              "imageAlt": "Iraq arrests senior officials in anti-corruption raids",
+              "headline": "Father and son pulled out alive four days after Venezuela earthquake",
+              "excerpt": "ootage shows search and rescue workers pulling out father and son from under the rubble of a collapsed building.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782693623.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Father and son pulled out alive four days after Venezuela earthquake",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,12 +32,60 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/jun/28/iraqi-officials-including-lawmakers-arrested-corruption-charges/",
+              "url": "https://www.breitbart.com/latin-america/2026/06/26/shocking-footage-of-baby-pulled-out-of-rubble-in-venezuela/",
+              "source": "Breitbart",
+              "headline": "Shocking Footage of Baby Pulled Out of Rubble in Venezuela",
+              "excerpt": "A baby was miraculously rescued alive from the rubble of a collapsed building in Venezuela on Thursday, one of several amazing rescues that have raised the spirits of survivors and rescue workers as they struggle with the aftermath of the powerful quakes that devastated several Venezuelan cities. The post Shocking Footage of Baby Pulled Out of Rubble i",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/GettyImages-2282726699-640x335.png",
+              "imageAlt": "Shocking Footage of Baby Pulled Out of Rubble in Venezuela",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782693623.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Father and son pulled out alive four days after Venezuela earthquake",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "At least 117 dead dogs found in 'horrific scene' at California 'no-kill' shelter",
+          "summary": "At least 117 dead dogs found in 'horrific scene' at California 'no-kill' shelter. The remains of at least 117 dogs were found on the grounds of a California \"no-kill\" animal shelter, many of them with gunshot wounds, authorities said.\n\nBBC: 117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds.\n\nBBC reports that hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+              "excerpt": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276f/live/8c981e90-726c-11f1-af47-e9419f280d0d.jpg",
+              "imageAlt": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/28/least-117-dead-dogs-found-horrific-scene-california-no-kill-shelter/",
               "source": "Washington Times",
-              "headline": "Iraqi officials, including lawmakers, arrested on corruption charges in overnight raid",
-              "excerpt": "Dozens of Iraqi political officials have been arrested on corruption charges, Iraq's state-run Iraqi News Agency reported Sunday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2023/01/08/Iraq_16137_s1440x940.jpg?cbcef16fd3193cf660a57e6e604d958a703c9ce1",
-              "imageAlt": "Iraqi officials, including lawmakers, arrested on corruption charges in overnight raid",
+              "headline": "At least 117 dead dogs found in 'horrific scene' at California 'no-kill' shelter",
+              "excerpt": "The remains of at least 117 dogs were found on the grounds of a California \"no-kill\" animal shelter, many of them with gunshot wounds, authorities said.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/28/California_Animal_Rescue_Investigation_2_29_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "At least 117 dead dogs found in 'horrific scene' at California 'no-kill' shelter",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -51,70 +99,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-Iraq-raids-1782659914.png?resize=1920%2C1431",
-          "imageAlt": "Iraq arrests senior officials in anti-corruption raids",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-          "summary": "Three firefighters die battling huge wildfires on Colorado-Utah border. A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.\n\nAl Jazeera: Three firefighters killed in US wildfires along Colorado–Utah border.\n\nAl Jazeera reports that the US has seen a harsh wildfire season this year, with prolonged droughts and dry conditions fuelling blazes.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Three firefighters killed in US wildfires along Colorado–Utah border",
-              "excerpt": "The US has seen a harsh wildfire season this year, with prolonged droughts and dry conditions fuelling blazes.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a4132475cb59-1782657607.jpg?resize=1920%2C1440",
-              "imageAlt": "Three firefighters killed in US wildfires along Colorado–Utah border",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-              "excerpt": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd4/live/542bb510-7304-11f1-8b3a-1977d6dee6ef.jpg",
-              "imageAlt": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a4132475cb59-1782657607.jpg?resize=1920%2C1440",
-          "imageAlt": "Three firefighters killed in US wildfires along Colorado–Utah border",
-          "imageCredit": "Al Jazeera"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276f/live/8c981e90-726c-11f1-af47-e9419f280d0d.jpg",
+          "imageAlt": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+          "imageCredit": "BBC"
         },
         {
-          "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-          "summary": "In Lebanon, framework agreement signed with Israel spurs protest, criticism. Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.\n\nBBC: Israel strikes southern Lebanon as Hezbollah condemns new deal.\n\nBBC reports that strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+          "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+          "summary": "Australian man charged with murder after dead girl found in suitcase in Thailand. The body of Tunchanok Donhomla, 17, was found discarded near a railway track on Saturday, police say.\n\nAl Jazeera: Australian man charged with murder after Thai girl’s body found in suitcase.\n\nAl Jazeera reports that simon Peter Carman has been charged with murder after the body of 17-year-old Tunchanok Donhomla was found in a suitcase.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-              "excerpt": "Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3f0773d5e2-1782515571.jpg?resize=1920%2C1440",
-              "imageAlt": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+              "headline": "Australian man charged with murder after Thai girl’s body found in suitcase",
+              "excerpt": "Simon Peter Carman has been charged with murder after the body of 17-year-old Tunchanok Donhomla was found in a suitcase",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782702702.jpg?resize=1441%2C1080&quality=80",
+              "imageAlt": "Australian man charged with murder after Thai girl’s body found in suitcase",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -127,12 +127,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-              "excerpt": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a5/live/076a6550-7241-11f1-930d-75324f3b4c6e.jpg",
-              "imageAlt": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+              "headline": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+              "excerpt": "The body of Tunchanok Donhomla, 17, was found discarded near a railway track on Saturday, police say.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/50421640-72ed-11f1-8e1d-bbbb1017d210.jpg",
+              "imageAlt": "Australian man charged with murder after dead girl found in suitcase in Thailand",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -148,21 +148,21 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3f0773d5e2-1782515571.jpg?resize=1920%2C1440",
-          "imageAlt": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782702702.jpg?resize=1441%2C1080&quality=80",
+          "imageAlt": "Australian man charged with murder after Thai girl’s body found in suitcase",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Bill Maher Is Not Down With The ‘Jew Hating’ Socialists: ‘My Vote Is In Play’",
-          "summary": "Bill Maher Is Not Down With The ‘Jew Hating’ Socialists: ‘My Vote Is In Play’. Comedian and HBO host Bill Maher admitted on Friday that his vote would be “in play” in coming elections if the Democratic Party continued its headlong gallop toward socialism.\n\nMaher spoke with Vice President JD Vance on Friday’s broadcast of “Real Time,” and the discussion turned to the recent wins — particularly in places like ... Breitbart: Maher: 'My Vote Is in Play' if Dems Go to DSA Direction of Antisemitism, No Prisons, Anti-Capitalism.\n\nBreitbart reports that on Friday’s broadcast of HBO’s “Real Time,” host Bill Maher said that if the Democratic Party is moving towards the direction of Democratic Socialists and “this obsession with Israel, with the Jew-hating, with they don’t believe in capitalism, no prisons, The post Maher: ‘My Vote Is in Play’ if Dems Go to DSA Direction of A.",
+          "title": "Trump Trashes The Socialist Poised To Be Next Mayor Of D.C.",
+          "summary": "Trump Trashes The Socialist Poised To Be Next Mayor Of D.C.. President Donald Trump ripped into the Democratic socialist who is poised to be the next Mayor of Washington, D.C., in a Sunday afternoon social media post.\n\nThe president noted that city council member Janeese Lewis George, who ran on a platform that included universal childcare and taxpayer-funded housing, won the Democratic primary with 54.1% of ... Breitbart: Trump Warns He Will 'Not Let' Communist D.C.\n\nMayoral Candidate Janeese Lewis George Destroy City. Breitbart reports that president Donald Trump warned that he will \"not let\" Janeese Lewis George, the Democrat candidate for Washington, DC, mayor, destroy the city with her policies.\n\nThe post Trump Warns He Will ‘Not Let’ Communist D.C.\n\nMayoral Candidate Janeese Lewis George Destroy City appeared first on <a rel=\"nofollow\" href=\"https://www.",
           "links": [
             {
-              "url": "https://www.breitbart.com/clips/2026/06/27/maher-my-vote-is-in-play-if-dems-go-to-dsa-direction-of-antisemitism-no-prisons-anti-capitalism/",
+              "url": "https://www.breitbart.com/politics/2026/06/28/trump-warns-he-will-not-let-communist-d-c-mayoral-candidate-janeese-lewis-george-destroy-city/",
               "source": "Breitbart",
-              "headline": "Maher: 'My Vote Is in Play' if Dems Go to DSA Direction of Antisemitism, No Prisons, Anti-Capitalism",
-              "excerpt": "On Friday’s broadcast of HBO’s “Real Time,” host Bill Maher said that if the Democratic Party is moving towards the direction of Democratic Socialists and “this obsession with Israel, with the Jew-hating, with they don’t believe in capitalism, no prisons, The post Maher: ‘My Vote Is in Play’ if Dems Go to DSA Direction of A",
-              "imageUrl": "https://media.breitbart.com/media/2025/10/Maher-1017-Thumbnail-2-640x335.jpg",
-              "imageAlt": "Maher: 'My Vote Is in Play' if Dems Go to DSA Direction of Antisemitism, No Prisons, Anti-Capitalism",
+              "headline": "Trump Warns He Will 'Not Let' Communist D.C. Mayoral Candidate Janeese Lewis George Destroy City",
+              "excerpt": "President Donald Trump warned that he will \"not let\" Janeese Lewis George, the Democrat candidate for Washington, DC, mayor, destroy the city with her policies. The post Trump Warns He Will ‘Not Let’ Communist D.C. Mayoral Candidate Janeese Lewis George Destroy City appeared first on <a rel=\"nofollow\" href=\"https://www",
+              "imageUrl": "https://media.breitbart.com/media/2026/06/AP26168165680545-640x335.jpg",
+              "imageAlt": "Trump Warns He Will 'Not Let' Communist D.C. Mayoral Candidate Janeese Lewis George Destroy City",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -175,12 +175,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/bill-maher-is-not-down-with-the-jew-hating-socialists-my-vote-is-in-play",
+              "url": "https://www.dailywire.com/news/trump-trashes-the-socialist-poised-to-be-next-mayor-of-d-c",
               "source": "Daily Wire",
-              "headline": "Bill Maher Is Not Down With The ‘Jew Hating’ Socialists: ‘My Vote Is In Play’",
-              "excerpt": "Comedian and HBO host Bill Maher admitted on Friday that his vote would be “in play” in coming elections if the Democratic Party continued its headlong gallop toward socialism. Maher spoke with Vice President JD Vance on Friday’s broadcast of “Real Time,” and the discussion turned to the recent wins — particularly in places like ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bill-Maher.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Bill Maher Is Not Down With The ‘Jew Hating’ Socialists: ‘My Vote Is In Play’",
+              "headline": "Trump Trashes The Socialist Poised To Be Next Mayor Of D.C.",
+              "excerpt": "President Donald Trump ripped into the Democratic socialist who is poised to be the next Mayor of Washington, D.C., in a Sunday afternoon social media post. The president noted that city council member Janeese Lewis George, who ran on a platform that included universal childcare and taxpayer-funded housing, won the Democratic primary with 54.1% of ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2281127992.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump Trashes The Socialist Poised To Be Next Mayor Of D.C.",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -191,34 +191,106 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/trump-calls-likely-dc-mayor-janeese-lewis-george-communist-vows-block-her-agenda",
+              "source": "Fox News",
+              "headline": "Trump calls likely DC mayor Janeese Lewis George a 'communist' and vows to block her agenda",
+              "excerpt": "D.C. mayoral frontrunner Janeese Lewis George faces clash with President Trump over ICE enforcement, policing, cashless bail and sanctuary city policies.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/trump-lewis-george-split_1_.jpeg?ve=1&tl=1",
+              "imageAlt": "Trump calls likely DC mayor Janeese Lewis George a 'communist' and vows to block her agenda",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4628136/trump-meet-communist-dc-mayor-janeese-lewis-george/",
+              "source": "Washington Examiner",
+              "headline": "Trump says he’ll meet with ‘communist’ DC mayoral candidate Janeese Lewis George",
+              "excerpt": "President Donald Trump said Sunday he will meet with Janeese Lewis George, the Democratic nominee for mayor of the District of Columbia and presumptive winner, but will not let her enact her socialist policies in the nation’s capital. Trump referred to her as a “communist,” saying he will not let Washington, D.C. be “destroyed by […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/image-collage-5vn2v5ova-1782681889527.jpg?1782667570&w=696",
+              "imageAlt": "Trump says he’ll meet with ‘communist’ DC mayoral candidate Janeese Lewis George",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/28/donald-trump-says-hell-meet-janeese-lewis-george-dcs-communist-likely/",
+              "source": "Washington Times",
+              "headline": "Trump says he'll meet with D.C.'s 'communist' likely mayor",
+              "excerpt": "President Trump said Sunday said he will meet with D.C. Council member Janeese Lewis George, the likely future mayor of the District whom Mr. Trump described as a \"communist.\"",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/17/Elections_2_26_DC_George_23796_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump says he'll meet with D.C.'s 'communist' likely mayor",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
-          "imageUrl": "https://media.breitbart.com/media/2025/10/Maher-1017-Thumbnail-2-640x335.jpg",
-          "imageAlt": "Maher: 'My Vote Is in Play' if Dems Go to DSA Direction of Antisemitism, No Prisons, Anti-Capitalism",
+          "imageUrl": "https://media.breitbart.com/media/2026/06/AP26168165680545-640x335.jpg",
+          "imageAlt": "Trump Warns He Will 'Not Let' Communist D.C. Mayoral Candidate Janeese Lewis George Destroy City",
           "imageCredit": "Breitbart"
         },
         {
-          "title": "Pinkerton – Mamdani’s Monsters: Socialists Are Targeting Democrats Now, You Next",
-          "summary": "Pinkerton – Mamdani’s Monsters: Socialists Are Targeting Democrats Now, You Next. New York City’s mayor, Zohran Mamdani, has been called an anti Semite and a communist—in President Trump’s opinion, a “communist lunatic.” The post Pinkerton – Mamdani’s Monsters: Socialists Are Targeting Democrats Now, You Next appeared first on Breitbart .\n\nWashington Times: NYC Mayor Zohran Mamdani says a democratic socialist can be elected U.S. president. Washington Times reports that new York City Mayor Zohran Mamdani says he believes a democratic socialist could one day be elected president of the United States.",
+          "title": "Panic Sets In: Dems Tailspin As They Realize The Hostile Socialist Takeover Already Started",
+          "summary": "Panic Sets In: Dems Tailspin As They Realize The Hostile Socialist Takeover Already Started. Less than a week after Democratic socialists swept several races in New York’s primaries, the memo appears to have gone out to the more moderate Democrats: the socialists aren’t just coming, they’re already here — and the threat is coming from inside the house.\n\nThree candidates backed by New York City’s Democratic socialist Mayor Zohran ... Fox News: Mamdani claims democratic socialists can win ‘anywhere’ as Democrats feud over party’s future.\n\nFox News reports that new York City Mayor Zohran Mamdani says democratic socialists can win anywhere in America after endorsed candidates swept Democratic primaries.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/06/27/pinkerton-mamdanis-monsters-socialists-are-targeting-democrats-now-you-next/",
-              "source": "Breitbart",
-              "headline": "Pinkerton – Mamdani’s Monsters: Socialists Are Targeting Democrats Now, You Next",
-              "excerpt": "New York City’s mayor, Zohran Mamdani, has been called an anti Semite and a communist—in President Trump’s opinion, a “communist lunatic.” The post Pinkerton – Mamdani’s Monsters: Socialists Are Targeting Democrats Now, You Next appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/04/mamdani-tax-day-new-york-city-mayors-office-youtube-640x335.jpg",
-              "imageAlt": "Pinkerton – Mamdani’s Monsters: Socialists Are Targeting Democrats Now, You Next",
-              "outlet": "Breitbart",
+              "url": "https://www.dailywire.com/news/panic-sets-in-dems-tailspin-as-they-realize-the-hostile-socialist-takeover-already-started",
+              "source": "Daily Wire",
+              "headline": "Panic Sets In: Dems Tailspin As They Realize The Hostile Socialist Takeover Already Started",
+              "excerpt": "Less than a week after Democratic socialists swept several races in New York’s primaries, the memo appears to have gone out to the more moderate Democrats: the socialists aren’t just coming, they’re already here — and the threat is coming from inside the house. Three candidates backed by New York City’s Democratic socialist Mayor Zohran ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/04/Mamdani-Soviet.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Panic Sets In: Dems Tailspin As They Realize The Hostile Socialist Takeover Already Started",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
-              "sourceReliability": "low",
+              "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/media/mamdani-claims-democratic-socialists-win-anywhere-democrats-feud-partys-future",
+              "source": "Fox News",
+              "headline": "Mamdani claims democratic socialists can win ‘anywhere’ as Democrats feud over party’s future",
+              "excerpt": "New York City Mayor Zohran Mamdani says democratic socialists can win anywhere in America after endorsed candidates swept Democratic primaries.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Mamdani-Protester-Jeffries-Schumer.jpeg?ve=1&tl=1",
+              "imageAlt": "Mamdani claims democratic socialists can win ‘anywhere’ as Democrats feud over party’s future",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
@@ -242,21 +314,68 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
-          "imageUrl": "https://media.breitbart.com/media/2026/04/mamdani-tax-day-new-york-city-mayors-office-youtube-640x335.jpg",
-          "imageAlt": "Pinkerton – Mamdani’s Monsters: Socialists Are Targeting Democrats Now, You Next",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/04/Mamdani-Soviet.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Panic Sets In: Dems Tailspin As They Realize The Hostile Socialist Takeover Already Started",
+          "imageCredit": "Daily Wire"
         },
         {
-          "title": "The Hormuz Strait Drone Attack and the Folly of Negotiating with Iran",
-          "summary": "The Hormuz Strait Drone Attack and the Folly of Negotiating with Iran. ‘Death to America’ is not just a slogan.\n\nDaily Wire: Iran Attacks U.S. Bases As It Moves To Control Strait Of Hormuz.\n\nDaily Wire reports that ﻿.",
+          "title": "Trump: Renovations to DC’s East Potomac Golf Links begin in September",
+          "summary": "Trump: Renovations to DC’s East Potomac Golf Links begin in September. President Donald Trump said Sunday the renovation of East Potomac Golf Links in Washington, D.C., will begin on Sep.\n\n1 after months of consternation over the local project.\n\nIn a lengthy Truth Social post detailing a Sunday morning “tour of various Statues, Monuments, Foundations and, most importantly, an old and rundown Golf Course” Trump provided […]. Washington Times: Trump says his renovation plans for a golf course will have Washington hosting a 'major' tournament.\n\nWashington Times reports that president Donald Trump on Sunday surveyed several of his construction projects around the nation's capital, suggesting afterward that his redevelopment of the East Potomac Golf Links would enable it to host a premier tournament.",
           "links": [
             {
-              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4628145/trump-renovations-east-potomac-golf-links-begin-september/",
+              "source": "Washington Examiner",
+              "headline": "Trump: Renovations to DC’s East Potomac Golf Links begin in September",
+              "excerpt": "President Donald Trump said Sunday the renovation of East Potomac Golf Links in Washington, D.C., will begin on Sep. 1 after months of consternation over the local project. In a lengthy Truth Social post detailing a Sunday morning “tour of various Statues, Monuments, Foundations and, most importantly, an old and rundown Golf Course” Trump provided […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26179525827067.jpg?w=696",
+              "imageAlt": "Trump: Renovations to DC’s East Potomac Golf Links begin in September",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jun/28/trump-says-renovation-plans-golf-course-washington-hosting-major/",
+              "source": "Washington Times",
+              "headline": "Trump says his renovation plans for a golf course will have Washington hosting a 'major' tournament",
+              "excerpt": "President Donald Trump on Sunday surveyed several of his construction projects around the nation's capital, suggesting afterward that his redevelopment of the East Potomac Golf Links would enable it to host a premier tournament.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/28/Trump_4_2_2_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump says his renovation plans for a golf course will have Washington hosting a 'major' tournament",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
+          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26179525827067.jpg?w=696",
+          "imageAlt": "Trump: Renovations to DC’s East Potomac Golf Links begin in September",
+          "imageCredit": "Washington Examiner"
+        },
+        {
+          "title": "WATCH: LGBTQ Activist Politician Gets Run Out Of Trans March",
+          "summary": "WATCH: LGBTQ Activist Politician Gets Run Out Of Trans March. San Francisco leftists screamed obscenities and chased LGBTQ activist and California state Sen. Scott Wiener (D) away from the city’s Trans March — all because of Wiener’s stance on Israel.\n\nVideo posted to X shows Wiener, a Jewish gay man running to replace U.S. Rep. Nancy Pelosi (D-CA) in the House of Representatives, walking through ... Fox News: Pro-Israel Democrat California state senator heckled at Trans March over Gaza, ‘We f---ing hate you’.\n\nFox News reports that sen. Scott Wiener says he was forced to leave San Francisco's Trans March after demonstrators confronted him over his stance on Israel and Gaza.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/watch-lgbtq-activist-politician-gets-run-out-of-trans-march",
               "source": "Daily Wire",
-              "headline": "Iran Attacks U.S. Bases As It Moves To Control Strait Of Hormuz",
-              "excerpt": "",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/Untitled-design-2026-06-19T100940.431.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Iran Attacks U.S. Bases As It Moves To Control Strait Of Hormuz",
+              "headline": "WATCH: LGBTQ Activist Politician Gets Run Out Of Trans March",
+              "excerpt": "San Francisco leftists screamed obscenities and chased LGBTQ activist and California state Sen. Scott Wiener (D) away from the city’s Trans March — all because of Wiener’s stance on Israel. Video posted to X shows Wiener, a Jewish gay man running to replace U.S. Rep. Nancy Pelosi (D-CA) in the House of Representatives, walking through ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2160030144.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "WATCH: LGBTQ Activist Politician Gets Run Out Of Trans March",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -269,13 +388,13 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.nationalreview.com/2026/06/the-hormuz-strait-drone-attack-and-the-folly-of-negotiating-with-iran/",
-              "source": "National Review",
-              "headline": "The Hormuz Strait Drone Attack and the Folly of Negotiating with Iran",
-              "excerpt": "‘Death to America’ is not just a slogan.",
-              "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/iran-smoke.jpg?fit=617%2C360&ssl=1",
-              "imageAlt": "The Hormuz Strait Drone Attack and the Folly of Negotiating with Iran",
-              "outlet": "National Review",
+              "url": "https://www.foxnews.com/media/pro-israel-democrat-california-state-senator-heckled-trans-march-gaza",
+              "source": "Fox News",
+              "headline": "Pro-Israel Democrat California state senator heckled at Trans March over Gaza, ‘We f---ing hate you’",
+              "excerpt": "Sen. Scott Wiener says he was forced to leave San Francisco's Trans March after demonstrators confronted him over his stance on Israel and Gaza.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/scott-wiener.jpg?ve=1&tl=1",
+              "imageAlt": "Pro-Israel Democrat California state senator heckled at Trans March over Gaza, ‘We f---ing hate you’",
+              "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -288,39 +407,10 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/06/Untitled-design-2026-06-19T100940.431.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Iran Attacks U.S. Bases As It Moves To Control Strait Of Hormuz",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "American Tributes – Ted Budd: 'The Founding Fathers Rejected Overreach and Overregulation'",
-          "summary": "American Tributes – Ted Budd: 'The Founding Fathers Rejected Overreach and Overregulation'. In a video for Breitbart News's American Tributes project, Sen. Ted Budd (R-NC) spoke about how the United States \"honors tradition and embraces innovation.\" Budd explained how the same spirit which led the Founding Fathers to reject \"overreach and over regulation\" is still driving the nation today, and pointed to how the state of North Carolina was thriving and was a \"national leader in innovation.\" The post <a rel=\"nofollow\" href=\"https://www.breitbart.com/america250/2026/06/28/ameri.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/america250/2026/06/28/american-tributes-ted-budd-the-founding-fathers-rejected-overreach-and-overregulation/",
-              "source": "Breitbart",
-              "headline": "American Tributes – Ted Budd: 'The Founding Fathers Rejected Overreach and Overregulation'",
-              "excerpt": "In a video for Breitbart News's American Tributes project, Sen. Ted Budd (R-NC) spoke about how the United States \"honors tradition and embraces innovation.\" Budd explained how the same spirit which led the Founding Fathers to reject \"overreach and over regulation\" is still driving the nation today, and pointed to how the state of North Carolina was thriving and was a \"national leader in innovation.\" The post <a rel=\"nofollow\" href=\"https://www.breitbart.com/america250/2026/06/28/ameri",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/Ted-Budd-Thumbnail-for-article-640x335.png",
-              "imageAlt": "American Tributes – Ted Budd: 'The Founding Fathers Rejected Overreach and Overregulation'",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
-          "imageUrl": "https://media.breitbart.com/media/2026/06/Ted-Budd-Thumbnail-for-article-640x335.png",
-          "imageAlt": "American Tributes – Ted Budd: 'The Founding Fathers Rejected Overreach and Overregulation'",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2160030144.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "WATCH: LGBTQ Activist Politician Gets Run Out Of Trans March",
+          "imageCredit": "Daily Wire"
         }
       ]
     },
@@ -329,15 +419,15 @@
       "stories": [
         {
           "title": "Comrade Chalmers’ class war budget",
-          "summary": "Comrade Chalmers’ class war budget. Labor’s 2026 budget delivered barely six weeks ago, is a masterclass in deception and incompetence.\n\nIt attracted widespread, well deserved,… The post Comrade Chalmers’ class war budget appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/chalmers-war-on-capitalists/\". Spectator Australia: Chicken Milanese is the king of homemade fast food.\n\nSpectator Australia reports that when it comes to home cooking, we’re obsessed with optimisation. Today this manifests itself in reels on Instagram offering a… The post Chicken Milanese is the king of homemade fast food appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2025/09/whatever-h.",
+          "summary": "Comrade Chalmers’ class war budget. Labor’s 2026 budget delivered barely six weeks ago, is a masterclass in deception and incompetence.\n\nIt attracted widespread, well deserved,… The post Comrade Chalmers’ class war budget appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/chalmers-war-on-capitalists/\".",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/06/chicken-milanese-is-the-king-of-homemade-fast-food/",
+              "url": "https://www.spectator.com.au/2026/06/comrade-chalmers-class-war-budget/",
               "source": "Spectator Australia",
-              "headline": "Chicken Milanese is the king of homemade fast food",
-              "excerpt": "When it comes to home cooking, we’re obsessed with optimisation. Today this manifests itself in reels on Instagram offering a… The post Chicken Milanese is the king of homemade fast food appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2025/09/whatever-h",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/chef_milanese.png",
-              "imageAlt": "Chicken Milanese is the king of homemade fast food",
+              "headline": "Comrade Chalmers’ class war budget",
+              "excerpt": "Labor’s 2026 budget delivered barely six weeks ago, is a masterclass in deception and incompetence. It attracted widespread, well deserved,… The post Comrade Chalmers’ class war budget appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/chalmers-war-on-capitalists/\"",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/newman_27_june_post.jpg",
+              "imageAlt": "Comrade Chalmers’ class war budget",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -352,21 +442,39 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[7]",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/chef_milanese.png",
-          "imageAlt": "Chicken Milanese is the king of homemade fast food",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/newman_27_june_post.jpg",
+          "imageAlt": "Comrade Chalmers’ class war budget",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "How tourists and plastic transformed Bali into an 'Island of Trash'",
-          "summary": "How tourists and plastic transformed Bali into an 'Island of Trash'. Known to many as the Island of the Gods, residents fear Bali may soon become the \"Island of Trash\" due to a deluge of tourists, a lack of rubbish education and the partial closure of a much-needed landfill facility.",
+          "title": "Victorian premier blames ‘inflation not corruption’ for Big Build cost blowouts amid fresh allegations",
+          "summary": "Victorian premier blames ‘inflation not corruption’ for Big Build cost blowouts amid fresh allegations. Jacinta Allan resists calls for royal commission into state’s infrastructure projects as pressure mounts following new reports Follow our Australia news live blog for latest updates Get our <a href=\"https://www.thegua.\n\nThe Guardian: ABC and SBS to appear at antisemitism royal commission after complaints of ‘unbalanced’ Middle East coverage.\n\nThe Guardian reports that bondi attack inquiry told broadcasters will be called as commission focuses on traditional and social media Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-new.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-06-28/tourists-are-turning-bali-into-a-trash-island/106831162",
+              "url": "https://www.theguardian.com/australia-news/2026/jun/29/abc-sbs-to-appear-antisemitism-rc-royal-commission-bondi-attack-inquiry-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "ABC and SBS to appear at antisemitism royal commission after complaints of ‘unbalanced’ Middle East coverage",
+              "excerpt": "Bondi attack inquiry told broadcasters will be called as commission focuses on traditional and social media Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-new",
+              "imageUrl": "https://i.guim.co.uk/img/media/9893d690facfe27060b2ad7e8fe9f4e664e62800/944_0_4758_3807/master/4758.jpg?width=140&quality=85&auto=format&fit=max&s=20ee80070d2cb338d8e292a40a40b9cd",
+              "imageAlt": "ABC and SBS to appear at antisemitism royal commission after complaints of ‘unbalanced’ Middle East coverage",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-06-29/victoria-cfmeu-construction-corruption-allegations/106854180",
               "source": "ABC Australia",
-              "headline": "How tourists and plastic transformed Bali into an 'Island of Trash'",
-              "excerpt": "Known to many as the Island of the Gods, residents fear Bali may soon become the \"Island of Trash\" due to a deluge of tourists, a lack of rubbish education and the partial closure of a much-needed landfill facility.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/873661afef68526b805fdd210e13d84d?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=437&width=862&height=485",
-              "imageAlt": "How tourists and plastic transformed Bali into an 'Island of Trash'",
+              "headline": "Allan government under pressure amid latest Big Build corruption allegations",
+              "excerpt": "The Victorian premier has backed her government's response to corruption in the construction industry, despite criticism from across politics and integrity experts.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/dd92519f66ee171d16b013bb45a70fd0?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=514&width=862&height=485",
+              "imageAlt": "Allan government under pressure amid latest Big Build corruption allegations",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -382,9 +490,9 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/873661afef68526b805fdd210e13d84d?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=437&width=862&height=485",
-          "imageAlt": "How tourists and plastic transformed Bali into an 'Island of Trash'",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/9893d690facfe27060b2ad7e8fe9f4e664e62800/944_0_4758_3807/master/4758.jpg?width=140&quality=85&auto=format&fit=max&s=20ee80070d2cb338d8e292a40a40b9cd",
+          "imageAlt": "ABC and SBS to appear at antisemitism royal commission after complaints of ‘unbalanced’ Middle East coverage",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "Back to Back Barries: Angus Taylor’s multiculturalism mess",
@@ -508,6 +616,35 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "‘It’s dangerous and it’s going to erode trust’: redesign of US government websites stokes surveillance fears",
+          "summary": "‘It’s dangerous and it’s going to erode trust’: redesign of US government websites stokes surveillance fears.\n\nThe National Design Studio, staffed by Doge veterans, installed visitor-tracking software on vital federal websites An opaque White House office staffed largely by veterans of Elon Musk’s “department of government efficiency” (Doge) has quietly rebuilt some of the federal government’s most sensitive websites – for passport applications, voter registration, prescription-drug pricing and children’s savings – in ways critics say appear to violate federal law.\n\nThe <a href=\"https://nds.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/us-news/2026/jun/28/government-website-visitor-tracking-surveillance-fears",
+              "source": "The Guardian Technology",
+              "headline": "‘It’s dangerous and it’s going to erode trust’: redesign of US government websites stokes surveillance fears",
+              "excerpt": "The National Design Studio, staffed by Doge veterans, installed visitor-tracking software on vital federal websites An opaque White House office staffed largely by veterans of Elon Musk’s “department of government efficiency” (Doge) has quietly rebuilt some of the federal government’s most sensitive websites – for passport applications, voter registration, prescription-drug pricing and children’s savings – in ways critics say appear to violate federal law. The <a href=\"https://nds",
+              "imageUrl": "https://i.guim.co.uk/img/media/e22146ab2ff1d6f9a387d95f4c4c1aa8b15b0f0f/281_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=dfee3734df8dd7d3b3c479d005145381",
+              "imageAlt": "‘It’s dangerous and it’s going to erode trust’: redesign of US government websites stokes surveillance fears",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "imageUrl": "https://i.guim.co.uk/img/media/e22146ab2ff1d6f9a387d95f4c4c1aa8b15b0f0f/281_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=dfee3734df8dd7d3b3c479d005145381",
+          "imageAlt": "‘It’s dangerous and it’s going to erode trust’: redesign of US government websites stokes surveillance fears",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Lost your crypto access code? Be wary, there‘s a scam for that too",
           "summary": "Lost your crypto access code? Be wary, there‘s a scam for that too.\n\nA niche type of fraud is lucrative enough for criminals to set up fake websites with dodgy software to harvest your data After holding them for a few years, you have decided it is time to cash in your cryptocurrency holdings.\n\nThe problem is, it is so long since you set up the digital wallet which manages them on your laptop, you have forgotten the lengthy access code. Stressed at the thought of losing thousands of pounds, you search and download a program which promises to recover.",
           "links": [
@@ -531,51 +668,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
           "imageUrl": "https://i.guim.co.uk/img/media/b85720b7a69a850b470d745975b0f17df0cac414/434_0_4382_3504/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=909a4425e0a2a7d9b963d929d31a324f",
           "imageAlt": "Lost your crypto access code? Be wary, there‘s a scam for that too",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
-          "summary": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’. Prime minister Anthony Albanese says too many children still on platforms but he is ‘heartened’ by world-leading law Social media bans go global: big tech faces a reckoning after Australia’s crackdown <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-poli.",
+          "title": "The best LED face masks in the UK, tested: 11 light therapy devices that are worth the hype",
+          "summary": "The best LED face masks in the UK, tested: 11 light therapy devices that are worth the hype. They claim to fix fine lines, blemishes and redness – but which stand up to scrutiny?\n\nWe asked dermatologists and put them to the test to find out • The best anti-ageing creams, serums and treatments LED face masks are booming in popularity – despite being one of the most expensive at-home beauty products to hit the market.\n\nThey claim to either reduce the appearanc.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/jun/27/australia-under-16-social-media-ban-tech-companies-penalty-double",
+              "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
               "source": "The Guardian Technology",
-              "headline": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
-              "excerpt": "Prime minister Anthony Albanese says too many children still on platforms but he is ‘heartened’ by world-leading law Social media bans go global: big tech faces a reckoning after Australia’s crackdown <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-poli",
-              "imageUrl": "https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&quality=85&auto=format&fit=max&s=3fa893ae69d7677b4ee47006d10352ca",
-              "imageAlt": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
-          "imageUrl": "https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&quality=85&auto=format&fit=max&s=3fa893ae69d7677b4ee47006d10352ca",
-          "imageAlt": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
-          "summary": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies. The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power A “centaur”, in automation theory, is a person assisted by a machine, and a “reverse centaur”, hero of Cory Doctorow’s new book, The Reverse Centaur’s Guide to Life After.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
-              "source": "The Guardian Technology",
-              "headline": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
-              "excerpt": "The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power A “centaur”, in automation theory, is a person assisted by a machine, and a “reverse centaur”, hero of Cory Doctorow’s new book, The Reverse Centaur’s Guide to Life After",
-              "imageUrl": "https://i.guim.co.uk/img/media/ef119478d7f27a743dc19d6056f1698deaed4e07/0_1403_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=f21ad1305749a21de5b3573ac6006c3c",
-              "imageAlt": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
+              "headline": "The best LED face masks in the UK, tested: 11 light therapy devices that are worth the hype",
+              "excerpt": "They claim to fix fine lines, blemishes and redness – but which stand up to scrutiny? We asked dermatologists and put them to the test to find out • The best anti-ageing creams, serums and treatments LED face masks are booming in popularity – despite being one of the most expensive at-home beauty products to hit the market. They claim to either reduce the appearanc",
+              "imageUrl": "https://i.guim.co.uk/img/media/c28c59b2e5e2dd1403dfce96ffbfebe4b24f90e6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a05249d5f37c1a1fcaac995cc31d64be",
+              "imageAlt": "The best LED face masks in the UK, tested: 11 light therapy devices that are worth the hype",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -590,8 +698,8 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
-          "imageUrl": "https://i.guim.co.uk/img/media/ef119478d7f27a743dc19d6056f1698deaed4e07/0_1403_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=f21ad1305749a21de5b3573ac6006c3c",
-          "imageAlt": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
+          "imageUrl": "https://i.guim.co.uk/img/media/c28c59b2e5e2dd1403dfce96ffbfebe4b24f90e6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a05249d5f37c1a1fcaac995cc31d64be",
+          "imageAlt": "The best LED face masks in the UK, tested: 11 light therapy devices that are worth the hype",
           "imageCredit": "The Guardian"
         }
       ]
@@ -600,8 +708,37 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "P2.1-M smuggled cigarettes left in Lanao del Sur highway",
-          "summary": "P2.1-M smuggled cigarettes left in Lanao del Sur highway. COTABATO CITY – Police recovered P2.1 million worth of suspected smuggled cigarettes abandoned along the highway in Marantao, Lanao del Sur, shortly after midnight Sunday during an anti-criminality operation.\n\nBrig.\n\nGen. Christopher Abecia, Police Regional Office-Bangsamoro Autonomous Region (PRO-BAR) director, said personnel of the Marantao Municipal Police Station responded to information from village officials that.\n\nPhilippine Daily Inquirer: Lanao del Norte police seize P7.6-M smuggled cigarettes. Philippine Daily Inquirer reports that zAMBOANGA CITY — The police seized P7.6 million worth of smuggled cigarettes and arrested an individual in an operation in Lanao del Norte province early Sunday.\n\nCol.\n\nLeo Sua, Lanao del Norte police director, identified the arrested individual as alias “Ab,” 37, of Barangay Claro M. Recto, M",
+          "title": "Maynilad confirms QC condo no longer under residential rate",
+          "summary": "Maynilad confirms QC condo no longer under residential rate. MANILA, Philippines — Maynilad Water Services Inc. has confirmed it reclassified Smile Citihomes Condominium’s water account from residential to semi-business in March, resulting in higher water bills for the Quezon City residential complex.\n\nIn a statement sent to INQUIRER.net, Maynilad said the reclassification complied with the Metropolitan Waterworks and Sewerage System (MWSS) Regulatory Office’s 2023.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2254377/maynilad-confirms-qc-condo-no-longer-under-residential-rate",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Maynilad confirms QC condo no longer under residential rate",
+              "excerpt": "MANILA, Philippines — Maynilad Water Services Inc. has confirmed it reclassified Smile Citihomes Condominium’s water account from residential to semi-business in March, resulting in higher water bills for the Quezon City residential complex. In a statement sent to INQUIRER.net, Maynilad said the reclassification complied with the Metropolitan Waterworks and Sewerage System (MWSS) Regulatory Office’s 2023",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/smile-citihomes-maynilad-28june2026.png",
+              "imageAlt": "Maynilad confirms QC condo no longer under residential rate",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/smile-citihomes-maynilad-28june2026.png",
+          "imageAlt": "Maynilad confirms QC condo no longer under residential rate",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Man with P13.6-M shabu nabbed in Maguindanao del Norte drug bust",
+          "summary": "Man with P13.6-M shabu nabbed in Maguindanao del Norte drug bust. COTABATO CITY – A 42-year-old driver from this city was arrested after authorities seized about two kilograms of alleged shabu worth P13.6 million during a buy-bust operation in Barangay Sarmiento, Parang, Maguindanao del Norte, at 7 a.m. on Saturday.\n\nEdgar Jubay, Philippine Drug Enforcement Agency-Bangsamoro Autonomous Region in Muslim Mindanao (PDEA-BARMM) director, identified the suspect. Philippine Daily Inquirer: Lanao del Norte police seize P7.6-M smuggled cigarettes.\n\nPhilippine Daily Inquirer reports that zAMBOANGA CITY — The police seized P7.6 million worth of smuggled cigarettes and arrested an individual in an operation in Lanao del Norte province early Sunday. Col.\n\nLeo Sua, Lanao del Norte police director, identified the arrested individual as alias “Ab,” 37, of Barangay Claro M. Recto, Maigo town.\n\n“The susp",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2254201/lanao-del-norte-police-seize-p7-6-m-smuggled-cigarettes",
@@ -623,51 +760,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
           "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-lanao-del-norte.jpg",
           "imageAlt": "Lanao del Norte police seize P7.6-M smuggled cigarettes",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "3 nabbed for illegal mining, P5-M equipment seized in Surigao del Sur",
-          "summary": "3 nabbed for illegal mining, P5-M equipment seized in Surigao del Sur. MANILA, Philippines — Three individuals were arrested in Barobo, Surigao del Sur for failing to present proper documentation for mining activities, the Philippine National Police said on Sunday.\n\nPolice made the arrests and confiscated equipment worth P5,092,000, on Saturday.\n\n“Local police and personnel from the (Department of Environment and Natural Resources or) DENR-Mines and Geosciences Bureau.",
+          "title": "Bicol solons push disaster-ready evacuation hubs after Mindanao quake",
+          "summary": "Bicol solons push disaster-ready evacuation hubs after Mindanao quake. IRIGA CITY — Bicol lawmakers urged the government on Sunday to fast-track the construction of permanent, disaster-resilient evacuation centers after the magnitude 7.8 earthquake in Mindanao displaced more than 75,000 families.\n\nReps. Miguel Luis “Migz” Villafuerte (5th District) and Vincenzo Renato Luigi Villafuerte (2nd District) called for full implementation of Republic Act No.\n\n12076, or.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2254130/3-nabbed-for-illegal-mining-p5-m-equipment-seized-in-surigao-del-sur",
+              "url": "https://newsinfo.inquirer.net/2254387/bicol-solons-push-disaster-ready-evacuation-hubs-after-mindanao-quake",
               "source": "Philippine Daily Inquirer",
-              "headline": "3 nabbed for illegal mining, P5-M equipment seized in Surigao del Sur",
-              "excerpt": "MANILA, Philippines — Three individuals were arrested in Barobo, Surigao del Sur for failing to present proper documentation for mining activities, the Philippine National Police said on Sunday. Police made the arrests and confiscated equipment worth P5,092,000, on Saturday. “Local police and personnel from the (Department of Environment and Natural Resources or) DENR-Mines and Geosciences Bureau",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/pnp-mine-28june2026.jpg",
-              "imageAlt": "3 nabbed for illegal mining, P5-M equipment seized in Surigao del Sur",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/pnp-mine-28june2026.jpg",
-          "imageAlt": "3 nabbed for illegal mining, P5-M equipment seized in Surigao del Sur",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Negros Occidental LGUs intensify biosecurity measures to ward off ASF",
-          "summary": "Negros Occidental LGUs intensify biosecurity measures to ward off ASF.\n\nBACOLOD CITY, NEGROS OCCIDENTAL, Philippines — To protect the multi-million peso local livestock industry and secure the livelihoods of small-scale and commercial hog raisers, local government units (LGUs) in Negros Occidental have scaled up their biosecurity defenses against African Swine Fever (ASF).\n\nThrough a mix of strict border inspections, temporary bans, and localized task forces,.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2253970/negros-occidental-lgus-intensify-biosecurity-measures-to-ward-off-asf",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Negros Occidental LGUs intensify biosecurity measures to ward off ASF",
-              "excerpt": "BACOLOD CITY, NEGROS OCCIDENTAL, Philippines — To protect the multi-million peso local livestock industry and secure the livelihoods of small-scale and commercial hog raisers, local government units (LGUs) in Negros Occidental have scaled up their biosecurity defenses against African Swine Fever (ASF). Through a mix of strict border inspections, temporary bans, and localized task forces,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Negros-Occidental-map-filephoto-091322.jpg",
-              "imageAlt": "Negros Occidental LGUs intensify biosecurity measures to ward off ASF",
+              "headline": "Bicol solons push disaster-ready evacuation hubs after Mindanao quake",
+              "excerpt": "IRIGA CITY — Bicol lawmakers urged the government on Sunday to fast-track the construction of permanent, disaster-resilient evacuation centers after the magnitude 7.8 earthquake in Mindanao displaced more than 75,000 families. Reps. Miguel Luis “Migz” Villafuerte (5th District) and Vincenzo Renato Luigi Villafuerte (2nd District) called for full implementation of Republic Act No. 12076, or",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/DepEd_school-repairs.jpg",
+              "imageAlt": "Bicol solons push disaster-ready evacuation hubs after Mindanao quake",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -682,21 +790,21 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Negros-Occidental-map-filephoto-091322.jpg",
-          "imageAlt": "Negros Occidental LGUs intensify biosecurity measures to ward off ASF",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/DepEd_school-repairs.jpg",
+          "imageAlt": "Bicol solons push disaster-ready evacuation hubs after Mindanao quake",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Group alarmed by review of Oriental Mindoro GMO ban",
-          "summary": "Group alarmed by review of Oriental Mindoro GMO ban.\n\nCALAPAN CITY, Oriental Mindoro, Philippines — An advocacy group has expressed concern over the ongoing review of Oriental Mindoro’s long-standing ban on genetically modified organisms (GMOs), warning that the province’s safeguards could be weakened or repealed without sufficient public consultation and transparency.\n\nIn a statement sent to the Inquirer on Saturday, June 27, Magsasaka at.",
+          "title": "LPA may develop into cyclone by Wednesday, says Pagasa",
+          "summary": "LPA may develop into cyclone by Wednesday, says Pagasa. MANILA, Philippines — The low pressure area (LPA) being monitored inside the Philippine area of responsibility (PAR) may develop into a tropical cyclone on Wednesday, according to the state weather bureau.\n\nCurrently, the LPA has a medium chance of developing into a tropical cyclone.\n\nAccording to the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa), the.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2254123/group-alarmed-by-review-of-oriental-mindoro-gmo-ban",
+              "url": "https://newsinfo.inquirer.net/2254366/lpa-may-develop-into-cyclone-by-wednesday-pagasa",
               "source": "Philippine Daily Inquirer",
-              "headline": "Group alarmed by review of Oriental Mindoro GMO ban",
-              "excerpt": "CALAPAN CITY, Oriental Mindoro, Philippines — An advocacy group has expressed concern over the ongoing review of Oriental Mindoro’s long-standing ban on genetically modified organisms (GMOs), warning that the province’s safeguards could be weakened or repealed without sufficient public consultation and transparency. In a statement sent to the Inquirer on Saturday, June 27, Magsasaka at",
-              "imageUrl": "https://www.inquirer.net/wp-content/uploads/2016/10/new-inq-fb-def.jpg",
-              "imageAlt": "Group alarmed by review of Oriental Mindoro GMO ban",
+              "headline": "LPA may develop into cyclone by Wednesday, says Pagasa",
+              "excerpt": "MANILA, Philippines — The low pressure area (LPA) being monitored inside the Philippine area of responsibility (PAR) may develop into a tropical cyclone on Wednesday, according to the state weather bureau. Currently, the LPA has a medium chance of developing into a tropical cyclone. According to the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa), the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/29june2026pagasa.jpg",
+              "imageAlt": "LPA may develop into cyclone by Wednesday, says Pagasa",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -705,43 +813,43 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
-          "imageUrl": "https://www.inquirer.net/wp-content/uploads/2016/10/new-inq-fb-def.jpg",
-          "imageAlt": "Group alarmed by review of Oriental Mindoro GMO ban",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/29june2026pagasa.jpg",
+          "imageAlt": "LPA may develop into cyclone by Wednesday, says Pagasa",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Soldier nabbed for firing rifle outside brother-in-law’s house in Cagayan",
-          "summary": "Soldier nabbed for firing rifle outside brother-in-law’s house in Cagayan. TUGUEGARAO CITY, Philippines— A 28-year-old Army corporal was arrested for allegedly firing his high-powered firearm outside his brother-in-law’s house in Barangay Luzon, Claveria, Cagayan, in the early hours of Sunday, June 28, police said.\n\nCol. Mardito Angoluan, director of the Cagayan Police Provincial Office, identified the suspect only by his alias, Bugoy, from Calanasan, Apayao.\n\nPhilippine Daily Inquirer: Forest ranger, 3 others wounded in ‘shootout’ with Pampanga cops. Philippine Daily Inquirer reports that mABALACAT CITY, Pampanga — A forest ranger and three of his companions were wounded in an alleged shootout with police during an operation in Arayat town, Pampanga, on Saturday, June 27.\n\nIn a statement, the Pampanga Police Provincial Office identified the forest ranger only by his alias, “Ka Arlet,” a",
+          "title": "Video games ‘convenient scapegoat’ for school violence, says Bam Aquino",
+          "summary": "Video games ‘convenient scapegoat’ for school violence, says Bam Aquino. MANILA, Philippines – Video games are a “convenient scapegoat” behind minor-inflicted violence despite many studies finding no correlation between games and school shootings, Sen. Bam Aquino said on Monday.\n\nAquino, who heads the Senate basic education, and science and technology panels, remarked amid discussions of banning violent video games after fatal incidents involving shooting and.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2254104/forest-ranger-3-others-wounded-in-shootout-with-pampanga-cops",
+              "url": "https://newsinfo.inquirer.net/2254441/fwd-games-convenient-scapegoat-for-school-violence-aquino",
               "source": "Philippine Daily Inquirer",
-              "headline": "Forest ranger, 3 others wounded in ‘shootout’ with Pampanga cops",
-              "excerpt": "MABALACAT CITY, Pampanga — A forest ranger and three of his companions were wounded in an alleged shootout with police during an operation in Arayat town, Pampanga, on Saturday, June 27. In a statement, the Pampanga Police Provincial Office identified the forest ranger only by his alias, “Ka Arlet,” a former leader of an armed",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Pampanga-map-filephoto-091122.jpg",
-              "imageAlt": "Forest ranger, 3 others wounded in ‘shootout’ with Pampanga cops",
+              "headline": "Video games ‘convenient scapegoat’ for school violence, says Bam Aquino",
+              "excerpt": "MANILA, Philippines – Video games are a “convenient scapegoat” behind minor-inflicted violence despite many studies finding no correlation between games and school shootings, Sen. Bam Aquino said on Monday. Aquino, who heads the Senate basic education, and science and technology panels, remarked amid discussions of banning violent video games after fatal incidents involving shooting and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2025/11/bam-aquino-04nov2025.jpg",
+              "imageAlt": "Video games ‘convenient scapegoat’ for school violence, says Bam Aquino",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Pampanga-map-filephoto-091122.jpg",
-          "imageAlt": "Forest ranger, 3 others wounded in ‘shootout’ with Pampanga cops",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2025/11/bam-aquino-04nov2025.jpg",
+          "imageAlt": "Video games ‘convenient scapegoat’ for school violence, says Bam Aquino",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -776,6 +884,93 @@
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]"
         },
         {
+          "title": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial",
+          "summary": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial.\n\nMinisters should end Palantir’s contract before medical confidentiality is sacrificed to Silicon Valley’s appetite for public data Alarm bells ought to have rung when it emerged last month that Palantir engineers could gain “ unlimited access ” to identifiable NHS patient data.\n\nSuch sensitive medical information was only supposed to be available eithe.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/commentisfree/2026/jun/04/the-guardian-view-on-nhs-records-patients-are-not-raw-material-for-big-tech",
+              "source": "The Guardian Technology",
+              "headline": "The Guardian view on NHS records: patients are not raw material for big tech",
+              "excerpt": "Ministers should end Palantir’s contract before medical confidentiality is sacrificed to Silicon Valley’s appetite for public data Alarm bells ought to have rung when it emerged last month that Palantir engineers could gain “ unlimited access ” to identifiable NHS patient data. Such sensitive medical information was only supposed to be available eithe",
+              "imageUrl": "https://i.guim.co.uk/img/media/b1a6affbb60f92721cc723a18d551bc671e8dcdc/321_0_3052_2442/master/3052.jpg?width=140&quality=85&auto=format&fit=max&s=108d2f19eaf4f40bb8306dec9a18348b",
+              "imageAlt": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
+          "imageUrl": "https://i.guim.co.uk/img/media/b1a6affbb60f92721cc723a18d551bc671e8dcdc/321_0_3052_2442/master/3052.jpg?width=140&quality=85&auto=format&fit=max&s=108d2f19eaf4f40bb8306dec9a18348b",
+          "imageAlt": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
+          "summary": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’. Prime minister Anthony Albanese says too many children still on platforms but he is ‘heartened’ by world-leading law Social media bans go global: big tech faces a reckoning after Australia’s crackdown <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-poli.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/jun/27/australia-under-16-social-media-ban-tech-companies-penalty-double",
+              "source": "The Guardian Technology",
+              "headline": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
+              "excerpt": "Prime minister Anthony Albanese says too many children still on platforms but he is ‘heartened’ by world-leading law Social media bans go global: big tech faces a reckoning after Australia’s crackdown <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-poli",
+              "imageUrl": "https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&quality=85&auto=format&fit=max&s=3fa893ae69d7677b4ee47006d10352ca",
+              "imageAlt": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
+          "imageUrl": "https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&quality=85&auto=format&fit=max&s=3fa893ae69d7677b4ee47006d10352ca",
+          "imageAlt": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
+          "summary": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies. The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power A “centaur”, in automation theory, is a person assisted by a machine, and a “reverse centaur”, hero of Cory Doctorow’s new book, The Reverse Centaur’s Guide to Life After.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
+              "source": "The Guardian Technology",
+              "headline": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
+              "excerpt": "The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power A “centaur”, in automation theory, is a person assisted by a machine, and a “reverse centaur”, hero of Cory Doctorow’s new book, The Reverse Centaur’s Guide to Life After",
+              "imageUrl": "https://i.guim.co.uk/img/media/ef119478d7f27a743dc19d6056f1698deaed4e07/0_1403_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=f21ad1305749a21de5b3573ac6006c3c",
+              "imageAlt": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]",
+          "imageUrl": "https://i.guim.co.uk/img/media/ef119478d7f27a743dc19d6056f1698deaed4e07/0_1403_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=f21ad1305749a21de5b3573ac6006c3c",
+          "imageAlt": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "OpenAI staggers AI model release after Trump administration request",
           "summary": "OpenAI staggers AI model release after Trump administration request.\n\nSam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s Mythos Business live – latest updates OpenAI is staggering the release of its latest AI model after a request from the US government, in a move echoing the launch of Anthropic’s Mythos product.\n\nT.",
           "links": [
@@ -799,96 +994,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
           "imageUrl": "https://i.guim.co.uk/img/media/c2db30c2688cafcce0ba559cce4044d8aa395fcb/639_0_5033_4024/master/5033.jpg?width=140&quality=85&auto=format&fit=max&s=928ab2fd6b7baa7063db0d8fbf34d6ac",
           "imageAlt": "OpenAI staggers AI model release after Trump administration request",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’",
-          "summary": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’. Ultrarich face backlash as billionaire tax in California makes it to the ballot and Americans organize for higher wages The day that Elon Musk became the world’s first trillionaire , Gilberto Rubio, a security officer in the San Francisco area, said he was thinking about.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/us-news/2026/jun/26/billionaires-wealth-soars-as-workers-struggle",
-              "source": "The Guardian Technology",
-              "headline": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’",
-              "excerpt": "Ultrarich face backlash as billionaire tax in California makes it to the ballot and Americans organize for higher wages The day that Elon Musk became the world’s first trillionaire , Gilberto Rubio, a security officer in the San Francisco area, said he was thinking about",
-              "imageUrl": "https://i.guim.co.uk/img/media/dc42e29f7d7761a5d9e003f93913c8317f6fc97f/1045_701_1406_1125/master/1406.jpg?width=140&quality=85&auto=format&fit=max&s=134c9ca1f3f3da0e31f98860d0f2d51f",
-              "imageAlt": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
-          "imageUrl": "https://i.guim.co.uk/img/media/dc42e29f7d7761a5d9e003f93913c8317f6fc97f/1045_701_1406_1125/master/1406.jpg?width=140&quality=85&auto=format&fit=max&s=134c9ca1f3f3da0e31f98860d0f2d51f",
-          "imageAlt": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
-          "summary": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone. Fire and Rescue NSW uses thermal imaging and a mobile phone red light to quickly locate men who veered off walking track near Jindabyne Get our breaking news email , free app or daily news podcast Two hikers who veered off a walking track in Kosciuszko national.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw",
-              "source": "The Guardian Technology",
-              "headline": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
-              "excerpt": "Fire and Rescue NSW uses thermal imaging and a mobile phone red light to quickly locate men who veered off walking track near Jindabyne Get our breaking news email , free app or daily news podcast Two hikers who veered off a walking track in Kosciuszko national",
-              "imageUrl": "https://i.guim.co.uk/img/media/3752ed6a45e2ccc0b4c976fef12974cb7e048003/455_0_2104_1684/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=21eaa9b4a57f59e55a3940291956516d",
-              "imageAlt": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]",
-          "imageUrl": "https://i.guim.co.uk/img/media/3752ed6a45e2ccc0b4c976fef12974cb7e048003/455_0_2104_1684/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=21eaa9b4a57f59e55a3940291956516d",
-          "imageAlt": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Prime Day ends today - here are the 52 best deals expected to sell out fast",
-          "summary": "Prime Day ends today - here are the 52 best deals expected to sell out fast. Amazon’s annual shopping event ends today.\n\nWe vetted sales on Our Place’s bestselling pan, Hatch’s sunrise alarm clock, a Ninja Creami ice cream maker and more – our no-junk picks The best anti-Prime Day deals for Amazon skeptics Prime Day is the wild w.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter-us/2026/jun/26/best-amazon-prime-day-deals-sales-discounts-day-4",
-              "source": "The Guardian Technology",
-              "headline": "Prime Day ends today - here are the 52 best deals expected to sell out fast",
-              "excerpt": "Amazon’s annual shopping event ends today. We vetted sales on Our Place’s bestselling pan, Hatch’s sunrise alarm clock, a Ninja Creami ice cream maker and more – our no-junk picks The best anti-Prime Day deals for Amazon skeptics Prime Day is the wild w",
-              "imageUrl": "https://i.guim.co.uk/img/media/370dfc1c12f9869a1ebdb6d8cf290f0bc6122850/0_0_1548_1238/master/1548.jpg?width=140&quality=85&auto=format&fit=max&s=de3e5295e2a74cb67029aa88b0773383",
-              "imageAlt": "Prime Day ends today - here are the 52 best deals expected to sell out fast",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
-          "imageUrl": "https://i.guim.co.uk/img/media/370dfc1c12f9869a1ebdb6d8cf290f0bc6122850/0_0_1548_1238/master/1548.jpg?width=140&quality=85&auto=format&fit=max&s=de3e5295e2a74cb67029aa88b0773383",
-          "imageAlt": "Prime Day ends today - here are the 52 best deals expected to sell out fast",
           "imageCredit": "The Guardian"
         }
       ]
