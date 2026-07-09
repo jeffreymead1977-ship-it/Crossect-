@@ -2,24 +2,24 @@
   "id": "2026-07-09-expanded",
   "date": "2026-07-09",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-07-09T03:00:11.074165",
+  "generatedAt": "2026-07-09T12:30:29.706522",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-07-09T03:00:11",
+  "updatedAt": "2026-07-09T12:30:29",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "U.S. Launches ‘Powerful Strikes’ on Iran After Attacks on Ships in Hormuz",
-          "summary": "U.S. Launches ‘Powerful Strikes’ on Iran After Attacks on Ships in Hormuz. U.S. forces launched a series of what the military described as \"powerful strikes\" against Iran early Wednesday after Tehran attacked three commercial vessels transiting the Strait of Hormuz, with U.S. Central Command declaring the Islamic Republic's actions amounted to \"a clear violation of the ceasefire.\" The post U.S. Launches ‘Powerful Strikes’ on Iran Aft.\n\nAl Jazeera: Iran signals defiance as Trump fumes over Strait of Hormuz strikes. Al Jazeera reports that iranian officials insist that Tehran will not give up control over the waterway as US attacks threaten fragile truce.",
+          "title": "Platner Caves, Suspends Senate Campaign",
+          "summary": "Platner Caves, Suspends Senate Campaign. Graham Platner, the scandal-filled Maine leftist who came under fire over a Nazi tattoo and faces allegations of rape and sexual harassment, suspended his Senate campaign Wednesday after Democrats mounted a pressure campaign to force him out of the race.\n\nHe announced his decision in an 11-minute video released on social media: My name might ... Al Jazeera: US Senate nominee Platner halts campaign after assault allegations.\n\nAl Jazeera reports that a string of high-profile Democrats have withdrawn support for Platner following sexual assault allegation.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/7/9/us-senate-nominee-platner-halts-campaign-after-assault-allegations?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
-              "excerpt": "Iranian officials insist that Tehran will not give up control over the waterway as US attacks threaten fragile truce.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26187096296054-1783513686.jpg?resize=1920%2C1440",
-              "imageAlt": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
+              "headline": "US Senate nominee Platner halts campaign after assault allegations",
+              "excerpt": "A string of high-profile Democrats have withdrawn support for Platner following sexual assault allegation.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-05-26T023854Z_235368377_RC2MGLAL7B57_RTRMADP_3_USA-ELECTION-MAINE-1783558069.jpg?resize=1920%2C1440",
+              "imageAlt": "US Senate nominee Platner halts campaign after assault allegations",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -31,54 +31,6 @@
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
-            {
-              "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "US strikes target Iranian military boats",
-              "excerpt": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a58/live/59564310-7a94-11f1-932b-1f29e7985956.jpg",
-              "imageAlt": "US strikes target Iranian military boats",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/politics/2026/07/07/trump-administration-reinstates-iran-oil-sanctions/",
-              "source": "Breitbart",
-              "headline": "Trump Administration Reinstates Iran Oil Sanctions",
-              "excerpt": "The Trump administration on Tuesday reimposed sanctions on Iranian oil and petrochemical sales after Tehran reportedly attacked three vessels near the Strait of Hormuz. The post Trump Administration Reinstates Iran Oil Sanctions appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/07/May6-2026-Iranian-flag-file-ap-640x335.jpg",
-              "imageAlt": "Trump Administration Reinstates Iran Oil Sanctions",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26187096296054-1783513686.jpg?resize=1920%2C1440",
-          "imageAlt": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Platner’s Civil War With Democrats Just Got Messier",
-          "summary": "Platner’s Civil War With Democrats Just Got Messier. Maine Democrat Senate candidate Graham Platner denied accusations his team was trying to interfere with the process to potentially choose his replacement as he faces continued calls to drop out of the critical race over a rape allegation.\n\nPlatner’s campaign disputed claims made by Maine Democratic Party Executive Director Devon Murphy-Anderson that the campaign was ... BBC: Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation.\n\nBBC reports that graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\".",
-          "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -99,12 +51,30 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.dailywire.com/news/platner-feuds-with-dem-political-establishment-over-potential-replacement",
+              "url": "https://www.breitbart.com/politics/2026/07/08/graham-platner-suspends-maine-senate-campaign-after-sexual-assault-allegations/",
+              "source": "Breitbart",
+              "headline": "Graham Platner Suspends Maine Senate Campaign After Sexual Assault Allegations",
+              "excerpt": "Graham Platner (D) suspended his campaign on Wednesday after scores of Democrats called him to step down due to sexual assault allegations. The post Graham Platner Suspends Maine Senate Campaign After Sexual Assault Allegations appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/07/Graham-Platner-640x335.jpg",
+              "imageAlt": "Graham Platner Suspends Maine Senate Campaign After Sexual Assault Allegations",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/platner-caves-suspends-senate-campaign",
               "source": "Daily Wire",
-              "headline": "Platner’s Civil War With Democrats Just Got Messier",
-              "excerpt": "Maine Democrat Senate candidate Graham Platner denied accusations his team was trying to interfere with the process to potentially choose his replacement as he faces continued calls to drop out of the critical race over a rape allegation. Platner’s campaign disputed claims made by Maine Democratic Party Executive Director Devon Murphy-Anderson that the campaign was ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/07/GettyImages-2280200174-1.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Platner’s Civil War With Democrats Just Got Messier",
+              "headline": "Platner Caves, Suspends Senate Campaign",
+              "excerpt": "Graham Platner, the scandal-filled Maine leftist who came under fire over a Nazi tattoo and faces allegations of rape and sexual harassment, suspended his Senate campaign Wednesday after Democrats mounted a pressure campaign to force him out of the race. He announced his decision in an 11-minute video released on social media: My name might ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/Untitled-design-2026-06-09T100353.328.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Platner Caves, Suspends Senate Campaign",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -115,25 +85,43 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/platner-drops-out-crucial-race-after-bombshell-rape-allegation-torpedoes-senate-campaign",
+              "source": "Fox News",
+              "headline": "Platner drops out of crucial Senate race after bombshell rape allegation torpedoes campaign",
+              "excerpt": "Graham Platner suspended his Maine Senate campaign amid controversies including Reddit posts, a controversial tattoo and allegations from ex-girlfriends.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/graham-platner-primary-blue-hill-fox-news-001.jpeg?ve=1&tl=1",
+              "imageAlt": "Platner drops out of crucial Senate race after bombshell rape allegation torpedoes campaign",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcad/live/ca023840-79e9-11f1-9510-1546718f668b.jpg",
-          "imageAlt": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-05-26T023854Z_235368377_RC2MGLAL7B57_RTRMADP_3_USA-ELECTION-MAINE-1783558069.jpg?resize=1920%2C1440",
+          "imageAlt": "US Senate nominee Platner halts campaign after assault allegations",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Nigerian president wants to know how a fake agency was created in his own office",
-          "summary": "Nigerian president wants to know how a fake agency was created in his own office. Nigerian President Bola Tinubu has ordered an investigation into allegations that a fake government agency worth $950,000 was set up in his own office. ​Tinubu said a letter claiming he ordered the creation of a new government agency titled the “Presidential Foreign Intervention Promotion Council” is a forgery, BBC News reported.\n\nAccording to Tinubu, forensic […]. BBC: Nigeria's president demands to know how fake agency was allegedly set up in his office.\n\nBBC reports that adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
+          "title": "Key Piece Of Evidence Contained DNA From Accused Kirk Assassin And His Trans Lover: FBI",
+          "summary": "Key Piece Of Evidence Contained DNA From Accused Kirk Assassin And His Trans Lover: FBI. The weapon believed to have been used in the murder of conservative Charlie Kirk was wrapped in a towel that contained DNA from Tyler Robinson and his trans lover, Lance Twiggs, according to the FBI.\n\nRobinson was living with Twiggs at the time of Kirk’s assassination, and authorities viewed messages between the two romantic partners ... BBC: New video shows man believed to be Tyler Robinson before Charlie Kirk shooting.\n\nBBC reports that the footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/videos/cn59ne3vqeno?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-              "excerpt": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ab/live/fc9f67d0-7a9f-11f1-932b-1f29e7985956.jpg",
-              "imageAlt": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+              "headline": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
+              "excerpt": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/3ce3f0f0-7a36-11f1-b976-0b9c15b0ccfc.jpg",
+              "imageAlt": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -147,13 +135,49 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/world/4640617/nigeria-president-fake-agency-pfipc/",
-              "source": "Washington Examiner",
-              "headline": "Nigerian president wants to know how a fake agency was created in his own office",
-              "excerpt": "Nigerian President Bola Tinubu has ordered an investigation into allegations that a fake government agency worth $950,000 was set up in his own office. ​Tinubu said a letter claiming he ordered the creation of a new government agency titled the “Presidential Foreign Intervention Promotion Council” is a forgery, BBC News reported. According to Tinubu, forensic […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/Bola-Tinubu.webp?w=696",
-              "imageAlt": "Nigerian president wants to know how a fake agency was created in his own office",
-              "outlet": "Washington Examiner",
+              "url": "https://www.dailywire.com/news/key-piece-of-evidence-contained-dna-from-accused-kirk-assassin-and-his-trans-lover-fbi",
+              "source": "Daily Wire",
+              "headline": "Key Piece Of Evidence Contained DNA From Accused Kirk Assassin And His Trans Lover: FBI",
+              "excerpt": "The weapon believed to have been used in the murder of conservative Charlie Kirk was wrapped in a towel that contained DNA from Tyler Robinson and his trans lover, Lance Twiggs, according to the FBI. Robinson was living with Twiggs at the time of Kirk’s assassination, and authorities viewed messages between the two romantic partners ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/07/Twiggs-.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Key Piece Of Evidence Contained DNA From Accused Kirk Assassin And His Trans Lover: FBI",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/us/tyler-robinson-preliminary-hearing-judge-orders-redactions-ex-lovers-video-testimony",
+              "source": "Fox News",
+              "headline": "Tyler Robinson preliminary hearing: Judge orders redactions to ex-lover’s video testimony",
+              "excerpt": "Video testimony from Lance Twiggs, the ex-lover of Charlie Kirk murder suspect Tyler Robinson, is set to be played in court Thursday morning as the preliminary hearing nears its end.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/robinson-twiggs.jpg?ve=1&tl=1",
+              "imageAlt": "Tyler Robinson preliminary hearing: Judge orders redactions to ex-lover’s video testimony",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jul/8/court-prosecutors-play-video-suspect-charlie-kirks-shooting-turned/",
+              "source": "Washington Times",
+              "headline": "Prosecutors play video in court of suspect in Charlie Kirk's shooting after he turned himself in",
+              "excerpt": "Prosecutors played a video clip in court Wednesday of suspect Tyler Robinson after he had turned himself in to Utah authorities a day after the shooting of conservative activist Charlie Kirk.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/08/Charlie_Kirk_Shot_47_5__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Prosecutors play video in court of suspect in Charlie Kirk's shooting after he turned himself in",
+              "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -161,63 +185,15 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ab/live/fc9f67d0-7a9f-11f1-932b-1f29e7985956.jpg",
-          "imageAlt": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/3ce3f0f0-7a36-11f1-b976-0b9c15b0ccfc.jpg",
+          "imageAlt": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
           "imageCredit": "BBC"
-        },
-        {
-          "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
-          "summary": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq. The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.\n\nAl Jazeera: Iran’s supreme leader’s coffin arrives in Najaf.\n\nAl Jazeera reports that thousands of mourners thronged Najaf as the coffin of the late supreme leader moved through the city.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Iran’s supreme leader’s coffin arrives in Najaf",
-              "excerpt": "Thousands of mourners thronged Najaf as the coffin of the late supreme leader moved through the city.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783516189.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Iran’s supreme leader’s coffin arrives in Najaf",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
-              "excerpt": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87a5/live/8318cb30-7adc-11f1-9a9c-53fd8f110370.jpg",
-              "imageAlt": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783516189.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Iran’s supreme leader’s coffin arrives in Najaf",
-          "imageCredit": "Al Jazeera"
         },
         {
           "title": "Toddler Declared Dead At Hospital Found Alive Hours Later in Morgue",
@@ -262,22 +238,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28cb/live/39e4a450-7ade-11f1-9a9c-53fd8f110370.jpg",
           "imageAlt": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
           "imageCredit": "BBC"
         },
         {
-          "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-          "summary": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’. Trump says US will 'show' Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.\n\nBBC: Ukraine to get licence to produce Patriot missiles, Trump says.\n\nBBC reports that although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+          "title": "Trump Shouldn’t Delist Syria Without Conditions",
+          "summary": "Trump Shouldn’t Delist Syria Without Conditions. The inclusion of Syria on the U.S. State Sponsors of Terrorism list is important leverage the U.S. should not give up easily.\n\nAl Jazeera: US moves to delist Syria as a ‘state sponsor of terrorism’.\n\nAl Jazeera reports that president Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-              "excerpt": "Trump says US will 'show' Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4e729a28-1783526042.jpg?resize=1920%2C1440",
-              "imageAlt": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
+              "headline": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+              "excerpt": "President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4eb0a820-1783541928.jpg?resize=1920%2C1440",
+              "imageAlt": "US moves to delist Syria as a ‘state sponsor of terrorism’",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -290,42 +266,153 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Ukraine to get licence to produce Patriot missiles, Trump says",
-              "excerpt": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca1/live/ce2ce8c0-7af2-11f1-94d8-c95634a95d3e.jpg",
-              "imageAlt": "Ukraine to get licence to produce Patriot missiles, Trump says",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "url": "https://www.breitbart.com/middle-east/2026/07/08/trump-says-he-will-remove-syria-state-sponsors-terrorism-list/",
+              "source": "Breitbart",
+              "headline": "Trump Says He Will Remove Syria from State Sponsors of Terrorism List",
+              "excerpt": "President Donald Trump says he intends to remove Syria from the U.S. list of state sponsors of terrorism, where it has been since 1979. The post Trump Says He Will Remove Syria from State Sponsors of Terrorism List appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/07/Donald-Trump-and-Ahmed-al-Sharaa-640x335.jpg",
+              "imageAlt": "Trump Says He Will Remove Syria from State Sponsors of Terrorism List",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.nationalreview.com/2026/07/trump-shouldnt-delist-syria-without-conditions/",
+              "source": "National Review",
+              "headline": "Trump Shouldn’t Delist Syria Without Conditions",
+              "excerpt": "The inclusion of Syria on the U.S. State Sponsors of Terrorism list is important leverage the U.S. should not give up easily.",
+              "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/07/al-Sharaa.jpg?fit=617%2C360&ssl=1",
+              "imageAlt": "Trump Shouldn’t Delist Syria Without Conditions",
+              "outlet": "National Review",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4eb0a820-1783541928.jpg?resize=1920%2C1440",
+          "imageAlt": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Judge Who Helped Illegal Evade ICE Gets No Prison Time",
+          "summary": "Judge Who Helped Illegal Evade ICE Gets No Prison Time. She helped an illegal immigrant sneak out of a courthouse where Immigration and Customs Enforcement (ICE) agents were waiting to carry out an arrest.\n\nDespite being convicted, the former Wisconsin judge was just spared from serving time in prison.\n\nAt a sentencing hearing Wednesday, former Milwaukee County Circuit Court Judge Hannah Dugan received no prison ... Al Jazeera: Former Wisconsin judge avoids prison in ICE obstruction case.\n\nAl Jazeera reports that hannah Dugan's sentence comes after she helped an immigrant in the US avoid ICE agents waiting to arrest him in 2025.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/7/8/former-wisconsin-judge-avoids-prison-in-ice-obstruction-case?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Former Wisconsin judge avoids prison in ICE obstruction case",
+              "excerpt": "Hannah Dugan's sentence comes after she helped an immigrant in the US avoid ICE agents waiting to arrest him in 2025.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4eb73b-1783543611.jpg?resize=1920%2C1440",
+              "imageAlt": "Former Wisconsin judge avoids prison in ICE obstruction case",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/judge-who-helped-illegal-evade-ice-gets-no-prison-time",
+              "source": "Daily Wire",
+              "headline": "Judge Who Helped Illegal Evade ICE Gets No Prison Time",
+              "excerpt": "She helped an illegal immigrant sneak out of a courthouse where Immigration and Customs Enforcement (ICE) agents were waiting to carry out an arrest. Despite being convicted, the former Wisconsin judge was just spared from serving time in prison. At a sentencing hearing Wednesday, former Milwaukee County Circuit Court Judge Hannah Dugan received no prison ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/07/GettyImages-2215247030.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Judge Who Helped Illegal Evade ICE Gets No Prison Time",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4eb73b-1783543611.jpg?resize=1920%2C1440",
+          "imageAlt": "Former Wisconsin judge avoids prison in ICE obstruction case",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Family demands an independent probe after ICE officer fatally shoots a man in Houston",
+          "summary": "Family demands an independent probe after ICE officer fatally shoots a man in Houston. A Mexican national fatally shot by an Immigration and Customs Enforcement officer in Houston had no criminal convictions during his decades living in the U.S. and was driving a crew to a homebuilding site when he was killed, his family and a Texas congresswoman said Wednesday.\n\nAl Jazeera: Family demands investigation after US man killed by ICE agent in Texas. Al Jazeera reports that calls for answers after Lorenzo Salgado Araujo fatally shot during traffic stop in Houston in latest ICE killing.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Family demands investigation after US man killed by ICE agent in Texas",
+              "excerpt": "Calls for answers after Lorenzo Salgado Araujo fatally shot during traffic stop in Houston in latest ICE killing.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4eb069-1783541865.jpg?resize=1920%2C1440",
+              "imageAlt": "Family demands investigation after US man killed by ICE agent in Texas",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jul/8/family-demands-independent-probe-ice-officer-fatally-shoots-man/",
+              "source": "Washington Times",
+              "headline": "Family demands an independent probe after ICE officer fatally shoots a man in Houston",
+              "excerpt": "A Mexican national fatally shot by an Immigration and Customs Enforcement officer in Houston had no criminal convictions during his decades living in the U.S. and was driving a crew to a homebuilding site when he was killed, his family and a Texas congresswoman said Wednesday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/08/APTOPIX_US_Immigration_Enforcement_Houston_2_977_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Family demands an independent probe after ICE officer fatally shoots a man in Houston",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4e729a28-1783526042.jpg?resize=1920%2C1440",
-          "imageAlt": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a4eb069-1783541865.jpg?resize=1920%2C1440",
+          "imageAlt": "Family demands investigation after US man killed by ICE agent in Texas",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
-          "summary": "Trump threatens Spain trade, demands US take over Greenland at NATO summit. The US president described Spain as a 'terrible partner' over its actions during the US-Israel war on Iran.\n\nBBC: Trump says ceasefire is 'over' after US and Iran trade strikes.\n\nBBC reports that speaking at a Nato summit, the president says the US will \"probably\" strike Iran again but added that \"anything that happens will be over quickly\".",
+          "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
+          "summary": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq. The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.\n\nAl Jazeera: Khamenei’s coffin in Karbala on last stop before burial in Mashhad.\n\nAl Jazeera reports that millions gathered in the holy city of Karbala, Iraq to pay their respects at the funeral of Iran’s late supreme leader.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/7/8/trump-threatens-spain-trade-demands-us-take-over-greenland-at-nato-summit?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/khameneis-coffin-in-karbala-on-last-stop-before-burial-in-mashhad?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
-              "excerpt": "The US president described Spain as a 'terrible partner' over its actions during the US-Israel war on Iran.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260708__B9L87BP__v1__HighRes__TurkeyUsNatoSummitDefence-1783512145.jpg?resize=1920%2C1440",
-              "imageAlt": "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
+              "headline": "Khamenei’s coffin in Karbala on last stop before burial in Mashhad",
+              "excerpt": "Millions gathered in the holy city of Karbala, Iraq to pay their respects at the funeral of Iran’s late supreme leader.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783555985.jpg?resize=1620%2C1080&quality=80",
+              "imageAlt": "Khamenei’s coffin in Karbala on last stop before burial in Mashhad",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -338,12 +425,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-              "excerpt": "Speaking at a Nato summit, the president says the US will \"probably\" strike Iran again but added that \"anything that happens will be over quickly\".",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c82/live/ffe8d390-7af9-11f1-a13d-51cbdbc312b1.jpg",
-              "imageAlt": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+              "headline": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
+              "excerpt": "The remains of Iran's late supreme leader are transported to Najaf and Karbala, as funeral ceremonies continue for a fifth day.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87a5/live/8318cb30-7adc-11f1-9a9c-53fd8f110370.jpg",
+              "imageAlt": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -359,8 +446,8 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260708__B9L87BP__v1__HighRes__TurkeyUsNatoSummitDefence-1783512145.jpg?resize=1920%2C1440",
-          "imageAlt": "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783555985.jpg?resize=1620%2C1080&quality=80",
+          "imageAlt": "Khamenei’s coffin in Karbala on last stop before burial in Mashhad",
           "imageCredit": "Al Jazeera"
         }
       ]
@@ -369,16 +456,16 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "What should Paris do about Hamza?",
-          "summary": "What should Paris do about Hamza?. Armed with his water gun and foul language, a truculent 14-year-old Arab boy called Hamza has become the unexpected sideshow… The post What should Paris do about Hamza? appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/why-do-the-french-have-a-problem-with-air-cond. Spectator Australia: The trouble with Andy Burnham’s water nationalisation plan.\n\nSpectator Australia reports that there is something poignant about Andy Burnham’s campaign for water nationalisation. In a previous life, the ‘King of the North’… The post The trouble with Andy Burnham’s water nationalisation plan appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/.",
+          "title": "En Garde for the common good",
+          "summary": "En Garde for the common good. Politics is complicated, particularly for young people.\n\nMy fellow Gen Z conservatives often find ourselves in a never-ending intellectual duel,… The post En Garde for the common good appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/07/modernising-the-liberal-party-is-not. Spectator Australia: Are Labor’s so-called productivity reforms ‘shovel-ready’?\n\nSpectator Australia reports that a tradesperson in Geelong is not automatically recognised as one in Townsville. Forms have to be filled out and applications… The post Are Labor’s so-called productivity reforms ‘shovel-ready’? appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/07.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/07/the-trouble-with-andy-burnhams-water-nationalisation-plan/",
+              "url": "https://www.spectator.com.au/2026/07/are-labors-so-called-productivity-reforms-shovel-ready/",
               "source": "Spectator Australia",
-              "headline": "The trouble with Andy Burnham’s water nationalisation plan",
-              "excerpt": "There is something poignant about Andy Burnham’s campaign for water nationalisation. In a previous life, the ‘King of the North’… The post The trouble with Andy Burnham’s water nationalisation plan appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/GettyImages_2189859936.jpg",
-              "imageAlt": "The trouble with Andy Burnham’s water nationalisation plan",
+              "headline": "Are Labor’s so-called productivity reforms ‘shovel-ready’?",
+              "excerpt": "A tradesperson in Geelong is not automatically recognised as one in Townsville. Forms have to be filled out and applications… The post Are Labor’s so-called productivity reforms ‘shovel-ready’? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/07",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages-2281509393.jpg",
+              "imageAlt": "Are Labor’s so-called productivity reforms ‘shovel-ready’?",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -393,21 +480,39 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[7]",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/GettyImages_2189859936.jpg",
-          "imageAlt": "The trouble with Andy Burnham’s water nationalisation plan",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/06/GettyImages-2281509393.jpg",
+          "imageAlt": "Are Labor’s so-called productivity reforms ‘shovel-ready’?",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Woman at centre of university corruption claims fronts ICAC inquiry",
-          "summary": "Woman at centre of university corruption claims fronts ICAC inquiry. Former University of Wollongong chief governance officer Alyssa White takes the witness box at the ICAC inquiry after weeks of evidence examining her role in recruitment decisions, governance reforms and a proposed executive position.",
+          "title": "ABC and SBS need ‘oversight’ committee to vet Israel coverage, Jillian Segal tells royal commission",
+          "summary": "ABC and SBS need ‘oversight’ committee to vet Israel coverage, Jillian Segal tells royal commission. Antisemitism envoy says public broadcasters, which currently have ombudsman to handle complaints, need independent oversight committee Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_s.\n\nABC News: External oversight of ABC needs overhaul, Segal tells royal commission.\n\nABC News reports that australia's Envoy to Combat Antisemitism, Jillian Segal, has accused the ABC of being its own \"judge, counsel and jury\", recommending an independent oversight committee be established to review the public broadcaster's compliance with its charter obligations.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-07-08/uow-icac-alyssa-white-evidence/106892826",
+              "url": "https://www.theguardian.com/australia-news/2026/jul/09/abc-sbs-jillian-segel-israel-antisemitism-royal-commission-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "ABC and SBS need ‘oversight’ committee to vet Israel coverage, Jillian Segal tells royal commission",
+              "excerpt": "Antisemitism envoy says public broadcasters, which currently have ombudsman to handle complaints, need independent oversight committee Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_s",
+              "imageUrl": "https://i.guim.co.uk/img/media/88788e964ebfce8713fad12cbc5d06993b0b75f6/657_275_4515_3614/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=73b43cd42cdec7f7597958489a09c648",
+              "imageAlt": "ABC and SBS need ‘oversight’ committee to vet Israel coverage, Jillian Segal tells royal commission",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-07-09/abc-sbs-bondi-antisemitism-social-cohesion-royal-commission/106895318",
               "source": "ABC Australia",
-              "headline": "Woman at centre of university corruption claims fronts ICAC inquiry",
-              "excerpt": "Former University of Wollongong chief governance officer Alyssa White takes the witness box at the ICAC inquiry after weeks of evidence examining her role in recruitment decisions, governance reforms and a proposed executive position.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/72579954ac2472c4e927b29a76975d9a?impolicy=wcms_crop_resize&cropH=492&cropW=874&xPos=0&yPos=39&width=862&height=485",
-              "imageAlt": "Woman at centre of university corruption claims fronts ICAC inquiry",
+              "headline": "External oversight of ABC needs overhaul, Segal tells royal commission",
+              "excerpt": "Australia's Envoy to Combat Antisemitism, Jillian Segal, has accused the ABC of being its own \"judge, counsel and jury\", recommending an independent oversight committee be established to review the public broadcaster's compliance with its charter obligations.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c9f6136deaac1e9936d6fc3991570759?impolicy=wcms_crop_resize&cropH=878&cropW=1561&xPos=154&yPos=0&width=862&height=485",
+              "imageAlt": "External oversight of ABC needs overhaul, Segal tells royal commission",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -416,28 +521,28 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/72579954ac2472c4e927b29a76975d9a?impolicy=wcms_crop_resize&cropH=492&cropW=874&xPos=0&yPos=39&width=862&height=485",
-          "imageAlt": "Woman at centre of university corruption claims fronts ICAC inquiry",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/88788e964ebfce8713fad12cbc5d06993b0b75f6/657_275_4515_3614/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=73b43cd42cdec7f7597958489a09c648",
+          "imageAlt": "ABC and SBS need ‘oversight’ committee to vet Israel coverage, Jillian Segal tells royal commission",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
-          "summary": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley.\n\nThey suck up energy and water, and blast out heat. Just who is better off from all this investment – aside from tech bros?\n\nThe two great existential threats of our time – the climate crisis and AI – come hurtling together in the explosion of datacentres across Australia and around the world.\n\nYou can hardly avoid hearing about them these days, either with awed reverence of the promised benefits to humankind or with fear and anger given the implications for the climate, inflation, j.",
+          "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
+          "summary": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley.\n\nThey suck up energy and water, and blast out heat. Just who is better off from all this investment – aside from tech bros?\n\nThe two great existential threats of our time – the climate crisis and AI – come hurtling together in the explosion of datacentres across Australia and around the world.\n\nYou can hardly avoid hearing about them these days, either with awed reverence of the promised benefits to humankind or with fear and anger given the implications for the climate, inflation, j.",
           "links": [
             {
               "url": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
               "source": "The Guardian Australia",
-              "headline": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs",
+              "headline": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs",
               "excerpt": "They suck up energy and water, and blast out heat. Just who is better off from all this investment – aside from tech bros? The two great existential threats of our time – the climate crisis and AI – come hurtling together in the explosion of datacentres across Australia and around the world. You can hardly avoid hearing about them these days, either with awed reverence of the promised benefits to humankind or with fear and anger given the implications for the climate, inflation, j",
               "imageUrl": "https://i.guim.co.uk/img/media/b1390398cb375a0479d2ebaf93621bb278b603a4/1620_600_3555_2844/master/3555.jpg?width=140&quality=85&auto=format&fit=max&s=f27f524f0c4afd94b315b63629bc3d26",
-              "imageAlt": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
+              "imageAlt": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -453,20 +558,20 @@
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[9]",
           "imageUrl": "https://i.guim.co.uk/img/media/b1390398cb375a0479d2ebaf93621bb278b603a4/1620_600_3555_2844/master/3555.jpg?width=140&quality=85&auto=format&fit=max&s=f27f524f0c4afd94b315b63629bc3d26",
-          "imageAlt": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
+          "imageAlt": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Erasing the portrait of a nation",
-          "summary": "Erasing the portrait of a nation. National cultural institutions are entrusted with preserving a country’s historical memory.\n\nWhen they lose sight of that mission, the consequences… The post Erasing the portrait of a nation appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/one-big-government-nation.",
+          "title": "What should Paris do about Hamza?",
+          "summary": "What should Paris do about Hamza?. Armed with his water gun and foul language, a truculent 14-year-old Arab boy called Hamza has become the unexpected sideshow… The post What should Paris do about Hamza? appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/why-do-the-french-have-a-problem-with-air-cond. Spectator Australia: The truth about Mexico’s record at the Azteca stadium.\n\nSpectator Australia reports that england fans have been scarred by the Azteca stadium in the past. High on the Mexican plateau, the giant concrete… The post The truth about Mexico’s record at the Azteca stadium appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/06/the-truth-about-w.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/07/erasing-the-portrait-of-a-nation/",
+              "url": "https://www.spectator.com.au/2026/07/the-truth-about-mexicos-record-at-the-azteca-stadium/",
               "source": "Spectator Australia",
-              "headline": "Erasing the portrait of a nation",
-              "excerpt": "National cultural institutions are entrusted with preserving a country’s historical memory. When they lose sight of that mission, the consequences… The post Erasing the portrait of a nation appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/one-big-government-nation",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/switzer_4_july_post.jpg",
-              "imageAlt": "Erasing the portrait of a nation",
+              "headline": "The truth about Mexico’s record at the Azteca stadium",
+              "excerpt": "England fans have been scarred by the Azteca stadium in the past. High on the Mexican plateau, the giant concrete… The post The truth about Mexico’s record at the Azteca stadium appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/the-truth-about-w",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/GettyImages_1468673633.jpg",
+              "imageAlt": "The truth about Mexico’s record at the Azteca stadium",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -481,8 +586,8 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[10]",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/switzer_4_july_post.jpg",
-          "imageAlt": "Erasing the portrait of a nation",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/GettyImages_1468673633.jpg",
+          "imageAlt": "The truth about Mexico’s record at the Azteca stadium",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -491,16 +596,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
-          "summary": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups. For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots.\n\nThis fund is expected to expand its investment focus to include robotics and AI.",
+          "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+          "summary": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected. X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+              "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
               "source": "TechCrunch",
-              "headline": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
-              "excerpt": "For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/MattHuang-AlanaPalmedo-Paradigm.jpg?resize=1200,800",
-              "imageAlt": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+              "headline": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+              "excerpt": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+              "imageAlt": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -515,9 +620,38 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[11]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/MattHuang-AlanaPalmedo-Paradigm.jpg?resize=1200,800",
-          "imageAlt": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+          "imageAlt": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
           "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "This jumping $800 robot camera dog filled me with joy",
+          "summary": "This jumping $800 robot camera dog filled me with joy. <img alt=\"A white two-legged robot, with wheels on the end of each leg, mounted astride a white rectangular prism, with a pair of binocular like eyes on the top, with two orange ears hanging off the back.\" data-caption=\"The Mondo Robotics Beni. | Photo by Sean Hollister / The Verge\" data-portal-copyright=\"Photo by Sean Hollister / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DJI_20260701132950_0659_D.jpg?quality=90&stri.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
+              "source": "The Verge",
+              "headline": "This jumping $800 robot camera dog filled me with joy",
+              "excerpt": "<img alt=\"A white two-legged robot, with wheels on the end of each leg, mounted astride a white rectangular prism, with a pair of binocular like eyes on the top, with two orange ears hanging off the back.\" data-caption=\"The Mondo Robotics Beni. | Photo by Sean Hollister / The Verge\" data-portal-copyright=\"Photo by Sean Hollister / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DJI_20260701132950_0659_D.jpg?quality=90&stri",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/beni-jump-2.jpg?quality=90&strip=all&crop=18.2,12.847290567419,65.2,51.205057922022",
+              "imageAlt": "This jumping $800 robot camera dog filled me with joy",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/beni-jump-2.jpg?quality=90&strip=all&crop=18.2,12.847290567419,65.2,51.205057922022",
+          "imageAlt": "This jumping $800 robot camera dog filled me with joy",
+          "imageCredit": "The Verge"
         },
         {
           "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
@@ -543,9 +677,38 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
           "imageUrl": "https://i.guim.co.uk/img/media/0c29f18eba6cf538cab3bde5eb411c975c675338/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=30cd39b42e3d2f9d051d68a556833abd",
           "imageAlt": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "summary": "Ring Video Doorbell Pro review: night and day better with new 4K camera. Camera, wifi and design updates bring welcome upgrades to Ring’s top model in wired or battery flavour Ring’s recent revamp of its popular video doorbells with a more modern design is led by the top-of-the-line Video Doorbell Pro 3, which gains much-needed upgrades with a 4K camera and better wifi plus new interesting AI features.\n\nThe new doorbells are sleeker but keep the unmistakable two-tone Ring colour scheme, button, logo and ringtone. Battery models start at £80 or equivalen.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review",
+              "source": "The Guardian Technology",
+              "headline": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "excerpt": "Camera, wifi and design updates bring welcome upgrades to Ring’s top model in wired or battery flavour Ring’s recent revamp of its popular video doorbells with a more modern design is led by the top-of-the-line Video Doorbell Pro 3, which gains much-needed upgrades with a 4K camera and better wifi plus new interesting AI features. The new doorbells are sleeker but keep the unmistakable two-tone Ring colour scheme, button, logo and ringtone. Battery models start at £80 or equivalen",
+              "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+              "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
+          "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+          "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
           "imageCredit": "The Guardian"
         },
         {
@@ -572,10 +735,212 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
           "imageUrl": "https://i.guim.co.uk/img/media/d680a3e5eef209e23dc39ef025b9f1e582efe9ef/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=15c6824575f603ef39ec99f0c3df04e6",
           "imageAlt": "Can AI equalize political campaign ads – or will it remain a tool for spreading lies?",
           "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Defense argument: Sara Duterte’s threat not a high crime",
+          "summary": "Defense argument: Sara Duterte’s threat not a high crime. MANILA, Philippines — Vice President Sara Duterte’s defense team on Wednesday sought to dismantle the testimony of the prosecution’s first witness in her impeachment trial, arguing that the charge arising from the “threats” she made in 2024 against President Marcos, his wife Liza Araneta-Marcos, and former Speaker Martin Romualdez “are not ‘other high crimes’ contemplated.\n\nRappler: Defense claims Sara Duterte’s grave threats are justified | The wRap. Rappler reports that today’s headlines: Sara Duterte impeachment, Erwin Tulfo, Benhur Abalos.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2260230/defense-argument-sara-dutertes-threat-not-a-high-crime",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Defense argument: Sara Duterte’s threat not a high crime",
+              "excerpt": "MANILA, Philippines — Vice President Sara Duterte’s defense team on Wednesday sought to dismantle the testimony of the prosecution’s first witness in her impeachment trial, arguing that the charge arising from the “threats” she made in 2024 against President Marcos, his wife Liza Araneta-Marcos, and former Speaker Martin Romualdez “are not ‘other high crimes’ contemplated",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/impeachment-trial-9july2026.jpg",
+              "imageAlt": "Defense argument: Sara Duterte’s threat not a high crime",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/video/daily-wrap/july-8-2026/",
+              "source": "Rappler World",
+              "headline": "Defense claims Sara Duterte’s grave threats are justified",
+              "excerpt": "Today’s headlines: Sara Duterte impeachment, Erwin Tulfo, Benhur Abalos",
+              "imageUrl": "https://www.rappler.com/rappler-prod-01/uploads/2026/07/THE-WRAP-LS-MAIN-22-1024x576.png",
+              "imageAlt": "Defense claims Sara Duterte’s grave threats are justified",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/impeachment-trial-9july2026.jpg",
+          "imageAlt": "Defense argument: Sara Duterte’s threat not a high crime",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Renewables, grid investments key to PH energy security",
+          "summary": "Renewables, grid investments key to PH energy security. MANILA, Philippines — The Philippines must accelerate investments in renewable energy, modernize power planning, and fast-track transmission projects to prevent recurring power shortages and reduce dependence on imported fuel, energy experts said.\n\nEnergy experts and industry stakeholders recently gathered at the Inquirer ESG event titled “The Energy Tightrope: Balancing Affordability, Security, and Sustainability in a.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2260314/renewables-grid-investments-key-to-ph-energy-security",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Renewables, grid investments key to PH energy security",
+              "excerpt": "MANILA, Philippines — The Philippines must accelerate investments in renewable energy, modernize power planning, and fast-track transmission projects to prevent recurring power shortages and reduce dependence on imported fuel, energy experts said. Energy experts and industry stakeholders recently gathered at the Inquirer ESG event titled “The Energy Tightrope: Balancing Affordability, Security, and Sustainability in a",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Supplement1251960-e1783532530243.jpg",
+              "imageAlt": "Renewables, grid investments key to PH energy security",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Supplement1251960-e1783532530243.jpg",
+          "imageAlt": "Renewables, grid investments key to PH energy security",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Floods force class suspension in Bukidnon",
+          "summary": "Floods force class suspension in Bukidnon. MALAYBALAY CITY, Bukidnon — Several public schools here suspended in-person classes on Thursday, July 9, after flash floods and landslides caused by heavy rains affected several villages across the city.\n\nThe Department of Education (DepEd) Malaybalay City Division announced that Sawaga Elementary School, Langasihan Elementary School, Managok Central School, Maligaya Integrated School, and Matangpatang Elementary.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2260391/floods-force-class-suspension-in-bukidnon",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Floods force class suspension in Bukidnon",
+              "excerpt": "MALAYBALAY CITY, Bukidnon — Several public schools here suspended in-person classes on Thursday, July 9, after flash floods and landslides caused by heavy rains affected several villages across the city. The Department of Education (DepEd) Malaybalay City Division announced that Sawaga Elementary School, Langasihan Elementary School, Managok Central School, Maligaya Integrated School, and Matangpatang Elementary",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/740343435_990491533785257_4725308709734343303_n.jpg",
+              "imageAlt": "Floods force class suspension in Bukidnon",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/740343435_990491533785257_4725308709734343303_n.jpg",
+          "imageAlt": "Floods force class suspension in Bukidnon",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Women driving sustainability learn to sustain themselves",
+          "summary": "Women driving sustainability learn to sustain themselves. MANILA, Philippines — The people building mission-driven organizations in the Philippines rarely do it for the money.\n\nIronically, the Filipinos attempting to drive social and environmental change—demonstrating extraordinary care for others—are the ones who save the least care and resources for themselves.\n\nThe women-led, nonprofit impact organization Sustina was founded on that premise. Sustina’s mission.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2260224/women-driving-sustainability-learn-to-sustain-themselves",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Women driving sustainability learn to sustain themselves",
+              "excerpt": "MANILA, Philippines — The people building mission-driven organizations in the Philippines rarely do it for the money. Ironically, the Filipinos attempting to drive social and environmental change—demonstrating extraordinary care for others—are the ones who save the least care and resources for themselves. The women-led, nonprofit impact organization Sustina was founded on that premise. Sustina’s mission",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Supplement1253904.jpg",
+              "imageAlt": "Women driving sustainability learn to sustain themselves",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Supplement1253904.jpg",
+          "imageAlt": "Women driving sustainability learn to sustain themselves",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "1 dead, hundreds displaced as floods hit Malaybalay City in Bukidnon",
+          "summary": "1 dead, hundreds displaced as floods hit Malaybalay City in Bukidnon. VALENCIA CITY, BUKIDNON, Philippines — One person died while hundreds of residents fled to evacuation centers after heavy rains triggered flash floods in several villages of Malaybalay City, Bukidnon, on Wednesday, July 8.\n\nThe heavy downpour, brought by Super Typhoon Inday (international name: Bavi), which significantly enhanced the southwest monsoon (habagat), caused rivers and spillways.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2260187/1-dead-hundreds-displaced-as-floods-hit-malaybalay-city-in-bukidnon",
+              "source": "Philippine Daily Inquirer",
+              "headline": "1 dead, hundreds displaced as floods hit Malaybalay City in Bukidnon",
+              "excerpt": "VALENCIA CITY, BUKIDNON, Philippines — One person died while hundreds of residents fled to evacuation centers after heavy rains triggered flash floods in several villages of Malaybalay City, Bukidnon, on Wednesday, July 8. The heavy downpour, brought by Super Typhoon Inday (international name: Bavi), which significantly enhanced the southwest monsoon (habagat), caused rivers and spillways",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/bukidnon-flood-8july2026.jpg",
+              "imageAlt": "1 dead, hundreds displaced as floods hit Malaybalay City in Bukidnon",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/bukidnon-flood-8july2026.jpg",
+          "imageAlt": "1 dead, hundreds displaced as floods hit Malaybalay City in Bukidnon",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+          "summary": "Google’s deepfake detector system used to debunk McConnell hoax pic. Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress.\n\nIt turned out to be an AI-generated fake.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+              "source": "TechCrunch",
+              "headline": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+              "excerpt": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-watermarking.jpg?resize=1200,675",
+              "imageAlt": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-watermarking.jpg?resize=1200,675",
+          "imageAlt": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+          "imageCredit": "TechCrunch"
         },
         {
           "title": "Assassin’s Creed Black Flag Resynced review – bootyful high seas adventure, now with 20% more swashbuckling",
@@ -601,7 +966,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
           "imageUrl": "https://i.guim.co.uk/img/media/4be483da73947f26fab162d3f369646e27dcf1c5/0_15_1330_1065/master/1330.jpg?width=140&quality=85&auto=format&fit=max&s=37a9ffd83aaab7aaa3d2d3877eb32ed0",
           "imageAlt": "Assassin’s Creed Black Flag Resynced review – bootyful high seas adventure, now with 20% more swashbuckling",
           "imageCredit": "The Guardian"
@@ -630,230 +995,10 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
           "imageUrl": "https://i.guim.co.uk/img/media/4b1fe3eb57e752d36b2be94ef2ca06db2a6e6c69/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8020d7a8178597d9117e8710c37e24e1",
           "imageAlt": "I tested 53 water bottles to find the best for leaks, looks and sustainability: here are my favourites",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Defense team on Sara Duterte’s kill remark: Unconventional but justified",
-          "summary": "Defense team on Sara Duterte’s kill remark: Unconventional but justified. MANILA, Philippines — Vice President Sara Duterte’s defense team on Wednesday maintained that her alleged hiring of an individual to assassinate President Ferdinand R.\n\nMarcos Jr., First Lady Lisa Araneta – Marcos, and former Speaker Martin Romualdez was merely an “unconventional” but “justified” response to genuine threats against her and her family. This statement, delivered.\n\nRappler: Defense claims Sara Duterte’s grave threats are justified | The wRap. Rappler reports that today’s headlines: Sara Duterte impeachment, Erwin Tulfo, Benhur Abalos.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2260092/defense-team-on-sara-dutertes-kill-remark-unconventional-but-justified",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Defense team on Sara Duterte’s kill remark: Unconventional but justified",
-              "excerpt": "MANILA, Philippines — Vice President Sara Duterte’s defense team on Wednesday maintained that her alleged hiring of an individual to assassinate President Ferdinand R. Marcos Jr., First Lady Lisa Araneta – Marcos, and former Speaker Martin Romualdez was merely an “unconventional” but “justified” response to genuine threats against her and her family. This statement, delivered",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/1254592.jpeg",
-              "imageAlt": "Defense team on Sara Duterte’s kill remark: Unconventional but justified",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/video/daily-wrap/july-8-2026/",
-              "source": "Rappler World",
-              "headline": "Defense claims Sara Duterte’s grave threats are justified",
-              "excerpt": "Today’s headlines: Sara Duterte impeachment, Erwin Tulfo, Benhur Abalos",
-              "imageUrl": "https://www.rappler.com/rappler-prod-01/uploads/2026/07/THE-WRAP-LS-MAIN-22-1024x576.png",
-              "imageAlt": "Defense claims Sara Duterte’s grave threats are justified",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/1254592.jpeg",
-          "imageAlt": "Defense team on Sara Duterte’s kill remark: Unconventional but justified",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Duterte impeachment trial wraps up Week 1; 2nd witness moved to Monday",
-          "summary": "Duterte impeachment trial wraps up Week 1; 2nd witness moved to Monday. MANILA, Philippines — The first week of Vice President Sara Duterte impeachment trial ended earlier than anticipated after the prosecution panel moved the presentation of its second witness to next Monday.\n\nOn the first day of trial, two witnesses, National Bureau of Investigation senior agent John Mark Calilung and Regional Director Jeremy Lotoc were subpoenaed. Rappler: Sara Duterte trial: Why did prosecution defer presentation of second witness to July 13?\n\nRappler reports that the prosecution team also chose to forgo a redirect examination of its first witness, NBI agent John Mark Calilung.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2260005/duterte-impeachment-trial-wraps-up-week-1-2nd-witness-moved-to-monday",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Duterte impeachment trial wraps up Week 1; 2nd witness moved to Monday",
-              "excerpt": "MANILA, Philippines — The first week of Vice President Sara Duterte impeachment trial ended earlier than anticipated after the prosecution panel moved the presentation of its second witness to next Monday. On the first day of trial, two witnesses, National Bureau of Investigation senior agent John Mark Calilung and Regional Director Jeremy Lotoc were subpoenaed",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/08july2026-impeach99.jpg",
-              "imageAlt": "Duterte impeachment trial wraps up Week 1; 2nd witness moved to Monday",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/sara-duterte-trial-why-prosecution-move-presentation-witness-july-13-2026/",
-              "source": "Rappler World",
-              "headline": "Sara Duterte trial: Why did prosecution defer presentation of second witness to July 13?",
-              "excerpt": "The prosecution team also chose to forgo a redirect examination of its first witness, NBI agent John Mark Calilung",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/07/mccor1d72ta.jpg",
-              "imageAlt": "Sara Duterte trial: Why did prosecution defer presentation of second witness to July 13?",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/08july2026-impeach99.jpg",
-          "imageAlt": "Duterte impeachment trial wraps up Week 1; 2nd witness moved to Monday",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DepEd partners with BCBP to boost transparency in school infra projects",
-          "summary": "DepEd partners with BCBP to boost transparency in school infra projects.\n\nMANILA, Philippines — The Department of Education (DepEd) has signed a partnership with the Brotherhood of Christian Businessmen and Professionals (BCBP) to uphold transparency, accountability, and good governance in Public-Private Partnership (PPP) projects.\n\nUnder a newly signed memorandum of understanding (MOU), the BCBP will serve as an independent third-party observer for DepEd’s PPP initiatives, notably.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2259939/deped-partners-with-bcbp-to-boost-transparency-in-school-infra-projects",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DepEd partners with BCBP to boost transparency in school infra projects",
-              "excerpt": "MANILA, Philippines — The Department of Education (DepEd) has signed a partnership with the Brotherhood of Christian Businessmen and Professionals (BCBP) to uphold transparency, accountability, and good governance in Public-Private Partnership (PPP) projects. Under a newly signed memorandum of understanding (MOU), the BCBP will serve as an independent third-party observer for DepEd’s PPP initiatives, notably",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2023/09/2024-May-28-Stock-photo-DepEd-logo-over-empty-classroom.jpg",
-              "imageAlt": "DepEd partners with BCBP to boost transparency in school infra projects",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2023/09/2024-May-28-Stock-photo-DepEd-logo-over-empty-classroom.jpg",
-          "imageAlt": "DepEd partners with BCBP to boost transparency in school infra projects",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "GOCCs set new record with P147-B dividend collections for 2026",
-          "summary": "GOCCs set new record with P147-B dividend collections for 2026. MANILA, Philippines — President Ferdinand Marcos Jr. on Wednesday commended 50 government-owned or -controlled corporations (GOCCs) for remitting a new record-high of P147 billion, which could fund important government projects such as schools, roads, shelters, and other infrastructure.\n\n“As of this month, dividend collections have surpassed those of the previous year. We have received approximately P139.8.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2260074/goccs-set-new-record-with-p147-b-dividend-collections-for-2026",
-              "source": "Philippine Daily Inquirer",
-              "headline": "GOCCs set new record with P147-B dividend collections for 2026",
-              "excerpt": "MANILA, Philippines — President Ferdinand Marcos Jr. on Wednesday commended 50 government-owned or -controlled corporations (GOCCs) for remitting a new record-high of P147 billion, which could fund important government projects such as schools, roads, shelters, and other infrastructure. “As of this month, dividend collections have surpassed those of the previous year. We have received approximately P139.8",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/marcos-duterte-vancouver.png",
-              "imageAlt": "GOCCs set new record with P147-B dividend collections for 2026",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/marcos-duterte-vancouver.png",
-          "imageAlt": "GOCCs set new record with P147-B dividend collections for 2026",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DENR Express boosts environmental compliance, expands access to services",
-          "summary": "DENR Express boosts environmental compliance, expands access to services. MANILA, Philippines — Environmental compliance has steadily improved at the community level, driven by the Department of Environment and Natural Resources’ (DENR) Express initiative, which was launched in April 2026.\n\n“The initiative supports President Ferdinand R.\n\nMarcos Jr.’s directive to make government services more accessible, efficient, and responsive to the needs of the public, particularly in.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2260157/denr-express-boosts-environmental-compliance-expands-access-to-services",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DENR Express boosts environmental compliance, expands access to services",
-              "excerpt": "MANILA, Philippines — Environmental compliance has steadily improved at the community level, driven by the Department of Environment and Natural Resources’ (DENR) Express initiative, which was launched in April 2026. “The initiative supports President Ferdinand R. Marcos Jr.’s directive to make government services more accessible, efficient, and responsive to the needs of the public, particularly in",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/DENR-Express-Station-08July2026.jpg",
-              "imageAlt": "DENR Express boosts environmental compliance, expands access to services",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/DENR-Express-Station-08July2026.jpg",
-          "imageAlt": "DENR Express boosts environmental compliance, expands access to services",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "Apple to produce Made in America wireless chips with Broadcom",
-          "summary": "Apple to produce Made in America wireless chips with Broadcom. Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-              "source": "TechCrunch",
-              "headline": "Apple to produce Made in America wireless chips with Broadcom",
-              "excerpt": "Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
-              "imageAlt": "Apple to produce Made in America wireless chips with Broadcom",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
-          "imageAlt": "Apple to produce Made in America wireless chips with Broadcom",
-          "imageCredit": "TechCrunch"
         },
         {
           "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
@@ -879,7 +1024,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]",
           "imageUrl": "https://i.guim.co.uk/img/media/1f9c0cc57c4c935bf5cd55d56b56e48fb19606e0/733_349_3042_2433/master/3042.jpg?width=140&quality=85&auto=format&fit=max&s=62a55b42aa1e8568d732f1e62e7b18e5",
           "imageAlt": "AI prey: why watchdogs are telling parents to protect children from nudification apps",
           "imageCredit": "The Guardian"
@@ -908,67 +1053,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
           "imageUrl": "https://i.guim.co.uk/img/media/ae420ed431e89ab2e71d8147398cade114fc962f/166_0_1833_1467/master/1833.jpg?width=140&quality=85&auto=format&fit=max&s=b9a6ec19042c12898bc1fd5373998e7f",
           "imageAlt": "Americans disgusted at Trump earning $1bn from crypto as president: ‘Obviously a grift’",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Shark ChillPill 3-in-1 fan review: the handheld fan I’d pack for every trip – at a price that’ll make you sweat",
-          "summary": "Shark ChillPill 3-in-1 fan review: the handheld fan I’d pack for every trip – at a price that’ll make you sweat. With three ways to cool down and a cold plate that can lower skin temperature by up to 9C, Shark’s latest fan is a standout if you can justify the cost • The best handheld fans, tested When I first wrote my guide to the best handheld fans in 2025, familiar electronics.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2026/jul/07/shark-chillpill-3-in-1-fan-review",
-              "source": "The Guardian Technology",
-              "headline": "Shark ChillPill 3-in-1 fan review: the handheld fan I’d pack for every trip – at a price that’ll make you sweat",
-              "excerpt": "With three ways to cool down and a cold plate that can lower skin temperature by up to 9C, Shark’s latest fan is a standout if you can justify the cost • The best handheld fans, tested When I first wrote my guide to the best handheld fans in 2025, familiar electronics",
-              "imageUrl": "https://i.guim.co.uk/img/media/e4a7e2bab51dbf2aec0129287646c0f580bb6feb/128_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=7fff93992f58c3fbb04c868a30478dc1",
-              "imageAlt": "Shark ChillPill 3-in-1 fan review: the handheld fan I’d pack for every trip – at a price that’ll make you sweat",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]",
-          "imageUrl": "https://i.guim.co.uk/img/media/e4a7e2bab51dbf2aec0129287646c0f580bb6feb/128_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=7fff93992f58c3fbb04c868a30478dc1",
-          "imageAlt": "Shark ChillPill 3-in-1 fan review: the handheld fan I’d pack for every trip – at a price that’ll make you sweat",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
-          "summary": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise. Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’ ‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre What are Britain’s AI growth zones and are the plans feasib.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy",
-              "source": "The Guardian Technology",
-              "headline": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
-              "excerpt": "Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’ ‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre What are Britain’s AI growth zones and are the plans feasib",
-              "imageUrl": "https://i.guim.co.uk/img/media/bedaaf7a739978cbe0d9110233dda7f790cdbdd7/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c63be72527a2773a1504a9b764fbc2da",
-              "imageAlt": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
-          "imageUrl": "https://i.guim.co.uk/img/media/bedaaf7a739978cbe0d9110233dda7f790cdbdd7/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c63be72527a2773a1504a9b764fbc2da",
-          "imageAlt": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
           "imageCredit": "The Guardian"
         }
       ]
