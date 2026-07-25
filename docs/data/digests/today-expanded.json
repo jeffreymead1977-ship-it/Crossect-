@@ -2,24 +2,24 @@
   "id": "2026-07-25-expanded",
   "date": "2026-07-25",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-07-25T03:00:47.271765",
+  "generatedAt": "2026-07-25T12:30:05.035705",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-07-25T03:00:47",
+  "updatedAt": "2026-07-25T12:30:05",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Netanyahu to travel to Washington for Trump meeting, Lindsey Graham funeral",
-          "summary": "Netanyahu to travel to Washington for Trump meeting, Lindsey Graham funeral. Israeli Prime Minister Benjamin Netanyahu plans to visit Washington on Tuesday for a meeting with President Trump and to attend the funeral service for Sen. Lindsey Graham of South Carolina, a staunch Republican ally of Israel.\n\nAl Jazeera: Netanyahu to meet Trump at White House next week amid Iran war escalation. Al Jazeera reports that visit will be Netanyahu's seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
+          "title": "At least 200,000 Europeans forced to evacuate raging wildfires",
+          "summary": "At least 200,000 Europeans forced to evacuate raging wildfires. Raging forest fires across Europe have forced at least 200,000 people to flee for safety.\n\nSpain has declared the wildfires a national emergency, with Prime Minister Pedro Sanchez calling the disaster “a very difficult night” for thousands in a post on X. ​The uncontained forest fires are concentrated in France and Spain, with some fires […].\n\nAl Jazeera: Spanish police accuse tractor driver of sparking wildfire as blazes spread. Al Jazeera reports that the number of people forced to flee the heatwave-induced fires in Spain and France has now passed the 100,000 mark.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-              "excerpt": "Visit will be Netanyahu's seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T091420Z_516337771_RC2XNCAHOZDD_RTRMADP_3_USA-ISRAEL-VANCE-IRAN-1784905472.jpg?resize=1920%2C1440",
-              "imageAlt": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+              "headline": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
+              "excerpt": "The number of people forced to flee the heatwave-induced fires in Spain and France has now passed the 100,000 mark.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a63a3cad9-1784914890.jpg?resize=1920%2C1440",
+              "imageAlt": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,31 +32,13 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/politics/netanyahu-visit-trump-white-house-attend-dear-friend-lindsey-grahams-memorial-service",
-              "source": "Fox News",
-              "headline": "Netanyahu to visit Trump at White House, attend 'dear friend' Lindsey Graham's memorial service",
-              "excerpt": "Benjamin Netanyahu will meet President Trump and attend Lindsey Graham's memorial service in Washington as U.S.-Israel operations against Iran continue.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-netanyahu-2025.jpeg?ve=1&tl=1",
-              "imageAlt": "Netanyahu to visit Trump at White House, attend 'dear friend' Lindsey Graham's memorial service",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/jul/24/netanyahu-travel-washington-trump-meeting-lindsey-graham-funeral/",
-              "source": "Washington Times",
-              "headline": "Netanyahu to travel to Washington for Trump meeting, Lindsey Graham funeral",
-              "excerpt": "Israeli Prime Minister Benjamin Netanyahu plans to visit Washington on Tuesday for a meeting with President Trump and to attend the funeral service for Sen. Lindsey Graham of South Carolina, a staunch Republican ally of Israel.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/22/Israel_Palestinians_967_2_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Netanyahu to travel to Washington for Trump meeting, Lindsey Graham funeral",
-              "outlet": "Washington Times",
+              "url": "https://www.washingtonexaminer.com/news/world/4663008/europeans-evacuate-france-spain-wildfires/",
+              "source": "Washington Examiner",
+              "headline": "At least 200,000 Europeans forced to evacuate raging wildfires",
+              "excerpt": "Raging forest fires across Europe have forced at least 200,000 people to flee for safety. Spain has declared the wildfires a national emergency, with Prime Minister Pedro Sanchez calling the disaster “a very difficult night” for thousands in a post on X. ​The uncontained forest fires are concentrated in France and Spain, with some fires […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/Spain-wildfire-e1784926667107.webp?w=696",
+              "imageAlt": "At least 200,000 Europeans forced to evacuate raging wildfires",
+              "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -70,21 +52,210 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T091420Z_516337771_RC2XNCAHOZDD_RTRMADP_3_USA-ISRAEL-VANCE-IRAN-1784905472.jpg?resize=1920%2C1440",
-          "imageAlt": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a63a3cad9-1784914890.jpg?resize=1920%2C1440",
+          "imageAlt": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump orders signs outside Smithsonian museum amid row over its depiction of American history",
+          "summary": "Trump orders signs outside Smithsonian museum amid row over its depiction of American history. Trump's executive order targets federal sidewalks outside the Smithsonian to post signs directing visitors to a White House report on the museum.\n\nBBC: Trump orders Smithsonian to post warnings about 'inaccurate' US history.\n\nBBC reports that the Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+              "excerpt": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg",
+              "imageAlt": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/trump-orders-signs-outside-smithsonian-museum-amid-row-over-its-depiction-american-history",
+              "source": "Fox News",
+              "headline": "Trump orders signs outside Smithsonian museum amid row over its depiction of American history",
+              "excerpt": "Trump's executive order targets federal sidewalks outside the Smithsonian to post signs directing visitors to a White House report on the museum.",
+              "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/donald-trump-signs-executive-order-capital-one-arena.gif",
+              "imageAlt": "Trump orders signs outside Smithsonian museum amid row over its depiction of American history",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg",
+          "imageAlt": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "U.N. human rights chief faces opposition in vote to extend his term for another four years",
+          "summary": "U.N. human rights chief faces opposition in vote to extend his term for another four years. U.N. human rights chief Volker Turk faces a vote Friday for a second four-year term but is running into opposition from critics and some countries for his criticism of Israel's attacks in Gaza and his approach to China's crackdown on its Uyghur minority.\n\nAl Jazeera: UN rights chief Turk wins second term despite US and Israeli opposition. Al Jazeera reports that austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "UN rights chief Turk wins second term despite US and Israeli opposition",
+              "excerpt": "Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a63edfa6f-1784933882.jpg?resize=1920%2C1440",
+              "imageAlt": "UN rights chief Turk wins second term despite US and Israeli opposition",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jul/24/un-human-rights-chief-faces-opposition-vote-extend-term-another-four/",
+              "source": "Washington Times",
+              "headline": "U.N. human rights chief faces opposition in vote to extend his term for another four years",
+              "excerpt": "U.N. human rights chief Volker Turk faces a vote Friday for a second four-year term but is running into opposition from critics and some countries for his criticism of Israel's attacks in Gaza and his approach to China's crackdown on its Uyghur minority.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/24/United_Nations_Human_Rights_Chief_14463_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "U.N. human rights chief faces opposition in vote to extend his term for another four years",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a63edfa6f-1784933882.jpg?resize=1920%2C1440",
+          "imageAlt": "UN rights chief Turk wins second term despite US and Israeli opposition",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump says Saudi nuclear agreement won't move forward without Abraham Accords: 'They have to be a member'",
+          "summary": "Trump says Saudi nuclear agreement won't move forward without Abraham Accords: 'They have to be a member'. Trump says Saudi Arabia must join the Abraham Accords before any civilian nuclear energy deal moves forward, insisting the condition was always understood.\n\nAl Jazeera: Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel.\n\nAl Jazeera reports that uS president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the 'Abraham Accords'.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+              "excerpt": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the 'Abraham Accords'.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a63ef31aea1-1784934193.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/trump-says-saudi-nuclear-agreement-wont-move-forward-without-abraham-accords-they-have-to-be-member",
+              "source": "Fox News",
+              "headline": "Trump says Saudi nuclear agreement won't move forward without Abraham Accords: 'They have to be a member'",
+              "excerpt": "Trump says Saudi Arabia must join the Abraham Accords before any civilian nuclear energy deal moves forward, insisting the condition was always understood.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/trump-nuclear-announcement-oval-office.jpg?ve=1&tl=1",
+              "imageAlt": "Trump says Saudi nuclear agreement won't move forward without Abraham Accords: 'They have to be a member'",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a63ef31aea1-1784934193.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump won't say if blowing up Iranian bridges or power plants is a war crime",
+          "summary": "Trump won't say if blowing up Iranian bridges or power plants is a war crime. President Trump is refusing to say whether he believes blowing up bridges and power plants in Iran would be considered a war crime.\n\nAl Jazeera: Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks.\n\nAl Jazeera reports that uS President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+              "excerpt": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260724__C34N9PK__v6__HighRes__PalestinianIsraelConflictWestBank-1784931808.jpg?resize=1920%2C1440",
+              "imageAlt": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jul/24/trump-wont-say-blowing-iranian-bridges-power-plants-war-crime/",
+              "source": "Washington Times",
+              "headline": "Trump won't say if blowing up Iranian bridges or power plants is a war crime",
+              "excerpt": "President Trump is refusing to say whether he believes blowing up bridges and power plants in Iran would be considered a war crime.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/23/Trump_53384_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump won't say if blowing up Iranian bridges or power plants is a war crime",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260724__C34N9PK__v6__HighRes__PalestinianIsraelConflictWestBank-1784931808.jpg?resize=1920%2C1440",
+          "imageAlt": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-          "summary": "Four Palestinians and two Israelis killed in West Bank shooting. Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.\n\nAl Jazeera: Five killed in occupied West Bank after Israeli settlers attack.\n\nAl Jazeera reports that four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Tal.",
+          "summary": "Four Palestinians and two Israelis killed in West Bank shooting. Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.\n\nAl Jazeera: Israeli settlers escalate attacks on Palestinians near Nablus.\n\nAl Jazeera reports that israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Five killed in occupied West Bank after Israeli settlers attack",
-              "excerpt": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Tal",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784906030.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Five killed in occupied West Bank after Israeli settlers attack",
+              "headline": "Israeli settlers escalate attacks on Palestinians near Nablus",
+              "excerpt": "Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784925504.jpg?resize=1661%2C1080&quality=80",
+              "imageAlt": "Israeli settlers escalate attacks on Palestinians near Nablus",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -117,40 +288,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784906030.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Five killed in occupied West Bank after Israeli settlers attack",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784925504.jpg?resize=1661%2C1080&quality=80",
+          "imageAlt": "Israeli settlers escalate attacks on Palestinians near Nablus",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Romanian jet fighter shoots down suspected Russian drone",
-          "summary": "Romanian jet fighter shoots down suspected Russian drone. The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.\n\nBreitbart: NATO Shoots Down 'Russian' Drone Over Romania For First Time.\n\nBreitbart reports that nATO has shot down what is thought to be a Russian drone over Romanian airspace for the first time after F-16s were deployed to intercept. The post NATO Shoots Down ‘Russian’ Drone Over Romania For First Time appeared first on Breitbart .",
+          "title": "Whitmer Backs Stevens to Stop Far-Left El-Sayed Days Before Michigan Vote",
+          "summary": "Whitmer Backs Stevens to Stop Far-Left El-Sayed Days Before Michigan Vote. Michigan Gov. Gretchen Whitmer (D) endorsed Rep. Haley Stevens (D-MI) on Friday in the state's contentious Democrat Senate primary, lending the party's biggest name to the moderate congresswoman one day before early in-person voting opens in her fight against far-left rival Abdul El-Sayed.\n\nThe post Whitmer Backs Stevens to Stop Far-Left El-Sa. Daily Wire: Major Establishment Democrat Plants Flag Against Abdul El-Sayed.\n\nDaily Wire reports that michigan Democratic Gov. Gretchen Whitmer endorsed Democratic Senate candidate Haley Stevens on Friday, backing her over far-Left rival Abdul El-Sayed in the state’s closely watched primary.\n\n“Just like me, Haley will do whatever it takes to get things done for the people of Michigan, and we need her now more than ever,” Whitmer said in ...",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Romanian jet fighter shoots down suspected Russian drone",
-              "excerpt": "The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP18192430543050-1684550233.jpg?resize=1200%2C675",
-              "imageAlt": "Romanian jet fighter shoots down suspected Russian drone",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.breitbart.com/europe/2026/07/24/nato-shoots-down-russian-drone-over-romania-for-first-time/",
+              "url": "https://www.breitbart.com/politics/2026/07/24/whitmer-backs-stevens-to-stop-far-left-el-sayed-days-before-michigan-vote/",
               "source": "Breitbart",
-              "headline": "NATO Shoots Down 'Russian' Drone Over Romania For First Time",
-              "excerpt": "NATO has shot down what is thought to be a Russian drone over Romanian airspace for the first time after F-16s were deployed to intercept. The post NATO Shoots Down ‘Russian’ Drone Over Romania For First Time appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/07/53059042755_c1044b591b_k-e1784903656457-640x335.jpg",
-              "imageAlt": "NATO Shoots Down 'Russian' Drone Over Romania For First Time",
+              "headline": "Whitmer Backs Stevens to Stop Far-Left El-Sayed Days Before Michigan Vote",
+              "excerpt": "Michigan Gov. Gretchen Whitmer (D) endorsed Rep. Haley Stevens (D-MI) on Friday in the state's contentious Democrat Senate primary, lending the party's biggest name to the moderate congresswoman one day before early in-person voting opens in her fight against far-left rival Abdul El-Sayed. The post Whitmer Backs Stevens to Stop Far-Left El-Sa",
+              "imageUrl": "https://media.breitbart.com/media/2026/07/Haley-Stevens-and-Gretchen-Whitmer-640x335.jpeg",
+              "imageAlt": "Whitmer Backs Stevens to Stop Far-Left El-Sayed Days Before Michigan Vote",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -161,169 +314,14 @@
               "reliability": "low",
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP18192430543050-1684550233.jpg?resize=1200%2C675",
-          "imageAlt": "Romanian jet fighter shoots down suspected Russian drone",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Watch: Wildfires rage across Spain and France",
-          "summary": "Watch: Wildfires rage across Spain and France. Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.\n\nAl Jazeera: Spain declares national emergency over wildfires.\n\nAl Jazeera reports that at least 10,000 people have been evacuated following wildfires in the central region of Madrid.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/spain-declares-national-emergency-over-wildfires?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Spain declares national emergency over wildfires",
-              "excerpt": "At least 10,000 people have been evacuated following wildfires in the central region of Madrid.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784895299.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Spain declares national emergency over wildfires",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Watch: Wildfires rage across Spain and France",
-              "excerpt": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b5/live/c3089370-873d-11f1-a10e-a5d4f08bc20c.jpg",
-              "imageAlt": "Watch: Wildfires rage across Spain and France",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784895299.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Spain declares national emergency over wildfires",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-          "summary": "Trump's nuclear deal with Saudis jettisons longstanding US demands. Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.\n\nAl Jazeera: Trump’s Israel condition on Saudi nuclear deal.\n\nAl Jazeera reports that trump’s Israel condition on Saudi nuclear deal.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Trump’s Israel condition on Saudi nuclear deal",
-              "excerpt": "Trump’s Israel condition on Saudi nuclear deal",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784916666.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Trump’s Israel condition on Saudi nuclear deal",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-              "excerpt": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f864/live/1a57f800-86a3-11f1-926f-c90d1bcfbc84.jpg",
-              "imageAlt": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784916666.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Trump’s Israel condition on Saudi nuclear deal",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Indian student protests: What’s next after Modi’s promise on exam leaks?",
-          "summary": "Indian student protests: What’s next after Modi’s promise on exam leaks?. Leaders of the Cockroach Janta Party (CJP) insist on the removal of Education Minister Dharmendra Pradhan.\n\nBBC: CJP protest: The youth movement India's Modi didn't see coming.\n\nBBC reports that the CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/7/24/indian-student-protests-whats-next-after-modis-promise-on-exam-leaks?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Indian student protests: What’s next after Modi’s promise on exam leaks?",
-              "excerpt": "Leaders of the Cockroach Janta Party (CJP) insist on the removal of Education Minister Dharmendra Pradhan.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a634573bf77-1784890739.jpg?resize=1920%2C1440",
-              "imageAlt": "Indian student protests: What’s next after Modi’s promise on exam leaks?",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "CJP protest: The youth movement India's Modi didn't see coming",
-              "excerpt": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c7/live/dbcb6ca0-869f-11f1-926f-c90d1bcfbc84.jpg",
-              "imageAlt": "CJP protest: The youth movement India's Modi didn't see coming",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a634573bf77-1784890739.jpg?resize=1920%2C1440",
-          "imageAlt": "Indian student protests: What’s next after Modi’s promise on exam leaks?",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Inside The Secret Service’s New Security Plan For WHCD",
-          "summary": "Inside The Secret Service’s New Security Plan For WHCD. The Secret Service said security will be significantly increased for Friday night’s rescheduled White House Correspondents’ Association Dinner, nearly three months after prosecutors say an armed California man attempted to assassinate President Donald Trump and other administration officials during the annual event.\n\nThe dinner, which first took place on April 25 at the Washington Hilton, ... Fox News: Leavitt vows Trump will deliver 'entertaining' speech at his return to White House Correspondents' Dinner.\n\nFox News reports that karoline Leavitt says President Trump's rescheduled White House Correspondents' Dinner speech will be \"unifying yet vicious\" and \"entertaining.\".",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/inside-the-secret-services-new-security-plan-for-whcd",
+              "url": "https://www.dailywire.com/news/things-just-got-harder-for-abdul-el-sayed",
               "source": "Daily Wire",
-              "headline": "Inside The Secret Service’s New Security Plan For WHCD",
-              "excerpt": "The Secret Service said security will be significantly increased for Friday night’s rescheduled White House Correspondents’ Association Dinner, nearly three months after prosecutors say an armed California man attempted to assassinate President Donald Trump and other administration officials during the annual event. The dinner, which first took place on April 25 at the Washington Hilton, ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/04/GettyImages-2272612798.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Inside The Secret Service’s New Security Plan For WHCD",
+              "headline": "Major Establishment Democrat Plants Flag Against Abdul El-Sayed",
+              "excerpt": "Michigan Democratic Gov. Gretchen Whitmer endorsed Democratic Senate candidate Haley Stevens on Friday, backing her over far-Left rival Abdul El-Sayed in the state’s closely watched primary. “Just like me, Haley will do whatever it takes to get things done for the people of Michigan, and we need her now more than ever,” Whitmer said in ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/05/GettyImages-2273878403.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Major Establishment Democrat Plants Flag Against Abdul El-Sayed",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -336,18 +334,36 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/politics/leavitt-vows-trump-deliver-entertaining-speech-return-white-house-correspondents-dinner",
-              "source": "Fox News",
-              "headline": "Leavitt vows Trump will deliver 'entertaining' speech at his return to White House Correspondents' Dinner",
-              "excerpt": "Karoline Leavitt says President Trump's rescheduled White House Correspondents' Dinner speech will be \"unifying yet vicious\" and \"entertaining.\"",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/donald-trump-speech-wheeler-high-school.jpg?ve=1&tl=1",
-              "imageAlt": "Leavitt vows Trump will deliver 'entertaining' speech at his return to White House Correspondents' Dinner",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4663052/whitmer-backs-haley-stevens-michigan-senate-race/",
+              "source": "Washington Examiner",
+              "headline": "Whitmer backs Haley Stevens in hotly contested Michigan Senate race",
+              "excerpt": "Gov. Gretchen Whitmer (D-MI) endorsed Rep. Haley Stevens (D-MI) in the congresswoman’s tight Senate primary in Michigan against former public health official Abdul el Sayed. Stevens and el Sayed are locked in a neck-and-neck primary to see who will vie to succeed retiring Sen. Gary Peters (D-MI) in the general election, with Stevens representing the […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/image-collage-7p9ife6li-1784926667486-e1784930949860.jpg?1784917920&w=696",
+              "imageAlt": "Whitmer backs Haley Stevens in hotly contested Michigan Senate race",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/jul/24/gov-whitmer-backs-stevens-fierce-michigan-senate-primary/",
+              "source": "Washington Times",
+              "headline": "Gov. Whitmer backs Stevens in fierce Michigan Senate primary",
+              "excerpt": "Michigan Gov. Gretchen Whitmer has come off the sidelines to throw her support behind Rep. Haley Stevens' bid for the U.S. Senate, giving her a late-innings boost in her hard-fought race against Abdul El-Sayed for the Democratic nomination.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/20/Michigan_Governor_Kidnapping_Plot_27317_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Gov. Whitmer backs Stevens in fierce Michigan Senate primary",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
@@ -356,9 +372,9 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/04/GettyImages-2272612798.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Inside The Secret Service’s New Security Plan For WHCD",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://media.breitbart.com/media/2026/07/Haley-Stevens-and-Gretchen-Whitmer-640x335.jpeg",
+          "imageAlt": "Whitmer Backs Stevens to Stop Far-Left El-Sayed Days Before Michigan Vote",
+          "imageCredit": "Breitbart"
         }
       ]
     },
@@ -395,16 +411,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Russian missile strike kills 10 at Ukraine defence industry event",
-          "summary": "Russian missile strike kills 10 at Ukraine defence industry event. A Russian ballistic missile strike has killed 10 people and injured almost 100 at a defence industry event near Kyiv, as the Kremlin says it will keep fighting while awaiting new US peace proposals.",
+          "title": "Funding fight over animal that 'disappeared from science' for 100 years",
+          "summary": "Funding fight over animal that 'disappeared from science' for 100 years. Mahogany gliders were forgotten by science for a century before they were rediscovered on the North Queensland coastline, but it is a mystery how many still exist.\n\nThey are in a battle for funding shared by endangered or threatened species across the country.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-07-24/russian-missile-strike-kills-10-at-ukraine-defence-event/106957128",
+              "url": "https://www.abc.net.au/news/2026-07-25/mahogany-glider-funding-endangered-threatened-species/106943922",
               "source": "ABC Australia",
-              "headline": "Russian missile strike kills 10 at Ukraine defence industry event",
-              "excerpt": "A Russian ballistic missile strike has killed 10 people and injured almost 100 at a defence industry event near Kyiv, as the Kremlin says it will keep fighting while awaiting new US peace proposals.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/fc87d187fcdab6d6e5681a6a048a7077?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=40&width=862&height=485",
-              "imageAlt": "Russian missile strike kills 10 at Ukraine defence industry event",
+              "headline": "Funding fight over animal that 'disappeared from science' for 100 years",
+              "excerpt": "Mahogany gliders were forgotten by science for a century before they were rediscovered on the North Queensland coastline, but it is a mystery how many still exist. They are in a battle for funding shared by endangered or threatened species across the country.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/62a1223035ee62f104a7082f475920da?impolicy=wcms_crop_resize&cropH=1063&cropW=1890&xPos=0&yPos=532&width=862&height=485",
+              "imageAlt": "Funding fight over animal that 'disappeared from science' for 100 years",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -420,21 +436,21 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/fc87d187fcdab6d6e5681a6a048a7077?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=40&width=862&height=485",
-          "imageAlt": "Russian missile strike kills 10 at Ukraine defence industry event",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/62a1223035ee62f104a7082f475920da?impolicy=wcms_crop_resize&cropH=1063&cropW=1890&xPos=0&yPos=532&width=862&height=485",
+          "imageAlt": "Funding fight over animal that 'disappeared from science' for 100 years",
           "imageCredit": "ABC News"
         },
         {
-          "title": "A global threat for millennia: experts warn Australia’s nuclear submarine legacy will be weapons-usable uranium cache",
-          "summary": "A global threat for millennia: experts warn Australia’s nuclear submarine legacy will be weapons-usable uranium cache.\n\nExclusive: Uranium waste from Aukus submarines will be enriched to an estimated 80%: the same level as the bomb dropped on Hiroshima Australia’s proposed nuclear submarine fleet will leave behind tonnes of weapons-usable uranium-235: radioactive for hundreds of millions of years, and capable of being processed into scores of warheads, nuclear experts have told a public inquiry into Aukus.\n\nAnd a former White House national security adviser has told the Guardian that Australia’s Auk.",
+          "title": "Rebel Wilson had a legal win but didn’t come out of The Deb defamation trial unscathed",
+          "summary": "Rebel Wilson had a legal win but didn’t come out of The Deb defamation trial unscathed.\n\nJudgment dismissing Charlotte MacInnes’s case expressed doubts about credibility of three key witnesses, and is likely to be appealed Rebel Wilson’s self-styled brand as a truth teller was put to the test during a fiery defamation feud where rivals called her a bully.\n\nBut the Hollywood A-lister, referred to as “very difficult to be around” and “fucking nuts” during an at-times bruising trial, emerged from the federal court battle <a href=\"https://www.theguardian.com/australia-news.",
           "links": [
             {
-              "url": "https://www.theguardian.com/world/2026/jul/25/aukus-nuclear-submarines-danger-weapons-grade-uranium",
+              "url": "https://www.theguardian.com/film/2026/jul/25/rebel-wilson-had-a-legal-win-but-didnt-come-out-of-the-deb-defamation-trial-unscathed",
               "source": "The Guardian Australia",
-              "headline": "A global threat for millennia: experts warn Australia’s nuclear submarine legacy will be weapons-usable uranium cache",
-              "excerpt": "Exclusive: Uranium waste from Aukus submarines will be enriched to an estimated 80%: the same level as the bomb dropped on Hiroshima Australia’s proposed nuclear submarine fleet will leave behind tonnes of weapons-usable uranium-235: radioactive for hundreds of millions of years, and capable of being processed into scores of warheads, nuclear experts have told a public inquiry into Aukus. And a former White House national security adviser has told the Guardian that Australia’s Auk",
-              "imageUrl": "https://i.guim.co.uk/img/media/fbbd97368366d30ca9e63236955b4e9ab359c2dc/895_712_5935_4751/master/5935.jpg?width=140&quality=85&auto=format&fit=max&s=91443b8d3923ab4dac72ba799322d07f",
-              "imageAlt": "A global threat for millennia: experts warn Australia’s nuclear submarine legacy will be weapons-usable uranium cache",
+              "headline": "Rebel Wilson had a legal win but didn’t come out of The Deb defamation trial unscathed",
+              "excerpt": "Judgment dismissing Charlotte MacInnes’s case expressed doubts about credibility of three key witnesses, and is likely to be appealed Rebel Wilson’s self-styled brand as a truth teller was put to the test during a fiery defamation feud where rivals called her a bully. But the Hollywood A-lister, referred to as “very difficult to be around” and “fucking nuts” during an at-times bruising trial, emerged from the federal court battle <a href=\"https://www.theguardian.com/australia-news",
+              "imageUrl": "https://i.guim.co.uk/img/media/57a8842c64106138dd09424683c221b9e3b63627/425_0_6123_4902/master/6123.jpg?width=140&quality=85&auto=format&fit=max&s=275e62d1cf8555ce6ac00abb498586f0",
+              "imageAlt": "Rebel Wilson had a legal win but didn’t come out of The Deb defamation trial unscathed",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -443,27 +459,27 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[9]",
-          "imageUrl": "https://i.guim.co.uk/img/media/fbbd97368366d30ca9e63236955b4e9ab359c2dc/895_712_5935_4751/master/5935.jpg?width=140&quality=85&auto=format&fit=max&s=91443b8d3923ab4dac72ba799322d07f",
-          "imageAlt": "A global threat for millennia: experts warn Australia’s nuclear submarine legacy will be weapons-usable uranium cache",
+          "imageUrl": "https://i.guim.co.uk/img/media/57a8842c64106138dd09424683c221b9e3b63627/425_0_6123_4902/master/6123.jpg?width=140&quality=85&auto=format&fit=max&s=275e62d1cf8555ce6ac00abb498586f0",
+          "imageAlt": "Rebel Wilson had a legal win but didn’t come out of The Deb defamation trial unscathed",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "The lessons our schools need to teach",
-          "summary": "The lessons our schools need to teach. Earlier this month, America marked the 250th birthday of its Declaration of Independence.\n\nThis anniversary should also matter to Australians.… The post The lessons our schools need to teach appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/07/the-treason-of-the-t. Spectator Australia: Are you a party bore?\n\nSpectator Australia reports that some years ago, I managed to get an invitation to a very exclusive party. One of the guests was Prince… The post Are you a party bore? appeared first on The Spectator Australia .\n\nWhat to read next: The art of the party trick | <a href=\"https://www.spectator.",
+          "title": "The dangers of policing misinformation",
+          "summary": "The dangers of policing misinformation. When Steve Reed, the now ex-communities secretary, unveiled his social cohesion ‘action plan’ earlier this year, he promised to publish… The post The dangers of policing misinformation appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/07/im-sick-of-plastic-footb. Spectator Australia: 2762: Keys of the Kingdom.\n\nSpectator Australia reports that the unclued lights are a small fraction of almost 800. Across 12 Oilmen rail about petroleum product (7,3) 13… The post 2762: Keys of the Kingdom appeared first on The Spectator Australia .\n\nWhat to read next: 2761: Alphabetical Jigsaw | <a href=\"https://w.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/07/are-you-a-party-bore/",
+              "url": "https://www.spectator.com.au/2026/07/2762-keys-of-the-kingdom/",
               "source": "Spectator Australia",
-              "headline": "Are you a party bore?",
-              "excerpt": "Some years ago, I managed to get an invitation to a very exclusive party. One of the guests was Prince… The post Are you a party bore? appeared first on The Spectator Australia . What to read next: The art of the party trick | <a href=\"https://www.spectator",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/Notes_on_GettyImages_1219805065.png",
-              "imageAlt": "Are you a party bore?",
+              "headline": "2762: Keys of the Kingdom",
+              "excerpt": "The unclued lights are a small fraction of almost 800. Across 12 Oilmen rail about petroleum product (7,3) 13… The post 2762: Keys of the Kingdom appeared first on The Spectator Australia . What to read next: 2761: Alphabetical Jigsaw | <a href=\"https://w",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2025/12/crossword_stock_image_1000x642_1.png",
+              "imageAlt": "2762: Keys of the Kingdom",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -478,8 +494,8 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[10]",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/Notes_on_GettyImages_1219805065.png",
-          "imageAlt": "Are you a party bore?",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2025/12/crossword_stock_image_1000x642_1.png",
+          "imageAlt": "2762: Keys of the Kingdom",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -488,16 +504,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-          "summary": "OpenAI’s own model went rogue before Kimi had Wall Street sweating. Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it.\n\nMeanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […].",
+          "title": "Midjourney acquired the astrology app Co-Star",
+          "summary": "Midjourney acquired the astrology app Co-Star. The AI lab Midjourney continues to expand its purview beyond image and video generation.\n\nThe Verge: Midjourney bought the astrology app Co-Star.\n\nThe Verge reports that midjourney, which has gone from generating AI cat images to full-body ultrasou.",
           "links": [
             {
-              "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+              "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
               "source": "TechCrunch",
-              "headline": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-              "excerpt": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
-              "imageUrl": "",
-              "imageAlt": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+              "headline": "Midjourney acquired the astrology app Co-Star",
+              "excerpt": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
+              "imageAlt": "Midjourney acquired the astrology app Co-Star",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -508,10 +524,60 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+              "source": "The Verge",
+              "headline": "Midjourney bought the astrology app Co-Star",
+              "excerpt": "Midjourney, which has gone from generating AI cat images to full-body ultrasou",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "Midjourney bought the astrology app Co-Star",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[11]"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[11]",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
+          "imageAlt": "Midjourney acquired the astrology app Co-Star",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "summary": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life.\n\nPremium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals.\n\nThe Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review",
+              "source": "The Guardian Technology",
+              "headline": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "excerpt": "Premium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals. The Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu",
+              "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+              "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
+          "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+          "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
@@ -537,7 +603,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
           "imageUrl": "https://i.guim.co.uk/img/media/709f37ee82378c1cce26d50bcb1c27bb6a1d4af2/404_0_3055_2445/master/3055.jpg?width=140&quality=85&auto=format&fit=max&s=a676784851ce3196ff48cd2b54105ccc",
           "imageAlt": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
           "imageCredit": "The Guardian"
@@ -566,7 +632,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
           "imageUrl": "https://i.guim.co.uk/img/media/6e0272bc008856e02d4a2739ad877c01f88e273c/1493_528_4133_3309/master/4133.jpg?width=140&quality=85&auto=format&fit=max&s=1c0f773f4f49964eecb314b4f69f20ac",
           "imageAlt": "EU fines Google €890m for competition breaches over search and apps",
           "imageCredit": "The Guardian"
@@ -595,10 +661,217 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
           "imageUrl": "https://i.guim.co.uk/img/media/0b84129a959816879717a0f4b9a882ec215e8669/203_0_1594_1275/master/1594.jpg?width=140&quality=85&auto=format&fit=max&s=1377527ac5ffd7b52b6fe920e74573ec",
           "imageAlt": "Social Darwinists to tech bros: tracing the long fight against equality in US",
           "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Leyte heritage advocates push to save Carigara landmarks",
+          "summary": "Leyte heritage advocates push to save Carigara landmarks.\n\nMANILA, Philippines — Heritage advocates in Leyte have renewed calls to preserve Carigara’s historic buildings, ancestral houses, monuments, and other cultural landmarks, warning that neglect and rapid modernization threaten to erase the town’s centuries-old cultural legacy.\n\nThe Carigara Heritage Society (CHS) urged the restoration and protection of the municipality’s heritage structures, saying they embody the.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2270234/leyte-heritage-advocates-push-to-save-carigara-landmarks",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Leyte heritage advocates push to save Carigara landmarks",
+              "excerpt": "MANILA, Philippines — Heritage advocates in Leyte have renewed calls to preserve Carigara’s historic buildings, ancestral houses, monuments, and other cultural landmarks, warning that neglect and rapid modernization threaten to erase the town’s centuries-old cultural legacy. The Carigara Heritage Society (CHS) urged the restoration and protection of the municipality’s heritage structures, saying they embody the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/carigara-heritage-24july2026-1.png",
+              "imageAlt": "Leyte heritage advocates push to save Carigara landmarks",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/carigara-heritage-24july2026-1.png",
+          "imageAlt": "Leyte heritage advocates push to save Carigara landmarks",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Seaweed processors in Pangasinan get BFAR livelihood aid",
+          "summary": "Seaweed processors in Pangasinan get BFAR livelihood aid.\n\nALAMINOS CITY, Pangasinan — Two fisherfolk organizations in this province received livelihood assistance packages worth P600,000 each from the Bureau of Fisheries and Aquatic Resources (BFAR) in the Ilocos Region to strengthen their seaweed-based food processing enterprises.\n\nThe beneficiaries are the Cato Calipi Association (CCA) of Infanta and the Ilio-Ilio Farmers and Fisherfolk Agricultural Cooperative.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2270229/seaweed-processors-in-pangasinan-get-bfar-livelihood-aid",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Seaweed processors in Pangasinan get BFAR livelihood aid",
+              "excerpt": "ALAMINOS CITY, Pangasinan — Two fisherfolk organizations in this province received livelihood assistance packages worth P600,000 each from the Bureau of Fisheries and Aquatic Resources (BFAR) in the Ilocos Region to strengthen their seaweed-based food processing enterprises. The beneficiaries are the Cato Calipi Association (CCA) of Infanta and the Ilio-Ilio Farmers and Fisherfolk Agricultural Cooperative",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/seaweed-25july2026.jpg",
+              "imageAlt": "Seaweed processors in Pangasinan get BFAR livelihood aid",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/seaweed-25july2026.jpg",
+          "imageAlt": "Seaweed processors in Pangasinan get BFAR livelihood aid",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "‘Kiyapo’ unleashes floods across PH",
+          "summary": "‘Kiyapo’ unleashes floods across PH. TUGUEGARAO CITY—Tropical Storm “Kiyapo” (international name: Noul) and the enhanced southwest monsoon (habagat) battered large parts of Luzon, the Visayas and Mindanao on Friday, triggering floods, landslides, road closures, forced evacuations, sea travel suspensions, and widespread class cancellations across the country.\n\nA Yellow Heavy Rainfall Warning remained in effect over parts of Cagayan and Ilocos. Philippine Daily Inquirer: 21 families evacuated in Cagayan due to storm.\n\nPhilippine Daily Inquirer reports that tUGUEGARAO CITY, Cagayan – At least 21 families or 95 persons in three Cagayan towns were moved to evacuation centers as Severe Tropical Storm Kiyapo struck parts of Northern Luzon, the Provincial Disaster Risk-Reduction Management Office (PDRRMO) said on Friday.\n\nThe evacuees include four families or 15 persons from Casagan, Santa Ana t",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2270212/21-families-evacuated-in-cagayan-due-to-storm",
+              "source": "Philippine Daily Inquirer",
+              "headline": "21 families evacuated in Cagayan due to storm",
+              "excerpt": "TUGUEGARAO CITY, Cagayan – At least 21 families or 95 persons in three Cagayan towns were moved to evacuation centers as Severe Tropical Storm Kiyapo struck parts of Northern Luzon, the Provincial Disaster Risk-Reduction Management Office (PDRRMO) said on Friday. The evacuees include four families or 15 persons from Casagan, Santa Ana town; two families",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Cagayan-map-filephoto-091122.jpg",
+              "imageAlt": "21 families evacuated in Cagayan due to storm",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Cagayan-map-filephoto-091122.jpg",
+          "imageAlt": "21 families evacuated in Cagayan due to storm",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Habagat to keep rains over W. Visayas until Saturday – Pagasa",
+          "summary": "Habagat to keep rains over W. Visayas until Saturday – Pagasa.\n\nILOILO CITY – Occasional rains will continue to affect Iloilo, Antique, Guimaras, and Negros Occidental provinces through Saturday afternoon as the southwest monsoon or habagat, enhanced by Tropical Storm Kiyapo, persists over Western Visayas, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) said.\n\nIn its 8 p.m. weather bulletin, Pagasa said Kiyapo was.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2270115/habagat-to-keep-rains-over-w-visayas-until-saturday-pagasa-says",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Habagat to keep rains over W. Visayas until Saturday – Pagasa",
+              "excerpt": "ILOILO CITY – Occasional rains will continue to affect Iloilo, Antique, Guimaras, and Negros Occidental provinces through Saturday afternoon as the southwest monsoon or habagat, enhanced by Tropical Storm Kiyapo, persists over Western Visayas, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) said. In its 8 p.m. weather bulletin, Pagasa said Kiyapo was",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/Western-Visayas-INQUIRER-FILES-2.png",
+              "imageAlt": "Habagat to keep rains over W. Visayas until Saturday – Pagasa",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/Western-Visayas-INQUIRER-FILES-2.png",
+          "imageAlt": "Habagat to keep rains over W. Visayas until Saturday – Pagasa",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Samar bishops urge LGUs to reject mining",
+          "summary": "Samar bishops urge LGUs to reject mining.\n\nBORONGAN CITY—The three Catholic bishops of Samar Island have united in opposing mining activities in Eastern Samar, warning that even mineral exploration could pave the way for large-scale extraction that threatens forests, watersheds, farmlands, coastal ecosystems and the livelihoods of local communities.\n\nBishops Crispin Varquez of the Diocese of Borongan, Isabelo Abarquez of the Diocese.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2270133/samar-bishops-urge-lgus-to-reject-mining",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Samar bishops urge LGUs to reject mining",
+              "excerpt": "BORONGAN CITY—The three Catholic bishops of Samar Island have united in opposing mining activities in Eastern Samar, warning that even mineral exploration could pave the way for large-scale extraction that threatens forests, watersheds, farmlands, coastal ecosystems and the livelihoods of local communities. Bishops Crispin Varquez of the Diocese of Borongan, Isabelo Abarquez of the Diocese",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Catholic-bishops-of-Samar-Island.jpg",
+              "imageAlt": "Samar bishops urge LGUs to reject mining",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Catholic-bishops-of-Samar-Island.jpg",
+          "imageAlt": "Samar bishops urge LGUs to reject mining",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "summary": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes. Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+              "source": "Wall Street Journal",
+              "headline": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "excerpt": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+              "imageUrl": "",
+              "imageAlt": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]"
+        },
+        {
+          "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+          "summary": "OpenAI’s own model went rogue before Kimi had Wall Street sweating. Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it.\n\nMeanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […].",
+          "links": [
+            {
+              "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+              "source": "TechCrunch",
+              "headline": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+              "excerpt": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
+              "imageUrl": "",
+              "imageAlt": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]"
         },
         {
           "title": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn",
@@ -624,194 +897,36 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
           "imageUrl": "https://i.guim.co.uk/img/media/80af939f5e1931085758a84567eb8b3f21c460db/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dcc9b5072962405b50a77cfe4ae2c855",
           "imageAlt": "Space datacenters proposed by Musk and Bezos ‘catastrophic’ for planet, experts warn",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Motorists warned of landslides, flooding on Iloilo-Antique roads",
-          "summary": "Motorists warned of landslides, flooding on Iloilo-Antique roads. ILOILO CITY —Authorities on Friday urged motorists to exercise extreme caution when traveling between Iloilo and Antique as heavy rains triggered landslide threats, flooding and road damage along major routes connecting the two provinces.\n\nThe Antique Provincial Disaster Risk Reduction and Management Council (PDRRMC) advised commuters and motorists to avoid the Iloilo-Antique Road via Bukid. Philippine Daily Inquirer: Heavy rains trigger flooding, road damage across Bohol.\n\nPhilippine Daily Inquirer reports that tAGBILARAN CITY, Bohol— Heavy rains that swept across Bohol province on Friday triggered flooding, a landslide, road damage, and the collapse of a perimeter fence in several towns, prompting authorities to issue travel advisories and safety warnings.\n\nThe persistent rains also triggered a landslide along a road in",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2269862/heavy-rains-trigger-flooding-road-damage-across-bohol",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Heavy rains trigger flooding, road damage across Bohol",
-              "excerpt": "TAGBILARAN CITY, Bohol— Heavy rains that swept across Bohol province on Friday triggered flooding, a landslide, road damage, and the collapse of a perimeter fence in several towns, prompting authorities to issue travel advisories and safety warnings. The persistent rains also triggered a landslide along a road in Barangay Del Pilar, Pilar town. READ: PNP",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/FB_IMG_1784874816295-1.jpg",
-              "imageAlt": "Heavy rains trigger flooding, road damage across Bohol",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/FB_IMG_1784874816295-1.jpg",
-          "imageAlt": "Heavy rains trigger flooding, road damage across Bohol",
-          "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Mountaineers’ group opposes mining bid at Sibuyan protected park",
-          "summary": "Mountaineers’ group opposes mining bid at Sibuyan protected park. CALAPAN CITY, Oriental Mindoro— The Mountaineering Federation of the Philippines Inc. (MFPI) has expressed strong opposition to a bid to introduce mining activities within the protected landscape of Mt.\n\nGuiting-Guiting Natural Park in Sibuyan Island, Romblon, warning that the project could threaten one of the country’s most important biodiversity hotspots. In a statement, the federation.",
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "summary": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack.\n\nSome of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2270031/mountaineers-group-opposes-mining-bid-at-sibuyan-protected-park",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Mountaineers’ group opposes mining bid at Sibuyan protected park",
-              "excerpt": "CALAPAN CITY, Oriental Mindoro— The Mountaineering Federation of the Philippines Inc. (MFPI) has expressed strong opposition to a bid to introduce mining activities within the protected landscape of Mt. Guiting-Guiting Natural Park in Sibuyan Island, Romblon, warning that the project could threaten one of the country’s most important biodiversity hotspots. In a statement, the federation",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/sibuyan-island-24julu2026.jpeg",
-              "imageAlt": "Mountaineers’ group opposes mining bid at Sibuyan protected park",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+              "source": "Wall Street Journal",
+              "headline": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "excerpt": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+              "imageUrl": "",
+              "imageAlt": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/sibuyan-island-24julu2026.jpeg",
-          "imageAlt": "Mountaineers’ group opposes mining bid at Sibuyan protected park",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DPWH warns vs unauthorized individuals deceiving public, contractors",
-          "summary": "DPWH warns vs unauthorized individuals deceiving public, contractors. MANILA, Philippines — The Department of Public Works and Highways – National Capital Region (DPWH-NCR) on Friday warned the public and contractors against unauthorized individuals misrepresenting the agency.\n\nAccording to the DPWH-NCR, a certain individual is posing as Las Piñas-Muntinlupa District Engineer Ryan Dela Cruz to solicit money from contractors, companies, and the public. “A.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2270056/dpwh-warns-vs-unauthorized-individuals-deceiving-public-contractors",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DPWH warns vs unauthorized individuals deceiving public, contractors",
-              "excerpt": "MANILA, Philippines — The Department of Public Works and Highways – National Capital Region (DPWH-NCR) on Friday warned the public and contractors against unauthorized individuals misrepresenting the agency. According to the DPWH-NCR, a certain individual is posing as Las Piñas-Muntinlupa District Engineer Ryan Dela Cruz to solicit money from contractors, companies, and the public. “A",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2024/01/DPWH-logo.png",
-              "imageAlt": "DPWH warns vs unauthorized individuals deceiving public, contractors",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2024/01/DPWH-logo.png",
-          "imageAlt": "DPWH warns vs unauthorized individuals deceiving public, contractors",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DepEd earns clean audit opinion under Angara reform initiative",
-          "summary": "DepEd earns clean audit opinion under Angara reform initiative.\n\nMANILA, Philippines — The Department of Education (DepEd) has significantly improved its compliance with Commission on Audit (COA) recommendations, resolving 83% of its outstanding audit findings in 2025, up from 52% the previous year, as governance reforms under Education Secretary Sonny Angara continue to take effect.\n\nAccording to COA’s consolidated annual audit report for the year.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2270079/deped-earns-clean-audit-opinion-under-angara-reform-initiative",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DepEd earns clean audit opinion under Angara reform initiative",
-              "excerpt": "MANILA, Philippines — The Department of Education (DepEd) has significantly improved its compliance with Commission on Audit (COA) recommendations, resolving 83% of its outstanding audit findings in 2025, up from 52% the previous year, as governance reforms under Education Secretary Sonny Angara continue to take effect. According to COA’s consolidated annual audit report for the year",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2024/02/deped-department-of-education-kagawaran-ng-edukasyon-logo-students-filephoto-030324.png",
-              "imageAlt": "DepEd earns clean audit opinion under Angara reform initiative",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified); article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2024/02/deped-department-of-education-kagawaran-ng-edukasyon-logo-students-filephoto-030324.png",
-          "imageAlt": "DepEd earns clean audit opinion under Angara reform initiative",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Legarda hails signing of GIDA Schools Act into law",
-          "summary": "Legarda hails signing of GIDA Schools Act into law.\n\nMANILA, Philippines – For generations of Filipino families living in the country’s most isolated communities, going to school has often meant walking for hours through mountains, crossing rivers without bridges, riding makeshift boats, or studying in classrooms without electricity and source of water.\n\nThese are daily realities for thousands of learners in geographically isolated and.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2269946/legarda-hails-signing-of-gida-schools-act-into-law",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Legarda hails signing of GIDA Schools Act into law",
-              "excerpt": "MANILA, Philippines – For generations of Filipino families living in the country’s most isolated communities, going to school has often meant walking for hours through mountains, crossing rivers without bridges, riding makeshift boats, or studying in classrooms without electricity and source of water. These are daily realities for thousands of learners in geographically isolated and",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/WhatsApp-Image-2026-07-24-at-3.35.35-PM.jpg",
-              "imageAlt": "Legarda hails signing of GIDA Schools Act into law",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/WhatsApp-Image-2026-07-24-at-3.35.35-PM.jpg",
-          "imageAlt": "Legarda hails signing of GIDA Schools Act into law",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-          "summary": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search. A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
-              "source": "TechCrunch",
-              "headline": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-              "excerpt": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/us-customs-border-cbp-465228460.jpg?resize=1200,774",
-              "imageAlt": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/us-customs-border-cbp-465228460.jpg?resize=1200,774",
-          "imageAlt": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-          "imageCredit": "TechCrunch"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]"
         },
         {
           "title": "The best LED face masks in the UK, tested: 12 light therapy devices that are worth the hype",
@@ -837,96 +952,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
           "imageUrl": "https://i.guim.co.uk/img/media/b3fd73d053e2a8280ca315ed7d642029d6dfad53/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3d10187c7be50fcd0c2539023fba4ca8",
           "imageAlt": "The best LED face masks in the UK, tested: 12 light therapy devices that are worth the hype",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play",
-          "summary": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play.\n\nWhether you’re on PC or a console, level up your setup with our gaming expert’s pick of the best chairs • The best games of 2026 so far Comfort is crucial to the gaming experience.\n\nIt’s hard to focus on blasting aliens or taking Stoke to the Champions League final if your bum has gone to sleep because you’ve been sitting on an old chair for three hours. We’re.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2026/jul/24/best-gaming-chairs-tested-uk",
-              "source": "The Guardian Technology",
-              "headline": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play",
-              "excerpt": "Whether you’re on PC or a console, level up your setup with our gaming expert’s pick of the best chairs • The best games of 2026 so far Comfort is crucial to the gaming experience. It’s hard to focus on blasting aliens or taking Stoke to the Champions League final if your bum has gone to sleep because you’ve been sitting on an old chair for three hours. We’re",
-              "imageUrl": "https://i.guim.co.uk/img/media/a9be9680cd6b7cc5fcb80b5c697372e87cfc9747/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3e2576ca6e2dd1f1f6bc3f7419587b03",
-              "imageAlt": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
-          "imageUrl": "https://i.guim.co.uk/img/media/a9be9680cd6b7cc5fcb80b5c697372e87cfc9747/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3e2576ca6e2dd1f1f6bc3f7419587b03",
-          "imageAlt": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Should you use AI for a task? Here’s a simple way to decide | Bruce Schneier",
-          "summary": "Should you use AI for a task? Here’s a simple way to decide | Bruce Schneier.\n\nSometimes, what matters isn’t your output but what you put into the process. Think of it like work v the gym I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto.\n\nAnd it will come as no surprise to you that my students regularly use AI to complete their writing assignments. Doing so is a waste of th.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
-              "source": "The Guardian Technology",
-              "headline": "Should you use AI for a task? Here’s a simple way to decide",
-              "excerpt": "Sometimes, what matters isn’t your output but what you put into the process. Think of it like work v the gym I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly use AI to complete their writing assignments. Doing so is a waste of th",
-              "imageUrl": "https://i.guim.co.uk/img/media/c17ad768b918071319018fda5888423a4e195c67/0_0_4589_3671/master/4589.jpg?width=140&quality=85&auto=format&fit=max&s=6eedfaa53c3f8353a1f869eb76be50df",
-              "imageAlt": "Should you use AI for a task? Here’s a simple way to decide | Bruce Schneier",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]",
-          "imageUrl": "https://i.guim.co.uk/img/media/c17ad768b918071319018fda5888423a4e195c67/0_0_4589_3671/master/4589.jpg?width=140&quality=85&auto=format&fit=max&s=6eedfaa53c3f8353a1f869eb76be50df",
-          "imageAlt": "Should you use AI for a task? Here’s a simple way to decide | Bruce Schneier",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "How Pokémon Go encouraged me to find wonder in the world",
-          "summary": "How Pokémon Go encouraged me to find wonder in the world. These days, I ‘collect’ birdsong and wild flowers, but it all started when my sons and I first set out to find Pikachu and pals • Don’t get Pushing Buttons delivered to your inbox?\n\nSign up here Believe it or not, Pokémon Go is <a href=\"https://www.theguardian.com/games/video/2026/jul/10/pokemon-go.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/jul/21/ten-years-after-its-release-pokemon-go-still-encourages-me-to-find-wonder-in-the-world-around-me",
-              "source": "The Guardian Technology",
-              "headline": "How Pokémon Go encouraged me to find wonder in the world",
-              "excerpt": "These days, I ‘collect’ birdsong and wild flowers, but it all started when my sons and I first set out to find Pikachu and pals • Don’t get Pushing Buttons delivered to your inbox? Sign up here Believe it or not, Pokémon Go is <a href=\"https://www.theguardian.com/games/video/2026/jul/10/pokemon-go",
-              "imageUrl": "https://i.guim.co.uk/img/media/88d7308dc178594bd21fe7ed2e6a273c1185afaa/835_4_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=64f137993d10cfc30856e8441ee32f0f",
-              "imageAlt": "How Pokémon Go encouraged me to find wonder in the world",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
-          "imageUrl": "https://i.guim.co.uk/img/media/88d7308dc178594bd21fe7ed2e6a273c1185afaa/835_4_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=64f137993d10cfc30856e8441ee32f0f",
-          "imageAlt": "How Pokémon Go encouraged me to find wonder in the world",
           "imageCredit": "The Guardian"
         }
       ]
