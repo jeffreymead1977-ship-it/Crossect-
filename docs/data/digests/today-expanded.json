@@ -2,24 +2,24 @@
   "id": "2026-08-03-expanded",
   "date": "2026-08-03",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-08-03T03:00:45.663898",
+  "generatedAt": "2026-08-03T12:30:07.715525",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-08-03T03:00:45",
+  "updatedAt": "2026-08-03T12:30:07",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-          "summary": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing. An Indonesian ferry carrying 271 people caught fire in waters off the main island of Java on Sunday, leaving at least five people dead and dozens missing as rescuers and passing vessels evacuated hundreds from the burning ship, officials said.\n\nAl Jazeera: At least five dead, 41 missing after ferry catches fire off Indonesia. Al Jazeera reports that the ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.",
+          "title": "Bernie Moreno Accuses Max Miller Of Abusing His Daughter After Congressman Breaks Silence",
+          "summary": "Bernie Moreno Accuses Max Miller Of Abusing His Daughter After Congressman Breaks Silence. Senator Bernie Moreno and Congressman Max Miller traded blows on social media Sunday, with the former Ohio Republican accusing the latter of abusing his daughter, allegations the congressman denies.\n\nFor weeks, Miller has been dogged with rumors that he was abusive towards his ex-wife, Emily, Moreno’s daughter.\n\nOn Saturday, Miller announced on X that he ... Al Jazeera: Republican senator says former son-in-law should resign from US Congress.\n\nAl Jazeera reports that senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "At least five dead, 41 missing after ferry catches fire off Indonesia",
-              "excerpt": "The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a6f36520357-1785673298.jpg?resize=1920%2C1440",
-              "imageAlt": "At least five dead, 41 missing after ferry catches fire off Indonesia",
+              "headline": "Republican senator says former son-in-law should resign from US Congress",
+              "excerpt": "Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a6f802de3dfc-1785692205.jpg?resize=1920%2C1440",
+              "imageAlt": "Republican senator says former son-in-law should resign from US Congress",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,12 +32,59 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.dailywire.com/news/bernie-moreno-accuses-max-miller-of-abusing-his-daughter-after-congressman-breaks-silence",
+              "source": "Daily Wire",
+              "headline": "Bernie Moreno Accuses Max Miller Of Abusing His Daughter After Congressman Breaks Silence",
+              "excerpt": "Senator Bernie Moreno and Congressman Max Miller traded blows on social media Sunday, with the former Ohio Republican accusing the latter of abusing his daughter, allegations the congressman denies. For weeks, Miller has been dogged with rumors that he was abusive towards his ex-wife, Emily, Moreno’s daughter. On Saturday, Miller announced on X that he ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2264299845.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Bernie Moreno Accuses Max Miller Of Abusing His Daughter After Congressman Breaks Silence",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (rumours|unverified|alleged without evidence|speculation|conspiracy)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/2/max-miller-says-im-not-dropping-defends-claims-domestic-abuse/",
+              "source": "Washington Times",
+              "headline": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
+              "excerpt": "U.S. Sen. Bernie Moreno said his former son-in-law, U.S Rep. Max Miller, should not be serving in the House and should \"seek professional help\" as Miller defended himself against allegations of domestic abuse in a live video on X Sunday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/01/Election_2_26_Ohio_House_872_7_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a6f802de3dfc-1785692205.jpg?resize=1920%2C1440",
+          "imageAlt": "Republican senator says former son-in-law should resign from US Congress",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Israel expresses 'serious concerns' with Hamas disarmament deal",
+          "summary": "Israel expresses 'serious concerns' with Hamas disarmament deal. Israel has shared \"serious security concerns\" with the White House regarding the proposed disarmament deal with Hamas, an Israeli official said as Israeli strikes overnight and into Sunday evening killed at least 17 people, including children, in Gaza.\n\nBBC: At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal. BBC reports that israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Five dead and 41 missing after Indonesia ferry catches fire",
-              "excerpt": "The vessel with at least 250 people on board caught fire off Madura island.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5872/live/22dde000-8e75-11f1-b8ee-9b3c26ad07bb.jpg",
-              "imageAlt": "Five dead and 41 missing after Indonesia ferry catches fire",
+              "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+              "excerpt": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
+              "imageAlt": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -51,12 +98,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/2/least-5-dead-dozens-missing-blaze-indonesian-passenger-ferry/",
+              "url": "https://www.washingtontimes.com/news/2026/aug/2/northwestern-pakistan-suicide-bomber-strikes-anti-militant-rally/",
               "source": "Washington Times",
-              "headline": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-              "excerpt": "An Indonesian ferry carrying 271 people caught fire in waters off the main island of Java on Sunday, leaving at least five people dead and dozens missing as rescuers and passing vessels evacuated hundreds from the burning ship, officials said.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/02/Indonesia_Ship_Fire_85378_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
+              "headline": "A suicide bomber strikes an anti-militant rally in northwestern Pakistan, killing at least 14",
+              "excerpt": "A suicide bomber targeted protesters at an anti-militant rally in northwestern Pakistan on Sunday, killing at least 14 people, including police officers, and wounding more than two dozen others, officials said.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/02/Pakistan_Bombing_7438__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "A suicide bomber strikes an anti-militant rally in northwestern Pakistan, killing at least 14",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -70,220 +117,40 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a6f36520357-1785673298.jpg?resize=1920%2C1440",
-          "imageAlt": "At least five dead, 41 missing after ferry catches fire off Indonesia",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Moscow mayor calls a deadly bomb attack on a restaurant a ‘terrorist act’",
-          "summary": "Moscow mayor calls a deadly bomb attack on a restaurant a ‘terrorist act’. Moscow mayor Sergei Sobyanin called on Sunday a bomb attack on a restaurant in the capital the day before a “brutal terrorist act,” but did not say who was responsible.\n\nThe blast on Saturday evening at the Balzi Rossi, an upscale Italian establishment in central Moscow, killed three people, including the female bomber, Russian state media said, […]. BBC: At the scene of deadly Moscow bomb blast.\n\nBBC reports that three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "At the scene of deadly Moscow bomb blast",
-              "excerpt": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bd/live/9c600170-8e88-11f1-b2ab-0dd01740f9f6.jpg",
-              "imageAlt": "At the scene of deadly Moscow bomb blast",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.foxnews.com/world/mayor-calls-upscale-restaurant-bombing-brutal-terrorist-act-3-killed-21-injured",
-              "source": "Fox News",
-              "headline": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
-              "excerpt": "Moscow Mayor Sergei Sobyanin vowed to hunt down those responsible after a body-worn bomb detonated at an upscale restaurant on Saturday killing three.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/police-block-moscow-restaurant-explosion.jpg?ve=1&tl=1",
-              "imageAlt": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/world/4672137/moscow-mayor-bombing-restaurant-terrorism/",
-              "source": "Washington Examiner",
-              "headline": "Moscow mayor calls a deadly bomb attack on a restaurant a ‘terrorist act’",
-              "excerpt": "Moscow mayor Sergei Sobyanin called on Sunday a bomb attack on a restaurant in the capital the day before a “brutal terrorist act,” but did not say who was responsible. The blast on Saturday evening at the Balzi Rossi, an upscale Italian establishment in central Moscow, killed three people, including the female bomber, Russian state media said, […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26213720634083.jpg?w=696",
-              "imageAlt": "Moscow mayor calls a deadly bomb attack on a restaurant a ‘terrorist act’",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/2/sergei-sobyanin-moscow-mayor-calls-deadly-bomb-attack-restaurant/",
-              "source": "Washington Times",
-              "headline": "Moscow mayor calls a deadly bomb attack on a restaurant a 'terrorist act'",
-              "excerpt": "Moscow mayor Sergei Sobyanin called on Sunday a bomb attack on a restaurant in the capital the day before a \"brutal terrorist act,\" but did not say who was responsible.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/01/Russia_Exposion_34_83_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Moscow mayor calls a deadly bomb attack on a restaurant a 'terrorist act'",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bd/live/9c600170-8e88-11f1-b2ab-0dd01740f9f6.jpg",
-          "imageAlt": "At the scene of deadly Moscow bomb blast",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
+          "imageAlt": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
           "imageCredit": "BBC"
         },
         {
-          "title": "Two firefighting helicopters collide midair near Athens as Europe’s wildfire emergency rages",
-          "summary": "Two firefighting helicopters collide midair near Athens as Europe’s wildfire emergency rages. ATHENS, Greece (AP) — Two Greek firefighting helicopters collided in midair on Sunday as they were battling a wind-driven wildfire west of Athens, sending one aircraft crashing to the ground, footage showed.\n\nThe four crew members were recovered, the Greek fire department said.\n\nTwo were recovered safely while the other two were unconscious. No further details about their […].\n\nBBC: Two crew killed as British pilot survives after firefighting helicopters collide in Greece. BBC reports that one Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+          "title": "Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on Denuclearization, Hormuz",
+          "summary": "Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on Denuclearization, Hormuz. President Donald Trump said Sunday that a deal with Iran is “imminent” and negotiations will begin Monday afternoon over the Strait of Hormuz and Tehran’s nuclear program, one day after he called off what he described as a potentially massive U.S. attack on the Islamic Republic.\n\nThe post Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on D. Al Jazeera: Iran war live: Trump says talks to resume; Tehran urges US to honour MoU.\n\nAl Jazeera reports that uS President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
-              "excerpt": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7df3ff90-8e95-11f1-ac80-77f267fd04da.png",
-              "imageAlt": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/world/4672178/two-firefighting-helicopters-crash-midair-greece/",
-              "source": "Washington Examiner",
-              "headline": "Two firefighting helicopters collide midair near Athens as Europe’s wildfire emergency rages",
-              "excerpt": "ATHENS, Greece (AP) — Two Greek firefighting helicopters collided in midair on Sunday as they were battling a wind-driven wildfire west of Athens, sending one aircraft crashing to the ground, footage showed. The four crew members were recovered, the Greek fire department said. Two were recovered safely while the other two were unconscious. No further details about their […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26214359931700.jpg?w=696",
-              "imageAlt": "Two firefighting helicopters collide midair near Athens as Europe’s wildfire emergency rages",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/2/near-athens-2-firefighting-planes-collide-midair/",
-              "source": "Washington Times",
-              "headline": "2 firefighting planes collide midair near Athens",
-              "excerpt": "Two firefighting helicopters collided Sunday while battling a wind-driven wildfire in the Porto Germeno area west of Athens, and footage showed one of the aircraft crashing to the ground.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/02/Greece_Wildfires_317__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "2 firefighting planes collide midair near Athens",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7df3ff90-8e95-11f1-ac80-77f267fd04da.png",
-          "imageAlt": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Top secrets come spilling out",
-          "summary": "Top secrets come spilling out.\n\nIn 1917, British analysts deciphered a coded message the German foreign minister sent to one of his country's diplomats vowing to begin \"unrestricted submarine warfare\" and seeking to win over Mexico with a promise to \"reconquer the lost territory in Texas, New Mexico and Arizona\" if the US entered the world war.\n\nWhen it became public, the Zimmerman Telegram caused a sensation, helping propel the US into the conflict against Germany.",
-          "links": [
-            {
-              "url": "https://www.cnn.com/2023/04/16/opinions/top-secrets-come-spilling-out-opinion-column-galant/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Top secrets come spilling out",
-              "excerpt": "In 1917, British analysts deciphered a coded message the German foreign minister sent to one of his country's diplomats vowing to begin \"unrestricted submarine warfare\" and seeking to win over Mexico with a promise to \"reconquer the lost territory in Texas, New Mexico and Arizona\" if the US entered the world war. When it became public, the Zimmerman Telegram caused a sensation, helping propel the US into the conflict against Germany.",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
-              "imageAlt": "Top secrets come spilling out",
-              "outlet": "CNN",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+              "excerpt": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260802__C3TD4KE__v1__MidRes__IranUsIsraelWar-1785734198.jpg?resize=1200%2C630",
+              "imageAlt": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+              "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
-          "imageAlt": "Top secrets come spilling out",
-          "imageCredit": "CNN"
-        },
-        {
-          "title": "Trump Cancels Iran Attack After ‘Perimeters’ of Deal Reached; Hormuz to Open, Nuclear Threat Set to Be Ended",
-          "summary": "Trump Cancels Iran Attack After ‘Perimeters’ of Deal Reached; Hormuz to Open, Nuclear Threat Set to Be Ended. President Donald Trump announced Saturday night he canceled a planned U.S. attack on Iran after Tehran and other Middle Eastern countries asked him to hold fire.\n\nThe “perimeters” of a deal were subsequently agreed to he said would fully reopen the Strait of Hormuz and end Iran’s nuclear threat.\n\nThe post Trump Ca. BBC: Trump cancels Iran strikes subject to deal being made 'rapidly'.\n\nBBC reports that the US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-              "excerpt": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
-              "imageAlt": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/politics/2026/08/02/trump-cancels-iran-attack-after-perimeters-of-deal-reached-hormuz-to-open-nuclear-threat-set-to-be-ended/",
+              "url": "https://www.breitbart.com/politics/2026/08/02/trump-deal-imminent-iran-talks-restart-monday-hormuz-denuclearization/",
               "source": "Breitbart",
-              "headline": "Trump Cancels Iran Attack After ‘Perimeters’ of Deal Reached; Hormuz to Open, Nuclear Threat Set to Be Ended",
-              "excerpt": "President Donald Trump announced Saturday night he canceled a planned U.S. attack on Iran after Tehran and other Middle Eastern countries asked him to hold fire. The “perimeters” of a deal were subsequently agreed to he said would fully reopen the Strait of Hormuz and end Iran’s nuclear threat. The post Trump Ca",
-              "imageUrl": "https://media.breitbart.com/media/2026/07/donald-trump-oval-office-july24-2026-file-wh-flickr-640x335.jpg",
-              "imageAlt": "Trump Cancels Iran Attack After ‘Perimeters’ of Deal Reached; Hormuz to Open, Nuclear Threat Set to Be Ended",
+              "headline": "Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on Denuclearization, Hormuz",
+              "excerpt": "President Donald Trump said Sunday that a deal with Iran is “imminent” and negotiations will begin Monday afternoon over the Strait of Hormuz and Tehran’s nuclear program, one day after he called off what he described as a potentially massive U.S. attack on the Islamic Republic. The post Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on D",
+              "imageUrl": "https://media.breitbart.com/media/2026/04/552116683654ecfbb996d-640x335.jpg",
+              "imageAlt": "Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on Denuclearization, Hormuz",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -294,54 +161,82 @@
               "reliability": "low",
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260802__C3TD4KE__v1__MidRes__IranUsIsraelWar-1785734198.jpg?resize=1200%2C630",
+          "imageAlt": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
+          "summary": "Brazil's Lula launches reelection bid as concerns rise over foreign interference. What is very likely to be the last reelection bid of Brazil's President Luiz Inacio Lula da Silva was confirmed on Sunday by his Workers' Party as the 80-year-old leader faces increasing pressure from foreign leaders ahead of October's elections.\n\nIt will be his seventh race for the top job. Al Jazeera: Brazil’s Lula launches fourth-term bid, focuses on national sovereignty.\n\nAl Jazeera reports that lula seeks to use Bolsonaro family ties with Trump to cast election as fight against submission to foreign interests.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
+              "excerpt": "Lula seeks to use Bolsonaro family ties with Trump to cast election as fight against submission to foreign interests.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260802__C3TD7EF__v1__HighRes__BrazilElectionConventionCandidate-1785710465.jpg?resize=1920%2C1440",
+              "imageAlt": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/2/trump-halts-strikes-iran-says-peace-deal-perimeters-place/",
+              "url": "https://www.washingtontimes.com/news/2026/aug/2/brazils-lula-launches-reelection-bid-concerns-rise-foreign/",
               "source": "Washington Times",
-              "headline": "Trump halts strikes on Iran, says peace deal 'perimeters' are in place",
-              "excerpt": "President Trump says U.S. allies in the Middle East have reached an agreement on the outlines of a deal to end the Iran war and reopen the Strait of Hormuz.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/01/Iraq-_Iran_7667__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump halts strikes on Iran, says peace deal 'perimeters' are in place",
+              "headline": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
+              "excerpt": "What is very likely to be the last reelection bid of Brazil's President Luiz Inacio Lula da Silva was confirmed on Sunday by his Workers' Party as the 80-year-old leader faces increasing pressure from foreign leaders ahead of October's elections. It will be his seventh race for the top job.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/26/APTOPIX_Brazil_Flavio_Bolsonaro_Convention_32867_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Brazil's Lula launches reelection bid as concerns rise over foreign interference",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
-          "imageAlt": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260802__C3TD7EF__v1__HighRes__BrazilElectionConventionCandidate-1785710465.jpg?resize=1920%2C1440",
+          "imageAlt": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
+          "imageCredit": "Al Jazeera"
         },
         {
           "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes",
-          "summary": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes. About 5,000 homes have been evacuated and about 600 homes, businesses and other buildings have been destroyed by wildfires that remained uncontained Sunday in eastern Washington state, authorities said.\n\nBBC: Wildfires scorch Washington state as thousands evacuated and emergency declared.\n\nBBC reports that state officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+          "summary": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes. About 5,000 homes have been evacuated and about 600 homes, businesses and other buildings have been destroyed by wildfires that remained uncontained Sunday in eastern Washington state, authorities said.\n\nAl Jazeera: Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations.\n\nAl Jazeera reports that a total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-              "excerpt": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fbc/live/ec11f440-8e55-11f1-b8ee-9b3c26ad07bb.jpg",
-              "imageAlt": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+              "excerpt": "A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26214767486197-1785726214.jpg?resize=1920%2C1440",
+              "imageAlt": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
               "url": "https://www.washingtontimes.com/news/2026/aug/2/eastern-washington-fires-burned-600-structures-forced-evacuation-5000/",
@@ -363,22 +258,22 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fbc/live/ec11f440-8e55-11f1-b8ee-9b3c26ad07bb.jpg",
-          "imageAlt": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-          "imageCredit": "BBC"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26214767486197-1785726214.jpg?resize=1920%2C1440",
+          "imageAlt": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-          "summary": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis. At least 72 migrants are dead as Spain searches for more victims and a deadly border crossing sparks renewed political tensions across Europe.\n\nBBC: How Spain's migrant crisis created a political storm - whipped up by social media.\n\nBBC reports that the Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+          "title": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight",
+          "summary": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight. A plane carrying European tourists to view the famed Nazca Lines crashed into a field Saturday outside the Peruvian city of Nazca, killing 13 people, local authorities said.\n\nBBC: Tourist plane crashes in Peru, killing 13.\n\nBBC reports that the small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
-              "excerpt": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-              "imageAlt": "How Spain's migrant crisis created a political storm - whipped up by social media",
+              "headline": "Tourist plane crashes in Peru, killing 13",
+              "excerpt": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/7e290c00-8e16-11f1-b8e8-d5f03f10fe6d.jpg",
+              "imageAlt": "Tourist plane crashes in Peru, killing 13",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -387,52 +282,18 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis",
-              "source": "Fox News",
-              "headline": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-              "excerpt": "At least 72 migrants are dead as Spain searches for more victims and a deadly border crossing sparks renewed political tensions across Europe.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/migrants-ceuta-spain-morocco-return.jpg?ve=1&tl=1",
-              "imageAlt": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-          "imageAlt": "How Spain's migrant crisis created a political storm - whipped up by social media",
-          "imageCredit": "BBC"
-        }
-      ]
-    },
-    {
-      "name": "Australia",
-      "stories": [
-        {
-          "title": "What the Odyssey means to America",
-          "summary": "What the Odyssey means to America. In 1899 Jack London, beginning his career as a writer, sold a story to Atlantic Monthly for $120.\n\nDrawing on his experiences during the Klondike gold… The post What the Odyssey means to America appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/07/what-can-europe-expe. Spectator Australia: The curious history of sporting superstitions.\n\nSpectator Australia reports that my father had been waiting his entire life for that whistle. After 75 years, the curse was over.\n\nMayo were… The post The curious history of sporting superstitions appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/07/the-radical-left-wing-takeover-of-the-d.",
-          "links": [
-            {
-              "url": "https://www.spectator.com.au/2026/08/the-curious-history-of-sporting-superstitions/",
-              "source": "Spectator Australia",
-              "headline": "The curious history of sporting superstitions",
-              "excerpt": "My father had been waiting his entire life for that whistle. After 75 years, the curse was over. Mayo were… The post The curious history of sporting superstitions appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/07/the-radical-left-wing-takeover-of-the-d",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/heath_kidd_4a0d94.jpg",
-              "imageAlt": "The curious history of sporting superstitions",
-              "outlet": "Spectator Australia",
+              "url": "https://www.washingtontimes.com/news/2026/aug/2/peru-plane-carrying-european-tourists-crashes-killing-13-people-nazca/",
+              "source": "Washington Times",
+              "headline": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight",
+              "excerpt": "A plane carrying European tourists to view the famed Nazca Lines crashed into a field Saturday outside the Peruvian city of Nazca, killing 13 people, local authorities said.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/01/APTOPIX_Peru_Plane_Crash_137_7_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight",
+              "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -445,23 +306,41 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[7]",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/heath_kidd_4a0d94.jpg",
-          "imageAlt": "The curious history of sporting superstitions",
-          "imageCredit": "Spectator Australia"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/7e290c00-8e16-11f1-b8e8-d5f03f10fe6d.jpg",
+          "imageAlt": "Tourist plane crashes in Peru, killing 13",
+          "imageCredit": "BBC"
         },
         {
-          "title": "Diamonds win bronze medal with an eye to greater things for netball",
-          "summary": "Diamonds win bronze medal with an eye to greater things for netball. Australia's loss to Jamaica in the Commonwealth Games semifinal was heartbreaking for the players, who then had to get back up to claim bronze less than a day later.\n\nBut it may be the best thing for the sport of netball.",
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "summary": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives. One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.\n\nAl Jazeera: Two helicopters collide mid-air while tackling wildfires in Greece.\n\nAl Jazeera reports that footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-08-02/diamonds-bronze-medal-commonwealth-games-england/106988168",
-              "source": "ABC Australia",
-              "headline": "Diamonds win bronze medal with an eye to greater things for netball",
-              "excerpt": "Australia's loss to Jamaica in the Commonwealth Games semifinal was heartbreaking for the players, who then had to get back up to claim bronze less than a day later. But it may be the best thing for the sport of netball.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/94d8c7017d4c0c51f631355de5caf514?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=475&width=862&height=485",
-              "imageAlt": "Diamonds win bronze medal with an eye to greater things for netball",
-              "outlet": "ABC News",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Two helicopters collide mid-air while tackling wildfires in Greece",
+              "excerpt": "Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785695911.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Two helicopters collide mid-air while tackling wildfires in Greece",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+              "excerpt": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf8/live/a535ae60-8ecb-11f1-b8ee-9b3c26ad07bb.jpg",
+              "imageAlt": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+              "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
               "bias": "Center",
@@ -475,22 +354,123 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/94d8c7017d4c0c51f631355de5caf514?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=475&width=862&height=485",
-          "imageAlt": "Diamonds win bronze medal with an eye to greater things for netball",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785695911.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Two helicopters collide mid-air while tackling wildfires in Greece",
+          "imageCredit": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "title": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
+          "summary": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences. Former Liberal, ‘anti-woke’ film animator and councillor who says he used to work on Daniel Andrews’ security team among lineup for November’s state poll One Nation has named its first candidates for the upcoming Victorian state election, as the party leader, Pauline Hanson, has vowed to ban the ABC and the Guardian from attending her press conferences during the campaign.\n\nGuardian Australia understands reporters from the ABC and the Age were refused entry to Hanson’s press confer. ABC News: One Nation reveals Victorian state leader ahead of November election.\n\nABC News reports that one Nation reveals its upper house candidates for Victoria, with army veteran and party state president Warren Pickering set to lead the party to the upcoming state election.",
+          "links": [
+            {
+              "url": "https://www.abc.net.au/news/2026-08-03/one-nation-victoria-candiates-revealed/106989410",
+              "source": "ABC Australia",
+              "headline": "One Nation reveals Victorian state leader ahead of November election",
+              "excerpt": "One Nation reveals its upper house candidates for Victoria, with army veteran and party state president Warren Pickering set to lead the party to the upcoming state election.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/8f945612ae623814a745de7827e73b8b?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "One Nation reveals Victorian state leader ahead of November election",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
+              "excerpt": "Former Liberal, ‘anti-woke’ film animator and councillor who says he used to work on Daniel Andrews’ security team among lineup for November’s state poll One Nation has named its first candidates for the upcoming Victorian state election, as the party leader, Pauline Hanson, has vowed to ban the ABC and the Guardian from attending her press conferences during the campaign. Guardian Australia understands reporters from the ABC and the Age were refused entry to Hanson’s press confer",
+              "imageUrl": "https://i.guim.co.uk/img/media/f43768286efa045b3a6a40ab3e6e2d34dc03f50b/0_1046_3888_3108/master/3888.jpg?width=140&quality=85&auto=format&fit=max&s=3ab0e0c0eba4ded86f4a9bb7034105ca",
+              "imageAlt": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "article-text: Right cue(s): (woke|cancel culture|left-wing extremis[mt]|socialist agenda)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[7]",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/8f945612ae623814a745de7827e73b8b?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+          "imageAlt": "One Nation reveals Victorian state leader ahead of November election",
           "imageCredit": "ABC News"
         },
         {
-          "title": "The rise and fall of Alan Jones, once one of Australia's most influential radio hosts – video",
-          "summary": "The rise and fall of Alan Jones, once one of Australia's most influential radio hosts – video. Born in regional Queensland in 1941 or 1943 - depending on who you ask - Alan Jones started his career as a school teacher.\n\nHe ran for politics, and coached Australia's national rugby union team before becoming one of Australia’s highest-paid, most successful talkback radio presenters.\n\n'You can't overestimate how important Alan Jones was for more than 30 years,' says Guardian Australia's Amanda Meade. Now the veteran broadcaster has pleaded not guilty to 20 charges of indecent assault and two.",
+          "title": "Alan Jones trial live updates: former radio broadcaster's indecent assault case in Sydney court – latest news",
+          "summary": "Alan Jones trial live updates: former radio broadcaster's indecent assault case in Sydney court – latest news. Former 2UE and 2GB radio broadcaster is facing 22 charges.\n\nJones, 85, has pleaded not guilty Warning: This live blog may contain graphic content when discussing evidence in the trial Alan Jones trial on indecent assault and sexual touching charges begins in Sydney Court hears allegations made by complainant C <.\n\nABC News: Alan Jones allegedly kissed 17yo student at property, court told. ABC News reports that veteran Sydney broadcaster Alan Jones arrives at court for the first day of his indecent assault and sexual touching trial.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/alan-jones-trial-live-updates-indecent-assault-charges-day-1-sydney-court-case-latest-news-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Alan Jones trial live updates: former radio broadcaster's indecent assault case in Sydney court – latest news",
+              "excerpt": "Former 2UE and 2GB radio broadcaster is facing 22 charges. Jones, 85, has pleaded not guilty Warning: This live blog may contain graphic content when discussing evidence in the trial Alan Jones trial on indecent assault and sexual touching charges begins in Sydney Court hears allegations made by complainant C <",
+              "imageUrl": "https://i.guim.co.uk/img/media/a6374f12b60a44a6abb34052845b502e3ac5c53c/336_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=614730a8b0c1b9c51a8e712ce21c6afc",
+              "imageAlt": "Alan Jones trial live updates: former radio broadcaster's indecent assault case in Sydney court – latest news",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-08-03/alan-jones-indecent-assault-sexual-touching-trial-starts/106985660",
+              "source": "ABC Australia",
+              "headline": "Alan Jones allegedly kissed 17yo student at property, court told",
+              "excerpt": "Veteran Sydney broadcaster Alan Jones arrives at court for the first day of his indecent assault and sexual touching trial.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/17432932462ae48b27241cff9d9693b1?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Alan Jones allegedly kissed 17yo student at property, court told",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
+          "imageUrl": "https://i.guim.co.uk/img/media/a6374f12b60a44a6abb34052845b502e3ac5c53c/336_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=614730a8b0c1b9c51a8e712ce21c6afc",
+          "imageAlt": "Alan Jones trial live updates: former radio broadcaster's indecent assault case in Sydney court – latest news",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "The making of Alan Jones, the Australian radio host on trial for indecent assault – video",
+          "summary": "The making of Alan Jones, the Australian radio host on trial for indecent assault – video. Born in regional Queensland in 1941 or 1943 - depending on who you ask - Alan Jones started his career as a school teacher.\n\nHe ran for politics, and coached Australia's national rugby union team before becoming one of Australia’s highest-paid, most successful talkback radio presenters.\n\n'You can't overestimate how important Alan Jones was for more than 30 years,' says Guardian Australia's Amanda Meade. Now the veteran broadcaster has pleaded not guilty to 20 charges of indecent assault and two.",
           "links": [
             {
               "url": "https://www.theguardian.com/global/video/2026/jul/31/the-rise-and-fall-of-alan-jones-once-one-of-australias-most-influential-radio-hosts-video",
               "source": "The Guardian Australia",
-              "headline": "The rise and fall of Alan Jones, once one of Australia's most influential radio hosts – video",
+              "headline": "The making of Alan Jones, the Australian radio host on trial for indecent assault – video",
               "excerpt": "Born in regional Queensland in 1941 or 1943 - depending on who you ask - Alan Jones started his career as a school teacher. He ran for politics, and coached Australia's national rugby union team before becoming one of Australia’s highest-paid, most successful talkback radio presenters. 'You can't overestimate how important Alan Jones was for more than 30 years,' says Guardian Australia's Amanda Meade. Now the veteran broadcaster has pleaded not guilty to 20 charges of indecent assault and two",
-              "imageUrl": "https://i.guim.co.uk/img/media/cf47ef929e966cefb6ecf2a4ca29fda09a04291e/481_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=15a0454c092cb557c7839caf0c510ee9",
-              "imageAlt": "The rise and fall of Alan Jones, once one of Australia's most influential radio hosts – video",
+              "imageUrl": "https://i.guim.co.uk/img/media/9e687240aff6a9b9b8cc8b1dbf86cacbef1c5f82/190_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=1e456ca7e8de522464d38e85af913cae",
+              "imageAlt": "The making of Alan Jones, the Australian radio host on trial for indecent assault – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -505,37 +485,37 @@
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[9]",
-          "imageUrl": "https://i.guim.co.uk/img/media/cf47ef929e966cefb6ecf2a4ca29fda09a04291e/481_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=15a0454c092cb557c7839caf0c510ee9",
-          "imageAlt": "The rise and fall of Alan Jones, once one of Australia's most influential radio hosts – video",
+          "imageUrl": "https://i.guim.co.uk/img/media/9e687240aff6a9b9b8cc8b1dbf86cacbef1c5f82/190_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=1e456ca7e8de522464d38e85af913cae",
+          "imageAlt": "The making of Alan Jones, the Australian radio host on trial for indecent assault – video",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "The West has become its own worst enemy",
-          "summary": "The West has become its own worst enemy. On 27 January 2024, Iranian-backed militants launched a one-way attack drone at the US base known as Tower 22 in… The post The West has become its own worst enemy appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/07/unlucky-break-all-in-by-claire-powell-reviewe.\n\nSpectator Australia: Down memory lane: It Will Come Back to You, by Sigrid Nunez, reviewed.\n\nSpectator Australia reports that readers of Sigrid Nunez’s long-form fiction will be familiar with her concerns about storytelling: the gaps between what happened, what… The post Down memory lane: It Will Come Back to You, by Sigrid Nunez, reviewed appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"ht.",
+          "title": "What the Odyssey means to America",
+          "summary": "What the Odyssey means to America. In 1899 Jack London, beginning his career as a writer, sold a story to Atlantic Monthly for $120.\n\nDrawing on his experiences during the Klondike gold… The post What the Odyssey means to America appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/07/what-can-europe-expe. Spectator Australia: Depravity of the ABC.\n\nSpectator Australia reports that chairman of the ABC, Kim Williams, and ABC managing director Hugh Marks have managed to drag our blighted public broadcaster… The post Depravity of the ABC appeared first on The Spectator Australia .\n\nWhat to read next: ABC of failure | <a href=\"https://www.spectator.co.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/down-memory-lane-it-will-come-back-to-you-by-sigrid-nunez-reviewed/",
+              "url": "https://www.spectator.com.au/2026/08/depravity-of-the-abc/",
               "source": "Spectator Australia",
-              "headline": "Down memory lane: It Will Come Back to You, by Sigrid Nunez, reviewed",
-              "excerpt": "Readers of Sigrid Nunez’s long-form fiction will be familiar with her concerns about storytelling: the gaps between what happened, what… The post Down memory lane: It Will Come Back to You, by Sigrid Nunez, reviewed appeared first on The Spectator Australia . What to read next: <a href=\"ht",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/3Nunez_42adf2.jpg",
-              "imageAlt": "Down memory lane: It Will Come Back to You, by Sigrid Nunez, reviewed",
+              "headline": "Depravity of the ABC",
+              "excerpt": "Chairman of the ABC, Kim Williams, and ABC managing director Hugh Marks have managed to drag our blighted public broadcaster… The post Depravity of the ABC appeared first on The Spectator Australia . What to read next: ABC of failure | <a href=\"https://www.spectator.co",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/Leader-GettyImages-2268208369.jpeg",
+              "imageAlt": "Depravity of the ABC",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
           "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[10]",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/3Nunez_42adf2.jpg",
-          "imageAlt": "Down memory lane: It Will Come Back to You, by Sigrid Nunez, reviewed",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/07/Leader-GettyImages-2268208369.jpeg",
+          "imageAlt": "Depravity of the ABC",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -602,6 +582,35 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "summary": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life.\n\nPremium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals.\n\nThe Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review",
+              "source": "The Guardian Technology",
+              "headline": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "excerpt": "Premium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals. The Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu",
+              "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+              "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+          "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Could AI take your job? Some workers in China already know the answer",
           "summary": "Could AI take your job? Some workers in China already know the answer.\n\nAcross the country, workers are fearful about the impact of AI on their livelihoods in an increasingly fragile labour market On the tree-lined streets of Wuhan, where cars jostle for space with mopeds and cargo trucks, the malfunctioning of a new type of vehicle has recently been causing chaos on the city’s roads.\n\nIn March, several cars from a fleet of driverless taxis <a href=\"https://www.theguardian.com/technology/2026/apr/01/system-malfunction-causes-robotaxis-to-stall-in-the-.",
           "links": [
@@ -625,7 +634,7 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
           "imageUrl": "https://i.guim.co.uk/img/media/3ce356aad9a745854a5c27720db1c03216959a5a/1364_788_3114_2492/master/3114.jpg?width=140&quality=85&auto=format&fit=max&s=a0ac91e1359cda86ccbab3b9392da136",
           "imageAlt": "Could AI take your job? Some workers in China already know the answer",
           "imageCredit": "The Guardian"
@@ -654,10 +663,238 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
           "imageUrl": "https://i.guim.co.uk/img/media/54833081131fac1f4bb767f87adfa9ba2a069b57/509_0_4516_3617/master/4516.jpg?width=140&quality=85&auto=format&fit=max&s=9a957471130baf2c38ed05dc765acac1",
           "imageAlt": "‘We didn’t feel safe’: Booking.com users face battle to get money back",
           "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Bill seeks to cut red tape in solar home use",
+          "summary": "Bill seeks to cut red tape in solar home use. MANILA, Philippines — A bill seeking to ease regulatory burdens on alternative home power systems was filed on July 29 by House Speaker Faustino “Bojie” Dy III and Majority Leader Ferdinand Alexander “Sandro” Marcos III.\n\nHouse Bill No. 10431 removes “unnecessary barriers” that have stifled adoption of alternative power sources such as rooftop solar panels.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2275769/bill-seeks-to-cut-red-tape-in-solar-home-use",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Bill seeks to cut red tape in solar home use",
+              "excerpt": "MANILA, Philippines — A bill seeking to ease regulatory burdens on alternative home power systems was filed on July 29 by House Speaker Faustino “Bojie” Dy III and Majority Leader Ferdinand Alexander “Sandro” Marcos III. House Bill No. 10431 removes “unnecessary barriers” that have stifled adoption of alternative power sources such as rooftop solar panels",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/solarpanelenergy-compositeimage-16april2026-2048x1262-1.jpg",
+              "imageAlt": "Bill seeks to cut red tape in solar home use",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "article-text: Right cue(s): (tax cuts|red tape|small business|property rights|free speech)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/solarpanelenergy-compositeimage-16april2026-2048x1262-1.jpg",
+          "imageAlt": "Bill seeks to cut red tape in solar home use",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Rockfall hits Aurora road as TD Luis brings heavy rains",
+          "summary": "Rockfall hits Aurora road as TD Luis brings heavy rains. SAN ANTONIO, Zambales — Continuous rains brought by Tropical Depression Luis dislodged boulders and rocks that blocked a road in Barangay Dianed, Dipaculao, Aurora, on Monday, prompting local officials to warn motorists of possible landslides.\n\nVillage officials advised motorists to slow down when passing through the affected area, avoid the route unless travel is necessary,. Rappler: Tropical Depression Luis barely moving off Aurora.\n\nRappler reports that floods and landslides are possible as Tropical Depression Luis brings moderate to intense rain on Monday, August 3.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2275922/rockfall-hits-aurora-road-as-td-luis-brings-heavy-rains",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Rockfall hits Aurora road as TD Luis brings heavy rains",
+              "excerpt": "SAN ANTONIO, Zambales — Continuous rains brought by Tropical Depression Luis dislodged boulders and rocks that blocked a road in Barangay Dianed, Dipaculao, Aurora, on Monday, prompting local officials to warn motorists of possible landslides. Village officials advised motorists to slow down when passing through the affected area, avoid the route unless travel is necessary,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Rockfall-atrikes-Aurora-road-as-Luis-brings-heavy-rains-August-3-.jpg",
+              "imageAlt": "Rockfall hits Aurora road as TD Luis brings heavy rains",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-3-2026-5am/",
+              "source": "Rappler World",
+              "headline": "Tropical Depression Luis barely moving off Aurora",
+              "excerpt": "Floods and landslides are possible as Tropical Depression Luis brings moderate to intense rain on Monday, August 3",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/08/luis-track-august-3-2026-5am-scaled.png",
+              "imageAlt": "Tropical Depression Luis barely moving off Aurora",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Rockfall-atrikes-Aurora-road-as-Luis-brings-heavy-rains-August-3-.jpg",
+          "imageAlt": "Rockfall hits Aurora road as TD Luis brings heavy rains",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "15 boxes of ‘confidential funds’ documents presented in Duterte trial",
+          "summary": "15 boxes of ‘confidential funds’ documents presented in Duterte trial. MANILA, Philippines— The House prosecution team on Monday brought before the Senate impeachment court 15 boxes of documents pertaining to “confidential funds” allegedly released to Vice President Sara Duterte.\n\nPrivate prosecutor Lorna Kapunan mentioned about the 15 boxes labeled as “confidential funds” after calling to the witness stand, Roderick Wamil, a former state auditor of the Commission on Audit’s.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2276024/15-boxes-of-confidential-funds-documents-presented-in-duterte-trial",
+              "source": "Philippine Daily Inquirer",
+              "headline": "15 boxes of ‘confidential funds’ documents presented in Duterte trial",
+              "excerpt": "MANILA, Philippines— The House prosecution team on Monday brought before the Senate impeachment court 15 boxes of documents pertaining to “confidential funds” allegedly released to Vice President Sara Duterte. Private prosecutor Lorna Kapunan mentioned about the 15 boxes labeled as “confidential funds” after calling to the witness stand, Roderick Wamil, a former state auditor of the Commission on Audit’s",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/03augist2026-impeach9.jpg",
+              "imageAlt": "15 boxes of ‘confidential funds’ documents presented in Duterte trial",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/03augist2026-impeach9.jpg",
+          "imageAlt": "15 boxes of ‘confidential funds’ documents presented in Duterte trial",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Razon-led Negros power backs rate cut push",
+          "summary": "Razon-led Negros power backs rate cut push. BACOLOD CITY, NEGROS OCCIDENTAL, Philippines — Tycoon Enrique Razon Jr.’s Negros Electric and Power Corp.\n\n(Negros Power) on Sunday expressed its full support for President Marcos’ initiative to reduce electricity costs, describing it as a “significant step” toward providing meaningful relief to Filipino consumers and making power more affordable.\n\nFollowing the President’s announcement during his.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2275779/razon-led-negros-power-backs-rate-cut-push",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Razon-led Negros power backs rate cut push",
+              "excerpt": "BACOLOD CITY, NEGROS OCCIDENTAL, Philippines — Tycoon Enrique Razon Jr.’s Negros Electric and Power Corp. (Negros Power) on Sunday expressed its full support for President Marcos’ initiative to reduce electricity costs, describing it as a “significant step” toward providing meaningful relief to Filipino consumers and making power more affordable. Following the President’s announcement during his",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/08/power-line-Murcia-Negros-Occidental-to-the-Alijis-Feeder-3-in-Bacolod-City-27August2024.jpg",
+              "imageAlt": "Razon-led Negros power backs rate cut push",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/08/power-line-Murcia-Negros-Occidental-to-the-Alijis-Feeder-3-in-Bacolod-City-27August2024.jpg",
+          "imageAlt": "Razon-led Negros power backs rate cut push",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Marcoleta enters no plea in Sandigan case due to pending SC petitions",
+          "summary": "Marcoleta enters no plea in Sandigan case due to pending SC petitions.\n\nMANILA, Philippines — Sen. Rodante Marcoleta on Monday refused to enter a plea in one of his cases in alleged violation of a presidential decree that prohibits government officials from receiving, and private individuals from conferring, gifts filed in the Sandiganbayan First Division.\n\nMarcoleta’s lawyer Moises Tolentino Jr. said Marcoleta made this move due to pending petitions before.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2275979/marcoleta-enters-no-plea-in-sandigan-case-due-to-pending-sc-petitions",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Marcoleta enters no plea in Sandigan case due to pending SC petitions",
+              "excerpt": "MANILA, Philippines — Sen. Rodante Marcoleta on Monday refused to enter a plea in one of his cases in alleged violation of a presidential decree that prohibits government officials from receiving, and private individuals from conferring, gifts filed in the Sandiganbayan First Division. Marcoleta’s lawyer Moises Tolentino Jr. said Marcoleta made this move due to pending petitions before",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/03july2026-marcoleta.jpg",
+              "imageAlt": "Marcoleta enters no plea in Sandigan case due to pending SC petitions",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/03july2026-marcoleta.jpg",
+          "imageAlt": "Marcoleta enters no plea in Sandigan case due to pending SC petitions",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "summary": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes. Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+              "source": "Wall Street Journal",
+              "headline": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "excerpt": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+              "imageUrl": "",
+              "imageAlt": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]"
+        },
+        {
+          "title": "What’s the best handheld mini fan?",
+          "summary": "What’s the best handheld mini fan?. From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+              "source": "TechCrunch",
+              "headline": "What’s the best handheld mini fan?",
+              "excerpt": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/mini-fans-review.jpg?resize=1200,675",
+              "imageAlt": "What’s the best handheld mini fan?",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/mini-fans-review.jpg?resize=1200,675",
+          "imageAlt": "What’s the best handheld mini fan?",
+          "imageCredit": "TechCrunch"
         },
         {
           "title": "The great British switch-off: how floating retreats, mobile-free pubs and sauna book groups are freeing people from their smartphones",
@@ -683,212 +920,36 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
           "imageUrl": "https://i.guim.co.uk/img/media/6b42c3746cfdd05043f25836119a504f5e5340d7/460_0_4835_3868/master/4835.jpg?width=140&quality=85&auto=format&fit=max&s=e446cd4d18e6f237ebb864b0c951ae08",
           "imageAlt": "The great British switch-off: how floating retreats, mobile-free pubs and sauna book groups are freeing people from their smartphones",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Former Zamboanga del Norte Rep. Romeo Jalosjos Sr. dies at 85",
-          "summary": "Former Zamboanga del Norte Rep. Romeo Jalosjos Sr. dies at 85. PAGADIAN CITY, Zamboanga del Sur – Former Zamboanga del Norte Rep. Romeo “Nonong” Garcia Jalosjos Sr.\n\n(1st District) passed away on Sunday.\n\nHe was 85. Seth Frederick Pal Jalosjos, former Zamboanga del Norte 1st District representative and Dapitan City mayor, announced the passing of his father on social media on Sunday evening.\n\n“It is with. Rappler: Romeo Jalosjos, former Zamboanga del Norte congressman, dies at 85.\n\nRappler reports that the wake and viewing services will be held at The Heritage Park in Taguig City from August 3 to 5, and will then be moved to the family-owned Gloria de Dapitan Complex in Dapitan City from August 6 to August 12.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2275714/former-zamboanga-del-norte-rep-romeo-jalosjos-sr-dies-at-85",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Former Zamboanga del Norte Rep. Romeo Jalosjos Sr. dies at 85",
-              "excerpt": "PAGADIAN CITY, Zamboanga del Sur – Former Zamboanga del Norte Rep. Romeo “Nonong” Garcia Jalosjos Sr. (1st District) passed away on Sunday. He was 85. Seth Frederick Pal Jalosjos, former Zamboanga del Norte 1st District representative and Dapitan City mayor, announced the passing of his father on social media on Sunday evening. “It is with",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Former-Zamboanga-del-Norte-Rep-Romeo-Nonong-Garcia-Jalosjos-Sr-2August2026.jpg",
-              "imageAlt": "Former Zamboanga del Norte Rep. Romeo Jalosjos Sr. dies at 85",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/people/obituary/romeo-jalosjos-former-zamboanga-del-norte-congressman-dies/",
-              "source": "Rappler World",
-              "headline": "Romeo Jalosjos, former Zamboanga del Norte congressman, dies at 85",
-              "excerpt": "The wake and viewing services will be held at The Heritage Park in Taguig City from August 3 to 5, and will then be moved to the family-owned Gloria de Dapitan Complex in Dapitan City from August 6 to August 12.",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/08/Jalosjos-b.jpg",
-              "imageAlt": "Romeo Jalosjos, former Zamboanga del Norte congressman, dies at 85",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Former-Zamboanga-del-Norte-Rep-Romeo-Nonong-Garcia-Jalosjos-Sr-2August2026.jpg",
-          "imageAlt": "Former Zamboanga del Norte Rep. Romeo Jalosjos Sr. dies at 85",
-          "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "PNP boosts surveillance, Asean intel-sharing to curb smuggling",
-          "summary": "PNP boosts surveillance, Asean intel-sharing to curb smuggling. MANILA, Philippines—The Philippine National Police (PNP) is intensifying surveillance operations and expanding coordination with Southeast Asian law enforcement agencies in its the crackdown on smuggling, especially cigarettes.\n\n“The PNP is crafting measures with its regional counterparts to heighten border patrols against smuggling as well as trace and identify the origin of these contraband,” said PNP.",
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "summary": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack.\n\nSome of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2275680/pnp-boosts-surveillance-asean-intel-sharing-to-curb-smuggling",
-              "source": "Philippine Daily Inquirer",
-              "headline": "PNP boosts surveillance, Asean intel-sharing to curb smuggling",
-              "excerpt": "MANILA, Philippines—The Philippine National Police (PNP) is intensifying surveillance operations and expanding coordination with Southeast Asian law enforcement agencies in its the crackdown on smuggling, especially cigarettes. “The PNP is crafting measures with its regional counterparts to heighten border patrols against smuggling as well as trace and identify the origin of these contraband,” said PNP",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/03/cigarette-smuggling-scaled.jpg",
-              "imageAlt": "PNP boosts surveillance, Asean intel-sharing to curb smuggling",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/03/cigarette-smuggling-scaled.jpg",
-          "imageAlt": "PNP boosts surveillance, Asean intel-sharing to curb smuggling",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "QC enacts ordinance on long-term support of cooperatives",
-          "summary": "QC enacts ordinance on long-term support of cooperatives. MANILA, Philippines — Quezon City on Sunday announced the enactment of a comprehensive Cooperative Code that institutionalizes long-term support for cooperatives.\n\nOrdinance No.\n\nSP-3526, S-2026, known as the Quezon City Cooperative Code, establishes a unified policy framework for cooperative development in the city, strengthening local programs and regulations in line with Republic Act No. 9520.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2275655/qc-enacts-ordinance-on-long-term-support-of-cooperatives",
-              "source": "Philippine Daily Inquirer",
-              "headline": "QC enacts ordinance on long-term support of cooperatives",
-              "excerpt": "MANILA, Philippines — Quezon City on Sunday announced the enactment of a comprehensive Cooperative Code that institutionalizes long-term support for cooperatives. Ordinance No. SP-3526, S-2026, known as the Quezon City Cooperative Code, establishes a unified policy framework for cooperative development in the city, strengthening local programs and regulations in line with Republic Act No. 9520",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/07/Quezon-City-Hall.jpg",
-              "imageAlt": "QC enacts ordinance on long-term support of cooperatives",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/07/Quezon-City-Hall.jpg",
-          "imageAlt": "QC enacts ordinance on long-term support of cooperatives",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Cloud seeding boosts Magat Dam water level, irrigation execs say",
-          "summary": "Cloud seeding boosts Magat Dam water level, irrigation execs say. RAMON, Isabela, Philippines — Cloud-seeding operations conducted over the past several days have helped raise the water level of Magat Dam, providing relief to farmers and irrigation authorities amid prolonged dry conditions, officials said on Sunday, Aug.\n\n2. Records from the National Irrigation Administration’s (NIA) Magat River Integrated Irrigation System showed that the dam’s reservoir.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2275616/cloud-seeding-boosts-magat-dam-water-level-irrigation-execs-say",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Cloud seeding boosts Magat Dam water level, irrigation execs say",
-              "excerpt": "RAMON, Isabela, Philippines — Cloud-seeding operations conducted over the past several days have helped raise the water level of Magat Dam, providing relief to farmers and irrigation authorities amid prolonged dry conditions, officials said on Sunday, Aug. 2. Records from the National Irrigation Administration’s (NIA) Magat River Integrated Irrigation System showed that the dam’s reservoir",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/A-Piper-Cub-aircraft-prepares-for-takeoff-on-July-30-in-Isabela-for-cloud-seeding-operations-aimed-at-boosting-rainfall-and-replenishing-water-supplies-in-the-Magat-Dam-watershed.-The-Department-o.png",
-              "imageAlt": "Cloud seeding boosts Magat Dam water level, irrigation execs say",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+              "source": "Wall Street Journal",
+              "headline": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "excerpt": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+              "imageUrl": "",
+              "imageAlt": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/A-Piper-Cub-aircraft-prepares-for-takeoff-on-July-30-in-Isabela-for-cloud-seeding-operations-aimed-at-boosting-rainfall-and-replenishing-water-supplies-in-the-Magat-Dam-watershed.-The-Department-o.png",
-          "imageAlt": "Cloud seeding boosts Magat Dam water level, irrigation execs say",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Mikee Romero, other reservists ease surrender of ASG backers, guns",
-          "summary": "Mikee Romero, other reservists ease surrender of ASG backers, guns. MANILA, Philippines — Three former supporters of the Abu Sayyaf Group, bearing 18 high-powered firearms, voluntarily surrendered to the Philippine Army in Basilan, facilitated by reservist Brig.\n\nGen.\n\nMichael “Mikee” Romero, a former House deputy speaker, and officers of the Association of Reservists and Reservist Administrators of the Philippines (ARRAPI). The former ASG supporters and.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2275696/mikee-romero-other-reservists-ease-surrender-of-asg-backers-guns",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Mikee Romero, other reservists ease surrender of ASG backers, guns",
-              "excerpt": "MANILA, Philippines — Three former supporters of the Abu Sayyaf Group, bearing 18 high-powered firearms, voluntarily surrendered to the Philippine Army in Basilan, facilitated by reservist Brig. Gen. Michael “Mikee” Romero, a former House deputy speaker, and officers of the Association of Reservists and Reservist Administrators of the Philippines (ARRAPI). The former ASG supporters and",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/MikeeRomero-MujivHataman-AGSbackers-02Aug2026.jpg",
-              "imageAlt": "Mikee Romero, other reservists ease surrender of ASG backers, guns",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/MikeeRomero-MujivHataman-AGSbackers-02Aug2026.jpg",
-          "imageAlt": "Mikee Romero, other reservists ease surrender of ASG backers, guns",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "What’s the best handheld mini fan?",
-          "summary": "What’s the best handheld mini fan?. From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-              "source": "TechCrunch",
-              "headline": "What’s the best handheld mini fan?",
-              "excerpt": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/mini-fans-review.jpg?resize=1200,675",
-              "imageAlt": "What’s the best handheld mini fan?",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/mini-fans-review.jpg?resize=1200,675",
-          "imageAlt": "What’s the best handheld mini fan?",
-          "imageCredit": "TechCrunch"
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]"
         },
         {
           "title": "‘A universal human story’: Clean Start’s thought-provoking tidying sim tells immigrant’s tale",
@@ -914,96 +975,9 @@
             }
           ],
           "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
           "imageUrl": "https://i.guim.co.uk/img/media/655a0cef4123e7901ca3f49e7d6f34797c77fea7/460_12_1322_1057/master/1322.jpg?width=140&quality=85&auto=format&fit=max&s=2251495ecf3d21ce53c4018841304794",
           "imageAlt": "‘A universal human story’: Clean Start’s thought-provoking tidying sim tells immigrant’s tale",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "A self-emptying, frictionless marvel: Shark PowerDetect Speed Clean and Empty Pet Pro review",
-          "summary": "A self-emptying, frictionless marvel: Shark PowerDetect Speed Clean and Empty Pet Pro review. Shark’s cordless vacuum is a whiz at cleaning hard floors and pet hair, but a disarmingly short battery life caught our reviewer off guard • The best cordless vacuum cleaners – tested Vacuuming rarely starts with vacuuming.\n\nFirst you have to clear the floor of stray socks and abandoned toys left behind by children, pets or messy partners. Then there’s the irritation of.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2026/jul/28/shark-powerdetect-speed-clean-and-empty-pet-pro-review",
-              "source": "The Guardian Technology",
-              "headline": "A self-emptying, frictionless marvel: Shark PowerDetect Speed Clean and Empty Pet Pro review",
-              "excerpt": "Shark’s cordless vacuum is a whiz at cleaning hard floors and pet hair, but a disarmingly short battery life caught our reviewer off guard • The best cordless vacuum cleaners – tested Vacuuming rarely starts with vacuuming. First you have to clear the floor of stray socks and abandoned toys left behind by children, pets or messy partners. Then there’s the irritation of",
-              "imageUrl": "https://i.guim.co.uk/img/media/a35796d474e0970c3d5fc414aabedf20f47c104f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bf976c5dd60125be7d0cc04dd5b90846",
-              "imageAlt": "A self-emptying, frictionless marvel: Shark PowerDetect Speed Clean and Empty Pet Pro review",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
-          "imageUrl": "https://i.guim.co.uk/img/media/a35796d474e0970c3d5fc414aabedf20f47c104f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bf976c5dd60125be7d0cc04dd5b90846",
-          "imageAlt": "A self-emptying, frictionless marvel: Shark PowerDetect Speed Clean and Empty Pet Pro review",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "What do you wish you could buy in vending machines?",
-          "summary": "What do you wish you could buy in vending machines?. The long-running series in which readers answer other readers’ questions commits the cash and presses the buttons on a vital consumer dilemma Read this week’s replies: What is the true Breakfast of Champions?\n\nI’ve heard that in Germany you can buy sausages in vending machines.\n\nWhat should be sold in machines that isn’t offered at the moment? Sybil Freestone, Oregon<.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/lifeandstyle/2026/aug/02/what-do-you-wish-you-could-buy-in-vending-machines",
-              "source": "The Guardian Technology",
-              "headline": "What do you wish you could buy in vending machines?",
-              "excerpt": "The long-running series in which readers answer other readers’ questions commits the cash and presses the buttons on a vital consumer dilemma Read this week’s replies: What is the true Breakfast of Champions? I’ve heard that in Germany you can buy sausages in vending machines. What should be sold in machines that isn’t offered at the moment? Sybil Freestone, Oregon<",
-              "imageUrl": "https://i.guim.co.uk/img/media/e86fec0a8d4e0fe65e7193772213098ede225ea4/215_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=6aa6e296eeb81babf9a4352e45cfb38c",
-              "imageAlt": "What do you wish you could buy in vending machines?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]",
-          "imageUrl": "https://i.guim.co.uk/img/media/e86fec0a8d4e0fe65e7193772213098ede225ea4/215_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=6aa6e296eeb81babf9a4352e45cfb38c",
-          "imageAlt": "What do you wish you could buy in vending machines?",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "German chancellor chooses pope’s AI encyclical over pacy potboiler as holiday read",
-          "summary": "German chancellor chooses pope’s AI encyclical over pacy potboiler as holiday read.\n\nWith his popularity at a record low, Friedrich Merz packs the papal guide Magnifica humanitas Europe live – latest updates Summer is normally thought of as the time for pacy potboilers and brain-soothing page-turners – airport reads that wind up sandy and sunscreen-stained.\n\nNot so for <a href=\"https://www.theguardian.com/.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/world/2026/jul/30/german-chancellor-friedrich-merz-chooses-pope-leo-encyclical-for-beach-read",
-              "source": "The Guardian Technology",
-              "headline": "German chancellor chooses pope’s AI encyclical over pacy potboiler as holiday read",
-              "excerpt": "With his popularity at a record low, Friedrich Merz packs the papal guide Magnifica humanitas Europe live – latest updates Summer is normally thought of as the time for pacy potboilers and brain-soothing page-turners – airport reads that wind up sandy and sunscreen-stained. Not so for <a href=\"https://www.theguardian.com/",
-              "imageUrl": "https://i.guim.co.uk/img/media/d86fba33f357896344e8025db004610e2f18da56/514_0_5144_4115/master/5144.jpg?width=140&quality=85&auto=format&fit=max&s=bfb137230d8a6c40bc1801fcee44e008",
-              "imageAlt": "German chancellor chooses pope’s AI encyclical over pacy potboiler as holiday read",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]",
-          "imageUrl": "https://i.guim.co.uk/img/media/d86fba33f357896344e8025db004610e2f18da56/514_0_5144_4115/master/5144.jpg?width=140&quality=85&auto=format&fit=max&s=bfb137230d8a6c40bc1801fcee44e008",
-          "imageAlt": "German chancellor chooses pope’s AI encyclical over pacy potboiler as holiday read",
           "imageCredit": "The Guardian"
         }
       ]
