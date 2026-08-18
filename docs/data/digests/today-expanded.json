@@ -2,23 +2,153 @@
   "id": "2026-08-18-expanded",
   "date": "2026-08-18",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-08-18T03:00:15.909901",
+  "generatedAt": "2026-08-18T12:30:47.524433",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-08-18T03:00:15",
+  "updatedAt": "2026-08-18T12:30:47",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Hayden Panettiere Autopsy Reveals New Details Of Her Death",
-          "summary": "Hayden Panettiere Autopsy Reveals New Details Of Her Death. The autopsy for actress Hayden Panettiere has revealed more information about her shocking death at the age of 36.\n\nThe Greenville County Coroner’s Office delivered an initial statement on the “Nashville” actress’s post-mortem, saying that her body had not shown visible “signs of trauma” at the time of her death.\n\n“The decedent has been identified ... BBC: Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'.\n\nBBC reports that the US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+          "title": "Trump Orders Reduced South Korea Military Exercises, Citing Friendship with Kim Jong-un",
+          "summary": "US President Donald Trump announced on Sunday night that he has ordered a substantial reduction in the scale of \"Ulchi Freedom Shield,\" annual joint military exercises with South Korea. The drills were expected to begin on Monday, but Trump directed Secretary of War Pete Hegseth to cut back their scope.\n\nThe decision was framed around diplomatic engagement rather than security concerns alone. Trump cited his “very good relationship” with North Korean leader Kim Jong Un and said that talking to Kim makes South Korea safer.\n\nAl Jazeera reported that Kim has responded “very positively” to the approach, while BBC World described the move as a notable shift in US posture toward both Koreas.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump says talking to North Korea’s Kim makes the south safer",
+              "excerpt": "US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787018200.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Trump says talking to North Korea’s Kim makes the south safer",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "BBC breaks down Trump's latest shift on North and South Korea",
+              "excerpt": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
+              "imageAlt": "BBC breaks down Trump's latest shift on North and South Korea",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/asia/2026/08/17/trump-orders-reduced-south-korea-military-exercises-citing-friendship-with-kim-jong-un/",
+              "source": "Breitbart",
+              "headline": "Trump Orders Reduced South Korea Military Exercises, Citing Friendship with Kim Jong-un",
+              "excerpt": "President Donald Trump announced on Sunday night that he had ordered Secretary of War Pete Hegseth to \"substantially reduce\" the scale of \"Ulchi Freedom Shield,\" joint military exercises with South Korea that take place annually and are expected to begin on Monday. The post Trump Orders Reduced South Korea Military Exercises, Citing",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-2286566991-640x335.png",
+              "imageAlt": "Trump Orders Reduced South Korea Military Exercises, Citing Friendship with Kim Jong-un",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787018200.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Trump says talking to North Korea’s Kim makes the south safer",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Supreme Court Denies Trump Request to Reconsider Appeal of E. Jean Carroll Lawsuit",
+          "summary": "The U.S. Supreme Court has denied President Donald Trump's request to reconsider his appeal in the civil lawsuit brought by writer E. Jean Carroll.\n\nThe decision marks a second legal setback for Trump in the case involving allegations of sexual abuse from 1996 and subsequent defamation claims.\n\nTrump had previously been ordered to pay more than $5 million in damages, which he has already settled.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
+              "excerpt": "E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260817__C4V989F__v1__HighRes__FilesComboUsPoliticsJusticeTrumpCarroll-1786994601.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+              "excerpt": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
+              "imageAlt": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/08/17/supreme-court-denies-trump-request-reconsider-appeal-e-jean-carroll-lawsuit/",
+              "source": "Breitbart",
+              "headline": "Supreme Court Denies Trump Request to Reconsider Appeal of E. Jean Carroll Lawsuit",
+              "excerpt": "The Supreme Court denied a request from President Donald Trump to reconsider his appeal of writer E. Jean Carroll's $5 million lawsuit on Monday. The post Supreme Court Denies Trump Request to Reconsider Appeal of E. Jean Carroll Lawsuit appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/E-Jean-Carroll-court-Sept6-2024-file-NYC-getty-640x335.jpg",
+              "imageAlt": "Supreme Court Denies Trump Request to Reconsider Appeal of E. Jean Carroll Lawsuit",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260817__C4V989F__v1__HighRes__FilesComboUsPoliticsJusticeTrumpCarroll-1786994601.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Actress Hayden Panettiere Dead At 36",
+          "summary": "Actress Hayden Panettiere has died at the age of 36. A representative confirmed the news on Sunday in a statement shared with ABC News, describing her as \"beloved\" and expressing profound sadness over her passing.\n\nPanettiere was best known for her roles in the NBC drama Heroes and the television series Nashville. She also appeared in the Scream franchise.\n\nTributes have emerged following the announcement of her death. A coroner's report indicated there were no signs of trauma, according to BBC reporting.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
               "headline": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
               "excerpt": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23a/live/d8efa640-9a0e-11f1-a05c-fdd5e0ed226e.jpg",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14ea8240-9a6a-11f1-b792-a710e56a11dc.jpg",
               "imageAlt": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
               "outlet": "BBC",
               "sourceBias": "Center",
@@ -33,12 +163,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/entertainment/2026/08/17/hayden-panettiere-celebrities-pay-tribute-to-late-nashville-star/",
+              "url": "https://www.breitbart.com/entertainment/2026/08/16/scream-franchise-star-hayden-panettiere-dead-36/",
               "source": "Breitbart",
-              "headline": "Hayden Panettiere: Celebrities Pay Tribute to Late ‘Nashville’ Star",
-              "excerpt": "Celebrities are paying tribute to late Heroes and Nashville star Hayden Panettiere. The post Hayden Panettiere: Celebrities Pay Tribute to Late ‘Nashville’ Star appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Hayden-Panettiere-640x335.jpg",
-              "imageAlt": "Hayden Panettiere: Celebrities Pay Tribute to Late ‘Nashville’ Star",
+              "headline": "'Scream' Franchise Star Hayden Panettiere Dead at 36",
+              "excerpt": "Actress Hayden Panettiere, one of the many stars who graced the Scream franchise, died this weekend at the young age of 36. The post ‘Scream’ Franchise Star Hayden Panettiere Dead at 36 appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/filephoto2022-Hayden-Panettiere-LA-getty-640x335.jpg",
+              "imageAlt": "'Scream' Franchise Star Hayden Panettiere Dead at 36",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -51,33 +181,32 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/hayden-panettiere-autopsy-reveals-new-details-of-her-death",
+              "url": "https://www.dailywire.com/news/actress-hayden-panetierre-dead-at-36",
               "source": "Daily Wire",
-              "headline": "Hayden Panettiere Autopsy Reveals New Details Of Her Death",
-              "excerpt": "The autopsy for actress Hayden Panettiere has revealed more information about her shocking death at the age of 36. The Greenville County Coroner’s Office delivered an initial statement on the “Nashville” actress’s post-mortem, saying that her body had not shown visible “signs of trauma” at the time of her death. “The decedent has been identified ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2023/03/Hayden-Panettiere-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Hayden Panettiere Autopsy Reveals New Details Of Her Death",
+              "headline": "Actress Hayden Panettiere Dead At 36",
+              "excerpt": "Actress Hayden Panettiere, best known for roles in “Nashville” and the NBC drama “Heroes,” has died at the age of 36. A representative for the actress confirmed the news on Sunday in a statement delivered first to ABC News: “It is with profound sadness that we share the tragic passing of our beloved Hayden. She ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/05/Hayden-Panettiere.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Actress Hayden Panettiere Dead At 36",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[0]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23a/live/d8efa640-9a0e-11f1-a05c-fdd5e0ed226e.jpg",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14ea8240-9a6a-11f1-b792-a710e56a11dc.jpg",
           "imageAlt": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
           "imageCredit": "BBC"
         },
         {
           "title": "Trump Threatens To Bomb Another Middle Eastern Country",
-          "summary": "Trump Threatens To Bomb Another Middle Eastern Country. As the 60-day memorandum of understanding with Iran expired on Monday, President Donald Trump delivered a blunt message to the regime, while warning that if Oman gets in the way of U.S. efforts in the Strait of Hormuz, “we’ll bomb the sh*t out of them.” Speaking with Fox News, the president said Iran should “put ...\n\nBBC: Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal. BBC reports that trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+          "summary": "President Donald Trump has threatened to bomb Oman if it interferes with U.S. efforts in the Strait of Hormuz, according to remarks made on Fox News.\n\nThe comments came as a 60-day memorandum of understanding with Iran expired on Monday. The president warned that if Oman gets in the way of American operations in the region, “we’ll bomb the sh*t out of them.”\n\nOman has been holding its own talks with Iran to reopen the Strait of Hormuz. BBC reports frame the threat as directed at a U.S. ally, while Daily Wire describes it as part of a broader warning to the Iranian regime.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
@@ -115,43 +244,24 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/17/donald-trump-threatens-bomb-oman-gets-way-iran-negotiations/",
-              "source": "Washington Times",
-              "headline": "Trump threatens to bomb Oman if it 'gets in the way' of Iran negotiations",
-              "excerpt": "President Trump unleashed an expletive-laced threat toward Oman Monday, saying he would bomb the Middle East nation if it disrupts negotiations with Iran over the Strait of Hormuz.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/15/Trump_Dodging_Responsibility_78623_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump threatens to bomb Oman if it 'gets in the way' of Iran negotiations",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[1]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg",
           "imageAlt": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
           "imageCredit": "BBC"
         },
         {
-          "title": "UK Prime Minister Andy Burnham Duped by Hoax White House Messages",
-          "summary": "UK Prime Minister Andy Burnham Duped by Hoax White House Messages. UK Prime Minister Andy Burnham has been left red faced and embarrassed by a hoaxer posing as the chief of staff to U.S. President Donald Trump who tricked him into exchanging messages in a major security breach.\n\nThe post UK Prime Minister Andy Burnham Duped by Hoax White House Messages appeared first on <a rel=\"nofollow\" href=\"https://www.breitbart. Al Jazeera: British PM Burnham duped by White House impostor.\n\nAl Jazeera reports that the FBI has warned of 'malicious actors' misusing AI to impersonate senior government officials.",
+          "title": "Trump approval sinks to new low as voters fear prolonged Iran war: Poll",
+          "summary": "President Donald Trump’s approval rating has fallen to 33%, a new low for the Republican president, according to a Reuters-Ipsos poll released Monday.\n\nThe survey found that voters are increasingly worried about the potential duration of the U.S. conflict with Iran. This concern contributed to a two-point drop in his approval compared to an earlier survey conducted by the same pollster this month.\n\nTrump’s current rating reflects a 31-point difference, underscoring the political impact of the ongoing geopolitical tensions.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
+              "url": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "British PM Burnham duped by White House impostor",
-              "excerpt": "The FBI has warned of 'malicious actors' misusing AI to impersonate senior government officials.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26198477602405-1784460797.jpg?resize=1920%2C1440",
-              "imageAlt": "British PM Burnham duped by White House impostor",
+              "headline": "Trump’s approval rating sinks to new low at 33 percent",
+              "excerpt": "New poll found a majority of US citizens concerned about the US war on Iran.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a836282620e7-1786995330.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump’s approval rating sinks to new low at 33 percent",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -164,31 +274,13 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/08/17/uk-prime-minister-andy-burnham-duped-by-hoax-white-house-messages/",
-              "source": "Breitbart",
-              "headline": "UK Prime Minister Andy Burnham Duped by Hoax White House Messages",
-              "excerpt": "UK Prime Minister Andy Burnham has been left red faced and embarrassed by a hoaxer posing as the chief of staff to U.S. President Donald Trump who tricked him into exchanging messages in a major security breach. The post UK Prime Minister Andy Burnham Duped by Hoax White House Messages appeared first on <a rel=\"nofollow\" href=\"https://www.breitbart",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/burnham-embarrassed-640x335.jpg",
-              "imageAlt": "UK Prime Minister Andy Burnham Duped by Hoax White House Messages",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/17/british-prime-minister-reportedly-exchanged-messages-impostor-top/",
-              "source": "Washington Times",
-              "headline": "British leader reportedly exchanged messages with impostor of top White House official",
-              "excerpt": "British Prime Minister Andy Burnham exchanged messages with an impostor posing as U.S. President Donald Trump's chief of staff, according to reports published Monday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/17/Trump_9693__s1440x963.jpg?6fb357e90856e447e826abad217089687abef4b1",
-              "imageAlt": "British leader reportedly exchanged messages with impostor of top White House official",
-              "outlet": "Washington Times",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4690392/trump-approval-rating-iran-war-poll/",
+              "source": "Washington Examiner",
+              "headline": "Trump approval sinks to new low as voters fear prolonged Iran war: Poll",
+              "excerpt": "President Donald Trump‘s approval rating has sunk to 33%, marking a new low for the Republican as voters worry the U.S. war with Iran may last even longer. The latest Reuters-Ipsos poll, released on Monday, shows Trump fell 2 points lower than the pollster’s prior survey earlier this month. He now has a 31-point difference […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/trump-approval-new-low.jpg?w=696",
+              "imageAlt": "Trump approval sinks to new low as voters fear prolonged Iran war: Poll",
+              "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -200,23 +292,22 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[2]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26198477602405-1784460797.jpg?resize=1920%2C1440",
-          "imageAlt": "British PM Burnham duped by White House impostor",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a836282620e7-1786995330.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump’s approval rating sinks to new low at 33 percent",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Israel agrees to ‘working groups’ for Board of Peace’s demilitarization of Gaza after Kushner meets with Netanyahu and Hamas",
-          "summary": "Israel agrees to ‘working groups’ for Board of Peace’s demilitarization of Gaza after Kushner meets with Netanyahu and Hamas. President Donald Trump’s son-in-law and special envoy, Jared Kushner, has secured Israeli support for continuing the Board of Peace’s plan to demilitarize Gaza after a series of high-profile meetings.\n\nKushner, joined by BOP officials Nickolay Mladenov and Tony Blair, met with Israeli Prime Minister Benjamin Netanyahu on Monday to plead for support after Israel repeatedly […]. Al Jazeera: Palestinians, Israelis sceptical of Gaza plan as Kushner visits region.\n\nAl Jazeera reports that uS envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
+          "title": "Trump indicates US won’t seek memorandum of understanding extension following conclusion of 60-day ceasefire",
+          "summary": "President Donald Trump indicated on Monday that the United States will not seek an extension of the memorandum of understanding with Iran after its 60-day ceasefire expired. The agreement, reached in June, was intended to allow both sides to negotiate a permanent end to the war, but no long-term deal was finalized before the deadline.\n\nSpeaking from the Oval Office, Trump said Iran should “put up the white flag of surrender,” according to Al Jazeera. The outlet also reported that the U.S. claims control of the Strait of Hormuz as tensions remain high following the lapse of the ceasefire framework.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-              "excerpt": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-17.41.44-1786985038.png?resize=1200%2C675",
-              "imageAlt": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+              "headline": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+              "excerpt": "US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2289260016-1786368010.jpg?resize=1920%2C1440",
+              "imageAlt": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -229,12 +320,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/world/4689644/israel-board-peace-gaza-jared-kushner-benjamin-netanyahu/",
+              "url": "https://www.washingtonexaminer.com/policy/defense/4689694/trump-iran-mou-60-day-ceasefire-expires-extention-unlikely/",
               "source": "Washington Examiner",
-              "headline": "Israel agrees to ‘working groups’ for Board of Peace’s demilitarization of Gaza after Kushner meets with Netanyahu and Hamas",
-              "excerpt": "President Donald Trump’s son-in-law and special envoy, Jared Kushner, has secured Israeli support for continuing the Board of Peace’s plan to demilitarize Gaza after a series of high-profile meetings. Kushner, joined by BOP officials Nickolay Mladenov and Tony Blair, met with Israeli Prime Minister Benjamin Netanyahu on Monday to plead for support after Israel repeatedly […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26226028475268.jpg?w=696",
-              "imageAlt": "Israel agrees to ‘working groups’ for Board of Peace’s demilitarization of Gaza after Kushner meets with Netanyahu and Hamas",
+              "headline": "Trump indicates US won’t seek memorandum of understanding extension following conclusion of 60-day ceasefire",
+              "excerpt": "The memorandum of understanding that the United States and Iran agreed to in June called for a 60-day ceasefire so the two sides could negotiate an end to the war, but that time frame expired on Monday without a long-term agreement in place. President Donald Trump indicated in the Oval Office on Monday that he […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26227100327959.jpg?w=696",
+              "imageAlt": "Trump indicates US won’t seek memorandum of understanding extension following conclusion of 60-day ceasefire",
               "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -247,63 +338,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[3]",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-17.41.44-1786985038.png?resize=1200%2C675",
-          "imageAlt": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2289260016-1786368010.jpg?resize=1920%2C1440",
+          "imageAlt": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Supreme Court again rejects Trump's appeal in E. Jean Carroll's $5 million defamation lawsuit",
-          "summary": "Supreme Court again rejects Trump's appeal in E. Jean Carroll's $5 million defamation lawsuit.\n\nThe Supreme Court on Monday again rejected President Trump's request to review a $5 million judgment in New York writer E. Jean Carroll's defamation lawsuit against him.\n\nBBC: Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case. BBC reports that the US president has already paid the writer over $5m in damages in the assault and defamation case.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
-              "excerpt": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
-              "imageAlt": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/17/supreme-court-rejects-trumps-appeal-e-jean-carrolls-5-million/",
-              "source": "Washington Times",
-              "headline": "Supreme Court again rejects Trump's appeal in E. Jean Carroll's $5 million defamation lawsuit",
-              "excerpt": "The Supreme Court on Monday again rejected President Trump's request to review a $5 million judgment in New York writer E. Jean Carroll's defamation lawsuit against him.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/17/Trump_93_39_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Supreme Court again rejects Trump's appeal in E. Jean Carroll's $5 million defamation lawsuit",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[4]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
-          "imageAlt": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Congo's fast-moving Ebola outbreak becomes the country's worst with over 2,300 dead",
-          "summary": "Congo's fast-moving Ebola outbreak becomes the country's worst with over 2,300 dead. Congo's fast-moving Ebola outbreak has now killed over 2,300 people and become the deadliest outbreak of the disease on record in the Central African nation.\n\nBBC: Ebola outbreak in DR Congo becomes deadliest in its history.\n\nBBC reports that the outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
+          "title": "'Ebola Is Winning': Outbreak Becomes Deadliest in DR Congo's History",
+          "summary": "The Ebola outbreak in the Democratic Republic of the Congo has become the deadliest in the country's history. Authorities confirmed that at least 2,325 people have died from infections.\n\nThe crisis is also the fastest-growing on record. It is being driven by a rare strain of the virus known as Bundibugyo.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
@@ -325,76 +367,28 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/17/congos-fast-moving-ebola-outbreak-becomes-countrys-worst-2300-dead/",
-              "source": "Washington Times",
-              "headline": "Congo's fast-moving Ebola outbreak becomes the country's worst with over 2,300 dead",
-              "excerpt": "Congo's fast-moving Ebola outbreak has now killed over 2,300 people and become the deadliest outbreak of the disease on record in the Central African nation.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/12/Congo_Ebola_86663_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Congo's fast-moving Ebola outbreak becomes the country's worst with over 2,300 dead",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[5]",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
-          "imageAlt": "Ebola outbreak in DR Congo becomes deadliest in its history",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Trump’s Break With South Korea Projects Weakness In The Pacific",
-          "summary": "Trump’s Break With South Korea Projects Weakness In The Pacific. Confusing adversaries and allies is a basic foreign policy mistake.\n\nLeveraging enemies to attack friends is a deeper failure.\n\nPresident Trump committed both errors on Sunday when he announced that he was ordering the Pentagon to “substantially reduce the Joint Military Exercises” with South Korea. According to his post on social media, the president’s justifications ...\n\nBreitbart: Trump Orders Reduced South Korea Military Exercises, Citing Friendship with Kim Jong-un.\n\nBreitbart reports that president Donald Trump announced on Sunday night that he had ordered Secretary of War Pete Hegseth to \"substantially reduce\" the scale of \"Ulchi Freedom Shield,\" joint military exercises with South Korea that take place annually and are expected to begin on Monday.\n\nThe post Trump Orders Reduced South Korea Military Exercises, Citing",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/asia/2026/08/17/trump-orders-reduced-south-korea-military-exercises-citing-friendship-with-kim-jong-un/",
+              "url": "https://www.breitbart.com/africa/2026/08/17/ebola-is-winning-outbreak-becomes-deadliest-dr-congos-history/",
               "source": "Breitbart",
-              "headline": "Trump Orders Reduced South Korea Military Exercises, Citing Friendship with Kim Jong-un",
-              "excerpt": "President Donald Trump announced on Sunday night that he had ordered Secretary of War Pete Hegseth to \"substantially reduce\" the scale of \"Ulchi Freedom Shield,\" joint military exercises with South Korea that take place annually and are expected to begin on Monday. The post Trump Orders Reduced South Korea Military Exercises, Citing",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-2286566991-640x335.png",
-              "imageAlt": "Trump Orders Reduced South Korea Military Exercises, Citing Friendship with Kim Jong-un",
+              "headline": "'Ebola Is Winning': Outbreak Becomes Deadliest in DR Congo's History",
+              "excerpt": "The Democratic Republic of the Congo (DRC) confirmed that at least 2,325 people have died of Ebola infections. The post ‘Ebola Is Winning’: Outbreak Becomes Deadliest in DR Congo’s History appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/Ebola-DRC-640x335.jpg",
+              "imageAlt": "'Ebola Is Winning': Outbreak Becomes Deadliest in DR Congo's History",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/trumps-break-with-south-korea-projects-weakness-in-the-pacific",
-              "source": "Daily Wire",
-              "headline": "Trump’s Break With South Korea Projects Weakness In The Pacific",
-              "excerpt": "Confusing adversaries and allies is a basic foreign policy mistake. Leveraging enemies to attack friends is a deeper failure. President Trump committed both errors on Sunday when he announced that he was ordering the Pentagon to “substantially reduce the Joint Military Exercises” with South Korea. According to his post on social media, the president’s justifications ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2243903570.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Trump’s Break With South Korea Projects Weakness In The Pacific",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[6]",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-2286566991-640x335.png",
-          "imageAlt": "Trump Orders Reduced South Korea Military Exercises, Citing Friendship with Kim Jong-un",
-          "imageCredit": "Breitbart"
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
+          "imageAlt": "Ebola outbreak in DR Congo becomes deadliest in its history",
+          "imageCredit": "BBC"
         }
       ]
     },
@@ -402,16 +396,16 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "The end of the Luigi cult",
-          "summary": "The end of the Luigi cult. Americans love their killers.\n\nStill, Luigi Mangione, who shot UnitedHealthcare CEO Brian Thompson dead in December 2024, may be the… The post The end of the Luigi cult appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/08/britains-universities-have-an-english-language-problem. Spectator Australia: Identity politics is modern communism.\n\nSpectator Australia reports that before the pandemic, Black Lives Matter and the #MeToo movement turned identity politics from a niche American slogan into a… The post Identity politics is modern communism appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/08/identity-politics-is-the-root-cause-o.",
+          "title": "The tragedy of Jason Arday",
+          "summary": "Simon Baron-Cohen, a Cambridge autism specialist, has spoken movingly about the death of his friend Jason Arday on BBC radio. The Spectator Australia describes Arday's passing as a tragedy that highlights the human cost of diversity initiatives.\n\nThe outlet frames Arday’s death as dreadful and enraging, arguing it represents the wreckage caused by what it terms the cult of diversity. It suggests that such policies must end to prevent similar outcomes in the future.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/identity-politics-is-modern-communism/",
+              "url": "https://www.spectator.com.au/2026/08/jason-ardays-death-is-dreadful-and-enraging/",
               "source": "Spectator Australia",
-              "headline": "Identity politics is modern communism",
-              "excerpt": "Before the pandemic, Black Lives Matter and the #MeToo movement turned identity politics from a niche American slogan into a… The post Identity politics is modern communism appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/identity-politics-is-the-root-cause-o",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2018/06/GettyImages_508594936.jpg",
-              "imageAlt": "Identity politics is modern communism",
+              "headline": "Jason Arday’s death is dreadful – and enraging",
+              "excerpt": "Behold the human wreckage of the cult of diversity. The tragedy of Jason Arday is that he was both built… The post Jason Arday’s death is dreadful – and enraging appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/dei-must-die-to-prevent-another-jason-arda",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/00f620c0_8dc5_11f1_99b6_11db6bdc35da_03130a.jpg",
+              "imageAlt": "Jason Arday’s death is dreadful – and enraging",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -424,23 +418,22 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[7]",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2018/06/GettyImages_508594936.jpg",
-          "imageAlt": "Identity politics is modern communism",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/00f620c0_8dc5_11f1_99b6_11db6bdc35da_03130a.jpg",
+          "imageAlt": "Jason Arday’s death is dreadful – and enraging",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Court hears boy who died sleeping rough in skip bin was missing for days",
-          "summary": "Court hears boy who died sleeping rough in skip bin was missing for days. An inquest hears harrowing details about the death of a boy who had been sleeping rough in an industrial skip bin at Port Lincoln.\n\nWARNING: Aboriginal and Torres Strait Islander readers are advised that this article contains the name and image of an Indigenous person who has died, used with the permission of their family.",
+          "title": "Four Sydney Swans players linked to Melbourne investigation",
+          "summary": "Four Sydney Swans players have been linked to a Melbourne police investigation. The ABC understands the individuals involved are Chad Warner, Isaac Heeney, James Jordon and Riley Bice.\n\nThe club's coach expressed disappointment regarding the situation. However, there is no confirmation that any of the four were directly involved in the matter under inquiry.\n\nAdditionally, it remains unconfirmed whether all four players have spoken to police about the investigation.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-08-17/inquest-into-death-of-boy-in-industrial-skip-bin-at-port-lincoln/107045488",
+              "url": "https://www.abc.net.au/news/2026-08-18/sydney-swans-melbourne-police-investigation-coach-disappointed/107048672",
               "source": "ABC Australia",
-              "headline": "Court hears boy who died sleeping rough in skip bin was missing for days",
-              "excerpt": "An inquest hears harrowing details about the death of a boy who had been sleeping rough in an industrial skip bin at Port Lincoln. WARNING: Aboriginal and Torres Strait Islander readers are advised that this article contains the name and image of an Indigenous person who has died, used with the permission of their family.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/13719a15b94b837520092869fc5ebed5?impolicy=wcms_crop_resize&cropH=1053&cropW=1872&xPos=31&yPos=17&width=862&height=485",
-              "imageAlt": "Court hears boy who died sleeping rough in skip bin was missing for days",
+              "headline": "Four Sydney Swans players linked to Melbourne investigation",
+              "excerpt": "The ABC understands Chad Warner, Isaac Heeney, James Jordon and Riley Bice are the players linked to the investigation, although there is no confirmation that they were directly involved or that all four have spoken to police.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/cd0ac9fa7b50c2b6dc32e099d8d95790?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
+              "imageAlt": "Four Sydney Swans players linked to Melbourne investigation",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -449,28 +442,27 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[8]",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/13719a15b94b837520092869fc5ebed5?impolicy=wcms_crop_resize&cropH=1053&cropW=1872&xPos=31&yPos=17&width=862&height=485",
-          "imageAlt": "Court hears boy who died sleeping rough in skip bin was missing for days",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/cd0ac9fa7b50c2b6dc32e099d8d95790?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485",
+          "imageAlt": "Four Sydney Swans players linked to Melbourne investigation",
           "imageCredit": "ABC News"
         },
         {
-          "title": "Seven First Nations Australians tell us their worries and hopes for future generations – video",
-          "summary": "Seven First Nations Australians tell us their worries and hopes for future generations – video. East Arnhem Land is one of the last strongholds of Aboriginal culture in Australia, home to the Yolngu people who maintain one of the oldest continuous cultures on Earth.\n\nThe land is fully owned and managed by traditional owners under inalienable Aboriginal freehold title, which means it can never be bought or sold.\n\nEach year the Yolngu host the Garma festival, Australia's largest Indigenous political and cultural gathering, which brings together First Nations leaders from aroun. The Guardian: Garma festival kicks off in Arnhem land.\n\nThe Guardian reports that hosted by the Yothu Yindi Foundation and the local Yolngu people, Garma is an annual celebration of Indigenous culture and tradition, and brings together community leaders, Aboriginal and Torres Strait Islander advocates, policymakers,",
+          "title": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video",
+          "summary": "Armidale, a New South Wales city in Barnaby Joyce’s electorate, has operated as a designated refugee resettlement site since 2018. The town’s experience contrasts with the migration policies now promoted by Joyce after his move from the Nationals to One Nation.\n\nJoyce was previously a key supporter of Armidale’s role in resettling refugees. He later joined One Nation, which advocates for restrictions on migrants who do not speak English.\n\nGuardian Australia reporter Adeshola Ore visited Armidale to discuss these developments with Joyce and local community members.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/video/2026/aug/01/garma-festival-kicks-off-in-arnhem-land",
+              "url": "https://www.theguardian.com/australia-news/video/2026/aug/18/one-nation-wants-to-restrict-migration-a-town-in-barnaby-joyces-electorate-welcomes-it-video",
               "source": "The Guardian Australia",
-              "headline": "Garma festival kicks off in Arnhem land",
-              "excerpt": "Hosted by the Yothu Yindi Foundation and the local Yolngu people, Garma is an annual celebration of Indigenous culture and tradition, and brings together community leaders, Aboriginal and Torres Strait Islander advocates, policymakers, business groups and artists Continue reading...",
-              "imageUrl": "https://i.guim.co.uk/img/media/7d1a28bb1db70d82c5001e8f8c700a7156c04f65/744_361_4734_3788/master/4734.jpg?width=140&quality=85&auto=format&fit=max&s=72c3479dd1c6851925b4baa01d796f5a",
-              "imageAlt": "Garma festival kicks off in Arnhem land",
+              "headline": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video",
+              "excerpt": "Since 2018, the New South Wales city of Armidale has been a designated site for resettling refugees. It's a town that sits within the electorate of Barnaby Joyce. While Joyce was a key voice supporting Armidale's establishment as a refugee resettlement site, he's since defected from the Nationals to One Nation, a party which wants to ban all migrants who don't speak English. Guardian Australia's community affairs reporter Adeshola Ore travels to Armidale to speak with Joyce and community memb",
+              "imageUrl": "https://i.guim.co.uk/img/media/2c1e999d6b17935a3e328e85939b8a798ca007b8/415_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=4c3d5464b7ccdd4757ee30a978ddc9c7",
+              "imageAlt": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -483,15 +475,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[9]",
-          "imageUrl": "https://i.guim.co.uk/img/media/7d1a28bb1db70d82c5001e8f8c700a7156c04f65/744_361_4734_3788/master/4734.jpg?width=140&quality=85&auto=format&fit=max&s=72c3479dd1c6851925b4baa01d796f5a",
-          "imageAlt": "Garma festival kicks off in Arnhem land",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/2c1e999d6b17935a3e328e85939b8a798ca007b8/415_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=4c3d5464b7ccdd4757ee30a978ddc9c7",
+          "imageAlt": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video",
           "imageCredit": "The Guardian"
         },
         {
           "title": "Spain ignites a Third World invasion",
-          "summary": "Spain ignites a Third World invasion. The apocalyptic images of 70,000 illegal immigrants storming into Ceuta, one of Spain’s two territories in North Africa – accompanied,… The post Spain ignites a Third World invasion appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/08/its-a-mad-mad-mad-mad-world/\". Spectator Australia: Business/Robbery, etc.\n\nSpectator Australia reports that last Tuesday’s Census will confirm just how disastrous the impact of fundamental changes in Australia’s housing have been on the… The post Business/Robbery, etc appeared first on The Spectator Australia .\n\nWhat to read next: Business/Robbery, etc | <a href.",
+          "summary": "Spectator Australia reports on a surge of illegal immigrants entering Ceuta, one of Spain's two territories in North Africa. The publication describes the event as an apocalyptic invasion involving approximately 70,000 people.\n\nThe article also references recent census data regarding changes in Australian housing. Spectator Australia suggests that these fundamental shifts have had a disastrous impact on the local market.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/08/business-robbery-etc-149/",
@@ -512,8 +503,7 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[10]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/baume_15_aug_post.jpg",
           "imageAlt": "Business/Robbery, etc",
           "imageCredit": "Spectator Australia"
@@ -525,7 +515,7 @@
       "stories": [
         {
           "title": "YouTube is changing how it counts views to give the numbers a boost",
-          "summary": "YouTube is changing how it counts views to give the numbers a boost. YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts.\n\nTechCrunch: YouTube will now count a view as soon as a video starts playing.\n\nTechCrunch reports that the change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
+          "summary": "YouTube is changing how it counts views to give the numbers a boost. The platform will soon count a view as soon as a video starts to play, aligning its methodology with systems used by Instagram and TikTok.\n\nThis update brings standard long-form videos in line with YouTube Shorts, which adopted this counting approach a year ago. By registering views at the start of playback rather than after a minimum watch time, creators may see higher view counts across their channels.",
           "links": [
             {
               "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
@@ -564,15 +554,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[11]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
           "imageAlt": "YouTube is changing how it counts views to give the numbers a boost",
           "imageCredit": "The Verge"
         },
         {
           "title": "Temperatures to fall across Europe as substantial rain heading for parts of UK",
-          "summary": "Temperatures to fall across Europe as substantial rain heading for parts of UK. Temperatures could drop by more than 15C compared with last Thursday as cold front moves in Relief from the unrelenting heat is finally arriving this week across western Europe, with more unsettled conditions bringing the chance of rain.\n\nTemperatures are expected to fall back towards the seasonal norm, with some parts of the UK even falling about 3C below normal by Thursday. After such a scorching summer, and with a temperature drop of more than 15C compared with last Thursday’s heat, i.",
+          "summary": "Western Europe is set to see a significant shift in weather as temperatures drop and rain arrives. A cold front moving through the region will bring relief from recent heat, with substantial rainfall expected in parts of the UK.\n\nThe temperature decline could be more than 15C compared with last Thursday's peak heat. As conditions become unsettled, some areas of the UK may see temperatures fall about 3C below normal by Thursday.",
           "links": [
             {
               "url": "https://www.theguardian.com/environment/2026/aug/17/temperatures-fall-europe-rain-uk",
@@ -593,15 +582,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[12]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://i.guim.co.uk/img/media/b976ac36df6c886e0342e12493364554b3479870/988_0_4918_3935/master/4918.jpg?width=140&quality=85&auto=format&fit=max&s=c16e5b8ed784c8c68031ca7702fe47c0",
           "imageAlt": "Temperatures to fall across Europe as substantial rain heading for parts of UK",
           "imageCredit": "The Guardian"
         },
         {
           "title": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
-          "summary": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech.\n\nAmid fears for jobs, some film-makers say AI could enable them to bypass studio giants and take more creative risks Near the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up this summer.\n\nThe artists at Promise, a new studio feeding off the potential of AI, can glimpse the lots where Singin’ in the Rain and Men in Black were shot, but no longer do they need to get beyond the studio’s high walls to make their visions come true.",
+          "summary": "A new AI-focused film studio called Promise has opened near Sony Pictures’ historic Culver City lot, positioning itself as a tech-powered alternative to traditional major studios. The development comes amid ongoing debate over artificial intelligence’s role in filmmaking and its potential impact on industry jobs.\n\nSome filmmakers involved with the project argue that AI tools could lower production barriers, allowing independent creators to bypass established studio gatekeepers and pursue more experimental work. Critics, however, remain concerned about labor displacement and the broader implications of replacing traditional production methods with algorithmic processes.",
           "links": [
             {
               "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
@@ -622,15 +610,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[13]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://i.guim.co.uk/img/media/11a00570cfd4542a9e8d2ce575e18f8e04d4853b/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=ad4e0bbdfa2052e704b469deb90c0f74",
           "imageAlt": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
           "imageCredit": "The Guardian"
         },
         {
           "title": "No 10’s ads for a TikTok team show why social media is a smart career move",
-          "summary": "No 10’s ads for a TikTok team show why social media is a smart career move. The Guardian’s deputy editor of social platforms on the demand from high-profile people and brands for help in harnessing the power of TikTok I didn’t want to work in social media.\n\nIf you’d asked 15-year-old me my dream job, I might have said foreign correspondent, or maybe travel writer.\n\nSo you can imagine my surprise to now find myself giving these very colleagues advice on how to get the best selfie angle or write the sharpest TikTok ‘hook’. But taking a job as the Guardian’s d.",
+          "summary": "The Guardian’s deputy editor of social platforms says the UK government’s search for a TikTok team shows how central short-form video has become to public communication. The role reflects growing demand from high-profile figures and institutions for help navigating the platform.\n\nThe editor, who once imagined a career as a foreign correspondent or travel writer, now advises colleagues on tactics such as selfie angles and writing effective TikTok hooks. The shift underscores how social media skills have moved into mainstream professional expectations.",
           "links": [
             {
               "url": "https://www.theguardian.com/media/2026/aug/15/business-critical-why-even-andy-burnham-is-taking-his-social-media-game-seriously",
@@ -651,15 +638,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[14]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://i.guim.co.uk/img/media/b31774b046864cfbf0c4be2faf146e7647563ea1/173_0_779_623/master/779.jpg?width=140&quality=85&auto=format&fit=max&s=a5fd18381580c6967a58adb07bd242ad",
           "imageAlt": "No 10’s ads for a TikTok team show why social media is a smart career move",
           "imageCredit": "The Guardian"
         },
         {
           "title": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-          "summary": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy. A Trump administration framework on AI testing leaves a lack of transparency – and plenty of open questions After months of talking with tech industry leaders, the Trump administration finalized a framework this week for how it will test new artificial intelligence models for safety and cybersecurity risks.\n\nSo far, the White House is keeping details of the framework private, in a blow to transparency and potential boon for secretive AI companies. On Tuesday, staff from OpenAI, Ant.",
+          "summary": "The White House has finalized a framework for testing new artificial intelligence models for safety and cybersecurity risks, but the plan is being kept largely private. The Trump administration spent months consulting with tech industry leaders before releasing the guidelines this week.\n\nCritics note that the secrecy surrounding the framework represents a significant lack of transparency in how potentially dangerous AI systems will be vetted. By withholding details from public view, the process may inadvertently benefit secretive AI companies rather than ensuring broad accountability for emerging technological risks.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
@@ -680,8 +666,7 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[15]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://i.guim.co.uk/img/media/f276d32beb56627ed775be15d1716250d9d0635b/346_0_5808_4648/master/5808.jpg?width=140&quality=85&auto=format&fit=max&s=d45febdc01521852b36c77b333151961",
           "imageAlt": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
           "imageCredit": "The Guardian"
@@ -692,16 +677,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Ospital ng Maynila temporarily closes outpatient dept. due to habagat",
-          "summary": "Ospital ng Maynila temporarily closes outpatient dept. due to habagat. MANILA, Philippines — The Ospital ng Maynila Medical Center announced the temporary closure of its Outpatient Department (OPD) on Tuesday, Aug.\n\n18, due to inclement weather brought by the southwest monsoon, or habagat.\n\nThe hospital informed patients and the public that OPD services would be unavailable for the day as heavy rains continued to affect. Rappler: Sara Duterte’s impeachment trial postponed again due to bad weather.\n\nRappler reports that this is the second time the impeachment court has postponed a trial session due to bad weather. The first was last August 10.",
+          "title": "PNP mobilizes more personnel, vehicles as heavy rains disrupt transport",
+          "summary": "The Philippine National Police (PNP) has mobilized additional personnel and vehicles to assist commuters stranded by heavy rains in Metro Manila and other affected areas. The deployment aims to ferry passengers who are unable to secure public transportation due to flooding caused by the persistent southwest monsoon, or habagat.\n\nAccording to the state weather bureau, the habagat is expected to continue prevailing over parts of Luzon and Visayas on Tuesday. The Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) forecast that these conditions will bring monsoon winds and occasional rains to the regions.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2286573/ospital-ng-maynila-temporarily-closes-outpatient-dept-due-to-habagat",
+              "url": "https://newsinfo.inquirer.net/2286871/habagat-to-persist-over-parts-of-luzon-visayas-tuesday",
               "source": "Philippine Daily Inquirer",
-              "headline": "Ospital ng Maynila temporarily closes outpatient dept. due to habagat",
-              "excerpt": "MANILA, Philippines — The Ospital ng Maynila Medical Center announced the temporary closure of its Outpatient Department (OPD) on Tuesday, Aug. 18, due to inclement weather brought by the southwest monsoon, or habagat. The hospital informed patients and the public that OPD services would be unavailable for the day as heavy rains continued to affect",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/01/BOM.jpeg",
-              "imageAlt": "Ospital ng Maynila temporarily closes outpatient dept. due to habagat",
+              "headline": "Habagat to persist over parts of Luzon, Visayas Tuesday",
+              "excerpt": "MANILA, Philippines — The southwest monsoon will continue to prevail over parts of Luzon and Visayas, bringing monsoon and occasional rains on Tuesday, according to the state weather bureau. In the 5 a.m. weather forecast of the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa), weather specialist Veronica Torres said that the southwest monsoon is",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Satellite-image-captured-at-640-a.m.-on-August-18-2026.-Photo-by-Pagasa.png",
+              "imageAlt": "Habagat to persist over parts of Luzon, Visayas Tuesday",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -710,74 +695,26 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/sara-duterte-impeachment-trial-postponed-bad-weather-august-18-2026/",
-              "source": "Rappler World",
-              "headline": "Sara Duterte’s impeachment trial postponed again due to bad weather",
-              "excerpt": "This is the second time the impeachment court has postponed a trial session due to bad weather. The first was last August 10.",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/07/senate-impeachment-court-sara-duterte-july-6-2026-003-scaled.jpg",
-              "imageAlt": "Sara Duterte’s impeachment trial postponed again due to bad weather",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[16]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/01/BOM.jpeg",
-          "imageAlt": "Ospital ng Maynila temporarily closes outpatient dept. due to habagat",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Satellite-image-captured-at-640-a.m.-on-August-18-2026.-Photo-by-Pagasa.png",
+          "imageAlt": "Habagat to persist over parts of Luzon, Visayas Tuesday",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Balisacan: Infra spending must translate to stronger competitiveness",
-          "summary": "Balisacan: Infra spending must translate to stronger competitiveness.\n\nMANILA, Philippines — The Philippines has increased infrastructure spending in recent years, but the higher expenditure has yet to translate into infrastructure competitiveness comparable to its Asean neighbors, Department of Economy, Planning and Development (DepDev) Secretary Arsenio Balisacan said on Monday.\n\nDuring a congressional briefing, Balisacan said the Philippines continues to trail behind countries such.",
+          "title": "Global coalition backs appeal to restore fishing vessel tracking",
+          "summary": "An international coalition of fisheries transparency groups has backed separate appeals by the Philippine government and fisherfolk to restore a vessel-tracking requirement for commercial fishing boats. The Coalition for Fisheries Transparency warned that losing the system could weaken efforts against illegal, unreported, and unregulated fishing.\n\nThe coalition also cautioned that the absence of tracking technology may affect the Philippines' access to major seafood export markets. This support underscores concerns among stakeholders about maintaining compliance with international standards and protecting domestic fisheries.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2286521/balisacan-infra-spending-must-translate-to-stronger-competitiveness",
+              "url": "https://newsinfo.inquirer.net/2286993/for-posting-global-coalition-backs-appeal-to-restore-fishing-vessel-tracking",
               "source": "Philippine Daily Inquirer",
-              "headline": "Balisacan: Infra spending must translate to stronger competitiveness",
-              "excerpt": "MANILA, Philippines — The Philippines has increased infrastructure spending in recent years, but the higher expenditure has yet to translate into infrastructure competitiveness comparable to its Asean neighbors, Department of Economy, Planning and Development (DepDev) Secretary Arsenio Balisacan said on Monday. During a congressional briefing, Balisacan said the Philippines continues to trail behind countries such",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/12/Arsenio-Balisacan-09December20252.jpg",
-              "imageAlt": "Balisacan: Infra spending must translate to stronger competitiveness",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[17]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/12/Arsenio-Balisacan-09December20252.jpg",
-          "imageAlt": "Balisacan: Infra spending must translate to stronger competitiveness",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Manila Water boosts Upper Wawa Dam monitoring, coordination",
-          "summary": "Manila Water boosts Upper Wawa Dam monitoring, coordination. MANILA, Philippines — Through its subsidiary WawaJVCo, Manila Water continues to strengthen efforts to support public safety and resiliency during the rainy season, especially in communities downstream of Upper Wawa Dam.\n\nBeyond water security, the Upper Wawa Dam, located in Montalban, Rizal, highlights the role of modern infrastructure in building climate resilience and safeguarding communities. While.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2286653/manila-water-boosts-upper-wawa-dam-monitoring-coordination",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Manila Water boosts Upper Wawa Dam monitoring, coordination",
-              "excerpt": "MANILA, Philippines — Through its subsidiary WawaJVCo, Manila Water continues to strengthen efforts to support public safety and resiliency during the rainy season, especially in communities downstream of Upper Wawa Dam. Beyond water security, the Upper Wawa Dam, located in Montalban, Rizal, highlights the role of modern infrastructure in building climate resilience and safeguarding communities. While",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/UpperWawaDam-17Aug2026.jpg",
-              "imageAlt": "Manila Water boosts Upper Wawa Dam monitoring, coordination",
+              "headline": "Global coalition backs appeal to restore fishing vessel tracking",
+              "excerpt": "MANILA, Philippines—An international coalition of fisheries transparency groups has backed separate appeals by the government and fisherfolk to revive a vessel-tracking requirement for commercial fishing boats, warning that the loss of the system could affect the Philippines’ fight against illegal fishing as well as its access to major seafood export markets. The Coalition for Fisheries",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/coalition-for-fiishery-transparency-18aug2026.jpg",
+              "imageAlt": "Global coalition backs appeal to restore fishing vessel tracking",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -790,23 +727,22 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[18]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/UpperWawaDam-17Aug2026.jpg",
-          "imageAlt": "Manila Water boosts Upper Wawa Dam monitoring, coordination",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/coalition-for-fiishery-transparency-18aug2026.jpg",
+          "imageAlt": "Global coalition backs appeal to restore fishing vessel tracking",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Imported pork flooding North Cotabato ‘killing’ local hog industry",
-          "summary": "Imported pork flooding North Cotabato ‘killing’ local hog industry. KIDAPAWAN CITY, North Cotabato —The influx of imported meat flooding supermarkets and malls in Kidapawan City, North Cotabato is slowly killing the local hog and meat industry, a vendor’s association lamented on Monday.\n\nSpeaking before the Sangguniang Panlungsod session, Narcisa Carbon, Kidapawan Mega Market Meat Vendors Association president, said the imported meat proliferating in the.",
+          "title": "Floods submerge parts of Zamboanga del Sur town, trigger evacuation",
+          "summary": "Heavy rains from a localized thunderstorm caused flooding in several barangays of Kumalarang, Zamboanga del Sur on Monday evening. The overflow forced residents to evacuate as water inundated low-lying communities.\n\nLocal Disaster Risk Reduction and Management Office head Jay Immanuel Locson identified Gawil among the most affected areas. Meanwhile, four major river systems in Oriental Mindoro reached critical levels by 7 a.m.\n\nTuesday, according to the Provincial Disaster Risk Reduction and Management Office.\n\nThe alert covers the Alag River in Baco as well as the Bucayao, Panggalaan, and other river systems across the province.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2286657/imported-pork-flooding-north-cotabato-killing-local-hog-industry",
+              "url": "https://newsinfo.inquirer.net/2287004/4-major-rivers-in-oriental-mindoro-reach-critical-level",
               "source": "Philippine Daily Inquirer",
-              "headline": "Imported pork flooding North Cotabato ‘killing’ local hog industry",
-              "excerpt": "KIDAPAWAN CITY, North Cotabato —The influx of imported meat flooding supermarkets and malls in Kidapawan City, North Cotabato is slowly killing the local hog and meat industry, a vendor’s association lamented on Monday. Speaking before the Sangguniang Panlungsod session, Narcisa Carbon, Kidapawan Mega Market Meat Vendors Association president, said the imported meat proliferating in the",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2024/09/476454.jpeg",
-              "imageAlt": "Imported pork flooding North Cotabato ‘killing’ local hog industry",
+              "headline": "4 major rivers in Oriental Mindoro reach critical level",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — Four major river systems in the province have reached critical water levels as of 7 a.m. on Tuesday, the Provincial Disaster Risk Reduction and Management Office (PDRRMO) announced. The river systems that have triggered the alert are the Alag River in the town of Baco and the Bucayao, Panggalaan, and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Oriental-Mindoro-map-filephoto-091222.jpg",
+              "imageAlt": "4 major rivers in Oriental Mindoro reach critical level",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -819,23 +755,50 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[19]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2024/09/476454.jpeg",
-          "imageAlt": "Imported pork flooding North Cotabato ‘killing’ local hog industry",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Oriental-Mindoro-map-filephoto-091222.jpg",
+          "imageAlt": "4 major rivers in Oriental Mindoro reach critical level",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Flooding hits Iloilo City; in-person classes suspended",
-          "summary": "Flooding hits Iloilo City; in-person classes suspended. ILOILO CITY, Philippines — Heavy downpours on Monday evening, Aug.\n\n17, inundated several areas in the city with floodwaters, prompting city officials to transition all school levels to Alternative Delivery Modes (ADM) on Tuesday.\n\nIn Barangay San Nicolas, La Paz, residents were seen wading through ankle-deep floodwaters following hours of persistent heavy rainfall. Multiple low-lying.",
+          "title": "Michael Poa refutes post online attacking prosecution",
+          "summary": "Michael Poa, the defense counsel spokesperson for Vice President Sara Duterte, refuted an online post that he said was falsely attributed to him. The disputed statement appeared to attack Representative Terry Ridon over comments made regarding the defense team in Duterte’s impeachment trial.\n\nSeparately, Senate Minority Leader Alan Peter Cayetano and Senator Miriam Defensor Santiago were again absent from both the impeachment proceedings and plenary sessions on Monday. Senate Secretary Renato Bantug confirmed that no notice of absence had been submitted by Cayetano’s office.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2286810/flooding-hits-iloilo-city-in-person-classes-suspended",
+              "url": "https://newsinfo.inquirer.net/2286763/cayetano-legarda-still-absent-from-vp-trial",
               "source": "Philippine Daily Inquirer",
-              "headline": "Flooding hits Iloilo City; in-person classes suspended",
-              "excerpt": "ILOILO CITY, Philippines — Heavy downpours on Monday evening, Aug. 17, inundated several areas in the city with floodwaters, prompting city officials to transition all school levels to Alternative Delivery Modes (ADM) on Tuesday. In Barangay San Nicolas, La Paz, residents were seen wading through ankle-deep floodwaters following hours of persistent heavy rainfall. Multiple low-lying",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Iloilo-City-rain-bad-weather-17aug2026_11.jpg",
-              "imageAlt": "Flooding hits Iloilo City; in-person classes suspended",
+              "headline": "Cayetano, Legarda still absent from VP trial",
+              "excerpt": "MANILA, Philippines — Where is Senate Minority Leader Alan Peter Cayetano? The senator was once again marked absent on Monday in both the impeachment trial of Vice President Sara Duterte and the plenary session, with no notice from his office. This was confirmed by Senate secretary Renato Bantug, who, when asked whether Cayetano had submitted",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Cayetano-Legarda-18august2026.jpg",
+              "imageAlt": "Cayetano, Legarda still absent from VP trial",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Cayetano-Legarda-18august2026.jpg",
+          "imageAlt": "Cayetano, Legarda still absent from VP trial",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Abra de Ilog in Occidental Mindoro evacuates families as river overflows",
+          "summary": "Authorities in Calapan City, Oriental Mindoro, evacuated families from a flood-prone community after the Abra de Ilog river overflowed. The evacuations were carried out amid continued heavy rains on Tuesday, August 18.\n\nThe Abra de Ilog Emergency Response Operations (AERO) coordinated with the Municipal Disaster Risk Reduction and Management Office to manage the situation. Personnel from the Bureau of Fire Protection also assisted in the emergency response efforts.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2286928/10-families-lost-homes-in-koronadal-fire",
+              "source": "Philippine Daily Inquirer",
+              "headline": "10 families lost homes in Koronadal fire",
+              "excerpt": "KORONADAL CITY — Six houses were gutted by fire in Barangay Zone 1 here on Monday afternoon, leaving 10 families homeless. The City Disaster Risk Reduction and Management Office (CDRRMO) said the fire in Purok New Leganes, which broke out shortly after 4 p.m., quickly spread to neighboring houses, most of which were made of",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/PHOTO-FIRE.jpg",
+              "imageAlt": "10 families lost homes in Koronadal fire",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -848,10 +811,9 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[20]",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Iloilo-City-rain-bad-weather-17aug2026_11.jpg",
-          "imageAlt": "Flooding hits Iloilo City; in-person classes suspended",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/PHOTO-FIRE.jpg",
+          "imageAlt": "10 families lost homes in Koronadal fire",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -860,16 +822,41 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-          "summary": "Feedly attributes weeklong slowdown to bug, not its AI pivot. Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
+          "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+          "summary": "Four women held as hostages in Gaza are set to be released after a swap involving soldiers stationed at the Nahal Oz border crossing. The release follows 15 months of captivity and sustained advocacy by their families.\n\nThe Wall Street Journal notes that warnings from Hamas regarding these specific individuals were previously ignored. Their eventual freedom marks a significant development in the ongoing hostage negotiations.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+              "url": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0",
+              "source": "Wall Street Journal",
+              "headline": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+              "excerpt": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
+              "imageUrl": "",
+              "imageAlt": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+        },
+        {
+          "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+          "summary": "Spotify has introduced Playlist Notes, a new feature that allows users and editors to explain the stories behind their song selections. The update gives listeners a chance to share the reasoning and context for their favorite music.\n\nEditors will also use the tool on major playlists such as RapCaviar. This addition aims to provide more depth to curated listening experiences.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
               "source": "TechCrunch",
-              "headline": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-              "excerpt": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/feedly-news-hero.png?resize=1200,620",
-              "imageAlt": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+              "headline": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+              "excerpt": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Spotify-PlaylistNotes.png?w=1200",
+              "imageAlt": "Spotify’s new Playlist Notes let users and editors explain their song picks",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -882,15 +869,14 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[21]",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/feedly-news-hero.png?resize=1200,620",
-          "imageAlt": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Spotify-PlaylistNotes.png?w=1200",
+          "imageAlt": "Spotify’s new Playlist Notes let users and editors explain their song picks",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
-          "summary": "Sainsbury’s store pauses AI scanning after false shoplifting accusation.\n\nSupermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customer Sainsbury’s has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop.\n\n“I was embarrassed, mortified even, and felt quite humiliated and powerless,” Matt Arnold, 46, said of his ordeal. <a href=\"https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-aft.",
+          "summary": "Sainsbury’s has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the premises.\n\nThe supermarket chain attributed the incident to “human error” rather than its Facewatch technology. The affected customer, Matt Arnold, 46, described feeling embarrassed, humiliated, and powerless during the ordeal.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
@@ -911,98 +897,60 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[22]",
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://i.guim.co.uk/img/media/60fed540912aa1661cae133bc78735c5c0a07162/151_245_663_530/master/663.jpg?width=140&quality=85&auto=format&fit=max&s=47e4c8521ae6a2afee019c4a0d8b63fa",
           "imageAlt": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
-          "summary": "The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water. PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthetics lab of a campy horror hospital, hunting for a preacher’s flayed face to wear so I can trick the world’s grisliest smart doorbell.\n\nPinned to a board in the corner of the room are a dozen X-rays: shattered bones and metal splints in sepia negative, each with a note attached. It’.",
+          "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+          "summary": "Beijing has signaled a willingness to engage with the incoming Trump administration, including officials who have previously taken hardline stances against China.\n\nThe Chinese foreign minister recently held a phone conversation with Marco Rubio, the new U.S. Secretary of State. This dialogue is notable given that Rubio has been a vocal critic of Beijing in the past.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/aug/17/the-sinking-city-2-review-ukrainian-playstation-5-xbox-series-pc-frogwares",
-              "source": "The Guardian Technology",
-              "headline": "The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
-              "excerpt": "PlayStation 5, Xbox Series S/X, PC; Frogwares Frogwares’ Lovecraftian action-horror is full of grim tenacity and pulp paperback charm, despite a few frayed edges I’m standing in the prosthetics lab of a campy horror hospital, hunting for a preacher’s flayed face to wear so I can trick the world’s grisliest smart doorbell. Pinned to a board in the corner of the room are a dozen X-rays: shattered bones and metal splints in sepia negative, each with a note attached. It’",
-              "imageUrl": "https://i.guim.co.uk/img/media/f4a41989ed3022e58a44d382d794af184ec3037e/254_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=25ce80286e87741d5357ea8a8af8d325",
-              "imageAlt": "The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+              "source": "Wall Street Journal",
+              "headline": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+              "excerpt": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+              "imageUrl": "",
+              "imageAlt": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[23]",
-          "imageUrl": "https://i.guim.co.uk/img/media/f4a41989ed3022e58a44d382d794af184ec3037e/254_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=25ce80286e87741d5357ea8a8af8d325",
-          "imageAlt": "The Sinking City 2 review – Ukrainian cosmic horror, come hell or high water",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
         },
         {
-          "title": "‘The kids were right’: 30 years of Pokémon, from school-wide bans to multimillion-dollar trading cards",
-          "summary": "‘The kids were right’: 30 years of Pokémon, from school-wide bans to multimillion-dollar trading cards. Pokémon outlived the moral panic of its early days in Australia and its staying power has proved that simple joy can cross borders There’s a generation of Australians for whom Cheez TV was a religion.\n\nEvery morning before school, I’d sit in my little white plastic chair about three feet from our big wooden television and watch 90 minutes of cartoons “curated” by the show’s te.",
+          "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+          "summary": "President Trump said Colombia will accept deportation flights, ending a tariff standoff between the two countries. The announcement comes as immigration enforcement has become an early priority for his second term.\n\nThe White House framed the development as a resolution to recent tensions over repatriation logistics and trade policy. Meanwhile, federal agents continued aggressive operations domestically, with ICE making more than 900 arrests on Sunday.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/aug/17/pokemon-30th-anniversary-japan-australia",
-              "source": "The Guardian Technology",
-              "headline": "‘The kids were right’: 30 years of Pokémon, from school-wide bans to multimillion-dollar trading cards",
-              "excerpt": "Pokémon outlived the moral panic of its early days in Australia and its staying power has proved that simple joy can cross borders There’s a generation of Australians for whom Cheez TV was a religion. Every morning before school, I’d sit in my little white plastic chair about three feet from our big wooden television and watch 90 minutes of cartoons “curated” by the show’s te",
-              "imageUrl": "https://i.guim.co.uk/img/media/d9c1b5ba9e8e71f066123c5936c27fb09467c2d9/1634_302_2262_1811/master/2262.jpg?width=140&quality=85&auto=format&fit=max&s=f9349a353cf4c5273abf32fdc2de0e0f",
-              "imageAlt": "‘The kids were right’: 30 years of Pokémon, from school-wide bans to multimillion-dollar trading cards",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+              "source": "Wall Street Journal",
+              "headline": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+              "excerpt": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+              "imageUrl": "",
+              "imageAlt": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[24]",
-          "imageUrl": "https://i.guim.co.uk/img/media/d9c1b5ba9e8e71f066123c5936c27fb09467c2d9/1634_302_2262_1811/master/2262.jpg?width=140&quality=85&auto=format&fit=max&s=f9349a353cf4c5273abf32fdc2de0e0f",
-          "imageAlt": "‘The kids were right’: 30 years of Pokémon, from school-wide bans to multimillion-dollar trading cards",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-          "summary": "Claude to start watermarking AI-generated text – but will it make quality worse?.\n\nAnthropic says it will change way chatbot makes small, random choices, to comply with EU regulation The world is familiar by now with the usual tropes of machine-generated text: overuse of the word “delve”, an excess of em dashes, and the chirpy, relentless construction of “it’s not X but Y” .\n\nBut is it about to get even worse? <a href=\"https://www.theguardian.com/technol.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
-              "source": "The Guardian Technology",
-              "headline": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-              "excerpt": "Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulation The world is familiar by now with the usual tropes of machine-generated text: overuse of the word “delve”, an excess of em dashes, and the chirpy, relentless construction of “it’s not X but Y” . But is it about to get even worse? <a href=\"https://www.theguardian.com/technol",
-              "imageUrl": "https://i.guim.co.uk/img/media/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/master/3527.jpg?width=140&quality=85&auto=format&fit=max&s=78e760a5dc08923d56ed129ddcc8ad89",
-              "imageAlt": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
-          "summaryFallbackReason": "lm-studio-summary-error: TimeoutError: timed out; retryError=lm-studio-summary-error: TimeoutError: timed out; summaryBatchSize=1; chunkIndexes=[25]",
-          "imageUrl": "https://i.guim.co.uk/img/media/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/master/3527.jpg?width=140&quality=85&auto=format&fit=max&s=78e760a5dc08923d56ed129ddcc8ad89",
-          "imageAlt": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
         }
       ]
     }
