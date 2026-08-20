@@ -2,24 +2,24 @@
   "id": "2026-08-20-expanded",
   "date": "2026-08-20",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-08-20T03:00:39.100975",
+  "generatedAt": "2026-08-20T12:30:03.321207",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-08-20T03:00:39",
+  "updatedAt": "2026-08-20T12:30:03",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Trump says he’ll meet with Kim Jong Un before end of year",
-          "summary": "President Donald Trump said Wednesday that he expects to meet with North Korean leader Kim Jong Un before the end of the year. The potential summit would mark their fourth face-to-face meeting since Trump’s first term, when the two leaders met in Singapore in 2018 and Vietnam in 2019.\n\nTrump told reporters that Kim had responded positively to his proposal for talks. However, North Korea has denied holding discussions with what it called a “hostile” United States, while praising the personal relationship between the two leaders.",
+          "title": "New Vaccine Shows Early Signs Of Stopping Cancer Spread",
+          "summary": "Moderna and Merck reported that their experimental personalized mRNA vaccine, Intismeran, met its primary and secondary goals in a late-stage trial for high-risk melanoma. The treatment was administered alongside Merck’s Keytruda.\n\nThe companies said the combination therapy kept the cancer from returning for longer periods and reduced the risk of it spreading to other parts of the body. These results indicate early signs that the vaccine can help stop the progression of the disease in late-stage patients.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "North Korea leader’s sister denies talks with ‘hostile’ US",
-              "excerpt": "US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a85cd477c-1787153735.jpg?resize=1920%2C1440",
-              "imageAlt": "North Korea leader’s sister denies talks with ‘hostile’ US",
+              "headline": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
+              "excerpt": "Moderna's mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a86073273e8-1787168562.jpg?resize=1920%2C1440",
+              "imageAlt": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,13 +32,13 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/politics/trump-teases-potential-kim-jong-un-meeting-later-year",
-              "source": "Fox News",
-              "headline": "Trump teases potential Kim Jong Un meeting later this year",
-              "excerpt": "President Donald Trump says he expects to meet Kim Jong Un later this year, but North Korea rejected the idea of talks while praising the leaders' relationship.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/donald-trump-white-house-construction.jpg?ve=1&tl=1",
-              "imageAlt": "Trump teases potential Kim Jong Un meeting later this year",
-              "outlet": "Fox News",
+              "url": "https://www.dailywire.com/news/new-vaccine-shows-early-signs-of-stopping-cancer-spread",
+              "source": "Daily Wire",
+              "headline": "New Vaccine Shows Early Signs Of Stopping Cancer Spread",
+              "excerpt": "An experimental cancer vaccine has kept high-risk melanoma from returning for longer and reduced the risk of it spreading in a late-stage trial. Moderna and Merck said Wednesday in a press release that their experimental personalized mRNA vaccine, Intismeran, combined with Merck’s Keytruda, met both its primary and secondary goals in a late-stage trial of ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/GettyImages-2179695007.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "New Vaccine Shows Early Signs Of Stopping Cancer Spread",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -48,42 +48,24 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/white-house/4692947/trump-kim-jong-un-meet-before-end-of-year/",
-              "source": "Washington Examiner",
-              "headline": "Trump says he’ll meet with Kim Jong Un before end of year",
-              "excerpt": "President Donald Trump told reporters Wednesday that he will meet with North Korean dictator Kim Jong Un by the end of the year, marking what would be their fourth face-to-face sit-down since Trump’s first term. During his first term, Trump met with Kim in Singapore in 2018 and then in Vietnam in 2019 to discuss […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26231559168297.jpg?w=696",
-              "imageAlt": "Trump says he’ll meet with Kim Jong Un before end of year",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a85cd477c-1787153735.jpg?resize=1920%2C1440",
-          "imageAlt": "North Korea leader’s sister denies talks with ‘hostile’ US",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a86073273e8-1787168562.jpg?resize=1920%2C1440",
+          "imageAlt": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Human remains found at Lake Mead National Recreation Area near Las Vegas",
-          "summary": "Human remains were discovered at Lake Mead National Recreation Area near Las Vegas after record-low water levels exposed a beach. Visitors reported finding the skeletal material, which prompted an investigation into the site.\n\nAccording to witnesses and reports from BBC and Washington Times, the remains include what appears to be a human jawbone with teeth still attached. The discovery highlights how extreme drought conditions in the region are uncovering previously submerged areas of the reservoir.",
+          "title": "Telemundo executive among five Americans killed in Kenya helicopter crash",
+          "summary": "A sightseeing helicopter crashed in Kenya on Wednesday, killing seven people. The victims included five American citizens and two others.\n\nThe U.S. State Department confirmed the deaths of the Americans. Among them was Jose Alberto Suarez, a Telemundo executive who served as president and general manager.\n\nBBC reporting identified additional victims, including Michele Sensi-Contugi and his wife Stephany Hollihan. The pilot and another passenger were also killed in the crash.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Apparent human remains found in US reservoir as water levels hit record low",
-              "excerpt": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/3828ee10-9bad-11f1-92e6-b1dfcecd4308.png",
-              "imageAlt": "Apparent human remains found in US reservoir as water levels hit record low",
+              "headline": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+              "excerpt": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a600/live/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg",
+              "imageAlt": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -97,13 +79,59 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/19/human-remains-found-lake-mead-national-recreation-area-near-las-vegas/",
-              "source": "Washington Times",
-              "headline": "Human remains found at Lake Mead National Recreation Area near Las Vegas",
-              "excerpt": "Visitors found a jawbone and other human remains on a beach at Lake Mead National Recreation Area, uncovered due to record-low water levels.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/19/AP26212488763961_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Human remains found at Lake Mead National Recreation Area near Las Vegas",
-              "outlet": "Washington Times",
+              "url": "https://www.washingtonexaminer.com/news/world/4693612/telemundo-americans-killed-kenya-helicopter-crash/",
+              "source": "Washington Examiner",
+              "headline": "Telemundo executive among five Americans killed in Kenya helicopter crash",
+              "excerpt": "A Telemundo executive was one of five Americans who died aboard a sightseeing helicopter that crashed in Kenya on Wednesday. The State Department confirmed the number of dead American citizens. The pilot and another passenger were killed in the helicopter crash, bringing the death toll to seven people. Jose Alberto Suarez, president and general manager […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26231531478830.jpg?w=696",
+              "imageAlt": "Telemundo executive among five Americans killed in Kenya helicopter crash",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a600/live/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg",
+          "imageAlt": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Trump says Iran talks could resume ‘at some point,’ threatens ‘draconian’ sanctions",
+          "summary": "President Donald Trump said on Wednesday that the United States could resume peace talks with Iran “at some point,” while warning of “draconian” sanctions if Tehran does not change its behavior. The remarks came after he initially stated Tuesday that U.S. negotiators were not in contact with their Iranian counterparts.\n\nTrump described the current status quo in the conflict as “very good” and expressed confidence that concerns over the Strait of Hormuz are being addressed. Al Jazeera reported that Trump announced what it called the “most crushing” Iran sanctions, underscoring a dual-track approach combining diplomatic openness with economic pressure.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+              "excerpt": "Trump says Washington may resume talks with Tehran 'at some point'.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-17T150047Z_286974500_RC2B0NANM521_RTRMADP_3_IRAN-CRISIS-ECONOMY-1787204637.jpg?resize=1920%2C1440",
+              "imageAlt": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4693963/trump-iran-war-talks-draconian-sanctions/",
+              "source": "Washington Examiner",
+              "headline": "Trump says Iran talks could resume ‘at some point,’ threatens ‘draconian’ sanctions",
+              "excerpt": "President Donald Trump on Wednesday suggested the United States could resume peace talks with Iran but claimed the war’s status quo is “very good” as he expressed confidence that concerns about the Strait of Hormuz are being resolved. Trump initially said Tuesday that U.S. negotiators were not talking to their Iranian counterparts, a day after […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26231548373940.jpg?w=696",
+              "imageAlt": "Trump says Iran talks could resume ‘at some point,’ threatens ‘draconian’ sanctions",
+              "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -116,21 +144,161 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/3828ee10-9bad-11f1-92e6-b1dfcecd4308.png",
-          "imageAlt": "Apparent human remains found in US reservoir as water levels hit record low",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-17T150047Z_286974500_RC2B0NANM521_RTRMADP_3_IRAN-CRISIS-ECONOMY-1787204637.jpg?resize=1920%2C1440",
+          "imageAlt": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Longtime publisher of Stars and Stripes to retire, citing differences with Pentagon leadership",
+          "summary": "The longtime publisher of Stars and Stripes has announced his retirement, ending a decades-long career with the military newspaper. The departure comes amid growing tensions between the publication's leadership and the Pentagon.\n\nDefense Secretary Pete Hegseth's administration has moved to exert editorial control over the paper, citing efforts to eliminate what it describes as \"woke distractions.\" The publisher cited differences with Pentagon leadership as the reason for his exit.\n\nThe resignation highlights a broader push by the Trump administration to influence military media. It marks a significant shift in the relationship between the armed forces and their official newspaper.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Publisher of US military newspaper resigns over differences with government",
+              "excerpt": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration's push for editorial control.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26015712020023-1787185917.jpg?resize=1920%2C1440",
+              "imageAlt": "Publisher of US military newspaper resigns over differences with government",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/19/longtime-publisher-stars-stripes-retire-citing-differences-pentagon/",
+              "source": "Washington Times",
+              "headline": "Longtime publisher of Stars and Stripes to retire, citing differences with Pentagon leadership",
+              "excerpt": "The longtime publisher of Stars and Stripes has announced his retirement, ending a decades-long career with the military newspaper as Defense Secretary Pete Hegseth's Pentagon moves to exert editorial control and eliminate what it asserts are \"woke distractions.\"",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/19/Media_Pentagon_Stars_and_Stripes_2_594_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Longtime publisher of Stars and Stripes to retire, citing differences with Pentagon leadership",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "article-text: Right cue(s): (woke|cancel culture|left-wing extremis[mt]|socialist agenda)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26015712020023-1787185917.jpg?resize=1920%2C1440",
+          "imageAlt": "Publisher of US military newspaper resigns over differences with government",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Miranda Devine: Jon Ossoff’s disgustingly sly and sexist attack on Trump aide Natalie Harp backfires big time",
+          "summary": "Democratic Senator Jon Ossoff’s criticism of Trump aide Natalie Harp has drawn sharp pushback, with columnist Miranda Devine describing the attack as “disgustingly sly and sexist.”\n\nDevine questioned whether Ossoff implied that a hard-working single professional woman could not succeed without sleeping with her boss.\n\nHarp, one of Trump’s longest-serving and most loyal aides, was thrust back into the spotlight after Ossoff noted her closeness to the president. BBC coverage identified Harp as a key figure in the administration, while New York Post commentary framed the controversy around gendered assumptions about professional success.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Who is Natalie Harp, Trump's right-hand woman?",
+              "excerpt": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg",
+              "imageAlt": "Who is Natalie Harp, Trump's right-hand woman?",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://nypost.com/2026/08/19/opinion/miranda-devine-jon-ossoffs-disgustingly-sly-and-sexist-attack-on-trump-aide-natalie-harp-backfires-big-time/",
+              "source": "New York Post",
+              "headline": "Miranda Devine: Jon Ossoff’s disgustingly sly and sexist attack on Trump aide Natalie Harp backfires big time",
+              "excerpt": "Does Ossoff really think a hard-working single professional woman can’t succeed without sleeping with her boss?",
+              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2FJOEMD.jpg?quality%3D90%26strip%3Dall",
+              "imageAlt": "Miranda Devine: Jon Ossoff’s disgustingly sly and sexist attack on Trump aide Natalie Harp backfires big time",
+              "outlet": "New York Post",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg",
+          "imageAlt": "Who is Natalie Harp, Trump's right-hand woman?",
           "imageCredit": "BBC"
         },
         {
-          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-          "summary": "The Israeli military has confirmed that soldiers fired at the car in which five-year-old Hind Rajab was killed. The admission prompted the launch of a criminal investigation into the incident.\n\nRajab, who had become a global symbol of suffering in Gaza, initially survived the attack and pleaded for help before her body was recovered alongside those of six relatives.",
+          "title": "South Korea shortens war games with US, citing Washington request",
+          "summary": "South Korea has shortened its joint war games with the United States, citing a request from Washington. The decision follows President Donald Trump's announcement of plans to curtail military exercises with Seoul.\n\nTrump justified the move by pointing to his \"very good\" relationship with North Korean leader Kim Jong Un. He stated that he gets along well with the North Korean leader and expressed intent to meet him later this year.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
-              "excerpt": "The Israeli military has announced a criminal investigation into the killing that shook the world.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-09-03T155148Z_851274364_RC2FKGAAHC2Y_RTRMADP_3_FILMFESTIVAL-VENICE-THE-VOICE-OF-HIND-RAJAB-1787149476.jpg?resize=1920%2C1440",
-              "imageAlt": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+              "headline": "Trump says he plans to meet Kim Jong Un later this year",
+              "excerpt": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787175248.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Trump says he plans to meet Kim Jong Un later this year",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "South Korea shortens war games with US, citing Washington request",
+              "excerpt": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b878/live/63dff0a0-9b9c-11f1-b109-879e35c24276.jpg",
+              "imageAlt": "South Korea shortens war games with US, citing Washington request",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787175248.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Trump says he plans to meet Kim Jong Un later this year",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+          "summary": "The Israeli military has confirmed that soldiers fired at the car in which Hind Rajab was killed and announced it is opening a criminal investigation into the incident. The announcement follows reports that the young Palestinian girl survived the initial attack but later died.\n\nRajab, who was reported to be five or six years old depending on the source, had pleaded for help after being struck by gunfire. Her body was subsequently recovered alongside those of six relatives.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+              "excerpt": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787173584.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -146,7 +314,7 @@
               "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
               "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-              "excerpt": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+              "excerpt": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
               "imageAlt": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
               "outlet": "BBC",
@@ -163,212 +331,9 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-09-03T155148Z_851274364_RC2FKGAAHC2Y_RTRMADP_3_FILMFESTIVAL-VENICE-THE-VOICE-OF-HIND-RAJAB-1787149476.jpg?resize=1920%2C1440",
-          "imageAlt": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787173584.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
           "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-          "summary": "A second Ukrainian national has been arrested in connection with the 2022 Nord Stream pipeline explosions. The suspect was detained in Croatia, marking a significant development in the ongoing investigation into the sabotage of the undersea gas infrastructure.\n\nThe arrest comes one year after another Ukrainian man, identified as an ex-army officer, was held and subsequently transferred to Germany for questioning. Authorities are focusing on the roles played by individuals involved in the physical execution of the attack.\n\nAccording to reports, the newly arrested man is alleged to have been one of the scuba divers who planted explosives on the pipelines during the 2022 incident. The case has drawn international attention due to its geopolitical implications and the complex nature of the underwater sabotage.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-              "excerpt": "The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-11-28T123629Z_1862924421_RC2O5IA6AZU7_RTRMADP_3_UKRAINE-CRISIS-NORDSTREAM-1787148966.jpg?resize=1920%2C1440",
-              "imageAlt": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-              "excerpt": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
-              "imageAlt": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-11-28T123629Z_1862924421_RC2O5IA6AZU7_RTRMADP_3_UKRAINE-CRISIS-NORDSTREAM-1787148966.jpg?resize=1920%2C1440",
-          "imageAlt": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Judge removed from Karmelo Anthony case as defense seeks retrial in Texas track-meet stabbing",
-          "summary": "A Texas judge was removed from the Karmelo Anthony case on Wednesday as his defense team continues to seek a retrial. The move comes after Anthony, now 19, was convicted in June of murdering Austin Metcalf, a 17-year-old athlete, during a high school track meet.\n\nAnthony had been sentenced to 35 years in prison for the fatal stabbing that occurred last April. His attorneys successfully petitioned to have the trial judge excluded from all future appeal efforts related to his conviction.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/convicted-killer-karmelo-anthony-gets-big-break-in-fight-for-new-trial",
-              "source": "Daily Wire",
-              "headline": "Convicted Killer Karmelo Anthony Gets Big Break In Fight For New Trial",
-              "excerpt": "The judge who oversaw the murder conviction of Karmelo Anthony was tossed from the case on Wednesday as Anthony moves forward with an appeal for a new trial. Anthony, now 19 years old, was convicted in June of murdering high school junior Austin Metcalf during a track event in Texas, in April of last year. ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/06/Karmelo-Mugshot.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Convicted Killer Karmelo Anthony Gets Big Break In Fight For New Trial",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/crime/4692989/judge-remove-karmelo-anthony-case-retrial/",
-              "source": "Washington Examiner",
-              "headline": "Judge removed from Karmelo Anthony case as defense seeks retrial in Texas track-meet stabbing",
-              "excerpt": "Defense attorneys for Karmelo Anthony successfully removed the trial judge from all appeal efforts going forward on Wednesday as they seek a retrial for their client. In June, the 19-year-old black man was convicted of murder and sentenced to 35 years in prison for the fatal stabbing of Austin Metcalf, a 17-year-old white athlete, at […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26230616866533.jpg?w=696",
-              "imageAlt": "Judge removed from Karmelo Anthony case as defense seeks retrial in Texas track-meet stabbing",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/19/judge-removed-texas-track-meet-stabbing-case-karmelo-anthony-seeks/",
-              "source": "Washington Times",
-              "headline": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial",
-              "excerpt": "The trial judge who presided over the case of Texas teenager convicted of fatally stabbing a 17-year-old athlete at a high school track meet was ordered removed from the case as the defendant seeks a new trial and appeals his conviction.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/19/Track_Meet_Student_Killed_37591_s600x800.jpg?4e5859fb7f3a09bfa13fe8f1e0c4fa0a52955a7e",
-              "imageAlt": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/06/Karmelo-Mugshot.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Convicted Killer Karmelo Anthony Gets Big Break In Fight For New Trial",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Rubio Hits Back At Communist-Islamist International Criminal Court Corruption",
-          "summary": "The Trump administration announced sanctions against two senior International Criminal Court officials on Wednesday. The measures target ICC President Tomoko Akane of Japan and Senior Trial Lawyer Abdoulaye Seye of Senegal.\n\nSecretary of State Marco Rubio defended the action by describing the court as “corrupt and fatally politicized.” He framed the sanctions as a response to what he characterized as institutional corruption within the organization.\n\nThe ICC and various world leaders have condemned the U.S. decision. The court’s leadership criticized the move, which marks a significant escalation in tensions between Washington and the international judicial body.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/rubio-hits-back-at-communist-islamist-international-criminal-court-corruption",
-              "source": "Daily Wire",
-              "headline": "Rubio Hits Back At Communist-Islamist International Criminal Court Corruption",
-              "excerpt": "Today, the Trump administration announced sanctions against two International Criminal Court (ICC) officials, President Tomoko Akane of Japan and the ICC’s senior trial lawyer, Abdoulaye Seye of Senegal. Secretary of State Marco Rubio called the organization “corrupt and fatally politicized.” This follows Rubio last month setting the proverbial cat among the pigeons, declaring his intentions to ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/07/GettyImages-2284728532.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Rubio Hits Back At Communist-Islamist International Criminal Court Corruption",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/world/4693171/icc-condemn-rubio-sanction/",
-              "source": "Washington Examiner",
-              "headline": "ICC condemns Rubio’s sanctions targeting court president and prosecutor",
-              "excerpt": "The International Criminal Court and leaders around the world are condemning the Trump administration’s decision to sanction the court’s president and a senior trial lawyer. Secretary of State Marco Rubio announced sanctions against ICC President Tomoko Akane, of Japan, and Senior Trial Lawyer Abdoulaye Seye, of Senegal, on Wednesday. The measures are part of a […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26090663681719-e1787162410261.jpg?w=696",
-              "imageAlt": "ICC condemns Rubio’s sanctions targeting court president and prosecutor",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/07/GettyImages-2284728532.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Rubio Hits Back At Communist-Islamist International Criminal Court Corruption",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "South Korea says officials ‘were not notified in advance’ of Trump’s scaling back of joint exercises",
-          "summary": "South Korean officials said they were not notified in advance of President Donald Trump’s decision to scale back joint military exercises with Seoul. Foreign Minister Cho Hyun stated that neither the South Korean government nor U.S. officials knew about the announcement before it appeared on Truth Social.\n\nThe diplomatic friction coincided with a visit by Chinese Foreign Minister Wang Yi, who arrived in South Korea for talks. The trip was widely viewed as an effort by Beijing to capitalize on the opening created by Trump’s dispute with Seoul.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/national-security/2026/08/19/chinese-foreign-minister-arrives-in-south-korea-for-friendly-talks-with-leftist-government/",
-              "source": "Breitbart",
-              "headline": "Chinese Foreign Minister Arrives in South Korea for Friendly Talks with Leftist Government",
-              "excerpt": "Chinese Foreign Minister Wang Yi arrived in South Korea on Wednesday, on a diplomatic mission widely seen as Beijing’s effort to exploit an opening created by President Donald Trump’s spat with Seoul. The post Chinese Foreign Minister Arrives in South Korea for Friendly Talks with Leftist Government appeared firs",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/AP26209370954736-640x335.png",
-              "imageAlt": "Chinese Foreign Minister Arrives in South Korea for Friendly Talks with Leftist Government",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/world/4692942/south-korea-not-notified-trump-scale-back-joint-military-exercises/",
-              "source": "Washington Examiner",
-              "headline": "South Korea says officials ‘were not notified in advance’ of Trump’s scaling back of joint exercises",
-              "excerpt": "South Korean Foreign Minister Cho Hyun said Wednesday that officials in his country were not aware of Donald Trump’s decision to scale back joint military operations between Washington, D.C., and Seoul before the U.S. president announced it on Truth Social. “Neither our government nor U.S. officials knew what President Trump wrote on his Truth Social,” […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/AP25251210071522.jpg?w=696",
-              "imageAlt": "South Korea says officials ‘were not notified in advance’ of Trump’s scaling back of joint exercises",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/AP26209370954736-640x335.png",
-          "imageAlt": "Chinese Foreign Minister Arrives in South Korea for Friendly Talks with Leftist Government",
-          "imageCredit": "Breitbart"
         }
       ]
     },
@@ -376,16 +341,16 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "The end of the Luigi cult",
-          "summary": "Spectator Australia reports that Andy Burnham has been duped by a prankster. The article notes that this incident is unsurprising given his political brand.\n\nBurnham has cultivated an image of being open and approachable. This reputation appears to have made him vulnerable to the deception.",
+          "title": "Forgiving those who sin against us",
+          "summary": "Spectator Australia reports on a proposed royal commission for Victoria, highlighting the differing approaches of outgoing Premier Jacinta Allan and incoming leader Ben Carroll. The article suggests that their preparedness to address certain issues was a key point of differentiation between the two political figures.\n\nThe publication also references other recent topics in Australian politics, including calls from Labor politician Dave Kelly MP regarding changes to parliamentary recitals. These pieces reflect ongoing debates within state and federal political circles.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/its-no-surprise-that-andy-burnham-was-duped/",
+              "url": "https://www.spectator.com.au/2026/08/a-royal-commission-for-victoria/",
               "source": "Spectator Australia",
-              "headline": "It’s no surprise that Andy Burnham was duped",
-              "excerpt": "Andy Burnham, who has built a political brand based on being open and approachable, has been duped by a prankster… The post It’s no surprise that Andy Burnham was duped appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/will-andy-burnham-send-the-partheno",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages_2290048736.jpg",
-              "imageAlt": "It’s no surprise that Andy Burnham was duped",
+              "headline": "A royal commission for Victoria",
+              "excerpt": "One of the key differentiating points between outgoing Victorian premier, Jacinta Allan, and newbie, Ben Carroll, was their preparedness to… The post A royal commission for Victoria appeared first on The Spectator Australia . What to read next: Fleeing Victori",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/sloan_22_aug_post.jpg",
+              "imageAlt": "A royal commission for Victoria",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -399,21 +364,39 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages_2290048736.jpg",
-          "imageAlt": "It’s no surprise that Andy Burnham was duped",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/sloan_22_aug_post.jpg",
+          "imageAlt": "A royal commission for Victoria",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Governor-general 'shocked and troubled' by Sydney Swans allegation",
-          "summary": "Governor-General Sam Mostyn has responded to a sexual assault allegation involving Sydney Swans players. She described herself as \"shocked and troubled\" by the reports.\n\nMostyn stated that the incident serves as an important reminder of the need for constant vigilance regarding the respectful treatment of women everywhere.",
+          "title": "Why is ‘mushroom killer’ Erin Patterson back in court? – video",
+          "summary": "Erin Patterson, known as the “mushroom killer,” is back in court this week as three Victorian judges hear her appeal against a triple murder conviction. The case involves the deaths of three relatives who ate beef wellington laced with death cap mushrooms.\n\nThe Court of Appeal will also consider a separate challenge from Victoria’s director of public prosecutions, who is seeking to remove any chance of parole for Patterson. Prosecutors are asking that she be sentenced to life in prison without the possibility of release.\n\nPatterson argues her mushroom murder convictions should be quashed due to what she describes as a “catastrophic” failure of justice. Meanwhile, prosecutors have stated there is no indication Patterson had an “innocent interest” in mushrooms, according to ABC News.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-08-19/governor-general-sam-mostyn-reacts-to-sydney-swans-allegations/107053984",
+              "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
+              "excerpt": "Victorian court of appeal also to consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking new",
+              "imageUrl": "https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=04cb290e5e5f036f58f4df71b20198a9",
+              "imageAlt": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-08-20/live-blog-erin-patterson-appeal-day-2/107056898",
               "source": "ABC Australia",
-              "headline": "Governor-general 'shocked and troubled' by Sydney Swans allegation",
-              "excerpt": "Governor General Sam Mostyn says she is \"shocked and troubled\" by a sexual assault allegation linked to Sydney Swans players, declaring it an important reminder of the need for \"constant vigilance for respectful treatment of women everywhere\".",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ecd9bcc2289fadca237f1b6c3700f03d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=147&width=862&height=485",
-              "imageAlt": "Governor-general 'shocked and troubled' by Sydney Swans allegation",
+              "headline": "Live: No indication Patterson had 'innocent interest' in mushrooms, prosecutor says",
+              "excerpt": "Triple murderer Erin Patterson continues her bid to have her conviction overturned in the Court of Appeal, while the Office of Public Prosecutions launches its own appeal to remove the chance of parole. Follow live.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e25e516a56082f2b39506fa772c77044?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=180&width=862&height=485",
+              "imageAlt": "Live: No indication Patterson had 'innocent interest' in mushrooms, prosecutor says",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -422,23 +405,150 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ecd9bcc2289fadca237f1b6c3700f03d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=147&width=862&height=485",
-          "imageAlt": "Governor-general 'shocked and troubled' by Sydney Swans allegation",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=04cb290e5e5f036f58f4df71b20198a9",
+          "imageAlt": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Australia politics live: Israel ambassador says to ‘respect the process’ after IDF rules out criminal investigation of Zomi Frankcom killing",
+          "summary": "Israel’s ambassador to Australia has urged the public to “respect the process” after the Israeli Defense Forces ruled out a criminal investigation into the killing of Australian aid worker Zomi Frankcom.\n\nAmbassador Hillel Newman defended the IDF’s findings, which cleared its soldiers of criminal wrongdoing. He stated that the report should not be subjected to “political attacks” if it does not align with someone’s political agenda.\n\nThe comments come amid growing domestic controversy over the incident. Greens leader Larissa Waters described the situation as outrageous and suggested that sending the Israeli ambassador home should be considered.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Australia politics live: Israel ambassador says to ‘respect the process’ after IDF rules out criminal investigation of Zomi Frankcom killing",
+              "excerpt": "Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home should be on the table Greens leader Larissa Waters says strong words a",
+              "imageUrl": "https://i.guim.co.uk/img/media/9b971869563e3a0aae26f91fe710fb8e77e74dad/531_0_6418_5134/master/6418.jpg?width=140&quality=85&auto=format&fit=max&s=77be58cc067b3cbb1e396a3a76d8eeed",
+              "imageAlt": "Australia politics live: Israel ambassador says to ‘respect the process’ after IDF rules out criminal investigation of Zomi Frankcom killing",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-08-20/israel-ambassador-defends-idf-frankcom-report-clearing-soldiers/107057124",
+              "source": "ABC Australia",
+              "headline": "Israeli ambassador rejects 'political attacks' on report clearing soldiers in Frankcom killing",
+              "excerpt": "Israel's ambassador Hillel Newman defends the IDF investigation clearing its soldiers of criminal wrongdoing in the killing of Australian aid worker Zomi Frankcom, saying the findings should not be attacked if they \"are not suitable to one's political agenda\".",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/f6e33ba4f48bc93bb72bb15dae2625ab?impolicy=wcms_crop_resize&cropH=3510&cropW=6240&xPos=0&yPos=1&width=862&height=485",
+              "imageAlt": "Israeli ambassador rejects 'political attacks' on report clearing soldiers in Frankcom killing",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/9b971869563e3a0aae26f91fe710fb8e77e74dad/531_0_6418_5134/master/6418.jpg?width=140&quality=85&auto=format&fit=max&s=77be58cc067b3cbb1e396a3a76d8eeed",
+          "imageAlt": "Australia politics live: Israel ambassador says to ‘respect the process’ after IDF rules out criminal investigation of Zomi Frankcom killing",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Victorian premier to call royal commission into construction sector amid CFMEU scandal",
+          "summary": "Victorian Premier Ben Carroll is set to announce a royal commission into the state's construction sector amid an ongoing CFMEU scandal. The inquiry will examine allegations of union corruption on state government building sites.\n\nAccording to ABC News, former South Australian Supreme Court chief justice Christopher Kourakis has been appointed to head the commission. Carroll stated that \"nothing is off limits\" in the investigation into corruption within the industry.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/aug/20/victorian-premier-to-call-royal-commission-into-construction-sector-amid-cfmeu-scandal-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Victorian premier to call royal commission into construction sector amid CFMEU scandal",
+              "excerpt": "Ben Carroll to announce inquiry that will include examining allegations of union corruption on state government building sites Follow our Australia news live blog for latest updates Get our br",
+              "imageUrl": "https://i.guim.co.uk/img/media/828463f26d35b483a2588193246e48e46adcb92c/562_70_3647_2918/master/3647.jpg?width=140&quality=85&auto=format&fit=max&s=0a6e5cc511b9a0607d20f125d8353334",
+              "imageAlt": "Victorian premier to call royal commission into construction sector amid CFMEU scandal",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-08-20/vic-premier-ben-carroll-announces-construction-royal-commission/107057862",
+              "source": "ABC Australia",
+              "headline": "Victorian premier says 'nothing off limits' in construction royal commission",
+              "excerpt": "Former South Australian Supreme Court chief justice Christopher Kourakis will head the royal commission into corruption in the state's construction sector.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b6115eb2f66a6444267190d4cfffaf98?impolicy=wcms_crop_resize&cropH=879&cropW=1563&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Victorian premier says 'nothing off limits' in construction royal commission",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/828463f26d35b483a2588193246e48e46adcb92c/562_70_3647_2918/master/3647.jpg?width=140&quality=85&auto=format&fit=max&s=0a6e5cc511b9a0607d20f125d8353334",
+          "imageAlt": "Victorian premier to call royal commission into construction sector amid CFMEU scandal",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "stories": [
+        {
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "summary": "Researchers say OpenAI revoked their access to a limited cyber program. The Trusted Access for Cyber initiative was designed to give trusted defenders better models so they could report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.\n\nThe researchers are complaining that their access was taken away from this limited program.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+              "source": "TechCrunch",
+              "headline": "Researchers say OpenAI revoked their access to limited cyber program",
+              "excerpt": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+              "imageAlt": "Researchers say OpenAI revoked their access to limited cyber program",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+          "imageAlt": "Researchers say OpenAI revoked their access to limited cyber program",
+          "imageCredit": "TechCrunch"
         },
         {
           "title": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’",
-          "summary": "Melbourne-based studio House House is developing Big Walk, a new title that shifts focus from traditional objectives to simple exploration and conversation. The team, known for Untitled Goose Game, designed the game so players' primary goal is to walk together with friends.\n\nDuring an interview, the developers took journalists on a hike through local scrubland to demonstrate the game's core philosophy. They traveled by train to the beach and relaxed in sand dunes, mirroring the unhurried pace of Big Walk.\n\nThe studio emphasizes that the experience is about finding joy in shared movement rather than completing tasks. Developers describe the stories players share during these walks as \"punch-in-the-gut beautiful,\" highlighting the emotional resonance of casual interaction.",
+          "summary": "House House, the Melbourne studio behind Untitled Goose Game, has released Big Walk, a new title centered on exploration and conversation rather than traditional objectives. The game encourages players to walk together with friends, using movement as a framework for social interaction.\n\nThe Guardian’s review highlights the developers’ emphasis on finding joy in simple shared experiences. During an interview session at the studio, the team took reporters on a hike through local scrubland to demonstrate the game's core philosophy of unhurried exploration.\n\nAccording to the article, the experience often leads to unexpected emotional moments. The developers describe some player stories as “punch-in-the-gut beautiful,” suggesting that the lack of rigid goals allows for more organic and meaningful connections between participants.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/aug/20/in-big-walk-players-just-walk-and-talk-and-find-joy-along-the-way-some-stories-weve-heard-are-punch-in-the-gut-beautiful",
-              "source": "The Guardian Australia",
+              "source": "The Guardian Technology",
               "headline": "In Big Walk, players just walk and talk – and find joy along the way: ‘Some stories we’ve heard are punch-in-the-gut beautiful’",
               "excerpt": "After their hit Untitled Goose Game, Australian studio House House is back with a new game where your only goal is to go exploring with friends – so we took them on a big walk inside Big Walk When I arrive to meet with the tiny team at Melbourne game developer House House, they’re sitting in a circle under a eucalyptus tree. After introductions, the five of us set off into the scrub. Over the course of our hike we take a train to the beach, huddle on deck chairs in the sand dunes and cl",
               "imageUrl": "https://i.guim.co.uk/img/media/b69f64cea2bdae24d68ea444abc3624e029cfc0f/582_50_1208_966/master/1208.jpg?width=140&quality=85&auto=format&fit=max&s=ce7f0cde566479c63aeb80933afb9a16",
@@ -461,83 +571,32 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Forgiving those who sin against us",
-          "summary": "Labor politician Dave Kelly MP, the Member for Bassendean, has called on Western Australia’s Parliament to consider removing a daily recitation. The proposal centers on the phrase “forgiving those who sin against us.”\n\nThe Spectator Australia reported that Kelly wishes for the legislative body to review this traditional element of its proceedings.",
+          "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
+          "summary": "A Guardian Technology report examines growing concerns that Meta Glasses may be used to secretly film people in private and public settings. The article asks whether the popular smartglasses represent a significant threat to personal privacy.\n\nAccording to the source material, individuals have reported being filmed without their knowledge in homes, at concerts, and at work. One anonymous Los Angeles-based man described receiving a message from someone who said they intended to record strippers at clubs, highlighting what he characterized as creepy intentions.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/forgiving-those-who-sin-against-us/",
-              "source": "Spectator Australia",
-              "headline": "Forgiving those who sin against us",
-              "excerpt": "Labor politician Dave Kelly MP, Member for Bassendean, wishes for Western Australia’s Parliament to consider removing the daily recital of… The post Forgiving those who sin against us appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/i-was-right-from-the-very-beg",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/pexels-florian-chefai-16617600-6457911.jpg",
-              "imageAlt": "Forgiving those who sin against us",
-              "outlet": "Spectator Australia",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/pexels-florian-chefai-16617600-6457911.jpg",
-          "imageAlt": "Forgiving those who sin against us",
-          "imageCredit": "Spectator Australia"
-        }
-      ]
-    },
-    {
-      "name": "Technology",
-      "stories": [
-        {
-          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-          "summary": "Amazon is making its AI-powered Alexa+ assistant free for all compatible Fire TV devices in the United States. The update will be automatically applied to users regardless of whether they have a Prime subscription.\n\nThe move expands access to Amazon's advanced voice assistant features across its smart display and streaming hardware lineup. By removing the paywall, the company aims to integrate Alexa+ more deeply into everyday home entertainment experiences.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free",
-              "source": "The Verge",
-              "headline": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
-              "excerpt": "Amazon is bringing Alexa Plus to Fire TV device owners in the US for free. Starting today",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Fire-TV-Alexa-2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-              "imageAlt": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
-              "outlet": "The Verge",
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
+              "source": "The Guardian Technology",
+              "headline": "Did someone wearing Meta Glasses film you today? Are you sure?",
+              "excerpt": "People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy? “I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He said: ‘I go to strip clubs, and I want to record the strippers … Normally I put my",
+              "imageUrl": "https://i.guim.co.uk/img/media/ad85a9abed95abdd431f53ef872369fb0344b714/0_54_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5b8410b22af6ad43b4a51beab204d0e7",
+              "imageAlt": "Did someone wearing Meta Glasses film you today? Are you sure?",
+              "outlet": "The Guardian",
               "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
+              "sourceReliability": "high",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-              "source": "TechCrunch",
-              "headline": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-              "excerpt": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675",
-              "imageAlt": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Fire-TV-Alexa-2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "imageAlt": "Amazon Fire TV devices are getting a free Alexa Plus upgrade",
-          "imageCredit": "The Verge"
+          "imageUrl": "https://i.guim.co.uk/img/media/ad85a9abed95abdd431f53ef872369fb0344b714/0_54_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5b8410b22af6ad43b4a51beab204d0e7",
+          "imageAlt": "Did someone wearing Meta Glasses film you today? Are you sure?",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "The Blood of Dawnwalker – save your family while becoming what you hate",
@@ -568,16 +627,16 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
-          "summary": "The Guardian reports that Meta Glasses are raising fresh privacy concerns as users describe being secretly filmed in private and public settings. The piece asks whether the popular smartglasses could mark a major shift in personal surveillance.\n\nInterviewees say they have been recorded at home, at concerts, and at work without clear notice. One Los Angeles-based man shared an account of someone expressing intent to record strippers, illustrating how the device’s camera can be used for intrusive purposes.\n\nThe article frames the issue as a potential “final nail in the coffin” for privacy, while also noting that many people may not even realize they are being filmed. The reporting relies on anonymous accounts and personal anecdotes rather than formal investigations or legal findings.",
+          "title": "Samsung Galaxy Z Fold 8 review: your passport to a folding phone future",
+          "summary": "Samsung's Galaxy Z Fold 8 introduces a new form factor for foldable phones, departing from traditional designs with its compact, passport-like shape. The device features a squat Android interface that transforms into an iPad mini-sized tablet when opened.\n\nThe Guardian review highlights the phone's improved tablet usability compared to previous folding models, noting its suitability for video consumption and multitasking. However, the publication questions whether the short, wide form factor represents too significant a compromise for users accustomed to standard smartphone dimensions.\n\nThe device is positioned as an entirely new variant within Samsung's foldable lineup, offering substantial processing power and battery life alongside its distinctive physical design.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
+              "url": "https://www.theguardian.com/technology/2026/aug/10/samsung-galaxy-z-fold-8-review-folding-phone",
               "source": "The Guardian Technology",
-              "headline": "Did someone wearing Meta Glasses film you today? Are you sure?",
-              "excerpt": "People say they’ve been secretly filmed in their own home, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy? “I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He said: ‘I go to strip clubs, and I want to record the strippers … Normally I put my",
-              "imageUrl": "https://i.guim.co.uk/img/media/ad85a9abed95abdd431f53ef872369fb0344b714/0_54_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5b8410b22af6ad43b4a51beab204d0e7",
-              "imageAlt": "Did someone wearing Meta Glasses film you today? Are you sure?",
+              "headline": "Samsung Galaxy Z Fold 8 review: your passport to a folding phone future",
+              "excerpt": "Novel squat Android opens to an iPad-like screen for video or multitasking, with plenty of power and battery life Samsung’s latest folding phone breaks the mould with a squat, passport-like shape reminiscent of the Blackberry, which opens up to become a tablet similar to an iPad mini. It is certainly a better shape for a tablet than other designs, but is a short and wide phone when closed a compromise too far? The Galaxy Z Fold 8 is an entirely new variant in Samsung’s foldable fa",
+              "imageUrl": "https://i.guim.co.uk/img/media/0d2e0a4f1818504df6b31a8554fc63fa67875154/1546_517_3882_3106/master/3882.jpg?width=140&quality=85&auto=format&fit=max&s=e18036dbbc1376119f5b36c33080b0a0",
+              "imageAlt": "Samsung Galaxy Z Fold 8 review: your passport to a folding phone future",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -591,64 +650,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/ad85a9abed95abdd431f53ef872369fb0344b714/0_54_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5b8410b22af6ad43b4a51beab204d0e7",
-          "imageAlt": "Did someone wearing Meta Glasses film you today? Are you sure?",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-          "summary": "Anthropic says Claude will begin watermarking AI-generated text as part of its effort to comply with EU regulation. The company plans to change the way the chatbot makes small, random choices when producing language.\n\nThe move has raised questions about whether the new approach could degrade writing quality. Readers and commentators already associate machine-generated prose with recurring patterns such as overuse of “delve,” excess em dashes, and repetitive constructions like “it’s not X but Y.” The Guardian frames the issue as a potential trade-off between regulatory compliance and the naturalness of Claude’s output.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
-              "source": "The Guardian Technology",
-              "headline": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-              "excerpt": "Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulation The world is familiar by now with the usual tropes of machine-generated text: overuse of the word “delve”, an excess of em dashes, and the chirpy, relentless construction of “it’s not X but Y” . But is it about to get even worse? <a href=\"https://www.theguardian.com/technol",
-              "imageUrl": "https://i.guim.co.uk/img/media/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/master/3527.jpg?width=140&quality=85&auto=format&fit=max&s=78e760a5dc08923d56ed129ddcc8ad89",
-              "imageAlt": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/master/3527.jpg?width=140&quality=85&auto=format&fit=max&s=78e760a5dc08923d56ed129ddcc8ad89",
-          "imageAlt": "Claude to start watermarking AI-generated text – but will it make quality worse?",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "I spent 18 months testing the best video doorbells – here are my favourites",
-          "summary": "A Guardian technology review evaluated several video doorbells over an 18-month testing period to identify the best options for home security and visitor awareness.\n\nThe article notes that modern smart doorbells have evolved beyond simple intercoms. They can now detect approaching visitors, notify residents before a button is pressed, and provide visual confirmation of who is at the entrance.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2024/nov/14/the-8-best-video-doorbells-tried-and-tested",
-              "source": "The Guardian Technology",
-              "headline": "I spent 18 months testing the best video doorbells – here are my favourites",
-              "excerpt": "Whether you want to improve your home’s security or simply know who’s at the door, the latest generation of smart doorbells will help put your mind at ease • The best robot vacuums, tested Doorbells have evolved. Today, they watch us as we approach, let the people inside the home know we’re coming sooner than our finger can hit the button, and give them a good lo",
-              "imageUrl": "https://i.guim.co.uk/img/media/68f1ea8dd51fd65dad2224110615fde9999f1701/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=050eaaabb2bf1a7d6ad513873da9a75a",
-              "imageAlt": "I spent 18 months testing the best video doorbells – here are my favourites",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/68f1ea8dd51fd65dad2224110615fde9999f1701/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=050eaaabb2bf1a7d6ad513873da9a75a",
-          "imageAlt": "I spent 18 months testing the best video doorbells – here are my favourites",
+          "imageUrl": "https://i.guim.co.uk/img/media/0d2e0a4f1818504df6b31a8554fc63fa67875154/1546_517_3882_3106/master/3882.jpg?width=140&quality=85&auto=format&fit=max&s=e18036dbbc1376119f5b36c33080b0a0",
+          "imageAlt": "Samsung Galaxy Z Fold 8 review: your passport to a folding phone future",
           "imageCredit": "The Guardian"
         }
       ]
@@ -657,17 +660,35 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Army launches territorial defense exercise in Sulu",
-          "summary": "The Philippine Army launched a simulated territorial defense exercise in Sulu on Wednesday. The operation, titled “Orion’s Taming” Exercise 2026, was formally initiated by the Army’s 11th Infantry (Alakdan) Division.\n\nThe inter-agency drill brings together government, security, and disaster-response agencies to test their coordination capabilities during security emergencies.",
+          "title": "Guteza recants: Marcoleta, Defensor tapped me to accuse Romualdez",
+          "summary": "Retired Marine Orly Guteza has recanted his previous allegations against Martin Romualdez in a multibillion-peso flood control corruption scandal. After months out of the public eye, Guteza resurfaced to withdraw his statements regarding an alleged cash delivery.\n\nGuteza claims he was coerced into making false accusations by Senator Rodante Marcoleta and former congressman Mike Defensor. His withdrawal is described as a significant blow to an ongoing Ombudsman complaint against Romualdez.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2288315/army-launches-territorial-defense-exercise-in-sulu",
+              "url": "https://newsinfo.inquirer.net/2288435/guteza-recants-marcoleta-defensor-tapped-me-to-accuse-romualdez",
               "source": "Philippine Daily Inquirer",
-              "headline": "Army launches territorial defense exercise in Sulu",
-              "excerpt": "MANILA, Philippines — The Philippine Army on Wednesday launched a simulated territorial defense exercise in Sulu, bringing together government, security and disaster-response agencies to test their ability to coordinate during security emergencies. The Inter-Agency Territorial Defense Operations “Orion’s Taming” Exercise 2026 was formally started by the Army’s 11th Infantry (Alakdan) Division in the province, according",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/viber_image_2026-08-19_10-17-01-415.jpg",
-              "imageAlt": "Army launches territorial defense exercise in Sulu",
+              "headline": "Guteza recants: Marcoleta, Defensor tapped me to accuse Romualdez",
+              "excerpt": "MANILA, Philippines — The “trash” talk surrounding the multibillion-peso flood control corruption scandal might belong in the dustbin of history after all. Months after disappearing from public view, Orly Guteza, a retired Marine and former security personnel of former lawmaker Zaldy Co, resurfaced to recant his statements about the alleged delivery of cash he described",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2025/10/Orly-Guteza-29October2025.jpg",
+              "imageAlt": "Guteza recants: Marcoleta, Defensor tapped me to accuse Romualdez",
               "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/orly-guteza-recants-testimony-romualdez-blow-ombudsman-complaint/",
+              "source": "Rappler World",
+              "headline": "Guteza withdraws allegations vs Romualdez, dealing blow to Ombudsman complaint",
+              "excerpt": "(1st UPDATE) Former Marine Orly Guteza alleges that he was coerced by Senator Rodante Marcoleta and former congressman Mike Defensor to falsely implicate Martin Romualdez in a kickback scheme",
+              "imageUrl": "https://www.rappler.com/tachyon/2025/09/orly-guteza-senate-hearing-flood-control-september-25-2025-004-scaled.jpg",
+              "imageAlt": "Guteza withdraws allegations vs Romualdez, dealing blow to Ombudsman complaint",
+              "outlet": "Rappler",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
@@ -680,41 +701,13 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/viber_image_2026-08-19_10-17-01-415.jpg",
-          "imageAlt": "Army launches territorial defense exercise in Sulu",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Senate minority names members to 10 committees after appeals",
-          "summary": "The Philippine Senate minority group designated its members to ten committees on Wednesday, ending a period of uncertainty in the upper chamber. The move followed repeated appeals from Senate leadership for the minority to fill its committee seats.\n\nSenate Minority Leader Alan Peter Cayetano proposed the designations, which were subsequently approved by the full body. The appointment process had been delayed, with some lawmakers suggesting that Cayetano was holding committee seats hostage to advance specific legislative priorities.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2288174/senate-minority-names-members-to-10-committees-after-appeals",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Senate minority names members to 10 committees after appeals",
-              "excerpt": "MANILA, Philippines— After repeated appeals from the Senate leadership, the minority group on Wednesday finally designated its members to various committees in the upper chamber. On Senate Minority Leader Alan Peter Cayetano’s motion, the Senate approved the designation of minority senators to the following committees: READ: Tulfo: Cayetano holding hostage committee seats Ledac bills Cayetano mentioned the",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Senate-1June2026_4.jpg",
-              "imageAlt": "Senate minority names members to 10 committees after appeals",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Senate-1June2026_4.jpg",
-          "imageAlt": "Senate minority names members to 10 committees after appeals",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2025/10/Orly-Guteza-29October2025.jpg",
+          "imageAlt": "Guteza recants: Marcoleta, Defensor tapped me to accuse Romualdez",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Bangsamoro cops seize P14-M smuggled cigarettes",
-          "summary": "Police in the Bangsamoro Autonomous Region seized at least P14 million worth of suspected smuggled cigarettes and arrested five individuals on Tuesday, Aug. 18.\n\nThe confiscations took place in Cotabato City and Maguindanao del Norte as officers implemented a regional election gun ban. Brig.\n\nGen. Christopher Abecia, the Police Regional Office-Bangsamoro Autonomous Region director, said the operation foiled the transport of the contraband.",
+          "summary": "Police in the Bangsamoro Autonomous Region have seized an estimated P14 million worth of suspected smuggled cigarettes and arrested five individuals for transporting the contraband. The operation took place on Tuesday, August 18, across Cotabato City and Maguindanao del Norte.\n\nBrig. Gen.\n\nChristopher Abecia, regional director of the Police Regional Office-Bangsamoro Autonomous Region (PRO-BAR), stated that officers foiled the transport while implementing a local election gun ban.\n\nThe seizure highlights ongoing efforts by authorities to curb illegal trade and maintain security during the electoral period.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2288337/bangsamoro-cops-seize-p14-m-smuggled-cigarettes",
@@ -741,8 +734,36 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
+          "title": "DOST extends P91-M tech support to Mimaropa MSMEs",
+          "summary": "The Department of Science and Technology (DOST) has provided over P91 million in technology assistance to more than 1,200 micro, small, and medium enterprises (MSMEs) across the Mimaropa region. The support aims to boost productivity and strengthen local businesses.\n\nThe initiative covers Occidental and Oriental Mindoro, Marinduque, Romblon, and Palawan. DOST Secretary Renato U.\n\nSolidum Jr. highlighted the effort as part of broader government measures to enhance regional economic resilience.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2288775/dost-extends-p91-m-tech-support-to-mimaropa-msmes",
+              "source": "Philippine Daily Inquirer",
+              "headline": "DOST extends P91-M tech support to Mimaropa MSMEs",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — More than 1,200 micro, small, and medium enterprises (MSMEs) across the Mimaropa region (Occidental and Oriental Mindoro, Marinduque, Romblon, Palawan) have received over P91 million in technology assistance from the Department of Science and Technology (DOST) to boost productivity and strengthen local enterprises. DOST Secretary Renato U. Solidum Jr., in",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2025/02/dost-logo_5b0e88c1d2be01_65926826-1.jpg",
+              "imageAlt": "DOST extends P91-M tech support to Mimaropa MSMEs",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2025/02/dost-logo_5b0e88c1d2be01_65926826-1.jpg",
+          "imageAlt": "DOST extends P91-M tech support to Mimaropa MSMEs",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
           "title": "DOST, Bukidnon push P10-M ‘smart’ farming initiative",
-          "summary": "The provincial government of Bukidnon and the Department of Science and Technology (DOST) have launched a nearly P10-million “smart” agricultural monitoring initiative. The project aims to equip farmers and local officials with timely data to better manage climate shocks.\n\nGov. Rogelio Neil Roque expressed gratitude to DOST for the partnership, noting that the program was officially launched last Monday.",
+          "summary": "The provincial government of Bukidnon and the Department of Science and Technology (DOST) have launched a nearly P10-million “smart” agricultural monitoring initiative. The project aims to equip local farmers and officials with timely data to better manage climate-related risks.\n\nGov. Rogelio Neil Roque expressed gratitude to DOST for supporting the effort, which was officially launched last Monday. By integrating technology into regional agriculture, the partnership seeks to improve decision-making and resilience across Bukidnon’s farming communities.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2288331/dost-bukidnon-push-p10-m-smart-farming-initiative",
@@ -769,50 +790,17 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Damaged protection dike in Mindoro puts Naujan residents at risk",
-          "summary": "Provincial authorities in Oriental Mindoro inspected a damaged protection dike in Barangay Arangin on Wednesday after strong currents from the Bagto River destroyed a large portion of the structure. The dike serves as the village’s primary defense against flooding.\n\nThe inspection was conducted by provincial officials, including Provincial Engineer Edylou, following reports that the damage has put residents at risk. The Provincial Information Office confirmed the assessment and highlighted the urgent need for repairs to restore flood protection in the area.",
+          "title": "GenSan steps up business permit checks on pickleball craze",
+          "summary": "The city government of General Santos has intensified inspections of pickleball courts as the sport's popularity continues to rise. Authorities are verifying whether operators hold valid business permits or licenses.\n\nThe City Mayor’s Office-Business Permits and Licensing Division launched “Operation Pickleball Hunt” to conduct these checks. The initiative aims to ensure compliance with local regulations amid the growing number of pickleball facilities in the area.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2288205/damaged-protection-dike-in-mindoro-puts-naujan-residents-at-risk",
+              "url": "https://newsinfo.inquirer.net/2288799/gensan-steps-up-business-permit-checks-on-pickleball-craze",
               "source": "Philippine Daily Inquirer",
-              "headline": "Damaged protection dike in Mindoro puts Naujan residents at risk",
-              "excerpt": "CALAPAN CITY, Oriental Mindoro, Philippines — Provincial authorities on Wednesday (August 19) inspected a damaged protection dike in Barangay Arangin here after strong currents from the Bagto River destroyed a large portion of the structure that serves as the village’s defense against flooding, according to the Provincial Information Office of Oriental Mindoro. Provincial engineer Edylou",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Protection-dike-damaged-by-Bagto-River-puts-1093-Naujan-residents-at-risk-in-Oriental-Mindoro-on-August-19.-Photo-courtesy-of-the-Provincial-Information-Office-in-Oriental-Mindoro-1.png",
-              "imageAlt": "Damaged protection dike in Mindoro puts Naujan residents at risk",
+              "headline": "GenSan steps up business permit checks on pickleball craze",
+              "excerpt": "KORONADAL CITY — The city government of General Santos (GenSan) has stepped up the inspections of pickleball courts as the sports craze continues to grow in popularity, with authorities checking whether operators have valid business permits or licenses. The City Mayor’s Office-Business Permits and Licensing Division (BPLD) launched “Operation Pickleball Hunt” to check pickleball courts,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2023/07/General-Santos-City-South-Cotabato-map-071923.png",
+              "imageAlt": "GenSan steps up business permit checks on pickleball craze",
               "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Protection-dike-damaged-by-Bagto-River-puts-1093-Naujan-residents-at-risk-in-Oriental-Mindoro-on-August-19.-Photo-courtesy-of-the-Provincial-Information-Office-in-Oriental-Mindoro-1.png",
-          "imageAlt": "Damaged protection dike in Mindoro puts Naujan residents at risk",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "OpenAI institutes new safeguards after Hugging Face breach",
-          "summary": "OpenAI has introduced new safeguards following a breach at Hugging Face. The company said the measures are intended to strengthen oversight of its models as they move through development.\n\nThe updated protocols include more detailed monitoring during the model development process. OpenAI also emphasized greater focus on alignment and security in post-training stages.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-              "source": "TechCrunch",
-              "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-              "excerpt": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-              "imageUrl": "",
-              "imageAlt": "OpenAI institutes new safeguards after Hugging Face breach",
-              "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
@@ -824,19 +812,77 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2023/07/General-Santos-City-South-Cotabato-map-071923.png",
+          "imageAlt": "GenSan steps up business permit checks on pickleball craze",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+          "summary": "Rwanda-backed rebels have entered Goma, a city in the Democratic Republic of Congo that had served as a safe haven for displaced residents. The advance followed reports of gunfire and shelling after rebel forces overran Congolese troops.\n\nThe conflict has intensified pressure on local infrastructure and humanitarian operations. U.N. officials estimated that more than one million displaced people were now inside the city, underscoring the scale of the crisis.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+              "source": "Wall Street Journal",
+              "headline": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "excerpt": "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops. U.N. officials estimated that more than one million displaced people were now inside the city.",
+              "imageUrl": "",
+              "imageAlt": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
         },
         {
-          "title": "Dressmaker – a canvas for the creativity of dream dress design",
-          "summary": "Dressmaker is a design game co-created by developer Jonathan Hau-Yoon and his sewing-obsessed partner, Sabrina Becker. The project was inspired by Hau-Yoon's desire to make something as meaningful as the environmental strategy game Terra Nil.\n\nBecker had worn a dress she made herself to an event, which sparked the concept for the new title. According to its lead programmer, Dressmaker has been the most technically challenging project he has ever worked on.",
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "summary": "Google has introduced new AI-powered study tools across its Search and Gemini platforms. The features are designed to assist students with learning tasks.\n\nThe launch represents Google's latest initiative to position Gemini as a primary assistant for academic work. It also highlights the company's ongoing competition with rivals like OpenAI in the education sector.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/aug/18/dressmaker-a-canvas-for-the-creativity-of-dream-dress-design",
+              "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+              "source": "TechCrunch",
+              "headline": "Google packs Search and Gemini with new AI study tools",
+              "excerpt": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+              "imageUrl": "",
+              "imageAlt": "Google packs Search and Gemini with new AI study tools",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+        },
+        {
+          "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+          "summary": "China’s rapid technological progress is creating significant disruption across the U.S. tech sector and government policy circles. Recent breakthroughs in artificial intelligence, chip manufacturing, and robotics have unsettled financial markets and divided opinions among American technology leaders.\n\nThe Trump administration has been forced to respond quickly to these developments, which have intensified existing tensions between Silicon Valley and Beijing. While U.S. officials have long cited China’s tech growth as a competitive threat, the pace of recent advancements has accelerated calls for new policy measures.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
               "source": "The Guardian Technology",
-              "headline": "Dressmaker – a canvas for the creativity of dream dress design",
-              "excerpt": "Co-created by a developer and his sewing-obsessed partner, this design game is ‘the most technically challenging’ its lead programmer has ever made When Jonathan Hau-Yoon wanted to make something as meaningful as the environmental strategy game Terra Nil , he turned for inspiration to his longtime partner. Sabrina Becker had worn a dress she made herself to the",
-              "imageUrl": "https://i.guim.co.uk/img/media/1f2e5c251b2663adee84dccc3a1721cfee234281/151_71_1229_983/master/1229.jpg?width=140&quality=85&auto=format&fit=max&s=3edfebe898ffaf25fb5af476e795e4bd",
-              "imageAlt": "Dressmaker – a canvas for the creativity of dream dress design",
+              "headline": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+              "excerpt": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industry Over the past month, a series of advancements in China’s artificial intelligence, chip manufacturing and robotics technologies have rattled financial markets, caused divisions among US tech moguls and left the Trump administration scrambling to respond. Silicon Valley has long pointed to China’s tech industry as a competitive threat and used its growth as rationale for why U",
+              "imageUrl": "https://i.guim.co.uk/img/media/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=bb3223b877e46277fe50da07a5f1cea2",
+              "imageAlt": "China’s tech advances are causing chaos from Silicon Valley to the White House",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -850,93 +896,59 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/1f2e5c251b2663adee84dccc3a1721cfee234281/151_71_1229_983/master/1229.jpg?width=140&quality=85&auto=format&fit=max&s=3edfebe898ffaf25fb5af476e795e4bd",
-          "imageAlt": "Dressmaker – a canvas for the creativity of dream dress design",
+          "imageUrl": "https://i.guim.co.uk/img/media/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=bb3223b877e46277fe50da07a5f1cea2",
+          "imageAlt": "China’s tech advances are causing chaos from Silicon Valley to the White House",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-          "summary": "A growing number of lawsuits are challenging the use of artificial intelligence in employment decisions, raising fresh questions about how companies hire and fire. The legal disputes center on automated hiring tools that applicants say have obscured their chances without clear explanation.\n\nErin Kistler, a product manager with nearly four years of applications to major employers such as PayPal, Microsoft, and Netflix, describes her résumé disappearing into a “black hole.” Her experience is cited in reporting from The Guardian Technology as part of a broader pattern of discrimination and secrecy claims tied to AI-driven hiring systems.",
+          "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+          "summary": "NATO has mounted its first coordinated response to a suspected sabotage campaign targeting critical infrastructure. The alliance took action after another deep-sea cable was severed in the Baltic Sea.\n\nThe incident marks a significant escalation in efforts to protect undersea networks from deliberate interference.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-              "source": "The Guardian Technology",
-              "headline": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-              "excerpt": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal , Microsoft and Netflix , only to find her résumé disappear into a black hole. A product manager with nearl",
-              "imageUrl": "https://i.guim.co.uk/img/media/97c70a6b185a61783623194a6c08e38ab9881a23/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=6789749b5804a698ce424c81bdd016f7",
-              "imageAlt": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+              "source": "Wall Street Journal",
+              "headline": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "excerpt": "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.",
+              "imageUrl": "",
+              "imageAlt": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/97c70a6b185a61783623194a6c08e38ab9881a23/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=6789749b5804a698ce424c81bdd016f7",
-          "imageAlt": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
         },
         {
-          "title": "Will the future of gaming be powered by upstart indie developers?",
-          "summary": "The Guardian Technology reports that the future of gaming may increasingly depend on upstart indie developers. As major publishers retreat into safer, established bets, a new generation of independents is building an alternative from the ground up.\n\nThe article draws a parallel to the 1990s film industry, when independent studios and distributors helped revitalize Hollywood. It suggests that gaming may be undergoing a similar shift, with smaller developers filling gaps left by larger companies focused on lower-risk projects.",
+          "title": "Palestinians Stream Back to Northern Gaza on Foot",
+          "summary": "Palestinian residents have begun returning to northern Gaza on foot after Israel permitted displaced people to cross a military zone that divides the enclave. The movement follows a recent breakthrough in negotiations over hostage releases.\n\nThe crossing marks a significant shift in the conflict's humanitarian landscape. It allows families to return to areas previously restricted by Israeli military operations.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/aug/19/will-the-future-of-gaming-be-powered-by-upstart-developers",
-              "source": "The Guardian Technology",
-              "headline": "Will the future of gaming be powered by upstart indie developers?",
-              "excerpt": "As gaming’s biggest publishers retreat into safer bets, a new generation of independents are building an alternative from the ground up • Don’t get Pushing Buttons delivered to your inbox? Sign up here During the 1990s, a new strata of independent film studios and distributors revitalised the Holl",
-              "imageUrl": "https://i.guim.co.uk/img/media/0316cc1fdeb0cab798c72aab051515406bcfa9af/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=16aa4237f2d6883e0d717549e93b8dc1",
-              "imageAlt": "Will the future of gaming be powered by upstart indie developers?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+              "source": "Wall Street Journal",
+              "headline": "Palestinians Stream Back to Northern Gaza on Foot",
+              "excerpt": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+              "imageUrl": "",
+              "imageAlt": "Palestinians Stream Back to Northern Gaza on Foot",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/0316cc1fdeb0cab798c72aab051515406bcfa9af/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=16aa4237f2d6883e0d717549e93b8dc1",
-          "imageAlt": "Will the future of gaming be powered by upstart indie developers?",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-          "summary": "OpenAI has launched ChatGPT for Teens, a version of its chatbot designed specifically for users aged 13 to 17. The company describes the release as targeting the first generation growing up with artificial intelligence.\n\nThe teen-specific product includes stronger safeguards than standard versions, with content protections focused on self-harm and sexual conversations. OpenAI noted that teenagers are already using ChatGPT for schoolwork and other questions, prompting the development of a more controlled environment.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens",
-              "source": "The Guardian Technology",
-              "headline": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-              "excerpt": "Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers – the first generation to grow up with artificial intelligence – who are already using it for schoolwork, questio",
-              "imageUrl": "https://i.guim.co.uk/img/media/f60de82acdf518360559012a8befee837437552b/659_559_2572_2057/master/2572.jpg?width=140&quality=85&auto=format&fit=max&s=6500e37e03330a73d94fb1d76e0df7aa",
-              "imageAlt": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/f60de82acdf518360559012a8befee837437552b/659_559_2572_2057/master/2572.jpg?width=140&quality=85&auto=format&fit=max&s=6500e37e03330a73d94fb1d76e0df7aa",
-          "imageAlt": "OpenAI launches ChatGPT for Teens with stronger safeguards",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
         }
       ]
     }
