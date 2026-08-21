@@ -2,61 +2,154 @@
   "id": "2026-08-21-expanded",
   "date": "2026-08-21",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-08-21T03:00:12.334168",
+  "generatedAt": "2026-08-21T12:30:38.064047",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-08-21T03:00:12",
+  "updatedAt": "2026-08-21T12:30:38",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "FBI raids Eric Swalwell’s property, seizes devices at airport in sexual misconduct investigation",
-          "summary": "Federal agents confronted former California Representative Eric Swalwell at San Francisco International Airport on Saturday and seized his electronic devices. The action was part of an ongoing federal criminal investigation into allegations of sexual misconduct.\n\nAccording to sources familiar with the probe, FBI agents presented Swalwell with a search warrant upon his arrival in California. They confiscated his cell phone and other digital materials as key evidence for the case.\n\nThe following day, investigators expanded their efforts by raiding Swalwell’s home in Washington. The coordinated law enforcement actions mark a significant escalation in the federal sex crime investigation.",
+          "title": "Academic who accused Cambridge professor of plagiarism suspended",
+          "summary": "Nathan Cofnas, the postdoctoral researcher who led plagiarism allegations against former Cambridge professor Jason Arday, has been suspended by Ghent University in Belgium. The suspension is pending a disciplinary investigation into his conduct.\n\nCofnas's accusations preceded Arday's resignation and subsequent death. He was previously dismissed from Cambridge in 2024 over his views on race.\n\nThe researcher is described as an outspoken critic of diversity, equity, and inclusion initiatives.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/08/20/report-fbi-agents-confiscate-eric-swalwells-electronic-devices-at-airport-for-sexual-misconduct-probe/",
+              "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "University suspends US academic leading Jason Arday plagiarism accusations",
+              "excerpt": "Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a873cae6c9c-1787247790.jpg?resize=1920%2C1440",
+              "imageAlt": "University suspends US academic leading Jason Arday plagiarism accusations",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/europe/2026/08/20/cambridge-scandal-american-academic-who-exposed-alleged-jason-arday-plagiarism-suspended-by-own-university-over-discrimination-probe/",
               "source": "Breitbart",
-              "headline": "Report: FBI Agents Confiscate Eric Swalwell's Electronic Devices at Airport for Sexual Misconduct Probe",
-              "excerpt": "Disgraced former Rep. Eric Swalwell (D) was reportedly confronted by FBI agents at San Francisco International Airport on Saturday where his electronic devices were seized as part of a federal criminal probe into sexual misconduct. The post Report: FBI Agents Confiscate Eric Swalwell’s Electronic Devices at Airport",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Eric-Swalwell-640x335.jpg",
-              "imageAlt": "Report: FBI Agents Confiscate Eric Swalwell's Electronic Devices at Airport for Sexual Misconduct Probe",
+              "headline": "Cambridge Scandal: American Academic Who Exposed Alleged Jason Arday Plagiarism Suspended by Own University Over 'Discrimination' Probe",
+              "excerpt": "Philosopher Nathan Cofnas has been suspended by his university after the death of former Professor Jason Arday. The post Cambridge Scandal: American Academic Who Exposed Alleged Jason Arday Plagiarism Suspended by Own University Over ‘Discrimination’ Probe appeared first on <a rel=\"",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/Jason-Arday-Grad-640x335.png",
+              "imageAlt": "Cambridge Scandal: American Academic Who Exposed Alleged Jason Arday Plagiarism Suspended by Own University Over 'Discrimination' Probe",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/20/academic-who-accused-cambridge-professor-plagiarism-suspended/",
+              "source": "Washington Times",
+              "headline": "Academic who accused Cambridge professor of plagiarism suspended",
+              "excerpt": "Nathan Cofnas, the postdoctoral researcher whose plagiarism allegations preceded the resignation and death of former Cambridge professor Jason Arday, has himself been suspended by Ghent University in Belgium pending a disciplinary investigation.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/19/Britain_Cambridge_Professor_Arday_Vigil__768__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Academic who accused Cambridge professor of plagiarism suspended",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a873cae6c9c-1787247790.jpg?resize=1920%2C1440",
+          "imageAlt": "University suspends US academic leading Jason Arday plagiarism accusations",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+          "summary": "Jailed former Pakistani Prime Minister Imran Khan has been transferred to a hospital for medical treatment. His party said he was moved from Adiala jail to Shifa International Hospital under heavy security.\n\nThe transfer followed a court order, according to Al Jazeera. Khan, who was voted out of office in April 2022, has remained in prison for more than three years.",
+          "links": [
             {
-              "url": "https://www.dailywire.com/news/fbi-surprises-eric-swalwell-at-airport-seizes-key-evidence",
-              "source": "Daily Wire",
-              "headline": "FBI Surprises Eric Swalwell At Airport, Seizes Key Evidence",
-              "excerpt": "FBI agents surprised disgraced former Rep. Eric Swalwell (D-CA) when he arrived at the San Francisco airport on Saturday, slapping him with a search warrant. Sources familiar with the law enforcement action confirmed to The Daily Wire that Swalwell’s phone and other electronic devices were seized by agents at the airport. Federal law enforcement officials ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/04/GettyImages-2255023222.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "FBI Surprises Eric Swalwell At Airport, Seizes Key Evidence",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order",
+              "excerpt": "Khan, who was voted out of the office in April 2022, has been in prison for more than three years.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a87676218f1-1787258722.jpg?resize=1920%2C1440",
+              "imageAlt": "Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/politics/fbi-seizes-swalwells-devices-airport-sexual-misconduct-investigation-escalates-sources",
-              "source": "Fox News",
-              "headline": "FBI seizes Swalwell’s devices at airport as sexual misconduct investigation escalates: sources",
-              "excerpt": "Eric Swalwell's cell phone was seized at San Francisco International Airport as part of an FBI probe into sexual misconduct, a source confirms.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/eric-swalwell-ballroom.jpg?ve=1&tl=1",
-              "imageAlt": "FBI seizes Swalwell’s devices at airport as sexual misconduct investigation escalates: sources",
-              "outlet": "Fox News",
+              "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+              "excerpt": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
+              "imageAlt": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a87676218f1-1787258722.jpg?resize=1920%2C1440",
+          "imageAlt": "Pakistan’s ex-PM Imran Khan moved to hospital from jail after court order",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "ISIS Supporter Arrested In Plot To Bomb New York State Capitol",
+          "summary": "Federal prosecutors announced the arrest of a woman accused of plotting to bomb the New York State Capitol in Albany. Jessica Bowie, 35, was charged with attempting to provide material support to a designated foreign terrorist organization.\n\nAccording to federal authorities, Bowie allegedly pledged allegiance to ISIS and communicated with an undercover FBI source posing as an ISIS facilitator. The charges stem from her alleged efforts to further the goals of the extremist group through planned violence against a state government building.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US charges woman for allegedly plotting attack on New York State Capitol",
+              "excerpt": "The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for 'terrorism'.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a876a19-1787259417.jpg?resize=1920%2C1440",
+              "imageAlt": "US charges woman for allegedly plotting attack on New York State Capitol",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/isis-supporter-arrested-in-plot-to-bomb-new-york-state-capitol",
+              "source": "Daily Wire",
+              "headline": "ISIS Supporter Arrested In Plot To Bomb New York State Capitol",
+              "excerpt": "A woman who allegedly pledged allegiance to ISIS was arrested after plotting to bomb the New York State Capitol in Albany, federal prosecutors announced Thursday. Jessica Bowie, 35, was charged with attempting to provide material support to a designated foreign terrorist organization after allegedly communicating with an undercover FBI source posing as an ISIS facilitator ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2019/12/GettyImages-1148266153-1.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "ISIS Supporter Arrested In Plot To Bomb New York State Capitol",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -66,60 +159,42 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/investigations/4694598/fbi-raid-eric-swalwell-property-seizes-devices-sexual-misconduct-investigation/",
-              "source": "Washington Examiner",
-              "headline": "FBI raids Eric Swalwell’s property, seizes devices at airport in sexual misconduct investigation",
-              "excerpt": "Federal agents seized electronic devices from disgraced former California Rep. Eric Swalwell after confronting him at San Francisco International Airport on Saturday, as part of a federal criminal investigation stemming from allegations of sexual misconduct, according to sources familiar with the probe. Agents presented Swalwell with a search warrant as he arrived in California and […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26163658617089.jpg?w=696",
-              "imageAlt": "FBI raids Eric Swalwell’s property, seizes devices at airport in sexual misconduct investigation",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/20/fbi-agents-seize-eric-swalwells-phone-raid-home-sex-crime-probe/",
-              "source": "Washington Times",
-              "headline": "FBI agents seize Swalwell's phone, raid his home in sex crime probe",
-              "excerpt": "Federal agents seized former Rep. Eric Swalwell's electronic devices at the San Francisco airport and the next day raided his home in Washington as part of a sex crime investigation, according to reports.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/20/Eric_Swalwell_Investigation_98214_s1440x1066.jpg?dac17577a3c2383f5f81bbdda837587597de7d19",
-              "imageAlt": "FBI agents seize Swalwell's phone, raid his home in sex crime probe",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/Eric-Swalwell-640x335.jpg",
-          "imageAlt": "Report: FBI Agents Confiscate Eric Swalwell's Electronic Devices at Airport for Sexual Misconduct Probe",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a876a19-1787259417.jpg?resize=1920%2C1440",
+          "imageAlt": "US charges woman for allegedly plotting attack on New York State Capitol",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
-          "summary": "Lawyers for Erin Patterson argue that a \"catastrophic\" hotel mix-up undermined her murder conviction in Australia. The issue centers on the jury staying at the same hotel as prosecutors and a key witness.\n\nThe defense claims this overlap compromised the fairness of the trial. This allegation is now central to Patterson's ongoing appeal.",
+          "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+          "summary": "Hong Kong activists associated with Tiananmen Square commemorations have been found guilty of national security charges under the law introduced by China. The verdict marks a significant escalation in the enforcement of Beijing's security framework within the territory.\n\nAccording to BBC reporting, three activists were accused of inciting others to subvert state power. The charges stem from activities related to the annual June 4th anniversary events that have been heavily restricted in recent years.\n\nAn activist group criticized the outcome, describing the Hong Kong judicial system as \"twisted\" and asserting that the verdict had been predetermined. This framing highlights ongoing tensions between local civil society groups and the authorities implementing national security measures.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Hong Kong Tiananmen activists found guilty of national security charges",
+              "excerpt": "Activist group says the 'twisted' Hong Kong judicial system had long ago decided that the pair were guilty.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a87bcdbaaf9-1787280603.jpg?resize=1920%2C1440",
+              "imageAlt": "Hong Kong Tiananmen activists found guilty of national security charges",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
-              "excerpt": "Lawyers for Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as prosecutors and a key witness.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2676/live/aeb15fe0-9bb2-11f1-aed2-8d6da8d75094.jpg",
-              "imageAlt": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
+              "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+              "excerpt": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg",
+              "imageAlt": "Hong Kong's Tiananmen activists guilty in national security trial",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -134,49 +209,21 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2676/live/aeb15fe0-9bb2-11f1-aed2-8d6da8d75094.jpg",
-          "imageAlt": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
-          "imageCredit": "BBC"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a87bcdbaaf9-1787280603.jpg?resize=1920%2C1440",
+          "imageAlt": "Hong Kong Tiananmen activists found guilty of national security charges",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "summary": "The House Judiciary Committee is scheduled to hold a field hearing in New York City focused on violent crime in Manhattan. The session, chaired by Rep. Jim Jordan, will examine policies under Manhattan District Attorney Alvin Bragg.\n\nCommittee officials stated that the hearing aims to assess how local prosecutorial strategies have contributed to rising crime rates and public safety concerns for residents.",
+          "title": "Key Trump Admin Liaison Between White House And Congress Is Leaving",
+          "summary": "White House Director of Legislative Affairs James Braid is set to leave the administration in September, President Donald Trump announced on Thursday. Braid has served as a key liaison between the White House and Congress, working to align lawmakers with the president's agenda and advance his policy priorities.\n\nThe departure comes amid heightened political tensions surrounding potential impeachment proceedings. House Majority Leader Steve Scalise (R-LA) stated that Democrats are planning to impeach President Trump if their party takes control of the U.S. House of Representatives in November, describing such action as coming \"Day One.\"",
           "links": [
             {
-              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "outlet": "CNN",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "imageCredit": "CNN"
-        },
-        {
-          "title": "Darline Graham Nordone attempts to quell backlash over Taiwan question: ‘I don’t speak politician’",
-          "summary": "Sen. Darline Graham Nordone (R-SC) is attempting to defuse criticism after a debate remark in which she said she was “not that informed” on national security, including questions about Taiwan.\n\nDuring Tuesday’s Republican runoff debate against Rep. Ralph Norman for the Senate seat previously held by her late brother, Lindsey Graham, Graham Nordone drew ridicule for the comment. She later told Fox News’ “Hannity” that she is not a career politician and does not “speak politician,” adding that she was simply being honest.\n\nThe remarks have fueled debate over her readiness to serve in a role involving national security policy, with opponents highlighting the Taiwan question as evidence of gaps in her knowledge. Supporters frame her candor as refreshing rather than disqualifying.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/clips/2026/08/19/darline-graham-i-was-just-honest-many-people-cant-find-taiwan-on-a-map-care-about-other-issues/",
+              "url": "https://www.breitbart.com/politics/2026/08/20/scalise-trump-impeachment-coming-day-one-if-democrats-win-majority/",
               "source": "Breitbart",
-              "headline": "Darline Graham: 'I Was Just Honest,' Many People Can't Find Taiwan on a Map, Care About Other Issues",
-              "excerpt": "On Wednesday’s broadcast of the Fox News Channel’s “Hannity,” Sen. Darline Graham (R-SC) said, “I’m not a politician, certainly not a career politician. I don’t speak politician. I was just honest,” when she said she wasn’t that informed on national The post Darline Graham: ‘I Was Just Honest,’ Many People Can’t Find Taiwan",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Graham-819-Thumbnail-640x335.jpg",
-              "imageAlt": "Darline Graham: 'I Was Just Honest,' Many People Can't Find Taiwan on a Map, Care About Other Issues",
+              "headline": "Scalise: Trump Impeachment Coming 'Day One' if Democrats Win Majority",
+              "excerpt": "House Majority Leader Steve Scalise (R-LA) said Democrats are planning to impeach President Donald Trump if their party takes control of the U.S. House of Representatives in November. The post Scalise: Trump Impeachment Coming ‘Day One’ if Democrats Win Majority appeared first on Breitbart .<",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/Trump-Response-to-Impeachment-640x335.jpeg",
+              "imageAlt": "Scalise: Trump Impeachment Coming 'Day One' if Democrats Win Majority",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -188,52 +235,6 @@
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
-            {
-              "url": "https://www.dailywire.com/news/lindsey-grahams-sister-admits-in-debate-im-not-that-informed-on-national-security",
-              "source": "Daily Wire",
-              "headline": "Lindsey Graham’s Sister Admits In Debate: ‘I’m Not That Informed On National Security’",
-              "excerpt": "Sen. Darline Graham (R-SC) admitted she was “not that informed on national security” during a debate against Rep. Ralph Norman (R-SC) on Tuesday, one week before the two face off in a Republican runoff for the Senate seat previously held by her late brother, Lindsey Graham. Graham, who was appointed to fill her brother’s seat ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2290518901.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Lindsey Graham’s Sister Admits In Debate: ‘I’m Not That Informed On National Security’",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4694527/darline-graham-nordone-quell-backlash-taiwan/",
-              "source": "Washington Examiner",
-              "headline": "Darline Graham Nordone attempts to quell backlash over Taiwan question: ‘I don’t speak politician’",
-              "excerpt": "Sen. Darline Graham Nordone (R-SC) is trying to turn down the temperature after being ridiculed for saying she is “not that informed” on national security during a debate, reminding voters that she is not a career politician. During a debate Tuesday night between Graham Nordone and her special Senate primary runoff opponent, Rep. Ralph Norman […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26230850535097.jpg?w=696",
-              "imageAlt": "Darline Graham Nordone attempts to quell backlash over Taiwan question: ‘I don’t speak politician’",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/Graham-819-Thumbnail-640x335.jpg",
-          "imageAlt": "Darline Graham: 'I Was Just Honest,' Many People Can't Find Taiwan on a Map, Care About Other Issues",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Key Trump Admin Liaison Between White House And Congress Is Leaving",
-          "summary": "White House Director of Legislative Affairs James Braid will leave the administration in September, President Donald Trump announced Thursday. The departure is expected to occur ahead of the midterm elections.\n\nBraid serves as a key liaison between the White House and Congress, working to align lawmakers with the president's agenda and advance his policy priorities. He most recently served as a policy aide to then-Senator Marco Rubio before joining the current administration.",
-          "links": [
             {
               "url": "https://www.dailywire.com/news/key-trump-admin-liaison-between-white-house-and-congress-is-leaving",
               "source": "Daily Wire",
@@ -251,43 +252,25 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/20/key-trump-aide-james-braid-leaving-white-house-ahead-midterms/",
-              "source": "Washington Times",
-              "headline": "Key Trump aide James Braid leaving White House ahead of midterms",
-              "excerpt": "James Braid, who directs the White House's lobbying efforts in Congress, will depart the White House next month ahead of the midterm elections, President Trump announced Thursday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2025/01/13/Trump_Biden_Loyalty_51432_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Key Trump aide James Braid leaving White House ahead of midterms",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2223602542.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Key Trump Admin Liaison Between White House And Congress Is Leaving",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://media.breitbart.com/media/2026/08/Trump-Response-to-Impeachment-640x335.jpeg",
+          "imageAlt": "Scalise: Trump Impeachment Coming 'Day One' if Democrats Win Majority",
+          "imageCredit": "Breitbart"
         },
         {
-          "title": "Lindsay Clancy Supporters Send Coordinated Message Outside Murder Trial",
-          "summary": "Hundreds of supporters gathered outside the Plymouth Superior Court in Massachusetts on Thursday morning to show their backing for Lindsay Clancy, who is standing trial for strangling her three children. Many attendees wore pink and some held infants as they formed a silent vigil before sunrise.\n\nThe coordinated display was intended to send a message of support during the high-profile murder case. The gathering took place outside the courtroom where Clancy faces charges related to the deaths of her children.",
+          "title": "Trump tells Michael Cohen he was ‘weaponized’ in hush money trial",
+          "summary": "President Donald Trump said his former attorney Michael Cohen was “weaponized” during a surprise radio interview, marking their first public conversation in nearly a decade. The remarks came as Trump praised Cohen for retracting testimony he gave in the 2024 hush money trial.\n\nThe two men’s relationship has shifted dramatically over time. It began with a close lawyer-client alliance and later turned into a public feud after Cohen became a central witness against Trump in legal proceedings.\n\nTrump framed the episode as evidence of broader abuse, arguing that both the justice system and mainstream media had been used against Cohen. The interview offered a rare on-record reconciliation between two figures who once played opposing roles in one of the most closely watched political trials in recent years.",
           "links": [
             {
-              "url": "https://www.dailywire.com/news/lindsay-clancy-supporters-send-coordinated-message-outside-murder-trial",
-              "source": "Daily Wire",
-              "headline": "Lindsay Clancy Supporters Send Coordinated Message Outside Murder Trial",
-              "excerpt": "Dressed in pink, and in some cases holding infants, supporters of Lindsay Clancy showed up outside the Massachusetts courtroom where she’s standing trial for strangling her three children to death. Hundreds of women crowded outside the Plymouth Superior Court as the sun rose Thursday morning for a silent vigil. They clasped hands and stood in ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/Clancy-Supporters.png?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Lindsay Clancy Supporters Send Coordinated Message Outside Murder Trial",
-              "outlet": "Daily Wire",
+              "url": "https://www.foxnews.com/media/trump-says-michael-cohen-weaponized-mainstream-media-surprise-radio-reunion",
+              "source": "Fox News",
+              "headline": "Trump says Michael Cohen was 'weaponized' by mainstream media in surprise radio reunion",
+              "excerpt": "President Donald Trump said Michael Cohen was \"weaponized\" by mainstream media during a radio interview, marking their first public talk in nearly a decade.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/donald-trump-michael-cohen.jpg?ve=1&tl=1",
+              "imageAlt": "Trump says Michael Cohen was 'weaponized' by mainstream media in surprise radio reunion",
+              "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -295,44 +278,44 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/20/women-pink-rally-support-lindsay-clancy-who-trial-killing-three/",
-              "source": "Washington Times",
-              "headline": "Women in pink rally in support of Lindsay Clancy who is on trial for killing 3 children",
-              "excerpt": "Hundreds of Lindsay Clancy supporters, many wearing pink, gathered Thursday outside the courthouse where she is on trial in the killings of her three children.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/20/Lindsay_Clancy_Trial_45867_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Women in pink rally in support of Lindsay Clancy who is on trial for killing 3 children",
-              "outlet": "Washington Times",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4695546/trump-michael-cohen-hush-money-trial/",
+              "source": "Washington Examiner",
+              "headline": "Trump tells Michael Cohen he was ‘weaponized’ in hush money trial",
+              "excerpt": "President Donald Trump touted his former attorney Michael Cohen for retracting his 2024 testimony in Trump’s hush money trial, insisting that the justice system was “weaponized” against Cohen. In a much-anticipated radio interview, Trump and Cohen reunited after years of turmoil. Their relationship started as a closely allied lawyer-client relationship and turned into a feud […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2023/12/collage-maker-24-oct-2023-03-12-pm-4285-e1787279825935.jpg?w=696",
+              "imageAlt": "Trump tells Michael Cohen he was ‘weaponized’ in hush money trial",
+              "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/08/Clancy-Supporters.png?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Lindsay Clancy Supporters Send Coordinated Message Outside Murder Trial",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/donald-trump-michael-cohen.jpg?ve=1&tl=1",
+          "imageAlt": "Trump says Michael Cohen was 'weaponized' by mainstream media in surprise radio reunion",
+          "imageCredit": "Fox News"
         },
         {
-          "title": "Captain Who Capsized Boat Killing Mother And Baby Is An Illegal Immigrant",
-          "summary": "Manuel Ernesto Hernandez-Umana, 46, has been identified as the captain of a boat that capsized in New York Harbor, killing a mother and her infant. The vessel's operator is from El Salvador and was recently apprehended by Immigration and Customs Enforcement (ICE).\n\nAccording to reports, local authorities had released Hernandez-Umana on August 10 following his arrest. He was subsequently captured by federal immigration officials after being released on a $50,000 personal recognizance bond.",
+          "title": "‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy",
+          "summary": "President Donald Trump announced a new economic campaign against Iran on Wednesday, which he labeled “ECONOMIC D-DAY.” In a Truth Social post, the president compared his strategy to the World War II Normandy invasion and warned of severe consequences for nations that continue doing business with Tehran.\n\nThe announcement framed the move as an all-out effort to dismantle what Trump called Iran’s shadow economy. He criticized the Iranian government for refusing diplomatic engagement, stating that the period for polite negotiations had ended.\n\nTrump threatened “tremendous economic consequences” for any country providing financial support or trade lifelines to the regime. The declaration marks a significant escalation in U.S. pressure on Tehran through targeted sanctions and international economic isolation.",
           "links": [
             {
-              "url": "https://www.breitbart.com/immigration/2026/08/19/captain-in-new-york-harbor-capsizing-that-killed-mom-baby-is-illegal-immigrant/",
+              "url": "https://www.breitbart.com/middle-east/2026/08/20/trump-declares-economic-d-day-threatens-sanctions-for-dealing-with-iran/",
               "source": "Breitbart",
-              "headline": "Captain in New York Harbor Capsizing that Killed Mom, Baby Is Illegal Immigrant",
-              "excerpt": "The captain of a boat that capsized in New York Harbor, killing a mother and her baby, is an illegal immigrant. The post Captain in New York Harbor Capsizing that Killed Mom, Baby Is Illegal Immigrant appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Police-Boat-NY-Harbor-640x335.jpeg",
-              "imageAlt": "Captain in New York Harbor Capsizing that Killed Mom, Baby Is Illegal Immigrant",
+              "headline": "Trump Declares ‘Economic D-Day,’ Threatens Sanctions for Dealing with Iran",
+              "excerpt": "President Donald Trump declared all-out economic warfare against the Iranian regime in a social media post on Wednesday, comparing his strategy to the D-Day invasion of Normandy in World War II and threatening “tremendous economic consequences” for any country that does business with Iran. The post Trump Declares ‘Economic D-Day,’ Threatens",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages2290507653-640x335.jpg",
+              "imageAlt": "Trump Declares ‘Economic D-Day,’ Threatens Sanctions for Dealing with Iran",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -345,12 +328,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/captain-who-capsized-boat-killing-mother-and-baby-is-an-illegal-immigrant",
+              "url": "https://www.dailywire.com/news/economic-d-day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy",
               "source": "Daily Wire",
-              "headline": "Captain Who Capsized Boat Killing Mother And Baby Is An Illegal Immigrant",
-              "excerpt": "The captain of a boat that capsized in New York Harbor, killing a mother and her infant, is an illegal immigrant who was just captured by Immigration and Customs Enforcement (ICE). ICE arrested Manuel Ernesto Hernandez-Umana, 46, who hails from El Salvador, after local authorities released him on August 10 on a $50,000 personal recognizance ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/Untitled-design-2026-08-20T084032.934.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Captain Who Capsized Boat Killing Mother And Baby Is An Illegal Immigrant",
+              "headline": "‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy",
+              "excerpt": "President Donald Trump announced what he called an “ECONOMIC D-DAY” against Iran on Wednesday, threatening economic consequences for countries that continue providing a lifeline to the despotic regime. Writing on Truth Social on Wednesday evening, Trump slammed the Islamic Republic for refusing to come to the table, warning that the time for polite diplomacy is ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/05/GettyImages-2277164944-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -364,8 +347,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/Police-Boat-NY-Harbor-640x335.jpeg",
-          "imageAlt": "Captain in New York Harbor Capsizing that Killed Mom, Baby Is Illegal Immigrant",
+          "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages2290507653-640x335.jpg",
+          "imageAlt": "Trump Declares ‘Economic D-Day,’ Threatens Sanctions for Dealing with Iran",
           "imageCredit": "Breitbart"
         }
       ]
@@ -402,63 +385,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Why is ‘mushroom killer’ Erin Patterson back in court? – video",
-          "summary": "Erin Patterson, known as the “mushroom killer,” is back in court this week for an appeal against her triple murder conviction. Three Victorian judges will hear arguments over the deaths of three relatives who ate beef wellington laced with death cap mushrooms.\n\nThe Court of Appeal will also consider a challenge from Victoria’s director of public prosecutions regarding Patterson’s sentence. Prosecutors argue that the trial judge erred by allowing for the possibility of parole after just one day.",
+          "title": "Catholic Schools NSW boss sacked after appearance at Icac inquiry into alleged Liberal party corruption",
+          "summary": "Dallas McInerney, the head of Catholic Schools NSW, has been dismissed following his appearance at an Independent Commission Against Corruption (ICAC) inquiry. The watchdog is investigating allegations that he arranged illegal political donations from schools to lobbying companies controlled by the Reformers.\n\nMcInerney is described as a key person of interest in the ongoing investigation into alleged Liberal party corruption. His removal comes amid heightened scrutiny over financial dealings between educational institutions and political entities.\n\nSeparately, Australian authorities are moving toward allowing citizens to block all online gambling advertisements. The proposed system would enable individuals to register their name, email address, or phone number to prevent seeing such ads across online platforms.",
           "links": [
             {
-              "url": "https://www.theguardian.com/global/video/2026/aug/19/why-is-mushroom-killer-erin-patterson-back-in-court-video-ntwnfb",
+              "url": "https://www.theguardian.com/australia-news/2026/aug/21/australians-will-soon-be-able-to-block-all-online-gambling-ads-how-will-it-actually-work",
               "source": "The Guardian Australia",
-              "headline": "Why is ‘mushroom killer’ Erin Patterson back in court? – video",
-              "excerpt": "This week, three Victorian judges will hear Erin Patterson's appeal against her triple murder conviction over the deaths of three relatives who ate beef wellington laced with death cap mushrooms. The court of appeal will also hear a challenge from Victoria's director of public prosecutions over Patterson's sentence Mushroom murderer Erin Patters",
-              "imageUrl": "",
-              "imageAlt": "Why is ‘mushroom killer’ Erin Patterson back in court? – video",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-08-20/erin-patterson-appeal-mushroom-murder-court/107059860",
-              "source": "ABC Australia",
-              "headline": "Judge erred allowing room for Erin Patterson parole one day, prosecutors say",
-              "excerpt": "The Office of Public Prosecutors says the judge presiding over Patterson's murder trial erred when he allowed for the possibility of the mushroom killer getting parole one day.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e25e516a56082f2b39506fa772c77044?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=180&width=862&height=485",
-              "imageAlt": "Judge erred allowing room for Erin Patterson parole one day, prosecutors say",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e25e516a56082f2b39506fa772c77044?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=180&width=862&height=485",
-          "imageAlt": "Judge erred allowing room for Erin Patterson parole one day, prosecutors say",
-          "imageCredit": "ABC News"
-        },
-        {
-          "title": "Seven First Nations Australians tell us their worries and hopes for future generations – video",
-          "summary": "Seven First Nations Australians share their worries and hopes for future generations in a new video from The Guardian Australia.\n\nThe piece highlights East Arnhem Land, described as one of the last strongholds of Aboriginal culture in Australia. It is home to the Yolngu people, who maintain one of the oldest continuous cultures on Earth.\n\nThe land is fully owned and managed by traditional owners under inalienable Aboriginal freehold title, meaning it can never be bought or sold.\n\nEach year, the Yolngu host the Garma festival, described as Australia's largest Indigenous political and cultural gathering. The event brings together First Nations leaders from around the country.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/australia-news/video/2026/aug/17/seven-first-nations-australians-tell-us-their-worries-and-hopes-for-future-generations-video",
-              "source": "The Guardian Australia",
-              "headline": "Seven First Nations Australians tell us their worries and hopes for future generations – video",
-              "excerpt": "East Arnhem Land is one of the last strongholds of Aboriginal culture in Australia, home to the Yolngu people who maintain one of the oldest continuous cultures on Earth. The land is fully owned and managed by traditional owners under inalienable Aboriginal freehold title, which means it can never be bought or sold. Each year the Yolngu host the Garma festival, Australia's largest Indigenous political and cultural gathering, which brings together First Nations leaders from aroun",
-              "imageUrl": "https://i.guim.co.uk/img/media/fe6fdb6a39fddabe97c04169ce8612a92a2276b5/267_0_1197_959/master/1197.jpg?width=140&quality=85&auto=format&fit=max&s=4aefd0c40126e1239bf0d2838a6c06ce",
-              "imageAlt": "Seven First Nations Australians tell us their worries and hopes for future generations – video",
+              "headline": "Australians could soon be able to block all online gambling ads. But will the plan actually work?",
+              "excerpt": "The goal is for anyone to be able to put their name, email address or phone number on the register and never see any gambling ads on any online Follow our Australia news live blog for latest updates Get our <a href=\"https://www.theguard",
+              "imageUrl": "https://i.guim.co.uk/img/media/17fa11d6d736eba07c3ca1f18b144584e843820c/975_354_3647_2918/master/3647.jpg?width=140&quality=85&auto=format&fit=max&s=1eebe81c72739f7bba4a596ac181042c",
+              "imageAlt": "Australians could soon be able to block all online gambling ads. But will the plan actually work?",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -469,16 +405,63 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-08-21/dallas-mcinerney-fired-catholic-schools-nsw-amid-icac/107062294",
+              "source": "ABC Australia",
+              "headline": "Catholic Schools NSW boss sacked after appearing at corruption inquiry",
+              "excerpt": "Dallas McInerney is a key person of interest in the NSW Independent Commission Against Corruption (ICAC) inquiry.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/61a08d3d18d0d7c5fc519d9710106952?impolicy=wcms_crop_resize&cropH=716&cropW=1274&xPos=0&yPos=81&width=862&height=485",
+              "imageAlt": "Catholic Schools NSW boss sacked after appearing at corruption inquiry",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/fe6fdb6a39fddabe97c04169ce8612a92a2276b5/267_0_1197_959/master/1197.jpg?width=140&quality=85&auto=format&fit=max&s=4aefd0c40126e1239bf0d2838a6c06ce",
-          "imageAlt": "Seven First Nations Australians tell us their worries and hopes for future generations – video",
+          "imageUrl": "https://i.guim.co.uk/img/media/17fa11d6d736eba07c3ca1f18b144584e843820c/975_354_3647_2918/master/3647.jpg?width=140&quality=85&auto=format&fit=max&s=1eebe81c72739f7bba4a596ac181042c",
+          "imageAlt": "Australians could soon be able to block all online gambling ads. But will the plan actually work?",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Zomi Frankcom did not deserve to die. Israel’s refusal to investigate her death and its failure to apologise is despicable | Geoffrey Robertson",
+          "summary": "Geoffrey Robertson argues that Zomi Frankcom’s death was unjust and criticizes Israel for refusing to investigate the incident or offer an apology. He describes her as part of a clearly marked humanitarian convoy traveling on a pre-communicated route to distribute food to Palestinians in Gaza.\n\nRobertson states that the Israeli Defense Forces bombed the convoy deliberately and repeatedly, despite advance notification of its location. He disputes claims by the Israeli ambassador that a court found no criminal liability, noting there is no evidence any court was involved in the matter.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/world/commentisfree/2026/aug/21/zomi-frankcom-killing-death-israel-idf-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Zomi Frankcom did not deserve to die. Israel’s refusal to investigate her death and its failure to apologise is despicable",
+              "excerpt": "The Israeli ambassador has claimed ‘a court came to a decision that there’s no criminal liability’ but there is no evidence that any court has been involved Zomi Frankcom did not deserve to die. She and her six colleagues were traveling in a clearly marked humanitarian convoy to distribute food to starving Palestinians on a route that had been communicated well in advance to the Israel Defense Forces (IDF). It bombed them deliberately and repeatedly. Israel’s prime minister, Benjamin Ne",
+              "imageUrl": "https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/0_108_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=cccf2b92dc32266dee157ce03aa57653",
+              "imageAlt": "Zomi Frankcom did not deserve to die. Israel’s refusal to investigate her death and its failure to apologise is despicable | Geoffrey Robertson",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/0_108_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=cccf2b92dc32266dee157ce03aa57653",
+          "imageAlt": "Zomi Frankcom did not deserve to die. Israel’s refusal to investigate her death and its failure to apologise is despicable | Geoffrey Robertson",
           "imageCredit": "The Guardian"
         },
         {
           "title": "Inside Arizona’s battle for school choice",
-          "summary": "Spectator Australia reports that Amy Hunt is emerging as a potential savior for British athletics. The article describes her as the country's latest \"Charioteer of Fire,\" noting that she does not rely on traditional athletic clichés or dramatic flair.\n\nInstead, the publication highlights her natural charisma and approachable demeanor. Her success is attributed to a genuine smile and personal appeal rather than manufactured spectacle.",
+          "summary": "Spectator Australia reports that Amy Hunt is emerging as a potential savior for British athletics. The publication describes her as the country's latest \"Charioteer of Fire,\" noting that she does not rely on traditional athletic clichés or dramatic musical accompaniment.\n\nInstead, the article highlights her natural charisma and a dazzling smile as key components of her appeal. This framing suggests a shift in how British athletics is being marketed to new audiences through personality-driven narratives rather than just performance metrics.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/08/amy-hunt-could-be-the-saviour-of-british-athletics/",
@@ -510,16 +493,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-          "summary": "Patreon has introduced a suite of 30 new features aimed at improving creator discovery and engagement. The update includes the addition of short-form Clips and topic-based communities.\n\nThe platform is also rolling out a revamped recommendation system. This change is specifically designed to provide smaller creators with greater visibility within the ecosystem.",
+          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+          "summary": "Google has introduced a new feature designed to help publishers counter declining traffic caused by AI search. The update provides readers with a button that allows them to designate specific news outlets as preferred sources.\n\nThis designation applies across Google Search, Discover, and Google News. By making a publisher their preferred source, users may see more of its content in these platforms.\n\nThe move aims to boost direct traffic for publishers at a time when AI-driven search results are sending fewer clicks to traditional websites.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
+              "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
               "source": "TechCrunch",
-              "headline": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-              "excerpt": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Header-Image.png?resize=1200,675",
-              "imageAlt": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
+              "headline": "Google gives publishers a new way to fight AI-driven traffic losses",
+              "excerpt": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+              "imageAlt": "Google gives publishers a new way to fight AI-driven traffic losses",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -533,13 +516,13 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Header-Image.png?resize=1200,675",
-          "imageAlt": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+          "imageAlt": "Google gives publishers a new way to fight AI-driven traffic losses",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
-          "summary": "Framework is addressing a BIOS update that bricked some of its older laptops. The issue affected the 2023 Framework Laptop 13 equipped with AMD Ryzen 7040-series chips.\n\nThe company says it is working on a fix for the problem. The affected devices are covered under warranty.",
+          "summary": "Framework is addressing a BIOS update that bricked some of its older laptops. The issue affected the 2023 Framework Laptop 13 equipped with AMD Ryzen 7040-series chips.\n\nThe company says it is working on a fix for the problem. The affected devices were rendered inoperable after installing the specific BIOS version.",
           "links": [
             {
               "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
@@ -655,16 +638,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Mikee Romero to maintain public service despite retiring as reservist",
-          "summary": "Former House Deputy Speaker Michael “Mikee” Romero said he will continue public service even after retiring from the Armed Forces of the Philippines Reserve Force. He sent a letter relinquishing his post as wing commander of the Tactical Operations Wing Reserve Northern Luzon, effective immediately.\n\nRomero, who held the rank of brigadier general in the reserve force, made the announcement on Wednesday. His retirement comes amid a reported controversy over medals, according to Rappler.",
+          "title": "Remulla: Zamboanga shooter’s dad cooperative; no culpability so far",
+          "summary": "Interior Secretary Jonvic Remulla said the father of the alleged Ateneo de Zamboanga University Junior High School shooter is cooperative and has shown no culpability so far. The fatal incident killed two people: a Grade 10 student and the alleged Grade 8 shooter.\n\nPolice reported that the shooter used a PWD ramp to gain building access past security. Despite these breaches, Remulla said the university’s security protocols were at par with industry standards.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2289034/mikee-romero-to-maintain-public-service-despite-retiring-as-reservist",
+              "url": "https://newsinfo.inquirer.net/2289176/remulla-zamboanga-shooters-dad-cooperative-no-culpability-so-far",
               "source": "Philippine Daily Inquirer",
-              "headline": "Mikee Romero to maintain public service despite retiring as reservist",
-              "excerpt": "MANILA, Philippines — Former House Deputy Speaker Michael “Mikee’ Romero vowed on Wednesday to keep rendering public service despite his retirement from the Armed Forces of the Philippines Reserve Force, with the rank of brigadier general. Romero, who served as wing commander of the Tactical Operations Wing Reserve Northern Luzon, sent his letter of relinquishment",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Mikee-Romero-05July2026.jpg",
-              "imageAlt": "Mikee Romero to maintain public service despite retiring as reservist",
+              "headline": "Remulla: Zamboanga shooter’s dad cooperative; no culpability so far",
+              "excerpt": "MANILA, Philippines — The father of the alleged perpetrator of the fatal Ateneo de Zamboanga University (AdZU) Junior High School shooting is cooperative and appears to have no culpability so far, Interior Secretary Jonvic Remulla said on Thursday. Two were killed in the incident, particularly a Grade 10 student and the alleged Grade 8 shooter",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/1271443.jpeg",
+              "imageAlt": "Remulla: Zamboanga shooter’s dad cooperative; no culpability so far",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -677,12 +660,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.rappler.com/philippines/mikee-romero-retires-armed-forces-reserve-force-medals-controversy/",
+              "url": "https://www.rappler.com/philippines/mindanao/ateneo-de-zamboanga-university-shooter-pwd-ramp-access/",
               "source": "Rappler World",
-              "headline": "Mikee Romero retires from AFP Reserve Force amid medals controversy",
-              "excerpt": "The former congressman also relinquishes his post as wing commander of the Tactical Operations Wing Reserve Northern Luzon 'effective immediately'",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/08/mikee-romero.jpg",
-              "imageAlt": "Mikee Romero retires from AFP Reserve Force amid medals controversy",
+              "headline": "PWD ramp gave Ateneo de Zamboanga shooter building access past security – police",
+              "excerpt": "Despite the reported breaches, Interior Secretary Jonvic Remulla says security protocols at Ateneo de Zamboanga University were at par with industry standards",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/08/Screenshot-2026-08-19-at-6.11.09-PM.png",
+              "imageAlt": "PWD ramp gave Ateneo de Zamboanga shooter building access past security – police",
               "outlet": "Rappler",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -696,8 +679,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Mikee-Romero-05July2026.jpg",
-          "imageAlt": "Mikee Romero to maintain public service despite retiring as reservist",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/1271443.jpeg",
+          "imageAlt": "Remulla: Zamboanga shooter’s dad cooperative; no culpability so far",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
@@ -729,36 +712,8 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "DENR flags 155 firms for failing to meet plastic recovery obligations",
-          "summary": "The Department of Environment and Natural Resources (DENR) has issued show-cause letters to 155 companies for allegedly failing to meet their obligations under the Extended Producer Responsibility law.\n\nAccording to Palace press officer Claire Castro, the DENR is closely monitoring companies covered by Republic Act No. 11898 to ensure compliance with plastic recovery requirements.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2289010/denr-flags-155-firms-for-failing-to-meet-plastic-recovery-obligations",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DENR flags 155 firms for failing to meet plastic recovery obligations",
-              "excerpt": "MANILA, Philippines — The Department of Environment and Natural Resources (DENR) has issued show-cause letters to 155 companies for allegedly failing to meet their obligations under Republic Act No. 11898, or the Extended Producer Responsibility (EPR) law, according to Malacañang. Palace press officer Claire Castro said on Thursday that the DENR was closely monitoring companies covered by",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2023/06/DENR-LOGO.png",
-              "imageAlt": "DENR flags 155 firms for failing to meet plastic recovery obligations",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2023/06/DENR-LOGO.png",
-          "imageAlt": "DENR flags 155 firms for failing to meet plastic recovery obligations",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
           "title": "Higher transmission rates raise August electric bills in Bukidnon",
-          "summary": "Electricity consumers in Bukidnon are facing higher bills this August as transmission and ancillary service rates surge nationwide. The increase affects subscribers of the First Bukidnon Electric Cooperative, Inc., or FIBECO, along with other power users across the country.\n\nAccording to a press release from the National Grid Corporation of the Philippines, overall average transmission rates have increased significantly. This sharp rise in costs is directly impacting consumer electricity bills for the month.",
+          "summary": "Electricity consumers in Bukidnon are facing higher bills this August as transmission and ancillary service rates surge nationwide. The increase affects subscribers of the First Bukidnon Electric Cooperative, Inc., or FIBECO.\n\nAccording to a press release from the National Grid Corporation of the Philippines, overall average transmission rates have increased significantly. This sharp rise in costs is directly impacting power bills for consumers across the country.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2289136/higher-transmission-rates-raise-august-electric-bills-in-bukidnon",
@@ -785,8 +740,36 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
+          "title": "Anticybercrime body seeks ban on site that livestreamed Ateneo shooting",
+          "summary": "The Philippines’ Cybercrime Investigation and Coordinating Center (CICC) has sought to block the website used to livestream Tuesday’s deadly school shooting in Zamboanga City.\n\nUndersecretary Renato Paraiso informed a Senate panel on Thursday that the agency is pursuing the ban. He described the site as one dedicated to gore and shock content, noting it is no longer accessible.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2289257/anticybercrime-body-seeks-ban-on-site-that-livestreamed-ateneo-shooting",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Anticybercrime body seeks ban on site that livestreamed Ateneo shooting",
+              "excerpt": "MANILA, Philippines — The country’s primary digital security and cyberthreat coordinating agency has sought to block the website used to livestream Tuesday’s deadly school shooting in Zamboanga City. Cybercrime Investigation and Coordinating Center (CICC) Undersecretary Renato Paraiso on Thursday told a Senate panel that the gore and shock content website, which is no longer accessible",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/ateneo-de-zamboanga.png",
+              "imageAlt": "Anticybercrime body seeks ban on site that livestreamed Ateneo shooting",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/ateneo-de-zamboanga.png",
+          "imageAlt": "Anticybercrime body seeks ban on site that livestreamed Ateneo shooting",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
           "title": "Angara visits Negros school communities to discuss campus safety",
-          "summary": "Education Secretary Sonny Angara visited public schools in the Negros Island Region on Thursday to evaluate campus safety protocols and assess facility conditions. The Department of Education said the inspections were part of an effort to engage directly with students and teachers while reviewing local school operations.\n\nAmong the stops was Bais City National High School, described as the largest secondary institution in the area. Angara’s visit focused on discussing campus safety measures with school communities across Negros.",
+          "summary": "Education Secretary Sonny Angara visited public schools in the Negros Island Region on Thursday to evaluate campus safety protocols and assess facility conditions. The Department of Education said the inspections were part of an effort to engage directly with students and teachers while reviewing school environments.\n\nAmong the stops was Bais City National High School, described as the largest secondary school in the area. Angara’s visit focused on discussing campus safety measures with local school communities.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2289183/angara-visits-negros-school-communities-to-discuss-campus-safety",
@@ -818,16 +801,41 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "Ramp launches its own AI model router, called Router",
-          "summary": "Ramp has introduced a new AI model routing service named Router. The tool allows users and companies to access multiple large language models through a single API.\n\nThe launch enables organizations to switch between different AI providers as needed. This approach aims to simplify the integration of various generative AI capabilities into business workflows.",
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "summary": "Vanke, one of China's leading property developers, has reported a huge loss. The result underscores the widening nature of the country's real estate crisis.\n\nThe developer's troubles raise questions about how far the sector's problems may continue to spread. They also highlight uncertainty over whether the Chinese state will intervene to support the industry.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+              "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+              "source": "Wall Street Journal",
+              "headline": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "excerpt": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+              "imageUrl": "",
+              "imageAlt": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+        },
+        {
+          "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+          "summary": "A hacker targeted cybersecurity professionals by posing as an employee of a leading cryptocurrency news website. The attacker used a fake crypto conference as a lure to reach security researchers.\n\nThe campaign relied on Google Docs links to deliver malware to the victims. TechCrunch reported that several cybersecurity experts were specifically targeted in the operation.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
               "source": "TechCrunch",
-              "headline": "Ramp launches its own AI model router, called Router",
-              "excerpt": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
-              "imageAlt": "Ramp launches its own AI model router, called Router",
+              "headline": "Someone targeted security researchers using a fake crypto conference as a lure",
+              "excerpt": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-887454272.jpg?resize=1200,797",
+              "imageAlt": "Someone targeted security researchers using a fake crypto conference as a lure",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -841,8 +849,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
-          "imageAlt": "Ramp launches its own AI model router, called Router",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-887454272.jpg?resize=1200,797",
+          "imageAlt": "Someone targeted security researchers using a fake crypto conference as a lure",
           "imageCredit": "TechCrunch"
         },
         {
@@ -874,87 +882,56 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-          "summary": "Researchers are testing whether adding alkalis to seawater can help neutralize ocean acidification by increasing the water's capacity to absorb carbon dioxide. The experiments focus on crustaceans, including lobsters, to determine if these chemical changes pose risks to marine life.\n\nThe research is particularly relevant in New England, where lobster fishing and consumption are culturally significant. Lobster rolls remain a popular summer dish, though their price has become a point of debate among consumers.\n\nHowever, the study faces uncertainty due to a halt in funding under the Trump administration. This financial interruption threatens to disrupt ongoing efforts to understand how ocean alkalinity enhancement might mitigate one of the greatest threats facing marine ecosystems.",
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "summary": "Freed Israeli hostages returned with shrapnel embedded in their bodies from the October 7 attack, according to an Israeli medical official.\n\nThe injuries highlight the physical toll of the initial assault on those who were subsequently taken captive. Some of the women among the freed group had been held alone for extended periods before their release.\n\nThese individuals spent eight months in tunnels during their captivity, a detail that underscores the prolonged and difficult conditions they endured.",
           "links": [
             {
-              "url": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
-              "source": "The Guardian Technology",
-              "headline": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-              "excerpt": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to funding threatens to scupper the research For many in the US region of New England, the lobster roll is synonymous with summertime. Loaded into a toasted bun, chunks of the sweet meat are served hot and soaked in butter, or chilled and slathered in mayonnaise with celery and herbs. The only thing more debated than the recipe is the price: t",
-              "imageUrl": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
-              "imageAlt": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+              "source": "Wall Street Journal",
+              "headline": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "excerpt": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+              "imageUrl": "",
+              "imageAlt": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
-          "imageAlt": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-          "summary": "Patients in South Yorkshire are reporting frustration with an AI GP receptionist that struggles to understand local accents, according to a health watchdog.\n\nHealthwatch Rotherham said several practices in the area have introduced an automated assistant named Emma. The system is designed to handle patient inquiries and manage appointments without human intervention.\n\nThe AI firm behind the chatbot claims it supports 17 languages. However, Healthwatch Rotherham noted that the system has difficulty processing local \"twangs\" and broad Yorkshire dialects.\n\nAs a result, some patients have reportedly hung up during calls when the receptionist failed to comprehend their speech. The watchdog highlighted these issues as part of its ongoing monitoring of digital health services in the region.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
-              "source": "The Guardian Technology",
-              "headline": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-              "excerpt": "‘Emma’ the Rotherham chatbot has 17 languages says AI firm – but health watchdog says system struggling with local ‘twangs’ Patients in a South Yorkshire town are frustrated by an AI GP receptionist not understanding their “broad accents”, a health watchdog has said. Healthwatch Rotherham , a local health and social care watchdog, said a number of practices in the area had introduced a new AI receptionist called Emma. <a href=\"",
-              "imageUrl": "https://i.guim.co.uk/img/media/b2c58793c1f9360334833f4c8d0f7365a00f8e04/31_0_5021_4016/master/5021.jpg?width=140&quality=85&auto=format&fit=max&s=cff9ef52577a170a8ed822b4a8c7146b",
-              "imageAlt": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/b2c58793c1f9360334833f4c8d0f7365a00f8e04/31_0_5021_4016/master/5021.jpg?width=140&quality=85&auto=format&fit=max&s=cff9ef52577a170a8ed822b4a8c7146b",
-          "imageAlt": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
-          "summary": "Elon Musk has proposed a new mantra for addressing the climate crisis, suggesting that humanity should focus on moving energy production off-planet. According to the SpaceX boss, this approach aligns with the Kardashev scale, a theoretical framework used to measure a civilization's level of technological advancement.\n\nThe proposal offers a conceptual shift in how people might think about environmental challenges. Instead of focusing solely on immediate terrestrial solutions, Musk’s idea encourages looking toward space-based energy systems as a long-term strategy for sustainability.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
-              "source": "The Guardian Technology",
-              "headline": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away",
-              "excerpt": "It’s simple, says the SpaceX boss – according to something called the ‘Kardashev scale’, we just have to move energy production ‘off-planet’ Next time the weather gives the UK 61 days without rain and we wonder idly if this is the end, there is a term we may whistle up to soothe us. Like murmuring the rosary, or putting our fingers in our ears and humming, this phrase is to be mumble",
-              "imageUrl": "https://i.guim.co.uk/img/media/7ef1fd853975851ff9dd8c70d4487c41cb53816f/1043_0_5217_4173/master/5217.jpg?width=140&quality=85&auto=format&fit=max&s=53114f3d1e1eb44daa592d9d53ff3ab1",
-              "imageAlt": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Left",
-              "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (climate crisis|polluters|environmental justice)",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+        },
+        {
+          "title": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "summary": "Sennheiser’s latest Momentum 5 Bluetooth headphones combine the brand’s established sound quality with improved noise cancelling and a focus on long-term usability. The premium over-ear model is positioned as a direct successor to earlier Momentum releases, aiming to keep pace with competitors in the high-end wireless audio market.\n\nThe headphones are priced at £330 (€400/$400/A$749) and emphasize comfort alongside extensive connectivity options. A notable feature is the user-replaceable battery, which Sennheiser presents as a practical upgrade for consumers seeking durability in premium Bluetooth noise-cancelling headphones.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review",
+              "source": "The Guardian Technology",
+              "headline": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "excerpt": "Premium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals. The Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu",
+              "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+              "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/7ef1fd853975851ff9dd8c70d4487c41cb53816f/1043_0_5217_4173/master/5217.jpg?width=140&quality=85&auto=format&fit=max&s=53114f3d1e1eb44daa592d9d53ff3ab1",
-          "imageAlt": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
+          "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+          "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
           "imageCredit": "The Guardian"
         }
       ]
