@@ -2,71 +2,24 @@
   "id": "2026-08-22-expanded",
   "date": "2026-08-22",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-08-22T03:00:47.418706",
+  "generatedAt": "2026-08-22T12:30:12.112979",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-08-22T03:00:47",
+  "updatedAt": "2026-08-22T12:30:12",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "South Korea Urges Direct Trump-Kim Talks as War Games End Early",
-          "summary": "South Korea has expressed support for direct negotiations between President Donald Trump and North Korean leader Kim Jong-un as joint US-South Korean military exercises concluded ahead of schedule on Friday.\n\nAn unnamed South Korean official told reporters that the government favors \"direct\" talks to address tensions on the peninsula. The early end to the war games occurred at a time when analysts suggest North Korea holds a position of strength in diplomatic discussions.\n\nBBC reporting notes that while Trump has expressed a desire for friendship with Kim, the shifting military posture could have significant implications for South Korea's security and regional stability.",
+          "title": "Police Shoot Suspect in Sweden School Sword Attack: Several Injured",
+          "summary": "A sword-wielding man attacked a secondary school in Sweden on Friday, resulting in one death and three injuries. The suspect was shot by police during the incident.\n\nSwedish authorities confirmed that an 18-year-old male suspect was arrested after being shot. Initial reports indicated at least two people were seriously injured, while later updates specified one person killed and three others wounded.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
-              "excerpt": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
-              "imageAlt": "Trump wants to be friends with Kim - but South Korea could pay the price",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/asia/2026/08/21/south-korea-urges-direct-trump-kim-talks-war-games-end-early/",
-              "source": "Breitbart",
-              "headline": "South Korea Urges Direct Trump-Kim Talks as War Games End Early",
-              "excerpt": "An unnamed South Korean official told reporters on Friday that the government supports \"direct\" talks between Trump and Kim Jong-un. The post South Korea Urges Direct Trump-Kim Talks as War Games End Early appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Ulchi-Freedom-Shield-640x335.jpg",
-              "imageAlt": "South Korea Urges Direct Trump-Kim Talks as War Games End Early",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
-          "imageAlt": "Trump wants to be friends with Kim - but South Korea could pay the price",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving",
-          "summary": "Maine authorities have detained a person of interest after two connected shooting incidents left at least four people dead and three others injured. State police said the victims were found in a home and while driving.\n\nIn Sweden, one person was taken into custody following a sword attack at a high school in Fagersta that injured at least three people. Local authorities confirmed the suspect's detention as investigations continued.\n\nMeanwhile, five people remain missing after a fire broke out in a Swiss Alpine town. Eight others were injured in the blaze, and local police are still investigating the cause.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "At least three injured in sword attack at school in Sweden",
-              "excerpt": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a889308-1787335433.jpg?resize=1920%2C1440",
-              "imageAlt": "At least three injured in sword attack at school in Sweden",
+              "headline": "One killed, three wounded in sword attack at Swedish high school",
+              "excerpt": "One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787347327.jpg?resize=1632%2C1080&quality=80",
+              "imageAlt": "One killed, three wounded in sword attack at Swedish high school",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -79,12 +32,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Five missing after fire in Swiss Alpine town",
-              "excerpt": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2795/live/227f1c60-9d56-11f1-a291-b542ee92de7c.jpg",
-              "imageAlt": "Five missing after fire in Swiss Alpine town",
+              "headline": "One killed in sword attack at Swedish school",
+              "excerpt": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
+              "imageAlt": "One killed in sword attack at Swedish school",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -98,13 +51,105 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.cnn.com/2023/04/18/us/maine-shooting-bowdoin-yarmouth/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving",
-              "excerpt": "Maine authorities have detained a person of interest and continue to investigate after two shooting incidents that appear to be connected left at least four people dead and three others injured, state police said.",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230418144820-01-yarmouth-shooting-0418-super-169.jpg",
-              "imageAlt": "Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving",
-              "outlet": "CNN",
+              "url": "https://www.breitbart.com/europe/2026/08/21/police-shoot-suspect-in-sweden-school-sword-attack-several-injured/",
+              "source": "Breitbart",
+              "headline": "Police Shoot Suspect in Sweden School Sword Attack: Several Injured",
+              "excerpt": "Swedish police shot suspected swordsman after an attack on a secondary school on Friday that has left at least two people seriously injured. The post Police Shoot Suspect in Sweden School Sword Attack: Several Injured appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-2290780071-e1787332126443-640x335.jpg",
+              "imageAlt": "Police Shoot Suspect in Sweden School Sword Attack: Several Injured",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787347327.jpg?resize=1632%2C1080&quality=80",
+          "imageAlt": "One killed, three wounded in sword attack at Swedish high school",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
+          "summary": "The Supreme Court has temporarily allowed the Trump administration to continue construction of a new White House ballroom. Chief Justice John Roberts issued an administrative stay on Friday, pausing a lower court injunction that would have halted above-ground work.\n\nA federal district court had previously ruled that the project required congressional permission. The administration argued in response that the $400 million structure is necessary for national security purposes.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US Supreme Court allows Trump’s ballroom project to continue for now",
+              "excerpt": "The Trump administration has argued the $400m White House ballroom is needed for national security purposes.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8898a8-1787336872.jpg?resize=1920%2C1440",
+              "imageAlt": "US Supreme Court allows Trump’s ballroom project to continue for now",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/scotus-gives-trump-green-light-to-keep-building-white-house-ballroom-for-now",
+              "source": "Daily Wire",
+              "headline": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
+              "excerpt": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump’s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court’s injunction from taking effect ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2288940501.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/21/supreme-court-allows-trump-keep-building-ballroom/",
+              "source": "Washington Times",
+              "headline": "Supreme Court allows Trump to keep building his ballroom -- for now",
+              "excerpt": "Supreme Court Chief Justice John G. Roberts Jr. has cleared the way for President Trump to keep building his new ballroom at the White House, putting on hold a lower court ruling that had said he needed Congress's permission.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/05/19/Trump_81766_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Supreme Court allows Trump to keep building his ballroom -- for now",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8898a8-1787336872.jpg?resize=1920%2C1440",
+          "imageAlt": "US Supreme Court allows Trump’s ballroom project to continue for now",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+          "summary": "Russian strikes killed two people in Ukraine, officials said, a day after a deadly attack on a shopping mall. The new attacks followed an incident that left at least 16 people dead in what was described as a double-tap strike.\n\nUkrainian President Volodymyr Zelensky accused Russia of carrying out a “cowardly and deliberate” attack on a mall in Kryvyi Rih, his hometown. Al Jazeera reported the incident as part of a broader pattern of Russian drone strikes targeting civilian areas.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+              "excerpt": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-21T175039Z_1285857737_RC253NAXD1XN_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KRYVYI-RIH-1787357165.jpg?resize=1200%2C675",
+              "imageAlt": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+              "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
@@ -114,52 +159,14 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a889308-1787335433.jpg?resize=1920%2C1440",
-          "imageAlt": "At least three injured in sword attack at school in Sweden",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "summary": "The House Judiciary Committee is scheduled to hold a field hearing in New York City focused on violent crime in Manhattan. The session, chaired by Rep. Jim Jordan, will examine policies under Manhattan District Attorney Alvin Bragg.\n\nCommittee officials stated that the hearing aims to assess how local prosecutorial strategies have contributed to rising crime rates and public safety concerns for residents.",
-          "links": [
-            {
-              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "outlet": "CNN",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "imageCredit": "CNN"
-        },
-        {
-          "title": "14 people killed after Russian drones strike shopping center in Ukraine",
-          "summary": "At least 14 people were killed and more than 120 wounded on Friday when two Russian drones struck a shopping center in the central Ukrainian city of Kryvyi Rih, authorities said.\n\nThe attack was described as a double-tap drone strike. Regional officials reported that another 121 people were injured when the shopping centre was hit.",
-          "links": [
+            },
             {
               "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Russian double-tap drone strikes kill 14 in Ukrainian mall, officials say",
-              "excerpt": "Another 121 people were injured when the shopping centre was hit, according to the regional head.",
+              "headline": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+              "excerpt": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-              "imageAlt": "Russian double-tap drone strikes kill 14 in Ukrainian mall, officials say",
+              "imageAlt": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -168,91 +175,74 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://nypost.com/2026/08/21/world-news/russian-strike-on-shopping-center-in-ukraine-kills-14/",
-              "source": "New York Post",
-              "headline": "14 people killed after Russian drones strike shopping center in Ukraine",
-              "excerpt": "At least 14 people were killed and more than 120 wounded on Friday when two Russian drones struck a shopping center in the central Ukrainian city of Kryvyi Rih, authorities said.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F2026-head-dnipropetrovsk-regional-military-138104740.jpg",
-              "imageAlt": "14 people killed after Russian drones strike shopping center in Ukraine",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-          "imageAlt": "Russian double-tap drone strikes kill 14 in Ukrainian mall, officials say",
-          "imageCredit": "BBC"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-21T175039Z_1285857737_RC253NAXD1XN_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KRYVYI-RIH-1787357165.jpg?resize=1200%2C675",
+          "imageAlt": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Sheehy and Dowing speak out against Trump’s plan to lower beef prices: ‘Harm our ranching families’",
-          "summary": "President Donald Trump announced plans to temporarily waive higher tariffs on ground beef imports in an effort to lower meat prices for American consumers. The move is intended to address soaring costs that have strained household budgets.\n\nThe proposal has drawn criticism from two Montana Republicans in Congress, who warned the policy could harm domestic producers. Sen. Tim Sheehy and Rep. Troy Downing argued that easing import restrictions may force local cattle ranchers to absorb financial losses rather than benefiting consumers as intended.\n\nThe lawmakers said the plan risks undermining American ranching families by exposing them to increased foreign competition without adequate safeguards. Their opposition highlights a growing tension between federal price-control measures and agricultural interests seeking protection from global market fluctuations.",
+          "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+          "summary": "The United Kingdom, Canada and Australia have condemned Israel for refusing to conduct a criminal probe into the deaths of aid workers in Gaza. The three Western allies described Israel’s decision not to investigate as “shameful.”\n\nThe dispute centers on an Israeli strike on a World Central Kitchen convoy in 2024 that killed seven aid workers. Al Jazeera and BBC reports describe the governments’ criticism as part of broader diplomatic pressure over accountability for the incident.",
           "links": [
             {
-              "url": "https://www.washingtonexaminer.com/policy/economy/4696341/sheehy-dowing-trump-lower-beef-price/",
-              "source": "Washington Examiner",
-              "headline": "Sheehy and Dowing speak out against Trump’s plan to lower beef prices: ‘Harm our ranching families’",
-              "excerpt": "Two Montana Republicans in Congress are pushing back against President Donald Trump’s plan to temporarily ease beef import tariffs, warning that the move could hurt American ranchers. Sen. Tim Sheehy (R-MT) and Rep. Troy Downing (R-MT) both criticized the plan Friday, arguing that Montana cattle producers could be forced to absorb the costs and face […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26103652514295-e1786979617331.jpg?w=696",
-              "imageAlt": "Sheehy and Dowing speak out against Trump’s plan to lower beef prices: ‘Harm our ranching families’",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
+              "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Western allies slam Israel for ending World Central Kitchen strike probe",
+              "excerpt": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy 'shameful'.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a88885bf3-1787332700.jpg?resize=1920%2C1440",
+              "imageAlt": "Western allies slam Israel for ending World Central Kitchen strike probe",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
               "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/21/donald-trump-waive-higher-tariffs-ground-beef-bid-lower-prices/",
-              "source": "Washington Times",
-              "headline": "Cattle battle: Trump to waive higher tariffs on ground beef in bid to lower prices",
-              "excerpt": "President Trump said he will waive higher tariffs on ground beef imports, a move aimed at lowering prices for Americans struggling with soaring meat prices.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2019/05/13/food_column_atk_classic_beef_burgers_39826_s929x929.jpg?662e400a5f0cea65e6dd19b0294e9c34872dc743",
-              "imageAlt": "Cattle battle: Trump to waive higher tariffs on ground beef in bid to lower prices",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+              "excerpt": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+              "imageAlt": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/AP26103652514295-e1786979617331.jpg?w=696",
-          "imageAlt": "Sheehy and Dowing speak out against Trump’s plan to lower beef prices: ‘Harm our ranching families’",
-          "imageCredit": "Washington Examiner"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a88885bf3-1787332700.jpg?resize=1920%2C1440",
+          "imageAlt": "Western allies slam Israel for ending World Central Kitchen strike probe",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Ariana Grande calls for Trump to take down another song from a TikTok video",
-          "summary": "Ariana Grande has publicly criticized President Donald Trump after his administration used her music in a social media video. The pop singer objected to the use of her 2024 track \"We Can't Be Friends (Wait for Your Love)\" in a TikTok post that she described as promoting anti-transgender views.\n\nGrande directed a message at the president, urging him to remove the content and stating, “Never use my music again.” She further challenged the administration's messaging by adding, “Also, your truth is false.”\n\nThe incident highlights ongoing tensions between public figures and political entities over the use of copyrighted material in partisan or controversial digital campaigns.",
+          "title": "Former acting US Attorney Andrew Haden found dead in San Diego federal building: police",
+          "summary": "Former acting U.S. Attorney Andrew Haden was found dead in a San Diego federal building on Wednesday, according to police and multiple news reports.\n\nHaden, 48, had been leading the office after President Trump fired Biden appointee Tara McGrath. Authorities confirmed his death Thursday, though no immediate cause has been announced.\n\nBreitbart described Haden as “a beacon of light” in its coverage of the incident.",
           "links": [
             {
-              "url": "https://www.breitbart.com/entertainment/2026/08/21/ariana-grande-rages-at-trump-for-using-her-song-in-trans-trolling-tiktok-post/",
+              "url": "https://www.breitbart.com/local/2026/08/21/u-s-assistant-attorney-found-dead-san-diego-federal-office-he-was-beacon-light/",
               "source": "Breitbart",
-              "headline": "Ariana Grande Rages at Trump for Using Her Song in Trans-Trolling TikTok Post",
-              "excerpt": "An underwhelmed Ariana Grande raged against President Donald Trump on Thursday for using her song in a trans-trolling TikTok post, cautioning him to “Never use my music again,” before sternly adding, “Also, your truth is false.” The post Ariana Grande Rages at Trump for Using Her Song in Trans-Trolling TikTok Post appeared first",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/grande-response-640x335.jpg",
-              "imageAlt": "Ariana Grande Rages at Trump for Using Her Song in Trans-Trolling TikTok Post",
+              "headline": "U.S. Assistant Attorney Found Dead in San Diego Federal Office: 'He Was a Beacon of Light'",
+              "excerpt": "Forty-eight-year-old U.S. Assistant Attorney Andrew Haden was found dead Wednesday in a federal building in San Diego, California. The post U.S. Assistant Attorney Found Dead in San Diego Federal Office: ‘He Was a Beacon of Light’ appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/Andrew-Haden-1-640x335.jpg",
+              "imageAlt": "U.S. Assistant Attorney Found Dead in San Diego Federal Office: 'He Was a Beacon of Light'",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -265,12 +255,30 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/21/ariana-grande-calls-trump-take-another-song-tiktok-video/",
+              "url": "https://www.foxnews.com/politics/former-acting-us-attorney-andrew-haden-found-dead-san-diego-federal-building-police",
+              "source": "Fox News",
+              "headline": "Former acting US Attorney Andrew Haden found dead in San Diego federal building: police",
+              "excerpt": "Andrew Haden, 48, who ran the office after Trump fired Biden appointee Tara McGrath, was found dead in a San Diego federal building Wednesday.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/andrew-haden-001.jpg?ve=1&tl=1",
+              "imageAlt": "Former acting US Attorney Andrew Haden found dead in San Diego federal building: police",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/21/assistant-us-attorney-andrew-haden-found-dead-san-diego-federal/",
               "source": "Washington Times",
-              "headline": "Ariana Grande calls for Trump to take down another song from a TikTok video",
-              "excerpt": "Pop singer Ariana Grande criticized President Trump on Thursday after his administration used her 2024 song \"We Can't Be Friends (Wait for Your Love)\" in a TikTok video promoting anti-transgender views.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/24/Philanthropy-Ariana_Grande_96_16_s1440x957.jpg?c1375b6336213a1b1684ea576b59a48061a6cd3a",
-              "imageAlt": "Ariana Grande calls for Trump to take down another song from a TikTok video",
+              "headline": "Assistant U.S. attorney Andrew Haden found dead in San Diego federal building",
+              "excerpt": "Assistant U.S. Attorney Andrew Haden was found dead in a San Diego federal building, authorities said Thursday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/21/shutterstock_2659295065_s1440x961.jpg?6ffc4d3d57b058013256ad5bbd6d52434af2a762",
+              "imageAlt": "Assistant U.S. attorney Andrew Haden found dead in San Diego federal building",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -284,21 +292,67 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/grande-response-640x335.jpg",
-          "imageAlt": "Ariana Grande Rages at Trump for Using Her Song in Trans-Trolling TikTok Post",
+          "imageUrl": "https://media.breitbart.com/media/2026/08/Andrew-Haden-1-640x335.jpg",
+          "imageAlt": "U.S. Assistant Attorney Found Dead in San Diego Federal Office: 'He Was a Beacon of Light'",
           "imageCredit": "Breitbart"
         },
         {
-          "title": "Progressive Aisha Wahab Wins Special Election to Replace Former Rep. Eric Swalwell",
-          "summary": "Progressive Aisha Wahab won a special election to replace former Rep. Eric Swalwell in California.\n\nThe result fills the congressional seat left open after Swalwell’s departure, giving Wahab a path into the U.S. House of Representatives.\n\nWahab is described as a progressive candidate, and her victory marks a notable shift for the district she now represents.",
+          "title": "Deadly Alaska Plane Crash Was Carrying Team On Vital Military Mission",
+          "summary": "A chartered Cessna aircraft crashed near the Cape Newenham Long Range Radar Site airport in southwestern Alaska on Thursday, killing all eight people aboard. The Federal Aviation Administration reported the crash occurred at 12:15 p.m.\n\nThe plane was carrying a team on a military mission, including multiple Army engineers. Fox News identified two of the victims as U.S. Army Corps of Engineers employees.\n\nThe crash site is located in an isolated area near a vital radar station. Reports indicate the aircraft went down in fog.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/08/20/progressive-aisha-wahab-wins-special-election-treplace-former-rep-eric-swalwell/",
+              "url": "https://www.dailywire.com/news/no-survivors-after-plane-crashes-in-remote-alaskan-wilderness",
+              "source": "Daily Wire",
+              "headline": "Deadly Alaska Plane Crash Was Carrying Team On Vital Military Mission",
+              "excerpt": "Eight people are dead after a plane carrying multiple Army engineers crashed Thursday near an isolated Alaskan radar station. The Federal Aviation Administration said the crash occurred Thursday at 12:15 p.m. when a chartered Cessna aircraft went down near the Cape Newenham Long Range Radar Site airport in southwestern Alaska. No immediate information was released ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-1499021464.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Deadly Alaska Plane Crash Was Carrying Team On Vital Military Mission",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/us/two-us-army-corps-engineers-employees-among-8-killed-alaska-charter-plane-crash",
+              "source": "Fox News",
+              "headline": "Two US Army Corps of Engineers employees among 8 killed in Alaska charter plane crash",
+              "excerpt": "Two U.S. Army Corps of Engineers employees were among eight killed when a charter plane crashed in fog near Cape Newenham radar site in Alaska.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/national-transportation-safety-board-ntsb.jpg?ve=1&tl=1",
+              "imageAlt": "Two US Army Corps of Engineers employees among 8 killed in Alaska charter plane crash",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-1499021464.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Deadly Alaska Plane Crash Was Carrying Team On Vital Military Mission",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "Meet The Fraud Pollster Who Boosted Socialist With Fake Stats",
+          "summary": "A 21-year-old man has identified himself as the sole creator of a fake polling operation that circulated fabricated surveys in political media. Rahil Prakash told The Guardian he established Median Strategies as a “social experiment” to test whether invented data could gain traction.\n\nThe operation presented itself as an independent firm before admitting its polls were not real. Breitbart reported on Prakash’s admission, noting the fake statistics had entered the broader media ecosystem.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/politics/2026/08/21/nolte-21-year-old-was-behind-fake-polling-firm-median-strategies/",
               "source": "Breitbart",
-              "headline": "Progressive Aisha Wahab Wins Special Election to Replace Former Rep. Eric Swalwell",
-              "excerpt": "HAYWARD, CA - MARCH 2: Senator Aisha Wahab (C) attends a press conference as Governor Gavin Newsom criticizes U.S. President Donald Trump’s decision to strike Iran during a press conference about new statewide accountability and funding for homelessness and mental health in Hayward, California, United States, on March 2, 2026. (Photo by Tayfun Coskun/Anadolu via Getty Images) The post <a rel=\"nofollow\" href=\"https://www.breitbart.com/politics/2026/08/20/progressive-aisha-wahab-wins-spe",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Senator-Aisha-Wahab-Newsom-March2026-getty-640x335.jpg",
-              "imageAlt": "Progressive Aisha Wahab Wins Special Election to Replace Former Rep. Eric Swalwell",
+              "headline": "Nolte: 21-Year-Old Was Behind Fake Polling Firm Median Strategies",
+              "excerpt": "21-year-old Rahil Prakash is the person who published a number of fake polls that entered the media ecosystem. The post Nolte: 21-Year-Old Was Behind Fake Polling Firm Median Strategies appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/AP26206131950626-640x335.png",
+              "imageAlt": "Nolte: 21-Year-Old Was Behind Fake Polling Firm Median Strategies",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -309,11 +363,29 @@
               "reliability": "low",
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/meet-the-fraud-pollster-who-boosted-socialist-with-fake-stats",
+              "source": "Daily Wire",
+              "headline": "Meet The Fraud Pollster Who Boosted Socialist With Fake Stats",
+              "excerpt": "A 21-year-old has identified himself as the man behind the fake polling operation that presented itself as an independent polling firm before admitting its surveys were fabricated. Rahil Prakash told the Guardian Thursday that he created Median Strategies by himself as a “social experiment” to see whether fabricated polling could spread through the political media ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2024/06/GettyImages-1440063318-scaled-e1718130893278.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Meet The Fraud Pollster Who Boosted Socialist With Fake Stats",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/Senator-Aisha-Wahab-Newsom-March2026-getty-640x335.jpg",
-          "imageAlt": "Progressive Aisha Wahab Wins Special Election to Replace Former Rep. Eric Swalwell",
+          "imageUrl": "https://media.breitbart.com/media/2026/08/AP26206131950626-640x335.png",
+          "imageAlt": "Nolte: 21-Year-Old Was Behind Fake Polling Firm Median Strategies",
           "imageCredit": "Breitbart"
         }
       ]
@@ -323,7 +395,7 @@
       "stories": [
         {
           "title": "Enjoy Anglican priests while you still can",
-          "summary": "A Spectator Australia column titled “Enjoy Anglican priests while you still can” opens with a brief anecdote about the author walking their 91-year-old mother through Ledbury and spotting a police officer on patrol. The piece appears to use that moment as a springboard for broader commentary, though the supplied excerpt does not detail the argument beyond its title.\n\nThe article is framed as an opinion or essay rather than a hard-news report, with the headline suggesting a wistful or urgent tone toward the future of Anglican clergy. No additional facts, quotes, or reporting are provided in the source material.",
+          "summary": "A Spectator Australia column titled “Enjoy Anglican priests while you still can” opens with a brief personal anecdote about the author walking their 91-year-old mother through Ledbury and spotting a police officer on patrol. The supplied material does not provide further details about the article’s main argument or context.\n\nThe piece appears to be an opinion column rather than a standard news report, based on its title and first-person framing. No additional facts, quotes, or reporting are included in the available source materials.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/08/enjoy-anglican-priests-while-you-still-can/",
@@ -350,16 +422,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "As bird flu ravages stocks, Kangaroo Island is 'sick of bloody disasters'",
-          "summary": "Kangaroo Island residents and officials are expressing growing frustration as a bird flu outbreak threatens local wildlife. The virus has already caused significant damage to regional stocks, prompting concerns about its potential impact on the island's penguin population.\n\nThe mayor of Kangaroo Island stated that the community is \"sick of bloody disasters\" after recent years of environmental challenges. Local leaders have called for vaccination programs to protect the penguins from further devastation.",
+          "title": "Tasmania warned of 'stress, burnout' as justice staff wellbeing service axed",
+          "summary": "Tasmania's justice department has discontinued a wellbeing service for its employees, prompting warnings about increased stress and burnout. The move is attributed to budget pressures within the state government.\n\nCritics of the decision argue that eliminating the support program will result in high staff turnover and psychological injury among workers. They contend that the service was essential for maintaining employee health in a demanding sector.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-08-21/bird-flu-mass-deaths-prompt-kangaroo-island-apprehension/107062734",
+              "url": "https://www.abc.net.au/news/2026-08-22/tasmanian-safety-wellbeing-service-department-of-justice-axed/107065474",
               "source": "ABC Australia",
-              "headline": "As bird flu ravages stocks, Kangaroo Island is 'sick of bloody disasters'",
-              "excerpt": "Fears about bird flu's potentially devastating impact on South Australia's penguins have fuelled calls for the creatures to be vaccinated against the virus, with Kangaroo Island's mayor saying the local population has \"taken a hammering\" in recent years.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e28dedb7d0ad76c0b82feddc85c81b47?impolicy=wcms_crop_resize&cropH=1709&cropW=3039&xPos=0&yPos=1600&width=862&height=485",
-              "imageAlt": "As bird flu ravages stocks, Kangaroo Island is 'sick of bloody disasters'",
+              "headline": "Tasmania warned of 'stress, burnout' as justice staff wellbeing service axed",
+              "excerpt": "Budget pressures are being blamed for the axing of a wellbeing service for Tasmania's justice department employees, with opponents denouncing the move, which they say will lead to high staff turnover and psychological injury.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ef833b7e66b8505cc78251f80145ea97?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=374&width=862&height=485",
+              "imageAlt": "Tasmania warned of 'stress, burnout' as justice staff wellbeing service axed",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -368,19 +440,19 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e28dedb7d0ad76c0b82feddc85c81b47?impolicy=wcms_crop_resize&cropH=1709&cropW=3039&xPos=0&yPos=1600&width=862&height=485",
-          "imageAlt": "As bird flu ravages stocks, Kangaroo Island is 'sick of bloody disasters'",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ef833b7e66b8505cc78251f80145ea97?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=374&width=862&height=485",
+          "imageAlt": "Tasmania warned of 'stress, burnout' as justice staff wellbeing service axed",
           "imageCredit": "ABC News"
         },
         {
           "title": "Wong 'outraged' at Israeli decision to not criminally investigate Zomi Frankcom killing – video",
-          "summary": "Australian Foreign Minister Penny Wong has expressed outrage over the Israeli government's decision not to pursue criminal proceedings in connection with the killing of Zomi Frankcom and her World Central Kitchen colleagues.\n\nWong made the remarks after a meeting with Israeli ambassador Hillel Newman, stating that Australia was \"outraged\" by the decision. She criticized the lack of sufficient notice from Israel, which prevented the Australian government from alerting Frankcom's family in advance.\n\nThe foreign minister described the handling of the matter as especially insulting and hurtful to Zomi's loved ones, humanitarians, and Australia.",
+          "summary": "Australian Foreign Minister Penny Wong has expressed outrage over the Israeli government's decision not to pursue criminal proceedings against those responsible for the killing of Zomi Frankcom and her World Central Kitchen colleagues.\n\nWong made these remarks following a meeting with Israeli Ambassador Hillel Newman. She criticized the lack of prior notice from Israel, stating it prevented Australia from alerting Frankcom's family in advance.\n\nThe minister described the decision as insulting to Frankcom's loved ones and to humanitarian workers generally.",
           "links": [
             {
               "url": "https://www.theguardian.com/world/video/2026/aug/20/penny-wong-zomi-frankcom-gaza-aid-workers-video-ntwnfb",
@@ -407,16 +479,16 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "I want to be a good father – like Machiavelli",
-          "summary": "A new essay in The Spectator Australia explores the parallels between Niccolò Machiavelli’s historical exile and modern fatherhood. The author reflects on Machiavelli’s banishment from Florence in 1513 to a modest farm in Tuscany following his torture.\n\nThe piece uses this historical context as a lens for personal reflection, suggesting that the political philosopher’s experiences offer unexpected lessons for contemporary parenting.",
+          "title": "Is Labour really considering a Rwanda-style scheme?",
+          "summary": "Spectator Australia reports that as 16 September approaches, the anniversary of Mahsa Amini’s death in the custody of the Islamic regime occupying Iran, it… The post From Woman, Life, Freedom to Javid Shah: how the streets answered appeared first on The Spectator Australia .\n\nThe article examines the evolution of public protest movements in Iran, tracing a path from the “Woman, Life, Freedom” demonstrations to more recent events involving figures like Javid Shah. It suggests that street-level activism has continued to respond to state actions despite ongoing repression.\n\nThe piece frames these developments as part of a broader narrative about civil resistance and the changing nature of dissent within Iran.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/i-want-to-be-a-good-father-like-machiavelli/",
+              "url": "https://www.spectator.com.au/2026/08/from-woman-life-freedom-to-javid-shah-how-the-streets-answered/",
               "source": "Spectator Australia",
-              "headline": "I want to be a good father – like Machiavelli",
-              "excerpt": "Dante’s Beach, Ravenna When Machiavelli was tortured, then banished from Florence in 1513 to his modest farm in the Tuscan… The post I want to be a good father – like Machiavelli appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/the-abc-radicalised-my-fa",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/Nicholas-Farrell-GettyImages-56457714.png",
-              "imageAlt": "I want to be a good father – like Machiavelli",
+              "headline": "From Woman, Life, Freedom to Javid Shah: how the streets answered",
+              "excerpt": "As 16 September approaches, the anniversary of Mahsa Amini’s death in the custody of the Islamic regime occupying Iran, it… The post From Woman, Life, Freedom to Javid Shah: how the streets answered appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.c",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2022/09/iran2.jpg",
+              "imageAlt": "From Woman, Life, Freedom to Javid Shah: how the streets answered",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -430,8 +502,8 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/Nicholas-Farrell-GettyImages-56457714.png",
-          "imageAlt": "I want to be a good father – like Machiavelli",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2022/09/iran2.jpg",
+          "imageAlt": "From Woman, Life, Freedom to Javid Shah: how the streets answered",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -440,8 +512,54 @@
       "name": "Technology",
       "stories": [
         {
+          "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+          "summary": "TikTok has agreed to pay $400 million to settle a lawsuit with the U.S. Department of Justice over alleged violations of children's privacy laws.\n\nThe DOJ originally filed the suit two years ago, alleging that TikTok violated the Children’s Online Privacy Protection Act (COPPA).\n\nThe settlement was announced on Friday and resolves the long-standing legal dispute between the tech company and federal regulators.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+              "source": "The Verge",
+              "headline": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+              "excerpt": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed <a href=",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+              "source": "TechCrunch",
+              "headline": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+              "excerpt": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
+              "imageAlt": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+          "imageCredit": "The Verge"
+        },
+        {
           "title": "Walmart is finally adding Apple Pay and Google Pay",
-          "summary": "Walmart is ending its long-standing refusal to support major mobile payment platforms. The retailer will soon begin accepting Apple Pay and Google Pay for in-store purchases.\n\nThe move marks a significant shift in the company's payment strategy after years of resisting these services. TechCrunch described the development as Walmart finally caving on its previous stance.",
+          "summary": "Walmart is ending its long-standing refusal to support major mobile payment platforms. The retailer will soon begin accepting Apple Pay and Google Pay for in-store purchases.\n\nThe move marks a significant shift in Walmart's payment strategy, which had previously excluded these widely used digital wallets. TechCrunch described the development as a notable reversal of the company's previous stance.",
           "links": [
             {
               "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
@@ -486,6 +604,34 @@
           "imageCredit": "The Verge"
         },
         {
+          "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+          "summary": "The Department of Justice is reportedly investigating a potential antitrust issue involving Andreessen Horowitz, the venture capital firm. The probe centers on two a16z partners who hold board seats at companies that have since become competitors.\n\nBen Horowitz sits on the board of Databricks, while Martin Casado serves on the board of Fivetran. Although these firms were not necessarily direct rivals when a16z initially invested in them, their current competitive overlap has drawn regulatory attention.\n\nThe investigation is said to have been ongoing for nearly a year and involves the application of an 112-year-old antitrust statute that is rarely used against venture capital investors. The move highlights growing scrutiny over board conflicts of interest within the tech investment sector.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+              "source": "TechCrunch",
+              "headline": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+              "excerpt": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+              "imageAlt": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+          "imageAlt": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+          "imageCredit": "TechCrunch"
+        },
+        {
           "title": "Stupid Never Dies – a zombie fights for the love of a frozen corpse",
           "summary": "New studio GPTrack50 has released its first game, Stupid Never Dies, described as a wacky action-packed romp through a monster-filled world. The title is free from big brand audience expectations and centers on Davy, the weakest zombie in monster society.\n\nDavy discovers Julia’s frozen body in a shopping centre and falls in love at first sight. He wants to bring her back to life and take her on a date, which requires defeating the King of Monsters.",
           "links": [
@@ -514,36 +660,8 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-          "summary": "The Department of Justice is reportedly investigating a potential antitrust issue involving Andreessen Horowitz. The probe centers on two firm partners who hold board seats at companies that have since become competitors.\n\nBen Horowitz sits on the board of Databricks, while Martin Casado serves on the board of Fivetran. According to TechCrunch, the DOJ has been examining this arrangement for nearly a year using a 112-year-old antitrust law rarely applied to venture capital firms.\n\nThe report notes that such board conflicts are not uncommon in the industry. Additionally, Databricks and Fivetran were not necessarily direct competitors at the time Andreessen Horowitz initially invested in them.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
-              "source": "TechCrunch",
-              "headline": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-              "excerpt": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-              "imageAlt": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-          "imageAlt": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-          "imageCredit": "TechCrunch"
-        },
-        {
           "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
-          "summary": "Planning documents for a proposed hyperscale data centre in North Ockendon, outer London, indicate the project would produce more than one million tonnes of carbon dioxide annually. The East Havering Data Centre Campus (EHDCC) is described as potentially becoming one of Europe’s largest data centres if approved by Havering council.\n\nThe reported emissions are framed as incompatible with net zero targets and equivalent to roughly 8,480 London-to-New York flights each year. The Guardian’s coverage highlights the scale of the carbon footprint as a central concern in the planning debate.",
+          "summary": "Planning documents indicate that a proposed hyperscale data centre in North Ockendon, London, would produce more than one million tonnes of carbon dioxide annually. The East Havering Data Centre Campus is described as potentially becoming one of the largest data centres in Europe if approved by Havering council.\n\nThe projected emissions are characterized as incompatible with net zero targets. Officials and documents compare the annual footprint to roughly 8,480 London-to-New York flights, underscoring the scale of the environmental concern.",
           "links": [
             {
               "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
@@ -568,34 +686,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/5e4995a896e3c857e647f342a61e99386d8893db/53_0_3076_2461/master/3076.jpg?width=140&quality=85&auto=format&fit=max&s=6d37c772276db202b14ba171164fc525",
           "imageAlt": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-          "summary": "Researchers are testing whether adding alkalis to seawater can help oceans absorb more carbon dioxide without harming marine life. The experiments focus on crustaceans, including lobsters, as indicators of potential ecological impacts.\n\nThe work is part of broader efforts to address ocean acidification, a growing threat driven by rising atmospheric CO2 levels. By making seawater less acidic, the process could potentially slow damage to shellfish and other marine organisms.\n\nHowever, the research faces uncertainty due to funding challenges in the United States. The article notes that Trump’s halt to certain funding streams threatens to disrupt or end these studies, raising concerns about losing valuable data on ocean mitigation strategies.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
-              "source": "The Guardian Technology",
-              "headline": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-              "excerpt": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to funding threatens to scupper the research For many in the US region of New England, the lobster roll is synonymous with summertime. Loaded into a toasted bun, chunks of the sweet meat are served hot and soaked in butter, or chilled and slathered in mayonnaise with celery and herbs. The only thing more debated than the recipe is the price: t",
-              "imageUrl": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
-              "imageAlt": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
-          "imageAlt": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -603,16 +693,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Pagasa: 3 weather disturbances being monitored outside PAR",
-          "summary": "The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) is monitoring three weather disturbances outside the Philippine Area of Responsibility (PAR). One of these systems is forecast to enter PAR by Monday, August 24.\n\nSevere Tropical Storm Saudel remains a key focus for the state weather bureau. Pagasa reported in its Friday advisory that the storm is moving while staying outside the country's monitoring zone.",
+          "title": "Philippine duck, golden-crowned flying fox spotted in Masbate",
+          "summary": "A vulnerable Philippine duck and a critically endangered giant golden-crowned flying fox were recently documented in the mangrove and coastal habitats of San Pascual, Masbate. The sightings highlight the continued presence of rare wildlife species in the region's protected ecosystems.\n\nThe observations were recorded during the second-semester Biodiversity Monitoring System survey conducted in Barangay Halabangbaybay. The Protected Area Management Office of Bongsanglay Natural Park led the monitoring efforts to track local biodiversity.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2289580/pagasa-3-weather-disturbances-being-monitored-outside-par",
+              "url": "https://newsinfo.inquirer.net/2289793/philippine-duck-golden-crowned-flying-fox-spotted-in-masbate",
               "source": "Philippine Daily Inquirer",
-              "headline": "Pagasa: 3 weather disturbances being monitored outside PAR",
-              "excerpt": "MANILA, Philippines — Three weather disturbances are being monitored outside the Philippine area of responsibility (PAR), with one forecast to enter by Monday, Aug. 24, the state weather bureau said. The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) reported in its 5 p.m. weather advisory on Friday that Severe Tropical Storm Saudel is moving",
-              "imageUrl": "",
-              "imageAlt": "Pagasa: 3 weather disturbances being monitored outside PAR",
+              "headline": "Philippine duck, golden-crowned flying fox spotted in Masbate",
+              "excerpt": "MANILA, Philippines — A vulnerable Philippine duck and a critically endangered giant golden-crowned flying fox were among the wildlife species documented in mangrove and coastal habitats in San Pascual, Masbate. The sightings were recorded during the second-semester Biodiversity Monitoring System survey in Barangay Halabangbaybay by the Protected Area Management Office of Bongsanglay Natural Park and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/wildlife-bicol-22august2026.png",
+              "imageAlt": "Philippine duck, golden-crowned flying fox spotted in Masbate",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -623,30 +713,12 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/weather/severe-tropical-storm-saudel-southwest-monsoon-update-pagasa-forecast-august-21-2026-4pm/",
-              "source": "Rappler World",
-              "headline": "Saudel intensifies into severe tropical storm outside PAR",
-              "excerpt": "PAGASA continues to monitor the tropical cyclone with the international name Saudel, which remains outside the Philippine Area of Responsibility",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/08/saudel-satellite-august-21-2026-3pm.jpg",
-              "imageAlt": "Saudel intensifies into severe tropical storm outside PAR",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.rappler.com/tachyon/2026/08/saudel-satellite-august-21-2026-3pm.jpg",
-          "imageAlt": "Saudel intensifies into severe tropical storm outside PAR",
-          "imageCredit": "Rappler"
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/wildlife-bicol-22august2026.png",
+          "imageAlt": "Philippine duck, golden-crowned flying fox spotted in Masbate",
+          "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "3 possible new species found in Apayao forests",
@@ -678,7 +750,7 @@
         },
         {
           "title": "Oriental Mindoro power rates drop P1.72/kWh for August",
-          "summary": "Electricity rates in Oriental Mindoro fell by P1.7281 per kilowatt-hour for August compared with June, according to the Oriental Mindoro Electric Cooperative (Ormeco).\n\nThe cooperative said the decrease was driven by lower generation costs and a significant rise in renewable energy output.\n\nOrmeco also noted that reduced reliance on expensive emergency power providers contributed to the rate drop.",
+          "summary": "Electricity rates in Oriental Mindoro fell by P1.7281 per kilowatt-hour for August compared with June, according to the Oriental Mindoro Electric Cooperative (Ormeco).\n\nThe cooperative attributed the decrease to lower generation costs and a significant increase in renewable energy output.\n\nOrmeco also noted that reduced reliance on expensive emergency power providers contributed to the rate drop.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2289574/oriental-mindoro-power-rates-drop-p1-72-kwh-for-august",
@@ -705,36 +777,8 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Misinformation stokes fears, slows E. Visayas measles-rubella drive",
-          "summary": "Health officials in Eastern Visayas say misinformation on social media and lingering concerns from the 2017 Dengvaxia controversy are slowing a measles-rubella vaccination campaign.\n\nThe issue has been reported in Tacloban City, Leyte, and Calbayog City, Samar. Officials said the hesitancy is affecting efforts to protect young children from potentially serious diseases.\n\nIn Tacloban, City Health Officer Jaime Opinion noted that about 300 mothers were involved in the discussion regarding the campaign's progress. The health department has appealed directly to parents to ensure their children receive the vaccines.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2289497/misinformation-stokes-fears-slows-e-visayas-measles-rubella-drive",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Misinformation stokes fears, slows E. Visayas measles-rubella drive",
-              "excerpt": "TACLOBAN CITY — Misinformation on social media and lingering fears linked to the 2017 Dengvaxia controversy are slowing the measles-rubella vaccination campaign in Tacloban City, Leyte, and Calbayog City, Samar, health officials said, appealing to parents to protect young children from potentially serious diseases. In Tacloban, City Health Officer Jaime Opinion said about 300 mothers",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/calbayog.jpg",
-              "imageAlt": "Misinformation stokes fears, slows E. Visayas measles-rubella drive",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to); article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/calbayog.jpg",
-          "imageAlt": "Misinformation stokes fears, slows E. Visayas measles-rubella drive",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
           "title": "Fisherfolk gather for FishCoRe Salimbayan in La Union",
-          "summary": "The Bureau of Fisheries and Aquatic Resources in the Ilocos region launched the 2026 FishCoRe Salimbayan on Thursday, Aug. 20, in San Fernando City, La Union.\n\nThe event brought together fisherfolk, youth, government agencies, nongovernment organizations, and other stakeholders to promote sustainable fisheries practices.\n\nFishCoRe, or the Philippine Fisheries and Coastal Resiliency Project, serves as the framework for this regional gathering aimed at strengthening coastal resilience.",
+          "summary": "The Bureau of Fisheries and Aquatic Resources in the Ilocos region launched the 2026 FishCoRe Salimbayan on Thursday, Aug. 20, in San Fernando City, La Union.\n\nThe event brought together fisherfolk, youth, government agencies, nongovernment organizations, and other stakeholders to promote sustainable fisheries practices.\n\nFishCoRe, or the Philippine Fisheries and Coastal Resiliency Project, serves as the framework for these collaborative efforts aimed at strengthening coastal resilience.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2289587/fisherfolk-gather-for-fishcore-salimbayan-in-la-union",
@@ -759,6 +803,34 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/La-Union-map-filephoto-091122.jpg",
           "imageAlt": "Fisherfolk gather for FishCoRe Salimbayan in La Union",
           "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "More voices oppose Puerto Galera’s P50 environmental fee",
+          "summary": "Opposition is growing in Puerto Galera, Oriental Mindoro, to a proposed P50 environmental user’s fee for Mindoro residents. Local figures and stakeholders are questioning the policy’s impact on tourism, fairness, and public consultation.\n\nThe measure under review is Municipal Ordinance No. 2025-030, also known as the Revised Puerto Galera Environmental User’s Fee System Ordinance.\n\nIt was passed in December, according to the Philippine Daily Inquirer.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2289779/more-voices-oppose-puerto-galeras-p50-environmental-fee",
+              "source": "Philippine Daily Inquirer",
+              "headline": "More voices oppose Puerto Galera’s P50 environmental fee",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — Opposition to Puerto Galera’s P50 Environmental User’s Fee (EUF) for Mindoro residents is growing, with local figures and stakeholders questioning the policy’s impact on tourism, fairness and public consultation. The questioned measure is Municipal Ordinance No. 2025-030, or the Revised Puerto Galera EUF System Ordinance, which was passed on Dec.",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/30galera.jpg",
+              "imageAlt": "More voices oppose Puerto Galera’s P50 environmental fee",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/30galera.jpg",
+          "imageAlt": "More voices oppose Puerto Galera’s P50 environmental fee",
+          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -767,7 +839,7 @@
       "stories": [
         {
           "title": "Senator asks US government watchdog to review how feds use hacking tools",
-          "summary": "Senator Ron Wyden has requested a comprehensive review of how federal agencies use hacking tools and spyware against Americans. The letter was sent to the U.S. federal watchdog.\n\nThe request specifically targets the FBI, DEA, ICE's HSI, and the Secret Service. Wyden is seeking greater oversight over these digital surveillance capabilities.",
+          "summary": "Senator Ron Wyden has requested a comprehensive review of how federal law enforcement agencies use hacking tools and spyware. The letter was sent to the U.S. federal watchdog.\n\nThe request specifically targets the FBI, DEA, ICE's HSI, and the Secret Service. Wyden is seeking clarity on how these tools are deployed against Americans.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
@@ -794,8 +866,64 @@
           "imageCredit": "TechCrunch"
         },
         {
+          "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
+          "summary": "A luxury Lake Como-inspired estate in the San Francisco Bay Area has sold for a record $70 million, marking one of the highest-priced residential transactions in Hillsborough.\n\nThe buyer is described as being involved in the AI industry, underscoring how artificial-intelligence-driven wealth is reshaping local real estate markets. The sale more than doubled the previous record price for the affluent town south of San Francisco.\n\nThe transaction highlights a broader trend of new tech millionaires entering the Bay Area housing market, pushing prices to extraordinary levels amid continued demand from high-net-worth individuals.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
+              "source": "The Guardian Technology",
+              "headline": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
+              "excerpt": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race A luxury Lake Como-inspired estate in the San Francisco Bay Area has sold to a buyer “in the AI world” for a record $70m, in the latest sign of a new tech wealth boom that’s pushing home prices to extraordinary heights in the region The property south of San Francisco not only becomes the most expensive sale in its affluent town of Hillsborough, doubling a previous r",
+              "imageUrl": "https://i.guim.co.uk/img/media/7d9d381f45fe902c8c8f6e6f526ebeb6b2c15afc/785_0_3702_2962/master/3702.jpg?width=140&quality=85&auto=format&fit=max&s=2b5a47cf697fac9020a4575caa7d7802",
+              "imageAlt": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/7d9d381f45fe902c8c8f6e6f526ebeb6b2c15afc/785_0_3702_2962/master/3702.jpg?width=140&quality=85&auto=format&fit=max&s=2b5a47cf697fac9020a4575caa7d7802",
+          "imageAlt": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
+          "summary": "Researchers are testing whether adding alkalis to seawater can help oceans absorb more carbon dioxide without harming marine life. The experiments focus on crustaceans such as lobsters, which are central to New England’s seafood culture and economy.\n\nThe work aims to address ocean acidification, a growing threat driven by rising CO2 levels. By making seawater less acidic, the process could potentially protect shellfish populations while also drawing down atmospheric carbon.\n\nHowever, the research faces uncertainty after Trump halted funding for related projects. Critics warn that stopping this line of inquiry could delay practical solutions to one of the ocean’s most pressing environmental challenges.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
+              "source": "The Guardian Technology",
+              "headline": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
+              "excerpt": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life. But Trump’s halt to funding threatens to scupper the research For many in the US region of New England, the lobster roll is synonymous with summertime. Loaded into a toasted bun, chunks of the sweet meat are served hot and soaked in butter, or chilled and slathered in mayonnaise with celery and herbs. The only thing more debated than the recipe is the price: t",
+              "imageUrl": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
+              "imageAlt": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/c5d8e574d2a6be0067606206ed1b286ce94319be/0_0_4016_3213/master/4016.jpg?width=140&quality=85&auto=format&fit=max&s=154118993bb8d384e4bf3f65f6b24e4a",
+          "imageAlt": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Metal Gear Solid: Master Collection Vol 2 review – once more unto the mercenary breach",
-          "summary": "Konami’s Metal Gear Solid: Master Collection Vol. 2 brings three more classic stealth titles to modern platforms, including PC, Nintendo Switch and Switch 2, PS5, and Xbox Series X/S.\n\nThe remastered collection revisits the series’ espionage roots while noting that its fictional world has changed little since the original releases. The review references Old Snake’s line from Metal Gear Solid 4: Guns of the Patriots about war changing, contrasting it with Kojima Productions’ 2008 themes around mercenaries fighting proxy wars without political or ideological stakes.",
+          "summary": "Metal Gear Solid: Master Collection Vol. 2 has arrived on PC, Nintendo Switch/Switch 2, PS5, and Xbox Series X/S, bringing another three remastered titles from the stealth espionage franchise.\n\nThe collection revisits classic entries that have seen little change since their original releases. The Guardian's review notes a thematic disconnect between the games' narratives and modern realities.\n\nOld Snake's claim in Metal Gear Solid 4: Guns of the Patriots that \"war has changed\" highlights this shift. Kojima Productions originally explored proxy wars fought by mercenaries without political stakes, but the current landscape differs significantly from those 2008 themes.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/aug/21/metal-gear-solid-master-collection-vol-2-review",
@@ -823,7 +951,7 @@
         },
         {
           "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-          "summary": "Patients in South Yorkshire are reporting frustration with an AI GP receptionist that struggles to understand local accents, according to a health watchdog.\n\nHealthwatch Rotherham said several practices in the area have introduced an automated assistant named Emma. The system is reportedly failing to process broad regional speech patterns, leading some patients to hang up during calls.\n\nThe AI firm behind the chatbot claims it supports 17 languages, but local officials say the technology is having difficulty with specific Yorkshire dialects.",
+          "summary": "Patients in South Yorkshire are reporting frustration with an AI GP receptionist that struggles to understand local accents, according to a health watchdog.\n\nHealthwatch Rotherham said several practices in the area have introduced an automated assistant named Emma. The system is reportedly failing to process broad regional speech patterns, leading some patients to hang up during calls.\n\nThe AI company behind the chatbot claims it supports 17 languages. However, local health advocates say the technology remains ineffective for residents with strong Yorkshire dialects.",
           "links": [
             {
               "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
@@ -847,62 +975,6 @@
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
           "imageUrl": "https://i.guim.co.uk/img/media/b2c58793c1f9360334833f4c8d0f7365a00f8e04/31_0_5021_4016/master/5021.jpg?width=140&quality=85&auto=format&fit=max&s=cff9ef52577a170a8ed822b4a8c7146b",
           "imageAlt": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
-          "summary": "Elon Musk has proposed a new mantra for addressing the climate crisis: moving energy production off-planet. According to the SpaceX boss, this approach aligns with the Kardashev scale.\n\nThe Guardian's Emma Brockes frames this suggestion as a soothing phrase for moments of environmental anxiety, such as during prolonged dry spells in the UK. The commentary suggests that Musk's idea serves more as a psychological comfort than an immediate practical solution.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
-              "source": "The Guardian Technology",
-              "headline": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away",
-              "excerpt": "It’s simple, says the SpaceX boss – according to something called the ‘Kardashev scale’, we just have to move energy production ‘off-planet’ Next time the weather gives the UK 61 days without rain and we wonder idly if this is the end, there is a term we may whistle up to soothe us. Like murmuring the rosary, or putting our fingers in our ears and humming, this phrase is to be mumble",
-              "imageUrl": "https://i.guim.co.uk/img/media/7ef1fd853975851ff9dd8c70d4487c41cb53816f/1043_0_5217_4173/master/5217.jpg?width=140&quality=85&auto=format&fit=max&s=53114f3d1e1eb44daa592d9d53ff3ab1",
-              "imageAlt": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Left",
-              "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (climate crisis|polluters|environmental justice)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/7ef1fd853975851ff9dd8c70d4487c41cb53816f/1043_0_5217_4173/master/5217.jpg?width=140&quality=85&auto=format&fit=max&s=53114f3d1e1eb44daa592d9d53ff3ab1",
-          "imageAlt": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
-          "summary": "A Guardian commentary argues that artificial intelligence is shifting human insecurity from physical appearance to mental performance. The author notes a historical reversal in which technology once imitated humans, but people now increasingly seek to imitate technological capabilities.\n\nThe piece cites recent social media images of John Travolta and Carla Bruni as examples of recognizable public figures whose digital presence prompted reflection on authenticity. The commentary suggests that AI is expanding the scope of personal inadequacy beyond bodies to include cognitive abilities.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
-              "source": "The Guardian Technology",
-              "headline": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
-              "excerpt": "For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technology Two faces that appeared on my Instagram feed in recent months gave me pause. One belonged to John Travolta at Cannes . The other to Carla Bruni on a date night with her husband, former French President Nicolas Sarkozy. Both looked recognisably themselves, yet, the",
-              "imageUrl": "https://i.guim.co.uk/img/media/1b11b1a94c94a990f5576ba75e14b9a320163341/142_11_4043_3234/master/4043.jpg?width=140&quality=85&auto=format&fit=max&s=b43108378c70791d174472652b75305d",
-              "imageAlt": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/1b11b1a94c94a990f5576ba75e14b9a320163341/142_11_4043_3234/master/4043.jpg?width=140&quality=85&auto=format&fit=max&s=b43108378c70791d174472652b75305d",
-          "imageAlt": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
           "imageCredit": "The Guardian"
         }
       ]
