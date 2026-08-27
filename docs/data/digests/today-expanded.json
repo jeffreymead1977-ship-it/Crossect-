@@ -2,24 +2,24 @@
   "id": "2026-08-27-expanded",
   "date": "2026-08-27",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-08-27T03:00:27.626186",
+  "generatedAt": "2026-08-27T12:30:54.805573",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-08-27T03:00:27",
+  "updatedAt": "2026-08-27T12:30:54",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Meta Settles Child Harm Case For Billions",
-          "summary": "Meta has agreed to pay up to $17.1 billion to settle a landmark lawsuit brought by a bipartisan group of dozens of states. The suit alleged that Facebook and Instagram were designed in ways that exploited children and teens.\n\nThe proposed settlement requires Meta to make sweeping changes to its platforms, including time limits and nighttime access restrictions. Al Jazeera reports the figure as $16.68 billion, while Breitbart cites roughly $18 billion, reflecting minor discrepancies in how outlets framed the final amount.",
+          "title": "Judge Denies Minnesota’s Demands For Texas To Extradite ICE Officer",
+          "summary": "Judge Denies Minnesota’s Demands For Texas To Extradite ICE Officer. A federal judge on Wednesday rejected Minnesota’s emergency attempt to force Texas to extradite an Immigration and Customs Enforcement (ICE) agent accused of shooting a Venezuelan man and lying about the incident, potentially clearing the way for the agent’s release from jail.\n\nChristian Castro, 52, faces four counts of second-degree assault and one count of ... Al Jazeera: US judge declines Minnesota’s effort to force Texas to extradite ICE agent.\n\nAl Jazeera reports that iCE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Meta agrees to settlement, platform changes in youth addiction case",
-              "excerpt": "Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8ef2dd-1787753181.jpg?resize=1920%2C1440",
-              "imageAlt": "Meta agrees to settlement, platform changes in youth addiction case",
+              "headline": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
+              "excerpt": "ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8f4e65-1787776613.jpg?resize=1920%2C1440",
+              "imageAlt": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,21 +32,98 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.breitbart.com/tech/2026/08/26/mark-zuckerbergs-meta-agrees-to-18-billion-settlement-with-29-states-to-end-teen-social-media-addiction-lawsuit/",
-              "source": "Breitbart",
-              "headline": "Mark Zuckerberg's Meta Agrees to $18 Billion Settlement with 29 States to End Teen Social Media Addiction Lawsuit",
-              "excerpt": "Mark Zuckerberg's Meta agreed to pay roughly $18 billion to settle a lawsuit brought by 29 states over allegations that Facebook and Instagram harmed children through addictive design. The post Mark Zuckerberg’s Meta Agrees to $18 Billion Settlement with 29 States to End Teen Social Media Addiction Lawsuit</a",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Mark-Zuckerberg-of-Meta-settles-the-case-640x335.jpg",
-              "imageAlt": "Mark Zuckerberg's Meta Agrees to $18 Billion Settlement with 29 States to End Teen Social Media Addiction Lawsuit",
-              "outlet": "Breitbart",
+              "url": "https://www.dailywire.com/news/judge-denies-minnesotas-demands-for-texas-to-extradite-ice-officer",
+              "source": "Daily Wire",
+              "headline": "Judge Denies Minnesota’s Demands For Texas To Extradite ICE Officer",
+              "excerpt": "A federal judge on Wednesday rejected Minnesota’s emergency attempt to force Texas to extradite an Immigration and Customs Enforcement (ICE) agent accused of shooting a Venezuelan man and lying about the incident, potentially clearing the way for the agent’s release from jail. Christian Castro, 52, faces four counts of second-degree assault and one count of ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2247009278.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Judge Denies Minnesota’s Demands For Texas To Extradite ICE Officer",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
-              "sourceReliability": "low",
+              "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[0]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8f4e65-1787776613.jpg?resize=1920%2C1440",
+          "imageAlt": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "FDA Approves Pancreatic Cancer Drug That Nearly Doubled Survival In Trial",
+          "summary": "FDA Approves Pancreatic Cancer Drug That Nearly Doubled Survival In Trial. The U.S. Food and Drug Administration (FDA) on Wednesday approved a groundbreaking new treatment for advanced pancreatic cancer that nearly doubled median survival in a clinical trial, marking what experts are calling one of the biggest advances against the deadly disease in decades.\n\nThe drug, daraxonrasib, which will be sold under the brand name Rasonque, ... BBC: US drug agency approves breakthrough treatment for pancreatic cancer.\n\nBBC reports that experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "US drug agency approves breakthrough treatment for pancreatic cancer",
+              "excerpt": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6145/live/8dd89c80-a18d-11f1-9e49-ab6cded816f9.jpg",
+              "imageAlt": "US drug agency approves breakthrough treatment for pancreatic cancer",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/fda-approves-pancreatic-cancer-drug-that-nearly-doubled-survival-in-trial",
+              "source": "Daily Wire",
+              "headline": "FDA Approves Pancreatic Cancer Drug That Nearly Doubled Survival In Trial",
+              "excerpt": "The U.S. Food and Drug Administration (FDA) on Wednesday approved a groundbreaking new treatment for advanced pancreatic cancer that nearly doubled median survival in a clinical trial, marking what experts are calling one of the biggest advances against the deadly disease in decades. The drug, daraxonrasib, which will be sold under the brand name Rasonque, ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2222922178.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "FDA Approves Pancreatic Cancer Drug That Nearly Doubled Survival In Trial",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[1]",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6145/live/8dd89c80-a18d-11f1-9e49-ab6cded816f9.jpg",
+          "imageAlt": "US drug agency approves breakthrough treatment for pancreatic cancer",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Meta Settles Child Harm Case For Billions",
+          "summary": "Meta Settles Child Harm Case For Billions. Meta agreed Wednesday to pay up to $17.1 billion to settle a landmark lawsuit brought by a bipartisan group of dozens of states alleging that Facebook and Instagram were designed in ways that exploited children and teens.\n\nThe proposed settlement requires Meta to make sweeping changes to Facebook and Instagram, including time limits, nighttime access ... Al Jazeera: Meta agrees to $17B settlement in landmark child-safety case.\n\nAl Jazeera reports that meta has agreed to pay up to $17.1 billion in a landmark settlement with US states.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Meta agrees to $17B settlement in landmark child-safety case",
+              "excerpt": "Meta has agreed to pay up to $17.1 billion in a landmark settlement with US states",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787779260.jpg?resize=1200%2C675",
+              "imageAlt": "Meta agrees to $17B settlement in landmark child-safety case",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
@@ -68,22 +145,70 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8ef2dd-1787753181.jpg?resize=1920%2C1440",
-          "imageAlt": "Meta agrees to settlement, platform changes in youth addiction case",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[2]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787779260.jpg?resize=1200%2C675",
+          "imageAlt": "Meta agrees to $17B settlement in landmark child-safety case",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
-          "summary": "Bodies of four missing people were found on Jeju Island, a popular holiday destination in South Korea. The discovery has intensified a national scandal over how missing persons cases are handled by police.\n\nA police sergeant was arrested after accusations that he lied to victims' families and prematurely closed their cases. Authorities have not yet confirmed the cause of death or whether the deaths were connected to each other.",
+          "title": "Fed governor Lisa Cook slams Trump's renewed threat to fire her",
+          "summary": "Fed governor Lisa Cook slams Trump's renewed threat to fire her. Federal Reserve governor Lisa Cook said the Trump administration has no legal basis to remove her from the central bank's governing board in a letter late Wednesday responding to renewed threats from the White House.\n\nAl Jazeera: Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims.\n\nAl Jazeera reports that the Trump administration has doubled down on its accusations against Cook, despite a Supreme Court ruling in her favour.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Bodies of missing people found in Korea becomes national scandal",
-              "excerpt": "A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-26T013612Z_1909575873_RC216NAOUZXE_RTRMADP_3_SOUTHKOREA-POLICE-MISSING-1787752714.jpg?resize=1764%2C1080",
-              "imageAlt": "Bodies of missing people found in Korea becomes national scandal",
+              "headline": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
+              "excerpt": "The Trump administration has doubled down on its accusations against Cook, despite a Supreme Court ruling in her favour.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8f8592-1787790738.jpg?resize=1920%2C1440",
+              "imageAlt": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/26/fed-governor-lisa-cook-slams-trumps-renewed-threat-fire/",
+              "source": "Washington Times",
+              "headline": "Fed governor Lisa Cook slams Trump's renewed threat to fire her",
+              "excerpt": "Federal Reserve governor Lisa Cook said the Trump administration has no legal basis to remove her from the central bank's governing board in a letter late Wednesday responding to renewed threats from the White House.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/07/Federal_Reserve_Lisa_Cook_6_455_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Fed governor Lisa Cook slams Trump's renewed threat to fire her",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[3]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8f8592-1787790738.jpg?resize=1920%2C1440",
+          "imageAlt": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "At least 12 dead, 54 injured as wildfires ravage northeastern Algeria",
+          "summary": "At least 12 dead, 54 injured as wildfires ravage northeastern Algeria. Six people in critical condition as a severe heatwave fuels 154 wildfires across Algeria in a single day.\n\nBBC: At least 12 dead as wildfires sweep through northern Algeria.\n\nBBC reports that northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/8/27/at-least-12-dead-54-injured-as-wildfires-ravage-northeastern-algeria?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "At least 12 dead, 54 injured as wildfires ravage northeastern Algeria",
+              "excerpt": "Six people in critical condition as a severe heatwave fuels 154 wildfires across Algeria in a single day.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-08-19T182134Z_2013025311_RC28AGANGFFH_RTRMADP_3_ALGERIA-WEATHER-WILDFIRE-1787792715_7b43ee-1787792770.jpg?resize=1200%2C630&quality=80",
+              "imageAlt": "At least 12 dead, 54 injured as wildfires ravage northeastern Algeria",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -96,12 +221,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Bodies found on S Korean holiday island as missing persons scandal deepens",
-              "excerpt": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb0f/live/1d66ddc0-a112-11f1-9277-c14ca51fa4b7.jpg",
-              "imageAlt": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+              "headline": "At least 12 dead as wildfires sweep through northern Algeria",
+              "excerpt": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bd9/live/184dd280-a1b2-11f1-a598-9df6ae0dd0cc.jpg",
+              "imageAlt": "At least 12 dead as wildfires sweep through northern Algeria",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -115,68 +240,23 @@
               "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-26T013612Z_1909575873_RC216NAOUZXE_RTRMADP_3_SOUTHKOREA-POLICE-MISSING-1787752714.jpg?resize=1764%2C1080",
-          "imageAlt": "Bodies of missing people found in Korea becomes national scandal",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[4]",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-08-19T182134Z_2013025311_RC28AGANGFFH_RTRMADP_3_ALGERIA-WEATHER-WILDFIRE-1787792715_7b43ee-1787792770.jpg?resize=1200%2C630&quality=80",
+          "imageAlt": "At least 12 dead, 54 injured as wildfires ravage northeastern Algeria",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "CIA Chief John Ratcliffe Met With Russian Intelligence, Not Putin, on Moscow Trip Says Kremlin",
-          "summary": "The Kremlin said CIA Director John Ratcliffe met with Russian intelligence officials during a surprise visit to Moscow on Tuesday, but did not meet President Vladimir Putin. A Kremlin spokesman described the talks as positive.\n\nAl Jazeera reported that Ratcliffe's meetings were limited to Russian intelligence officials and excluded a direct encounter with the president. Breitbart framed the story around the absence of a meeting with Putin, emphasizing that the Kremlin clarified the scope of the visit.",
+          "title": "At least than 550 missing in Tibet floods, hundreds missing in Nepal",
+          "summary": "At least than 550 missing in Tibet floods, hundreds missing in Nepal. China's Xinhua News Agency said mudslides Wednesday caused by a glacial collapse in Tibet have left 558 people missing, while police in Nepal reported Thursday morning that at least 162 were killed after massive flash floods in a border area of Nepal and China left hundreds of tourists, workers and others missing after suddenly sweeping through communities and halting travel in some areas.\n\nBreitbart: At Least 95 Dead from Massive Floods in Tibet and Nepal, Hundreds Missing. Breitbart reports that torrential rains and swollen rivers caused massive floods and dangerous landslides in Tibet and Nepal on Wednesday, sweeping away villages and destroying crucial roads and bridges.\n\nThe post At Least 95 Dead from Massive Floods in Tibet and Nepal, Hundreds Missing appeared first on Breitbart</a.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
-              "excerpt": "CIA's Ratcliffe has met with Russian intel officials in Moscow, but not President Putin; Kremlin calls talks 'positive'.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69d3efbbca6d9-1775497147.jpg?resize=1920%2C1440",
-              "imageAlt": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.breitbart.com/europe/2026/08/26/cia-chief-john-ratcliffe-met-with-russian-intelligence-not-putin-on-moscow-trip-says-kremlin/",
+              "url": "https://www.breitbart.com/asia/2026/08/26/at-least-95-dead-from-massive-floods-in-tibet-and-nepal-hundreds-missing/",
               "source": "Breitbart",
-              "headline": "CIA Chief John Ratcliffe Met With Russian Intelligence, Not Putin, on Moscow Trip Says Kremlin",
-              "excerpt": "CIA boss John Ratcliffe did not meet with President Putin during his surprise visit to Moscow on Tuesday, a Kremlin spokesman said. The post CIA Chief John Ratcliffe Met With Russian Intelligence, Not Putin, on Moscow Trip Says Kremlin appeared first on Breitbart .</p",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-2287764351-e1787743400517-640x335.jpg",
-              "imageAlt": "CIA Chief John Ratcliffe Met With Russian Intelligence, Not Putin, on Moscow Trip Says Kremlin",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69d3efbbca6d9-1775497147.jpg?resize=1920%2C1440",
-          "imageAlt": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "‘Rocky Horror’ Legend Tim Curry Dead At 80",
-          "summary": "Tim Curry, the British actor best known for playing Dr. Frank-N-Furter in The Rocky Horror Picture Show, has died at age 80.\n\nCurry passed away late Tuesday night at his Los Angeles home after suffering from several health issues over the past decade, including years of stroke recovery. Police arrived at the scene just before midnight and reported that foul play is not suspected.\n\nHis career spanned cult classics such as The Rocky Horror Picture Show, Home Alone 2, Clue, and a role as the evil clown in IT.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/entertainment/2026/08/26/tim-curry-home-alone-2-rocky-horror-picture-show-clue-star-dies-at-80/",
-              "source": "Breitbart",
-              "headline": "Tim Curry, ‘Home Alone 2,’ Rocky Horror Picture Show,’ ‘Clue’ Star, Dies at 80",
-              "excerpt": "Tim Curry, star of cult favorite \"The Rocky Horror Picture Show,\" played the evil clown in \"IT,\" and star of \"Home Alone 2\" has passed away at the age of 80. The post Tim Curry, ‘Home Alone 2,’ Rocky Horror Picture Show,’ ‘Clue’ Star, Dies at 80 appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/timcurry-640x335.jpg",
-              "imageAlt": "Tim Curry, ‘Home Alone 2,’ Rocky Horror Picture Show,’ ‘Clue’ Star, Dies at 80",
+              "headline": "At Least 95 Dead from Massive Floods in Tibet and Nepal, Hundreds Missing",
+              "excerpt": "Torrential rains and swollen rivers caused massive floods and dangerous landslides in Tibet and Nepal on Wednesday, sweeping away villages and destroying crucial roads and bridges. The post At Least 95 Dead from Massive Floods in Tibet and Nepal, Hundreds Missing appeared first on Breitbart</a",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/AP26238503532584-640x335.png",
+              "imageAlt": "At Least 95 Dead from Massive Floods in Tibet and Nepal, Hundreds Missing",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -189,12 +269,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/rocky-horror-legend-tim-curry-dead-at-80",
+              "url": "https://www.dailywire.com/news/dozens-of-americans-among-missing-after-deadly-flash-flood-in-nepal",
               "source": "Daily Wire",
-              "headline": "‘Rocky Horror’ Legend Tim Curry Dead At 80",
-              "excerpt": "Legendary actor Tim Curry died late Tuesday night after suffering from several health issues over the last decade. He was 80 years old. Entertainment site TMZ reported that Curry passed away at his Los Angeles home. Police arrived on the scene just before midnight. The outlet also reported that foul play is not suspected in ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-590700076.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "‘Rocky Horror’ Legend Tim Curry Dead At 80",
+              "headline": "Dozens Of Americans Among Missing After Deadly Flash Flood In Nepal",
+              "excerpt": "More than 50 Americans are among the missing after deadly flash floods swept through several areas along the border between Nepal and China. The flood was reportedly triggered when a wall of rock and mud collapsed into a river near the border between Nepal and China-controlled Tibet. Police in Nepal have already reported at least ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2291598755.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Dozens Of Americans Among Missing After Deadly Flash Flood In Nepal",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -207,30 +287,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/entertainment/tim-curry-the-rocky-horror-picture-show-actor-dead-80",
-              "source": "Fox News",
-              "headline": "Tim Curry, 'The Rocky Horror Picture Show' actor, dead at 80",
-              "excerpt": "Tim Curry, the British actor who portrayed Dr. Frank-N-Furter in \"The Rocky Horror Picture Show,\" died Tuesday at 80 after years of stroke recovery.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/tim-curry.jpg?ve=1&tl=1",
-              "imageAlt": "Tim Curry, 'The Rocky Horror Picture Show' actor, dead at 80",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/26/rocky-horror-star-tim-curry-dies-80/",
+              "url": "https://www.washingtontimes.com/news/2026/aug/26/least-550-missing-tibet-floods-hundreds-missing-nepal/",
               "source": "Washington Times",
-              "headline": "'Rocky Horror' star Tim Curry dies at 80",
-              "excerpt": "Tim Curry, the British actor whose portrayal of Dr. Frank-N-Furter turned \"The Rocky Horror Picture Show\" into a cult phenomenon, has died at age 80.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/26/AP04111008370_s666x929.jpg?046a5b693fc768c009ef3337c0cf1766e3f7d043",
-              "imageAlt": "'Rocky Horror' star Tim Curry dies at 80",
+              "headline": "At least than 550 missing in Tibet floods, hundreds missing in Nepal",
+              "excerpt": "China's Xinhua News Agency said mudslides Wednesday caused by a glacial collapse in Tibet have left 558 people missing, while police in Nepal reported Thursday morning that at least 162 were killed after massive flash floods in a border area of Nepal and China left hundreds of tourists, workers and others missing after suddenly sweeping through communities and halting travel in some areas.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/26/APTOPIX_Nepal_Flash_Floods_647_3_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "At least than 550 missing in Tibet floods, hundreds missing in Nepal",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -243,22 +305,23 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/timcurry-640x335.jpg",
-          "imageAlt": "Tim Curry, ‘Home Alone 2,’ Rocky Horror Picture Show,’ ‘Clue’ Star, Dies at 80",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[5]",
+          "imageUrl": "https://media.breitbart.com/media/2026/08/AP26238503532584-640x335.png",
+          "imageAlt": "At Least 95 Dead from Massive Floods in Tibet and Nepal, Hundreds Missing",
           "imageCredit": "Breitbart"
         },
         {
-          "title": "Radical Philly DA Fantasizes About Blowing Up Trump White House Ballroom, Selling Debris",
-          "summary": "Philadelphia District Attorney Larry Krasner said Tuesday he expects President Donald Trump’s planned White House ballroom to one day be blown up in an “official ceremony.”\n\nKrasner, who has links to billionaire George Soros, shared that he would have a \"piece of\" the White House ballroom as a paperweight on his desk after it was blown up.\n\nSpeaking at a rally on Independence Mall before a gathering honoring slaves owned by George Washington, Krasner unleashed a tirade against Trump before egging on the crowd.\n\nThe comments drew criticism from multiple outlets, including Breitbart and Daily Wire, which described the remarks as fantastical and hate-fueled.",
+          "title": "China Accelerates Island Building in Disputed South China Sea",
+          "summary": "China Accelerates Island Building in Disputed South China Sea. Satellite photographs have revealed new construction on Yagong Island in the Paracels archipelago, leading analysts to believe China is constructing a major military base that will consolidate its grip on the disputed South China Sea islands.\n\nThe post China Accelerates Island Building in Disputed South China Sea appeared first on <a rel=\"nofollow\" href=\". Washington Times: State blasts China for building new military base on disputed reef.\n\nWashington Times reports that the State Department on Wednesday called China's construction of a new military base on a disputed South China Sea island \"unacceptable\" and detrimental to peace and stability.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/08/26/soros-linked-philadelphia-district-attorney-says-he-will-have-piece-of-white-house-ballroom-on-his-desk-after-its-blown-up/",
+              "url": "https://www.breitbart.com/asia/2026/08/26/china-accelerates-island-building-in-disputed-south-china-sea/",
               "source": "Breitbart",
-              "headline": "Soros-Linked Philadelphia District Attorney Says He Will Have 'Piece of' White House Ballroom on His Desk After It's Blown Up",
-              "excerpt": "Philadelphia, Pennsylvania District Attorney (DA) Larry Krasner, who has links to billionaire George Soros, shared that he would have a \"piece of\" the White House ballroom, as a paperweight on his desk after it was blown up. The post Soros-Linked Philadelphia District Attorney Says He Will Have",
-              "imageUrl": "https://media.breitbart.com/media/2026/06/White-House-ballroom-640x335.jpg",
-              "imageAlt": "Soros-Linked Philadelphia District Attorney Says He Will Have 'Piece of' White House Ballroom on His Desk After It's Blown Up",
+              "headline": "China Accelerates Island Building in Disputed South China Sea",
+              "excerpt": "Satellite photographs have revealed new construction on Yagong Island in the Paracels archipelago, leading analysts to believe China is constructing a major military base that will consolidate its grip on the disputed South China Sea islands. The post China Accelerates Island Building in Disputed South China Sea appeared first on <a rel=\"nofollow\" href=\"",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-2284833882-640x335.png",
+              "imageAlt": "China Accelerates Island Building in Disputed South China Sea",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -271,155 +334,28 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/radical-philly-da-fantasizes-about-blowing-up-trump-white-house-ballroom-selling-debris",
-              "source": "Daily Wire",
-              "headline": "Radical Philly DA Fantasizes About Blowing Up Trump White House Ballroom, Selling Debris",
-              "excerpt": "Radical Philadelphia DA Larry Krasner openly fantasized on Tuesday about blowing up President Donald Trump’s planned White House ballroom and selling the leftover rubble as souvenir paperweights. Speaking at a rally on Independence Mall before a gathering honoring slaves owned by George Washington, the Soros-backed prosecutor unleashed an unhinged, hate-fueled tirade against Trump before egging ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-1191069249.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Radical Philly DA Fantasizes About Blowing Up Trump White House Ballroom, Selling Debris",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/philadelphia-da-keep-piece-trump-white-house-ballroom-after-we-all-blow-it-up",
-              "source": "Fox News",
-              "headline": "Philadelphia DA says he'll keep piece of Trump's White House ballroom 'after we all blow it up'",
-              "excerpt": "Philadelphia District Attorney Larry Krasner said Tuesday he expects President Donald Trump’s White House ballroom to one day be blown up in an “official ceremony.\"",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/white_house_ballroom_krasner-3.jpg?ve=1&tl=1",
-              "imageAlt": "Philadelphia DA says he'll keep piece of Trump's White House ballroom 'after we all blow it up'",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/06/White-House-ballroom-640x335.jpg",
-          "imageAlt": "Soros-Linked Philadelphia District Attorney Says He Will Have 'Piece of' White House Ballroom on His Desk After It's Blown Up",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Federal Judge Kills Texas Drag Show Ban, Saying It Would Even Land Dolly Parton in Jail",
-          "summary": "A federal judge struck down a 2023 Texas law restricting drag shows, ruling that the statute violated the First Amendment's guarantee of free speech.\n\nJudge David Hittner blocked state Attorney General Ken Paxton from enforcing Senate Bill 12, citing protections for expressive performance and free speech.\n\nThe court found the law's definitions so broad they could have criminalized performers as varied as the late Dolly Parton. This marks a second judicial strike-down of the Texas drag show ban.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/entertainment/2026/08/26/federal-judge-kills-texas-drag-show-ban-saying-it-would-even-land-dolly-parton-in-jail/",
-              "source": "Breitbart",
-              "headline": "Federal Judge Kills Texas Drag Show Ban, Saying It Would Even Land Dolly Parton in Jail",
-              "excerpt": "A federal judge struck down a 2023 Texas law Tuesday, ruling that the state cannot enforce its drag show ban as it violated the First Amendment’s guarantee of free speech while its definitions were so broad it could have landed the late Dolly Parton behind bars. The post Federal Judge Kills Texas Drag Show Ban, Saying It Wou",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-1483583011-640x335.png",
-              "imageAlt": "Federal Judge Kills Texas Drag Show Ban, Saying It Would Even Land Dolly Parton in Jail",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "article-text: Right cue(s): (tax cuts|red tape|small business|property rights|free speech)",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/federal-judge-strikes-down-texas-restriction-drag-shows-offers-people-simple-solution",
-              "source": "Fox News",
-              "headline": "Texas law targeting drag shows could have criminalized the late Dolly Parton, judge ruled",
-              "excerpt": "Judge David Hittner blocked Ken Paxton from enforcing Texas Senate Bill 12, citing First Amendment protections for drag shows and free speech.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/931/523/drag-queen.jpg?ve=1&tl=1",
-              "imageAlt": "Texas law targeting drag shows could have criminalized the late Dolly Parton, judge ruled",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "article-text: Right cue(s): (tax cuts|red tape|small business|property rights|free speech)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/26/judge-strikes-texas-drag-show-ban-cites-dolly-parton/",
+              "url": "https://www.washingtontimes.com/news/2026/aug/26/inside-ring-china-building-new-military-base-disputed-antelope-reef/",
               "source": "Washington Times",
-              "headline": "Judge again strikes down Texas drag show ban, cites Dolly Parton",
-              "excerpt": "A Reagan-appointed federal judge, for the second time, struck down a Texas law restricting drag performances, ruling that the statute is unconstitutionally vague and permanently blocking state Attorney General Ken Paxton from enforcing it.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2023/09/22/Drag_Shows_Texas_60605_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Judge again strikes down Texas drag show ban, cites Dolly Parton",
+              "headline": "State blasts China for building new military base on disputed reef",
+              "excerpt": "The State Department on Wednesday called China's construction of a new military base on a disputed South China Sea island \"unacceptable\" and detrimental to peace and stability.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2021/03/03/china_explaining_the_congress_90791_s1440x843.jpg?035555f27a4429a2bc6342dfa2f8077e660d8330",
+              "imageAlt": "State blasts China for building new military base on disputed reef",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-1483583011-640x335.png",
-          "imageAlt": "Federal Judge Kills Texas Drag Show Ban, Saying It Would Even Land Dolly Parton in Jail",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "South Carolina Democrat launches first ad after Graham Nordone’s runoff victory",
-          "summary": "South Carolina Senate Democratic candidate Annie Andrews released her first general-election ad on Wednesday after Republican Darline Graham Nordone secured the GOP nomination in Tuesday night's runoff.\n\nGraham Nordone defeated Rep. Ralph Norman, taking roughly 52 percent of the vote to Norman's share and giving President Trump a notable win in the special primary.\n\nThe race now shifts to the general election, where Andrews will face Graham Nordone for the open South Carolina Senate seat.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/08/25/trump-backed-darline-graham-wins-south-carolina-republican-senate-runoff/",
-              "source": "Breitbart",
-              "headline": "Trump-Backed Darline Graham Wins South Carolina Republican Senate Runoff",
-              "excerpt": "Darline Graham Nordone has won the South Carolina Republican Senate runoff, defeating Rep. Ralph Norman by 53-47 percent and giving President Donald Trump a huge win on Tuesday. The post Trump-Backed Darline Graham Wins South Carolina Republican Senate Runoff appeared first on Breitbart</a",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Sen-Darline-Graham-R-South-Carolina-Aug24-2026-getty-640x335.jpg",
-              "imageAlt": "Trump-Backed Darline Graham Wins South Carolina Republican Senate Runoff",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4701042/annie-andrews-ad-darline-graham-nordone-south-carolina-senate-race/",
-              "source": "Washington Examiner",
-              "headline": "South Carolina Democrat launches first ad after Graham Nordone’s runoff victory",
-              "excerpt": "South Carolina Senate Democratic candidate Annie Andrews released her first ad of the general election on Wednesday after Sen. Darline Graham Nordone (R-SC) secured the GOP nomination in the special primary runoff Tuesday night. Graham Nordone emerged victorious in the runoff election against Rep. Ralph Norman (R-SC), securing 52.3% of the vote compared with Norman’s […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/image-collage-m5e4bfzg4-1787762109158-e1787762340856.jpg?1787749699&w=696",
-              "imageAlt": "South Carolina Democrat launches first ad after Graham Nordone’s runoff victory",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/Sen-Darline-Graham-R-South-Carolina-Aug24-2026-getty-640x335.jpg",
-          "imageAlt": "Trump-Backed Darline Graham Wins South Carolina Republican Senate Runoff",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[6]",
+          "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-2284833882-640x335.png",
+          "imageAlt": "China Accelerates Island Building in Disputed South China Sea",
           "imageCredit": "Breitbart"
         }
       ]
@@ -429,7 +365,7 @@
       "stories": [
         {
           "title": "Is social media causing dangerous driving?",
-          "summary": "A recent fatal traffic accident linked to a police chase has renewed debate over whether social media contributes to dangerous driving in Australia.\n\nThe incident follows the deaths of five people connected to similar pursuits, prompting questions about how online platforms may influence driver behavior and public attention on road safety.\n\nSpectator Australia framed the story as an inquiry into the role of social media in modern traffic accidents, without asserting a definitive causal link.",
+          "summary": "Is social media causing dangerous driving?. Earlier today we found out there has been another fatal traffic accident related to a police chase, following the death of five… The post Is social media causing dangerous driving? appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/08/is-this-really-the-most-d.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/08/is-social-media-causing-dangerous-driving/",
@@ -450,22 +386,53 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[7]",
           "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages_2291931938.jpg",
           "imageAlt": "Is social media causing dangerous driving?",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Dominic Perrottet’s sister-in-law denies lying under oath to protect husband over allegedly illegal donations, Icac hears",
-          "summary": "Anita Perrottet, the sister-in-law of Victorian Premier Daniel Andrews' predecessor Dominic Perrottet, has denied lying under oath to protect her husband over allegedly illegal donations. She told an Independent Commission Against Corruption (ICAC) hearing that hundreds of thousands of dollars in payments made to her were for 'strategic and marketing advice.'\n\nThe ICAC inquiry is examining allegations surrounding political donations in Victoria. Perrottet's testimony comes as the commission continues its investigation into compliance with state electoral funding rules.\n\nSeparately, ABC News reported that a historic Royal Commission into Antisemitism and Social Cohesion has concluded after more than 60 days of public hearings, ending with an emotional closing address by a rabbi.",
+          "title": "Greens MP seeks apology for 'horrific slur', threatens to sue Nationals rival",
+          "summary": "Greens MP seeks apology for 'horrific slur', threatens to sue Nationals rival. Two of WA parliament's biggest personalities are staring down the barrel of a legal fight, with Greens politician Sophie McNeill taking the first step towards suing Nationals counterpart Lachlan Hunter.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/aug/26/dominic-perrottets-sister-in-law-denies-lying-under-oath-to-protect-husband-over-allegedly-donations-icac-hears-ntwnfb",
+              "url": "https://www.abc.net.au/news/2026-08-27/wa-greens-mp-threatens-to-sue-nationals-mp-antisemitism-claims/107084092",
+              "source": "ABC Australia",
+              "headline": "Greens MP seeks apology for 'horrific slur', threatens to sue Nationals rival",
+              "excerpt": "Two of WA parliament's biggest personalities are staring down the barrel of a legal fight, with Greens politician Sophie McNeill taking the first step towards suing Nationals counterpart Lachlan Hunter.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b7e7ca471c1081ba5285cd8508364911?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=105&width=862&height=485",
+              "imageAlt": "Greens MP seeks apology for 'horrific slur', threatens to sue Nationals rival",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[8]",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b7e7ca471c1081ba5285cd8508364911?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=105&width=862&height=485",
+          "imageAlt": "Greens MP seeks apology for 'horrific slur', threatens to sue Nationals rival",
+          "imageCredit": "ABC News"
+        },
+        {
+          "title": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video",
+          "summary": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video.\n\nSince 2018, the New South Wales city of Armidale has been a designated site for resettling refugees. It's a town that sits within the electorate of Barnaby Joyce.\n\nWhile Joyce was a key voice supporting Armidale's establishment as a refugee resettlement site, he's since defected from the Nationals to One Nation, a party which wants to ban all migrants who don't speak English.\n\nGuardian Australia's community affairs reporter Adeshola Ore travels to Armidale to speak with Joyce and community memb.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/video/2026/aug/18/one-nation-wants-to-restrict-migration-a-town-in-barnaby-joyces-electorate-welcomes-it-video",
               "source": "The Guardian Australia",
-              "headline": "Dominic Perrottet’s sister-in-law denies lying under oath to protect husband over allegedly illegal donations, Icac hears",
-              "excerpt": "Anita Perrottet tells an inquiry hearing that hundreds of thousands of dollars in payments to her were for ‘strategic and marketing advice’ Get our breaking news email , free app or daily news podcast The sister-in-law of Dominic Perrottet has rejected the sugge",
-              "imageUrl": "https://i.guim.co.uk/img/media/bc0c74299e4f381815e960e4c282b1319e328874/0_53_1280_1025/master/1280.jpg?width=140&quality=85&auto=format&fit=max&s=ce7abe7824a7a3d5ab2c0369463879d9",
-              "imageAlt": "Dominic Perrottet’s sister-in-law denies lying under oath to protect husband over allegedly illegal donations, Icac hears",
+              "headline": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video",
+              "excerpt": "Since 2018, the New South Wales city of Armidale has been a designated site for resettling refugees. It's a town that sits within the electorate of Barnaby Joyce. While Joyce was a key voice supporting Armidale's establishment as a refugee resettlement site, he's since defected from the Nationals to One Nation, a party which wants to ban all migrants who don't speak English. Guardian Australia's community affairs reporter Adeshola Ore travels to Armidale to speak with Joyce and community memb",
+              "imageUrl": "https://i.guim.co.uk/img/media/2c1e999d6b17935a3e328e85939b8a798ca007b8/415_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=4c3d5464b7ccdd4757ee30a978ddc9c7",
+              "imageAlt": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -476,90 +443,25 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-08-26/bondi-antisemitism-social-cohesion-royal-commission-closes/107081712",
-              "source": "ABC Australia",
-              "headline": "Historic antisemitism inquiry ends with Rabbi’s impassioned call",
-              "excerpt": "After more than 60 days of public hearings, the Royal Commission into Antisemitism and Social Cohesion has come to an emotional close.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/7d13b07ab19d976012e50abfccce8ff7?impolicy=wcms_crop_resize&cropH=1933&cropW=3436&xPos=0&yPos=41&width=862&height=485",
-              "imageAlt": "Historic antisemitism inquiry ends with Rabbi’s impassioned call",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/bc0c74299e4f381815e960e4c282b1319e328874/0_53_1280_1025/master/1280.jpg?width=140&quality=85&auto=format&fit=max&s=ce7abe7824a7a3d5ab2c0369463879d9",
-          "imageAlt": "Dominic Perrottet’s sister-in-law denies lying under oath to protect husband over allegedly illegal donations, Icac hears",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[9]",
+          "imageUrl": "https://i.guim.co.uk/img/media/2c1e999d6b17935a3e328e85939b8a798ca007b8/415_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=4c3d5464b7ccdd4757ee30a978ddc9c7",
+          "imageAlt": "One Nation wants to restrict migration. A town in Barnaby Joyce's electorate welcomes it – video",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Much is riding on 2028",
-          "summary": "Senator Pauline Hanson is portrayed in influential Australian circles as a gaffe-prone, right-wing extremist and a danger to the country. The Spectator Australia frames the 2028 election as a moment where much will be decided by how voters respond to her presence.\n\nIn separate coverage, ABC News reports that Prince Harry and Meghan have returned to the UK with their two children, six years after relocating to California amid tensions within the royal family.",
-          "links": [
-            {
-              "url": "https://www.spectator.com.au/2026/08/much-is-riding-on-2028/",
-              "source": "Spectator Australia",
-              "headline": "Much is riding on 2028",
-              "excerpt": "Around Australia in places of influence Senator Pauline Hanson is depicted as a gaffe-prone, embarrassing, right-wing extremist and a danger… The post Much is riding on 2028 appeared first on The Spectator Australia . What to read next: 40,000 lives lost for w",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/newman_22_aug_post.jpg",
-              "imageAlt": "Much is riding on 2028",
-              "outlet": "Spectator Australia",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Left",
-              "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-08-26/prince-harry-and-megan-arrive-back-in-uk-with-family/107082698",
-              "source": "ABC Australia",
-              "headline": "Prince Harry and Meghan arrive back in UK",
-              "excerpt": "Prince Harry and his wife Meghan arrive back in the UK with their two children, six years after they moved their lives to California amid simmering tensions within the royal family.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/65a73e48c2bc1e5f27b787b21bb2ceee?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=6&width=862&height=485",
-              "imageAlt": "Prince Harry and Meghan arrive back in UK",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/newman_22_aug_post.jpg",
-          "imageAlt": "Much is riding on 2028",
-          "imageCredit": "Spectator Australia"
-        },
-        {
           "title": "Revealed: the feuding at the heart of Reform",
-          "summary": "The Spectator Australia examines internal divisions within the Reform party, framing them through a Tolstoy-style observation about unhappy parties. The piece suggests that feuding is central to the group's current political position.\n\nA related article from the same outlet discusses Middle England's growing awareness of the migrant crisis and introduces the term “accelerationism” as a descriptor for certain tendencies in public debate.",
+          "summary": "Revealed: the feuding at the heart of Reform. If Tolstoy had written about British politics, he might have noted: ‘Happy parties are all alike; every unhappy party is… The post Revealed: the feuding at the heart of Reform appeared first on The Spectator Australia .\n\nWhat to read next: <a href=\"https://www.spectator.com.au/2026/03/revealed-keir-starmers-new-p. Spectator Australia: Murdoch, the Australian and me.\n\nSpectator Australia reports that we all know the Australian, the national newspaper Rupert Murdoch created in 1964, as a publication that generally occupies the… The post Murdoch, the Australian and me appeared first on The Spectator Australia .\n\nWhat to read next: One trillion and coun.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/middle-england-is-finally-waking-up-to-the-migrant-crisis/",
+              "url": "https://www.spectator.com.au/2026/08/murdoch-the-australian-and-me/",
               "source": "Spectator Australia",
-              "headline": "Middle England is finally waking up to the migrant crisis",
-              "excerpt": "I don’t know how familiar readers are with the term ‘accelerationism’. It is generally used to describe a tendency on… The post Middle England is finally waking up to the migrant crisis appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/the-",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/Douglas_GettyImages_2273412474_1_1_a23b10.png",
-              "imageAlt": "Middle England is finally waking up to the migrant crisis",
+              "headline": "Murdoch, the Australian and me",
+              "excerpt": "We all know the Australian, the national newspaper Rupert Murdoch created in 1964, as a publication that generally occupies the… The post Murdoch, the Australian and me appeared first on The Spectator Australia . What to read next: One trillion and coun",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/switzer_29_aug_post.jpg",
+              "imageAlt": "Murdoch, the Australian and me",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -572,9 +474,10 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/Douglas_GettyImages_2273412474_1_1_a23b10.png",
-          "imageAlt": "Middle England is finally waking up to the migrant crisis",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[10]",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/switzer_29_aug_post.jpg",
+          "imageAlt": "Murdoch, the Australian and me",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -583,36 +486,37 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Radar makes podcasts searchable — and usable by AI agents",
-          "summary": "Particle has launched Radar, a podcast intelligence platform that transcribes and analyzes more than 130,000 podcasts. The system makes the conversations within those shows searchable on the web.\n\nThe platform also exposes the content to AI agents through an API and MCP integration. TechCrunch reports the move as part of a broader effort to make long-form audio media programmatically accessible.",
+          "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+          "summary": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate. The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+              "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
               "source": "TechCrunch",
-              "headline": "Radar makes podcasts searchable — and usable by AI agents",
-              "excerpt": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
-              "imageAlt": "Radar makes podcasts searchable — and usable by AI agents",
+              "headline": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+              "excerpt": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+              "imageAlt": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
-          "imageAlt": "Radar makes podcasts searchable — and usable by AI agents",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[11]",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+          "imageAlt": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Apple is holding its iPhone launch event on September 9",
-          "summary": "Apple has confirmed its next iPhone launch event will take place on September 9 at 1 p.m. ET, according to a screenshot from the company's events website.\n\nThe announcement comes as Apple prepares for a significant leadership transition. John Ternus is scheduled to become CEO on September 1, taking over from Tim Cook, making this the first major event under his tenure.\n\nRumors suggest the event could feature the long-awaited foldable iPhone, adding to its anticipated significance.",
+          "summary": "Apple is holding its iPhone launch event on September 9. The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone.\n\nIt'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.\n\nThe Verge: Apple announces September iPhone launch event. The Verge reports that a screenshot from Apple’s events website.\n\nApple's next launch event will take place on September 9th at 1PM ET.\n\nInvites to the event,.",
           "links": [
             {
               "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
@@ -651,14 +555,312 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[12]",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266%2C0%2C90.158761061947%2C94.827045012242&w=1200",
           "imageAlt": "Apple announces September iPhone launch event",
           "imageCredit": "The Verge"
         },
         {
+          "title": "With the end of physical media in sight, gamers have had enough",
+          "summary": "With the end of physical media in sight, gamers have had enough. An increasing tension between players and publishers about ownership of titles could lead to a divestment from the system the big companies are trying to enforce At the time of press, there is a well-publicised protest taking place in the video games community.\n\nPlayStation 5 owners are being encouraged to log off from their consoles between 23 and 30 August – no playing games, no downloading new titles. The motivating factor is Sony’s decision to <a href=\"https://www.theguardian.com/gam.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/aug/26/gamers-are-pushing-back-against-the-end-of-physical-media",
+              "source": "The Guardian Technology",
+              "headline": "With the end of physical media in sight, gamers have had enough",
+              "excerpt": "An increasing tension between players and publishers about ownership of titles could lead to a divestment from the system the big companies are trying to enforce At the time of press, there is a well-publicised protest taking place in the video games community. PlayStation 5 owners are being encouraged to log off from their consoles between 23 and 30 August – no playing games, no downloading new titles. The motivating factor is Sony’s decision to <a href=\"https://www.theguardian.com/gam",
+              "imageUrl": "https://i.guim.co.uk/img/media/94f1bff7da0c0c4dfe82ddb35ac21f8fa92ab607/371_0_2239_1792/master/2239.jpg?width=140&quality=85&auto=format&fit=max&s=ae67f0d6e72a90e738cb9e5ddf844a16",
+              "imageAlt": "With the end of physical media in sight, gamers have had enough",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[13]",
+          "imageUrl": "https://i.guim.co.uk/img/media/94f1bff7da0c0c4dfe82ddb35ac21f8fa92ab607/371_0_2239_1792/master/2239.jpg?width=140&quality=85&auto=format&fit=max&s=ae67f0d6e72a90e738cb9e5ddf844a16",
+          "imageAlt": "With the end of physical media in sight, gamers have had enough",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+          "summary": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour.\n\nSurgeons aided by real-time analysis of camera footage that identified critical anatomy in brain to be avoided Neurosurgeons in London have performed the world’s first successful AI-assisted operation to remove a brain tumour, saving the sight of a 48-year-old man, health officials have said.\n\nThe surgery was performed in May at the National Hospital for Neurology and Neurosurgery (NHNN), part of University College London hospitals NHS foundation trust, but details were kept secret.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+              "source": "The Guardian Technology",
+              "headline": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+              "excerpt": "Surgeons aided by real-time analysis of camera footage that identified critical anatomy in brain to be avoided Neurosurgeons in London have performed the world’s first successful AI-assisted operation to remove a brain tumour, saving the sight of a 48-year-old man, health officials have said. The surgery was performed in May at the National Hospital for Neurology and Neurosurgery (NHNN), part of University College London hospitals NHS foundation trust, but details were kept secret",
+              "imageUrl": "https://i.guim.co.uk/img/media/58c0a4d12df678280e418402df183a5eb40dc673/0_0_3839_3072/master/3839.jpg?width=140&quality=85&auto=format&fit=max&s=7cdcb27c5aa0d7c274ab3f8bc48c33ee",
+              "imageAlt": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[14]",
+          "imageUrl": "https://i.guim.co.uk/img/media/58c0a4d12df678280e418402df183a5eb40dc673/0_0_3839_3072/master/3839.jpg?width=140&quality=85&auto=format&fit=max&s=7cdcb27c5aa0d7c274ab3f8bc48c33ee",
+          "imageAlt": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Meta’s settlement will compel others to bend the knee and set up teen guardrails",
+          "summary": "Meta’s settlement will compel others to bend the knee and set up teen guardrails. Instagram and Facebook’s parent company agreed to sweeping alterations and a payment of upto $18bn to settle a landmark trial Meta’s agreement to change how teenagers use its social networks marks a major turning point for the US tech giant, setting a precedent that could significantly reshape how other social media operates in the coming years.\n\nMeta agreed to substantial alterations to Instagram and Facebook on Wednesday as part of a settlement to end a landmark lawsuit. Dozens o.\n\nThe Guardian: Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn.\n\nThe Guardian reports that uS tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time use Meta agreed to significant changes to its Instagram a",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
+              "source": "The Guardian Technology",
+              "headline": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
+              "excerpt": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on Wednesday. Dozens of US states had accused the tech giant of addictin",
+              "imageUrl": "https://i.guim.co.uk/img/media/a4c2f30ae08ae0d309dbcc77ba66402c1cff3f3f/567_0_2872_2298/master/2872.jpg?width=140&quality=85&auto=format&fit=max&s=32931247fe1c24374132b31c5aa6fb03",
+              "imageAlt": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[15]",
+          "imageUrl": "https://i.guim.co.uk/img/media/a4c2f30ae08ae0d309dbcc77ba66402c1cff3f3f/567_0_2872_2298/master/2872.jpg?width=140&quality=85&auto=format&fit=max&s=32931247fe1c24374132b31c5aa6fb03",
+          "imageAlt": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "MWIS boosts water, wastewater solutions with O&M Services",
+          "summary": "MWIS boosts water, wastewater solutions with O&M Services.\n\nMANILA, Philippines — Manila Water Infratech Solutions (MWIS) continues to expand its capabilities as a full water and wastewater infrastructure partner with the introduction of its Operations and Maintenance (O&M) Services, reinforcing its commitment to supporting clients beyond project delivery.\n\nBy combining engineering, construction, and operational expertise under one roof, MWIS now offers a seamless Design,.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2293200/mwis-boosts-water-wastewater-solutions-with-om-services",
+              "source": "Philippine Daily Inquirer",
+              "headline": "MWIS boosts water, wastewater solutions with O&M Services",
+              "excerpt": "MANILA, Philippines — Manila Water Infratech Solutions (MWIS) continues to expand its capabilities as a full water and wastewater infrastructure partner with the introduction of its Operations and Maintenance (O&M) Services, reinforcing its commitment to supporting clients beyond project delivery. By combining engineering, construction, and operational expertise under one roof, MWIS now offers a seamless Design,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/ManilaWaterWorkers-26Aug2026.jpg",
+              "imageAlt": "MWIS boosts water, wastewater solutions with O&M Services",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[16]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/ManilaWaterWorkers-26Aug2026.jpg",
+          "imageAlt": "MWIS boosts water, wastewater solutions with O&M Services",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "La Salle Greenhills switches to online classes over ‘security concern’",
+          "summary": "La Salle Greenhills switches to online classes over ‘security concern’. MANILA, Philippines — La Salle Greenhills in Mandaluyong City switched to online synchronous classes on Thursday, August 27, following a “security concern.” In an advisory posted on Wednesday night, the La Salle Greenhills administration said, “All classes from Preschool to Grade 12, including IB (International Baccalaureate) and Alternative Education, will be conducted online synchronously tomorrow.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2293437/la-salle-greenhills-switches-to-online-classes-over-security-concern",
+              "source": "Philippine Daily Inquirer",
+              "headline": "La Salle Greenhills switches to online classes over ‘security concern’",
+              "excerpt": "MANILA, Philippines — La Salle Greenhills in Mandaluyong City switched to online synchronous classes on Thursday, August 27, following a “security concern.” In an advisory posted on Wednesday night, the La Salle Greenhills administration said, “All classes from Preschool to Grade 12, including IB (International Baccalaureate) and Alternative Education, will be conducted online synchronously tomorrow",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Screenshot-2026-08-27-at-10.34.22-AM.jpg",
+              "imageAlt": "La Salle Greenhills switches to online classes over ‘security concern’",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[17]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Screenshot-2026-08-27-at-10.34.22-AM.jpg",
+          "imageAlt": "La Salle Greenhills switches to online classes over ‘security concern’",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "DSWD rolls out millions in Pamana funds for Mindanao provinces",
+          "summary": "DSWD rolls out millions in Pamana funds for Mindanao provinces. MALAYBALAY CITY, Bukidnon — The Department of Social Welfare and Development (DSWD) has ramped up its peacebuilding and economic initiatives through the Payapa at Masaganang Pamayanan (Pamana) program, distributing millions in livelihood seed capital and launching cultural preservation efforts across multiple provinces.\n\nThe formal launching ceremony took place on Wednesday, Aug. 26, at the Folk.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2293418/dswd-rolls-out-millions-in-pamana-funds-for-mindanao-provinces",
+              "source": "Philippine Daily Inquirer",
+              "headline": "DSWD rolls out millions in Pamana funds for Mindanao provinces",
+              "excerpt": "MALAYBALAY CITY, Bukidnon — The Department of Social Welfare and Development (DSWD) has ramped up its peacebuilding and economic initiatives through the Payapa at Masaganang Pamayanan (Pamana) program, distributing millions in livelihood seed capital and launching cultural preservation efforts across multiple provinces. The formal launching ceremony took place on Wednesday, Aug. 26, at the Folk",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Bukidnon-map-filephoto-091422.jpg",
+              "imageAlt": "DSWD rolls out millions in Pamana funds for Mindanao provinces",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[18]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Bukidnon-map-filephoto-091422.jpg",
+          "imageAlt": "DSWD rolls out millions in Pamana funds for Mindanao provinces",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Civil society groups feel left out of 2027 budget talks",
+          "summary": "Civil society groups feel left out of 2027 budget talks.\n\nMANILA, Philippines — Budget watchdogs feel sidelined from the House of Representatives’ scrutiny of the proposed P7.2-trillion 2027 national budget, a civil society group representative and an analyst said on Wednesday, raising concerns about transparency in the budget process.\n\nLawmakers entered the second week of budget talks, yet civil society organizations (CSOs) remained excluded as rules.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2293290/civil-society-groups-feel-left-out-of-budget-talks",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Civil society groups feel left out of 2027 budget talks",
+              "excerpt": "MANILA, Philippines — Budget watchdogs feel sidelined from the House of Representatives’ scrutiny of the proposed P7.2-trillion 2027 national budget, a civil society group representative and an analyst said on Wednesday, raising concerns about transparency in the budget process. Lawmakers entered the second week of budget talks, yet civil society organizations (CSOs) remained excluded as rules",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/1244858-1.jpeg",
+              "imageAlt": "Civil society groups feel left out of 2027 budget talks",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[19]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/1244858-1.jpeg",
+          "imageAlt": "Civil society groups feel left out of 2027 budget talks",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Marcos receives honorary Doctor of Laws from PLM",
+          "summary": "Marcos receives honorary Doctor of Laws from PLM. MANILA, Philippines — President Ferdinand Marcos Jr. was conferred the honorary degree of Doctor of Laws, Honoris Causa, by the Pamantasan ng Lungsod ng Maynila (PLM) during its 58th Commencement Exercises on Thursday.\n\nThe award recognized Marcos’ efforts to advance economic development, improve access to education, strengthen public health services, and promote social equity. READ: Tinio:.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2293452/marcos-receives-honorary-doctor-of-laws-from-plm",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Marcos receives honorary Doctor of Laws from PLM",
+              "excerpt": "MANILA, Philippines — President Ferdinand Marcos Jr. was conferred the honorary degree of Doctor of Laws, Honoris Causa, by the Pamantasan ng Lungsod ng Maynila (PLM) during its 58th Commencement Exercises on Thursday. The award recognized Marcos’ efforts to advance economic development, improve access to education, strengthen public health services, and promote social equity. READ: Tinio:",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Marcos-sona-27July2026_2-scaled-e1785164113571.jpg",
+              "imageAlt": "Marcos receives honorary Doctor of Laws from PLM",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[20]",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Marcos-sona-27July2026_2-scaled-e1785164113571.jpg",
+          "imageAlt": "Marcos receives honorary Doctor of Laws from PLM",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+          "summary": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored. The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0",
+              "source": "Wall Street Journal",
+              "headline": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+              "excerpt": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
+              "imageUrl": "",
+              "imageAlt": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[21]"
+        },
+        {
+          "title": "Radar makes podcasts searchable — and usable by AI agents",
+          "summary": "Radar makes podcasts searchable — and usable by AI agents. Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+              "source": "TechCrunch",
+              "headline": "Radar makes podcasts searchable — and usable by AI agents",
+              "excerpt": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+              "imageAlt": "Radar makes podcasts searchable — and usable by AI agents",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[22]",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+          "imageAlt": "Radar makes podcasts searchable — and usable by AI agents",
+          "imageCredit": "TechCrunch"
+        },
+        {
           "title": "Would you pay for an algorithm to pick your friends? New social apps spread across cities",
-          "summary": "New social apps are spreading across cities as adults seek ways to combat loneliness. These platforms use algorithms to match users with potential friends, sometimes for a monthly fee.\n\nThe rise of such services is linked to the decline of traditional “third spaces” like pubs and youth centres, along with more remote work. A significant share of young adults report feeling lonely regularly, according to national statistics cited in coverage of the trend.",
+          "summary": "Would you pay for an algorithm to pick your friends? New social apps spread across cities.\n\nWith many adults admitting they feel lonely, meetup platforms offer the chance to make new connections Would you pay £20 a month for the chance of making a friend, on the understanding that an algorithm – not you – gets to decide who you’ll meet?\n\nDriven by the decline of “third spaces” such as youth centres and pubs, an increase in remote working and rising loneliness – 40% of adults aged 16 to 29 feel lonely “always, often or some of the time”, according to the Office for Nationa.",
           "links": [
             {
               "url": "https://www.theguardian.com/lifeandstyle/2026/aug/26/algorithm-pick-your-friends-paid-free-meetup-apps-cliq-ply",
@@ -679,392 +881,63 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[23]",
           "imageUrl": "https://i.guim.co.uk/img/media/e14d04bdaf92dbd6b8b785aad89f7ec2a8f0b2b9/715_0_4264_3413/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=bcfc02432c98987a9c0dac70b87ae5b3",
           "imageAlt": "Would you pay for an algorithm to pick your friends? New social apps spread across cities",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "summary": "A pro-Israel messaging website operating under the name of a nonexistent U.S. thinktank has published more than 560,000 words across 124 reports in nine days, according to a Guardian analysis.\n\nThe site is built on a commercial platform that promises to optimize content so AI chatbots will cite it, effectively priming them to produce pro-Israel arguments.\n\nGuardian reporting describes the operation as an effort to game artificial intelligence for propaganda purposes.",
+          "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+          "summary": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes. The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
           "links": [
             {
-              "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-              "source": "The Guardian Technology",
-              "headline": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-              "excerpt": "In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows A pro-Israel messaging website badged with the name of a thinktank that does not exist has published more than half a million words in nine days, built on a commercial platform that promises to optimize content so that AI chatbots will cite it. The site gives Israel’s position on subjects including the <a href=\"https://hanoverinstitute.",
-              "imageUrl": "https://i.guim.co.uk/img/media/4c5be9b6f1682a9aafe9cbdc94c89a258fa5cec5/999_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=2eae790f9a8c1baa6b838381581a25bf",
-              "imageAlt": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+              "source": "Wall Street Journal",
+              "headline": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+              "excerpt": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+              "imageUrl": "",
+              "imageAlt": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/4c5be9b6f1682a9aafe9cbdc94c89a258fa5cec5/999_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=2eae790f9a8c1baa6b838381581a25bf",
-          "imageAlt": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Instagram CEO denies company hid low use of teen safety feature in Meta trial",
-          "summary": "Meta has agreed to major changes to Facebook and Instagram as it settles a US trial over teen addiction for up to $17 billion. The company will establish further protections for teens, including daily usage limits and blocks on nighttime use.\n\nInstagram CEO Adam Mosseri testified in the blockbuster lawsuit brought by 29 US states, disputing allegations that his company hid negative information from the public. He told a California courtroom, “I am not trying to encourage my team to hide anything.”\n\nThe settlement ends a landmark lawsuit in which dozens of US states accused Meta of addicting and harming children with dangerous products.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-              "source": "The Guardian Technology",
-              "headline": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
-              "excerpt": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on nighttime use Meta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on Wednesday. Dozens of US states had accused the tech giant of addicting and harming children with dangerous products. The agreement curtails a <a href=\"https://www.theguardian.com/technology",
-              "imageUrl": "https://i.guim.co.uk/img/media/a4c2f30ae08ae0d309dbcc77ba66402c1cff3f3f/567_0_2872_2298/master/2872.jpg?width=140&quality=85&auto=format&fit=max&s=32931247fe1c24374132b31c5aa6fb03",
-              "imageAlt": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/a4c2f30ae08ae0d309dbcc77ba66402c1cff3f3f/567_0_2872_2298/master/2872.jpg?width=140&quality=85&auto=format&fit=max&s=32931247fe1c24374132b31c5aa6fb03",
-          "imageAlt": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $17bn",
-          "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Marcos orders NCSC to promptly release senior citizens’ cash gift",
-          "summary": "President Ferdinand Marcos Jr. has directed the National Commission on Senior Citizens to immediately distribute P10,000 cash gifts to qualified senior citizens under the Expanded Centenarians Act.\n\nPalace press officer Claire Castro announced the directive Wednesday, following complaints filed by eight seniors aged 80 to 85 with the Anti-Red Tape Authority.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2293104/marcos-orders-ncsc-to-promptly-release-senior-citizens-cash-gift",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Marcos orders NCSC to promptly release senior citizens’ cash gift",
-              "excerpt": "MANILA, Philippines — President Ferdinand R. Marcos Jr. has ordered the National Commission of Senior Citizens (NCSC) to immediately distribute the P10,000 cash gift to qualified senior citizens under the Expanded Centenarians Act, Palace press officer Claire Castro said Wednesday. Eight senior citizens, aged 80 to 85, recently filed complaints with the Anti-Red Tape Authority (ARTA)",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/marcos-afp-officer-01dec2025.jpg",
-              "imageAlt": "Marcos orders NCSC to promptly release senior citizens’ cash gift",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "article-text: Right cue(s): (tax cuts|red tape|small business|property rights|free speech)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/marcos-afp-officer-01dec2025.jpg",
-          "imageAlt": "Marcos orders NCSC to promptly release senior citizens’ cash gift",
-          "imageCredit": "Philippine Daily Inquirer"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[24]"
         },
         {
-          "title": "Escudero to lawyers: Tell VP Duterte to follow sub judice rule",
-          "summary": "Presiding Officer Francis “Chiz” Escudero directed Vice President Sara Duterte’s defense team to remind their client that the sub judice rule in the impeachment rules applies to her.\n\nEscudero issued the reminder just before concluding Wednesday’s session, after House lead prosecutor Rep. Gerville Luistro raised the issue.\n\nRappler reported that the reminder followed a social media post by Duterte about the trial made around the same time Escudero read his decision on the sub judice rule.",
+          "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+          "summary": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff. The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2293084/fwd-impeach-court-reminds-duterte-to-follow-sub-judice-rules",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Escudero to lawyers: Tell VP Duterte to follow sub judice rule",
-              "excerpt": "MANILA, Philippines — Presiding Officer Francis “Chiz” Escudero told Vice President Sara Duterte’s defense team on Wednesday to remind their client that the sub judice rule in the rules of impeachment also applies to her. Escudero made the pronouncement right before the conclusion of Wednesday’s trial after House lead prosecutor Rep. Gerville Luistro pointed out that",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Senator-judge-Francis-Chiz-Escudero-INQUIRER-FILE.png",
-              "imageAlt": "Escudero to lawyers: Tell VP Duterte to follow sub judice rule",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/escudero-reminder-sara-duterte-sub-judice-rule/",
-              "source": "Rappler World",
-              "headline": "First warning? Escudero reminds Sara Duterte, through lawyer, of sub judice rule",
-              "excerpt": "Presiding officer Chiz Escudero gives the reminder after Vice President Sara Duterte made a social media post about the trial at about the same time he read his decision on the sub judice rule",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/08/1mmtafrnpfo-1.jpg",
-              "imageAlt": "First warning? Escudero reminds Sara Duterte, through lawyer, of sub judice rule",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Senator-judge-Francis-Chiz-Escudero-INQUIRER-FILE.png",
-          "imageAlt": "Escudero to lawyers: Tell VP Duterte to follow sub judice rule",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Adiong: Equating heroes’ aliases with OVP beneficiaries an insult",
-          "summary": "Lanao del Sur Representative Zia Alonto Adiong criticized the comparison between national heroes who used aliases and recipients of the Office of the Vice President's confidential funds who used pseudonyms. He called the equivalence an insult to those who sacrificed their lives.\n\nThe remarks came during a press briefing related to the impeachment trial of Vice President Sara Duterte at the Senate.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2293111/adiong-equating-heroes-aliases-with-ovp-beneficiaries-an-insult",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Adiong: Equating heroes’ aliases with OVP beneficiaries an insult",
-              "excerpt": "MANILA, Philippines — Equating the reasons why national heroes used aliases with why recipients of the Office of the Vice President’s (OVP) confidential funds (CF) had to use pseudonyms is an insult to the memory of those who sacrificed their lives, Lanao del Sur Rep. Zia Alonto Adiong said. In a press briefing after Vice President",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Zia-Alonto-Adiong-20July2026.jpg",
-              "imageAlt": "Adiong: Equating heroes’ aliases with OVP beneficiaries an insult",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-              "source": "Rappler World",
-              "headline": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-              "excerpt": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/08/3tp9mgnlrhu.jpg",
-              "imageAlt": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Zia-Alonto-Adiong-20July2026.jpg",
-          "imageAlt": "Adiong: Equating heroes’ aliases with OVP beneficiaries an insult",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DepEd launches AI-powered platform for school disaster preparedness",
-          "summary": "The Department of Education in the Philippines has launched an artificial intelligence-driven platform called LIGTAS+ to improve disaster preparedness across school communities. The system, formally known as Learning Institution Geohazard Tracking and Assessment for Safety, is designed to provide clearer and more actionable information to support schools nationwide.\n\nThe rollout aims to strengthen disaster resilience by using AI-powered features to track geohazards and assess risks in educational institutions. Officials stated that the platform will help schools respond more effectively to multi-hazard threats.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2293094/deped-launches-ai-powered-platform-for-school-disaster-preparedness",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DepEd launches AI-powered platform for school disaster preparedness",
-              "excerpt": "MANILA, Philippines – To strengthen disaster resilience across school communities, the Department of Education officially launched its artificial intelligence-driven (AI), multi-hazard platform LIGTAS+, or Learning Institution Geohazard Tracking and Assessment for Safety, for nationwide implementation. “Through LIGTAS+, with its artificial intelligence-powered features, we will have clearer and more actionable information to support our schools,” said",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Project-LIGTAS.jpg",
-              "imageAlt": "DepEd launches AI-powered platform for school disaster preparedness",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Project-LIGTAS.jpg",
-          "imageAlt": "DepEd launches AI-powered platform for school disaster preparedness",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "LIST: 33 gov’t hospitals in 5 Luzon regions with leptospirosis fast lane",
-          "summary": "The Department of Health has activated fast lanes for leptospirosis patients at 33 government hospitals across five Luzon regions.\n\nThe measure follows a surge in cases linked to widespread flooding from weeks-long monsoon rains. The express lanes are available in Metro Manila, Ilocos region, Cagayan Valley, Central Luzon, and the Cordillera Administrative Region.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2293064/list-33-govt-hospitals-in-5-luzon-regions-with-leptospirosis-fast-lane",
-              "source": "Philippine Daily Inquirer",
-              "headline": "LIST: 33 gov’t hospitals in 5 Luzon regions with leptospirosis fast lane",
-              "excerpt": "MANILA, Philippines — Malacañang on Wednesday said the Department of Health (DOH) has activated fast lanes for leptospirosis patients as hospitals grapple with a surge in patients following widespread flooding caused by the weeks-long monsoon rains. Thirty-three government hospitals in Metro Manila, Ilocos region, Cagayan Valley, Central Luzon, and Cordillera Administrative Region (CAR) have established express lanes",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/DOH-Leptospirosis-09052022-ver.-2.png",
-              "imageAlt": "LIST: 33 gov’t hospitals in 5 Luzon regions with leptospirosis fast lane",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/DOH-Leptospirosis-09052022-ver.-2.png",
-          "imageAlt": "LIST: 33 gov’t hospitals in 5 Luzon regions with leptospirosis fast lane",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-          "summary": "Meta has agreed to pay $18 billion to settle a lawsuit brought by 29 states. The suit alleged that the company knowingly designed platforms such as Instagram and Facebook to addict children.\n\nThe states claimed Meta understood the potential harms its products could pose to young users. The settlement resolves claims related to social media effects on minors.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-              "source": "TechCrunch",
-              "headline": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-              "excerpt": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
-              "imageAlt": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
-          "imageAlt": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "Vholume review – a headlong rush of parkour perfection in a brutalist wonderland",
-          "summary": "Vholume is a PC parkour game developed by IronEqual, featuring wall-runs, death-chancing leaps, and split-second improvisation across dystopian cityscapes. The Guardian's review describes the title as an exhilarating rush through brutalist environments.\n\nThe review questions whether the game was designed or curated from existing references, noting that its urban gymnast moveset echoes Mirror’s Edge. Level names use terms like “conapt,” a concept first coined by P.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/aug/26/vholume-review-parkour",
-              "source": "The Guardian Technology",
-              "headline": "Vholume review – a headlong rush of parkour perfection in a brutalist wonderland",
-              "excerpt": "PC; Nathan Grange, Léonard Lemaitre, Niels Tiercelin, IronEqual Race across impossible dystopian cityscapes in this exhilarating game of wall-runs, death-chancing leaps and split-second improvisation At first, Vholume seems like a quick rush through some smartly selected references. Has this breathless yet austere parkour game been designed or ingeniously curated? The urban gymnast moveset comes from Mirror’s Edge. Level names use terms like conapt, first coined by P",
-              "imageUrl": "https://i.guim.co.uk/img/media/4b5574d71d19527f529cf8232c5035b091d3f42e/114_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0fedb4bbae42b0b791517c71f8e0532c",
-              "imageAlt": "Vholume review – a headlong rush of parkour perfection in a brutalist wonderland",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+              "source": "Wall Street Journal",
+              "headline": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+              "excerpt": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+              "imageUrl": "",
+              "imageAlt": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/4b5574d71d19527f529cf8232c5035b091d3f42e/114_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=0fedb4bbae42b0b791517c71f8e0532c",
-          "imageAlt": "Vholume review – a headlong rush of parkour perfection in a brutalist wonderland",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Clive Barker’s Hellraiser: Revival – a game so grotesque it scares its own director",
-          "summary": "Clive Barker’s Hellraiser: Revival is a horror game developed under the direct oversight of author Clive Barker, who lends his name and creative input to the project. The title marks a revival of the cult franchise, aiming to bring its signature discomfort to new audiences through modern interactive design.\n\nActor Doug Bradley returns to voice Pinhead, reprising the role he originated in the original film series. His involvement anchors the game’s tone to the source material while updating it for contemporary players.\n\nDirector Emil Esov has described a physical reaction from Barker during development sessions, suggesting the project achieves an intensity that unsettles even its own overseer. Esov also noted discovering his own trypophobia while researching visual discomfort, which informed design choices around texture and imagery.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/aug/26/clive-barkers-hellraiser-revival",
-              "source": "The Guardian Technology",
-              "headline": "Clive Barker’s Hellraiser: Revival – a game so grotesque it scares its own director",
-              "excerpt": "With oversight from Clive Barker himself, and a role reprisal as Pinhead from actor Doug Bradley, Revival aims to introduce new audiences to the discomfort of Hellraiser If a horror game gives its own director a physical reaction, it’s probably doing something right. While researching the images people find hardest to look at, game director Emil Esov discovered he has trypophobia – a fear of clu",
-              "imageUrl": "https://i.guim.co.uk/img/media/1c95be90bd65d7fa52c7bdf555aa98df169fffde/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bbe6ddb7f060346a5271faa3b8794616",
-              "imageAlt": "Clive Barker’s Hellraiser: Revival – a game so grotesque it scares its own director",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/1c95be90bd65d7fa52c7bdf555aa98df169fffde/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bbe6ddb7f060346a5271faa3b8794616",
-          "imageAlt": "Clive Barker’s Hellraiser: Revival – a game so grotesque it scares its own director",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 – in pictures",
-          "summary": "The 2026 World Robot Conference in Beijing displayed more than 3,000 products from China's expanding robotics sector.\n\nThe event ran from August 19 to 23 and featured humanoid robots, embodied intelligence systems, and advanced components.\n\nCoverage framed the showcase as evidence of rapid growth in Chinese robotics development.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/world/gallery/2026/aug/25/from-mixed-martial-arts-to-mechanical-dogs-the-world-robot-conference-2026-in-pictures",
-              "source": "The Guardian Technology",
-              "headline": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 – in pictures",
-              "excerpt": "More than 3,000 products were shown at the 2026 World Robot Conference in Beijing as China showcased its rapidly growing robotics industry. The event, which ran from 19-23 August, showcased the latest advances across the robotics industry, from humanoid robots to embodied intelligence and cutting-edge components Continue reading...</a",
-              "imageUrl": "https://i.guim.co.uk/img/media/cafede0f0b9941001f0cb0553b899709e6cde1db/0_0_5708_4571/master/5708.jpg?width=140&quality=85&auto=format&fit=max&s=98d0eac8dc03fecdf0351ab3557a111e",
-              "imageAlt": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 – in pictures",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/cafede0f0b9941001f0cb0553b899709e6cde1db/0_0_5708_4571/master/5708.jpg?width=140&quality=85&auto=format&fit=max&s=98d0eac8dc03fecdf0351ab3557a111e",
-          "imageAlt": "From mixed martial arts to mechanical dogs: the World Robot Conference 2026 – in pictures",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
-          "summary": "The rollout of robotaxis in London is unlikely to occur this year, according to The Guardian. Uber and Wayve had previously stated they would begin trips later this summer, but regulatory and technical hurdles have pushed back the schedule set by the UK government.\n\nFirms face a lack of clear guidance for following regulations, which has contributed to the delay. The original timeline was ambitious, and current conditions make an in-year launch improbable.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve",
-              "source": "The Guardian Technology",
-              "headline": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
-              "excerpt": "Uber and Wayve had said they would start trips ‘later this summer’ but launch now looks unlikely this year Business live – latest updates The rollout of robotaxis on the streets of London is unlikely to happen this year, as regulatory and technical hurdles push back the ambitious schedule set out by the UK government. Only",
-              "imageUrl": "https://i.guim.co.uk/img/media/ada086bceb21d1e283eff5dd443008604f95cc3c/73_34_3111_2491/master/3111.jpg?width=140&quality=85&auto=format&fit=max&s=40f40d6f596249965f485715ac243b5a",
-              "imageAlt": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/ada086bceb21d1e283eff5dd443008604f95cc3c/73_34_3111_2491/master/3111.jpg?width=140&quality=85&auto=format&fit=max&s=40f40d6f596249965f485715ac243b5a",
-          "imageAlt": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "deterministic-multi-source-mini-story-fallback-v1",
+          "summaryFallbackReason": "lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a model in the developer page or use the 'lms load' command.\",         \"type\":; retryError=lm-studio-summary-http-error: 400: {     \"error\": {         \"message\": \"No models loaded. Please load a mod; summaryBatchSize=1; chunkIndexes=[25]"
         }
       ]
     }
