@@ -2,136 +2,42 @@
   "id": "2026-08-29-expanded",
   "date": "2026-08-29",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-08-29T03:00:18.358958",
+  "generatedAt": "2026-08-29T12:30:18.321246",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-08-29T03:00:18",
+  "updatedAt": "2026-08-29T12:30:18",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Dutch court hands life sentence to Rwandan man for genocide role",
-          "summary": "A Dutch court has handed a life sentence to a Rwandan man for his role in the 1994 genocide. The defendant, identified as Eugene N., was convicted by a court in The Hague of war crimes and the crime of genocide.\n\nThe conviction relates to his participation in a massacre at a stadium where approximately 3,000 Tutsis were killed. At the time of sentencing, the man was 66 years old.",
+          "title": "Trump Announces ‘Biggest Oil Deal In World History’",
+          "summary": "President Donald Trump announced on Friday that the United States has reached an agreement with Venezuela to secure majority control of more than 65 billion barrels of proven oil reserves. The president described the arrangement as the \"biggest oil deal in world history\" and a significant boost to U.S. energy security.\n\nTrump stated that the transaction was achieved at no cost to the American taxpayer, following his administration's removal of former Venezuelan leader Nicolas Maduro earlier this year. He suggested the deal could serve as a long-term solution to rising gas prices for consumers.\n\nVenezuela’s interim president characterized the unusual agreement as a vital step toward reviving her country's economy. The announcement marks a major shift in U.S.-Venezuelan relations and energy policy.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/8/28/dutch-court-hands-life-sentence-to-rwandan-man-for-genocide-role?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Dutch court hands life sentence to Rwandan man for genocide role",
-              "excerpt": "Eugene N. was convicted for his part in a massacre at a stadium in which 3,000 Tutsis were slaughtered.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a917d33a129b-1787919667.jpg?resize=1920%2C1440",
-              "imageAlt": "Dutch court hands life sentence to Rwandan man for genocide role",
+              "headline": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+              "excerpt": "US president says deal secures majority control of more than 65 billion barrels of proven oil reserves in Venezuela.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/12/getty_6955860136-1767212545.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Dutch court sentences man to life over Rwanda genocide",
-              "excerpt": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8e/live/a9bd6280-a2d9-11f1-941c-8741c1a72471.jpg",
-              "imageAlt": "Dutch court sentences man to life over Rwanda genocide",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/europe/2026/08/28/rwandan-man-convicted-of-genocide-by-dutch-court/",
-              "source": "Breitbart",
-              "headline": "Rwandan Man Convicted of Genocide by Dutch Court",
-              "excerpt": "A Dutch court convicted a Rwandan man of participation in his home country's 1994 genocide and sentenced him to life imprisonment. The post Rwandan Man Convicted of Genocide by Dutch Court appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/mad-knoxx-deluxe-ZD6EipK6iOY-unsplash-e1787931701360-640x335.jpg",
-              "imageAlt": "Rwandan Man Convicted of Genocide by Dutch Court",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a917d33a129b-1787919667.jpg?resize=1920%2C1440",
-          "imageAlt": "Dutch court hands life sentence to Rwandan man for genocide role",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Fed Chair Warsh signals rate hikes may be needed with inflation still elevated",
-          "summary": "Federal Reserve Chair Kevin Warsh indicated on Friday that the central bank may need to raise interest rates in the coming months. He stated that inflation remains too high and requires further action to bring it down.\n\nThis represents a clearer signal regarding his economic outlook than previous statements. The remarks suggest policymakers view current price rises as insufficiently eased for Americans, necessitating additional work by the Fed.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-              "excerpt": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg",
-              "imageAlt": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/28/fed-chair-kevin-warsh-signals-rate-hikes-may-needed-inflation-still/",
-              "source": "Washington Times",
-              "headline": "Fed Chair Warsh signals rate hikes may be needed with inflation still elevated",
-              "excerpt": "Federal Reserve Chair Kevin Warsh said Friday that inflation is still too high and suggested the central bank may have to raise interest rates in the coming months to bring it down, a clearer signal than he had sent previously about his economic outlook.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/28/Federal_Reserve_Warsh_23992_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Fed Chair Warsh signals rate hikes may be needed with inflation still elevated",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg",
-          "imageAlt": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-          "summary": "Norway has entered a period of mourning following the death of King Harald V at the age of 89. The monarch had led the country for 35 years before his passing.\n\nHis son, Haakon VIII, has ascended to the throne and adopted the family motto \"all for Norway.\" Mourners, including royals, politicians, and citizens, gathered outside the palace to pay their respects.\n\nThe transition marks a new chapter for the Norwegian royal family, which has occasionally faced scandals during its tenure.",
-          "links": [
+            },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Norway mourns King Harald as Haakon VIII ascends throne",
-              "excerpt": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg",
-              "imageAlt": "Norway mourns King Harald as Haakon VIII ascends throne",
+              "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+              "excerpt": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+              "imageAlt": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -145,133 +51,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/08/28/pictures-king-harald-v-of-norway-dies-aged-89-succeeded-by-son-haakon-viii/",
-              "source": "Breitbart",
-              "headline": "Pictures: King Harald V of Norway Dies Aged 89, Succeeded by Son Haakon VIII",
-              "excerpt": "King of Norway, King Harald V, has died aged 89 after 35 years at the head of the country's occasionally scandal-struck Royal family. The post Pictures: King Harald V of Norway Dies Aged 89, Succeeded by Son Haakon VIII appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/GettyImages-1317808730-e1787930636276-640x335.jpg",
-              "imageAlt": "Pictures: King Harald V of Norway Dies Aged 89, Succeeded by Son Haakon VIII",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg",
-          "imageAlt": "Norway mourns King Harald as Haakon VIII ascends throne",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-          "summary": "Nicolay Mladenov, the Board of Peace’s Gaza envoy, has issued a stark warning regarding the stability of the region's ceasefire. In an interview with Al Jazeera, he described a return to war as \"devastating\" for the area.\n\nMladenov criticized both Israeli military strikes and actions by Hamas, suggesting that these factors are straining the fragile peace. He emphasized that if last October’s ceasefire collapses, it would represent a \"point of no return\" for the region.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
-              "excerpt": "In an interview with Al Jazeera, Nicolay Mladenov says that a return to war would be 'devastating'.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a91af3c14e4c-1787932476.jpg?resize=1920%2C1440",
-              "imageAlt": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-              "excerpt": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557f/live/7e6462b0-a21f-11f1-a291-b542ee92de7c.jpg",
-              "imageAlt": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a91af3c14e4c-1787932476.jpg?resize=1920%2C1440",
-          "imageAlt": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "CENTCOM: U.S. Clears Iranian Mines from Hormuz Lanes; Iran Oil Exports at Zero -- Trump Says Tehran ‘Begging to Make a Deal’",
-          "summary": "U.S. Central Command confirmed that American forces have cleared Iranian sea mines from the Strait of Hormuz’s internationally recognized shipping lanes.\n\nThe removal of the mines has opened the critical waterway to growing commercial traffic following a period of heightened tension in the region.\n\nSimultaneously, a U.S. naval blockade has halted Iranian oil exports entirely since mid-July, significantly impacting Tehran's economic output.\n\nPresident Donald Trump stated that this dramatic shift in military and economic pressure has left Iran “begging to make a deal.”\n\nThe Washington Times reported that the commander of U.S. Central Command specifically noted that all sea mines spread along the maritime transit routes have been successfully cleared.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/08/28/centcom-u-s-clears-iranian-mines-from-hormuz-lanes-iran-oil-exports-at-zero-trump-says-tehran-begging-to-make-a-deal/",
-              "source": "Breitbart",
-              "headline": "CENTCOM: U.S. Clears Iranian Mines from Hormuz Lanes; Iran Oil Exports at Zero -- Trump Says Tehran ‘Begging to Make a Deal’",
-              "excerpt": "U.S. Central Command confirmed Thursday that American forces have cleared Iranian sea mines from the Strait of Hormuz’s internationally recognized shipping lanes, opening the critical waterway to growing commercial traffic while a U.S. naval blockade has stopped Iranian oil exports entirely since mid-July — a dramatic shift President Donald Trump says has left Tehran “begging to make a deal.” The post <a rel=\"nofollow\" href=\"https://www.breitbart.com/politics/2026/08/28/centcom-u-s-cle",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/strait-of-hormuz-is-clear-640x335.jpg",
-              "imageAlt": "CENTCOM: U.S. Clears Iranian Mines from Hormuz Lanes; Iran Oil Exports at Zero -- Trump Says Tehran ‘Begging to Make a Deal’",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/28/centcom-chief-says-strait-hormuz-cleared-iranian-placed-sea-mines/",
-              "source": "Washington Times",
-              "headline": "CENTCOM chief says Strait of Hormuz cleared of Iranian-placed sea mines",
-              "excerpt": "The commander of U.S. Central Command said U.S. forces have cleared all the sea mines that Iran spread along the internationally recognized maritime transit routes in the Strait of Hormuz.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/06/APTOPIX_Iran_War_Strait_of_Hormuz_47356_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "CENTCOM chief says Strait of Hormuz cleared of Iranian-placed sea mines",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/strait-of-hormuz-is-clear-640x335.jpg",
-          "imageAlt": "CENTCOM: U.S. Clears Iranian Mines from Hormuz Lanes; Iran Oil Exports at Zero -- Trump Says Tehran ‘Begging to Make a Deal’",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "X Smashes Massive Chinese Bot Army Targeting American Energy, AI Supremacy",
-          "summary": "The X Safety team announced the dismantling of a large-scale Chinese influence operation involving approximately 200,000 inauthentic accounts.\n\nThese fake profiles were identified as pushing coordinated propaganda to interfere with legitimate discussions regarding American artificial intelligence and energy policy.\n\nAccording to reports from Fox News, the bot farm specifically targeted debates over AI data centers by promoting anti-AI narratives within the United States.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/x-smashes-massive-chinese-bot-army-targeting-american-energy-ai-supremacy",
+              "url": "https://www.dailywire.com/news/trump-announces-biggest-oil-deal-in-world-history",
               "source": "Daily Wire",
-              "headline": "X Smashes Massive Chinese Bot Army Targeting American Energy, AI Supremacy",
-              "excerpt": "In a bombshell announcement on Thursday, the X Safety team revealed that it had uncovered and dismantled a sprawling Chinese influence operation running a staggering 200,000 inauthentic accounts. At the center of the effort is a targeted unit of fake profiles pushing propaganda to hijack legitimate debates over American AI and energy policy. According to ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2223784896.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "X Smashes Massive Chinese Bot Army Targeting American Energy, AI Supremacy",
+              "headline": "Trump Announces ‘Biggest Oil Deal In World History’",
+              "excerpt": "President Donald Trump announced Friday that the United States had reached an agreement with Venezuela securing majority U.S. control of more than 65 billion barrels of oil reserves, touting the deal as a major boost to U.S. energy security and a potential long-term answer to rising gas prices. Trump announced the agreement in a Truth ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/03/trump_oil_photo_illustration.jpeg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump Announces ‘Biggest Oil Deal In World History’",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -280,44 +65,16 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to); article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/politics/massive-chinese-bot-farm-caught-conducting-us-influence-operations-pushing-coordinated-online-narrative",
-              "source": "Fox News",
-              "headline": "Chinese bot farm caught red-handed trying to influence heated AI data center debate",
-              "excerpt": "X uncovered 200,000 inauthentic Chinese accounts pushing anti-AI and anti-data center narratives in the United States amid energy policy debates.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/x-user-phone-and-computer.png?ve=1&tl=1",
-              "imageAlt": "Chinese bot farm caught red-handed trying to influence heated AI data center debate",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2223784896.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "X Smashes Massive Chinese Bot Army Targeting American Energy, AI Supremacy",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "US military uses high-energy laser to intercept three drones at southern border",
-          "summary": "U.S. military forces intercepted three drones along the southern border using a high-energy laser system during operations on Tuesday night into Wednesday.\n\nThe Joint Task Force — Southern Border deployed the Army Multipurpose High Energy Laser (AMP-HEL) to neutralize the aerial threats. Officials stated that troops determined the drones were hostile based on their direct support of activities posing a security risk.\n\nAccording to U.S. Northern Command, criminal cartels reportedly utilized these drones to gather intelligence on American operations along the U.S.-Mexico border.",
-          "links": [
-            {
-              "url": "https://www.washingtonexaminer.com/policy/defense/4703982/us-military-high-energy-laser-intercept-drones-southern-border/",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4705005/trump-venezuela-oil-deal-65-billion-barrels-in-reserves/",
               "source": "Washington Examiner",
-              "headline": "US military uses high-energy laser to intercept three drones at southern border",
-              "excerpt": "U.S. troops used a high-energy laser to intercept three hostile drones along the southern border on Tuesday night into Wednesday. Joint Task Force — Southern Border (JTF-SB) used the Army Multipurpose High Energy Laser (AMP-HEL) system to intercept the drones, which U.S. troops had determined “based on their use in direct support of activities posing […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/JTF-SB.jpg?w=696",
-              "imageAlt": "US military uses high-energy laser to intercept three drones at southern border",
+              "headline": "Trump announces massive oil deal with Venezuela for over 65 billion barrels in reserves",
+              "excerpt": "President Donald Trump announced on Friday that he struck a historic oil deal with Venezuela, after wresting power from former Venezuelan dictator Nicolas Maduro in January. The president said the United States has established “majority” control over more than 65 billion barrels of oil in Venezuela, “at no cost to the American taxpayer.” Trump said the transaction […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/trump-venezuela-oil-deal.jpg?w=696",
+              "imageAlt": "Trump announces massive oil deal with Venezuela for over 65 billion barrels in reserves",
               "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -330,12 +87,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/28/us-military-uses-laser-blast-cartel-drones-southern-border/",
+              "url": "https://www.washingtontimes.com/news/2026/aug/28/trump-us-entered-deal-venezuela-take-control-65-billion-barrels-oil/",
               "source": "Washington Times",
-              "headline": "U.S. military uses laser to blast cartel drones at southern border",
-              "excerpt": "U.S. military troops deployed a laser to shoot down three drones this week that criminal cartels reportedly used to gather information about American operations along the U.S.-Mexico border, officials with U.S. Northern Command said Thursday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/03/Border_Wall_Lawsuit_Texas_26521_s1440x963.jpg?6fb357e90856e447e826abad217089687abef4b1",
-              "imageAlt": "U.S. military uses laser to blast cartel drones at southern border",
+              "headline": "Trump: U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+              "excerpt": "President Donald Trump on Friday said the U.S. has entered an agreement with Venezuela to take control of 65 billion barrels of the South American country's oil reserves.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/01/Venezuela_Politics_9_53__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump: U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -349,9 +106,305 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/JTF-SB.jpg?w=696",
-          "imageAlt": "US military uses high-energy laser to intercept three drones at southern border",
-          "imageCredit": "Washington Examiner"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/12/getty_6955860136-1767212545.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "At March on Washington, an urgent plea for black voters to turn out in the midterm elections",
+          "summary": "Civil rights groups and Democratic lawmakers gathered on the National Mall Friday for a commemorative March on Washington. The event honored Dr. Martin Luther King Jr.’s 1963 speech on voting rights and jobs while issuing an urgent plea for Black voter turnout in upcoming midterm elections.\n\nProtesters began at the steps of the Lincoln Memorial, focusing their attention on racial justice and the legacy of the civil rights movement. The demonstration took place against a backdrop of recent changes to voting laws and redistricting measures that critics have condemned as detrimental to Black Americans.",
+          "links": [
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/28/civil-rights-groups-making-urgent-plea-voting-rights-dc-ahead-midterm/",
+              "source": "Washington Times",
+              "headline": "Civil rights groups make urgent plea for voting rights in D.C., ahead of midterm elections",
+              "excerpt": "Voting rights, the work of the civil rights movement and racial justice took center stage on the National Mall Friday, with protesters gathering ahead of midterm elections and following a wave of changes to voting laws and redistricting that some have condemned as detrimental to Black Americans.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/28/APTOPIX_March_on_Washington_9_396_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Civil rights groups make urgent plea for voting rights in D.C., ahead of midterm elections",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (police brutality|racial justice|indigenous rights|refugee rights)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/4704873/at-march-on-washington-urgent-plea-for-black-voters-to-turn-out-in-the-midterms/",
+              "source": "Washington Examiner",
+              "headline": "At March on Washington, an urgent plea for black voters to turn out in the midterm elections",
+              "excerpt": "WASHINGTON — The commemorative March on Washington held Friday to honor Dr. Martin Luther King Jr.’s 1963 voting rights and jobs speech carried an added sense of urgency from Democratic lawmakers and activists ahead of the midterm elections. The march, held in the nation’s capital beginning on the steps of the Lincoln Memorial, came in […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26240712659569.jpg?w=696",
+              "imageAlt": "At March on Washington, an urgent plea for black voters to turn out in the midterm elections",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/28/APTOPIX_March_on_Washington_9_396_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+          "imageAlt": "Civil rights groups make urgent plea for voting rights in D.C., ahead of midterm elections",
+          "imageCredit": "Washington Times"
+        },
+        {
+          "title": "Satellite images reveal scale of flood devastation in Nepal villages",
+          "summary": "Satellite imagery has documented the extensive damage caused by recent flash floods in Nepal.\n\nBefore-and-after comparisons show that entire villages were washed away by the devastating waters.\n\nThe images also reveal significant infrastructure loss, including destroyed bridges and a key border crossing between Nepal and Tibet.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-nepal-b4-and-after-sv-mp4?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Before and after images show catastrophic impact of Nepal flash floods",
+              "excerpt": "Before-and-after satellite images reveal the scale of destruction from Nepal’s catastrophic flash floods.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787952205.jpg?resize=1440%2C1080&quality=80",
+              "imageAlt": "Before and after images show catastrophic impact of Nepal flash floods",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Satellite images reveal scale of flood devastation in Nepal villages",
+              "excerpt": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787d/live/19ed92c0-a305-11f1-a291-b542ee92de7c.png",
+              "imageAlt": "Satellite images reveal scale of flood devastation in Nepal villages",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787952205.jpg?resize=1440%2C1080&quality=80",
+          "imageAlt": "Before and after images show catastrophic impact of Nepal flash floods",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Mamdani Takes Aim At Hindu Group Over ‘Exclusionary Vision’",
+          "summary": "New York City Mayor Zohran Mamdani has stated he will not support an upcoming event in Manhattan featuring Mohan Bhagwat. The gathering is scheduled to include a speech by the head of the Rashtriya Swayamsevak Sangh (RSS), which is described as the ideological parent organization of India’s ruling Bharatiya Janata Party.\n\nMamdani, who identifies as Muslim, criticized the group for what he termed an “exclusionary vision.” His remarks come amid broader concerns regarding Hindu nationalism in the United States. Human rights groups have also organized protests against Bhagwat’s visit to New York, highlighting tensions surrounding his presence and the political affiliations of the RSS.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-hr-groups-against-the-rss-fm?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "RSS chief’s US visit faces protests over Hindu nationalism",
+              "excerpt": "Indian Hindu leader Mohan Bhagwat is due to speak in New York as human rights groups protest his visit.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787952257.jpg?resize=1467%2C1080&quality=80",
+              "imageAlt": "RSS chief’s US visit faces protests over Hindu nationalism",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/mamdani-takes-aim-at-hindu-group-over-exclusionary-vision",
+              "source": "Daily Wire",
+              "headline": "Mamdani Takes Aim At Hindu Group Over ‘Exclusionary Vision’",
+              "excerpt": "New York City Mayor Zohran Mamdani, who is Muslim, said he would not support a Hindu event in Manhattan where the leader of the group that is the ideological parent of India’s ruling Bharatiya Janata Party (BJP) will speak. Asked if the event featuring Mohan Bhagwat, head of the Rashtriya Swayamsevak Sangh (RSS), should be ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2025/10/GettyImages-2243986862.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Mamdani Takes Aim At Hindu Group Over ‘Exclusionary Vision’",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787952257.jpg?resize=1467%2C1080&quality=80",
+          "imageAlt": "RSS chief’s US visit faces protests over Hindu nationalism",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Far-right UK provocateur Milo Yiannopoulos detained by ICE in US",
+          "summary": "Milo Yiannopoulos, a British citizen and right-wing commentator, has been detained by U.S. Immigration and Customs Enforcement (ICE) agents.\n\nAccording to Al Jazeera, a Trump administration official stated that the controversial figure overstayed his visit in the United States and will be removed from the country.\n\nThe BBC notes that Yiannopoulos lives and works in the U.S., where he has previously expressed support for President Donald Trump and ICE agents.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/8/28/far-right-uk-provocateur-milo-yiannopoulos-detained-by-ice-in-us?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Far-right UK provocateur Milo Yiannopoulos detained by ICE in US",
+              "excerpt": "A Trump administration official says the controversial commentator overstayed his visit in the US and will be removed.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a91f2d755-1787949783.jpg?resize=1920%2C1440",
+              "imageAlt": "Far-right UK provocateur Milo Yiannopoulos detained by ICE in US",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+              "excerpt": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg",
+              "imageAlt": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a91f2d755-1787949783.jpg?resize=1920%2C1440",
+          "imageAlt": "Far-right UK provocateur Milo Yiannopoulos detained by ICE in US",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Nashville airport could be renamed in honor of Dolly Parton",
+          "summary": "Tennessee Governor Bill Lee has proposed renaming Nashville International Airport in honor of country music icon Dolly Parton. The announcement comes days after the legendary singer died at age 80 following a brief battle with cancer.\n\nLee described the move as a lasting tribute to Parton’s indelible legacy and her influence on generations across Tennessee and the world. He stated that he consulted with Parton’s team regarding the proposal before making it public.\n\nThe initiative follows a petition that gathered over 155,000 signatures supporting the change. The renaming would honor one of the state’s most famous cultural figures at its largest transportation hub.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/tennessee-moves-to-rename-nashville-airport-after-dolly-parton",
+              "source": "Daily Wire",
+              "headline": "Tennessee Unveils Major Plan To Honor Dolly Parton’s Legacy",
+              "excerpt": "Republican Tennessee Gov. Bill Lee announced Friday that the state plans to rename Nashville International Airport after country music icon Dolly Parton, calling the move a lasting tribute to her “indelible legacy” and the generations of people she inspired across Tennessee and around the world. Lee said he spoke with Parton’s team about the proposal ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/Dolly-Parton-1.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Tennessee Unveils Major Plan To Honor Dolly Parton’s Legacy",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/travel/tennessee-moves-rename-nashville-airport-dolly-parton-days-after-beloved-icon-death",
+              "source": "Fox News",
+              "headline": "Tennessee moves to rename Nashville airport for Dolly Parton days after beloved icon's death",
+              "excerpt": "Tennessee Gov. Bill Lee announced plans to rename Nashville International Airport after Dolly Parton following a petition with over 155,000 signatures.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dolly-parton-memorial.jpg?ve=1&tl=1",
+              "imageAlt": "Tennessee moves to rename Nashville airport for Dolly Parton days after beloved icon's death",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/entertainment/4705038/nashville-airport-could-be-renamed-in-honor-of-dolly-parton/",
+              "source": "Washington Examiner",
+              "headline": "Nashville airport could be renamed in honor of Dolly Parton",
+              "excerpt": "Gov. Bill Lee (R-TN) announced a proposal Friday to rename Tennessee‘s largest airport after the late Dolly Parton, the legendary singer whose death earlier this week rocked millions of fans across the United States. The Tennessee native died in Nashville on Tuesday at 80 after a brief battle with cancer, according to her family. A public […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26238647105313.jpg?w=696",
+              "imageAlt": "Nashville airport could be renamed in honor of Dolly Parton",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/08/Dolly-Parton-1.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Tennessee Unveils Major Plan To Honor Dolly Parton’s Legacy",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "Disgraced Provocateur Milo Yiannopoulos Detained By ICE, Set For Deportation",
+          "summary": "Milo Yiannopoulos, a British citizen and political commentator, was detained by Immigration and Customs Enforcement on Thursday. The Department of Homeland Security announced Friday that he will remain in custody pending deportation.\n\nYiannopoulos, who is 41 years old, was arrested at Louis Armstrong New Orleans International Airport. Government officials stated that he entered the United States legally through New York City but is currently in the country illegally.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/disgraced-provocateur-milo-yiannopoulos-detained-by-ice-set-for-deportation",
+              "source": "Daily Wire",
+              "headline": "Disgraced Provocateur Milo Yiannopoulos Detained By ICE, Set For Deportation",
+              "excerpt": "Disgraced British provocateur Milo Yiannopoulos was arrested by Immigration and Customs Enforcement on Thursday and will remain in custody pending deportation, the Department of Homeland Security announced Friday. Yiannopoulos, a 41-year-old British citizen, was arrested at Louis Armstrong New Orleans International Airport. DHS said he legally entered the United States through New York City on ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2177540214-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Disgraced Provocateur Milo Yiannopoulos Detained By ICE, Set For Deportation",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/28/ice-plans-deport-right-wing-provocateur-milo-yiannopoulos/",
+              "source": "Washington Times",
+              "headline": "ICE plans to deport right-wing provocateur Milo Yiannopoulos",
+              "excerpt": "Homeland Security officers have arrested right-wing political commentator Milo Yiannopoulos and are holding him in preparation for deportation, the government said Friday, saying he's in the country illegally.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/28/AP21321759056905_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "ICE plans to deport right-wing provocateur Milo Yiannopoulos",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2177540214-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Disgraced Provocateur Milo Yiannopoulos Detained By ICE, Set For Deportation",
+          "imageCredit": "Daily Wire"
         }
       ]
     },
@@ -359,44 +412,62 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Three boys crawled into a skip bin one night and by morning one was dead. How did it happen?",
-          "summary": "A coronial inquest is examining the death of Budda Spencer, an Indigenous 13-year-old from South Australia. The incident occurred on a cold night five years ago when three boys crawled into an industrial skip bin to keep warm.\n\nThe group pulled cardboard over themselves and intended to stay awake, but they eventually fell asleep. By morning, one of the boys had died.\n\nSpencer had been known to police and child protection services for several years prior to his death.",
+          "title": "We must stop treating soil like dirt",
+          "summary": "Spectator Australia highlights the theatrical production of Alan Ayckbourn’s classic farce, How the Other Half Loves. The review notes that this specific play was instrumental in establishing Ayckbourn’s reputation as a leading writer of comedy and farce.\n\nThe article suggests the role is particularly well-suited for actor Roger Allam, who is featured in the production. This assessment comes from Spectator Australia’s broader coverage of current stage performances.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/aug/29/three-boys-crawled-into-a-skip-bin-in-sa-one-night-and-in-morning-one-was-dead-how-ntwnfb",
-              "source": "The Guardian Australia",
-              "headline": "Three boys crawled into a skip bin one night and by morning one was dead. How did it happen?",
-              "excerpt": "A coronial inquest is examining the death of Indigenous 13-year-old Budda Spencer, who had for years been on the radar of South Australian police and child protection Warning: This article contains the name and image of an Indigenous person who has died On a cold night five years ago, three boys crawled into an industrial skip bin, pulled cardboard over themselves to keep warm, and – though they planned to stay awake – fell asleep. They woke as a ru",
-              "imageUrl": "https://i.guim.co.uk/img/media/80a222e31c6de5c442b36390c657b74a6667a345/37_208_1016_813/master/1016.jpg?width=140&quality=85&auto=format&fit=max&s=66b6756778cbb6d55f4eada5b9e75e81",
-              "imageAlt": "Three boys crawled into a skip bin one night and by morning one was dead. How did it happen?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "article-text: Right cue(s): (woke|cancel culture|left-wing extremis[mt]|socialist agenda)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "url": "https://www.spectator.com.au/2026/08/a-classic-alan-ayckbourn-thats-made-for-roger-allam/",
+              "source": "Spectator Australia",
+              "headline": "A classic Alan Ayckbourn that’s made for Roger Allam",
+              "excerpt": "How the Other Half Loves is the play that established Alan Ayckbourn’s name as a writer of farce. Frank and… The post A classic Alan Ayckbourn that’s made for Roger Allam appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/the-trainspotting-musical",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/How_the_Other_Half_Loves_at_The_Old_Vic_2026.png",
+              "imageAlt": "A classic Alan Ayckbourn that’s made for Roger Allam",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/80a222e31c6de5c442b36390c657b74a6667a345/37_208_1016_813/master/1016.jpg?width=140&quality=85&auto=format&fit=max&s=66b6756778cbb6d55f4eada5b9e75e81",
-          "imageAlt": "Three boys crawled into a skip bin one night and by morning one was dead. How did it happen?",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/How_the_Other_Half_Loves_at_The_Old_Vic_2026.png",
+          "imageAlt": "A classic Alan Ayckbourn that’s made for Roger Allam",
+          "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Anita Perrottet asked to explain $660k in payments at corruption inquiry",
-          "summary": "Anita Perrottet has been asked to explain significant financial payments during a corruption inquiry in New South Wales.\n\nThe consultant is the wife of Charles Perrottet, a key figure involved in the NSW corruption watchdog investigation.\n\nAccording to testimony at the inquiry, she received more than $660,000 over a two-and-a-half-year period.\n\nDuring this time, she worked an average of 16 hours per week.",
+          "title": "Controversial plans for a Daniel Andrews sculpture officially scrapped by Victorian government",
+          "summary": "The Victorian government has officially cancelled plans to erect a statue of former Premier Daniel Andrews. The decision was made by current Premier Ben Carroll's administration.\n\nThe proposed sculpture was intended for installation outside Melbourne's Treasury Place. It had attracted significant controversy prior to its cancellation.\n\nCritics, including the Liberal opposition, heavily criticized the project due to its cost. The estimated price tag for the statue was $134,000.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-08-28/anita-perrottet-fronts-icac-rosny-inquiry/107088020",
+              "url": "https://www.theguardian.com/australia-news/2026/aug/29/controversial-plans-for-a-daniel-andrews-sculpture-officially-scrapped-by-victorian-government",
+              "source": "The Guardian Australia",
+              "headline": "Controversial plans for a Daniel Andrews sculpture officially scrapped by Victorian government",
+              "excerpt": "The $134,000 cost of the statue of the former Victorian premier has been heavily criticised by the Liberal opposition Get our breaking news email , free app or daily news podcast The Carroll government in Victoria has cancelled controversial plans for a statue o",
+              "imageUrl": "https://i.guim.co.uk/img/media/385a538b33cdc9390d0de38d79cd9619a99c40e4/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=8babbe2aa05775374f05a7e20d492f7e",
+              "imageAlt": "Controversial plans for a Daniel Andrews sculpture officially scrapped by Victorian government",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-08-29/statue-tribute-to-daniel-andrews-scrapped/107093218",
               "source": "ABC Australia",
-              "headline": "Anita Perrottet asked to explain $660k in payments at corruption inquiry",
-              "excerpt": "The consultant wife of a key figure in a NSW corruption watchdog inquiry, Charles Perrottet, was paid more than $660,000 over a two-and-a-half-year period in which she worked an average of 16 hours a week, the corruption inquiry has heard.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2392c26373d7bc5d862a343f070e60b8?impolicy=wcms_crop_resize&cropH=705&cropW=1254&xPos=0&yPos=65&width=862&height=485",
-              "imageAlt": "Anita Perrottet asked to explain $660k in payments at corruption inquiry",
+              "headline": "Planned statue of ex-Victorian premier Daniel Andrews scrapped",
+              "excerpt": "Victorian premier Ben Carroll has cancelled plans to immortalise his predecessor Dan Andrews in statue form outside Melbourne's Treasury Place.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/7166998cdbce2f363f4dff7d07ec2cf1?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Planned statue of ex-Victorian premier Daniel Andrews scrapped",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -411,13 +482,13 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2392c26373d7bc5d862a343f070e60b8?impolicy=wcms_crop_resize&cropH=705&cropW=1254&xPos=0&yPos=65&width=862&height=485",
-          "imageAlt": "Anita Perrottet asked to explain $660k in payments at corruption inquiry",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/385a538b33cdc9390d0de38d79cd9619a99c40e4/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=8babbe2aa05775374f05a7e20d492f7e",
+          "imageAlt": "Controversial plans for a Daniel Andrews sculpture officially scrapped by Victorian government",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "Hannah Ferguson: ‘I’m not Zohran Mamdani, I’m not that cool. But that’s the bar I want to set’",
-          "summary": "Hannah Ferguson is preparing to challenge the incumbent in the Sydney electorate of Grayndler. The 28-year-old author and founder of a progressive media firm aims to dethrone Prime Minister Anthony Albanese before she turns 30.\n\nFerguson recently met with an older couple who expressed disagreement with her decision to run for parliament. She acknowledged that while she does not possess the same cultural cool factor as New York City Mayor Zohran Mamdani, she intends to set a high standard for her political campaign.\n\nThe profile highlights her background in writing and media before entering politics. Ferguson is positioning herself as a significant figure in Australian politics despite her young age.",
+          "summary": "Hannah Ferguson is preparing to challenge the incumbent in the Sydney electorate of Grayndler. The 28-year-old author and founder of a progressive media firm aims to dethrone Prime Minister Anthony Albanese before turning 30.\n\nFerguson recently met with an older couple who expressed disagreement with her decision to run for parliament. She acknowledged that while she does not possess the same cultural cool factor as New York City Mayor Zohran Mamdani, she intends to set a high standard for her political campaign.\n\nThe profile highlights her background in writing and media before entering politics. Ferguson is positioning herself as a significant figure in Australian politics despite her young age.",
           "links": [
             {
               "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/aug/29/hannah-ferguson-age-28-cheek-media-albanese-challenge-grayndler-sydney-politics",
@@ -444,31 +515,31 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Don’t bet against Nvidia – yet",
-          "summary": "Nvidia has released another set of outstanding quarterly results, reinforcing its strong market position. The company reported that its revenues increased by 105 per cent on a year-on-year basis.\n\nThe Spectator Australia notes that these figures suggest investors should not bet against the chipmaker just yet. The publication highlights the significant growth trajectory evident in the latest financial data.",
+          "title": "Net zero isn’t bringing down our energy bills",
+          "summary": "Spectator Australia reports that data centres have become a significant source of public discontent in the country. The publication notes that these facilities are currently more unpopular with residents than potholes.\n\nThe industry has struggled to alter this negative perception despite attempting to present facts and figures to the public. This growing opposition highlights a disconnect between technical explanations and community sentiment regarding data infrastructure.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/dont-bet-against-nvidia-yet/",
+              "url": "https://www.spectator.com.au/2026/08/data-centre-derangement-syndrome/",
               "source": "Spectator Australia",
-              "headline": "Don’t bet against Nvidia – yet",
-              "excerpt": "Last night revealed another set of outstanding results from Nvidia. Its quarterly revenues were up by 105 per cent year-on-year,… The post Don’t bet against Nvidia – yet appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/andy-burnham-has-discovered-the-cost-of-nationalis",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages_2285692692.jpg",
-              "imageAlt": "Don’t bet against Nvidia – yet",
+              "headline": "Data centre derangement syndrome",
+              "excerpt": "Data centres are more unpopular than potholes, and the industry seems unable to shift public perceptions with facts and figures.… The post Data centre derangement syndrome appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/prime-minister-why-should-data-centres-unde",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages-2286058283.jpg",
+              "imageAlt": "Data centre derangement syndrome",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages_2285692692.jpg",
-          "imageAlt": "Don’t bet against Nvidia – yet",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages-2286058283.jpg",
+          "imageAlt": "Data centre derangement syndrome",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -478,7 +549,7 @@
       "stories": [
         {
           "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-          "summary": "Apple has increased the monthly cost of its Apple TV streaming service to $14.99 for both new and existing subscribers.\n\nThe price adjustment takes effect immediately, raising the fee from the previous rate of $12.99 per month.\n\nThis marks the fourth time in four years that Apple has hiked the subscription price.",
+          "summary": "Apple has increased the monthly cost of its Apple TV streaming service to $14.99, marking the fourth price adjustment in four years.\n\nThe change took effect on Friday and applies to both new and existing subscribers who previously paid $12.99 per month.\n\nTechCrunch confirmed the update, noting that the subscription fee has now risen from its prior rate of $12.99 to the new $14.99 price point.",
           "links": [
             {
               "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
@@ -587,8 +658,36 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
+          "summary": "The rapid adoption of Meta smart glasses has sparked growing concerns about the erosion of personal privacy. Reports indicate that individuals are being secretly filmed in private and public spaces, including their own homes, workplaces, and concerts.\n\nA Los Angeles-based man shared his experiences with a Guardian reporter via video call, speaking on condition of anonymity. He described interactions where users expressed intrusive intentions, such as recording performers at strip clubs without consent.\n\nThese accounts raise questions about whether the popularity of these devices marks a significant shift in surveillance culture. Critics argue that the technology may be the final blow to traditional expectations of privacy in everyday life.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
+              "source": "The Guardian Technology",
+              "headline": "Did someone wearing Meta Glasses film you today? Are you sure?",
+              "excerpt": "People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy? “I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He said: ‘I go to strip clubs, and I want to record the strippers … Normally I put my",
+              "imageUrl": "https://i.guim.co.uk/img/media/ad85a9abed95abdd431f53ef872369fb0344b714/0_54_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5b8410b22af6ad43b4a51beab204d0e7",
+              "imageAlt": "Did someone wearing Meta Glasses film you today? Are you sure?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://i.guim.co.uk/img/media/ad85a9abed95abdd431f53ef872369fb0344b714/0_54_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5b8410b22af6ad43b4a51beab204d0e7",
+          "imageAlt": "Did someone wearing Meta Glasses film you today? Are you sure?",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Nicola Coughlan and Matt Lucas among stars backing campaign against AI voice cloning",
-          "summary": "A group of prominent British actors has launched a campaign to combat the unauthorized use of artificial intelligence for voice cloning. The initiative, titled Save Our Voices Now, seeks to prevent AI technology from replicating real people's voices without consent.\n\nThe movement is backed by high-profile figures including Nicola Coughlan, Matt Lucas, and Hugh Bonneville. Other supporters include Luke Evans, Jen Brister, Siobhán McSweeney, and Pearl Mackie.\n\nApproximately 80 individuals have signed an open letter addressed to Andy Burnham. The signatories are calling for new legislation that would explicitly protect voice ownership rights.",
+          "summary": "A group of prominent British actors has launched a campaign to oppose the use of artificial intelligence for voice cloning. The initiative, titled Save Our Voices Now, seeks to prevent AI technology from replicating real people's voices without consent.\n\nThe campaign is backed by well-known figures including Nicola Coughlan, Matt Lucas, and Hugh Bonneville. Other supporters include Luke Evans, Jen Brister, Siobhán McSweeney, and Pearl Mackie.\n\nApproximately 80 individuals have signed an open letter addressed to Andy Burnham. The signatories are calling for new legislation that would protect voice ownership rights.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas",
@@ -641,34 +740,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=8f58ec9e96959fdf76a9f7574e92bb3a",
           "imageAlt": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts | Dominik Diamond",
-          "summary": "A recent article in The Guardian explores the psychological impact of aggressive mobile gaming advertisements. The author describes being led from one game to another by increasingly disturbing ads, comparing the experience to a scene from A Clockwork Orange.\n\nThe piece argues that players often use video games to escape the drabness of real life or their own personal struggles. However, the intrusive nature of these ads creates a negative feedback loop rather than providing relief.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/aug/28/horrible-mobile-gaming-adverts",
-              "source": "The Guardian Technology",
-              "headline": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts",
-              "excerpt": "Led by the nose from game to terrible game by increasingly disturbing and terrible adverts, I feel like I’m in the cinema scene from A Clockwork Orange We’re all escaping something when we play video games. Mostly it’s the drabness of real life, where we don’t get to command kingdoms using armies of dragons, win Champions League trophies with our local team, or inhabit the body of an improbably speedy hedgehog. Sometimes I play them because I want to escape from the version of me",
-              "imageUrl": "https://i.guim.co.uk/img/media/52bb93f64013aaad0308db4daf8a0a3bf4428d12/0_0_1317_1053/master/1317.jpg?width=140&quality=85&auto=format&fit=max&s=284fbbc7a07cfe89455bd1523dcfe3a4",
-              "imageAlt": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts | Dominik Diamond",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/52bb93f64013aaad0308db4daf8a0a3bf4428d12/0_0_1317_1053/master/1317.jpg?width=140&quality=85&auto=format&fit=max&s=284fbbc7a07cfe89455bd1523dcfe3a4",
-          "imageAlt": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts | Dominik Diamond",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -676,16 +747,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Enhanced habagat to bring rains over western Luzon – Pagasa",
-          "summary": "The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) warned that a low-pressure area off Extreme Northern Luzon will persist through Saturday, August 29. This system is expected to enhance the southwest monsoon, or habagat, resulting in rains over western Luzon.\n\nWeather specialist Loriedin Dela Cruz-Galicia confirmed the forecast during an update on the developing weather conditions. The enhanced monsoon activity has prompted local authorities to take precautionary measures across affected regions.\n\nIn response to the heavy rainfall, class suspensions have been implemented for Saturday in various areas. Rappler reported a list of locations where schools are closed due to the impact of the enhanced southwest monsoon.",
+          "title": "Tacloban City mayor, NBI tackle tighter safety, security measures",
+          "summary": "Tacloban City Mayor Alfred Romualdez met with the newly assigned National Bureau of Investigation Region 8 Director, Atty. Jeremy Lotoc, to discuss enhanced safety and security protocols.\n\nThe meeting focused on implementing stricter measures for responsible firearm ownership and improving cybersecurity within government agencies.\n\nRomualdez, who serves as chair of the Regional Peace and Order Council, specifically raised concerns regarding unauthorized access to firearms during the discussion.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2294382/enhanced-habagat-to-bring-rains-over-western-luzon-pagasa",
+              "url": "https://newsinfo.inquirer.net/2294434/tacloban-city-mayor-nbi-tackle-tighter-safety-security-measures",
               "source": "Philippine Daily Inquirer",
-              "headline": "Enhanced habagat to bring rains over western Luzon – Pagasa",
-              "excerpt": "MANILA, Philippines — The low-pressure area (LPA) off Extreme Northern Luzon will persist and enhance the southwest monsoon, or habagat, bringing rains over the western parts of Luzon until Saturday, Aug. 29, the state weather bureau said. Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) weather specialist Loriedin Dela Cruz-Galicia said during the 5 p.m.",
-              "imageUrl": "",
-              "imageAlt": "Enhanced habagat to bring rains over western Luzon – Pagasa",
+              "headline": "Tacloban City mayor, NBI tackle tighter safety, security measures",
+              "excerpt": "TACLOBAN CITY — Tacloban City Mayor Alfred Romualdez and newly assigned National Bureau of Investigation Region 8 Director Atty. Jeremy Lotoc discussed tighter security measures, including responsible firearm ownership and stronger cybersecurity in government agencies last Wednesday. Romualdez, who chairs the Regional Peace and Order Council, raised concerns over unauthorized access to firearms, particularly by",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/romualdez1-1.jpg",
+              "imageAlt": "Tacloban City mayor, NBI tackle tighter safety, security measures",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -696,30 +767,12 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/class-suspensions-walang-pasok-august-29-2026/",
-              "source": "Rappler World",
-              "headline": "[Walang Pasok] Class suspensions, Saturday, August 29, 2026",
-              "excerpt": "Here is a list of areas where classes are suspended for Saturday, August 29, 2026, due to the effects of the enhanced southwest monsoon",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/01/WALANG-PASOK-2026-005.jpg",
-              "imageAlt": "[Walang Pasok] Class suspensions, Saturday, August 29, 2026",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://www.rappler.com/tachyon/2026/01/WALANG-PASOK-2026-005.jpg",
-          "imageAlt": "[Walang Pasok] Class suspensions, Saturday, August 29, 2026",
-          "imageCredit": "Rappler"
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/romualdez1-1.jpg",
+          "imageAlt": "Tacloban City mayor, NBI tackle tighter safety, security measures",
+          "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "De Lima: Meta sharing info with gov’t OK as long as it’s vs threats",
@@ -750,16 +803,72 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Ombudsman files new graft, malversation raps vs Zaldy Co, others",
-          "summary": "The Office of the Ombudsman filed a second malversation case against former Ako Bicol party-list Representative Zaldy Co before the Sandiganbayan. The new charges relate to an alleged non-existent flood control project in Balagtas, Bulacan, valued at 77 million pesos.\n\nThe six-page case information was submitted to the anti-graft court for one count of malversation each. This legal action follows previous corruption cases involving Co, who is currently a fugitive from justice.",
+          "title": "Meta sharing socmed data to help PH probe threats",
+          "summary": "Meta Platforms Inc. has committed to sharing social media data with the Philippine government to assist in probing online threats.\n\nThe technology firm, which owns Facebook, Instagram, and WhatsApp, agreed to cooperate with investigations into cybercrime and other digital security issues.\n\nA delegation from the Philippines met with Meta policy officials responsible for the Asia-Pacific region to finalize these arrangements.\n\nAs part of this commitment, Meta pledged to remove harmful artificial intelligence-generated deepfakes from its platforms.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2294448/ombudsman-files-new-graft-malversation-raps-vs-zaldy-co-others",
+              "url": "https://newsinfo.inquirer.net/2294521/meta-sharing-socmed-data-to-help-ph-probe-threats",
               "source": "Philippine Daily Inquirer",
-              "headline": "Ombudsman files new graft, malversation raps vs Zaldy Co, others",
-              "excerpt": "MANILA, Philippines — The Office of the Ombudsman on Friday filed a second malversation case against former Ako Bicol party-list Rep. Zaldy Co before the Sandiganbayan over the alleged non-existent flood control project worth ₱77 million in Balagtas, Bulacan. The six-page case information was filed before the anti-graft court for one count each of malversation",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/zaldy-co-10mar2026.jpg",
-              "imageAlt": "Ombudsman files new graft, malversation raps vs Zaldy Co, others",
+              "headline": "Meta sharing socmed data to help PH probe threats",
+              "excerpt": "MANILA, Philippines — American technology firm Meta Platforms Inc., which owns Facebook, Instagram, and WhatsApp, has made a commitment to the Philippine government to remove harmful artificial intelligence (AI)-generated deepfakes from its platforms and cooperate with investigations on cybercrime and other online threats. A Philippine delegation met with Meta policy officials handling the Asia-Pacific region",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/News1283197.jpg",
+              "imageAlt": "Meta sharing socmed data to help PH probe threats",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/News1283197.jpg",
+          "imageAlt": "Meta sharing socmed data to help PH probe threats",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "PNP: AI body cams to have better image quality",
+          "summary": "Philippine National Police Chief Gen. Jose Melencio Nartatez Jr. has assured the public that newly ordered artificial intelligence-enabled body-worn cameras will feature improved image quality.\n\nThe police chief stated that these devices are intended to enhance the PNP's ability to document operations with clearer and more reliable footage.\n\nThis upgrade aims to help preserve evidence and support ongoing investigations.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2294509/pnp-ai-body-cams-to-have-better-image-quality",
+              "source": "Philippine Daily Inquirer",
+              "headline": "PNP: AI body cams to have better image quality",
+              "excerpt": "MANILA, Philippines — Philippine National Police chief Gen. Jose Melencio Nartatez Jr. has assured the public the artificial intelligence (AI)-enabled body-worn cameras ordered by the PNP will have better image quality. These cameras “will enhance the PNP’s capability to document police operations with clearer and more reliable footage. This will help preserve evidence, support investigations,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2018/01/20180129EEB_6358.jpg",
+              "imageAlt": "PNP: AI body cams to have better image quality",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2018/01/20180129EEB_6358.jpg",
+          "imageAlt": "PNP: AI body cams to have better image quality",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "AFP witnesses to clarify certifications on DepEd CF liquidation",
+          "summary": "Two military officers are expected to appear before the Senate impeachment court to address discrepancies regarding Department of Education confidential-fund records. House prosecution spokespersons stated that the witnesses will clarify why Armed Forces of the Philippines certifications were utilized in these documents.\n\nThe issue centers on previous statements by the signatories, who claimed they did not know the purpose for which their certifications were used. Retired Col.\n\nManaros Boransing II and another colonel are scheduled to provide explanations on this matter.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2294490/afp-witnesses-to-clarify-certifications-on-deped-cf-liquidation",
+              "source": "Philippine Daily Inquirer",
+              "headline": "AFP witnesses to clarify certifications on DepEd CF liquidation",
+              "excerpt": "MANILA, Philippines — Two military officers expected before the Senate impeachment court can help explain why Armed Forces of the Philippines (AFP) certifications were used in Department of Education confidential-fund records even though the signatories previously said they did not know that purpose, House prosecution spokespersons said Friday. Retired Col. Manaros Boransing II and Col.",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/paolo-ortega-06aug2026.jpg",
+              "imageAlt": "AFP witnesses to clarify certifications on DepEd CF liquidation",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -770,85 +879,11 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/zaldy-co-graft-malversation-cases-balagtas-bulacan-flood-control/",
-              "source": "Rappler World",
-              "headline": "Ombudsman files new corruption cases vs fugitive Zaldy Co",
-              "excerpt": "Co's new cases stem from the allegedly anomalous P77-million flood control project in Balagtas, Bulacan",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/01/zaldy-co-floodwater-jan-7-2025.jpg",
-              "imageAlt": "Ombudsman files new corruption cases vs fugitive Zaldy Co",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/zaldy-co-10mar2026.jpg",
-          "imageAlt": "Ombudsman files new graft, malversation raps vs Zaldy Co, others",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Manila Water advances complete water cycle management with September desludging",
-          "summary": "Manila Water has launched a September desludging program to strengthen its wastewater management initiatives. The utility aims to advance complete water cycle management by integrating this preventive sanitation service with its ongoing efforts to develop new water sources and expand treatment capacity.\n\nCustomers across the East Zone are encouraged to participate in the program, which is designed to help ensure effective sanitation. This initiative complements Manila Water's broader goals of improving distribution infrastructure while maintaining robust wastewater handling systems.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2294408/manila-water-advances-complete-water-cycle-management-with-september-desludging",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Manila Water advances complete water cycle management with September desludging",
-              "excerpt": "MANILA, Philippines – As Manila Water continues to develop new water sources, expand treatment capacity, and improve distribution infrastructure, it likewise strengthens its wastewater management initiatives through its September desludging program. This September, Manila Water encourages customers across the East Zone to participate in its desludging program, a preventive sanitation service that helps ensure the",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/WhatsApp-Image-2026-08-28-at-6.58.07-PM.jpg",
-              "imageAlt": "Manila Water advances complete water cycle management with September desludging",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/WhatsApp-Image-2026-08-28-at-6.58.07-PM.jpg",
-          "imageAlt": "Manila Water advances complete water cycle management with September desludging",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Tacloban City mayor, NBI tackle tighter safety, security measures",
-          "summary": "Tacloban City Mayor Alfred Romualdez met with the newly assigned National Bureau of Investigation Region 8 Director, Atty. Jeremy Lotoc, to discuss enhanced safety and security protocols.\n\nThe meeting focused on implementing stricter measures for responsible firearm ownership and improving cybersecurity within government agencies.\n\nRomualdez, who serves as chair of the Regional Peace and Order Council, specifically raised concerns regarding unauthorized access to firearms during the discussion.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2294434/tacloban-city-mayor-nbi-tackle-tighter-safety-security-measures",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Tacloban City mayor, NBI tackle tighter safety, security measures",
-              "excerpt": "TACLOBAN CITY — Tacloban City Mayor Alfred Romualdez and newly assigned National Bureau of Investigation Region 8 Director Atty. Jeremy Lotoc discussed tighter security measures, including responsible firearm ownership and stronger cybersecurity in government agencies last Wednesday. Romualdez, who chairs the Regional Peace and Order Council, raised concerns over unauthorized access to firearms, particularly by",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/romualdez1-1.jpg",
-              "imageAlt": "Tacloban City mayor, NBI tackle tighter safety, security measures",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/romualdez1-1.jpg",
-          "imageAlt": "Tacloban City mayor, NBI tackle tighter safety, security measures",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/paolo-ortega-06aug2026.jpg",
+          "imageAlt": "AFP witnesses to clarify certifications on DepEd CF liquidation",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -857,16 +892,41 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-          "summary": "Major technology firms including OpenAI, Anthropic, and Google have joined over 100 other companies in a collective call for action against emerging AI-driven cyber threats.\n\nThe coalition aims to address what it describes as the current state of cybersecurity, which they argue is insufficient to handle new generations of digital risks.\n\nBy uniting large tech giants with AI startups, the group seeks to promote a new solution designed specifically to defend against rogue artificial intelligence systems.",
+          "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+          "summary": "Rwandan-backed rebels have entered Goma, a city in the Democratic Republic of Congo that had previously served as a safe haven for displaced residents.\n\nLocal witnesses reported hearing gunfire and shelling after rebel forces overran Congolese troops defending the area.\n\nThe United Nations estimates that more than one million displaced people are currently sheltering within the city, highlighting the severe humanitarian implications of the conflict.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+              "url": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+              "source": "Wall Street Journal",
+              "headline": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "excerpt": "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops. U.N. officials estimated that more than one million displaced people were now inside the city.",
+              "imageUrl": "",
+              "imageAlt": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
+        },
+        {
+          "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+          "summary": "YouTube has introduced a new feature that allows creators to tag Amazon products directly within their videos. This update enables content producers to earn commissions from resulting purchases.\n\nThe change transforms product recommendations into a more direct revenue stream for creators on the platform. For Amazon, the integration places its online marketplace inside one of the most popular video platforms.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
               "source": "TechCrunch",
-              "headline": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-              "excerpt": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-              "imageAlt": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+              "headline": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+              "excerpt": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
+              "imageAlt": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -880,49 +940,21 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-          "imageAlt": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
+          "imageAlt": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "AI can detect heart disease in women using mammograms, study suggests",
-          "summary": "Researchers have demonstrated that artificial intelligence can identify signs of heart disease in women by analyzing routine mammograms. The study suggests that breast cancer screenings could simultaneously flag cardiovascular issues, which are a leading cause of death for women but often underdiagnosed.\n\nThe AI system was able to successfully detect coronary heart disease, high blood pressure, and previous strokes from the scans. Experts indicate that this dual-purpose approach could enhance early detection efforts during standard medical procedures.",
+          "title": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts | Dominik Diamond",
+          "summary": "A recent article in The Guardian Technology explores the frustrating experience of navigating mobile gaming advertisements.\n\nThe author describes being led from one game to another by increasingly disturbing ads, comparing the sensation to a scene from A Clockwork Orange.\n\nWhile video games often serve as an escape from the drabness of real life, this particular rabbit hole highlights the negative impact of aggressive marketing tactics.",
           "links": [
             {
-              "url": "https://www.theguardian.com/society/2026/aug/27/mammograms-heart-disease-in-women-study",
+              "url": "https://www.theguardian.com/games/2026/aug/28/horrible-mobile-gaming-adverts",
               "source": "The Guardian Technology",
-              "headline": "AI can detect heart disease in women using mammograms, study suggests",
-              "excerpt": "Experts say findings mean breast screenings for cancer could also flag cardiovascular problems in women Doctors have discovered a way to use routine mammograms that screen for breast cancer to spot heart disease, the world’s leading – and frequently underdiagnosed – cause of death in women. Researchers analysed the scans using artificial intelligence and were able to successfully identify women with coronary heart disease, high blood pressure or who had suffered a stroke. <a h",
-              "imageUrl": "https://i.guim.co.uk/img/media/b99b9915507c4222740eb2754adb4e1ff90705f2/1469_439_6082_4865/master/6082.jpg?width=140&quality=85&auto=format&fit=max&s=d9280a93d306c471213d0b513ea991ba",
-              "imageAlt": "AI can detect heart disease in women using mammograms, study suggests",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/b99b9915507c4222740eb2754adb4e1ff90705f2/1469_439_6082_4865/master/6082.jpg?width=140&quality=85&auto=format&fit=max&s=d9280a93d306c471213d0b513ea991ba",
-          "imageAlt": "AI can detect heart disease in women using mammograms, study suggests",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "The Witcher 3: Songs of the Past – Geralt of Rivia returns after a decade in the sun",
-          "summary": "CD Projekt Red has announced a new expansion for The Witcher 3: Wild Hunt titled Songs of the Past.\n\nThe release serves as a final entry in the series before the upcoming launch of The Witcher 4 in 2028.\n\nDevelopers are returning to the world of Geralt of Rivia one last time, marking more than a decade since the original game’s arrival.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/aug/28/the-witcher-3-songs-of-the-past-geralt-of-rivia-returns-after-a-decade-in-the-sun",
-              "source": "The Guardian Technology",
-              "headline": "The Witcher 3: Songs of the Past – Geralt of Rivia returns after a decade in the sun",
-              "excerpt": "Before The Witcher 4 arrives in 2028, CD Projekt Red is returning us to the world of The Witcher 3 for one last foray. Looks like wind’s still howlin’ The game that graced us with Bathtub Geralt , The Witcher 3: Wild Hunt, arrived more than a decade ago. So it was a touch surprising this summer when developers CD Projekt Red announced a new expansion to the venerable adventure, titled Songs of the Past, for next y",
-              "imageUrl": "https://i.guim.co.uk/img/media/df0706be61f223fc0f3145da6e748198ed3c7c71/552_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=2d1ac22dace968ccd67d1b90db845bde",
-              "imageAlt": "The Witcher 3: Songs of the Past – Geralt of Rivia returns after a decade in the sun",
+              "headline": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts",
+              "excerpt": "Led by the nose from game to terrible game by increasingly disturbing and terrible adverts, I feel like I’m in the cinema scene from A Clockwork Orange We’re all escaping something when we play video games. Mostly it’s the drabness of real life, where we don’t get to command kingdoms using armies of dragons, win Champions League trophies with our local team, or inhabit the body of an improbably speedy hedgehog. Sometimes I play them because I want to escape from the version of me",
+              "imageUrl": "https://i.guim.co.uk/img/media/52bb93f64013aaad0308db4daf8a0a3bf4428d12/0_0_1317_1053/master/1317.jpg?width=140&quality=85&auto=format&fit=max&s=284fbbc7a07cfe89455bd1523dcfe3a4",
+              "imageAlt": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts | Dominik Diamond",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -936,65 +968,59 @@
             }
           ],
           "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/df0706be61f223fc0f3145da6e748198ed3c7c71/552_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=2d1ac22dace968ccd67d1b90db845bde",
-          "imageAlt": "The Witcher 3: Songs of the Past – Geralt of Rivia returns after a decade in the sun",
+          "imageUrl": "https://i.guim.co.uk/img/media/52bb93f64013aaad0308db4daf8a0a3bf4428d12/0_0_1317_1053/master/1317.jpg?width=140&quality=85&auto=format&fit=max&s=284fbbc7a07cfe89455bd1523dcfe3a4",
+          "imageAlt": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts | Dominik Diamond",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "AI-proof? Younger workers desert the digital world for traditional crafts",
-          "summary": "Younger workers are increasingly turning away from digital careers and toward traditional heritage crafts as the job market becomes more disrupted. The shift includes trades such as bookbinding, metalwork, and boatbuilding.\n\nThis trend reflects a bleak moment for first-time entrants to the workforce who previously relied on university degrees to secure stable employment. Entry-level white-collar jobs across almost all sectors are no longer seen as reliable guarantees of career stability.",
+          "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+          "summary": "NATO has launched its first coordinated response to a suspected sabotage campaign targeting critical infrastructure.\n\nThe alliance took action after another deep-sea cable was severed in the Baltic Sea.\n\nThis marks the initial joint effort by the organization to address such threats.",
           "links": [
             {
-              "url": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
-              "source": "The Guardian Technology",
-              "headline": "AI-proof? Younger workers desert the digital world for traditional crafts",
-              "excerpt": "In a disrupted job market people are turning to heritage crafts such as bookbinding, metalwork and boatbuilding It’s a bleak moment for young people entering the workforce for the first time . For decades, a university degree seemed to promise a stable career – but entry-level white-collar jobs across almost all sectors are <a href=\"https://www.theguardia",
-              "imageUrl": "https://i.guim.co.uk/img/media/cb3a47a2bd8a43f9d87c1e4420887eba5736d2e2/651_572_4942_3955/master/4942.jpg?width=140&quality=85&auto=format&fit=max&s=ecb2d4c8354de55956b9834e6bd95a32",
-              "imageAlt": "AI-proof? Younger workers desert the digital world for traditional crafts",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+              "source": "Wall Street Journal",
+              "headline": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "excerpt": "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.",
+              "imageUrl": "",
+              "imageAlt": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/cb3a47a2bd8a43f9d87c1e4420887eba5736d2e2/651_572_4942_3955/master/4942.jpg?width=140&quality=85&auto=format&fit=max&s=ecb2d4c8354de55956b9834e6bd95a32",
-          "imageAlt": "AI-proof? Younger workers desert the digital world for traditional crafts",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
         },
         {
-          "title": "Black Box: The Chatbots: a new series from The Guardian Investigates – trailer",
-          "summary": "The Guardian Investigates has announced a new audio series titled \"Black Box: The Chatbots.\"\n\nThe upcoming production explores the widespread belief that artificial intelligence chatbots have contributed to significant scientific breakthroughs.\n\nReporters will examine how these tools are credited with helping users cure diseases and invent new technologies.\n\nThe series aims to analyze what this perception reveals about a technology now used by more than one billion people.",
+          "title": "Palestinians Stream Back to Northern Gaza on Foot",
+          "summary": "Palestinian residents have begun returning to northern Gaza on foot following a recent breakthrough in hostage release negotiations. Israel permitted displaced civilians to cross into the area after a military zone that had bisected the enclave was opened.\n\nThe movement marks a significant shift from previous restrictions, allowing families to return to their homes in the north. This development follows the resolution of a deadlock regarding the exchange of hostages held by Hamas.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/audio/2026/aug/27/black-box-the-chatbots-new-series-guardian-investigates-trailer",
-              "source": "The Guardian Technology",
-              "headline": "Black Box: The Chatbots: a new series from The Guardian Investigates – trailer",
-              "excerpt": "People are becoming convinced AI chatbots have helped them make scientific breakthroughs, cure diseases or invent new technologies. What does this reveal about a technology used by more than a billion people? A new series from The Guardian Investigates, coming soon Continue reading...",
-              "imageUrl": "https://i.guim.co.uk/img/media/4c85abb174c68555842108292cbc66659566b096/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=494a4090003b4233280e476c5414f583",
-              "imageAlt": "Black Box: The Chatbots: a new series from The Guardian Investigates – trailer",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+              "source": "Wall Street Journal",
+              "headline": "Palestinians Stream Back to Northern Gaza on Foot",
+              "excerpt": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+              "imageUrl": "",
+              "imageAlt": "Palestinians Stream Back to Northern Gaza on Foot",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2",
-          "imageUrl": "https://i.guim.co.uk/img/media/4c85abb174c68555842108292cbc66659566b096/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=494a4090003b4233280e476c5414f583",
-          "imageAlt": "Black Box: The Chatbots: a new series from The Guardian Investigates – trailer",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "lm-studio-local-multi-source-mini-story-v2"
         }
       ]
     }
