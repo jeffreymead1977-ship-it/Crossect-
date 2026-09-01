@@ -2,24 +2,107 @@
   "id": "2026-09-01-expanded",
   "date": "2026-09-01",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-01T03:00:05.819871",
+  "generatedAt": "2026-09-01T12:30:09.914242",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-01T03:00:05",
+  "updatedAt": "2026-09-01T12:30:09",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Dozens Of Americans Still Missing As Flood Death Toll Nears 1,000",
-          "summary": "Nearly 1,000 people have died and more than 4,000 remain missing after floods swept through Nepal and Tibet, with reports saying about 85 Americans are among those unaccounted for. Heavy rain has turned roads to mud and trapped relief vehicles, hampering the international search effort.",
+          "title": "Supreme Court Drops 5-4 Ruling In Trump Ballroom Fight",
+          "summary": "The US Supreme Court, in an unsigned 5-4 order, cleared the way for construction of President Donald Trump’s $400 million White House ballroom to continue, blocking lower-court rulings that would have halted aboveground work. The decision replaced a temporary order issued earlier in August. Chief Justice John Roberts dissented, writing that the construction was likely unlawful.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/gallery/2026/8/31/photos-nearly-1000-dead-thousands-missing-in-nepal-china-border?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Photos: Nearly 1,000 dead, thousands missing in Nepal–China border floods",
-              "excerpt": "Over 4,000 people remain missing after deadly floods swept through Nepal and Tibet, leaving families in despair.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T065503Z_34737426_RC209NARHB14_RTRMADP_3_NEPAL-FLOODS-1788188549.jpg?resize=1920%2C1440",
-              "imageAlt": "Photos: Nearly 1,000 dead, thousands missing in Nepal–China border floods",
+              "headline": "White House construction on $400m ballroom can go on, says US Supreme Court",
+              "excerpt": "The decision replaces a temporary order issued earlier this month.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a95f6ce-1788212942.jpg?resize=1920%2C1440",
+              "imageAlt": "White House construction on $400m ballroom can go on, says US Supreme Court",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+              "excerpt": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead3/live/f03f27e0-a57a-11f1-9648-5fefd339ae88.jpg",
+              "imageAlt": "US Supreme Court clears way for Trump to keep building White House ballroom",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/08/31/supreme-court-delivers-win-to-trump-allows-construction-to-continue-on-white-house-ballroom/",
+              "source": "Breitbart",
+              "headline": "Supreme Court Delivers Win to Trump, Allows Construction to Continue on White House Ballroom",
+              "excerpt": "The Supreme Court delivered a win to President Donald Trump, ruling that construction on the $400 million White House ballroom can continue. The post Supreme Court Delivers Win to Trump, Allows Construction to Continue on White House Ballroom appeared first on Breitbart<",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/55294761196f4a119e309-640x335.jpg",
+              "imageAlt": "Supreme Court Delivers Win to Trump, Allows Construction to Continue on White House Ballroom",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/supreme-court-drops-5-4-ruling-in-trump-ballroom-fight",
+              "source": "Daily Wire",
+              "headline": "Supreme Court Drops 5-4 Ruling In Trump Ballroom Fight",
+              "excerpt": "The U.S. Supreme Court on Monday cleared the way for President Donald Trump to move forward with construction of the White House ballroom. In an unsigned 5-4 order, the majority granted an emergency application from the Trump administration, blocking lower court rulings that would have halted work on the aboveground portion of the project. At ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2291330330-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Supreme Court Drops 5-4 Ruling In Trump Ballroom Fight",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a95f6ce-1788212942.jpg?resize=1920%2C1440",
+          "imageAlt": "White House construction on $400m ballroom can go on, says US Supreme Court",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
+          "summary": "US Army Secretary Dan Driscoll submitted his resignation to the White House after about 18 months in the post. Multiple outlets linked the move to months of tension with Defense Secretary Pete Hegseth, while Fox News reported that the White House had not yet accepted the resignation. The BBC described Driscoll as the youngest person to hold the position.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+              "excerpt": "Driscoll's resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-19T161010Z_806965838_RC2FCLAXXWY7_RTRMADP_3_USA-ARMY-CONGRESS-1788216804.jpg?resize=1920%2C1440",
+              "imageAlt": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,12 +115,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
-              "excerpt": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35e4/live/90ea43e0-a4af-11f1-a291-b542ee92de7c.jpg",
-              "imageAlt": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+              "headline": "US army secretary resigns after months of tension",
+              "excerpt": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg",
+              "imageAlt": "US army secretary resigns after months of tension",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -51,13 +134,13 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.dailywire.com/news/dozens-of-americans-still-missing-as-flood-death-toll-nears-1000",
-              "source": "Daily Wire",
-              "headline": "Dozens Of Americans Still Missing As Flood Death Toll Nears 1,000",
-              "excerpt": "More than 900 people are dead and thousands are missing, including around 85 Americans, after a catastrophic mountain disaster unleashed a wall of water, ice, and mud across Nepal and Tibet. An international search effort is scrambling against the clock to locate thousands of victims swallowed up by the raging flood. The horrific death toll ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2291588534.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Dozens Of Americans Still Missing As Flood Death Toll Nears 1,000",
-              "outlet": "Daily Wire",
+              "url": "https://www.foxnews.com/politics/army-secretary-dan-driscoll-submits-resignation-trump",
+              "source": "Fox News",
+              "headline": "Army Secretary Dan Driscoll submits resignation to Trump",
+              "excerpt": "Army Secretary Dan Driscoll has submitted his resignation letter to the White House, a senior U.S. official confirms. The White House has not yet accepted his resignation.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dan-driscoll.png?ve=1&tl=1",
+              "imageAlt": "Army Secretary Dan Driscoll submits resignation to Trump",
+              "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -67,16 +150,210 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/31/army-secretary-dan-driscoll-stepping-18-months-job-white-house-says/",
+              "source": "Washington Times",
+              "headline": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
+              "excerpt": "Army Secretary Daniel Driscoll submitted his resignation to the White House on Monday, following months of tension with Secretary of Defense Pete Hegseth.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/07/Army_Driscoll_Test_Ranges_19753_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T065503Z_34737426_RC209NARHB14_RTRMADP_3_NEPAL-FLOODS-1788188549.jpg?resize=1920%2C1440",
-          "imageAlt": "Photos: Nearly 1,000 dead, thousands missing in Nepal–China border floods",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-19T161010Z_806965838_RC2FCLAXXWY7_RTRMADP_3_USA-ARMY-CONGRESS-1788216804.jpg?resize=1920%2C1440",
+          "imageAlt": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump has asked Apple to change Lake Ontario name to 'Lake America' on its maps, interior chief says",
+          "summary": "President Donald Trump asked Apple to label Lake Ontario as “Lake America” in its Maps app, according to his interior chief. Google had already made the change for US-based users following an executive order, while Apple Maps continued to show Lake Ontario. MapQuest said it would not adopt the new name.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+              "excerpt": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg",
+              "imageAlt": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/tech/2026/08/31/map-battle-google-maps-displays-lake-america-while-apple-maps-shows-lake-ontario/",
+              "source": "Breitbart",
+              "headline": "Map Battle: Google Maps Displays 'Lake America' While Apple Maps Shows 'Lake Ontario'",
+              "excerpt": "Two of the most popular map apps available on smartphones, Google Maps and Apple Maps, now disagree on the name of one of the Great Lakes. Google Maps is following the U.S. government's renaming of Lake Ontario as Lake America, while Apple Maps is ignoring President Trump's executive order. The post Map Battle: Google Maps Displays ‘Lake A",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/Tim-Apple-speaks-to-President-Donald-Trump-640x335.jpg",
+              "imageAlt": "Map Battle: Google Maps Displays 'Lake America' While Apple Maps Shows 'Lake Ontario'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/31/donald-trump-asks-apple-change-lake-ontario-name-lake-america-maps/",
+              "source": "Washington Times",
+              "headline": "Trump has asked Apple to change Lake Ontario name to 'Lake America' on its maps, interior chief says",
+              "excerpt": "U.S. President Donald Trump has asked Apple to change the name of Lake Ontario to \"Lake America\" on its maps app, his administration's interior chief said Monday, days after signing an executive order over the body of water now in the spotlight amid his escalating trade war with Canada.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/31/Apple_Lake_Ontario__246_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump has asked Apple to change Lake Ontario name to 'Lake America' on its maps, interior chief says",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg",
+          "imageAlt": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Prosecutor urges jurors to convict Duane 'Keffe D' Davis at Tupac Shakur murder trial",
+          "summary": "A jury found Duane “Keffe D” Davis guilty of first-degree murder for orchestrating the 1996 drive-by killing of rapper Tupac Shakur. Jurors deliberated for about three hours, making Davis the first person convicted in the case. The killing had remained unresolved for decades, with no arrest until 2023.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+              "excerpt": "The rapper's killing became one of popular culture's great mysteries, with countless theories but no arrests until 2023.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e72/live/7b987920-a59b-11f1-aed2-8d6da8d75094.jpg",
+              "imageAlt": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.foxnews.com/us/duane-keffe-d-davis-found-guilty-first-degree-murder-1996-killing-tupac-shakur",
+              "source": "Fox News",
+              "headline": "Duane 'Keffe D' Davis found guilty of first-degree murder in 1996 killing of Tupac Shakur",
+              "excerpt": "Duane “Keffe D\" Davis became the first person convicted in the rap icon’s 1996 drive-by shooting death after jurors deliberated for about three hours.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/tupac-shakur-with-bandana.jpg?ve=1&tl=1",
+              "imageAlt": "Duane 'Keffe D' Davis found guilty of first-degree murder in 1996 killing of Tupac Shakur",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/31/duane-keffe-d-davis-guilty-murder-1996-killing-tupac-shakur/",
+              "source": "Washington Times",
+              "headline": "Jury convicts Duane 'Keffe D Davis of first-degree murder in 1996 killing Tupac Shakur",
+              "excerpt": "A jury found Duane \"Keffe D\" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, marking the first conviction in a case that has gripped hip-hop fans for decades.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/31/Tupac_Trial__4338_s1440x961.jpg?6ffc4d3d57b058013256ad5bbd6d52434af2a762",
+              "imageAlt": "Jury convicts Duane 'Keffe D Davis of first-degree murder in 1996 killing Tupac Shakur",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e72/live/7b987920-a59b-11f1-aed2-8d6da8d75094.jpg",
+          "imageAlt": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Woman killed by police after stabbing 2 in New York's Times Square, killing 1",
+          "summary": "New York police shot and killed a woman in Times Square after she allegedly stabbed two people, killing one. Police said she was armed with knives, and bystander video reportedly showed her brandishing two large knives before officers fired.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "New York police kill knife-wielding woman in Times Square",
+              "excerpt": "A woman has been shot dead by police in New York’s Times Square. Police say she was armed with knives.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788225470.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "New York police kill knife-wielding woman in Times Square",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/aug/31/new-york-woman-brandishing-two-knives-shot-police-times-square/",
+              "source": "Washington Times",
+              "headline": "Woman killed by police after stabbing 2 in New York's Times Square, killing 1",
+              "excerpt": "A woman brandishing two large knives was shot by police officers in New York's Times Square on Monday, according to video taken by bystanders.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/31/Times_Square_Police_Shooting_82337_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Woman killed by police after stabbing 2 in New York's Times Square, killing 1",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788225470.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "New York police kill knife-wielding woman in Times Square",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Hikers Vanish As Flash Flood Sweeps Through Grand Canyon",
-          "summary": "At least two people have died and roughly 14 to 15 remain missing after heavy rain triggered a flash flood in the Grand Canyon. Search and recovery operations are continuing in remote areas while forecasts warn that more storms are possible.",
+          "summary": "At least two people died and more than a dozen hikers were reported missing after heavy rain triggered a flash flood in the Grand Canyon. Rescue workers searched remote areas of the canyon, with the National Park Service reporting at least 15 people missing or unaccounted for.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
@@ -114,24 +391,6 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/31/storms-possible-grand-canyon-flash-flood-killed-least-two-people/",
-              "source": "Washington Times",
-              "headline": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing",
-              "excerpt": "At least two bodies have been recovered since a major flash flood swept through the Grand Canyon, park officials said Monday, as search and recovery efforts continued for about 15 people still missing.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/30/Grand_Canyon_Flooding_4_194_s1440x1080.jpg?d091f0ac6a77bac1b6357990e6e1f57b58a17971",
-              "imageAlt": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
@@ -140,203 +399,16 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-          "summary": "Hundreds of hydropower workers are feared trapped in tunnels buried by mud after catastrophic flooding along the Nepal-China border. Rescuers have used explosives to try to reach them as the reported death toll climbed past 950 and families continued searching for missing relatives.",
+          "title": "Trump’s Army Secretary Makes Surprise Move After Reported Hegseth Clash",
+          "summary": "US Army Secretary Dan Driscoll submitted his resignation to President Donald Trump after months of reported disagreements with Defense Secretary Pete Hegseth. Reports said Driscoll was expected to leave the Pentagon within days and described him as the second senior military secretary to depart.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-              "excerpt": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
-              "imageAlt": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/31/hundreds-feared-stuck-hydropower-tunnels-flood-deaths-exceed-950/",
-              "source": "Washington Times",
-              "headline": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-              "excerpt": "Rescuers raced Monday to free hundreds of workers believed to be trapped in tunnels at hydropower sites that were buried in mud by catastrophic flooding on the Nepal-China border, as the death toll climbed and increasingly desperate families searched for missing loved ones.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/31/APTOPIX_Nepal_Flash_Floods_96155_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
-          "imageAlt": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties",
-          "summary": "US Treasury Secretary Scott Bessent is meeting G20 finance ministers as Washington seeks support for its economic pressure campaign against Iran. Bessent warned that Iran could face economic collapse within months, while US tariffs on allies and the war's effect on fuel prices are straining relations.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
-              "excerpt": "Treasury Secretary Scott Bessent weighs in on the US's economic pressure campaign at a meeting of G20 finance ministers.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a95a470-1788191856.jpg?resize=1920%2C1440",
-              "imageAlt": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/31/scott-bessent-huddles-g20-try-rally-allies-iran-tariffs-strain-ties/",
-              "source": "Washington Times",
-              "headline": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties",
-              "excerpt": "Treasury Secretary Scott Bessent is meeting with finance ministers of the world's largest economies this week at a time when the United States has disrupted the international order with aggressive tariffs on major allies and an unpopular war on Iran that is keeping gas prices high for consumers.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/30/Bessent_Interview_33167_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a95a470-1788191856.jpg?resize=1920%2C1440",
-          "imageAlt": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Workers' strike at Kenya's main international airport leaves passengers stranded",
-          "summary": "A workers' strike at Kenya's main international airport in Nairobi has disrupted air traffic and stranded passengers. Kenya Airways said some flights were cancelled and others delayed by more than six hours.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-              "excerpt": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d7/live/202f6720-a545-11f1-aed2-8d6da8d75094.jpg",
-              "imageAlt": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/aug/31/workers-strike-kenyas-main-international-airport-leaving-passengers/",
-              "source": "Washington Times",
-              "headline": "Workers' strike at Kenya's main international airport leaves passengers stranded",
-              "excerpt": "A workers' strike has slowed down air traffic at Kenya's main airport in Nairobi, leaving many travelers stranded after their flights were delayed or canceled.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/31/Kenya_Airport_Strike__8986_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Workers' strike at Kenya's main international airport leaves passengers stranded",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d7/live/202f6720-a545-11f1-aed2-8d6da8d75094.jpg",
-          "imageAlt": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-          "summary": "Eight people were killed and 20 remained missing after a ferry capsized off northern Cyprus on 30 August. Parents described desperate attempts to save their children, with Ayten and Hayri Bicer's two young children among those missing.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/she-is-still-in-the-sea-mother-describes-losing-daughter-in-ferry-disaster?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "She is still in the sea, mother describes losing daughter in ferry disaster",
-              "excerpt": "Parents recount desperate attempts to save their children after a ferry capsized off Northern Cyprus on 30 August.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/WIDE-THUMB-CYPRUS-ORDEAL-1788196928.png?resize=1920%2C1080&quality=80",
-              "imageAlt": "She is still in the sea, mother describes losing daughter in ferry disaster",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-              "excerpt": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png",
-              "imageAlt": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/WIDE-THUMB-CYPRUS-ORDEAL-1788196928.png?resize=1920%2C1080&quality=80",
-          "imageAlt": "She is still in the sea, mother describes losing daughter in ferry disaster",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Kalshi bans George Santos for life over State of the Union price manipulations",
-          "summary": "Prediction market Kalshi has permanently banned former US representative George Santos, its first lifetime exclusion, over wagers tied to whether he would attend President Donald Trump's 2026 State of the Union address. Kalshi said Santos manipulated the contracts and imposed a $71,356 penalty.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/heres-how-george-santos-landed-kalshis-first-ever-lifetime-ban",
+              "url": "https://www.dailywire.com/news/trumps-army-secretary-makes-surprise-move-after-reported-hegseth-clash",
               "source": "Daily Wire",
-              "headline": "Here’s How George Santos Landed Kalshi’s First-Ever Lifetime Ban",
-              "excerpt": "Former Rep. George Santos (R-NY) became the first person ever to receive a lifetime ban from the online prediction market Kalshi. Santos, who was expelled from Congress in 2023, illegally made a series of large bets in February 2026 over whether or not he would attend President Donald Trump’s State of the Union address. The ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2025/10/George-Santos.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Here’s How George Santos Landed Kalshi’s First-Ever Lifetime Ban",
+              "headline": "Trump’s Army Secretary Makes Surprise Move After Reported Hegseth Clash",
+              "excerpt": "Army Secretary Dan Driscoll submitted his resignation to President Donald Trump on Monday after reportedly butting heads with Defense Secretary Pete Hegseth for months. The Wall Street Journal first reported that Driscoll is expected to leave the Pentagon in the coming days, potentially ending the tenure of a key player in Trump’s military overhaul at ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2286578118-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump’s Army Secretary Makes Surprise Move After Reported Hegseth Clash",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -349,45 +421,27 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/aug/31/kalshi-gives-first-lifetime-ban-ex-rep-george-santos-compromised-bets/",
-              "source": "Washington Times",
-              "headline": "Kalshi gives first lifetime ban to ex-Rep. George Santos over compromised bets",
-              "excerpt": "Prediction market Kalshi is issuing its first lifetime ban, against former Rep. George Santos, over betting on his own attendance at President Trump's State of the Union address.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/03/George_Santos_Kalshi_38614_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Kalshi gives first lifetime ban to ex-Rep. George Santos over compromised bets",
-              "outlet": "Washington Times",
+              "url": "https://www.washingtonexaminer.com/policy/defense/4707180/army-secretary-dan-driscoll-resigns-hegseth/",
+              "source": "Washington Examiner",
+              "headline": "Army Secretary Dan Driscoll resigns after monthslong rift with Hegseth",
+              "excerpt": "Army Secretary Dan Driscoll submitted his resignation this week after disagreements with War Secretary Pete Hegseth seeped into the public eye. Driscoll, who is a college friend of Vice President JD Vance, is expected to leave the Pentagon in the coming days, according to multiple outlets The development is notable, as Driscoll is now the second top military secretary in […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/GettyImages-2276599359.jpg?w=594",
+              "imageAlt": "Army Secretary Dan Driscoll resigns after monthslong rift with Hegseth",
+              "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/crime/4706320/kalshi-bans-george-santos-for-life/",
-              "source": "Washington Examiner",
-              "headline": "Kalshi bans George Santos for life over State of the Union price manipulations",
-              "excerpt": "Prediction market company Kalshi permanently banned former Republican Rep. George Santos from its platform Monday and imposed a $71,356 penalty after determining that he manipulated contracts tied to his own attendance at President Donald Trump’s 2026 State of the Union address. Kalshi alleged that Santos placed a series of wagers on whether he would attend […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2025/07/santos.webp?w=696",
-              "imageAlt": "Kalshi bans George Santos for life over State of the Union price manipulations",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2025/10/George-Santos.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Here’s How George Santos Landed Kalshi’s First-Ever Lifetime Ban",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2286578118-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Trump’s Army Secretary Makes Surprise Move After Reported Hegseth Clash",
           "imageCredit": "Daily Wire"
         }
       ]
@@ -397,15 +451,15 @@
       "stories": [
         {
           "title": "The standard you walk past",
-          "summary": "A Spectator Australia commentary examines the health and standards of government through reports about inflation, interest rates, immigration and employment. Its headline, “The standard you walk past,” frames those issues as a question of what conduct or performance governments tolerate.",
+          "summary": "The selected story is titled “The standard you walk past,” but its only linked item concerns how Denmark’s royal family could help defend Greenland from Donald Trump. That Spectator Australia excerpt says Trump has spoken repeatedly about Greenland since becoming president-elect in November 2024, but provides no details supporting the selected title.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/checking-in-on-the-health-of-our-government/",
+              "url": "https://www.spectator.com.au/2026/08/how-denmarks-royals-could-help-defend-greenland-from-donald-trump/",
               "source": "Spectator Australia",
-              "headline": "Checking in on the health of our government",
-              "excerpt": "Once again, this week, I heard reports about inflation, interest rates, immigration, employment, and also sex-related humour. How do we… The post Checking in on the health of our government appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/albanese-think",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2025/09/GettyImages-2213183980.jpg",
-              "imageAlt": "Checking in on the health of our government",
+              "headline": "How Denmark’s royals could help defend Greenland from Donald Trump",
+              "excerpt": "Donald Trump’s bloviation about Greenland has been near-constant since he became president elect in November 2024. In the intervening period,… The post How Denmark’s royals could help defend Greenland from Donald Trump appeared first on The Spectator Australia . What to read next: <a href=\"",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages_2288106369_e1787922117386.jpg",
+              "imageAlt": "How Denmark’s royals could help defend Greenland from Donald Trump",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -419,21 +473,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2025/09/GettyImages-2213183980.jpg",
-          "imageAlt": "Checking in on the health of our government",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages_2288106369_e1787922117386.jpg",
+          "imageAlt": "How Denmark’s royals could help defend Greenland from Donald Trump",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Property downturn worsens with buyer activity 'particularly low'",
-          "summary": "Australian house prices have fallen for a fifth consecutive month, according to property data firm Cotality. The downturn has spread to 93 per cent of suburbs in the capital cities, while buyer activity is described as particularly low.",
+          "title": "Messi's legendary run for Argentina almost never happened after heartbreak",
+          "summary": "Lionel Messi has ended his international football career with legendary status in Argentina. ABC News says that run almost did not happen because Messi had previously announced his retirement after heartbreak, before returning and reaching the heights that defined his national-team career.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-09-01/property-prices-downturn-accelerates/107098796",
+              "url": "https://www.abc.net.au/news/2026-09-01/lionel-messi-argentina-world-up-success-almost-never-happened/107100750",
               "source": "ABC Australia",
-              "headline": "Property downturn worsens with buyer activity 'particularly low'",
-              "excerpt": "Australian house prices have fallen for a fifth straight month, according to property data firm Cotality. It says the downturn has now spread to 93 per cent of suburbs in the nation's capital cities.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/64b96bb41395ca9301d3256473514489?impolicy=wcms_crop_resize&cropH=1754&cropW=3118&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Property downturn worsens with buyer activity 'particularly low'",
+              "headline": "Messi's legendary run for Argentina almost never happened after heartbreak",
+              "excerpt": "Lionel Messi ends his international football career as a living legend with a God-like status in his country, but the dizzying heights the great man reached almost never happened if he had stuck to his original retirement.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c81a6f6a9ac1f83e903e8497c86bcfbf?impolicy=wcms_crop_resize&cropH=2136&cropW=3797&xPos=0&yPos=198&width=862&height=485",
+              "imageAlt": "Messi's legendary run for Argentina almost never happened after heartbreak",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -442,19 +496,19 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/64b96bb41395ca9301d3256473514489?impolicy=wcms_crop_resize&cropH=1754&cropW=3118&xPos=0&yPos=0&width=862&height=485",
-          "imageAlt": "Property downturn worsens with buyer activity 'particularly low'",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c81a6f6a9ac1f83e903e8497c86bcfbf?impolicy=wcms_crop_resize&cropH=2136&cropW=3797&xPos=0&yPos=198&width=862&height=485",
+          "imageAlt": "Messi's legendary run for Argentina almost never happened after heartbreak",
           "imageCredit": "ABC News"
         },
         {
           "title": "Barack Obama, JFK and … Josh Frydenberg: what can a memoir do for an ambitious politician?",
-          "summary": "Former Australian treasurer Josh Frydenberg has a memoir due for release, presented as a coming-of-age story, family history and account of the pandemic. The Guardian considers whether such a book can help revive political ambitions, noting that memoirs have not always delivered renewal for former politicians.",
+          "summary": "Former Australian treasurer Josh Frydenberg has a memoir due to be published by HarperCollins Australia. The book is being marketed as a coming-of-age story, family history and pandemic retrospective, as well as a reflection on political power and the personal cost of public life. The Guardian examines whether memoirs can help ambitious politicians renew their public careers.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/2026/aug/31/obama-jfk-and-josh-frydenberg-australian-treasurer-political-memoir",
@@ -481,16 +535,16 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "The real reason dating apps are so flawed",
-          "summary": "A Spectator Australia commentary argues for bringing back a privileged class, opening with a family's annual trip to a tennis tournament in Hunstanton. The story is presented in the digest under the broader title “The real reason dating apps are so flawed,” although the supplied excerpt does not detail that argument.",
+          "title": "Have we lost the plot when it comes to dogs?",
+          "summary": "The selected story is titled “Have we lost the plot when it comes to dogs?”, but its only linked item is a Spectator Australia article arguing that Harry and Meghan deserve a second chance. The available headline and excerpt contain no information about dogs or evidence supporting the selected title.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/08/bring-back-the-privileged-class/",
+              "url": "https://www.spectator.com.au/2026/08/harry-and-meghan-deserve-a-second-chance/",
               "source": "Spectator Australia",
-              "headline": "Bring back the privileged class",
-              "excerpt": "It has become a summer ritual for the Young family to attend the annual tennis tournament in Hunstanton, a Victorian… The post Bring back the privileged class appeared first on The Spectator Australia . What to read next: White wo",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/Toby_iStock_499753582.png",
-              "imageAlt": "Bring back the privileged class",
+              "headline": "Harry and Meghan deserve a second chance",
+              "excerpt": "A little while back I came across a copy of Ted Hughes’s Laureate poems which had an inscription to some… The post Harry and Meghan deserve a second chance appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/middle-england-is-finally-waking-up-to-the-migrant-",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/Douglas_Murray_GettyImages_906665892_6953f3.jpg",
+              "imageAlt": "Harry and Meghan deserve a second chance",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -504,8 +558,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/Toby_iStock_499753582.png",
-          "imageAlt": "Bring back the privileged class",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/08/Douglas_Murray_GettyImages_906665892_6953f3.jpg",
+          "imageAlt": "Harry and Meghan deserve a second chance",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -514,16 +568,34 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
-          "summary": "Tim Cook's farewell memo to Apple employees presents John Ternus as an experienced product builder who has worked across the iPhone, Mac, AirPods and other major hardware lines. The message offers a glimpse of how Cook wants Apple's next leader to be seen as he departs.",
+          "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+          "summary": "The US Federal Trade Commission and 22 state attorneys general sued Amazon over allegations that it secretly and systematically overcharged businesses for advertising. The complaint characterises the practice as a hidden advertising surcharge scheme.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+              "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+              "source": "The Verge",
+              "headline": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+              "excerpt": "The FTC and 22 state attorneys general are <a href=\"https://ww",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
               "source": "TechCrunch",
-              "headline": "Tim Cook’s parting message: Apple is in the hands of a product builder",
-              "excerpt": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods and other major hardware lines",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook_Full-Bleed-Image.jpg.xlarge_2x.jpg?resize=1200,675",
-              "imageAlt": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+              "headline": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+              "excerpt": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
+              "imageAlt": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -537,13 +609,59 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook_Full-Bleed-Image.jpg.xlarge_2x.jpg?resize=1200,675",
-          "imageAlt": "Tim Cook’s parting message: Apple is in the hands of a product builder",
-          "imageCredit": "TechCrunch"
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+          "summary": "Longtime Apple executive Phil Schiller is stepping down from his leadership roles overseeing the App Store and Apple events as Tim Cook leaves the chief executive position. TechCrunch reports that Schiller is not leaving Apple immediately, but employees view the move as another step toward his retirement.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
+              "source": "The Verge",
+              "headline": "Phil Schiller is leaving his biggest jobs at Apple",
+              "excerpt": "Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a <a href",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1173663853.jpg?quality=90&strip=all&crop=0%2C13.753523962948%2C100%2C72.492952074104&w=1200",
+              "imageAlt": "Phil Schiller is leaving his biggest jobs at Apple",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+              "source": "TechCrunch",
+              "headline": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+              "excerpt": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1660777497.jpg?resize=1200,799",
+              "imageAlt": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results), (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1173663853.jpg?quality=90&strip=all&crop=0%2C13.753523962948%2C100%2C72.492952074104&w=1200",
+          "imageAlt": "Phil Schiller is leaving his biggest jobs at Apple",
+          "imageCredit": "The Verge"
         },
         {
           "title": "AI could cause global economic downturn, Bank of England governor tells G20",
-          "summary": "Bank of England governor Andrew Bailey has warned G20 finance ministers and central bank governors that advanced AI models could destabilise the global financial system. He issued the warning in a letter written as chair of the international Financial Stability Board.",
+          "summary": "Bank of England governor Andrew Bailey warned G20 finance ministers and central-bank governors that advanced artificial intelligence could destabilise the global financial system and cause an economic downturn. Bailey issued the warning in a letter written as chair of the international Financial Stability Board, focusing on risks from frontier AI models.",
           "links": [
             {
               "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
@@ -570,16 +688,268 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Trump says datacenter opponents ‘want to end up being backwards and poor’",
-          "summary": "Donald Trump has criticised US communities resisting local datacenter projects, warning that those rejecting them risk becoming “backwards and poor.” The comments come amid growing backlash and election-year disputes over proposed facilities, with a cited poll finding three-quarters of Americans opposed to datacenters being built near their homes.",
+          "title": "Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it",
+          "summary": "Livestream auctions on TikTok are selling loose lab-grown diamonds at a fraction of the price associated with natural-diamond jewellery. The auctions offer buyers a cheaper route to the gems, but experts warn that their quality is not guaranteed. The trend has also prompted dissatisfaction among some buyers and industry observers.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/aug/22/tiktok-auctions-lab-grown-diamonds",
+              "source": "The Guardian Technology",
+              "headline": "Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it",
+              "excerpt": "Streamed auctions offer a cheap way to buy the precious gems, but experts warn that quality is not guaranteed The first time Andrea Greenhill came across a livestream auction for lab-grown diamonds while scrolling on TikTok, she was stunned. While the diamond engagement ring her husband proposed with years ago had cost thousands of dollars, these loose lab-grown diamonds were selling in seconds at a fraction of the price. “I have two rings that are both natural diamonds and cost a",
+              "imageUrl": "https://i.guim.co.uk/img/media/bd1e7d2c1a88efaa0778163a0385bae1d03c98c7/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=4e22d2b9127aa2121fa263428df8e8dd",
+              "imageAlt": "Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/bd1e7d2c1a88efaa0778163a0385bae1d03c98c7/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=4e22d2b9127aa2121fa263428df8e8dd",
+          "imageAlt": "Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "summary": "Ring’s top video doorbell has been updated with a 4K camera, improved Wi-Fi, a sleeker design and new AI features. The Video Doorbell Pro 3 is offered in wired and battery versions while retaining Ring’s familiar two-tone styling, button, logo and ringtone. The Guardian’s review describes the camera improvement as a major upgrade.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review",
+              "source": "The Guardian Technology",
+              "headline": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "excerpt": "Camera, wifi and design updates bring welcome upgrades to Ring’s top model in wired or battery flavour Ring’s recent revamp of its popular video doorbells with a more modern design is led by the top-of-the-line Video Doorbell Pro 3, which gains much-needed upgrades with a 4K camera and better wifi plus new interesting AI features. The new doorbells are sleeker but keep the unmistakable two-tone Ring colour scheme, button, logo and ringtone. Battery models start at £80 or equivalen",
+              "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+              "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+          "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "House panel ends OP budget briefing in less than an hour",
+          "summary": "A Philippine House appropriations committee ended its briefing on the Office of the President’s proposed 2027 budget in under an hour, invoking parliamentary courtesy despite objections from minority lawmakers. Executive Secretary Ralph Recto presented a proposed presidential-office budget of P10.156 billion. Rappler reported that President Ferdinand Marcos Jr sought P4.58 billion in confidential funds, nearly half of the proposal.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2296454/house-panel-ends-op-budget-briefing-in-less-than-an-hour",
+              "source": "Philippine Daily Inquirer",
+              "headline": "House panel ends OP budget briefing in less than an hour",
+              "excerpt": "MANILA, Philippines — The House of Representatives committee on appropriations’ budget briefing on the proposed budget of the Office of the President (OP) in 2027 was terminated in less than an hour as part of parliamentary courtesy despite objections from some minority lawmakers. Executive Secretary Ralph Recto presented the OP’s proposed budget of P10,156,000,000, which",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2023/08/HOUSE-OF-REPRESENTATIVES-LOGO.png",
+              "imageAlt": "House panel ends OP budget briefing in less than an hour",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/office-president-2027-budget/",
+              "source": "Rappler World",
+              "headline": "Marcos wants P4.58-B confidential funds for 2027 — almost half of proposed OP budget",
+              "excerpt": "Observing the long-held tradition of parliamentary courtesy, the House appropriations committee approves the proposed budget of the Office of the President",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/07/marcos-5th-sona-congress-july-27-2026-017-scaled.jpg",
+              "imageAlt": "Marcos wants P4.58-B confidential funds for 2027 — almost half of proposed OP budget",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2023/08/HOUSE-OF-REPRESENTATIVES-LOGO.png",
+          "imageAlt": "House panel ends OP budget briefing in less than an hour",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Conservation drive intensifies to save rare Rafflesia in Samar town",
+          "summary": "Conservation officials in Samar are intensifying efforts to protect the endangered Samar rafflesia near Basey. The action follows signs of possible illegal timber poaching and other human disturbance in areas where the rare plant grows. The Samar Island Natural Park management office and the Basey local government have begun a joint communication and conservation effort.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2296462/conservation-drive-intensifies-to-save-rare-rafflesia-in-samar-town",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Conservation drive intensifies to save rare Rafflesia in Samar town",
+              "excerpt": "TACLOBAN CITY— Conservation officials are stepping up efforts to protect one of Samar’s rarest treasures after signs of possible illegal timber poaching and other human disturbances near areas where the endangered Samar rafflesia grows. The Protected Area Management Office–Samar Island Natural Park (PAMO-SINP), in partnership with the local government unit of Basey, recently conducted a communication,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/samar-rafflesia-01sept2026.png",
+              "imageAlt": "Conservation drive intensifies to save rare Rafflesia in Samar town",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/samar-rafflesia-01sept2026.png",
+          "imageAlt": "Conservation drive intensifies to save rare Rafflesia in Samar town",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Pilandok intensifies into tropical storm Tuesday morning",
+          "summary": "Tropical depression Pilandok intensified into a tropical storm on Tuesday morning and was assigned the international name Krovanh. The Philippine state weather bureau, Pagasa, said the system reached tropical-storm strength at about 8 a.m. in its 10 a.m. cyclone update.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2296423/pilandok-intensifies-into-tropical-storm-tuesday-morning",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Pilandok intensifies into tropical storm Tuesday morning",
+              "excerpt": "MANILA, Philippines — Tropical depression Pilandok intensified into a tropical storm (international name: Krovanh) on Tuesday morning, according to the state weather bureau. In its latest tropical cyclone formation outlook update issued at 10 a.m., the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said that Pilandok developed into a tropical storm as of 8",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/image-1.png",
+              "imageAlt": "Pilandok intensifies into tropical storm Tuesday morning",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/image-1.png",
+          "imageAlt": "Pilandok intensifies into tropical storm Tuesday morning",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "2027 budget vulnerable to politicking, watchdog warns",
+          "summary": "Budget watchdogs warned that the Philippines’ proposed P7.2 trillion national budget for 2027 could be vulnerable to political manipulation before the 2028 elections. They said billions of pesos allocated to discretionary and localised projects could be used for patronage even as the government faces shrinking fiscal space.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2296152/2027-budget-vulnerable-to-politicking-watchdog-warns",
+              "source": "Philippine Daily Inquirer",
+              "headline": "2027 budget vulnerable to politicking, watchdog warns",
+              "excerpt": "MANILA, Philippines — The proposed P7.2-trillion national government budget for 2027 is vulnerable to political manipulation ahead of the 2028 elections, with budget watchdogs warning that billions of pesos in discretionary and localized projects could be used for patronage despite shrinking fiscal space. Kenneth Abante, coconvener of the People’s Budget Coalition, said the national expenditure",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/House-of-Representatives-congress-1September2026.jpg",
+              "imageAlt": "2027 budget vulnerable to politicking, watchdog warns",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/House-of-Representatives-congress-1September2026.jpg",
+          "imageAlt": "2027 budget vulnerable to politicking, watchdog warns",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Sandiganbayan acquits ex-Plant industry execs linked to ‘garlic cartel’",
+          "summary": "The Sandiganbayan’s Fifth Division acquitted two former Bureau of Plant Industry officials and several entrepreneurs of graft charges tied to alleged manipulation of garlic prices. The court ruled that prosecutors had failed to prove the defendants’ guilt beyond a reasonable doubt.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2296475/sandiganbayan-acquits-ex-plant-industry-execs-linked-to-garlic-cartel",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Sandiganbayan acquits ex-Plant industry execs linked to ‘garlic cartel’",
+              "excerpt": "MANILA, Philippines — The Sandiganbayan Fifth Division acquitted two former Bureau of Plant Industry (BPI) officials and several entrepreneurs of graft charges in connection with the alleged manipulation of garlic prices. In a decision promulgated on Tuesday, the court said the prosecution failed to prove the accused’s guilt beyond a reasonable doubt. Among those acquitted",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2025/10/1111518.jpeg",
+              "imageAlt": "Sandiganbayan acquits ex-Plant industry execs linked to ‘garlic cartel’",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2025/10/1111518.jpeg",
+          "imageAlt": "Sandiganbayan acquits ex-Plant industry execs linked to ‘garlic cartel’",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+          "summary": "In a farewell memo to Apple employees, outgoing chief executive Tim Cook presented successor John Ternus as an experienced product builder. Cook highlighted Ternus’s work across major Apple hardware lines including the iPhone, Mac and AirPods.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+              "source": "TechCrunch",
+              "headline": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+              "excerpt": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware lines.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook_Full-Bleed-Image.jpg.xlarge_2x.jpg?resize=1200,675",
+              "imageAlt": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook_Full-Bleed-Image.jpg.xlarge_2x.jpg?resize=1200,675",
+          "imageAlt": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Trump attacks datacenter backlash, claiming communities pushing back risk becoming ‘backwards and poor’",
+          "summary": "Donald Trump criticised US communities opposing local datacentre projects, warning that those rejecting them risk becoming “backwards and poor.” The comments came amid growing controversy over proposed facilities in election campaigns before the November midterms. A recent poll cited by The Guardian found that three-quarters of Americans opposed having datacentres built next to their homes.",
           "links": [
             {
               "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments",
               "source": "The Guardian Technology",
-              "headline": "Trump says datacenter opponents ‘want to end up being backwards and poor’",
+              "headline": "Trump attacks datacenter backlash, claiming communities pushing back risk becoming ‘backwards and poor’",
               "excerpt": "Three-quarters of Americans said in a recent poll that they oppose datacenters being built next to their homes Donald Trump has criticized communities pushing back against datacenter projects across the US amid a growing backlash, warning those that reject them risk becoming “backwards and poor”. As controversy surrounding local datacenter plans continues to swirl around election campaigns nationwide ahead of November’s midterm elections, the US president declared Americans “will",
               "imageUrl": "https://i.guim.co.uk/img/media/4e43275a34fc1f9ad0b5ccfc78afb985d764000d/90_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=21a94f3da43639216c47f8c5dfeb4573",
-              "imageAlt": "Trump says datacenter opponents ‘want to end up being backwards and poor’",
+              "imageAlt": "Trump attacks datacenter backlash, claiming communities pushing back risk becoming ‘backwards and poor’",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -594,12 +964,12 @@
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/4e43275a34fc1f9ad0b5ccfc78afb985d764000d/90_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=21a94f3da43639216c47f8c5dfeb4573",
-          "imageAlt": "Trump says datacenter opponents ‘want to end up being backwards and poor’",
+          "imageAlt": "Trump attacks datacenter backlash, claiming communities pushing back risk becoming ‘backwards and poor’",
           "imageCredit": "The Guardian"
         },
         {
           "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
-          "summary": "Doctors have developed an AI tool that can detect heart disease from a routine electrocardiogram in less than two seconds. Trained on millions of patient records, it extracts signals beyond what the human eye typically sees and could help fast-track high-risk patients for treatment.",
+          "summary": "Doctors have developed an AI system that can identify heart disease from a routine electrocardiogram in under two seconds. Trained on data from millions of patients, the tool extracts patterns from ECGs that the human eye may not detect. Its developers say it could help fast-track high-risk patients for treatment.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
@@ -627,7 +997,7 @@
         },
         {
           "title": "Rise of Chicken Shop Date highlights how YouTube turned the tables on TV",
-          "summary": "Amelia Dimoldenberg says publicists ignored her YouTube interview series Chicken Shop Date for years, after even securing a local actor initially took a long time. Its rise now lets her be selective about A-list guests, illustrating how YouTube creators have gained leverage once held by television.",
+          "summary": "Amelia Dimoldenberg’s YouTube interview series Chicken Shop Date has grown from a show that struggled to attract mainstream celebrities into one able to choose among A-list guests. Its success illustrates how YouTube formats and creators have gained influence once held by traditional television. Dimoldenberg said publicists ignored the mock-date show for years before its audience and status grew.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/aug/31/amelia-dimoldenberg-chicken-shop-date-youtube-tv",
@@ -652,188 +1022,10 @@
           "imageUrl": "https://i.guim.co.uk/img/media/32558fa9addd419a717ed33ab92bba09519a40d4/1024_462_1404_1123/master/1404.jpg?width=140&quality=85&auto=format&fit=max&s=548088c4fbcf7a3a0c66a1e02e570118",
           "imageAlt": "Rise of Chicken Shop Date highlights how YouTube turned the tables on TV",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "WALANG PASOK: Palace suspends in-person classes, work in 15 Luzon areas",
-          "summary": "The Philippine Palace suspended in-person classes and work in 15 areas of Luzon as heavy rain threatened the region. The state weather bureau said the southwest monsoon, enhanced by Tropical Depression Pilandok, could bring heavy to intense rainfall from Monday afternoon into Tuesday.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2295975/heavy-rainfall-forecast-over-parts-of-luzon-on-tuesday",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Heavy rains to drench parts of Luzon on Sept. 1",
-              "excerpt": "MANILA, Philippines — Heavy rainfall is expected in parts of Luzon from Monday afternoon to Tuesday afternoon due to the southwest monsoon, which is being enhanced by Tropical Depression Pilandok, the state weather bureau reported. Based on its 5 p.m. weather advisory, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) said heavy to intense",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2021/05/weather-update-rain1.jpg",
-              "imageAlt": "Heavy rains to drench parts of Luzon on Sept. 1",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2021/05/weather-update-rain1.jpg",
-          "imageAlt": "Heavy rains to drench parts of Luzon on Sept. 1",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "NLEX operator sorry for heavy traffic, vows for concrete flood barriers",
-          "summary": "The operator of the North Luzon Expressway has apologised after severe flooding made sections impassable and stranded motorists in heavy traffic. Metro Pacific Tollways Corporation said it understood public frustration and promised concrete flood barriers.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2295985/nlex-operator-sorry-for-heavy-traffic-vows-for-concrete-flood-barriers",
-              "source": "Philippine Daily Inquirer",
-              "headline": "NLEX operator sorry for heavy traffic, vows for concrete flood barriers",
-              "excerpt": "MANILA, Philippines — The Metro Pacific Tollways Corporation, operator of the North Luzon Expressway (NLEX), has apologized to motorists who have been stranded in some sections of the expressway, which were rendered impassable because of severe flooding. The management, it said, understands the public’s frustration, saying it is “deeply sorry” for what motorists, especially those",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Nlex-traffic-flood-31August2026_3.jpg",
-              "imageAlt": "NLEX operator sorry for heavy traffic, vows for concrete flood barriers",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Nlex-traffic-flood-31August2026_3.jpg",
-          "imageAlt": "NLEX operator sorry for heavy traffic, vows for concrete flood barriers",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Motorcycle theft suspects slain in shootout with cops in Sultan Kudarat",
-          "summary": "Police in Esperanza, Sultan Kudarat, said two suspected motorcycle thieves were killed after exchanging gunfire with officers during a pursuit on Sunday night. The chase began after police responded to a reported theft in Barangay Laguinding at about 11:30 p.m.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2296022/motorcycle-theft-suspects-slain-in-shootout-with-cops-in-sultan-kudarat",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Motorcycle theft suspects slain in shootout with cops in Sultan Kudarat",
-              "excerpt": "COTABATO CITY — Police in Esperanza, Sultan Kudarat, neutralized two suspected motorcycle thieves who traded shots with lawmen during pursuit operations on Sunday evening, Aug. 30. Maj. Jeffrey Lazaro, chief of the Esperanza Municipal Police Station, said police responded to a reported motorcycle theft in Barangay Laguinding, Esperanza, at 11:30 p.m. and chased two men fleeing",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Sultan-Kudarat-map-filephoto-091422.jpg",
-              "imageAlt": "Motorcycle theft suspects slain in shootout with cops in Sultan Kudarat",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Sultan-Kudarat-map-filephoto-091422.jpg",
-          "imageAlt": "Motorcycle theft suspects slain in shootout with cops in Sultan Kudarat",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Marcos orders national response as NCR, Central Luzon floods persist",
-          "summary": "President Ferdinand Marcos Jr. ordered a national response and planned to meet key agencies as severe flooding persisted across Metro Manila and Central Luzon. Malacañang said government assistance would continue for residents whose communities remained submerged.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2295834/marcos-orders-national-response-as-ncr-central-luzon-floods-persist",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Marcos orders national response as NCR, Central Luzon floods persist",
-              "excerpt": "MANILA, Philippines — President Ferdinand Marcos Jr. will meet with key government agencies on Monday to assess the impact of severe flooding in Central Luzon and Metro Manila, as Malacañang assured residents still submerged in floodwaters that government assistance would continue. Palace press officer Claire Castro said Marcos would convene officials from the Department of",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Flood-Sta-Fe-in-San-Marcelino-Zambales21aug2026.jpg",
-              "imageAlt": "Marcos orders national response as NCR, Central Luzon floods persist",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Flood-Sta-Fe-in-San-Marcelino-Zambales21aug2026.jpg",
-          "imageAlt": "Marcos orders national response as NCR, Central Luzon floods persist",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Allegations against Romualdez ‘no longer credible,’ says lawyer",
-          "summary": "Lawyer Antonio “Audie” Bucoy said retired marine Orly Guteza's recantation had undermined allegations against former Philippine House speaker Martin Romualdez in a flood-control scandal. Bucoy argued that the remaining claims by the 14 Maleta Boys were therefore no longer credible.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2295826/allegations-against-romualdez-no-longer-credible-says-lawyer",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Allegations against Romualdez ‘no longer credible,’ says lawyer",
-              "excerpt": "MANILA, Philippines — Retired marine Orly Guteza’s recantation of his original testimony involving the flood control scandal has undermined the allegations of the remaining 14 Maleta Boys, making it no longer credible, a public interest and human rights lawyer said. Litigation lawyer Antonio “Audie” Bucoy made the pronouncement in defense of former Speaker Martin Romualdez,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/1250563.jpeg",
-              "imageAlt": "Allegations against Romualdez ‘no longer credible,’ says lawyer",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/1250563.jpeg",
-          "imageAlt": "Allegations against Romualdez ‘no longer credible,’ says lawyer",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "How AI could make it harder for governments to use hacking tools",
-          "summary": "AI is becoming effective at both finding and exploiting software vulnerabilities. Some observers say faster discovery could make it harder for governments to retain exclusive hacking tools and spyware, while potentially reviving demands for device backdoors.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
-              "source": "TechCrunch",
-              "headline": "How AI could make it harder for governments to use hacking tools",
-              "excerpt": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675",
-              "imageAlt": "How AI could make it harder for governments to use hacking tools",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675",
-          "imageAlt": "How AI could make it harder for governments to use hacking tools",
-          "imageCredit": "TechCrunch"
         },
         {
           "title": "Gems, ghosts and GTA VI: the biggest video games for autumn 2026",
-          "summary": "The Guardian's autumn 2026 games preview spans independent releases and blockbusters including GTA VI, Marvel's Wolverine and Call of Duty. It also highlights Capcom's returning action-adventure series, which pits samurai Miyamoto Musashi against warriors and demons in Edo-period Kyoto.",
+          "summary": "The Guardian’s autumn 2026 games preview highlights major releases and independent titles, including Marvel’s Wolverine, Call of Duty and Grand Theft Auto VI. It also features Capcom’s returning action-adventure series, which places samurai Miyamoto Musashi against warriors and demons in Edo-period Kyoto after a 20-year absence.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/ng-interactive/2026/aug/31/the-biggest-video-games-for-autumn-2026-gta-vi",
@@ -857,90 +1049,6 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/a95b6e98ec3ef6b27e5d0b2f6df20a239c228a51/2_0_9996_8000/master/9996.jpg?width=140&quality=85&auto=format&fit=max&s=dfebf1b817216770e47fdbce8dcf962d",
           "imageAlt": "Gems, ghosts and GTA VI: the biggest video games for autumn 2026",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "I've tested dozens of items to perfect my work-from-home setup. These 13 make all the difference",
-          "summary": "A Guardian guide recommends 13 tested upgrades for a more effective home-office setup. Its selections range from inexpensive speakers to a stand that can turn an iPad into a second monitor, alongside related advice on wireless earbuds.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter-us/2026/aug/31/best-work-from-home-office-setup-upgrades",
-              "source": "The Guardian Technology",
-              "headline": "I've tested dozens of items to perfect my work-from-home setup. These 13 make all the difference",
-              "excerpt": "Build a home office you’ll actually enjoying working from with tried-and-true upgrades – from inexpensive speakers to a stand that can turn an iPad into a second monitor The best wireless earbuds in the US – tested Sign up for the Filter US new",
-              "imageUrl": "https://i.guim.co.uk/img/media/e45d07612437fc6455bc344d1fff392e03f233b2/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=ab638b240faa642da3411c13f0e7c14f",
-              "imageAlt": "I've tested dozens of items to perfect my work-from-home setup. These 13 make all the difference",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/e45d07612437fc6455bc344d1fff392e03f233b2/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=ab638b240faa642da3411c13f0e7c14f",
-          "imageAlt": "I've tested dozens of items to perfect my work-from-home setup. These 13 make all the difference",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
-          "summary": "A Guardian buying guide compares vacuum cleaners for hard floors, carpets and pet hair in the UK. The tested recommendations cover handheld, corded, self-emptying and stick models, with additional guidance on cordless options and extending a vacuum's life.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested",
-              "source": "The Guardian Technology",
-              "headline": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
-              "excerpt": "From handheld to corded, self-emptying to stick models, these are our resident cleaner’s favourite vacuums for a spotless home • The best cordless vacuum cleaners, tested • How to make your vacuum cleaner last longer Buying a vacuu",
-              "imageUrl": "https://i.guim.co.uk/img/media/f20f01f9f78a8d7a1b08eee15a1cf65e298fd2f6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4ce017630cd37bc97c8d7a5f04ad5776",
-              "imageAlt": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/f20f01f9f78a8d7a1b08eee15a1cf65e298fd2f6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4ce017630cd37bc97c8d7a5f04ad5776",
-          "imageAlt": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
-          "summary": "A Guardian opinion article argues that fears of an AI datacenter buildout “debt bomb” are exaggerated and do not amount to another Enron. Gene Marks says the financing risks facing major builders such as Meta differ from past crises and are recoverable.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-              "source": "The Guardian Technology",
-              "headline": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0",
-              "excerpt": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” crisis because big datacenter builders such as Meta ,",
-              "imageUrl": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg?width=140&quality=85&auto=format&fit=max&s=f50cffb2d718ac8b103c50bfb2b1bed0",
-              "imageAlt": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg?width=140&quality=85&auto=format&fit=max&s=f50cffb2d718ac8b103c50bfb2b1bed0",
-          "imageAlt": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
           "imageCredit": "The Guardian"
         }
       ]
