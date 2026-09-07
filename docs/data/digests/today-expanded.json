@@ -2,24 +2,125 @@
   "id": "2026-09-07-expanded",
   "date": "2026-09-07",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-07T03:00:18.969362",
+  "generatedAt": "2026-09-07T12:30:21.229109",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-07T03:00:18",
+  "updatedAt": "2026-09-07T12:30:21",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "AfD Wins Historic Victory in State Election, But German Establishment May Hold Onto Power",
-          "summary": "Germany's far-right Alternative for Germany won a commanding first-place finish in the Saxony-Anhalt state election on Sunday, with exit polls projecting the party at over 44% of the vote, far ahead of the conservative CDU on 18.4%. Party leaders hailed the result as historic, though it remained unclear whether the AfD could form a government as other parties have ruled out coalition with them. The election could bring the first far-right state government to power in Germany's post-World War II history.",
+          "title": "Amazon Cargo Jet Skids Off Runway, Bursts Into Flames Outside Miami Airport",
+          "summary": "An Amazon Prime Air Boeing 767 overran a runway while landing at Miami International Airport, broke through the airport perimeter and struck vehicles before catching fire. Officials said five people were killed and five seriously injured, while the Federal Aviation Administration closed the airport after the crash.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-              "excerpt": "Party hails 'historic' result, but it is not immediately clear whether it will be able to form a government.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9d968a1172-1788712586.jpg?resize=1920%2C1440",
-              "imageAlt": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+              "headline": "Amazon Prime plane overruns runway at Miami Airport",
+              "excerpt": "An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-22.05.04-1788728816.png?resize=1200%2C675",
+              "imageAlt": "Amazon Prime plane overruns runway at Miami Airport",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Five dead after Amazon cargo plane crashes at Miami airport",
+              "excerpt": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8f2/live/4a70f2d0-aa39-11f1-9023-2129273d2865.jpg",
+              "imageAlt": "Five dead after Amazon cargo plane crashes at Miami airport",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/amazon-cargo-jet-skids-off-runway-bursts-into-flames-outside-miami-airport",
+              "source": "Daily Wire",
+              "headline": "Amazon Cargo Jet Skids Off Runway, Bursts Into Flames Outside Miami Airport",
+              "excerpt": "A Boeing 767 cargo jet flying for Amazon’s Prime Air network skidded off a runway at Miami International Airport on Sunday afternoon, tore through the airport’s perimeter fence, and slammed into vehicles on a nearby road, according to federal officials and video from the scene. The Federal Aviation Administration said 21 Air Flight 7598 ran ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2293852643-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Amazon Cargo Jet Skids Off Runway, Bursts Into Flames Outside Miami Airport",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/policy/infrastructure/4715646/at-least-five-dead-miami-plane-crash/",
+              "source": "Washington Examiner",
+              "headline": "At least five people dead in Miami plane crash: Officials",
+              "excerpt": "At least five people are dead and five more have been injured after an Amazon cargo plane crashed and ran off the runway at Miami International Airport on Sunday afternoon. “At approximately 1:58 p.m. this afternoon, a cargo plane crashed at Miami International Airport as it overran runway number 30,” Miami-Dade County Sheriff Rosie Cordero-Stutz […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26249757415881-e1788736171981.jpg?w=696",
+              "imageAlt": "At least five people dead in Miami plane crash: Officials",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/6/least-5-dead-following-cargo-plane-crash-miami-international-airport/",
+              "source": "Washington Times",
+              "headline": "FAA closes Miami airport following cargo plane crash",
+              "excerpt": "The Federal Aviation Administration closed Miami International Airport Sunday after a cargo plane overshot the runway, plowed over a road and crashed into a parking lot full of electric vehicles.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2024/07/21/Airport-Stabbing_60596_s1440x952.jpg?6843da031ea6571bc749205ad6b9fea9fe60745f",
+              "imageAlt": "FAA closes Miami airport following cargo plane crash",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-22.05.04-1788728816.png?resize=1200%2C675",
+          "imageAlt": "Amazon Prime plane overruns runway at Miami Airport",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "German right-wing party set for strong win in regional election but uncertain of governing",
+          "summary": "Alternative for Germany won a strong victory in Saxony-Anhalt's regional election but fell short of an outright majority. The result leaves the far-right party's effort to form Germany's first state-level government of its kind since World War II uncertain, while dealing a major setback to Chancellor Friedrich Merz's party.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Can AfD form Germany’s first far-right state government since World War II?",
+              "excerpt": "Germany’s far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788727821.jpg?resize=1618%2C1080&quality=80",
+              "imageAlt": "Can AfD form Germany’s first far-right state government since World War II?",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,30 +133,30 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/09/06/afd-wins-historic-victory-in-saxony-anhalt-state-elections-but-german-establishment-may-keep-them-out-of-power/",
-              "source": "Breitbart",
-              "headline": "AfD Wins Historic Victory in State Election, But German Establishment May Hold Onto Power",
-              "excerpt": "The anti-mass migration Alternative for Germany appears set for a historic victory on Sunday, with the party securing a commanding first-place finish in the Saxony-Anhalt state elections. The post AfD Wins Historic Victory in State Election, But German Establishment May Hold Onto Power appeared first on",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2293362136-1-640x335.jpg",
-              "imageAlt": "AfD Wins Historic Victory in State Election, But German Establishment May Hold Onto Power",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "url": "https://www.washingtonexaminer.com/news/world/4715528/german-afd-party-win-regional-election/",
+              "source": "Washington Examiner",
+              "headline": "German right-wing party set for strong win in regional election but uncertain of governing",
+              "excerpt": "MAGDEBURG, Germany (AP) — The right-wing Alternative for Germany was projected to win a strong victory in a regional election Sunday, but it wasn’t immediately clear whether it would be able to fulfill its ambition of forming the country’s first right-wing state government since World War II. The party’s 35-year-old charismatic candidate for governor of […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26249342617188-e1788718470580.jpg?w=696",
+              "imageAlt": "German right-wing party set for strong win in regional election but uncertain of governing",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "German far-right set for big win in eastern state - projections",
-              "excerpt": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
-              "imageAlt": "German far-right set for big win in eastern state - projections",
+              "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
+              "excerpt": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/23835360-a882-11f1-824a-0fc4c5d895ae.jpg",
+              "imageAlt": "Germany's far-right AfD bids for first taste of power in eastern vote",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -69,12 +170,30 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/6/eastern-german-region-votes-election-could-bring-first-far-right/",
+              "url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
+              "source": "Fox News",
+              "headline": "Germany’s far-right party AfD surges to historic victory in state election",
+              "excerpt": "German Chancellor Friedrich Merz's party faces a disastrous blow as AfD aims for Germany's first far-right state government since World War II.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/afd-germany-party-election-results.png?ve=1&tl=1",
+              "imageAlt": "Germany’s far-right party AfD surges to historic victory in state election",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/6/far-right-alternative-germany-party-wins-big-regional-election-falls/",
               "source": "Washington Times",
-              "headline": "German region votes in election that could bring first far-right state government to power",
-              "excerpt": "An eastern German region was voting Sunday in an election that could bring to power the first far-right state government in the nation's post-World War II history.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/06/Germany_Election_17188_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "German region votes in election that could bring first far-right state government to power",
+              "headline": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
+              "excerpt": "The far-right Alternative for Germany party surged to a resounding victory in a regional election Sunday, but fell a little short of winning a majority in its quest to form the country's first far-right state government since World War II.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/06/APTOPIX_Germany_Election_75512_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -88,21 +207,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9d968a1172-1788712586.jpg?resize=1920%2C1440",
-          "imageAlt": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788727821.jpg?resize=1618%2C1080&quality=80",
+          "imageAlt": "Can AfD form Germany’s first far-right state government since World War II?",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-          "summary": "Rescue teams in Nepal are searching for survivors trapped inside tunnels at the Chilime hydropower plant, where two people were found alive on Sunday. More than 1,300 people have died and thousands remain missing across the country following devastating floods and landslides, but the discovery raised hopes that more may be rescued. Al Jazeera and the BBC both reported on the ongoing search effort.",
+          "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+          "summary": "Iran says it will announce a restricted zone around the Strait of Hormuz, according to security chief Mohsen Rezaei. The announcement comes after Washington said it struck Iranian oil tankers in response to attacks on US warships, with Iran warning that further attacks would draw a faster, heavier and more painful response.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/nepal-rescuers-search-hydropower-tunnels-for-survivors?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Nepal rescuers search hydropower tunnels for survivors",
-              "excerpt": "Rescue teams are searching for survivors trapped inside tunnels at Nepal’s Chilime hydropower plant.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-15.26.43-1788704931.png?resize=1200%2C675",
-              "imageAlt": "Nepal rescuers search hydropower tunnels for survivors",
+              "headline": "Iran to announce restricted zone outside Strait of Hormuz",
+              "excerpt": "Iran's security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788748909.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Iran to announce restricted zone outside Strait of Hormuz",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -115,12 +234,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-              "excerpt": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/034c61b0-a830-11f1-b808-43cdd10f38ce.jpg",
-              "imageAlt": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+              "headline": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+              "excerpt": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
+              "imageAlt": "Iran warns of 'faster, heavier, more painful response' to US attacks",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -135,21 +254,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-15.26.43-1788704931.png?resize=1200%2C675",
-          "imageAlt": "Nepal rescuers search hydropower tunnels for survivors",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788748909.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Iran to announce restricted zone outside Strait of Hormuz",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Trump Envoys Kushner and Witkoff Arrive in Kyiv for Peace Talks After Moscow Trip",
-          "summary": "US envoys Jared Kushner and Steve Witkoff arrived in Kyiv on Sunday for their first visit to the Ukrainian capital, holding what Al Jazeera described as substantive talks with President Volodymyr Zelenskyy. The visit came one day after the envoys met Russian President Vladimir Putin in Moscow for discussions on ending more than four years of war. The Washington Times reported that the diplomats are working to restart stalled peace talks.",
+          "title": "Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts",
+          "summary": "Eruptions at Indonesia's Anak Krakatau sent volcanic ash across parts of western Indonesia and disrupted hundreds of flights. All flights at Jakarta's Soekarno-Hatta International Airport were cancelled, while other domestic airports were also affected.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
-              "excerpt": "Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-06T113237Z_813050006_RC2MDNA0WDY8_RTRMADP_3_UKRAINE-CRISIS-USA-ENVOYS-1788704951.jpg?resize=1920%2C1440",
-              "imageAlt": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
+              "headline": "Indonesia volcano eruption disrupts hundreds of flights",
+              "excerpt": "Two new eruptions were recorded as Indonesia’s Anak Krakatau continued to spew volcanic ash.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788720917.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Indonesia volcano eruption disrupts hundreds of flights",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -162,30 +281,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/09/06/trump-envoys-kushner-and-witkoff-arrive-in-kyiv-for-peace-talks-after-moscow-trip/",
-              "source": "Breitbart",
-              "headline": "Trump Envoys Kushner and Witkoff Arrive in Kyiv for Peace Talks After Moscow Trip",
-              "excerpt": "US envoys Jared Kushner and Steve Witkoff arrived in Kyiv Sunday for their first visit to the Ukrainian capital, a day after holding talks with Russia's Vladimir Putin in the Kremlin on ending more than four years of war between the neighbours. The post Trump Envoys Kushner and Witkoff Arrive in Kyiv for Peace Talks After Moscow Trip</a",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2293316519-1-640x335.jpg",
-              "imageAlt": "Trump Envoys Kushner and Witkoff Arrive in Kyiv for Peace Talks After Moscow Trip",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/6/jared-kushner-steve-witkoff-meet-volodymyr-zelenskyy-amid-ukraine/",
+              "url": "https://www.washingtontimes.com/news/2026/sep/6/anak-krakatau-volcano-erupts-indonesia-cancels-flights-jakarta/",
               "source": "Washington Times",
-              "headline": "Kushner, Witkoff meet with Zelenskyy amid Ukraine peace push",
-              "excerpt": "U.S. envoys Jared Kushner and Steve Witkoff met with President Volodymyr Zelenskyy of Ukraine and a slew of officials in Kyiv on Sunday as the diplomats worked to restart stalled peace talks with Russia.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/06/Russia_Ukraine_War_US_415_3_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Kushner, Witkoff meet with Zelenskyy amid Ukraine peace push",
+              "headline": "Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts",
+              "excerpt": "Anak Krakatau volcano erupted in Indonesia early Sunday, prompting the cancellation of all flights at Jakarta's Soekarno-Hatta International Airport and disrupting other domestic airports as volcanic ash drifted across parts of western Indonesia.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/06/Indonesia_Volcano_Eruption_78739_s1280x853.jpg?55538c15ab8aafe050d6120e3a84fd68e4157aa7",
+              "imageAlt": "Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -199,91 +300,27 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-06T113237Z_813050006_RC2MDNA0WDY8_RTRMADP_3_UKRAINE-CRISIS-USA-ENVOYS-1788704951.jpg?resize=1920%2C1440",
-          "imageAlt": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788720917.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Indonesia volcano eruption disrupts hundreds of flights",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Ukraine war ‘single biggest factor’ driving record diesel prices, Wright says",
-          "summary": "Energy Secretary Chris Wright said the Russia-Ukraine war is the single biggest factor behind historic rises in diesel prices, citing Ukrainian strikes on Russian refineries. Wright also told news programs that a nuclear deal with Iran may not be possible until a new administration takes office in Tehran. The Washington Examiner covered both his energy price remarks and Iran nuclear comments from Sunday's interview circuit.",
+          "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions",
+          "summary": "The Trump administration has again asked the US Supreme Court to permit new restrictions on mail ballots after a federal judge blocked them. The court's decision could have major implications for the approaching midterm elections.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-              "excerpt": "US Energy Secretary Chris Wright's comments could signal that US hopes for a nuclear deal are dimming.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9d8b69d6-1788709737.jpg?resize=1920%2C1440",
-              "imageAlt": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
+              "headline": "Trump administration appeals again to US Supreme Court over mail-in voting",
+              "excerpt": "How the nation's highest court rules could have major implications in this year’s midterm elections.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26153559869945-1787441335_05227e-1787443580.jpg?resize=1200%2C630&quality=80",
+              "imageAlt": "Trump administration appeals again to US Supreme Court over mail-in voting",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4715422/iran-trump-nuclear-deal-chris-wright/",
-              "source": "Washington Examiner",
-              "headline": "Iran nuclear deal may be delayed until ‘next administration’ in Tehran, Wright says",
-              "excerpt": "The Trump administration may not be able to secure a nuclear deal with Iran until the Middle Eastern country has a new government, according to Energy Secretary Chris Wright. “There may not be a nuclear agreement,” Wright said on ABC News’s This Week on Sunday morning. “An agreement may await the next administration in Iran. […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26245715412489.jpg?w=696",
-              "imageAlt": "Iran nuclear deal may be delayed until ‘next administration’ in Tehran, Wright says",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9d8b69d6-1788709737.jpg?resize=1920%2C1440",
-          "imageAlt": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Trump appeals to Supreme Court for third time over mail-in ballot restrictions",
-          "summary": "The Trump administration on Sunday filed its third appeal to the Supreme Court seeking to allow new US Postal Service restrictions on mail-in ballots, after a federal judge extended a block on the rules. US District Judge Indira Talwani, an Obama appointee, had initially granted a 14-day restraining order and later extended it. Multiple outlets covered the administration's renewed effort ahead of the midterm elections.",
-          "links": [
-            {
-              "url": "https://nypost.com/2026/09/06/us-news/trump-renews-supreme-court-appeal-for-midterm-mail-ballots/",
-              "source": "New York Post",
-              "headline": "Trump asks Supreme Court to allow mail-in ballot restrictions ahead of midterms",
-              "excerpt": "This marks the Trump administration's third time approaching the court.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fwake-county-board-elections-employees-139471352.jpg?w%3D1024",
-              "imageAlt": "Trump asks Supreme Court to allow mail-in ballot restrictions ahead of midterms",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/supreme-court/4715478/trump-appeal-supreme-court-mail-in-ballot-restrictions/",
-              "source": "Washington Examiner",
-              "headline": "Trump appeals to Supreme Court for third time over mail-in ballot restrictions",
-              "excerpt": "The Trump administration appealed to the Supreme Court on Sunday for the third time over the U.S. Postal Service’s new mail-in ballot requirements that remain blocked by a federal judge. On Friday, U.S. District Judge Indira Talwani, an appointee of former President Barack Obama, extended the block beyond the initial 14 days she granted in […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26246649585687.jpg?w=696",
-              "imageAlt": "Trump appeals to Supreme Court for third time over mail-in ballot restrictions",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
@@ -309,39 +346,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fwake-county-board-elections-employees-139471352.jpg?w%3D1024",
-          "imageAlt": "Trump asks Supreme Court to allow mail-in ballot restrictions ahead of midterms",
-          "imageCredit": "New York Post"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26153559869945-1787441335_05227e-1787443580.jpg?resize=1200%2C630&quality=80",
+          "imageAlt": "Trump administration appeals again to US Supreme Court over mail-in voting",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Mamdani Marks 9/11 With Slap In The Face Move Tied To Al-Qaeda Terrorist",
-          "summary": "New York City Mayor Zohran Mamdani signed executive orders on Friday marking the 25th anniversary of the September 11 attacks, then handed one of the ceremonial pens to his chief counsel Ramzi Kassem, who previously represented a convicted al-Qaeda operative. The move drew widespread backlash. Fox News and the Washington Times reported the controversy, while the Daily Wire described the gesture as a slap in the face.",
+          "title": "Amy Acton attacked by ‘armed individual’ at event, campaign says",
+          "summary": "An armed man lunged toward Ohio Democratic gubernatorial candidate Amy Acton during a campaign appearance at the Canfield Fair near Youngstown, according to her campaign and state police. Several people were injured before troopers stopped the man, while the campaign said Acton was grateful to those who intervened.",
           "links": [
             {
-              "url": "https://www.dailywire.com/news/mamdani-marks-9-11-with-slap-in-the-face-move-tied-to-al-qaeda-terrorist",
-              "source": "Daily Wire",
-              "headline": "Mamdani Marks 9/11 With Slap In The Face Move Tied To Al-Qaeda Terrorist",
-              "excerpt": "New York City Mayor Zohran Mamdani signed an order on Friday marking the city’s official recognition of the 25th anniversary of the 9/11 Islamic terror attacks — and then handed the symbolic pen to a city official linked to the terrorists who carried them out. The self-described Democratic socialist signed two companion orders in that ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2292587335.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Mamdani Marks 9/11 With Slap In The Face Move Tied To Al-Qaeda Terrorist",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/mamdani-fire-symbolic-911-pen-goes-former-al-qaeda-defense-lawyer",
+              "url": "https://www.foxnews.com/politics/amy-acton-campaign-says-armed-individual-lunged-ohio-governor-candidate-injuring-multiple-people",
               "source": "Fox News",
-              "headline": "Mamdani under fire after symbolic 9/11 pen goes to former al Qaeda defense lawyer",
-              "excerpt": "New York City Mayor Zohran Mamdani faces backlash for handing a 9/11 ceremonial pen to aide Ramzi Kassem, who represented a convicted al Qaeda member.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mamdani-911-ceremony-pen.png?ve=1&tl=1",
-              "imageAlt": "Mamdani under fire after symbolic 9/11 pen goes to former al Qaeda defense lawyer",
+              "headline": "Pistol-packing man knocks over fairgoers forcing his way toward Ohio governor candidate Amy Acton, police say",
+              "excerpt": "Amy Acton's campaign says the Ohio governor candidate was targeted by an armed individual at the Canfield Fair as political violence fears mount.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ohio-fair-2.png?ve=1&tl=1",
+              "imageAlt": "Pistol-packing man knocks over fairgoers forcing his way toward Ohio governor candidate Amy Acton, police say",
               "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -354,12 +373,30 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/6/zohran-mamdani-provokes-outrage-handing-911-pen-man-who-helped-defend/",
+              "url": "https://www.washingtonexaminer.com/news/crime/4715630/amy-acton-attacked-campaign-stop-ohio-report/",
+              "source": "Washington Examiner",
+              "headline": "Amy Acton attacked by ‘armed individual’ at event, campaign says",
+              "excerpt": "An armed individual attacked Ohio Democratic gubernatorial candidate Amy Acton and injured multiple people at a campaign event on Sunday near Youngstown, according to her campaign. “While attending the Canfield Fair, an armed individual lunged at Dr. Acton, injuring multiple people,” communications director Addie Bullock said in a statement. “Dr. Acton and Eric are grateful […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26126785924412.jpg?w=696",
+              "imageAlt": "Amy Acton attacked by ‘armed individual’ at event, campaign says",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/6/assailant-lunged-democratic-candidate-amy-acton-ohio-fair-campaign/",
               "source": "Washington Times",
-              "headline": "Mamdani draws outrage by handing 9/11 pen to attorney who helped defend al-Qaida terrorist",
-              "excerpt": "New York City Mayor Zohran Mamdani signed executive orders recognizing the 25th anniversary of the Sept. 11 terrorist attacks and handed one of the pens to his chief counsel, Ramzi Kassem, who once represented an al-Qaida operative.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/02/Education_AI_Ban_New_York_381_7_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Mamdani draws outrage by handing 9/11 pen to attorney who helped defend al-Qaida terrorist",
+              "headline": "Armed assailant lunged at candidate for Ohio governor at Canfield Fair event",
+              "excerpt": "An armed assailant charged toward the Democratic candidate for Ohio governor, Amy Acton, on Sunday during a campaign stop at the Canfield Fair, injuring several people before he was stopped by troopers, the Ohio State Highway Patrol said.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/06/Election_2_26_Ohio_Attack__6631_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Armed assailant lunged at candidate for Ohio governor at Canfield Fair event",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -373,21 +410,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2292587335.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Mamdani Marks 9/11 With Slap In The Face Move Tied To Al-Qaeda Terrorist",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ohio-fair-2.png?ve=1&tl=1",
+          "imageAlt": "Pistol-packing man knocks over fairgoers forcing his way toward Ohio governor candidate Amy Acton, police say",
+          "imageCredit": "Fox News"
         },
         {
-          "title": "Iran Claims Retaliatory Hit on U.S. Ship in Strait of Hormuz, Warns 'More Painful' Strikes to Come",
-          "summary": "Iran claimed on Sunday that its forces struck an unmanned US vessel attempting to transit the Strait of Hormuz, in what Tehran described as a retaliatory action, warning that more painful strikes could follow. The US military dismissed the Iranian claim as a total lie, according to the Washington Times. Breitbart and the Washington Times both covered the competing accounts amid ongoing escalation in the region.",
+          "title": "Trump envoys hail ‘encouraging’ talks in Kyiv to end Russia-Ukraine war",
+          "summary": "US envoys Steve Witkoff and Jared Kushner met Ukrainian President Volodymyr Zelenskyy and other officials in Kyiv in an effort to restart stalled peace talks with Russia. The envoys called the discussions substantive, important and encouraging, following their talks with Russian President Vladimir Putin in Moscow.",
           "links": [
             {
-              "url": "https://www.breitbart.com/europe/2026/09/06/iran-claims-retaliatory-hit-on-u-s-ship-in-strait-of-hormuz/",
+              "url": "https://www.breitbart.com/europe/2026/09/06/trump-envoys-kushner-and-witkoff-arrive-in-kyiv-for-peace-talks-after-moscow-trip/",
               "source": "Breitbart",
-              "headline": "Iran Claims Retaliatory Hit on U.S. Ship in Strait of Hormuz, Warns 'More Painful' Strikes to Come",
-              "excerpt": "Tehran claimed early Sunday an unmanned U.S. vessel seeking to transit the Strait of Hormuz was hit by Iranian forces in the latest escalation of conflict roiling the key international waterway. The post Iran Claims Retaliatory Hit on U.S. Ship in Strait of Hormuz, Warns ‘More Painful’ Strikes to Come appeared first on <a rel=\"nofollow\" href=\"https://www",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/strait-of-hormuz-640x335.jpg",
-              "imageAlt": "Iran Claims Retaliatory Hit on U.S. Ship in Strait of Hormuz, Warns 'More Painful' Strikes to Come",
+              "headline": "Trump Envoys Kushner and Witkoff Arrive in Kyiv for Peace Talks After Moscow Trip",
+              "excerpt": "US envoys Jared Kushner and Steve Witkoff arrived in Kyiv Sunday for their first visit to the Ukrainian capital, a day after holding talks with Russia's Vladimir Putin in the Kremlin on ending more than four years of war between the neighbours. The post Trump Envoys Kushner and Witkoff Arrive in Kyiv for Peace Talks After Moscow Trip</a",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2293316519-1-640x335.jpg",
+              "imageAlt": "Trump Envoys Kushner and Witkoff Arrive in Kyiv for Peace Talks After Moscow Trip",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -400,12 +437,30 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/6/us-denies-irans-claim-strike-us-ship-strait-hormuz/",
+              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4715580/witkoff-kushner-kyiv-peace-talks-russia-ukraine-war/",
+              "source": "Washington Examiner",
+              "headline": "Trump envoys hail ‘encouraging’ talks in Kyiv to end Russia-Ukraine war",
+              "excerpt": "The president’s special envoys Steve Witkoff and Jared Kushner said they had “encouraging” talks with Ukrainian officials in Kyiv on Sunday to help end the Russia-Ukraine war. Speaking with reporters, Witkoff described the latest round of peace talks as “substantive” and “important.” Witkoff and Kushner spoke with Ukrainian President Volodymyr Zelensky in their first visit […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26249615436153.jpg?w=696",
+              "imageAlt": "Trump envoys hail ‘encouraging’ talks in Kyiv to end Russia-Ukraine war",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/6/jared-kushner-steve-witkoff-meet-volodymyr-zelenskyy-amid-ukraine/",
               "source": "Washington Times",
-              "headline": "Iran claims a strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it",
-              "excerpt": "Iran said Sunday it struck an unmanned U.S. vessel trying to enter the Strait of Hormuz, a claim that the U.S. military dismissed as a \"total lie.\"",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/06/APTOPIX_Iran_War_Strait_of_Hormuz_88432_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Iran claims a strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it",
+              "headline": "Kushner, Witkoff meet with Zelenskyy amid Ukraine peace push",
+              "excerpt": "U.S. envoys Jared Kushner and Steve Witkoff met with President Volodymyr Zelenskyy of Ukraine and a slew of officials in Kyiv on Sunday as the diplomats worked to restart stalled peace talks with Russia.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/06/Russia_Ukraine_War_US_415_3_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Kushner, Witkoff meet with Zelenskyy amid Ukraine peace push",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -419,8 +474,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/strait-of-hormuz-640x335.jpg",
-          "imageAlt": "Iran Claims Retaliatory Hit on U.S. Ship in Strait of Hormuz, Warns 'More Painful' Strikes to Come",
+          "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2293316519-1-640x335.jpg",
+          "imageAlt": "Trump Envoys Kushner and Witkoff Arrive in Kyiv for Peace Talks After Moscow Trip",
           "imageCredit": "Breitbart"
         }
       ]
@@ -430,7 +485,7 @@
       "stories": [
         {
           "title": "Should I fear writing this article?",
-          "summary": "A Spectator Australia columnist questions whether they should fear writing about the Albanese government's latest legislative move, describing it as so broad and unnecessary that it raises concerns about free expression and press freedom. The piece reflects growing unease among Australian commentators about the scope of government overreach in media regulation.",
+          "summary": "A Spectator Australia commentary asks whether its author should fear writing the article and describes the Albanese government's latest move as broad and unnecessary. The available excerpt does not identify that move or provide further details about the author's concern.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/should-i-fear-writing-this-article/",
@@ -457,34 +512,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
-          "summary": "A Qantas flight from Queenstown, New Zealand to Sydney was diverted on Saturday after passengers saw flames from a suspected engine issue. Passengers recalled cabin lights flickering and a lot of screaming as the aircraft turned back. ABC Australia reported that QF122 was diverted over a suspected engine issue, while The Guardian Australia quoted passengers describing the terrifying mid-flight ordeal.",
+          "title": "Elder among last to remember Australia's forgotten 'parkland'",
+          "summary": "Menang elder Aunty Carol Petterson is among the last people to remember the natural abundance of a now-forgotten parkland in southern Western Australia. She recalls her family working as shepherds and driving sheep through bushland and along rivers toward the coast.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
-              "source": "The Guardian Australia",
-              "headline": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
-              "excerpt": "Passenger recalls seeing cabin lights flicker and ‘a lot of screaming’ after suspected engine issue Get our breaking news email , free app or daily news podcast Liza-Jayne Loch was returning home from a business trip to New Zealand when her <a href=\"https://www.",
-              "imageUrl": "https://i.guim.co.uk/img/media/3ca12bde3a74a85c19b5ac0c15a38e92cccb1f2e/465_0_2423_1939/master/2423.jpg?width=140&quality=85&auto=format&fit=max&s=97dd882d1c95c71d4bf51493a56943aa",
-              "imageAlt": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-09-06/panic-fear-after-sydney-qantas-flight-spits-fire/107121528",
+              "url": "https://www.abc.net.au/news/2026-09-07/aunty-carol-this-place-recalls-wa-farmland-before-mass-clearing/107119008",
               "source": "ABC Australia",
-              "headline": "'People were screaming': Qantas passengers tell of engine spitting fire",
-              "excerpt": "Flight QF122 had just left Queenstown in New Zealand on Saturday when it was diverted over what the airline said was a \"suspected engine issue\".",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/05ee2ab24317a8377f295e9f5af683de?impolicy=wcms_crop_resize&cropH=307&cropW=545&xPos=58&yPos=228&width=862&height=485",
-              "imageAlt": "'People were screaming': Qantas passengers tell of engine spitting fire",
+              "headline": "Elder among last to remember Australia's forgotten 'parkland'",
+              "excerpt": "Menang elder Aunty Carol Petterson remembers when her family worked as shepherds, driving sheep through the bushland and along rivers towards the coast in southern Western Australia. Decades later, she recalls in vivid detail the natural abundance of the landscape.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/73afd9a2d73b7f93d4dd5eafa06c5cfa?impolicy=wcms_crop_resize&cropH=2304&cropW=4096&xPos=0&yPos=397&width=862&height=485",
+              "imageAlt": "Elder among last to remember Australia's forgotten 'parkland'",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -499,21 +536,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/3ca12bde3a74a85c19b5ac0c15a38e92cccb1f2e/465_0_2423_1939/master/2423.jpg?width=140&quality=85&auto=format&fit=max&s=97dd882d1c95c71d4bf51493a56943aa",
-          "imageAlt": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/73afd9a2d73b7f93d4dd5eafa06c5cfa?impolicy=wcms_crop_resize&cropH=2304&cropW=4096&xPos=0&yPos=397&width=862&height=485",
+          "imageAlt": "Elder among last to remember Australia's forgotten 'parkland'",
+          "imageCredit": "ABC News"
         },
         {
-          "title": "Brisbane swelters under hottest September day in years as east coast faces unseasonably warm weather",
-          "summary": "Brisbane recorded its hottest September day in years, reaching 34.4C, as an unseasonably warm spring heatwave swept across the east coast. Firefighters battled a fast-moving bushfire in the Lockyer Valley west of Ipswich that forced the temporary closure of the Warrego Highway. Dozens of bushfires were burning across Queensland as residents were urged to stay on high alert.",
+          "title": "Why can the US access so many Australian military bases, and could they drag us unwillingly into war? – podcast",
+          "summary": "Research by the Nautilus Institute says the US military or US defence corporations have access to more than half of Australia's military facilities. The findings have prompted questions about whether the scale of the US presence could draw Australia unwillingly into a war.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/sep/06/brisbane-queensland-hottest-september-day-in-years-east-coast-unseasonably-warm-weather",
+              "url": "https://www.theguardian.com/global/video/2026/sep/07/us-military-presence-in-australia-mapped-video",
               "source": "The Guardian Australia",
-              "headline": "Brisbane swelters under hottest September day in years as east coast faces unseasonably warm weather",
-              "excerpt": "Queensland capital hits 34.4C as firefighters battle fast-moving bushfire in Lockyer Valley west of Ipswich Get our breaking news email , free app or daily news podcast Residents have been put on high alert as an unseasonably hot start to spring gives way to bla",
-              "imageUrl": "https://i.guim.co.uk/img/media/91de0d963ecd6bac3da146a26d0c1196b76854e2/30_0_3247_2599/master/3247.jpg?width=140&quality=85&auto=format&fit=max&s=011d9677e1f2604890f90bece11e662b",
-              "imageAlt": "Brisbane swelters under hottest September day in years as east coast faces unseasonably warm weather",
+              "headline": "US military presence in Australia, mapped – video",
+              "excerpt": "Research by the Nautilus Institute has revealed what some analysts have labelled a 'colonisation' of Australia's military by the United States. With more than half of the military facilities in Australia having access by either the US military or US defence corporations, many are asking – could this drag Australia unwillingly into war? <",
+              "imageUrl": "https://i.guim.co.uk/img/media/e08239570938175d73876af95a20e28146318f26/964_0_4556_3647/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=10d01772e538313b3f822dccde6914a0",
+              "imageAlt": "US military presence in Australia, mapped – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -524,35 +561,16 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-09-06/bushfires-qld-warrego-highway-hottest-september-day-in-years/107121800",
-              "source": "ABC Australia",
-              "headline": "Dozens of bushfires burn as Qld swelters through above-average temps",
-              "excerpt": "A fire in the Lockyer Valley forced the temporary closure of the Warrego Highway, as some residents chose to leave their homes, and parts of Queensland sweltered through the hottest September day in years.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/1616635ea25471b59bf94210b637fb4e?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Dozens of bushfires burn as Qld swelters through above-average temps",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/91de0d963ecd6bac3da146a26d0c1196b76854e2/30_0_3247_2599/master/3247.jpg?width=140&quality=85&auto=format&fit=max&s=011d9677e1f2604890f90bece11e662b",
-          "imageAlt": "Brisbane swelters under hottest September day in years as east coast faces unseasonably warm weather",
+          "imageUrl": "https://i.guim.co.uk/img/media/e08239570938175d73876af95a20e28146318f26/964_0_4556_3647/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=10d01772e538313b3f822dccde6914a0",
+          "imageAlt": "US military presence in Australia, mapped – video",
           "imageCredit": "The Guardian"
         },
         {
           "title": "Victory lies ahead for Germany’s AfD",
-          "summary": "A Spectator Australia commentator argues that the Saxony-Anhalt state election, with only 1.8 million eligible voters, could prove pivotal for Europe's largest economy as the AfD stands on the brink of a historic victory. The piece examines the broader implications of the far-right party's surge for German and European politics beyond the immediate state result.",
+          "summary": "The story title says victory lies ahead for Germany's AfD, but its sole linked item is a Spectator Australia article about whether AI can detect heart disease in under two seconds. The available headline and excerpt provide no supporting details about AfD or German politics.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/can-ai-really-spot-heart-disease-in-less-than-two-seconds/",
@@ -585,7 +603,7 @@
       "stories": [
         {
           "title": "Google’s Gemini Spark can now manage your Google Photos library",
-          "summary": "Google's Gemini Spark AI assistant can now edit, curate, and manage Google Photos libraries for AI Pro and Ultra subscribers. The new capabilities include organizing photo albums, building shared collections, and turning photos into calendar events. TechCrunch reported on the feature expansion as part of Google's push to integrate its AI assistant across consumer services.",
+          "summary": "Google's Gemini Spark can now carry out tasks within Google Photos for AI Pro and Ultra subscribers. It can edit and curate albums, create shared collections, turn photos into calendar events and handle other library-management work.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
@@ -612,8 +630,36 @@
           "imageCredit": "TechCrunch"
         },
         {
+          "title": "An Amazon cargo plane crashed at Miami International Airport",
+          "summary": "An Amazon cargo plane crashed at Miami International Airport after overrunning the runway while landing at about 2 p.m. The Verge's item identifies it as Prime Air Flight 7598, which had departed from Luis Muñoz Marín International Airport in San Juan, Puerto Rico.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+              "source": "The Verge",
+              "headline": "An Amazon cargo plane crashed at Miami International Airport",
+              "excerpt": "<img alt=\"MIAMI, FLORIDA - SEPTEMBER 06: An Amazon cargo plane is seen after it crashed at Miami International Airport on September 06, 2026 in Miami, Florida. In a statement, the Federal Aviation Administration said Prime Air Flight 7598 overran the runway while landing around 2 p.m. after departing from Luis Muñoz Marín International Airport in San Juan, Puerto Rico, earlier today. (Photo by Joe Raedle/Getty Images)\" data-caption=\"An Amazon cargo plane crashed at Miami International A",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "An Amazon cargo plane crashed at Miami International Airport",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "An Amazon cargo plane crashed at Miami International Airport",
+          "imageCredit": "The Verge"
+        },
+        {
           "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-          "summary": "AI researcher and father of three Daniel Susskind writes in The Guardian about the power and perils of artificial intelligence for families. He recounts how a Dr Seuss-style story generated in seconds by AI alerted him to both the potential and risks of the technology. Susskind explores how children can embrace AI without losing core skills like critical thinking and creativity.",
+          "summary": "A father of three who studies artificial intelligence says an AI-generated Dr Seuss-style story demonstrated both the technology's power and its risks. He considers how children can use AI without losing core skills, drawing on a story idea he once discussed with his own father.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
@@ -641,7 +687,7 @@
         },
         {
           "title": "Online bookies accused of UK privacy breaches with use of cookie banners",
-          "summary": "A study has found that nearly nine out of ten (86%) licensed British gambling websites appear to be violating GDPR by nudging users toward accepting tracking cookies and harvesting data before consent is given. The Guardian Technology reported that online bookmakers and casinos face accusations of widespread non-compliance and data surveillance of customers.",
+          "summary": "A study has accused licensed British gambling websites of widespread failures to comply with privacy requirements. It found that many sites steer users toward accepting tracking and collect data before consent, with nearly 86% appearing to breach GDPR rules.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
@@ -669,7 +715,7 @@
         },
         {
           "title": "The best hair dryers for smooth, speedy styling at home – whatever your hair type",
-          "summary": "The Guardian tested 22 hair dryers to find the best options for different hair types, from gentle diffusers to high-speed and travel-ready models. The review found that upgrading to a quality hair dryer made the biggest difference to styling routines, and included recommendations across various price points and needs.",
+          "summary": "The Guardian tested 22 hair dryers to identify the best options for different hair types and home-styling needs. The selection ranges from models with gentle diffusers to high-speed and travel-ready dryers, with the reviewer saying a dryer upgrade made a major difference to their routine.",
           "links": [
             {
               "url": "https://www.theguardian.com/thefilter/2025/aug/26/best-hairdryers-uk",
@@ -694,34 +740,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/9c8973147bd235d4f69cbb3bd59f50a069e76e71/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6540ccac0294bf06657ffe25cbe3c8f0",
           "imageAlt": "The best hair dryers for smooth, speedy styling at home – whatever your hair type",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "John Lewis to launch YouTube chatshow to improve AI search results",
-          "summary": "John Lewis is launching an online chatshow called Gift List, hosted by TV presenter Angela Scanlon, as part of a strategy to make the department store chain more visible to AI chatbots and generative search results. The Guardian Technology reported that the vodcast and new social media studio aim to boost the retailer's prominence in AI-driven product discovery.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon",
-              "source": "The Guardian Technology",
-              "headline": "John Lewis to launch YouTube chatshow to improve AI search results",
-              "excerpt": "Department store chain’s Gift List ‘vodcast’ will be hosted by TV presenter Angela Scanlon Business live – latest updates John Lewis is launching an online chatshow and social media studio to help make itself and its products more visible to chatbots and more prominent in AI search results. The department store",
-              "imageUrl": "https://i.guim.co.uk/img/media/ed00924dde70622cd31b20d39fa4215c7f17c4c5/359_0_2111_1690/master/2111.jpg?width=140&quality=85&auto=format&fit=max&s=325badaddf2c59644fd0834555f57ff5",
-              "imageAlt": "John Lewis to launch YouTube chatshow to improve AI search results",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/ed00924dde70622cd31b20d39fa4215c7f17c4c5/359_0_2111_1690/master/2111.jpg?width=140&quality=85&auto=format&fit=max&s=325badaddf2c59644fd0834555f57ff5",
-          "imageAlt": "John Lewis to launch YouTube chatshow to improve AI search results",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -729,16 +747,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Dropping bribery rap in VP trial no issue; 1 article enough to convict – Tolosa",
-          "summary": "Prosecution counsel Benjamin Tolosa Jr. said Vice President Sara Duterte could still be convicted in her impeachment trial even if the bribery charge were dropped, as a single article of impeachment would be sufficient for conviction. Tolosa made the statement during the Saturday News Forum in Manila as Duterte simultaneously faces both her impeachment trial and a separate grave threats case.",
+          "title": "NDRRMC: Southwest monsoon, cyclones leave 43 dead",
+          "summary": "The combined effects of the southwest monsoon and cyclones Luis, Maymay, Neneng and Pilandok have killed 43 people in the Philippines, according to the NDRRMC. Most deaths were recorded in Benguet after landslides, while some areas suspended classes because of the monsoon.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2300131/dropping-bribery-rap-in-vp-trial-no-issue-1-article-enough-to-convict-tolosa",
+              "url": "https://newsinfo.inquirer.net/2300033/ndrrmc-southwest-monsoon-cyclones-leave-43-dead",
               "source": "Philippine Daily Inquirer",
-              "headline": "Dropping bribery rap in VP trial no issue; 1 article enough to convict – Tolosa",
-              "excerpt": "MANILA, Philippines — Vice President Sara Duterte may still be convicted in her impeachment case even if the bribery charge against her were to be dropped, as one article would be enough for that decision, according to prosecution counsel Benjamin “Jay” Tolosa Jr. Tolosa made that statement during the Saturday News Forum at Dapo Restaurant",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Benjamin-Tolosa-Jr-11August2026.jpg",
-              "imageAlt": "Dropping bribery rap in VP trial no issue; 1 article enough to convict – Tolosa",
+              "headline": "NDRRMC: Southwest monsoon, cyclones leave 43 dead",
+              "excerpt": "MANILA, Philippines — The death toll from the combined effects of the southwest monsoon and cyclones Luis, Maymay, Neneng, and Pilandok has reached 43, the National Disaster Risk Reduction and Management Council (NDRRMC) reported on Sunday. In its latest report, the NDRRMC said most of the deaths were recorded in Benguet due to landslides. Other",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2023/07/NDRRMC-flood-filephoto-071723.jpg",
+              "imageAlt": "NDRRMC: Southwest monsoon, cyclones leave 43 dead",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -747,16 +765,16 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.rappler.com/philippines/sara-duterte-meltdown-statements-no-joke-do-not-feel-safe/",
+              "url": "https://www.rappler.com/philippines/class-suspensions-walang-pasok-september-7-2026/",
               "source": "Rappler World",
-              "headline": "The meltdown of Sara Duterte: From ‘no joke, no joke’ to ‘I do not feel safe’",
-              "excerpt": "Vice President Sara Duterte simultaneously faces her grave threats case and impeachment trial — cases which were triggered by one online midnight outburst",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/09/sara-duterte-quezon-city-rtc-september-5-2026-008-scaled.jpg",
-              "imageAlt": "The meltdown of Sara Duterte: From ‘no joke, no joke’ to ‘I do not feel safe’",
+              "headline": "[Walang Pasok] Class suspensions, Monday, September 7, 2026",
+              "excerpt": "Here is a list of areas where classes are suspended for Monday, September 7, 2026, due to the effects of the southwest monsoon",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/01/WALANG-PASOK-2026-003.jpg",
+              "imageAlt": "[Walang Pasok] Class suspensions, Monday, September 7, 2026",
               "outlet": "Rappler",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -770,21 +788,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Benjamin-Tolosa-Jr-11August2026.jpg",
-          "imageAlt": "Dropping bribery rap in VP trial no issue; 1 article enough to convict – Tolosa",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2023/07/NDRRMC-flood-filephoto-071723.jpg",
+          "imageAlt": "NDRRMC: Southwest monsoon, cyclones leave 43 dead",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "PH Navy seizes P100-M contraband in Western Mindanao",
-          "summary": "The Naval Command Western Mindanao confiscated approximately P100 million worth of alleged contraband in three maritime operations conducted from August 28 to September 3. The seizures included undocumented diesel fuel valued at P72 million, smuggled foreign-brand cigarettes, and a motor vessel worth P27 million, according to the Philippine Daily Inquirer.",
+          "title": "Detox teas? Expert warns against quick-fix weight-loss products",
+          "summary": "A Philippine health expert has warned people seeking to lose weight against detox teas and other products marketed as quick fixes. Endocrinologist Dr Nemencio Nicodemus Jr urged greater attention to sleep, stress and sustainable lifestyle changes instead.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2299938/ph-navy-seizes-p100-m-contraband-in-western-mindanao",
+              "url": "https://newsinfo.inquirer.net/2300061/detox-teas-ozempic-tirze-expert-warns-vs-quick-fix-weight-loss-products",
               "source": "Philippine Daily Inquirer",
-              "headline": "PH Navy seizes P100-M contraband in Western Mindanao",
-              "excerpt": "PAGADIAN CITY, Zamboanga del Sur — The Naval Command Western Mindanao (NCWM) confiscated around P100 million worth of alleged contraband in three maritime operations conducted from August 28 to September 3. Authorities reported that the seizures included undocumented diesel fuel valued at P72,172,046; smuggled foreign-brand cigarettes and a motor vessel worth P27,228,969; and illegally transported",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Navy-seizes-P100-M-contraband-in-Western-Mindanao-operations-.jpg",
-              "imageAlt": "PH Navy seizes P100-M contraband in Western Mindanao",
+              "headline": "Detox teas? Expert warns against quick-fix weight-loss products",
+              "excerpt": "MANILA, Philippines — A health expert urged Filipinos seeking to lose weight to be cautious about products marketed as quick fixes and instead pay greater attention to their sleep, stress, and sustainable lifestyle changes. Dr. Nemencio Nicodemus Jr., an endocrinologist and professor at the University of the Philippines (UP) College of Medicine and attending consultant",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2025/12/Pile-of-pills-7Dec2025.png",
+              "imageAlt": "Detox teas? Expert warns against quick-fix weight-loss products",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -798,21 +816,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Navy-seizes-P100-M-contraband-in-Western-Mindanao-operations-.jpg",
-          "imageAlt": "PH Navy seizes P100-M contraband in Western Mindanao",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2025/12/Pile-of-pills-7Dec2025.png",
+          "imageAlt": "Detox teas? Expert warns against quick-fix weight-loss products",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Iloilo City mayor: No quick fix to power woes",
-          "summary": "Iloilo City Mayor Raisa Trelas said the city government is working with energy-sector stakeholders on longer-term solutions to continuing power interruptions as residents demand clearer timelines and immediate measures. The Philippine Daily Inquirer reported that the mayor acknowledged how repeated outages are affecting households, businesses, and workers, but cautioned there is no quick fix.",
+          "title": "Nutrition body’s ratings high amid stunting rate",
+          "summary": "The Second Congressional Commission on Education has asked the Philippines' National Nutrition Council to explain its high performance ratings despite a worsening child-stunting rate. Commissioner Senator Sherwin Gatchalian urged the council to be realistic, citing performance data showing a 96% rating.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2299934/iloilo-city-mayor-no-quick-fix-to-power-woes",
+              "url": "https://newsinfo.inquirer.net/2300158/nutrition-bodys-ratings-high-amid-stunting-rate",
               "source": "Philippine Daily Inquirer",
-              "headline": "Iloilo City mayor: No quick fix to power woes",
-              "excerpt": "ILOILO CITY — The Iloilo City government is working with energy-sector stakeholders on longer-term solutions to continuing power interruptions as residents demand clearer timelines and immediate measures, Mayor Raisa Treñas said. In a statement on Sept. 4, Treñas said the city government understood how repeated outages were affecting households, businesses, workers, and everyday activities. She",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-iloilo.jpg",
-              "imageAlt": "Iloilo City mayor: No quick fix to power woes",
+              "headline": "Nutrition body’s ratings high amid stunting rate",
+              "excerpt": "MANILA, Philippines — The National Nutrition Council (NNC) was pressed by the Second Congressional Commission on Education (Edcom 2) to explain its high performance ratings despite the country’s worsening child stunting rate. In a statement on Sunday, Edcom 2 Commissioner Sen. Sherwin Gatchalian urged the NNC to “be realistic,” citing performance data that 96 percent",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/07/National-Nutrition-Council-1.png",
+              "imageAlt": "Nutrition body’s ratings high amid stunting rate",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -826,49 +844,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-iloilo.jpg",
-          "imageAlt": "Iloilo City mayor: No quick fix to power woes",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/07/National-Nutrition-Council-1.png",
+          "imageAlt": "Nutrition body’s ratings high amid stunting rate",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Storm may reenter PAR Sunday; rain expected in parts of Luzon, Visayas",
-          "summary": "Tropical storm Pilandok (international name: Krovanh) was expected to re-enter the Philippine Area of Responsibility on Sunday, with state weather agency PAGASA forecasting rain across parts of Luzon and the Visayas. The storm was moving in a generally westerly direction toward the landmass, according to Philippine Daily Inquirer reports based on PAGASA bulletins.",
+          "title": "P5-M ‘smuggled’ cigarettes seized in Pagadian waters",
+          "summary": "Authorities arrested two people and seized nearly P5 million in allegedly smuggled cigarettes during a joint maritime operation off Pagadian City. The seizure occurred in Yllana Bay near Barangay White Beach early Sunday morning.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2299846/storm-may-reenter-par-sunday-rain-expected-in-parts-of-luzon-visayas",
+              "url": "https://newsinfo.inquirer.net/2300292/p5-m-smuggled-cigarettes-seized-in-pagadian-waters",
               "source": "Philippine Daily Inquirer",
-              "headline": "Storm may reenter PAR Sunday; rain expected in parts of Luzon, Visayas",
-              "excerpt": "MANILA, Philippines — Tropical storm Pilandok (international name: Krovanh) may reenter the Philippine area of responsibility (PAR) on Sunday, according to the state weather bureau. In the 5 a.m. weather forecast of the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa), weather specialist Obet Badrina said that as of 3 a.m., Sunday, Pilandok was tracked",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Satellite-image-captured-on-Sunday-September-6-2026-at-840-a.m.-Photo-by-Pagasa.png",
-              "imageAlt": "Storm may reenter PAR Sunday; rain expected in parts of Luzon, Visayas",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Satellite-image-captured-on-Sunday-September-6-2026-at-840-a.m.-Photo-by-Pagasa.png",
-          "imageAlt": "Storm may reenter PAR Sunday; rain expected in parts of Luzon, Visayas",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Lacson to Cayetano: Flood control probe must be thorough, not hasty",
-          "summary": "Senator Panfilo Lacson urged former Senator Alan Peter Cayetano to ensure the Senate flood control investigation is thorough and not rushed, emphasizing that incomplete oversight would undermine public trust. The Philippine Daily Inquirer reported Lacson's comments during committee discussions on the probe's scope and timeline.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2299865/lacson-to-cayetano-flood-control-probe-must-be-thorough-not-hasty",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Lacson to Cayetano: Flood control probe must be thorough, not hasty",
-              "excerpt": "MANILA, Philippines — Senator Panfilo Lacsonfired back at Senate Minority Leader Alan Peter Cayetano, saying the investigation of flood control anomalies must be thorough and not hasty or sloppy. This was Lacson’s response to Cayetano’s remark likening the former’s gradual release of allegations against him to a “striptease” without evidence. READ: Cayetano on Lacson’s alleged",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Lacson-Cayetano-3August2026.jpg",
-              "imageAlt": "Lacson to Cayetano: Flood control probe must be thorough, not hasty",
+              "headline": "P5-M ‘smuggled’ cigarettes seized in Pagadian waters",
+              "excerpt": "PAGADIAN CITY, Zamboanga del Sur – Authorities arrested two individuals, seizing from them nearly P5 million worth of alleged smuggled cigarettes during a joint maritime law enforcement operation in the waters of Yllana Bay off Barangay White Beach, Pagadian City, early Sunday morning. Capt. Derf Jay Maquinta, spokesperson for the Zamboanga del Sur Police Provincial",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/smuggled-cigs-07sept2026.png",
+              "imageAlt": "P5-M ‘smuggled’ cigarettes seized in Pagadian waters",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -882,8 +872,36 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Lacson-Cayetano-3August2026.jpg",
-          "imageAlt": "Lacson to Cayetano: Flood control probe must be thorough, not hasty",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/smuggled-cigs-07sept2026.png",
+          "imageAlt": "P5-M ‘smuggled’ cigarettes seized in Pagadian waters",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Next batch of Inquirer scholars named",
+          "summary": "Three University of the Philippines junior students have been selected for the latest Philippine Daily Inquirer-AboitizPower journalism scholarships. UP Diliman students Sharmaine Reyes and Rafael Quilling and UP Cebu student Jia Christy Enad were chosen from more than 150 applicants nationwide.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2300168/next-batch-of-inquirer-scholars-named",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Next batch of Inquirer scholars named",
+              "excerpt": "MANILA, Philippines — Three junior students from the University of the Philippines (UP) have been selected as the newest recipients of the Philippine Daily Inquirer-AboitizPower journalism scholarship. UP Diliman’s Sharmaine Reyes and Rafael Quilling and UP Cebu’s Jia Christy Enad were chosen out of more than 150 applicants from across the country. The scholars are",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/inquirer-scholars-07September2026.jpg",
+              "imageAlt": "Next batch of Inquirer scholars named",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/inquirer-scholars-07September2026.jpg",
+          "imageAlt": "Next batch of Inquirer scholars named",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -892,8 +910,33 @@
       "name": "Business / Finance",
       "stories": [
         {
+          "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+          "summary": "Rwanda-backed rebels entered Goma after overrunning Congolese troops, with residents reporting gunfire and shelling. United Nations officials estimated that more than one million displaced people were inside the city.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+              "source": "Wall Street Journal",
+              "headline": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "excerpt": "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops. U.N. officials estimated that more than one million displaced people were now inside the city.",
+              "imageUrl": "",
+              "imageAlt": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
           "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-          "summary": "Compact disc sales are experiencing an unexpected resurgence as younger consumers embrace physical media in what many analysts describe as a retro tech boom. The Verge and TechCrunch both reported on the trend, noting that CD sales in the US rose for the first time in decades, driven by Gen Z and millennial buyers seeking tangible ownership in an era of streaming subscriptions.",
+          "summary": "US compact-disc revenue rose 58.6% in the first half of 2026, reversing the previous year's decline. TechCrunch attributes the rebound to growing interest in retro technology and physical media.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
@@ -920,16 +963,16 @@
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
-          "summary": "Guardian Australia columnist Lizzie O'Shea argues that tech giants are systematically eroding digital privacy and that Australia's upcoming privacy law reforms represent a rare chance to reclaim some control. She contends that meaningful data protection legislation could set a global precedent if parliament acts decisively on the proposals under consideration.",
+          "title": "John Lewis to launch YouTube chatshow to improve AI search results",
+          "summary": "John Lewis is launching a YouTube chatshow and social-media studio intended to make the retailer and its products more visible to chatbots and AI search results. The Gift List vodcast will be hosted by television presenter Angela Scanlon.",
           "links": [
             {
-              "url": "https://www.theguardian.com/commentisfree/2026/sep/02/tech-giants-australia-privacy-act-legislation-laws",
+              "url": "https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon",
               "source": "The Guardian Technology",
-              "headline": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power",
-              "excerpt": "‘Pervert glasses’ are selling out, tick-a-box consent is broken and the spectre of surveillance is invading all aspects of our lives Get our breaking news email , free app or daily news podcast A mere five years after the government first started talking about i",
-              "imageUrl": "https://i.guim.co.uk/img/media/fb9fa74dda4cd935fbaba98848a6e7e45ccd53c7/317_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=4d04f8f223fe3d91b508702ba9e50429",
-              "imageAlt": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
+              "headline": "John Lewis to launch YouTube chatshow to improve AI search results",
+              "excerpt": "Department store chain’s Gift List ‘vodcast’ will be hosted by TV presenter Angela Scanlon Business live – latest updates John Lewis is launching an online chatshow and social media studio to help make itself and its products more visible to chatbots and more prominent in AI search results. The department store",
+              "imageUrl": "https://i.guim.co.uk/img/media/ed00924dde70622cd31b20d39fa4215c7f17c4c5/359_0_2111_1690/master/2111.jpg?width=140&quality=85&auto=format&fit=max&s=325badaddf2c59644fd0834555f57ff5",
+              "imageAlt": "John Lewis to launch YouTube chatshow to improve AI search results",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -938,98 +981,64 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/fb9fa74dda4cd935fbaba98848a6e7e45ccd53c7/317_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=4d04f8f223fe3d91b508702ba9e50429",
-          "imageAlt": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
+          "imageUrl": "https://i.guim.co.uk/img/media/ed00924dde70622cd31b20d39fa4215c7f17c4c5/359_0_2111_1690/master/2111.jpg?width=140&quality=85&auto=format&fit=max&s=325badaddf2c59644fd0834555f57ff5",
+          "imageAlt": "John Lewis to launch YouTube chatshow to improve AI search results",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-          "summary": "The Guardian's review of the Ninja Artisan electric pizza oven found it so capable that it might even win over traditional wood-fire purists. The appliance was praised for producing consistently excellent Neapolitan-style pizzas at home, with rapid heating and even cooking that rivaled dedicated outdoor pizza ovens at a fraction of the cost and complexity.",
+          "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+          "summary": "NATO mounted its first coordinated response to a suspected campaign of sabotage against critical infrastructure. The action followed the severing of another deep-sea cable in the Baltic Sea.",
           "links": [
             {
-              "url": "https://www.theguardian.com/thefilter/2026/sep/06/ninja-artisan-electric-pizza-oven-review",
-              "source": "The Guardian Technology",
-              "headline": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-              "excerpt": "Affordable, fast-heating and with a clever air fryer function, this versatile model is a winner for outdoor cooks who are willing to give up the traditional flame • The best pizza ovens – tested • Gozney Dome Gen 2 pizza oven review An electric <a",
-              "imageUrl": "https://i.guim.co.uk/img/media/8343370f21a31642c19896c347134185984eefe6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5da5a72fdc84ac4c23a3b4c9f07b7b60",
-              "imageAlt": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+              "source": "Wall Street Journal",
+              "headline": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "excerpt": "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.",
+              "imageUrl": "",
+              "imageAlt": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/8343370f21a31642c19896c347134185984eefe6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5da5a72fdc84ac4c23a3b4c9f07b7b60",
-          "imageAlt": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
-          "summary": "Alarming AI-generated advertisements are flooding social media platforms ahead of Victoria's state election, raising concerns about disinformation and opaque political advertising. The Guardian Australia reported that the ads are difficult to trace to any specific campaign or organization, sparking calls for tighter regulation of AI content in political messaging.",
+          "title": "Palestinians Stream Back to Northern Gaza on Foot",
+          "summary": "Israel allowed displaced Palestinians to begin returning on foot to northern Gaza. The crossing through the military zone dividing the enclave opened after a deadlock over hostage releases was resolved.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
-              "source": "The Guardian Technology",
-              "headline": "AI chatbot helps teach online-only psychology classes at Macquarie University",
-              "excerpt": "University’s move is part of trend that critics within academia say will lead to further staff cuts and loss of ‘everything that makes the job worth doing’ Follow our Australia news live blog for latest updates Get our breaking news email , <a h",
-              "imageUrl": "https://i.guim.co.uk/img/media/5cda859030c3982d393b86028743f07da95852db/81_0_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=d6a1874a982c52c4660f30b3ce54aff4",
-              "imageAlt": "AI chatbot helps teach online-only psychology classes at Macquarie University",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+              "source": "Wall Street Journal",
+              "headline": "Palestinians Stream Back to Northern Gaza on Foot",
+              "excerpt": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+              "imageUrl": "",
+              "imageAlt": "Palestinians Stream Back to Northern Gaza on Foot",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/5cda859030c3982d393b86028743f07da95852db/81_0_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=d6a1874a982c52c4660f30b3ce54aff4",
-          "imageAlt": "AI chatbot helps teach online-only psychology classes at Macquarie University",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
-          "summary": "Australian parliamentarians have described the spread of AI-generated misinformation as scary, as fabricated content and AI hallucinations increasingly infiltrate policy debates and constituency communications. The Guardian Australia reported that lawmakers across party lines are concerned about the erosion of factual discourse and the challenge of verifying AI-generated material in official settings.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
-              "source": "The Guardian Technology",
-              "headline": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
-              "excerpt": "Exclusive : Guardian analysis reveals that dozens of policy submissions from across the political spectrum incorrectly summarise real research and invent or wrongly cite sources Follow our Australia news live blog for latest updates </",
-              "imageUrl": "https://i.guim.co.uk/img/media/dbf27a56f97c8ea8be2479f99166353d3523a478/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dbfab88b6b3f2973771029357f78ac45",
-              "imageAlt": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/dbf27a56f97c8ea8be2479f99166353d3523a478/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dbfab88b6b3f2973771029357f78ac45",
-          "imageAlt": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
