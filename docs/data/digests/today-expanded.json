@@ -2,16 +2,63 @@
   "id": "2026-09-08-expanded",
   "date": "2026-09-08",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-08T03:00:12.589335",
+  "generatedAt": "2026-09-08T12:30:21.964326",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-08T03:00:12",
+  "updatedAt": "2026-09-08T12:30:21",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Five People Killed, Others Injured After Amazon Cargo Jet Crashes at Miami International Airport",
-          "summary": "An Amazon cargo plane crashed at Miami International Airport on Sunday, killing five people and injuring several others, according to Breitbart. BBC footage showed the aircraft bursting into flames during the deadly incident.",
+          "title": "Israeli airstrikes kill 12 people, including two children, in southern Lebanon",
+          "summary": "Israeli airstrikes killed 12 people, including two children, in the southern Lebanese village of Kfar Rumman, according to reports citing Lebanon’s Health Ministry. The renewed fighting between Israel and Hezbollah is putting a U.S.-brokered ceasefire under strain.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Israeli strikes in southern Lebanese village kill 12",
+              "excerpt": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+              "imageAlt": "Israeli strikes in southern Lebanese village kill 12",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4716072/israeli-airstrikes-southern-lebanon-hezbollah/",
+              "source": "Washington Examiner",
+              "headline": "Israeli airstrikes kill 12 people, including two children, in southern Lebanon",
+              "excerpt": "Israeli airstrikes killed at least a dozen people, including two children, in southern Lebanon early Monday as renewed fighting between Israel and Hezbollah puts a U.S.-brokered truce on shaky ground. Two strikes hit the village of Kfar Rumman, according to Lebanon’s Health Ministry. One struck a residential building, killing 11 people, including two children and […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/israel-lebanon-new-strikes-kfar.jpg?w=696",
+              "imageAlt": "Israeli airstrikes kill 12 people, including two children, in southern Lebanon",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+          "imageAlt": "Israeli strikes in southern Lebanese village kill 12",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+          "summary": "Flight recorders have been recovered after an Amazon cargo jet crashed at Miami International Airport on Sunday. BBC and Breitbart report that five people were killed, several others were injured, and footage showed the aircraft bursting into flames.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
@@ -57,40 +104,40 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-          "summary": "Thousands attended the Belgrade funeral of former Bosnian Serb army commander Ratko Mladić. Al Jazeera described it as a hero’s burial, while the BBC noted that Mladić was jailed for genocide during the 1990s Bosnian war and that the EU warned Serbia against glorifying him.",
+          "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+          "summary": "Germany’s far-right Alternative for Germany celebrated a projected victory in Saxony-Anhalt, with exit polls showing it just short of a majority. The party says democracy requires other parties to work with it following the regional election result.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-              "excerpt": "Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-07T140448Z_686606154_RC2EENAE2A9A_RTRMADP_3_PEOPLE-MLADIC-FUNERAL-1788791922.jpg?resize=1920%2C1440",
-              "imageAlt": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+              "headline": "What are the implications of AfD’s electoral rise for Germany and Europe?",
+              "excerpt": "The far-right Alternative for Germany is just short of a majority in a regional election.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788808719.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "What are the implications of AfD’s electoral rise for Germany and Europe?",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
-              "excerpt": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbf/live/7beeaca0-aac3-11f1-9bcd-4de40c4158ea.jpg",
-              "imageAlt": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+              "headline": "Germany's far-right AfD celebrate projected win in state election",
+              "excerpt": "AfD leaders celebrated tonight as exit polls projected a big lead in the Saxony-Anhalt vote.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/031a/live/5ff6ef10-aa20-11f1-aed2-8d6da8d75094.jpg",
+              "imageAlt": "Germany's far-right AfD celebrate projected win in state election",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
@@ -99,105 +146,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-07T140448Z_686606154_RC2EENAE2A9A_RTRMADP_3_PEOPLE-MLADIC-FUNERAL-1788791922.jpg?resize=1920%2C1440",
-          "imageAlt": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788808719.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "What are the implications of AfD’s electoral rise for Germany and Europe?",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "summary": "A CNN piece asks why the Republican-controlled House Judiciary Committee is not examining Thomas. Instead, the committee, chaired by Rep. Jim Jordan, was due to hold a New York City field hearing focused on its claim that Manhattan District Attorney Alvin Bragg’s policies had increased violent crime.",
-          "links": [
-            {
-              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "outlet": "CNN",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "imageCredit": "CNN"
-        },
-        {
-          "title": "‘Isn’t up for debate’: New Mexico governor hits back at Trump over ‘New America’ posts",
-          "summary": "President Donald Trump posted a New Mexico map on Truth Social with “Mexico” crossed out and “America” written beneath it, suggesting the unofficial name “New America.” New Mexico Governor Michelle Lujan Grisham responded that her state’s name “isn’t up for debate.”",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/09/07/president-trump-posts-map-renaming-new-mexico-to-new-america/",
-              "source": "Breitbart",
-              "headline": "President Trump Posts Map Renaming New Mexico to New America",
-              "excerpt": "President Donald Trump posted a map on his Truth Social account Sunday renaming the state of New Mexico to New America. The post President Trump Posts Map Renaming New Mexico to New America appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/trump-rename-640x335.jpg",
-              "imageAlt": "President Trump Posts Map Renaming New Mexico to New America",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/trump-sets-sights-on-us-state-for-next-geographic-rebrand",
-              "source": "Daily Wire",
-              "headline": "Trump Sets Sights On US State For Next Geographic Rebrand",
-              "excerpt": "President Donald Trump suggested Sunday that New Mexico could be next on his list of geographic rebrands, sharing a state map on Truth Social with “Mexico” struck through in red and “America” written beneath it — an unofficial stab at “New America.” The post arrived just days after Trump signed an executive order on August ...",
-              "imageUrl": "https://news.dailywire.com/wp-content/uploads/2026/09/GettyImages-2282815835.jpg?ar=16%3A9&crop=faces&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Trump Sets Sights On US State For Next Geographic Rebrand",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/white-house/4715911/new-mexico-governor-trump-new-america/",
-              "source": "Washington Examiner",
-              "headline": "‘Isn’t up for debate’: New Mexico governor hits back at Trump over ‘New America’ posts",
-              "excerpt": "Gov. Michelle Lujan Grisham (D-AZ) fired back at President Donald Trump after he teased the idea of changing her state’s name to “New America.” Grisham, who has led the state since 2019, took to social media after Trump hinted that New Mexico could be next for a name change. Trump previously pushed for the Gulf […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2025/08/grisham.webp?w=696",
-              "imageAlt": "‘Isn’t up for debate’: New Mexico governor hits back at Trump over ‘New America’ posts",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/trump-rename-640x335.jpg",
-          "imageAlt": "President Trump Posts Map Renaming New Mexico to New America",
-          "imageCredit": "Breitbart"
-        },
-        {
           "title": "Mom Obsessed With Lindsay Clancy Trial Kills Son, Calls Him ‘The Anti-Christ’",
-          "summary": "An Illinois mother was charged with first-degree murder over the death of her two-year-old son, according to reports citing court records and documents. The records say she had become highly invested in the Lindsay Clancy murder trial, while one report says she told police she believed her son was the “devil” and “anti-Christ.”",
+          "summary": "An Illinois woman has been charged with first-degree murder after allegedly strangling her two-year-old son, Barrett Walsh. Court records cited by the Daily Wire and Washington Times say Corie A. Walsh had become deeply invested in the Lindsay Clancy murder trial and told police she believed her child was the “devil” or “anti-Christ.”",
           "links": [
             {
               "url": "https://www.dailywire.com/news/mom-obsessed-with-lindsay-clancy-trial-kills-son-calls-him-the-anti-christ",
@@ -221,7 +176,7 @@
               "url": "https://www.washingtontimes.com/news/2026/sep/7/illinois-mother-who-invested-lindsay-clancy-trial-accused-killing/",
               "source": "Washington Times",
               "headline": "Illinois mother who was 'very invested' in Lindsay Clancy trial accused of killing toddler son",
-              "excerpt": "A suburban Chicago mother charged with strangling her 2-year-old son last week had \"recently become very invested in the Lindsay Clancy murder trial,\" according to court records.",
+              "excerpt": "A suburban Chicago woman charged with strangling her 2-year-old son last week had \"recently become very invested in the Lindsay Clancy murder trial,\" according to court records.",
               "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2014/06/10/ap210945194733_s1440x1082.jpg?6ec50090c6ade97ead0167171f3959c06c0a462b",
               "imageAlt": "Illinois mother who was 'very invested' in Lindsay Clancy trial accused of killing toddler son",
               "outlet": "Washington Times",
@@ -243,7 +198,7 @@
         },
         {
           "title": "King Charles Faces New Reckoning Over Britain’s Slave Trade",
-          "summary": "Jamaica formally petitioned King Charles III over Britain’s historical role in the transatlantic slave trade as part of its pursuit of reparations. The petition asks the King to refer three legal questions to the Judicial Committee of the Privy Council, a route no Commonwealth nation had previously attempted, according to the Daily Wire excerpt.",
+          "summary": "Jamaica has formally petitioned King Charles III over reparations for Britain’s role in the transatlantic slave trade. The petition asks the King to refer three legal questions to the Judicial Committee of the Privy Council, described as the first such approach by a Commonwealth nation.",
           "links": [
             {
               "url": "https://www.breitbart.com/europe/2026/09/07/jamaica-officials-to-deliver-slavery-reparations-petition-to-king-charles/",
@@ -289,7 +244,7 @@
         },
         {
           "title": "King Charles Slaps Prodigal Prince With Royal Reality Check",
-          "summary": "King Charles III has reiterated that Prince Harry and Meghan remain non-working members of the royal family following their return to Britain. The Daily Wire says a letter authorised by the King was distributed to Harry’s team and British officials to clarify that status.",
+          "summary": "King Charles III has made clear that Prince Harry and Meghan will remain non-working royals despite their return to the United Kingdom. Buckingham Palace also reaffirmed that they will not resume royal duties and that their HRH titles remain in abeyance.",
           "links": [
             {
               "url": "https://www.dailywire.com/news/king-charles-slaps-prodigal-prince-with-royal-reality-check",
@@ -310,12 +265,58 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/7/king-charles-clarifies-status-prince-harry-wife-meghan-return-britain/",
+              "url": "https://www.foxnews.com/entertainment/king-charles-iii-clarifies-prince-harry-meghan-markle-not-resume-royal-duties-after-uk-move",
+              "source": "Fox News",
+              "headline": "King Charles III clarifies Prince Harry and Meghan Markle will not resume royal duties after UK move",
+              "excerpt": "Buckingham Palace reaffirmed that Prince Harry and Meghan Markle will not resume royal duties despite their UK return, keeping HRH titles in abeyance.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Prince-Harry-Meghan-Markle-Anniversary.jpeg?ve=1&tl=1",
+              "imageAlt": "King Charles III clarifies Prince Harry and Meghan Markle will not resume royal duties after UK move",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-898509850-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "King Charles Slaps Prodigal Prince With Royal Reality Check",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "Russia shuts German Consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
+          "summary": "Russia has ordered Germany’s consulate in St. Petersburg to close and its staff to leave by September 18. Moscow described the move as retaliation after Germany closed Russia’s Bonn consulate and the Russia House cultural centre in Berlin amid a dispute over an attempted drone attack in Leipzig that Germany blamed on Russia.",
+          "links": [
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4716181/russia-germany-consulate-st-petersburg-leipzig-drone/",
+              "source": "Washington Examiner",
+              "headline": "Russia shuts German Consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
+              "excerpt": "MOSCOW (AP) — Russia’s Foreign Ministry on Monday announced the closure of the German Consulate in St. Petersburg, the latest in a cycle of tit-for-tat moves following an attempted drone attack in Leipzig that Germany blamed on Russia. The ministry said the German Consulate must stop operations and its workers must leave Russia by Sept. 18. It […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26250553785504.jpg?w=696",
+              "imageAlt": "Russia shuts German Consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/7/moscow-orders-closure-germanys-consulate-st-petersburg-spat-attempted/",
               "source": "Washington Times",
-              "headline": "King Charles clarifies status of Prince Harry and his wife, Meghan, after their return to Britain",
-              "excerpt": "King Charles III has reiterated that Prince Harry and his wife, Meghan, remain non-working members of the royal family following their return to Britain.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/26/Britain_Prince_Harry_944_7_s1440x965.jpg?cb729e1070d7b80dd6650f1b609adaa3cba5ddd1",
-              "imageAlt": "King Charles clarifies status of Prince Harry and his wife, Meghan, after their return to Britain",
+              "headline": "Moscow orders closure of Germany's consulate in St. Petersburg in spat over attempted drone attack",
+              "excerpt": "Russia on Monday ordered the closure of Germany's consulate in St. Petersburg in response to what it said were the \"unfriendly actions of the German authorities\" who shuttered Moscow's consulate in Bonn, along with the Russia House cultural center in Berlin.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/07/Russia_Germany_56762_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Moscow orders closure of Germany's consulate in St. Petersburg in spat over attempted drone attack",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -329,9 +330,9 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-898509850-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "King Charles Slaps Prodigal Prince With Royal Reality Check",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26250553785504.jpg?w=696",
+          "imageAlt": "Russia shuts German Consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
+          "imageCredit": "Washington Examiner"
         }
       ]
     },
@@ -340,15 +341,15 @@
       "stories": [
         {
           "title": "Victory lies ahead for Germany’s AfD",
-          "summary": "The Alternative for Germany is nearing the prospect of leading a state government for the first time. A linked Spectator Australia report says the AfD made history by winning in Saxony-Anhalt.",
+          "summary": "The story title predicts further success for Germany’s AfD, but the sole linked Spectator Australia item is headlined “The Green Dream fades.” Its excerpt discusses Chris Bowen rather than the AfD, so the supplied source material provides no further support or detail for the title.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/09/how-the-afd-made-history-by-winning-in-saxony-anhalt/",
+              "url": "https://www.spectator.com.au/2026/09/the-green-dream-fades/",
               "source": "Spectator Australia",
-              "headline": "How the AfD made history by winning in Saxony-Anhalt",
-              "excerpt": "The Alternative for Germany (AfD) is on the verge of leading a state government for the first time in history.… The post How the AfD made history by winning in Saxony-Anhalt appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/09/victory-lies-ahead-fo",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_2293369063.jpg",
-              "imageAlt": "How the AfD made history by winning in Saxony-Anhalt",
+              "headline": "The Green Dream fades",
+              "excerpt": "Is anyone surprised that the invitation of president for negotiations Chris Bowen – B1 to Speccie readers – to his… The post The Green Dream fades appeared first on The Spectator Australia . What to read next: One trillion and counting | <a href=\"https://ww",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/sloan_5_sep_post.jpg",
+              "imageAlt": "The Green Dream fades",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -362,39 +363,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_2293369063.jpg",
-          "imageAlt": "How the AfD made history by winning in Saxony-Anhalt",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/sloan_5_sep_post.jpg",
+          "imageAlt": "The Green Dream fades",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Radiohead announce 2027 tour with shows in Australia and Japan",
-          "summary": "Radiohead has announced a May 2027 tour featuring 16 shows across Perth, Melbourne and Sydney, plus five shows in Saitama, Japan. The Australian dates will mark the influential British band’s first tour of the country in 15 years.",
+          "title": "Border Force seizes 1.7m cigarettes, thousands of vapes in WA, NT raids",
+          "summary": "Australian Border Force has seized more than 1.7 million illegal cigarettes and thousands of vapes in raids across Western Australia and the Northern Territory. ABC News reports that the goods had a combined street value of more than $800,000 and were recovered in a joint operation.",
           "links": [
             {
-              "url": "https://www.theguardian.com/music/2026/sep/07/radiohead-announce-2027-tour-with-shows-in-australia-and-japan",
-              "source": "The Guardian Australia",
-              "headline": "Radiohead announce 2027 tour with shows in Australia and Japan",
-              "excerpt": "UK band will play 16 shows across Perth, Melbourne and Sydney, as well as five shows in Saitama Radiohead will return to Australia to play 16 shows across three cities next year, marking the band’s first tour of the country in 15 years. On Monday afternoon, the British rock band unveiled the itinerary for its May 2027 tour, which also includes five shows in Japan. <a href=\"https://www.theguardian.com/music/2026/sep/07/radiohead-announce-2027-tour-with-shows-in-australia-and-ja",
-              "imageUrl": "https://i.guim.co.uk/img/media/320e7a1c744428d60d8c12c2b5ddea94a5b9ab1e/180_0_1639_1312/master/1639.jpg?width=140&quality=85&auto=format&fit=max&s=de91e8c45095c29b7ff3723d913c8863",
-              "imageAlt": "Radiohead announce 2027 tour with shows in Australia and Japan",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-09-07/radiohead-australian-tour-2027-sydney-melbourne-perth/107125744",
+              "url": "https://www.abc.net.au/news/2026-09-08/wa-nt-illegal-cigarettes-tobacco-vapes-raids-police-border-force/107127594",
               "source": "ABC Australia",
-              "headline": "Radiohead announce 16 Australian shows for 2027",
-              "excerpt": "The hugely influential British band will visit Australia for the first time in 15 years in May next year.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/47a9246a29ecb2bce94aa79d6c89a7ab?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-              "imageAlt": "Radiohead announce 16 Australian shows for 2027",
+              "headline": "Border Force seizes 1.7m cigarettes, thousands of vapes in WA, NT raids",
+              "excerpt": "The Australian Border Force has seized more than 1.7 million illegal cigarettes and thousands of vapes with a street value of more than $800,000 in a joint operation across Western Australian and the Northern Territory.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/329e8cf66eedf9b5c37ff56e1e06e736?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=384&width=862&height=485",
+              "imageAlt": "Border Force seizes 1.7m cigarettes, thousands of vapes in WA, NT raids",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -409,21 +392,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/320e7a1c744428d60d8c12c2b5ddea94a5b9ab1e/180_0_1639_1312/master/1639.jpg?width=140&quality=85&auto=format&fit=max&s=de91e8c45095c29b7ff3723d913c8863",
-          "imageAlt": "Radiohead announce 2027 tour with shows in Australia and Japan",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/329e8cf66eedf9b5c37ff56e1e06e736?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=384&width=862&height=485",
+          "imageAlt": "Border Force seizes 1.7m cigarettes, thousands of vapes in WA, NT raids",
+          "imageCredit": "ABC News"
         },
         {
-          "title": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
-          "summary": "Three men have gone on trial in Mexico over the 2024 killings of Australian brothers Jake and Callum Robinson and their American friend Jack Carter Rhoad. The proceedings are taking place in the Baja California border resort where the three surfers were killed.",
+          "title": "Parents of Australian brothers killed at Mexican surfing hotspot attend murder trial – video",
+          "summary": "The parents of Perth brothers Callum and Jake Robinson have attended the start of a murder trial in Ensenada, Mexico. Three men are accused of killing the brothers and their American friend, Jack Carter Rhoad, in Baja California.",
           "links": [
             {
-              "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+              "url": "https://www.theguardian.com/world/video/2026/sep/08/parents-of-australian-brothers-killed-at-mexican-surfing-hotspot-attend-trial-video-ntwnfb",
               "source": "The Guardian Australia",
-              "headline": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
-              "excerpt": "Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024 The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on trial in the border resort where the three were murdered. The Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and their 30-year-old American friend Jack Carter Rhoad were <a href=\"https://www.theguardian.com/world/article/2024/may/05/mexico",
-              "imageUrl": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=3af8f82f816ebd3d11dcdcccd67070d8",
-              "imageAlt": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+              "headline": "Parents of Australian brothers killed at Mexican surfing hotspot attend murder trial – video",
+              "excerpt": "The parents of two Perth surfers killed alongside their American friend attended the start of the trial of three men accused of their murder in Mexico. Debra and Martin Robinson travelled to the port city of Ensenada in Baja California state for the proceedings after the deaths of their sons, Callum and Jake Robinson, and American Jack Carter Rhoad <a href=\"https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexi",
+              "imageUrl": "https://i.guim.co.uk/img/media/544a65a91f65e36322266078d8a124d0610dbaca/600_0_4927_3942/master/4927.jpg?width=140&quality=85&auto=format&fit=max&s=2b9689defc999059d2ad9067416e8c15",
+              "imageAlt": "Parents of Australian brothers killed at Mexican surfing hotspot attend murder trial – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -437,21 +420,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=3af8f82f816ebd3d11dcdcccd67070d8",
-          "imageAlt": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+          "imageUrl": "https://i.guim.co.uk/img/media/544a65a91f65e36322266078d8a124d0610dbaca/600_0_4927_3942/master/4927.jpg?width=140&quality=85&auto=format&fit=max&s=2b9689defc999059d2ad9067416e8c15",
+          "imageAlt": "Parents of Australian brothers killed at Mexican surfing hotspot attend murder trial – video",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Time’s up for Burnham’s happy thoughts",
-          "summary": "The story is titled “Time’s up for Burnham’s happy thoughts,” but the supplied link does not provide details about that subject. Its Spectator Australia headline instead introduces a letters column, and the excerpt begins with a reader discussing education.",
+          "title": "Festivals are destroying London’s great parks",
+          "summary": "The story title argues that festivals are damaging London’s major parks, but the only linked Spectator Australia item is an advice column about parking at a boyfriend’s parents’ country home. The supplied headline and excerpt contain no details about festivals or London parks.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/09/letters-what-will-i-do-without-gentlemans-relish/",
+              "url": "https://www.spectator.com.au/2026/09/dear-mary-where-should-i-park-my-car-at-my-boyfriends-parents-house/",
               "source": "Spectator Australia",
-              "headline": "Letters: What will I do without Gentleman’s Relish?",
-              "excerpt": "Lessons in education Sir: I read Michael Gove’s thought-provoking piece (‘Revenge of the Blob’, 29 August) with great interest. It… The post Letters: What will I do without Gentleman’s Relish? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/letter",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Letters_istock.jpg",
-              "imageAlt": "Letters: What will I do without Gentleman’s Relish?",
+              "headline": "Dear Mary: where should I park my car at my boyfriend’s parents’ house?",
+              "excerpt": "Q. My boyfriend’s family live in a very pretty Georgian house in the country. The family park their cars at… The post Dear Mary: where should I park my car at my boyfriend’s parents’ house? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.a",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Dear_Mary_iStock_2026513850.jpg",
+              "imageAlt": "Dear Mary: where should I park my car at my boyfriend’s parents’ house?",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -465,8 +448,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Letters_istock.jpg",
-          "imageAlt": "Letters: What will I do without Gentleman’s Relish?",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Dear_Mary_iStock_2026513850.jpg",
+          "imageAlt": "Dear Mary: where should I park my car at my boyfriend’s parents’ house?",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -475,16 +458,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "What we expect from the upcoming Apple launch",
-          "summary": "Apple’s September 9 launch is expected to be led by its first foldable iPhone Ultra. TechCrunch also anticipates announcements concerning AirPods and HomePods.",
+          "title": "Opaque recurrence, and other AI terms that you should probably know",
+          "summary": "Artificial intelligence’s rapid growth has produced a wave of unfamiliar terminology and slang. TechCrunch’s story offers a glossary explaining “opaque recurrence” and other important AI words and phrases readers may encounter.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+              "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
               "source": "TechCrunch",
-              "headline": "What we expect from the upcoming Apple launch",
-              "excerpt": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
-              "imageAlt": "What we expect from the upcoming Apple launch",
+              "headline": "Opaque recurrence, and other AI terms that you should probably know",
+              "excerpt": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
+              "imageAlt": "Opaque recurrence, and other AI terms that you should probably know",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -498,13 +481,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
-          "imageAlt": "What we expect from the upcoming Apple launch",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
+          "imageAlt": "Opaque recurrence, and other AI terms that you should probably know",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-          "summary": "The story title says the Seattle Times and Newsday are suing OpenAI and Microsoft for infringement, but the supplied link does not support or elaborate on that claim. The linked Verge item instead concerns Sony revisiting its XM4 headphones six years after their introduction.",
+          "summary": "The story title says the Seattle Times and Newsday have sued OpenAI and Microsoft for infringement. The sole linked Verge item instead concerns Sony’s XM4C headphones, so the supplied link provides no allegations, court details, or other support for the lawsuit title.",
           "links": [
             {
               "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
@@ -532,7 +515,7 @@
         },
         {
           "title": "Pixel 11 review: Google sets the bar for standard flagship phones",
-          "summary": "The Guardian’s review says Google’s Pixel 11 sets the standard for a base-model flagship Android phone, citing longer battery life, a faster chip, useful AI tools and improved cameras. It also highlights long software support and says the handset costs £879, €999, $899 or A$1,499, an increase of £80 or the local equivalent over the previous model.",
+          "summary": "Google’s Pixel 11 pairs longer battery life and a faster chip with improved cameras, useful AI tools, and long software support. The Guardian calls it a standard-setting base flagship, while noting that its £879 price is £80 higher than last year’s model because of increased memory and chip costs.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/07/pixel-11-review-google-flagship-phones-battery-cameras-android",
@@ -560,7 +543,7 @@
         },
         {
           "title": "Designers should not fear being replaced by AI, industry leaders say",
-          "summary": "Industry leaders say professional designers should not fear being replaced by generative AI. They expect design, film production and manufacturing firms to use the technology more like an office intern that enhances skilled work, even as adoption accelerates and concerns about job losses persist.",
+          "summary": "Industry leaders say professional designers should view generative AI as an office intern rather than a replacement for skilled staff. As design, film-production, and manufacturing businesses adopt the technology, industry bodies expect it to enhance designers’ work despite continuing fears about job losses.",
           "links": [
             {
               "url": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
@@ -587,8 +570,292 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+          "summary": "Microsoft’s Surface Laptop 8 delivers faster performance, longer battery life, a strong keyboard, and a new haptic touchpad. The Qualcomm-powered Windows 11 laptop replaces the 2024 seventh edition but carries a substantial price increase attributed to higher memory and chip costs.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
+              "source": "The Guardian Technology",
+              "headline": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+              "excerpt": "Snappy performance, long battery life, great keyboard and excellent new haptic touchpad make the best of Windows 11 Microsoft’s Surface laptop for consumers is back, faster and with longer battery life and a hefty price increase because of the high cost of memory and chips. The Surface Laptop 8 is a straight replacement for the seventh edition from 2024, which was the first of Microsoft’s new generation of ARM-based, Qualcomm-powered PCs designed to better rival Apple’s MacBook Ai",
+              "imageUrl": "https://i.guim.co.uk/img/media/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=fb2600bbff24697c22f80e6c6ea9e5fd",
+              "imageAlt": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=fb2600bbff24697c22f80e6c6ea9e5fd",
+          "imageAlt": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Highlights: Day 22 of Sara Duterte impeachment trial | Sept. 7, 2026",
+          "summary": "The 22nd day of Vice President Sara Duterte’s impeachment trial focused on the identities of alleged recipients of confidential funds released by the Office of the Vice President and Department of Education. Prosecution witness Marizza Grande, an assistant national statistician at the Philippine Statistics Authority, testified about several names.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2301130/highlights-day-22-of-sara-duterte-impeachment-trial-sept-7-2026",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Highlights: Day 22 of Sara Duterte impeachment trial",
+              "excerpt": "MANILA, Philippines – The 22nd day of Vice President Sara Duterte’s impeachment trial focused on the identities of alleged recipients of confidential funds released by the Office of the Vice President (OVP) and the Department of Education (DepEd). Philippine Statistics Authority Assistant National Statistician Marizza Grande testified for the prosecution and confirmed that several names",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/9-7-26Daily-Notes-featured-image-Sara-Impeachment-Trial.png",
+              "imageAlt": "Highlights: Day 22 of Sara Duterte impeachment trial | Sept. 7, 2026",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/9-7-26Daily-Notes-featured-image-Sara-Impeachment-Trial.png",
+          "imageAlt": "Highlights: Day 22 of Sara Duterte impeachment trial | Sept. 7, 2026",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "SC voids vessel tracking rule: What the decision means",
+          "summary": "The Philippine Supreme Court has upheld a 2021 ruling that invalidated a regulation requiring electronic monitoring of commercial fishing vessels. The court said Fisheries Administrative Order No. 266 exceeded what was reasonably necessary to combat illegal fishing and violated constitutional protections.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2301243/sc-voids-vessel-tracking-rule-what-the-decision-means",
+              "source": "Philippine Daily Inquirer",
+              "headline": "SC voids vessel tracking rule: What the decision means",
+              "excerpt": "(First of two parts) MANILA, Philippines — The Supreme Court has upheld a 2021 ruling that struck down a government regulation requiring commercial fishing vessels to be monitored electronically, saying the measure went beyond what was reasonably necessary to fight illegal fishing and violated constitutional protections. The ruling involved Fisheries Administrative Order (FAO) No. 266,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/sc-vesselvms-composite-07sep2026.jpg",
+              "imageAlt": "SC voids vessel tracking rule: What the decision means",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/sc-vesselvms-composite-07sep2026.jpg",
+          "imageAlt": "SC voids vessel tracking rule: What the decision means",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Legarda extends leave for fifth time",
+          "summary": "Philippine Senator Loren Legarda has extended her medical leave for a fifth time and is expected to remain away from the Senate until September 16. Ombudsman Jesus Crispin Remulla has intensified criticism of her absence while a preliminary investigation examines alleged irregularities worth P10.44 billion in solar-power projects.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2301020/legarda-extends-leave-for-fifth-time",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Legarda extends leave for fifth time",
+              "excerpt": "MANILA, Philippines — Sen. Loren Legarda has extended her medical leave for the fifth time, keeping her away from the Senate until Sept. 16. Ombudsman Jesus Crispin Remulla, meanwhile, stepped up his criticism of the senator’s prolonged absence amid a preliminary investigation into alleged P10.44-billion irregularities involving solar power projects. Senate Secretary Renato Bantug on",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Loren-Legarda-7August2026.jpg",
+              "imageAlt": "Legarda extends leave for fifth time",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Loren-Legarda-7August2026.jpg",
+          "imageAlt": "Legarda extends leave for fifth time",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Bishop seeks clean energy roadmap amid Visayas power woes",
+          "summary": "San Carlos Bishop Gerardo Alminaza has called recurring brownouts across the Visayas a “systemic warning” and urged stakeholders to reform the region’s energy system. He argued for a clean-energy roadmap rather than renewed fossil-fuel dependence, saying the outages are severely affecting hospitals, schools, and businesses.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2301193/bishop-seeks-clean-energy-roadmap-amid-visayas-power-woes",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Bishop seeks clean energy roadmap amid Visayas power woes",
+              "excerpt": "BACOLOD CITY — San Carlos Bishop Gerardo Alminaza on Monday described the recurring brownouts across the Visayas as a “systemic warning,” urging power sector stakeholders to reform the region’s energy system instead of returning to fossil fuel dependence. In a Facebook post, Alminaza said the continuing power interruptions were severely affecting hospitals, schools, businesses and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/San-Carlos-Bishop-Gerardo-Alminaza08sept2026.png",
+              "imageAlt": "Bishop seeks clean energy roadmap amid Visayas power woes",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/San-Carlos-Bishop-Gerardo-Alminaza08sept2026.png",
+          "imageAlt": "Bishop seeks clean energy roadmap amid Visayas power woes",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "LIST: Big names, others arrested in flood control scandal",
+          "summary": "A Philippine government investigation into alleged corruption in flood-control and other infrastructure projects has led to multiple arrests and detentions. The cases have reached prominent political figures after the scandal came to national attention in August 2025.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2301146/list-who-are-the-big-names-arrested-in-flood-control-scandal",
+              "source": "Philippine Daily Inquirer",
+              "headline": "LIST: Big names, others arrested in flood control scandal",
+              "excerpt": "MANILA, Philippines — The government’s investigation into alleged corruption in flood control and other infrastructure projects has led to the arrest and detention of several personalities, with the cases now reaching some of the country’s most prominent political figures. The flood control scandal came to national prominence in August 2025 after President Ferdinand Marcos Jr.",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Former-House-Speaker-Martin-Romualdez-left-former-Sen.-Bong-Revilla-middle-and-Sen.-Jinggoy-Estrada-right-INQUIRER-FILE.png",
+              "imageAlt": "LIST: Big names, others arrested in flood control scandal",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Former-House-Speaker-Martin-Romualdez-left-former-Sen.-Bong-Revilla-middle-and-Sen.-Jinggoy-Estrada-right-INQUIRER-FILE.png",
+          "imageAlt": "LIST: Big names, others arrested in flood control scandal",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "summary": "Leading Chinese property developer Vanke has reported a huge loss, deepening concern about the country’s real-estate troubles. The result raises questions about how far the property crisis may spread and whether the Chinese state will intervene.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+              "source": "Wall Street Journal",
+              "headline": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "excerpt": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+              "imageUrl": "",
+              "imageAlt": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "What we expect from the upcoming Apple launch",
+          "summary": "Apple’s September 9 launch is expected to be headlined by its first foldable iPhone Ultra. TechCrunch also anticipates announcements involving AirPods and HomePods.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+              "source": "TechCrunch",
+              "headline": "What we expect from the upcoming Apple launch",
+              "excerpt": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
+              "imageAlt": "What we expect from the upcoming Apple launch",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
+          "imageAlt": "What we expect from the upcoming Apple launch",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "summary": "Sennheiser’s Momentum 5 noise-cancelling headphones combine improved sound and noise cancellation with strong comfort, broad connectivity, and a user-replaceable battery. The £330 model replaces its predecessor while aiming to keep pace with competing premium Bluetooth headphones.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review",
+              "source": "The Guardian Technology",
+              "headline": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "excerpt": "Premium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals. The Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu",
+              "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+              "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+          "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "summary": "Freed Israeli hostages still had shrapnel in their bodies from the October 7 attack, according to the story title. An Israeli medical official said some of the women were held alone for extended periods and spent eight months in tunnels.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+              "source": "Wall Street Journal",
+              "headline": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "excerpt": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+              "imageUrl": "",
+              "imageAlt": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
           "title": "Why Meta started losing in court - podcast",
-          "summary": "Guardian journalist Katy McQue discusses why Meta has begun losing in court and the tactics prosecutors are using. Her reporting has focused on potential harms Meta’s platforms pose to children and the evidence assembled by journalists, prosecutors, bereaved families and others.",
+          "summary": "A Guardian podcast examines why Meta has begun losing in court over alleged harms its platforms pose to children. Investigative journalist Katy McQue discusses prosecutors’ tactics after years in which evidence assembled by journalists, bereaved families, and others had struggled to produce legal results.",
           "links": [
             {
               "url": "https://www.theguardian.com/news/audio/2026/sep/07/why-meta-started-losing-in-court-podcast",
@@ -612,296 +879,6 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/a4f08e1f200842c5b0cfe79a96b5f89b3209d6ac/383_0_2779_2223/master/2779.jpg?width=140&quality=85&auto=format&fit=max&s=f1d59fda9baf18c583296825d43eb67e",
           "imageAlt": "Why Meta started losing in court - podcast",
-          "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Senate OKs five international resolutions on third reading",
-          "summary": "The Philippine Senate unanimously approved five international resolutions on their third and final reading, with 19 senators voting in favour and none objecting or abstaining. The measures cover aviation security, criminal-justice cooperation, space activities, higher education and taxation, and are intended to strengthen the country’s participation in international agreements.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2300746/senate-oks-five-international-resolutions-on-third-reading",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Senate OKs five international resolutions on third reading",
-              "excerpt": "MANILA, Philippines — The Senate on Monday approved on their third and final reading five international resolutions on aviation security, criminal justice cooperation, space activities, higher education, and taxation. In a roll call vote, nineteen senators, with no abstentions or objections, approved the five resolutions aimed at strengthening the Philippines’ participation in international agreements; The",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/08/Senate-of-the-Philippines-logos-2024.png",
-              "imageAlt": "Senate OKs five international resolutions on third reading",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/08/Senate-of-the-Philippines-logos-2024.png",
-          "imageAlt": "Senate OKs five international resolutions on third reading",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "P600,000 ‘smuggled’ cigarettes recovered in Maguindanao del Norte",
-          "summary": "The story title refers to P600,000 in suspected smuggled cigarettes recovered in Maguindanao del Norte, but the supplied link reports a different seizure. The linked Philippine Daily Inquirer report says police arrested four men in Mabalacat City, Pampanga, for transporting an estimated P48.9 million in suspected smuggled cigarettes after several days of surveillance.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2300789/p48-9m-smuggled-cigarettes-seized-in-pampanga-4-men-arrested",
-              "source": "Philippine Daily Inquirer",
-              "headline": "P48.9M ‘smuggled’ cigarettes seized in Pampanga, 4 men arrested",
-              "excerpt": "MABALACAT CITY — The police arrested four men for transporting some an estimated P48,955,500 worth of suspected smuggled cigarettes in Barangay Cacutud here shortly after midnight on Monday. In a statement, the Police Regional Office 3 (PRO3) said the operation which resulted in the arrest was carried out after several days of surveillance operations. Authorities",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Pampanga-map-filephoto-091122.jpg",
-              "imageAlt": "P48.9M ‘smuggled’ cigarettes seized in Pampanga, 4 men arrested",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Pampanga-map-filephoto-091122.jpg",
-          "imageAlt": "P48.9M ‘smuggled’ cigarettes seized in Pampanga, 4 men arrested",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Romualdez asks court to extend hospital confinement after arrest",
-          "summary": "The story title says Martin Romualdez asked a court to extend his hospital confinement after arrest, but the supplied excerpt does not describe that request. It reports that the Sandiganbayan issued arrest warrants for Romualdez, Zaldy Co and two others in a plunder case, adding that those arrested would be held without bail.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2300385/arrest-warrant-issued-vs-romualdez-co-2-others-over-plunder",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Arrest warrant issued vs Romualdez, Co, 2 others over plunder",
-              "excerpt": "Arrest warrant issued vs Romualdez, Co, 2 others over plunder MANILA, Philippines — The Sandiganbayan Third Division on Monday issued an arrest warrant against former House Speaker and incumbent Leyte Rep. Martin Romualdez, former Ako Bicol party-list Rep. Zaldy Co and two others over their plunder case. Once arrested, they would stay behind bars since",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/romualdelz-21April2026_2.jpg",
-              "imageAlt": "Arrest warrant issued vs Romualdez, Co, 2 others over plunder",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/romualdelz-21April2026_2.jpg",
-          "imageAlt": "Arrest warrant issued vs Romualdez, Co, 2 others over plunder",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DICT mulls fewer valid IDs for SIM registration",
-          "summary": "The Philippines’ Department of Information and Communications Technology is considering reducing the number of valid IDs accepted for SIM registration to deter identity falsification. Secretary Henry Aguda discussed the proposal during a House appropriations committee briefing on the department’s proposed 2027 budget.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2300669/dict-mulls-fewer-valid-ids-for-sim-registration",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DICT mulls fewer valid IDs for SIM registration",
-              "excerpt": "MANILA, Philippines — The Department of Information and Communications Technology (DICT) is eyeing a reduction in the number of valid IDs accepted for SIM (subscriber identity module) registration to prevent identity falsification, Secretary Henry Aguda said on Monday. During the House of Representatives committee on appropriations’ briefing on the DICT’s proposed 2027 budget, Aguda pointed",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2023/04/DICT-sim-card-filephoto-041923.jpg",
-              "imageAlt": "DICT mulls fewer valid IDs for SIM registration",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2023/04/DICT-sim-card-filephoto-041923.jpg",
-          "imageAlt": "DICT mulls fewer valid IDs for SIM registration",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Manila Water eyes completing San Juan Reservoir by end of 2026",
-          "summary": "Manila Water is targeting completion of the new San Juan Reservoir by the end of 2026. The company says the facility is designed to withstand major earthquakes and improve the long-term reliability and resilience of water supplies amid more frequent climate-related challenges and natural hazards.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2300911/manila-water-eyes-completing-san-juan-reservoir-by-end-of-2026",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Manila Water eyes completing San Juan Reservoir by end of 2026",
-              "excerpt": "MANILA, Philippines — As climate-related challenges and natural hazards become more frequent and severe, Manila Water is strengthening the resilience of its water supply infrastructure through the ongoing construction of the new San Juan Reservoir, a critical facility designed to withstand major earthquakes and support reliable water service for decades to come. Targeted for completion by",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/ManilaWater-SanJuanReservoir-07Sep2026.jpg",
-              "imageAlt": "Manila Water eyes completing San Juan Reservoir by end of 2026",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/ManilaWater-SanJuanReservoir-07Sep2026.jpg",
-          "imageAlt": "Manila Water eyes completing San Juan Reservoir by end of 2026",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-          "summary": "TechCrunch Mobility reports that Tesla’s Cybercab has reached the road and encountered a snag, although the supplied excerpt gives no details about the setback. The newsletter frames the item within its coverage of future transportation and the growing role of AI.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-              "source": "TechCrunch",
-              "headline": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-              "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-              "imageAlt": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-          "imageAlt": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
-          "summary": "A Guardian opinion piece argues that technology companies are eroding privacy and that Australia has a rare opportunity to reclaim some power. It points to the popularity of intrusive smart glasses, ineffective tick-box consent and the spread of surveillance into everyday life.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/commentisfree/2026/sep/02/tech-giants-australia-privacy-act-legislation-laws",
-              "source": "The Guardian Technology",
-              "headline": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power",
-              "excerpt": "‘Pervert glasses’ are selling out, tick-a-box consent is broken and the spectre of surveillance is invading all aspects of our lives Get our breaking news email , free app or daily news podcast A mere five years after the government first started talking about i",
-              "imageUrl": "https://i.guim.co.uk/img/media/fb9fa74dda4cd935fbaba98848a6e7e45ccd53c7/317_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=4d04f8f223fe3d91b508702ba9e50429",
-              "imageAlt": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/fb9fa74dda4cd935fbaba98848a6e7e45ccd53c7/317_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=4d04f8f223fe3d91b508702ba9e50429",
-          "imageAlt": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-          "summary": "The Guardian’s review praises the Ninja Artisan electric pizza oven as affordable, quick to heat and versatile enough to appeal even to traditionalists willing to forgo a flame. It also highlights the oven’s air-fryer function as a useful feature for outdoor cooks.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2026/sep/06/ninja-artisan-electric-pizza-oven-review",
-              "source": "The Guardian Technology",
-              "headline": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-              "excerpt": "Affordable, fast-heating and with a clever air fryer function, this versatile model is a winner for outdoor cooks who are willing to give up the traditional flame • The best pizza ovens – tested • Gozney Dome Gen 2 pizza oven review An electric <a",
-              "imageUrl": "https://i.guim.co.uk/img/media/8343370f21a31642c19896c347134185984eefe6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5da5a72fdc84ac4c23a3b4c9f07b7b60",
-              "imageAlt": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/8343370f21a31642c19896c347134185984eefe6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5da5a72fdc84ac4c23a3b4c9f07b7b60",
-          "imageAlt": "Ninja Artisan electric pizza oven review: so good it might even convert the purists",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
-          "summary": "The story title concerns unidentified backers of AI-generated advertisements appearing before Victoria’s election, but the supplied link addresses a different subject. The linked Guardian report says Macquarie University is using an AI chatbot in online-only psychology classes, a trend critics fear could bring further staff cuts and diminish valued parts of academic work.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
-              "source": "The Guardian Technology",
-              "headline": "AI chatbot helps teach online-only psychology classes at Macquarie University",
-              "excerpt": "University’s move is part of trend that critics within academia say will lead to further staff cuts and loss of ‘everything that makes the job worth doing’ Follow our Australia news live blog for latest updates Get our breaking news email , <a h",
-              "imageUrl": "https://i.guim.co.uk/img/media/5cda859030c3982d393b86028743f07da95852db/81_0_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=d6a1874a982c52c4660f30b3ce54aff4",
-              "imageAlt": "AI chatbot helps teach online-only psychology classes at Macquarie University",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/5cda859030c3982d393b86028743f07da95852db/81_0_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=d6a1874a982c52c4660f30b3ce54aff4",
-          "imageAlt": "AI chatbot helps teach online-only psychology classes at Macquarie University",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
-          "summary": "A Guardian analysis found that dozens of submissions to Australia’s parliament misrepresented genuine research or invented and incorrectly cited sources. The problems appeared across the political spectrum and included misinformation and apparent AI hallucinations.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
-              "source": "The Guardian Technology",
-              "headline": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
-              "excerpt": "Exclusive : Guardian analysis reveals that dozens of policy submissions from across the political spectrum incorrectly summarise real research and invent or wrongly cite sources Follow our Australia news live blog for latest updates </",
-              "imageUrl": "https://i.guim.co.uk/img/media/dbf27a56f97c8ea8be2479f99166353d3523a478/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dbfab88b6b3f2973771029357f78ac45",
-              "imageAlt": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/dbf27a56f97c8ea8be2479f99166353d3523a478/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dbfab88b6b3f2973771029357f78ac45",
-          "imageAlt": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
           "imageCredit": "The Guardian"
         }
       ]
