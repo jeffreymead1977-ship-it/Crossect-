@@ -2,99 +2,16 @@
   "id": "2026-09-10-expanded",
   "date": "2026-09-10",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-10T03:00:08.909196",
+  "generatedAt": "2026-09-10T12:30:50.475021",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-10T03:00:08",
+  "updatedAt": "2026-09-10T12:30:50",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "U.S. Strikes Iranian Tankers, Iran Attacks Jordan, Oil Surges Past $100",
-          "summary": "Brent crude rose above $100 a barrel as fighting involving the United States and Iran escalated, according to Al Jazeera, the BBC, Breitbart and The Washington Times. Reports say the U.S. struck five Iranian tankers, while Breitbart reported Iranian attacks on civilian vessels and missiles launched at U.S. forces in Jordan. The oil-price jump shook stock markets and renewed concerns about global inflation.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-              "excerpt": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-09T100020Z_1739521985_RC2MFNAIDEUH_RTRMADP_3_USA-STOCKS-MIDTERM-1788953549.jpg?resize=1920%2C1440",
-              "imageAlt": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-              "excerpt": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/65350fe0-ac30-11f1-b1d1-571ed4d7ff2c.jpg",
-              "imageAlt": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/national-security/2026/09/09/u-s-strikes-iranian-tankers-iran-attacks-jordan-oil-surges-past-100/",
-              "source": "Breitbart",
-              "headline": "U.S. Strikes Iranian Tankers, Iran Attacks Jordan, Oil Surges Past $100",
-              "excerpt": "Hostilities between the U.S. and Iran continued to escalate on Tuesday night, as the U.S. destroyed five Iranian oil tankers, and Iran retaliated by attacking numerous civilian vessels and launching missiles at U.S. forces in Jordan. The benchmark price of oil rose above $100 per barrel for the first time since July amid the escalation. The post <a rel=\"nofollow\" href=\"https://www.breitbart.com/national-security/2026/09/09/u-s-strikes-iranian-tankers-iran-attacks-jordan-oil-surges-past",
-              "imageUrl": "https://media.breitbart.com/media/2026/07/us-fires-missile-640x335.jpg",
-              "imageAlt": "U.S. Strikes Iranian Tankers, Iran Attacks Jordan, Oil Surges Past $100",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/9/stocks-drop-wall-street-oil-prices-jump-back-100-barrel-iran-war/",
-              "source": "Washington Times",
-              "headline": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
-              "excerpt": "Stocks fell on Wall Street Wednesday as the price of crude oil rose back above $100 a barrel amid further escalation in the U.S. war with Iran.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/09/Financial_Markets_Wall_Street_78793_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-09T100020Z_1739521985_RC2MFNAIDEUH_RTRMADP_3_USA-STOCKS-MIDTERM-1788953549.jpg?resize=1920%2C1440",
-          "imageAlt": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-          "imageCredit": "Al Jazeera"
-        },
-        {
           "title": "The Earth Just Tried To Swallow Nicolas Cage’s House",
-          "summary": "A large sinkhole opened outside a Malibu beachfront home thought to belong to Nicolas Cage, collapsing part of its driveway on Tuesday morning. The BBC cited local authorities for the collapse, while the Daily Wire attributed the damage to heavy rain and high surf from Tropical Storm Marie. The Daily Wire estimated the hole at about 30 feet by 30 feet.",
+          "summary": "A large sinkhole opened outside a Malibu beachfront home reported to belong to Nicolas Cage, collapsing part of its driveway on Tuesday morning. Reports linked the roughly 30-by-30-foot hole to heavy rain and high surf from Tropical Storm Marie and said it threatened the $10.5 million property.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
@@ -114,6 +31,24 @@
               "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/entertainment/2026/09/09/hurricane-flood-causes-nicolas-cage-malibu-mansion-collapse/",
+              "source": "Breitbart",
+              "headline": "Hurricane Flood Causes Nicolas Cage Malibu Mansion Collapse",
+              "excerpt": "MALIBU, Calif. (AP) — The driveway of a coastal mansion in Malibu owned by actor Nicolas Cage collapsed Tuesday morning, opening up a giant hole in front of the house. The post Hurricane Flood Causes Nicolas Cage Malibu Mansion Collapse appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/nicholascage-640x335.jpg",
+              "imageAlt": "Hurricane Flood Causes Nicolas Cage Malibu Mansion Collapse",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
               "url": "https://www.dailywire.com/news/the-earth-just-tried-to-swallow-nicolas-cages-house",
@@ -140,16 +75,16 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "Family of 14-Year-Old Girl Found Dismembered in Singer D4vd’s Tesla Seeks Death Penalty",
-          "summary": "The parents of 14-year-old Celeste Rivas Hernandez say they want the death penalty if singer D4vd is convicted of killing their daughter. The BBC and Breitbart both report the family's position, with the BBC quoting the parents as saying execution would be “perfect” if he is found guilty.",
+          "title": "Oil Crosses Over $101 A Barrel, Highest Since May",
+          "summary": "Brent crude rose above $100 a barrel, with one report putting it over $101, as fighting involving the United States and Iran intensified in the Persian Gulf. The rise followed US strikes on five Iranian tankers and renewed concern that oil shipments through the Strait of Hormuz could be disrupted.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Family of killed teen call for death penalty in D4vd trial",
-              "excerpt": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba73/live/c09843a0-abc4-11f1-a601-7d96c5d5b6ea.jpg",
-              "imageAlt": "Family of killed teen call for death penalty in D4vd trial",
+              "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+              "excerpt": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/65350fe0-ac30-11f1-b1d1-571ed4d7ff2c.jpg",
+              "imageAlt": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -163,12 +98,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/entertainment/2026/09/08/family-of-14-year-old-girl-found-dismembered-in-singer-d4vds-tesla-seeks-death-penalty/",
+              "url": "https://www.breitbart.com/economy/2026/09/09/oil-crosses-over-101-a-barrel-highest-since-may/",
               "source": "Breitbart",
-              "headline": "Family of 14-Year-Old Girl Found Dismembered in Singer D4vd’s Tesla Seeks Death Penalty",
-              "excerpt": "The family of Celeste Rivas Hernandez seek the death penalty if singer D4vd is found guilty of the murder of their 14-year-old daughter. The post Family of 14-Year-Old Girl Found Dismembered in Singer D4vd’s Tesla Seeks Death Penalty appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/07/D4vdHernandez5-640x335.jpg",
-              "imageAlt": "Family of 14-Year-Old Girl Found Dismembered in Singer D4vd’s Tesla Seeks Death Penalty",
+              "headline": "Oil Crosses Over $101 A Barrel, Highest Since May",
+              "excerpt": "Oil prices surged on Wednesday as fighting between the U.S. and Iran intensified in the Persian Gulf, raising concerns that the supply of oil passing through the Strait of Hormuz could be reduced. Brent crude futures, the global benchmark for The post Oil Crosses Over $101 A Barrel, Highest Since May appeared first on <a rel=\"nofollow\" href=\"https://www.breitbart.c",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2293796448-640x335.jpg",
+              "imageAlt": "Oil Crosses Over $101 A Barrel, Highest Since May",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -182,50 +117,40 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba73/live/c09843a0-abc4-11f1-a601-7d96c5d5b6ea.jpg",
-          "imageAlt": "Family of killed teen call for death penalty in D4vd trial",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/65350fe0-ac30-11f1-b1d1-571ed4d7ff2c.jpg",
+          "imageAlt": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
           "imageCredit": "BBC"
         },
         {
-          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "summary": "A CNN opinion article asks why the Republican-controlled House Judiciary Committee is not examining Thomas. Its excerpt says the committee, chaired by Rep. Jim Jordan, instead planned a New York City field hearing on violent crime and Manhattan District Attorney Alvin Bragg's policies.",
+          "title": "Fetterman flashes bipartisan chops with surprise video message at GOP convention",
+          "summary": "Democratic Senator John Fetterman made a surprise video appearance at the Republican convention in Dallas, praising Donald Trump and Dave McCormick. The Pennsylvania senator, who has clashed with his party over his support for Israel, also rejected what he called Democratic “extremes and socialism.”",
           "links": [
             {
-              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "outlet": "CNN",
+              "url": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
+              "excerpt": "Pennsylvania senator who has clashed with party over Israel support says he will reject 'the extremes and socialism'.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa1fba0-1789000608.jpg?resize=1200%2C675",
+              "imageAlt": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
+              "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "imageCredit": "CNN"
-        },
-        {
-          "title": "Left-Wing Judge Let Man Out After Attempted Murder Charge. He Was Arrested In Another Shooting.",
-          "summary": "A 19-year-old Brooklyn man who was already facing an attempted-murder charge was arrested in connection with another shooting near the West Indian Day Parade, according to the Daily Wire and The Washington Times. The reports say he had been released on $5,000 bail despite prosecutors seeking confinement. He now faces a new attempted-murder allegation.",
-          "links": [
+            },
             {
-              "url": "https://www.dailywire.com/news/left-wing-judge-let-man-out-after-attempted-murder-charge-he-was-arrested-in-another-shooting",
-              "source": "Daily Wire",
-              "headline": "Left-Wing Judge Let Man Out After Attempted Murder Charge. He Was Arrested In Another Shooting.",
-              "excerpt": "A 19-year-old Brooklyn man accused of attempted murder was released on $5,000 bail last month despite prosecutors asking that he be held in confinement. Now, police say he has been arrested again after shooting another man near New York City’s West Indian Day Parade. Nayshawn Wilkinson was arrested Tuesday and is facing a new attempted ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Untitled-design-14.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Left-Wing Judge Let Man Out After Attempted Murder Charge. He Was Arrested In Another Shooting.",
-              "outlet": "Daily Wire",
+              "url": "https://www.foxnews.com/politics/democratic-sen-fetterman-delivers-surprise-video-republican-convention-backing-mccormick",
+              "source": "Fox News",
+              "headline": "Dem senator delivers surprise video at Republican convention backing McCormick",
+              "excerpt": "John Fetterman's surprise video at the GOP convention praised Trump and Dave McCormick while rejecting what he called Democratic \"extremes and socialism.\"",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/david-mccormick-trump-butler.jpg?ve=1&tl=1",
+              "imageAlt": "Dem senator delivers surprise video at Republican convention backing McCormick",
+              "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -237,12 +162,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/9/suspect-brooklyn-parade-shooting-bail-attempted-murder/",
+              "url": "https://www.washingtontimes.com/news/2026/sep/9/john-fetterman-flashes-bipartisan-chops-surprise-video-message-gop/",
               "source": "Washington Times",
-              "headline": "Suspect in Brooklyn parade shooting was out on bail for attempted murder",
-              "excerpt": "The man accused of shooting another man at this week's West Indian Day Parade in Brooklyn was out on bail on attempted murder charges stemming from a separate shooting.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/09/AP26250515816964_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Suspect in Brooklyn parade shooting was out on bail for attempted murder",
+              "headline": "Fetterman flashes bipartisan chops with surprise video message at GOP convention",
+              "excerpt": "Sen. John Fetterman, Pennsylvania Democrat, made a surprise cameo at the Republican National Convention in Dallas, briefly appearing in a video message, further distancing himself from the socialist-leaning elements of his party.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/09/Election_2_26_Republicans_26_74_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Fetterman flashes bipartisan chops with surprise video message at GOP convention",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -256,21 +181,215 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Untitled-design-14.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Left-Wing Judge Let Man Out After Attempted Murder Charge. He Was Arrested In Another Shooting.",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa1fba0-1789000608.jpg?resize=1200%2C675",
+          "imageAlt": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "I’ve attended every GOP convention since 2004. ‘Trumpapalooza’ is a grift — not a convention",
-          "summary": "Republicans gathered in Dallas for a two-day event billed as the party's first midterm convention and described as a “Trump-a-Palooza.” The Washington Examiner's commentary disputes that it represents the whole Republican Party, while The Washington Times says the event places President Donald Trump at the centre of the midterm campaign. The two outlets thus agree on the event's unusual, Trump-focused format but frame its legitimacy differently.",
+          "title": "Trump: Iran War Will End ‘Immediately After’ Midterms, ‘Tehran Can’t Hold Out Any Longer’",
+          "summary": "President Donald Trump predicted that the war with Iran would end “immediately after” the November midterm elections, saying Tehran could not hold out much longer under mounting US military and economic pressure. He also said the United States was not seeking to restart negotiations after previous ceasefires failed.",
           "links": [
             {
-              "url": "https://www.washingtonexaminer.com/op-eds/4718570/rnc-dallas-midterm-convention-trumpapalooza-grift/",
+              "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+              "excerpt": "The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa1b7170184-1788983063.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/09/09/trump-iran-war-will-end-immediately-after-midterms-tehran-cant-hold-out-any-longer/",
+              "source": "Breitbart",
+              "headline": "Trump: Iran War Will End ‘Immediately After’ Midterms, ‘Tehran Can’t Hold Out Any Longer’",
+              "excerpt": "President Donald Trump predicted Wednesday that the war with Iran will end “immediately after” the November midterm elections, saying Tehran “can’t hold out any longer” as the United States intensifies military and economic pressure on the regime. The post Trump: Iran War Will End ‘Immediately After’ Midterms, ‘Tehran Can’t Hold Out",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages2291907046-640x335.jpg",
+              "imageAlt": "Trump: Iran War Will End ‘Immediately After’ Midterms, ‘Tehran Can’t Hold Out Any Longer’",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa1b7170184-1788983063.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+          "summary": "Declassified documents show Spanish and Moroccan authorities were warned about social-media calls for migrants to breach the Ceuta border. The alerts reportedly came a day before tens of thousands of people entered the Spanish enclave.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis",
+              "excerpt": "Declassified documents show Madrid and Morocco were warned of plans by migrants to breach the Ceuta border.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa1ff39af2a9-1789001529.jpg?resize=1920%2C1440",
+              "imageAlt": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+              "excerpt": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg",
+              "imageAlt": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa1ff39af2a9-1789001529.jpg?resize=1920%2C1440",
+          "imageAlt": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
+          "summary": "Public disclosures show Donald Trump gave aide Natalie Harp a $45,000 holiday cash gift and also made cash gifts to other aides. The White House described the payments as personal and legal, while another report noted that federal employees are generally barred from compensation beyond their government salaries.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
+              "excerpt": "Federal employees are generally barred from receiving compensation beyond their government salaries.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26163528404303-1788997826.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+              "excerpt": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f663/live/ccb59450-ac71-11f1-80f0-9795d1a5edbc.jpg",
+              "imageAlt": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26163528404303-1788997826.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "How The GOP Can Reclaim The American Dream For The Next Generation Of Voters",
+          "summary": "At the Republican midterm convention in Dallas, President Donald Trump promised a $5,000 dividend to every American adult if the party retains control of both chambers of Congress in November. The pledge formed part of the GOP’s effort to rally voters and present its case for the next generation ahead of the midterms.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/politics/2026/09/09/trump-pledges-5000-dividend-to-each-american-if-gop-holds-congress/",
+              "source": "Breitbart",
+              "headline": "Trump Pledges $5,000 Dividend to Each American if GOP Holds Congress",
+              "excerpt": "DALLAS—President Donald Trump pledged that he will send a $5,000 dividend to all American adults if Republicans hold their majorities in Congress in November. The post Trump Pledges $5,000 Dividend to Each American if GOP Holds Congress appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/Trump-GOP-Midterm-Convention-640x335.jpeg",
+              "imageAlt": "Trump Pledges $5,000 Dividend to Each American if GOP Holds Congress",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/how-the-gop-can-reclaim-the-american-dream-for-the-next-generation-of-voters",
+              "source": "Daily Wire",
+              "headline": "How The GOP Can Reclaim The American Dream For The Next Generation Of Voters",
+              "excerpt": "Today and tomorrow will mark a historic milestone for the Republican Party: the first-ever midterm election convention, to be held in Dallas. President Donald Trump will headline the event, rightfully tout his accomplishments, and rally his party to hold the line against Democrats in November. But as we think about winning the next election, we ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-617916672.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "How The GOP Can Reclaim The American Dream For The Next Generation Of Voters",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention",
+              "source": "Fox News",
+              "headline": "Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention",
+              "excerpt": "President Donald Trump promised a $5,000 \"Trump dividend\" to every adult citizen if Republicans keep Congress at the GOP midterm convention.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-midterm-convention-3.jpg?ve=1&tl=1",
+              "imageAlt": "Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4720333/trump-5000-dividend-every-american-adult-gop-wins-midterms/",
               "source": "Washington Examiner",
-              "headline": "I’ve attended every GOP convention since 2004. ‘Trumpapalooza’ is a grift — not a convention",
-              "excerpt": "Republicans kick off a gathering on Wednesday in Dallas billed by the Republican National Committee as the party’s first-ever midterm convention. There is just one problem: No matter how often the RNC says it, it is not true. This is not a convention of the whole Republican Party. It is what President Donald Trump’s own […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/image-collage-27h0rovob-1788971049717-e1788971523165.jpg?1788957126&w=696",
-              "imageAlt": "I’ve attended every GOP convention since 2004. ‘Trumpapalooza’ is a grift — not a convention",
+              "headline": "Trump promises $5,000 dividend for every American adult if GOP wins midterm elections",
+              "excerpt": "President Donald Trump promised to deliver a “Trump dividend” of $5,000 to every American adult if Republicans can hold on to both chambers of Congress in the 2026 midterm elections. The president’s vow came during his keynote address closing out the first night of the Republican midterm convention. “If the Republicans win the House of […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26253068231650.jpg?w=696",
+              "imageAlt": "Trump promises $5,000 dividend for every American adult if GOP wins midterm elections",
               "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -281,75 +400,11 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/9/republicans-gathering-dallas-two-day-midterm-convention-billed-trump/",
-              "source": "Washington Times",
-              "headline": "Republicans gather in Dallas for two-day midterm convention billed as a 'Trump-a-Palooza'",
-              "excerpt": "Republicans are gathering in Dallas on Wednesday for a highly unusual midterm convention, a \"Trump-a-Palooza\" that will put President Donald Trump at the center of this fall's midterm elections - whether the candidates running like it or not.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/09/Election_2_26_Republicans_8174__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Republicans gather in Dallas for two-day midterm convention billed as a 'Trump-a-Palooza'",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/image-collage-27h0rovob-1788971049717-e1788971523165.jpg?1788957126&w=696",
-          "imageAlt": "I’ve attended every GOP convention since 2004. ‘Trumpapalooza’ is a grift — not a convention",
-          "imageCredit": "Washington Examiner"
-        },
-        {
-          "title": "Jimmy Kimmel May Be Running Out Of Late Nights",
-          "summary": "Reports cited by Breitbart and the Daily Wire say ABC may end Jimmy Kimmel Live! after Kimmel's contract expires in May 2027. The Daily Wire says Page Six described the coming season as the show's last after a 24-year run. ABC denies the report.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/entertainment/2026/09/08/report-sources-claim-abc-to-end-jimmy-kimmels-late-night-show-in-2027/",
-              "source": "Breitbart",
-              "headline": "Report: Sources Claim ABC to End Jimmy Kimmel's Late-Night Show in 2027",
-              "excerpt": "The end of late-night TV was further hinted at this week when reports surfaced that ABC will be ending Jimmy Kimmel Live! in 2027. The post Report: Sources Claim ABC to End Jimmy Kimmel’s Late-Night Show in 2027 appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages2278540136-640x335.jpg",
-              "imageAlt": "Report: Sources Claim ABC to End Jimmy Kimmel's Late-Night Show in 2027",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/jimmy-kimmel-may-be-running-out-of-late-nights",
-              "source": "Daily Wire",
-              "headline": "Jimmy Kimmel May Be Running Out Of Late Nights",
-              "excerpt": "Jimmy Kimmel’s 24-year run in late-night television may end next year, according to a report that ABC is flatly denying. Page Six reported Tuesday that ABC does not plan to extend Kimmel’s contract after it expires in May 2027 and that the upcoming season of “Jimmy Kimmel Live!” is expected to be the show’s last, ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2025/12/Kimmel.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Jimmy Kimmel May Be Running Out Of Late Nights",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages2278540136-640x335.jpg",
-          "imageAlt": "Report: Sources Claim ABC to End Jimmy Kimmel's Late-Night Show in 2027",
+          "imageUrl": "https://media.breitbart.com/media/2026/09/Trump-GOP-Midterm-Convention-640x335.jpeg",
+          "imageAlt": "Trump Pledges $5,000 Dividend to Each American if GOP Holds Congress",
           "imageCredit": "Breitbart"
         }
       ]
@@ -359,7 +414,7 @@
       "stories": [
         {
           "title": "Victory lies ahead for Germany’s AfD",
-          "summary": "The story title predicts victory for Germany's AfD, but its only attached source does not substantiate that subject. The linked Spectator Australia item is titled “Licence to kill (businesses)” and discusses Australian politicians' use of the term “social licence.”",
+          "summary": "The story title forecasts gains for Germany’s AfD, but the sole linked Spectator Australia item does not provide reporting about the party. Instead, its headline and excerpt criticise Australian politicians’ use of the term “social licence” when discussing business, so the available source material does not substantiate the titled claim.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/licence-to-kill-businesses/",
@@ -386,16 +441,34 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Trump's approval languishes at historic lows in lead-up to 'Trump-a-palooza'",
-          "summary": "Donald Trump's approval rating is at historic lows ahead of the Republican Party's national convention, ABC News reports. Despite those numbers, the U.S. president believes his political brand can help close-race candidates who will be showcased at the event.",
+          "title": "Blanche d’Alpuget wasn’t just Bob Hawke’s wife. She was a fierce intellect who only saw the good in people | Craig Emerson",
+          "summary": "A Guardian commentary remembers Blanche d’Alpuget as a fierce intellect and an enthusiast for Bob Hawke’s reconciliation with Paul Keating. The other linked report is unrelated, covering Jacqui Lambie’s criticism of a One Nation cartoon that called Andrew Hastie a traitor.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-09-09/trump-low-approval-rating-ahead-of-republican-convention/106767310",
+              "url": "https://www.theguardian.com/australia-news/commentisfree/2026/sep/09/blanche-dalpuget-wasnt-just-bob-hawkes-wife-she-was-a-fierce-intellect-who-only-saw-the-good-in-people",
+              "source": "The Guardian Australia",
+              "headline": "Blanche d’Alpuget wasn’t just Bob Hawke’s wife. She was a fierce intellect who only saw the good in people",
+              "excerpt": "Blanche was an enthusiast for Bob’s reconciliation with Paul Keating – and delighted in the restoration of their friendship Follow our Australia news live blog for latest updates Get our breaking news email , <a href=\"https://app.adjust.co",
+              "imageUrl": "https://i.guim.co.uk/img/media/759fcfe2d0c1cb62ab2d59fa14a3a51e51882a4b/265_52_2435_1948/master/2435.jpg?width=140&quality=85&auto=format&fit=max&s=94478d267b4fa8e3a83cc7d56ab40211",
+              "imageAlt": "Blanche d’Alpuget wasn’t just Bob Hawke’s wife. She was a fierce intellect who only saw the good in people | Craig Emerson",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-09-10/federal-politics-lambie-blasts-hanson-over-hastie-cartoon/107137036",
               "source": "ABC Australia",
-              "headline": "Trump's approval languishes at historic lows in lead-up to 'Trump-a-palooza'",
-              "excerpt": "Donald Trump's approval rating continues to plumb historic lows ahead of the Republican Party's national convention — but the US president still believes his brand can boost close-race candidates who will be \"showcased\" on stage.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b0af37cdcd3505d79221a00bafe36d1a?impolicy=wcms_crop_resize&cropH=2808&cropW=4993&xPos=0&yPos=24&width=862&height=485",
-              "imageAlt": "Trump's approval languishes at historic lows in lead-up to 'Trump-a-palooza'",
+              "headline": "'Bloody coward': Lambie blasts Hanson over 'disgusting' Hastie traitor cartoon",
+              "excerpt": "Independent senator Jacqui Lambie and others from across the political spectrum launch a spirited defence of Andrew Hastie after One Nation published a cartoon that repeatedly described the Liberal frontbencher and veteran as a \"traitor\".",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/876ae731efa9d055450fce4d66f0f7a9?impolicy=wcms_crop_resize&cropH=1685&cropW=2995&xPos=427&yPos=127&width=862&height=485",
+              "imageAlt": "'Bloody coward': Lambie blasts Hanson over 'disgusting' Hastie traitor cartoon",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -410,21 +483,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/b0af37cdcd3505d79221a00bafe36d1a?impolicy=wcms_crop_resize&cropH=2808&cropW=4993&xPos=0&yPos=24&width=862&height=485",
-          "imageAlt": "Trump's approval languishes at historic lows in lead-up to 'Trump-a-palooza'",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/759fcfe2d0c1cb62ab2d59fa14a3a51e51882a4b/265_52_2435_1948/master/2435.jpg?width=140&quality=85&auto=format&fit=max&s=94478d267b4fa8e3a83cc7d56ab40211",
+          "imageAlt": "Blanche d’Alpuget wasn’t just Bob Hawke’s wife. She was a fierce intellect who only saw the good in people | Craig Emerson",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "Penny Wong confirms at least 34 Australians in Nepal are missing after flash flood – video",
-          "summary": "The story title says Penny Wong confirmed that at least 34 Australians were missing in Nepal after a flash flood, but the attached Guardian item concerns a different announcement. Its excerpt says Wong pledged targeted measures against illegal Israeli settlements and settler violence while rejecting a blanket ban on goods from West Bank settlements because of possible unintended consequences.",
+          "title": "Plibersek on a mother's fears after release of domestic, family and sexual violence report – video",
+          "summary": "Social Services Minister Tanya Plibersek cited a letter from a mother of three while responding to Australia’s latest report on domestic, family and sexual violence. The report said sexual-violence reports reached a record level in 2024 and declined by less than 1% nationally the following year.",
           "links": [
             {
-              "url": "https://www.theguardian.com/world/video/2026/sep/09/australia-to-impose-targeted-measures-to-stop-israeli-settler-violence-but-no-import-ban-video",
+              "url": "https://www.theguardian.com/australia-news/video/2026/sep/09/tanya-plibersek-mothers-fears-domestic-family-sexual-violence-report-video-ntwnfb",
               "source": "The Guardian Australia",
-              "headline": "Australia to impose 'targeted measures' to stop Israeli settler violence but no import ban – video",
-              "excerpt": "The foreign affairs minister, Penny Wong, has announced that Australia will work with international partners to 'deter illegal settlements and settler violence' but won’t follow the UK in implementing a trade ban with goods produced in Israeli settlements in the West Bank. Wong said the government had concerns with a blanket ban, and that it could lead to unintended consequences for Australian businesses, for Palestinians and for Israelis <a href=\"https://www.theguardian.com/wor",
-              "imageUrl": "https://i.guim.co.uk/img/media/df08b247990e331ba4e330a833e80a0dab6f3293/384_0_1093_874/master/1093.jpg?width=140&quality=85&auto=format&fit=max&s=dc1b53e73d3785188205e8a8ebe775c6",
-              "imageAlt": "Australia to impose 'targeted measures' to stop Israeli settler violence but no import ban – video",
+              "headline": "Plibersek on a mother's fears after release of domestic, family and sexual violence report – video",
+              "excerpt": "Social services minister Tanya Plibersek speaks of a letter she received from a mother of three as she responds to the sobering results of Australia's latest domestic, family and sexual violence report. Plibersek says the mother described being a parent today as 'feeling like you're standing at the edge of a field watching something unfold'. Reports of sexual violence were at their highest level ever in 2024, and dropped less than 1% nationally last year, according to the annual report. Repor",
+              "imageUrl": "https://i.guim.co.uk/img/media/547e23cfbb3d4be596b84dfa38d48ef7675b143f/1815_90_5991_4793/master/5991.jpg?width=140&quality=85&auto=format&fit=max&s=eb0fcf2de9e8df08e19edc1e39e8fc6f",
+              "imageAlt": "Plibersek on a mother's fears after release of domestic, family and sexual violence report – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -433,26 +506,26 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/df08b247990e331ba4e330a833e80a0dab6f3293/384_0_1093_874/master/1093.jpg?width=140&quality=85&auto=format&fit=max&s=dc1b53e73d3785188205e8a8ebe775c6",
-          "imageAlt": "Australia to impose 'targeted measures' to stop Israeli settler violence but no import ban – video",
+          "imageUrl": "https://i.guim.co.uk/img/media/547e23cfbb3d4be596b84dfa38d48ef7675b143f/1815_90_5991_4793/master/5991.jpg?width=140&quality=85&auto=format&fit=max&s=eb0fcf2de9e8df08e19edc1e39e8fc6f",
+          "imageAlt": "Plibersek on a mother's fears after release of domestic, family and sexual violence report – video",
           "imageCredit": "The Guardian"
         },
         {
           "title": "The Greens are coming for north London",
-          "summary": "The story title concerns the Greens and north London, but the only attached source does not provide supporting details on that subject. The linked Spectator Australia item is titled “How much more can British farmers endure?” and its excerpt discusses looking at farms.",
+          "summary": "The story title says the Greens are targeting north London, but the only linked Spectator Australia item contains no reporting about that political contest. Its headline and excerpt are instead a personal piece about making blackberry jam, leaving the titled claim unsupported by the supplied source material.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/09/how-much-more-can-british-farmers-endure/",
+              "url": "https://www.spectator.com.au/2026/09/blackberries-wait-for-no-woman-so-make-jam/",
               "source": "Spectator Australia",
-              "headline": "How much more can British farmers endure?",
-              "excerpt": "Lately, for reasons that are far too baroque to go into, my wife and I have been looking at farm… The post How much more can British farmers endure? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/07/the-truth-about-how-the-british-empire-is-taught-in-school",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/British-farming.jpg",
-              "imageAlt": "How much more can British farmers endure?",
+              "headline": "Blackberries wait for no woman – so make jam",
+              "excerpt": "My kitchen is not ready for blackberry jam. I am not ready for blackberry jam. The heat of summer is… The post Blackberries wait for no woman – so make jam appeared first on The Spectator Australia . What to read next: How to do",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Blackberry_Jam_Cutout.png",
+              "imageAlt": "Blackberries wait for no woman – so make jam",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -466,8 +539,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/British-farming.jpg",
-          "imageAlt": "How much more can British farmers endure?",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Blackberry_Jam_Cutout.png",
+          "imageAlt": "Blackberries wait for no woman – so make jam",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -476,16 +549,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-          "summary": "Apple unveiled the Watch Series 12 and Watch Ultra 4 with AI features designed to recap daily activity and conversations. The Verge describes an always-on Siri that creates summaries of the user's day, while TechCrunch says the new “Audio Intelligence” tools can revisit moments and details from conversations. The features position the watches against a growing field of AI wearables.",
+          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+          "summary": "Apple used its fall event to unveil its first foldable phone, the iPhone Duo, alongside an always-listening Apple Watch. The Duo has a 5.4-inch outer display and a 7.6-inch inner screen, and was presented as the main attraction of the launch.",
           "links": [
             {
-              "url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
+              "url": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
               "source": "The Verge",
-              "headline": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
-              "excerpt": "Apple announced the Apple Watch Series 12 at its Septem",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-watch-series-12-launch.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-              "imageAlt": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
+              "headline": "Verge staffers react to the iPhone Duo: What we love and don’t love",
+              "excerpt": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "Verge staffers react to the iPhone Duo: What we love and don’t love",
               "outlet": "The Verge",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -498,12 +571,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+              "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
               "source": "TechCrunch",
-              "headline": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-              "excerpt": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675",
-              "imageAlt": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+              "headline": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+              "excerpt": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730",
+              "imageAlt": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -517,151 +590,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-watch-series-12-launch.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "imageAlt": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’",
-          "summary": "Apple announced two AirPods 5 models, both featuring active noise cancellation. The Verge says Apple describes the open-ear noise cancellation as best in class, while TechCrunch also highlights improved noise control, Siri AI and stem-based volume controls.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/tech/988479/apple-airpods-5-announcement-september-2026-event",
-              "source": "The Verge",
-              "headline": "Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’",
-              "excerpt": "The two new Apple AirPods 5 models both include active noise cancellation. | Image: Apple <p clas",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-245-10-31-51.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-              "imageAlt": "Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-              "source": "TechCrunch",
-              "headline": "Apple shows off AirPods 5 with improved active noise cancellation",
-              "excerpt": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198",
-              "imageAlt": "Apple shows off AirPods 5 with improved active noise cancellation",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-245-10-31-51.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "imageAlt": "Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Apple launches iPhone 18 Pro with upgraded camera",
-          "summary": "Apple launched the iPhone 18 Pro and iPhone 18 Pro Max with an upgraded camera system. The Verge says the main camera has a dynamic aperture, while TechCrunch notes that the lineup is available in burgundy.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event",
-              "source": "The Verge",
-              "headline": "Apple’s iPhone 18 Pro has a dynamic-aperture main camera",
-              "excerpt": "Apple announced the iPhone 18 Pro and iPhone 18 Pro Max at its event on Wedn",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-0a78fb89-72c8-4132-908b-1e1f41e980f3.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-              "imageAlt": "Apple’s iPhone 18 Pro has a dynamic-aperture main camera",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-              "source": "TechCrunch",
-              "headline": "Apple launches iPhone 18 Pro with upgraded camera",
-              "excerpt": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/HRymOiMbQAAozT9.jpeg?resize=1200,675",
-              "imageAlt": "Apple launches iPhone 18 Pro with upgraded camera",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-0a78fb89-72c8-4132-908b-1e1f41e980f3.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "imageAlt": "Apple’s iPhone 18 Pro has a dynamic-aperture main camera",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Apple unveils its first foldable, the iPhone Duo",
-          "summary": "Apple introduced its first foldable phone, the iPhone Duo, at its “Surprise and Shine” event in Cupertino. The Verge calls it the company's long-anticipated entry into foldables, while TechCrunch says it uses a wider form factor than early foldable designs. TechCrunch also describes it as the first marquee device launched under new CEO John Ternus.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date",
-              "source": "The Verge",
-              "headline": "The iPhone Duo is Apple’s first foldable",
-              "excerpt": "Apple has announced its long-anticipated foldable iPhone, the iPhone Duo , which arrives more than seven years after th",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-424-10-55-40.jpg?quality=90&strip=all&crop=0%2C3.159993948987%2C100%2C93.680012102026&w=1200",
-              "imageAlt": "The iPhone Duo is Apple’s first foldable",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-              "source": "TechCrunch",
-              "headline": "Apple unveils its first foldable, the iPhone Duo",
-              "excerpt": "Apple today introduced its first foldable device, named the iPhone Duo, at its “Surprise and Shine” iPhone event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid […]",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-              "imageAlt": "Apple unveils its first foldable, the iPhone Duo",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results), (ceo|founder|investors|funding round|acquisition|merger)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-424-10-55-40.jpg?quality=90&strip=all&crop=0%2C3.159993948987%2C100%2C93.680012102026&w=1200",
-          "imageAlt": "The iPhone Duo is Apple’s first foldable",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "Verge staffers react to the iPhone Duo: What we love and don’t love",
           "imageCredit": "The Verge"
         },
         {
           "title": "Grand Theft Auto VI: can playing a video game count as cheating on your partner?",
-          "summary": "A Guardian feature examines whether romantic activity inside Grand Theft Auto VI could be considered cheating on a real-life partner. It says the game's extended preview drew a viral reaction, shifting some controversy from the series' traditional focus on violence to its depiction of romance. The highly anticipated title has twice won the Game Awards' Most Anticipated award.",
+          "summary": "The latest look at Grand Theft Auto VI has shifted some of the series’ familiar controversy from violence to romance and whether in-game behaviour can count as cheating on a partner. The debate surrounds one of the industry’s most anticipated releases, which has twice won the Game Awards’ Most Anticipated award.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/sep/09/grand-theft-auto-vi-can-playing-a-video-game-count-as-cheating-on-your-partner",
@@ -686,188 +621,10 @@
           "imageUrl": "https://i.guim.co.uk/img/media/906af8e9791a544c887b9f593619412e48ebd054/484_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=2f309765d3f32800079cf33993899139",
           "imageAlt": "Grand Theft Auto VI: can playing a video game count as cheating on your partner?",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "DOTr offers free rides on select Metro Manila routes amid rains",
-          "summary": "The Philippine Department of Transportation announced free rides on selected Metro Manila routes during rain brought by the southwest monsoon. Government vehicles were deployed in both directions on the Divisoria–Monumento, Kalentong–Pasig and Lawton–PITX routes to keep transport available to passengers.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2302325/dotr-offers-free-rides-on-select-metro-manila-routes-amid-rains",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DOTr offers free rides on select Metro Manila routes amid rains",
-              "excerpt": "MANILA, Philippines — The Department of Transportation (DOTr) on Wednesday announced free rides along selected routes in Metro Manila to ensure that passengers have access to transportation amid rains brought by the southwest monsoon, or habagat. The DOTr and other government agencies deployed vehicles along the Divisoria-Monumento, Kalentong-Pasig, and Lawton-PITX routes, and vice versa. READ: Yellow",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/dotr-lopez-09sept2026.jpg",
-              "imageAlt": "DOTr offers free rides on select Metro Manila routes amid rains",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/dotr-lopez-09sept2026.jpg",
-          "imageAlt": "DOTr offers free rides on select Metro Manila routes amid rains",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Gatchalian: Collective action needed to build on PH gains in PISA",
-          "summary": "The story title calls for collective action to build on Philippine gains in PISA, while the attached Philippine Daily Inquirer item focuses on Speaker Faustino “Bojie” Dy III. Dy credited teachers and school leaders for the country's improved 2025 results, which he said were its highest scores in reading, mathematics and science.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2302464/dy-credits-teachers-for-ph-rise-in-global-student-performance",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Dy credits teachers for PH rise in global student performance",
-              "excerpt": "MANILA, Philippines — Speaker Faustino “Bojie” G. Dy III congratulated Filipino teachers and school leaders on Wednesday for their hard work and sacrifices, which led to the Philippines’ improved performance in the 2025 Programme for International Student Assessment (Pisa). “In the latest PISA assessment, the Philippines recorded our highest scores in reading, mathematics, and science.",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/FaustinoDyIII-09Sep2026.jpg",
-              "imageAlt": "Dy credits teachers for PH rise in global student performance",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/FaustinoDyIII-09Sep2026.jpg",
-          "imageAlt": "Dy credits teachers for PH rise in global student performance",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Storm damage for agri, infra hits P12.4-B mark – NDRRMC",
-          "summary": "Damage to Philippine agriculture and infrastructure from four tropical cyclones and the southwest monsoon has reached about PHP12.4 billion, according to NDRRMC data reported by the Philippine Daily Inquirer. The estimate includes roughly PHP4.1 billion in agricultural losses, with the remaining reported damage affecting infrastructure.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2302487/storm-damage-for-agri-infra-hits-p12-4-b-mark-ndrrmc",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Storm damage for agri, infra hits P12.4-B mark – NDRRMC",
-              "excerpt": "MANILA – Agriculture and infrastructure damage from the combined effects of tropical cyclones Luis, Maymay, Neneng, and Pilandok and the southwest monsoon (habagat) has so far reached around PHP12.4 billion. Data released by the National Disaster Risk Reduction and Management Council (NDRRMC) on Wednesday showed that estimated agriculture damage reached around PHP4.1 billion while infrastructure",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Tineg-Malanas-River-swells-floods-parts-of-Abra-31August2026.jpg",
-              "imageAlt": "Storm damage for agri, infra hits P12.4-B mark – NDRRMC",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Tineg-Malanas-River-swells-floods-parts-of-Abra-31August2026.jpg",
-          "imageAlt": "Storm damage for agri, infra hits P12.4-B mark – NDRRMC",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Marcoleta asserts capacity to vote as judge in letter to impeach court",
-          "summary": "The story title says Marcoleta asserted his capacity to vote as a judge in a letter to an impeachment court, but the attached Philippine Daily Inquirer item covers a different proceeding. Its excerpt says lawyer Michael Poa did not directly confirm whether Vice President Sara Duterte would attend her arraignment on a grave-threats charge, though he said an accused person has to be present for arraignment.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2302589/duterte-to-attend-arraignment-accused-has-to-be-there-says-poa",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Duterte to attend arraignment? Accused has to be there, says Poa",
-              "excerpt": "MANILA, Philippines — Will Vice President Sara Duterte attend her arraignment for the grave threats case before the Quezon City Regional Trial Court (RTC)? Duterte’s lawyer for the impeachment trial Michael Poa declined to give a direct answer, but he said that accused individuals have to be present for their arraignment. “For an arraignment, the accused",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/09sept2026-sara9.jpg",
-              "imageAlt": "Duterte to attend arraignment? Accused has to be there, says Poa",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/09sept2026-sara9.jpg",
-          "imageAlt": "Duterte to attend arraignment? Accused has to be there, says Poa",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Baguio charter amendment cannot undo city’s IPRA exemption",
-          "summary": "Baguio's proposed charter amendment cannot reverse the city's exemption from the Indigenous Peoples' Rights Act, according to the Philippine Daily Inquirer headline. The report says Baguio Ibaloys and other residents of indigenous Cordilleran descent plan an October forum on policies and legal developments affecting their communities, including a pending Cordillera autonomy bill.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2302383/baguio-charter-amendment-cannot-undo-citys-ipra-exemption",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Baguio charter amendment cannot undo city’s IPRA exemption",
-              "excerpt": "BAGUIO CITY — Baguio Ibaloys will gather with fellow residents of indigenous Cordilleran descent to discuss policies and legal developments that have impacted their communities, which the Baguio City Council on Monday described as a confederation of indigenous peoples’ forum. Slated for October, the assembly would tackle pending legislation like a new Cordillera autonomy bill,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/1000025553.jpg",
-              "imageAlt": "Baguio charter amendment cannot undo city’s IPRA exemption",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/1000025553.jpg",
-          "imageAlt": "Baguio charter amendment cannot undo city’s IPRA exemption",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "Superintelligence is coming. Should we let it?",
-          "summary": "A TechCrunch Equity podcast episode questions whether the development of superintelligent AI should be treated as inevitable. It points to safety incidents, including an OpenAI Hugging Face breach, as evidence of the risks of deploying systems that may exceed human capabilities. Host Rebecca Bellan discusses the control problem with AI researcher and U.S. Executive Director Connor Leahy.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-              "source": "TechCrunch",
-              "headline": "Superintelligence is coming. Should we let it?",
-              "excerpt": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-              "imageAlt": "Superintelligence is coming. Should we let it?",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-          "imageAlt": "Superintelligence is coming. Should we let it?",
-          "imageCredit": "TechCrunch"
         },
         {
           "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
-          "summary": "Experts and industry insiders have issued severe warnings about artificial superintelligence, increasing pressure for tighter controls, The Guardian reports. Their scenarios range from a Chernobyl-scale disaster to a greater than 10% chance that AI could kill all humans within a decade. The article examines how seriously such forecasts should be taken.",
+          "summary": "AI industry insiders have issued new warnings that artificial superintelligence could cause a Chernobyl-scale catastrophe or even threaten human survival within the next decade. The claims, including an estimate of a greater than 10% extinction risk, are intensifying debate over how seriously to take such forecasts and whether stronger limits are needed.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
@@ -895,7 +652,7 @@
         },
         {
           "title": "US allies lack resources to keep pace on AI, top Pentagon official says",
-          "summary": "The Pentagon's top artificial-intelligence official says close U.S. allies lack the resources, experience and scale to match the American military's adoption of AI. Cameron Stanley described the technology's capabilities as revolutionary and said Washington is working with NATO and Five Eyes partners to help them avoid mistakes made by the United States.",
+          "summary": "Pentagon AI chief Cameron Stanley said close US allies lack the resources, experience and scale to match the American military’s adoption of artificial intelligence. He said Washington is working with NATO and Five Eyes partners to help them avoid mistakes the United States made during its own rollout.",
           "links": [
             {
               "url": "https://www.theguardian.com/us-news/2026/sep/09/us-military-pentagon-allies-ai",
@@ -922,36 +679,8 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "How one woman’s Tesla was remotely controlled – and used to harass her – by an abusive ex-partner",
-          "summary": "A Sydney woman's former partner remotely used her Tesla to harass her, The Guardian reports. Enrico Pucci could control the car's speed, temperature and locks, and the vehicle's alarm sounded three times during the night after years of domestic abuse. The woman said she was too frightened to go outside because she feared he might be damaging the car.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb",
-              "source": "The Guardian Technology",
-              "headline": "How one woman’s Tesla was remotely controlled – and used to harass her – by an abusive ex-partner",
-              "excerpt": "Enrico Pucci was able to control his former partner’s electric car remotely, controlling its speed, temperature settings and lock Almost a year ago, Stacey* heard her Tesla car alarm sound on three occasions in the middle of the night. By that point, the Sydney woman had suffered four years of domestic abuse by her former partner and disgraced businessman, Enrico Pucci. When the alarm sounded, she was “too scared” to go outside because she thought he may be damaging her vehicle, a",
-              "imageUrl": "https://i.guim.co.uk/img/media/7713cadb0e323cc72d5ad669fb33ef413d4d060f/345_0_3445_2757/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=a8dd2070843114ffbc6f93f2b00c6279",
-              "imageAlt": "How one woman’s Tesla was remotely controlled – and used to harass her – by an abusive ex-partner",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/7713cadb0e323cc72d5ad669fb33ef413d4d060f/345_0_3445_2757/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=a8dd2070843114ffbc6f93f2b00c6279",
-          "imageAlt": "How one woman’s Tesla was remotely controlled – and used to harass her – by an abusive ex-partner",
-          "imageCredit": "The Guardian"
-        },
-        {
           "title": "UK datacentres will create just 25% of jobs predicted by tech sector, analysis finds",
-          "summary": "Planned UK datacentres are likely to create about 10,400 direct jobs, only a quarter of the more than 40,000 projected by industry group TechUK, according to analysis reported by The Guardian. Environmental thinktank Verdant produced the lower estimate and warned that the facilities would consume large amounts of energy.",
+          "summary": "Environmental thinktank Verdant estimates that planned UK datacentres will directly employ about 10,400 people, roughly a quarter of the more than 40,000 jobs projected by industry group TechUK. The analysis also argues that the facilities will consume large amounts of energy despite delivering fewer jobs than the sector predicts.",
           "links": [
             {
               "url": "https://www.theguardian.com/uk-news/2026/sep/09/uk-datacentres-will-create-just-25-of-jobs-predicted-by-tech-sector-analysis-finds",
@@ -975,6 +704,296 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/74da7d58dfd1c3d3fae2f135c09f16f2c5b07096/365_0_3270_2616/master/3270.jpg?width=140&quality=85&auto=format&fit=max&s=19477df936daa6c8cebb4174d81c0744",
           "imageAlt": "UK datacentres will create just 25% of jobs predicted by tech sector, analysis finds",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "ACT: Higher Pisa scores due to sacrifices made by teachers, students, parents",
+          "summary": "The Alliance of Concerned Teachers credited sacrifices by teachers, students and parents for the Philippines’ improved scores in the latest PISA learning assessment. The group said the results do not adequately reflect learners’ and educators’ socioeconomic conditions or the direct effect of poverty on educational outcomes.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2302774/act-higher-pisa-scores-due-to-sacrifices-made-by-teachers-students-parents",
+              "source": "Philippine Daily Inquirer",
+              "headline": "ACT: Higher Pisa scores due to sacrifices made by teachers, students, parents",
+              "excerpt": "MANILA, Philippines — Despite the country’s improved scores in the latest international learning assessment, the Alliance of Concerned Teachers (ACT) said these fail to account for the socioeconomic conditions of learners and educators and ignore how poverty directly undermines learning outcomes. “The socioeconomic conditions of teachers and students while teaching and learning cannot be separated.",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2023/06/Alliance-of-Concerned-Teachers-06192023.jpg",
+              "imageAlt": "ACT: Higher Pisa scores due to sacrifices made by teachers, students, parents",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2023/06/Alliance-of-Concerned-Teachers-06192023.jpg",
+          "imageAlt": "ACT: Higher Pisa scores due to sacrifices made by teachers, students, parents",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "DOJ evaluating qualified human trafficking raps vs Rep. Leviste, 6 others",
+          "summary": "The Philippine Department of Justice is evaluating a qualified human-trafficking complaint filed by the National Bureau of Investigation against Representative Leandro Leviste, former representative Jacinto “Jing” Paras and five others. The complaint concerns an alleged “honey trap” plot targeting Executive Secretary Ralph Recto.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2302953/doj-evaluating-qualified-human-trafficking-raps-vs-rep-leviste-6-others",
+              "source": "Philippine Daily Inquirer",
+              "headline": "DOJ evaluating qualified human trafficking raps vs Rep. Leviste, 6 others",
+              "excerpt": "MANILA, Philippines — The Department of Justice (DOJ) is evaluating the qualified human trafficking complaint filed by the National Bureau of Investigation (NBI) against Batangas 1st District Rep. Leandro Leviste, former Negros Oriental Rep. Jacinto “Jing” Paras, and five others over the supposed “honey trap” plot against Executive Secretary Ralph Recto. Justice Secretary Frederick Vida,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/01/Leandro-Leviste-26January2026_4.jpg",
+              "imageAlt": "DOJ evaluating qualified human trafficking raps vs Rep. Leviste, 6 others",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/01/Leandro-Leviste-26January2026_4.jpg",
+          "imageAlt": "DOJ evaluating qualified human trafficking raps vs Rep. Leviste, 6 others",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "QC prosecutors junk VP husband’s complaint over release of bank records",
+          "summary": "Quezon City prosecutors dismissed for lack of jurisdiction a complaint by Manases Carpio, husband of Vice President Sara Duterte, over the public release of the couple’s bank records. The dismissal of the case against several lawmakers and ex-officio Anti-Money Laundering Council members was recommended without prejudice.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2302763/qc-prosecutors-junk-vp-husbands-complaint-over-release-of-bank-records",
+              "source": "Philippine Daily Inquirer",
+              "headline": "QC prosecutors junk VP husband’s complaint over release of bank records",
+              "excerpt": "MANILA, Philippines — Quezon City prosecutors have dismissed for lack of jurisdiction a complaint filed by Manases Carpio, the husband of Vice President Sara Duterte, against several lawmakers and ex-officio members of the Anti-Money Laundering Council (AMLC) for making the couple’s bank records public. The Office of the City Prosecutor recommended dismissal albeit “without prejudice,”",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/News1289322.jpg",
+              "imageAlt": "QC prosecutors junk VP husband’s complaint over release of bank records",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/News1289322.jpg",
+          "imageAlt": "QC prosecutors junk VP husband’s complaint over release of bank records",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Gatchalian sees vote on Sara Duterte impeachment by December",
+          "summary": "Senate President Sherwin “Win” Gatchalian said the impeachment court could complete Vice President Sara Duterte’s trial and vote by December. A revised timetable could accelerate proceedings after prosecutors removed 15 witnesses from their list.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2302762/gatchalian-sees-vote-on-sara-duterte-impeachment-by-december",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Gatchalian sees vote on Sara Duterte impeachment by December",
+              "excerpt": "MANILA, Philippines — Senate President Sherwin “Win” Gatchalian on Wednesday said the Senate impeachment court could finish Vice President Sara Duterte’s trial and hold the vote by December, under a revised schedule that could speed up proceedings after prosecutors took 15 witnesses off their list. “Hopefully, we can finish before December,” Gatchalian told reporters. “With",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/1289336.jpeg",
+              "imageAlt": "Gatchalian sees vote on Sara Duterte impeachment by December",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/1289336.jpeg",
+          "imageAlt": "Gatchalian sees vote on Sara Duterte impeachment by December",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Tackling illegal wildlife trade, from Cartimar to the internet",
+          "summary": "The Haribon Foundation met wildlife and law-enforcement officers in Quezon City, Davao and General Santos City to strengthen action against the illegal cross-border trade in Indonesian parrots. Conservationists say the trade, which extends from physical markets such as Cartimar to online channels, threatens endangered birds and public health.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2302746/tackling-illegal-wildlife-trade-from-cartimar-to-the-internet",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Tackling illegal wildlife trade, from Cartimar to the internet",
+              "excerpt": "MANILA, Philippines — In early July, Haribon Foundation met with wildlife and law enforcement officers in Quezon City, Davao, and General Santos City to strengthen the fight against the illegal cross-border trade of Indonesian parrots—a trade that conservationists warn threatens not only endangered birds, but public health as well. Illegal wildlife trade in the Philippines",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Supplement1288313.jpg",
+              "imageAlt": "Tackling illegal wildlife trade, from Cartimar to the internet",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Supplement1288313.jpg",
+          "imageAlt": "Tackling illegal wildlife trade, from Cartimar to the internet",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Superintelligence is coming. Should we let it?",
+          "summary": "TechCrunch’s Equity podcast examines whether the development of superintelligent AI should be treated as inevitable when increasingly capable systems may not be reliably controllable. Host Rebecca Bellan discusses the issue with AI researcher Connor Leahy against the backdrop of recent safety incidents, including OpenAI’s Hugging Face breach.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+              "source": "TechCrunch",
+              "headline": "Superintelligence is coming. Should we let it?",
+              "excerpt": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do? On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+              "imageAlt": "Superintelligence is coming. Should we let it?",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+          "imageAlt": "Superintelligence is coming. Should we let it?",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "summary": "Ring’s top-end Video Doorbell Pro 3 adds a 4K camera, improved Wi-Fi and new AI features in both wired and battery versions. The review also notes a sleeker design that retains Ring’s familiar two-tone look, button, logo and ringtone.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review",
+              "source": "The Guardian Technology",
+              "headline": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "excerpt": "Camera, wifi and design updates bring welcome upgrades to Ring’s top model in wired or battery flavour Ring’s recent revamp of its popular video doorbells with a more modern design is led by the top-of-the-line Video Doorbell Pro 3, which gains much-needed upgrades with a 4K camera and better wifi plus new interesting AI features. The new doorbells are sleeker but keep the unmistakable two-tone Ring colour scheme, button, logo and ringtone. Battery models start at £80 or equivalen",
+              "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+              "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+          "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "UK to force Apple and Google to block explicit images on children’s smartphones",
+          "summary": "The UK government says it will legislate to make Apple and Google block explicit images on children’s smartphones after talks with the companies failed to produce an agreement. The move puts ministers at odds with the technology groups and follows the government’s announcement of a social-media ban for children under 16.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
+              "source": "The Guardian Technology",
+              "headline": "UK to force Apple and Google to block explicit images on children’s smartphones",
+              "excerpt": "Lisa Nandy says government will introduce legislation after talks end without breakthrough Apple and Google will be forced to block explicit images on children’s smartphones by law in the UK after talks failed to produce a breakthrough, the government has said. The legislation commitment puts ministers on a collision course with two of the biggest players in Silicon Valley, months after the government announced a social media ban for under-16s. <a href=\"https://www.theguardian",
+              "imageUrl": "https://i.guim.co.uk/img/media/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/master/1477.jpg?width=140&quality=85&auto=format&fit=max&s=fb262bbbdaae623d9485392fff1188a7",
+              "imageAlt": "UK to force Apple and Google to block explicit images on children’s smartphones",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/master/1477.jpg?width=140&quality=85&auto=format&fit=max&s=fb262bbbdaae623d9485392fff1188a7",
+          "imageAlt": "UK to force Apple and Google to block explicit images on children’s smartphones",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Lawmakers blast AI companies after researcher warns of human extinction by 2030",
+          "summary": "Lawmakers criticised AI companies after researchers associated with Anthropic warned that artificial intelligence could cause human extinction by 2030 without regulation. Three researchers issued the warning, and one reportedly resigned in protest over the risks.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+              "source": "The Guardian Technology",
+              "headline": "Anthropic researchers say AI could cause human extinction by 2030",
+              "excerpt": "One researcher who resigned said many in industry believe that without regulation AI could kill off humanity Artificial intelligence could kill off humanity within the decade, according to three researchers with the industry giant Anthropic , one of whom has quit his job in protest. The latest doom-laden predictions came in <a href=\"https://x.",
+              "imageUrl": "https://i.guim.co.uk/img/media/7f38622dc6b1e72105ada3d0e78ad8a8946dc160/249_0_3156_2525/master/3156.jpg?width=140&quality=85&auto=format&fit=max&s=c57171610b44ad042dab81e15be55d6f",
+              "imageAlt": "Anthropic researchers say AI could cause human extinction by 2030",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/7f38622dc6b1e72105ada3d0e78ad8a8946dc160/249_0_3156_2525/master/3156.jpg?width=140&quality=85&auto=format&fit=max&s=c57171610b44ad042dab81e15be55d6f",
+          "imageAlt": "Anthropic researchers say AI could cause human extinction by 2030",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Streaming from the cloud was meant to change games forever – what happened?",
+          "summary": "Cloud streaming was once promoted as the future of gaming, promising access without traditional hardware limits. Yet even Google, Sony and Microsoft have struggled to make streamed games consistently enjoyable, responsive and affordable.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/sep/09/streaming-from-the-cloud-was-meant-to-changes-games-forever-what-happened",
+              "source": "The Guardian Technology",
+              "headline": "Streaming from the cloud was meant to change games forever – what happened?",
+              "excerpt": "Once hailed as the future, even the likes of Google, Sony and Microsoft have struggled to make streaming games fun, fast or affordable • Don’t get Pushing Buttons delivered to your inbox? Sign up here In August 2009, at the very first Gamescom expo, I sat in a small meeting room in Germany and pla",
+              "imageUrl": "https://i.guim.co.uk/img/media/7b2927a72ad33e359a736440b1fc1f2eae168c11/229_0_4366_3492/master/4366.jpg?width=140&quality=85&auto=format&fit=max&s=fe302d63dd44d4849049e6748a83eda6",
+              "imageAlt": "Streaming from the cloud was meant to change games forever – what happened?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/7b2927a72ad33e359a736440b1fc1f2eae168c11/229_0_4366_3492/master/4366.jpg?width=140&quality=85&auto=format&fit=max&s=fe302d63dd44d4849049e6748a83eda6",
+          "imageAlt": "Streaming from the cloud was meant to change games forever – what happened?",
           "imageCredit": "The Guardian"
         }
       ]
