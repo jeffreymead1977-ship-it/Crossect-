@@ -2,24 +2,24 @@
   "id": "2026-09-12-expanded",
   "date": "2026-09-12",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-12T03:00:04.322541",
+  "generatedAt": "2026-09-12T12:31:00.474045",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-12T03:00:04",
+  "updatedAt": "2026-09-12T12:31:00",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Iran-Backed Houthis Capture Strategic Red Sea Island",
-          "summary": "Yemen’s Iran-backed Houthis say they have seized Perim, a strategic island in the Bab el-Mandeb Strait linking the Red Sea and Gulf of Aden. The reported capture followed their takeover of the port city of Mokha and could tighten their grip on a major global shipping route.",
+          "title": "Israel Destroys Underground Hezbollah Fortress in Lebanon",
+          "summary": "The Israeli military said it destroyed a large underground Hezbollah structure beneath the Ali al-Taher ridge in southern Lebanon. BBC and Breitbart reported that the blast registered as the equivalent of a magnitude 4.1 earthquake, with BBC attributing that measurement to the US Geological Survey.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-              "excerpt": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
-              "imageAlt": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+              "headline": "Israel says it has destroyed major underground Hezbollah base",
+              "excerpt": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg",
+              "imageAlt": "Israel says it has destroyed major underground Hezbollah base",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -28,17 +28,17 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/national-security/2026/09/11/iran-backed-houthis-capture-strategic-red-sea-island/",
+              "url": "https://www.breitbart.com/national-security/2026/09/11/israel-destroys-underground-hezbollah-fortress-in-lebanon/",
               "source": "Breitbart",
-              "headline": "Iran-Backed Houthis Capture Strategic Red Sea Island",
-              "excerpt": "The Iran-backed Houthi insurgents of Yemen on Friday declared they have taken control of Perim, a small volcanic island in the Bab el-Mandeb Strait, a vital shipping chokepoint that connects the Red Sea to the Gulf of Aden. The capture came one day after the Houthis took control of the port city of Mokha with assistance from Iran. The post Iran-Backed Ho",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2293945965-640x335.png",
-              "imageAlt": "Iran-Backed Houthis Capture Strategic Red Sea Island",
+              "headline": "Israel Destroys Underground Hezbollah Fortress in Lebanon",
+              "excerpt": "The Israeli military on Thursday destroyed a massive underground structure beneath the Ali al-Taher ridge in southern Lebanon. The immense explosion, captured on camera by onlookers, was so powerful that seismologists recorded the event as a magnitude 4.1 earthquake. The post Israel Destroys Underground Hezbollah Fortress in Lebanon appeared fir",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/AP26254427136949-640x335.png",
+              "imageAlt": "Israel Destroys Underground Hezbollah Fortress in Lebanon",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -52,21 +52,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
-          "imageAlt": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg",
+          "imageAlt": "Israel says it has destroyed major underground Hezbollah base",
           "imageCredit": "BBC"
         },
         {
-          "title": "WATCH: Incredible Drone Show Recreates Twin Towers, Honors Each 9/11 Victim",
-          "summary": "A drone display over Manhattan recreated the fallen Twin Towers as a tribute to those killed in the September 11 attacks. Organisers said the show used 2,977 drones, one representing each victim.",
+          "title": "Philippine ferry fire death toll climbs to 35 as dozens remain missing",
+          "summary": "At least 35 people died and 54 remained missing after a fire tore through a Philippine ferry on Wednesday night. The coast guard said toxic fumes and lingering heat were slowing access to the burnt-out vessel, while one survivor described being unable to reach a life jacket amid the panic.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Drone display recreates the Twin Towers over New York City",
-              "excerpt": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5786/live/ab35c5b0-ad21-11f1-a540-61c3f7fc4e6c.jpg",
-              "imageAlt": "Drone display recreates the Twin Towers over New York City",
+              "headline": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+              "excerpt": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
+              "imageAlt": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -80,225 +80,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.dailywire.com/news/watch-incredible-drone-show-recreates-twin-towers-honors-each-9-11-victim",
-              "source": "Daily Wire",
-              "headline": "WATCH: Incredible Drone Show Recreates Twin Towers, Honors Each 9/11 Victim",
-              "excerpt": "A breathtaking drone show lit up the skies of Manhattan on Wednesday night as a tribute to the victims of the September 11, 2001, terrorist attacks. The drones were programmed to recreate the shape of the fallen Twin Towers and used 2,977 individual lights to do so, representing one for each victim who was killed ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Drones-in-NYC.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "WATCH: Incredible Drone Show Recreates Twin Towers, Honors Each 9/11 Victim",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5786/live/ab35c5b0-ad21-11f1-a540-61c3f7fc4e6c.jpg",
-          "imageAlt": "Drone display recreates the Twin Towers over New York City",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "summary": "A CNN opinion headline questions why the House Judiciary Committee is not examining Thomas. Its excerpt instead focuses on the Republican-led committee’s planned New York field hearing about violent crime and its criticism of Manhattan District Attorney Alvin Bragg’s policies.",
-          "links": [
-            {
-              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "outlet": "CNN",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "imageCredit": "CNN"
-        },
-        {
-          "title": "Saudi Arabia tells Trump now is the time for military action as Iran-backed Houthis advance",
-          "summary": "Houthi forces have seized Perim island and other positions near Yemen’s Bab al-Mandab Strait, a key gateway for global shipping and oil. Fox News reports that Saudi Arabia urged President Trump to take direct military action as the Iran-backed group advanced.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "How global trade and oil prices could be hit by Houthi advance",
-              "excerpt": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd1f/live/1252d580-adf4-11f1-bc1f-3f186ca4140c.jpg",
-              "imageAlt": "How global trade and oil prices could be hit by Houthi advance",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.foxnews.com/world/saudi-arabia-tells-trump-time-military-action-iran-backed-houthis-advance",
-              "source": "Fox News",
-              "headline": "Saudi Arabia tells Trump now is the time for military action as Iran-backed Houthis advance",
-              "excerpt": "Houthi forces seized Perim island and key positions along Yemen's Bab al-Mandab Strait as Saudi Arabia urged Trump to take direct military action.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Houtis-Yemen.jpg?ve=1&tl=1",
-              "imageAlt": "Saudi Arabia tells Trump now is the time for military action as Iran-backed Houthis advance",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd1f/live/1252d580-adf4-11f1-bc1f-3f186ca4140c.jpg",
-          "imageAlt": "How global trade and oil prices could be hit by Houthi advance",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Susan Collins calls Trump’s $5,000 dividend proposal with no cap ‘extraordinarily costly’",
-          "summary": "Sen. Susan Collins questioned President Trump’s proposal to give Americans $5,000 dividend checks if Republicans retain Congress, calling a plan with no income cap “extraordinarily costly.” Sen. Ted Cruz said he would prefer the dividend to be structured as a tax refund.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/clips/2026/09/11/cruz-i-would-like-to-see-trump-dividend-structured-as-a-tax-refund/",
-              "source": "Breitbart",
-              "headline": "Cruz: I Would Like to See Trump Dividend Structured as a Tax Refund",
-              "excerpt": "Thursday, during Fox News Channel's coverage of the Republican National Convention in Dallas, Sen. Ted Cruz (R-TX) weighed in on President Donald Trump's proposed $5,000 dividend payment to Americans. The post Cruz: I Would Like to See Trump Dividend Structured as a Tax Refund appeared first on Bre",
-              "imageUrl": "https://media.breitbart.com/media/2026/03/Cruz3122026-640x335.jpg",
-              "imageAlt": "Cruz: I Would Like to See Trump Dividend Structured as a Tax Refund",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/policy/economy/4723814/susan-collins-trump-5000-dividend-proposal-extraordinarily-costly/",
-              "source": "Washington Examiner",
-              "headline": "Susan Collins calls Trump’s $5,000 dividend proposal with no cap ‘extraordinarily costly’",
-              "excerpt": "Sen. Susan Collins (R-ME) questioned President Donald Trump’s idea of giving out $5,000 dividend checks to Americans if Republicans keep control of Congress after the 2026 midterm elections, calling the plan “extraordinarily costly.” “From the few details we have, it seems that the proposed $5,000 dividend would not have an income cap and would be […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26237027732021.jpg?w=696",
-              "imageAlt": "Susan Collins calls Trump’s $5,000 dividend proposal with no cap ‘extraordinarily costly’",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/03/Cruz3122026-640x335.jpg",
-          "imageAlt": "Cruz: I Would Like to See Trump Dividend Structured as a Tax Refund",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "WATCH LIVE: Josh Shapiro speaks at Flight 93 memorial in Shanksville",
-          "summary": "Families and community members gathered in Shanksville, Pennsylvania, to honor the 40 passengers and crew members killed aboard Flight 93 on September 11, 2001. Pennsylvania Gov. Josh Shapiro was scheduled to speak at the memorial, while victims’ relatives also took part in a separate commemoration at Ground Zero in New York.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/09/11/watch-9-11-victims-families-speak-at-ground-zero-memorial-in-nyc/",
-              "source": "Breitbart",
-              "headline": "Watch: 9/11 Victims' Families Speak at Ground Zero Memorial in NYC",
-              "excerpt": "Family members of victims of the September 11, 2001 terrorist attacks speak at the National September 11 Memorial & Museum in New York City. The post Watch: 9/11 Victims’ Families Speak at Ground Zero Memorial in NYC appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/02/ground-zero-9-11-new-york-city-pexels-new-yorker-640x335.jpg",
-              "imageAlt": "Watch: 9/11 Victims' Families Speak at Ground Zero Memorial in NYC",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/policy/national-security/4723383/josh-shapiro-speaks-flight-93-memorial-shanksville/",
-              "source": "Washington Examiner",
-              "headline": "WATCH LIVE: Josh Shapiro speaks at Flight 93 memorial in Shanksville",
-              "excerpt": "Family and community members will gather in Shanksville, Pennsylvania, on Friday to honor the 40 passengers and crew members of Flight 93 who all died during the Sept. 11, 2001, terrorist attacks. Gov. Josh Shapiro (D-PA) will deliver a speech at the memorial ceremony starting at 1 p.m. A morning observance was scheduled for 8:30 […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/Clip0039-flight-path.MXF_.03_04_31_22.Still001-e1789014386875.jpg?w=696",
-              "imageAlt": "WATCH LIVE: Josh Shapiro speaks at Flight 93 memorial in Shanksville",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/02/ground-zero-9-11-new-york-city-pexels-new-yorker-640x335.jpg",
-          "imageAlt": "Watch: 9/11 Victims' Families Speak at Ground Zero Memorial in NYC",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Disgusting Moment AOC And Mamdani Laugh During Most Somber Part Of 9/11 Memorial",
-          "summary": "Daily Wire and The Washington Times reported that Rep. Alexandria Ocasio-Cortez and New York City Mayor Zohran Mamdani were seen laughing together during the 25th-anniversary ceremony at Ground Zero. The moment occurred as relatives read the names of nearly 3,000 people killed in the September 11 attacks, according to the reports.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/disgusting-moment-aoc-and-mamdani-laugh-during-most-somber-part-of-9-11-memorial",
-              "source": "Daily Wire",
-              "headline": "Disgusting Moment AOC And Mamdani Laugh During Most Somber Part Of 9/11 Memorial",
-              "excerpt": "Rep. Alexandria Ocasio-Cortez (D-NY) and New York City Mayor Zohran Mamdani were spotted giggling together Friday morning while families mourned at Ground Zero as the names of 9/11 victims were read. Cameras at the 9/11 memorial in New York City cut from a young man crying in front of the names listed at the 9/11 ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Untitled-design-2026-09-11T122816.719.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Disgusting Moment AOC And Mamdani Laugh During Most Somber Part Of 9/11 Memorial",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/11/mamdani-aoc-seen-laughing-911-victims-names-read/",
+              "url": "https://www.washingtontimes.com/news/2026/sep/11/philippines-ferry-fire-death-toll-rises-35-dozens-still-missing/",
               "source": "Washington Times",
-              "headline": "Mamdani, AOC seen laughing as 9/11 victims' names are read",
-              "excerpt": "Mamdani and AOC were caught laughing together Friday during the 25th anniversary ceremony at ground zero as relatives of Sept. 11 victims read the names of the nearly 3,000 people killed in the 2001 terrorist attacks.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/11/AP26254601434816_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Mamdani, AOC seen laughing as 9/11 victims' names are read",
+              "headline": "Philippine ferry fire death toll climbs to 35 as dozens remain missing",
+              "excerpt": "At least 35 people are dead and 54 remain missing after a fire tore through a Philippine ferry Wednesday night. One survivor said he couldn't grab a life jacket as panicked passengers stepped on him trying to escape.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/11/Philippines_Ferry_Fire_4525__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Philippine ferry fire death toll climbs to 35 as dozens remain missing",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -312,9 +99,242 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Untitled-design-2026-09-11T122816.719.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Disgusting Moment AOC And Mamdani Laugh During Most Somber Part Of 9/11 Memorial",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
+          "imageAlt": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "North Korea launches a ballistic missile toward the sea, South Korea says",
+          "summary": "North Korea launched ballistic missiles toward the sea on Saturday, according to reports citing its neighbours. South Korea said it was exchanging information with the US and Japan, whose trilateral military drill had ended the previous day.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+              "excerpt": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp-newsml.afp_.com_.20260912T000624Z.doc-c83k7t3-1789172986.jpg?resize=1920%2C1440",
+              "imageAlt": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/11/north-korea-launches-ballistic-missile-toward-sea-says-south-korea/",
+              "source": "Washington Times",
+              "headline": "North Korea launches a ballistic missile toward the sea, South Korea says",
+              "excerpt": "North Korea launched ballistic missiles toward the sea on Saturday, its neighbors said, a day after the U.S., South Korea and Japan ended their trilateral military drill that North Korea views as a security threat.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/06/North_Korea_Koreas_Tensions_67768_s1440x953.jpg?05190af341e11364a23baf2a45a6f762c8f231b1",
+              "imageAlt": "North Korea launches a ballistic missile toward the sea, South Korea says",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp-newsml.afp_.com_.20260912T000624Z.doc-c83k7t3-1789172986.jpg?resize=1920%2C1440",
+          "imageAlt": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Mark Wahlberg, Martha Stewart and others mark 25 years since 9/11 with emotional tributes",
+          "summary": "Families in the US marked the 25th anniversary of the September 11 attacks by remembering loved ones who were killed. Mark Wahlberg, Martha Stewart and Hugh Jackman were among the Hollywood figures reported to have shared tributes.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+              "excerpt": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789161819.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/entertainment/mark-wahlberg-martha-stewart-mark-25-years-since-9-11-emotional-tributes",
+              "source": "Fox News",
+              "headline": "Mark Wahlberg, Martha Stewart and others mark 25 years since 9/11 with emotional tributes",
+              "excerpt": "Mark Wahlberg, Martha Stewart and Hugh Jackman lead Hollywood's emotional tributes marking the 25th anniversary of the Sept. 11 attacks.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mark-wahlberg-martha-stewart.jpg?ve=1&tl=1",
+              "imageAlt": "Mark Wahlberg, Martha Stewart and others mark 25 years since 9/11 with emotional tributes",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789161819.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+          "summary": "Norway's Princess Astrid died at 94, two days after making her last public appearance at the funeral of her brother, King Harald. King Haakon VIII said his aunt had represented the Royal House in a warm and dutiful manner.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+              "excerpt": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/931f3ad0-adfb-11f1-8169-6fdea7f79791.png",
+              "imageAlt": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://nypost.com/2026/09/11/world-news/norways-princess-astrid-dead-at-94-two-days-after-attending-her-brother-king-haralds-funeral/",
+              "source": "New York Post",
+              "headline": "Norway’s Princess Astrid dead at 94 — two days after attending brother King Harald’s funeral",
+              "excerpt": "The princess ‌made ⁠her last public appearance at his funeral on Wednesday.",
+              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F2026-age-94-royal-court-140630199.jpg?w%3D1024",
+              "imageAlt": "Norway’s Princess Astrid dead at 94 — two days after attending brother King Harald’s funeral",
+              "outlet": "New York Post",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/931f3ad0-adfb-11f1-8169-6fdea7f79791.png",
+          "imageAlt": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+          "summary": "Mississippi police arrested a man in connection with the death of Tasia Fortune, a Black woman whose body was found hanging from a tree in August. Her body was discovered in the lot of an abandoned home in Mississippi.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+              "excerpt": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
+              "imageAlt": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/11/mississippi-police-arrest-man-tasia-fortunes-death/",
+              "source": "Washington Times",
+              "headline": "Mississippi police arrest a man in the death of Tasia Fortune",
+              "excerpt": "Mississippi police have arrested a man in the death of Tasia Fortune, a Black woman found hanging from a tree last month.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/11/Mississippi_Woman_Hanging_97212_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Mississippi police arrest a man in the death of Tasia Fortune",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
+          "imageAlt": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Passenger train derails in France, leaving 44 injured, 1 critical",
+          "summary": "A passenger train on the Rouen-Caen route derailed in Normandy, injuring at least 44 people, including one critically. France's transport minister said 180 passengers were aboard, and the emergency response included 130 firefighters and five medical teams.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Passenger train derails in France, leaving 44 injured, 1 critical",
+              "excerpt": "French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa494933598-1789170835.jpg?resize=1920%2C1440",
+              "imageAlt": "Passenger train derails in France, leaving 44 injured, 1 critical",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Passenger train derails in France leaving at least 44 injured",
+              "excerpt": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
+              "imageAlt": "Passenger train derails in France leaving at least 44 injured",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa494933598-1789170835.jpg?resize=1920%2C1440",
+          "imageAlt": "Passenger train derails in France, leaving 44 injured, 1 critical",
+          "imageCredit": "Al Jazeera"
         }
       ]
     },
@@ -323,7 +343,7 @@
       "stories": [
         {
           "title": "Letters: ignore the farming doomsters",
-          "summary": "A Spectator Australia story is titled “Letters: ignore the farming doomsters.” The only linked item supplied with it instead calls for the return of apprentices and references an invited audience at the Manufacturing Technology Centre in Coventry, leaving the farming argument unspecified.",
+          "summary": "The digest title refers to letters urging readers to ignore pessimistic claims about farming. The sole linked Spectator Australia item is instead titled “Bring back apprentices, Chancellor!” and its excerpt mentions an invited audience at Coventry's Manufacturing Technology Centre.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/bring-back-apprentices-chancellor/",
@@ -350,16 +370,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Former China ambassador warns Beijing is becoming 'smug' and closed",
-          "summary": "A former ambassador to China warned that Beijing is becoming “smug” and closed. The former diplomat also sharply criticized parts of the Morrison government’s response to Chinese coercion, saying some Coalition figures appeared almost delighted to be targeted and paraded China’s list of 14 grievances.",
+          "title": "Bendigo, Geelong urged to join light rail revolution",
+          "summary": "Bendigo and Geelong are among Australian cities considering light rail as a transport option. Transport expert Peter Newman had called almost 20 years ago for Bendigo's trams to be used for public transport.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-09-11/former-china-ambassador-coalition-delighted-beijing-coercion/107144700",
+              "url": "https://www.abc.net.au/news/2026-09-12/bendigo-geelong-urged-to-join-light-rail-revolution/107139112",
               "source": "ABC Australia",
-              "headline": "Former China ambassador warns Beijing is becoming 'smug' and closed",
-              "excerpt": "A former ambassador to China has sharply critiqued elements of the Morrison government's response to Beijing's coercion, saying some in the Coalition \"almost delighted\" in being targeted and \"paraded\" the famous list of 14 grievances handed over by Chinese diplomats.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/7174f8997afd6130df85f99d24a96f24?impolicy=wcms_crop_resize&cropH=2554&cropW=4541&xPos=0&yPos=61&width=862&height=485",
-              "imageAlt": "Former China ambassador warns Beijing is becoming 'smug' and closed",
+              "headline": "Bendigo, Geelong urged to join light rail revolution",
+              "excerpt": "Almost 20 years ago, transport expert Peter Newman called for Bendigo's trams to be used as public transport. Now, Bendigo and Geelong are among several cities across Australia looking to adopt light rail as a potential transport solution.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/030348bb6f063aef9d71e8cc03d5fe14?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Bendigo, Geelong urged to join light rail revolution",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -374,13 +394,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/7174f8997afd6130df85f99d24a96f24?impolicy=wcms_crop_resize&cropH=2554&cropW=4541&xPos=0&yPos=61&width=862&height=485",
-          "imageAlt": "Former China ambassador warns Beijing is becoming 'smug' and closed",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/030348bb6f063aef9d71e8cc03d5fe14?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+          "imageAlt": "Bendigo, Geelong urged to join light rail revolution",
           "imageCredit": "ABC News"
         },
         {
           "title": "After 9/11, I lived through Australia’s long war in Afghanistan. There are lessons the world must learn | Shadi Khan Saif",
-          "summary": "Shadi Khan Saif reflects on the cycle of violence that followed the September 11 attacks and on Australia’s long war in Afghanistan. The commentary contrasts a generation of Australian soldiers serving in the conflict with Afghans struggling to build new lives.",
+          "summary": "Shadi Khan Saif reflects on how the September 11 attacks began a cycle of violence that continues to reverberate 25 years later. The commentary contrasts Australians serving their longest war in Afghanistan with Afghans struggling to build new lives.",
           "links": [
             {
               "url": "https://www.theguardian.com/commentisfree/2026/sep/11/after-911-i-lived-through-australias-long-war-in-afghanistan-there-are-lessons-the-world-must-learn",
@@ -408,7 +428,7 @@
         },
         {
           "title": "The desperation of the ‘Trump Dividend’",
-          "summary": "A Spectator Australia story characterizes the proposed “Trump Dividend” as an act of desperation. The supplied linked excerpt concerns a different issue—a proposed Australian digital duty of care for social media companies—so it provides no further details about the dividend argument.",
+          "summary": "The digest title presents a commentary on the “Trump Dividend.” The sole linked Spectator Australia item instead discusses the Albanese government’s proposed digital duty of care for social media companies.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/a-digital-duty-of-care-taking-failure-to-its-illogical-conclusion/",
@@ -440,16 +460,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-          "summary": "Nvidia chief Jensen Huang says the company expects to grow 70% next year. He attributes its prospects to Nvidia’s presence across many markets and rejects the suggestion that its deals are circular.",
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "summary": "Y Combinator’s Garry Tan wants smaller American open-weight AI labs to apply distillation-style training techniques to US frontier models. He argues that this could give the US a stronger range of open-weight alternatives to Chinese models.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+              "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
               "source": "TechCrunch",
-              "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-              "excerpt": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-              "imageAlt": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+              "headline": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+              "excerpt": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+              "imageAlt": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -463,13 +483,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-          "imageAlt": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+          "imageAlt": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Raiding the past: Lara Croft relives her first adventure in Legacy of Atlantis",
-          "summary": "Legacy of Atlantis remakes Lara Croft’s original 1996 Tomb Raider adventure. A preview set in St Francis’ Folly says the developers are trying to modernize the gameplay without losing the qualities that made the original a classic.",
+          "summary": "The forthcoming Tomb Raider remake Legacy of Atlantis revisits Lara Croft’s first adventure while trying to modernise its gameplay without losing the character of the 1996 original. A preview takes Lara through St Francis’ Folly, a ruined monastery setting inspired by the Unesco-listed monasteries of Meteora in Greece.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/sep/11/tomb-raider-legacy-of-atlantis-lara-croft-remake",
@@ -497,7 +517,7 @@
         },
         {
           "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
-          "summary": "The UK economy grew by an unexpected 0.4% in July after expanding 0.3% in June, according to figures from the Office for National Statistics. Rapid growth in AI-related services was credited with outweighing economic damage from the Iran war, while economists had forecast no growth.",
+          "summary": "The UK economy grew 0.4% in July, according to Office for National Statistics figures, after expanding 0.3% in June. The result exceeded economists’ forecast of no growth, with rapid expansion of AI in the services sector reported as outweighing damage from the Iran war.",
           "links": [
             {
               "url": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
@@ -525,7 +545,7 @@
         },
         {
           "title": "The Trial of Romeo Oscar review – Ayckbourn goes back to the future with android accused of murder",
-          "summary": "Alan Ayckbourn’s science-fiction courtroom drama The Trial of Romeo Oscar is set in 2194 and centers on an android accused of murder. The playwright’s 92nd work explores humanity’s relationship with technology, whether robots have souls and the value of art.",
+          "summary": "Alan Ayckbourn’s 92nd play, The Trial of Romeo Oscar, is a science-fiction courtroom drama set in 2194 and centred on an android accused of murder. The Stephen Joseph Theatre production explores humanity’s relationship with technology, whether robots have souls and the value of art.",
           "links": [
             {
               "url": "https://www.theguardian.com/stage/2026/sep/11/the-trial-of-romeo-oscar-review-alan-ayckbourn-stephen-joseph-theatre-scarborough",
@@ -553,7 +573,7 @@
         },
         {
           "title": "Playing With Fire review – like Disney’s Fantasia on steroids as a virtual Yuja Wang plays amid luminous dreamworlds",
-          "summary": "Playing With Fire is a virtual-reality installation at London’s Southbank Centre featuring an avatar of pianist Yuja Wang. The virtual performer plays music by composers including Ravel, Debussy, Prokofiev and Liszt as luminous digital worlds form around her.",
+          "summary": "Playing With Fire is a virtual-reality installation at London’s Southbank Centre featuring an avatar of pianist Yuja Wang. The virtual performance pairs music by composers including Ravel, Debussy, Prokofiev and Liszt with luminous, shifting digital worlds.",
           "links": [
             {
               "url": "https://www.theguardian.com/music/2026/sep/11/playing-with-fire-review-southbank-centre-vr-headset-yuja-wang",
@@ -585,16 +605,90 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Bojie Dy hails Pisa improvement: ‘It’s a welcome news’",
-          "summary": "Philippine House Speaker Faustino “Bojie” Dy III welcomed the country’s improved performance in the 2025 Programme for International Student Assessment. He credited sustained government investment and reforms, along with the work of the education department, school leaders and teachers.",
+          "title": "Sandiganbayan orders Romualdez transfer to PGH",
+          "summary": "Former House Speaker Martin Romualdez was transferred from Cardinal Santos Medical Center to the University of the Philippines-Philippine General Hospital in Manila on Saturday. The Sandiganbayan Third Division ordered an independent medical examination to assess whether his continued hospital confinement was necessary.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2303691/bojie-dy-hails-pisa-improvement-its-a-welcome-news",
+              "url": "https://newsinfo.inquirer.net/2304054/martin-romualdez-transferred-to-pgh-for-medical-examination",
               "source": "Philippine Daily Inquirer",
-              "headline": "Bojie Dy hails Pisa improvement: ‘It’s a welcome news’",
-              "excerpt": "MANILA, Philippines — House Speaker Faustino “Bojie” Dy III welcomed the Philippines’ improved performance in the 2025 Programme for International Student Assessment (Pisa), saying the results are fruits of the government’s sustained investments and reforms Dy credited the gains to a collective effort involving the national government, the Department of Education (DepEd), school leaders and teachers, who he said translate policies and resources into actual learning in classrooms. “I commend Secr",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/faustino-dy-27july2026.jpg",
-              "imageAlt": "Bojie Dy hails Pisa improvement: ‘It’s a welcome news’",
+              "headline": "Martin Romualdez transferred to PGH for medical examination",
+              "excerpt": "MANILA, Philippines — Former House Speaker Martin Romualdez was transferred to the University of the Philippines-Philippine General Hospital (UP-PGH) in Manila on Saturday for an independent medical examination ordered by the Sandiganbayan. Romualdez left Cardinal Santos Medical Center in San Juan City, where he had been confined since Monday, when he was arrested after the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Romualdez-hospital-bed.jpg",
+              "imageAlt": "Martin Romualdez transferred to PGH for medical examination",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/martin-romualdez-general-hospital-independent-medical-examination/",
+              "source": "Rappler World",
+              "headline": "Romualdez transferred to PGH for independent medical exam",
+              "excerpt": "The Sandiganbayan Third Division seeks the independent medical examination to determine whether there is a need for Romualdez’s continued hospital confinement",
+              "imageUrl": "https://www.rappler.com/i.ytimg.com/vi/TgGiPg3W0ec/hqdefault.jpg",
+              "imageAlt": "Romualdez transferred to PGH for independent medical exam",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Romualdez-hospital-bed.jpg",
+          "imageAlt": "Martin Romualdez transferred to PGH for medical examination",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Marcos launches studies program for foreign students",
+          "summary": "President Ferdinand Marcos Jr. established the Education Philippines, or EduPhil, program through Executive Order No. 124 signed on September 8. The program aims to promote the Philippines as a destination for international higher education, research and training while strengthening academic cooperation and innovation partnerships.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2303977/marcos-launches-studies-program-for-foreign-students",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Marcos launches studies program for foreign students",
+              "excerpt": "MANILA, Philippines — President Ferdinand Marcos Jr. has issued an order establishing the Education Philippines (EduPhil) program to promote the country as a preferred destination for international students seeking higher education, research and training. Executive Order No. 124 signed Sept. 8 said the Philippine higher education system will strengthen academic cooperation, research collaboration, innovation partnerships",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/News1280485-scaled.jpg",
+              "imageAlt": "Marcos launches studies program for foreign students",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/News1280485-scaled.jpg",
+          "imageAlt": "Marcos launches studies program for foreign students",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Sonny Angara directs DepEd to step up cyberbullying crackdown",
+          "summary": "The Philippine Department of Education is intensifying enforcement against online harassment under newly consolidated guidelines. Education Secretary Sonny Angara warned that severe cyberbullying would attract strict disciplinary penalties as the agency maintained its stance against school violence.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2303788/sonny-angara-directs-deped-to-step-up-cyberbullying-crackdown",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Sonny Angara directs DepEd to step up cyberbullying crackdown",
+              "excerpt": "MANILA, Philippines — Building on its firm stance against school violence, the Department of Education (DepEd) is intensifying enforcement against online harassment, warning that severe acts of cyberbullying will face strict disciplinary penalties under newly consolidated guidelines. The renewed policy enforcement arrives alongside the release of the Programme for International Student Assessment (Pisa) 2025 results",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/SA-SonnyAngara-02July2026.jpg",
+              "imageAlt": "Sonny Angara directs DepEd to step up cyberbullying crackdown",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -608,22 +702,108 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/faustino-dy-27july2026.jpg",
-          "imageAlt": "Bojie Dy hails Pisa improvement: ‘It’s a welcome news’",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/SA-SonnyAngara-02July2026.jpg",
+          "imageAlt": "Sonny Angara directs DepEd to step up cyberbullying crackdown",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "As UNODC tags Mindanao as smuggling hub, PNP seizures hit ₱9B in 2026",
-          "summary": "A 2026 UN Office on Drugs and Crime assessment identifies Mindanao as a major center for the smuggling, financing and distribution of illicit cigarettes. The report places tobacco trafficking within the Philippines’ wider organized-crime landscape, while the story headline says national police seizures reached ₱9 billion in 2026.",
+          "title": "Gatchalian seeks localized class suspensions amid widespread disruptions",
+          "summary": "Senate President Sherwin Gatchalian called for more localised learning measures after weather disturbances caused prolonged suspensions of in-person classes. He raised concerns that repeated widespread disruptions could contribute to student learning loss.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2303775/as-unodc-tags-mindanao-as-smuggling-hub-pnp-seizures-hit-%e2%82%b19b-in-2026",
+              "url": "https://newsinfo.inquirer.net/2304060/gatchalian-seeks-localized-class-suspensions-amid-widespread-disruptions",
               "source": "Philippine Daily Inquirer",
-              "headline": "As UNODC tags Mindanao as smuggling hub, PNP seizures hit ₱9B in 2026",
-              "excerpt": "MANILA, Philippines — A 2026 United Nations Office on Drugs and Crime (UNODC) threat assessment has identified Mindanao as a key center for the smuggling, financing, and distribution of illicit cigarettes, underscoring how tobacco trafficking contributes to the Philippines’ broader organized crime landscape. The UNODC report, An Interconnected Criminal Ecosystem: Transnational Organized Crime Threat Assessment",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/WhatsApp-Image-2026-09-11-at-17.05.16.jpg",
-              "imageAlt": "As UNODC tags Mindanao as smuggling hub, PNP seizures hit ₱9B in 2026",
+              "headline": "Gatchalian seeks localized class suspensions amid widespread disruptions",
+              "excerpt": "MANILA, Philippines — Senate President Sherwin Gatchalian on Saturday sought to push for more localized learning measures amid prolonged in-person class suspensions due to recent weather disturbances. Gatchalian raised concern over possible learning loss among students because of repeated widespread face-to-face class disruptions. READ: WALANG PASOK: Class suspensions on Friday, Sept. 11 amid habagat rains",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Screenshot-2026-08-14-at-11.51.30-AM.jpg",
+              "imageAlt": "Gatchalian seeks localized class suspensions amid widespread disruptions",
               "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Screenshot-2026-08-14-at-11.51.30-AM.jpg",
+          "imageAlt": "Gatchalian seeks localized class suspensions amid widespread disruptions",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Rains to persist over Luzon; fair weather in Visayas, Mindanao",
+          "summary": "Rains were expected to persist over parts of Luzon, while the digest title said generally fair weather could prevail in the Visayas and Mindanao. Pagasa attributed the overcast and rainy conditions in Luzon to the trough of a low-pressure area off southwestern Luzon and the southwest monsoon, or habagat.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2304065/overcast-skies-rains-expected-in-luzon-on-saturday-pagasa",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Overcast skies, rains expected in Luzon on Saturday — Pagasa",
+              "excerpt": "MANILA, Philippines — Gloomy skies with rains may affect some areas in Luzon due to the trough of the low-pressure area (LPA) off Southwestern Luzon and the southwest monsoon, or habagat, the state weather bureau said. The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) reported in the 5 a.m. weather advisory that the extension",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/12sept2026-pagasa.jpg",
+              "imageAlt": "Overcast skies, rains expected in Luzon on Saturday — Pagasa",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/12sept2026-pagasa.jpg",
+          "imageAlt": "Overcast skies, rains expected in Luzon on Saturday — Pagasa",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+          "summary": "Italian Prime Minister Giorgia Meloni said Italy supports Saudi Arabia joining the Global Combat Air Programme. The UK, Italy and Japan already participate in the project, which aims to field a new supersonic stealth fighter by 2035.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+              "source": "Wall Street Journal",
+              "headline": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+              "excerpt": "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.",
+              "imageUrl": "",
+              "imageAlt": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+          "summary": "Kimi developer Moonshot AI is targeting $2 billion in annual revenue. Although usage of its K3 models had declined slightly in recent months, OpenRouter data showed the models generating as many as 300 billion tokens a day on the platform.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+              "source": "TechCrunch",
+              "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+              "excerpt": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+              "imageAlt": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+              "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
@@ -636,130 +816,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/WhatsApp-Image-2026-09-11-at-17.05.16.jpg",
-          "imageAlt": "As UNODC tags Mindanao as smuggling hub, PNP seizures hit ₱9B in 2026",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Legarda pushes free master’s tuition, reforms for 2.25M gov’t workers",
-          "summary": "Sen. Loren Legarda is pushing free master’s tuition and broader reforms for the Philippines’ more than 2.25 million government workers. Her proposals call for greater investment in civil servants’ skills, rewards for performance, measurable results and stronger accountability.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2303700/legarda-pushes-free-masters-tuition-reforms-for-2-25m-govt-workers",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Legarda pushes free master’s tuition, reforms for 2.25M gov’t workers",
-              "excerpt": "MANILA, Philippines — With more than 2.25 million government personnel providing public services nationwide, Sen. Loren Legarda is pushing for greater investment in the skills of civil servants and reforms that reward performance, measure results and strengthen accountability in government. As the country marks the 126th Philippine Civil Service Anniversary this September, Legarda said government",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/WhatsApp-Image-2026-09-11-at-16.12.55.jpg",
-              "imageAlt": "Legarda pushes free master’s tuition, reforms for 2.25M gov’t workers",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/WhatsApp-Image-2026-09-11-at-16.12.55.jpg",
-          "imageAlt": "Legarda pushes free master’s tuition, reforms for 2.25M gov’t workers",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Rains to persist over Luzon; fair weather in Visayas, Mindanao",
-          "summary": "The southwest monsoon may continue to bring rain across Luzon through Saturday, September 12, according to the Philippine state weather bureau. Generally fair weather is expected in parts of the Visayas and Mindanao.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2303896/rains-to-persist-over-luzon-fair-weather-in-visayas-mindanao",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Rains to persist over Luzon; fair weather in Visayas, Mindanao",
-              "excerpt": "MANILA, Philippines — The southwest monsoon may still bring rains over Luzon, while generally fair weather may prevail over portions of Visayas and Mindanao until Saturday, Sept. 12, the state weather bureau said. Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) forecaster Daniel Villamil said in the 5 p.m. weather advisory that gloomy skies with",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/804878271_1621976019536520_129455551446046410_n.jpeg",
-              "imageAlt": "Rains to persist over Luzon; fair weather in Visayas, Mindanao",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/804878271_1621976019536520_129455551446046410_n.jpeg",
-          "imageAlt": "Rains to persist over Luzon; fair weather in Visayas, Mindanao",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Ridon: Malicious prosecution rap vs Sara Duterte husband ‘on the table’",
-          "summary": "Philippine lawmaker and House impeachment prosecutor Terry Ridon said a malicious-prosecution case against Vice President Sara Duterte’s husband, lawyer Manases “Mans” Carpio, remains under consideration. Ridon said lawmakers would discuss the possible action after Carpio’s complaint against them was dismissed.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2303680/ridon-malicious-prosecution-rap-vs-sara-duterte-husband-on-the-table",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Ridon: Malicious prosecution rap vs Sara Duterte husband ‘on the table’",
-              "excerpt": "MANILA, Philippines — House impeachment prosecutor and Bicol Saro party-list Rep. Terry Ridon said Thursday that lawmakers may file a malicious prosecution case against Vice President Sara Duterte’s husband, lawyer Manases “Mans” Carpio, following the dismissal of Carpio’s complaint against them. Ridon said the possible legal action would be discussed with his colleagues before any",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/ridon-22aug2026.jpg",
-              "imageAlt": "Ridon: Malicious prosecution rap vs Sara Duterte husband ‘on the table’",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/ridon-22aug2026.jpg",
-          "imageAlt": "Ridon: Malicious prosecution rap vs Sara Duterte husband ‘on the table’",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "AI agents are flooding public services with new requests",
-          "summary": "AI agents are generating a surge of new requests to public services. A researcher told TechCrunch that most identified cases involve people claiming benefits or services to which they are entitled.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-              "source": "TechCrunch",
-              "headline": "AI agents are flooding public services with new requests",
-              "excerpt": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
-              "imageAlt": "AI agents are flooding public services with new requests",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
-          "imageAlt": "AI agents are flooding public services with new requests",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+          "imageAlt": "Kimi-maker Moonshot AI targets $2B in annual revenue",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
-          "summary": "In a commentary, Emma Brockes examines Elon Musk’s claim that humanity can address the climate crisis by moving energy production “off-planet.” Musk frames the idea through the Kardashev scale, while the column treats the proposal skeptically against the backdrop of prolonged dry weather in the UK.",
+          "summary": "Emma Brockes critiques Elon Musk’s proposed answer to the climate crisis: moving energy production off-planet. The commentary links the idea to the Kardashev scale and contrasts it with concern over a 61-day period without rain in the UK.",
           "links": [
             {
               "url": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
@@ -786,88 +849,54 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
-          "summary": "Alex Gibney’s documentary about Elon Musk examines the billionaire’s business deals, early idealism and personal life. A Guardian piece highlights six takeaways from the film, including state support, 10,000 lasers and Trump’s election.",
+          "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+          "summary": "Cocaine-funded militias are attacking civilians in Colombia eight years after a peace accord removed a powerful rebel group from the field. The Wall Street Journal report characterises the violence as reflecting state inaction since the agreement.",
           "links": [
             {
-              "url": "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film",
-              "source": "The Guardian Technology",
-              "headline": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
-              "excerpt": "Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film about the richest broligarch on the planet has been one of the most eagerly anticipated films at the Venice film festival this year. The Oscar-winning 72",
-              "imageUrl": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/1625_570_934_748/master/934.jpg?width=140&quality=85&auto=format&fit=max&s=fd5d411ac64ad5e2a1b8ca0ab45136b5",
-              "imageAlt": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+              "source": "Wall Street Journal",
+              "headline": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+              "excerpt": "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
+              "imageUrl": "",
+              "imageAlt": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/1625_570_934_748/master/934.jpg?width=140&quality=85&auto=format&fit=max&s=fd5d411ac64ad5e2a1b8ca0ab45136b5",
-          "imageAlt": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony",
-          "summary": "New Mexico’s highest court fined defense lawyer Stephen Aarons after he filed an AI-generated brief in a murder-conviction appeal. The court said the document contained police testimony and witnesses fabricated by ChatGPT; Aarons said he had used the tool to create a “bulletproof summary.”",
+          "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+          "summary": "Fentanyl is increasingly being manufactured in and trafficked from Canada, drawing scrutiny from Donald Trump. The reported volumes remain small compared with those associated with Mexico.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony",
-              "source": "The Guardian Technology",
-              "headline": "New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony",
-              "excerpt": "Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary’ during a murder conviction appeal A defense lawyer appealing his client’s murder conviction submitted a legal brief containing ⁠made-up police testimony and ⁠witnesses fabricated by OpenAI ’s ChatGPT, ​ New Mexico ’s highest court said. The New Mexico supreme court on Wednesday fined the a",
-              "imageUrl": "https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=e0d0bfe5daa05172d576ccc02bb14e6a",
-              "imageAlt": "New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+              "source": "Wall Street Journal",
+              "headline": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+              "excerpt": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+              "imageUrl": "",
+              "imageAlt": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=e0d0bfe5daa05172d576ccc02bb14e6a",
-          "imageAlt": "New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Self-driving cars should be taxed to offset job losses, thinktank urges",
-          "summary": "A thinktank is urging the UK to tax self-driving cars to offset congestion and potential job losses. Its report says widespread adoption could threaten hundreds of thousands of private-hire jobs, as robotaxis begin operating in London.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges",
-              "source": "The Guardian Technology",
-              "headline": "Self-driving cars should be taxed to offset job losses, thinktank urges",
-              "excerpt": "Report says widespread autonomous vehicle adoption would put hundreds of thousands of private hire jobs at risk Taxes on self-driving cars should be introduced now in the UK to offset the rise in congestion and threats to jobs they pose, a thinktank has urged. The first robotaxis on London’s streets only started this month , but government projections are that up to",
-              "imageUrl": "https://i.guim.co.uk/img/media/80fefc5997cdeb0f175e64ff059a85515b70207a/233_0_3254_2604/master/3254.jpg?width=140&quality=85&auto=format&fit=max&s=15ee5d8c6706ede2fede130a5e3a041d",
-              "imageAlt": "Self-driving cars should be taxed to offset job losses, thinktank urges",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/80fefc5997cdeb0f175e64ff059a85515b70207a/233_0_3254_2604/master/3254.jpg?width=140&quality=85&auto=format&fit=max&s=15ee5d8c6706ede2fede130a5e3a041d",
-          "imageAlt": "Self-driving cars should be taxed to offset job losses, thinktank urges",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
