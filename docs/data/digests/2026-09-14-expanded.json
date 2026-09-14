@@ -2,24 +2,24 @@
   "id": "2026-09-14-expanded",
   "date": "2026-09-14",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-14T03:00:51.642191",
+  "generatedAt": "2026-09-14T12:30:34.033231",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-14T03:00:51",
+  "updatedAt": "2026-09-14T12:30:34",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Search underway for about 130 people after Indonesian ferry overturns",
-          "summary": "A passenger ferry carrying the name Virgo Transport 8 overturned in bad weather in Indonesia's Java Sea, leaving about 130 passengers and crew missing. Rescuers had saved at least 107 people and recovered six bodies as ships and helicopters expanded the search around the vessel's last known position.",
+          "title": "Russian drone hits train near Ukraine-Poland border soon after visiting dignitaries passed through",
+          "summary": "Ukraine's state rail operator said a Russian drone struck a train near the Ukraine-Poland border on Sunday, shortly after senior visiting dignitaries, including former UK prime minister Boris Johnson and Sweden's former premier, had passed through. BBC reported the strike came as Johnson and top European officials left the station, with Johnson questioning what \"warped logic\" drove the attack on a stationary locomotive on the Polish border, while Al Jazeera reported Poland and Ukraine accused Russia of \"escalation\" after the strikes near the border.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/six-killed-130-missing-after-indonesian-passenger-ship-capsizes?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Six killed, 130 missing after Indonesian passenger ship capsizes",
-              "excerpt": "Six people have been killed and 130 remain missing after a passenger ship capsized in the Java Sea off Indonesia.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-16.45.56-1789314459.png?resize=1200%2C675",
-              "imageAlt": "Six killed, 130 missing after Indonesian passenger ship capsizes",
+              "headline": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+              "excerpt": "Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa7084ecd62-1789331534.jpg?resize=1920%2C1440",
+              "imageAlt": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,12 +32,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-              "excerpt": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg",
-              "imageAlt": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+              "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+              "excerpt": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
+              "imageAlt": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -51,12 +51,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/13/indonesian-ferry-overturns-search-underway-130-people/",
+              "url": "https://www.washingtontimes.com/news/2026/sep/13/drone-russia-hits-train-near-ukraine-poland-border-soon-dignitaries/",
               "source": "Washington Times",
-              "headline": "Search underway for about 130 people after Indonesian ferry overturns",
-              "excerpt": "A ferry overturned in bad weather in Indonesia's Java Sea on Sunday, leaving about 130 passengers and crew missing, rescuers said. At least 107 people were rescued and the bodies of six passengers were recovered as the search operation expanded around the vessel's last known position.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/13/Indonesia_Passenger_Ship_83613_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Search underway for about 130 people after Indonesian ferry overturns",
+              "headline": "Russian drone hits train near Ukraine-Poland border soon after visiting dignitaries passed through",
+              "excerpt": "A Russian drone struck a train near the Ukraine- Poland border on Sunday shortly after senior visiting officials - including the former prime ministers of the U.K. and Sweden -- passed through, Ukraine's state rail operator said.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/13/Russia_Ukraine_War_9_763_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Russian drone hits train near Ukraine-Poland border soon after visiting dignitaries passed through",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -70,13 +70,77 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-16.45.56-1789314459.png?resize=1200%2C675",
-          "imageAlt": "Six killed, 130 missing after Indonesian passenger ship capsizes",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa7084ecd62-1789331534.jpg?resize=1920%2C1440",
+          "imageAlt": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Battleground GOP Candidate Survives Overnight Plane Crash Over Lake",
-          "summary": "Wisconsin Republican congressman and gubernatorial nominee Tom Tiffany swam to safety after the small plane carrying him lost power and made an emergency landing in Lake Wausau on Saturday night. The aircraft was returning from the La Crosse County Lincoln Day Dinner when the mechanical problem occurred.",
+          "title": "Charlie Kirk Statue Defaced With Red Paint After Unveiling",
+          "summary": "A newly installed bronze statue of the late Charlie Kirk outside Turning Point USA's Phoenix headquarters was vandalized with red paint just three days after its unveiling, Turning Point USA announced Sunday. The eight-foot statue, sculpted by artist Quintin McCann, was unveiled September 10 to coincide with the one-year anniversary of Kirk's assassination, and Al Jazeera reported the vandalism came days after the unveiling, with vandals splattering red paint over the memorial.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
+              "excerpt": "Vandals spray red paint on Charlie Kirk statue days after its unveiling to mark one year since his death.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa73365-1789342565.jpg?resize=1920%2C1440",
+              "imageAlt": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/charlie-kirk-statue-defaced-with-red-paint-after-unveiling",
+              "source": "Daily Wire",
+              "headline": "Charlie Kirk Statue Defaced With Red Paint After Unveiling",
+              "excerpt": "A newly installed bronze statue of Charlie Kirk outside Turning Point USA’s Phoenix headquarters was vandalized with red paint just three days after its unveiling, Tyler Bowyer posted on X. The eight-foot statue, sculpted by artist Quintin McCann, was unveiled Thursday, September 10, to coincide with the one-year anniversary of Kirk’s assassination at Utah Valley ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2294081408-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Charlie Kirk Statue Defaced With Red Paint After Unveiling",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/09/13/photo-turning-point-usas-charlie-kirk-statue-vandalized-splattered-with-red-paint/",
+              "source": "Breitbart",
+              "headline": "PHOTO: Turning Point USA's Charlie Kirk Statue Vandalized, Splattered with Red Paint",
+              "excerpt": "Turning Point USA announced Sunday that a statue depicting the late founder Charlie Kirk outside the organization's headquarters in Phoenix, Arizona, was vandalized and splattered with red paint. The post PHOTO: Turning Point USA’s Charlie Kirk Statue Vandalized, Splattered with Red Paint appeared first on <a rel=\"nofollow\" href=\"",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages2235415785-640x335.jpg",
+              "imageAlt": "PHOTO: Turning Point USA's Charlie Kirk Statue Vandalized, Splattered with Red Paint",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa73365-1789342565.jpg?resize=1920%2C1440",
+          "imageAlt": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Rep. Tom Tiffany Swims To Safety After Small Plane He's in Loses Power, Ditches in Wisconsin Lake",
+          "summary": "U.S. Rep. Tom Tiffany (R-WI), who is running for governor of Wisconsin, swam to safety on Saturday night after the four-seat Bonanza airplane he was traveling in lost power and ditched in a lake, forcing the congressman and the pilot to swim ashore, according to Breitbart and The Washington Times. BBC reported the small plane had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
@@ -116,48 +180,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/battleground-gop-candidate-survives-overnight-plane-crash-over-lake",
-              "source": "Daily Wire",
-              "headline": "Battleground GOP Candidate Survives Overnight Plane Crash Over Lake",
-              "excerpt": "“God was watching over us tonight.” That’s how Wisconsin Republican gubernatorial nominee Tom Tiffany described surviving a plane crash Saturday night that ended with him swimming out of a sinking aircraft in Lake Wausau. Tiffany was heading home from the La Crosse County Lincoln Day Dinner when the plane he was traveling in lost power ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2284652118-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Battleground GOP Candidate Survives Overnight Plane Crash Over Lake",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/house/4725180/tom-tiffany-swims-plane-emergency-lake-landing/",
-              "source": "Washington Examiner",
-              "headline": "Rep. Tom Tiffany swims to safety after plane makes emergency lake landing",
-              "excerpt": "Rep. Tom Tiffany’s (R-WI) plane made an emergency landing in a lake after losing power, forcing him to swim to safety. Tiffany was flying back from the La Crosse County Lincoln Day Dinner on a Beechcraft K35 when the aircraft suddenly lost power, forcing the pilot to make an emergency landing in Lake Wausau. Tiffany […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26256436258577.jpg?w=696",
-              "imageAlt": "Rep. Tom Tiffany swims to safety after plane makes emergency lake landing",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/13/rep-tom-tiffany-wisconsin-swims-safety-plane-makes-emergency-landing/",
+              "url": "https://www.washingtontimes.com/news/2026/sep/13/plane-carrying-rep-tom-tiffany-crash-lands-wisconsin-lake/",
               "source": "Washington Times",
-              "headline": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake",
-              "excerpt": "A Republican congressman said he had to swim to safety after a plane he was traveling in made an emergency landing in a lake late Saturday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/13/Wisconsin_Emergency_Plane_Landing_58577_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake",
+              "headline": "Plane carrying House lawmaker running for governor crash-lands into Wisconsin lake",
+              "excerpt": "A plane carrying Rep. Tom Tiffany, who is running for governor in Wisconsin, crash-landed in a lake Saturday night, forcing Mr. Tiffany and the pilot to swim to safety.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/06/Election_2_26_Wisconsin_94775_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Plane carrying House lawmaker running for governor crash-lands into Wisconsin lake",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -176,63 +204,16 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "Trump has support in Doonbeg, though tiny snails have snagged his Irish golf course plans",
-          "summary": "Donald Trump's visit to Ireland drew support in Doonbeg as well as frustration elsewhere over security and political tensions, while tiny snails have complicated plans for his golf course. Speaking at the Irish Open on Sunday, Trump also stood by his comments about a united Ireland and said that “many people agree” with him.",
+          "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+          "summary": "Turkish police raided gay bars and the homes of LGBTQ+ activists across major cities, detaining at least 63 people in a major crackdown, Al Jazeera reported. BBC reported that human rights groups in Turkey accused the government of using a family-values campaign to target the LGBTQ+ community.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Trump doubles down on united Ireland comments on day two of visit",
-              "excerpt": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg",
-              "imageAlt": "Trump doubles down on united Ireland comments on day two of visit",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/13/donald-trump-support-doonbeg-though-tiny-snails-snagged-irish-golf/",
-              "source": "Washington Times",
-              "headline": "Trump has support in Doonbeg, though tiny snails have snagged his Irish golf course plans",
-              "excerpt": "Some people in Ireland can't wait for U.S. President Donald Trump's weekend visit, with its tight security and political tensions, to be over.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/13/APTOPIX_Trump_Ireland_4533__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump has support in Doonbeg, though tiny snails have snagged his Irish golf course plans",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg",
-          "imageAlt": "Trump doubles down on united Ireland comments on day two of visit",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Iran-backed Houthis in Yemen claim new attacks on Saudi Arabia",
-          "summary": "Iran-backed Houthi forces in Yemen claimed fresh attacks on Saudi Arabia as they advanced along the Red Sea coast. The escalating fighting has driven more than 2,000 Yemenis across the Red Sea to Djibouti, while Yemen's Saudi-backed government called the rebel advance a painful development.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/more-than-2000-yemenis-flee-to-djibouti-amid-houthi-advances?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/14/turkish-authorities-launch-anti-lgbtq-raids-detaining-dozens?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
-              "excerpt": "Escalating fighting along Yemen’s western coast has driven more than 2,000 Yemenis across the Red Sea to Djibouti.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-15.34.29-1789310188.png?resize=1200%2C630",
-              "imageAlt": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
+              "headline": "Turkish authorities launch anti-LGBTQ raids, detaining dozens",
+              "excerpt": "Turkish police raid LGBTQ groups across major cities, detaining at least 63 in a major crackdown.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa7545e23d8-1789351006.jpg?resize=1920%2C1440",
+              "imageAlt": "Turkish authorities launch anti-LGBTQ raids, detaining dozens",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -245,186 +226,41 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/13/houthis-yemen-claim-new-attacks-saudi-arabia/",
-              "source": "Washington Times",
-              "headline": "Iran-backed Houthis in Yemen claim new attacks on Saudi Arabia",
-              "excerpt": "Iran-backed Houthis in Yemen overnight claimed new attacks on neighboring Saudi Arabia, as the Saudi-backed Yemeni government described the rebels' swift advance along the Red Sea coast as a \"painful\" development in a new front in the Iran war.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/13/Mideast_Wars_Yemen_61659_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Iran-backed Houthis in Yemen claim new attacks on Saudi Arabia",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+              "excerpt": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg",
+              "imageAlt": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-13-at-15.34.29-1789310188.png?resize=1200%2C630",
-          "imageAlt": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa7545e23d8-1789351006.jpg?resize=1920%2C1440",
+          "imageAlt": "Turkish authorities launch anti-LGBTQ raids, detaining dozens",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Trump demands Zelensky stop striking Russian oil refineries as diesel prices spike",
-          "summary": "President Donald Trump called on Ukrainian President Volodymyr Zelenskyy to halt attacks on Russian diesel refineries, saying the strikes were contributing to a global fuel shortage. His demand followed a surge in US diesel prices to an average above $6 a gallon, while the refinery strikes remained a central part of Ukraine's drone campaign against Russia.",
+          "title": "Crowd Roars As Trump Promises To End Whiskey Tariff",
+          "summary": "President Donald Trump announced at the close of the Amgen Irish Open at his Doonbeg resort in County Clare that he plans to remove the tariff on Irish whiskey, drawing cheers from the crowd, according to Daily Wire and The Washington Times. Trump said at the trophy ceremony that everyone, including Taoiseach Micheal Martin and winning golfer Shane Lowry, had been \"bugging\" him, with The Washington Examiner reporting the tariff had already been cut from 15% to 10% earlier in the year.",
           "links": [
             {
-              "url": "https://www.breitbart.com/europe/2026/09/13/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-causing-shortage/",
-              "source": "Breitbart",
-              "headline": "Trump Calls on Ukraine to Halt Strikes on Russian Diesel, Saying Attacks Causing Shortage",
-              "excerpt": "U.S. President Donald Trump on Sunday called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russian diesel, saying the attacks are causing a fuel shortage The post Trump Calls on Ukraine to Halt Strikes on Russian Diesel, Saying Attacks Causing Shortage appeared first on <a rel=\"nofollow\" href=\"https://www.brei",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2253058895-1-640x335.jpg",
-              "imageAlt": "Trump Calls on Ukraine to Halt Strikes on Russian Diesel, Saying Attacks Causing Shortage",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/trump-tells-zelenskyy-stop-doing-one-thing-during-attacks-russia",
-              "source": "Fox News",
-              "headline": "Trump tells Zelenskyy to stop doing 'one thing' during attacks on Russia",
-              "excerpt": "President Donald Trump told reporters he wants Volodymyr Zelensky to stop hitting Russian diesel refineries, saying the strikes are causing a global fuel shortage.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/trump-zelenskyy-pic.png?ve=1&tl=1",
-              "imageAlt": "Trump tells Zelenskyy to stop doing 'one thing' during attacks on Russia",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/white-house/4725191/trump-zelensky-russia-oil-refineries-diesel-prices/",
-              "source": "Washington Examiner",
-              "headline": "Trump demands Zelensky stop striking Russian oil refineries as diesel prices spike",
-              "excerpt": "President Donald Trump publicly demanded that Ukrainian President Volodymyr Zelensky stop striking Russian oil refineries over its impact on diesel prices, a central aspect of Ukraine’s drone campaign against Russia. The latest energy issue to emerge has been a spike in diesel oil prices, something that could further jeopardize Republican chances in the midterm elections. […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26189481912023_16b21f.jpg?w=696",
-              "imageAlt": "Trump demands Zelensky stop striking Russian oil refineries as diesel prices spike",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/13/trump-calls-ukraine-end-strikes-russian-diesel-saying-attacks-causing/",
-              "source": "Washington Times",
-              "headline": "Trump calls on Ukraine to end strikes on Russian diesel, saying attacks are causing a shortage",
-              "excerpt": "President Trump on Sunday called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russian diesel, saying the attacks are causing a global shortage. He spoke after diesel prices in the U.S. hit a record on Friday, soaring past $6 a gallon on average.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/13/Trump_Ireland_59897_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump calls on Ukraine to end strikes on Russian diesel, saying attacks are causing a shortage",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2253058895-1-640x335.jpg",
-          "imageAlt": "Trump Calls on Ukraine to Halt Strikes on Russian Diesel, Saying Attacks Causing Shortage",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Trump’s $5,000 dividend requires congressional approval, Mike Johnson says",
-          "summary": "House Speaker Mike Johnson said President Donald Trump's proposal to distribute $5,000 to every US citizen would require congressional approval. Johnson described the plan as an idea Congress would consider, while Republicans made no promise that the checks would be issued.",
-          "links": [
-            {
-              "url": "https://www.washingtonexaminer.com/news/house/4725210/trump-5000-dividend-congress-approval-mike-johnson/",
-              "source": "Washington Examiner",
-              "headline": "Trump’s $5,000 dividend requires congressional approval, Mike Johnson says",
-              "excerpt": "House Speaker Mike Johnson (R-LA) argued that President Donald Trump’s controversial $5,000 dividend proposal requires congressional approval, though he shied away from overt criticism of the measure. Trump’s promise to divvy out $5,000 to every U.S. citizen at the Republicans’ midterm convention last week sent shockwaves around the country and within the Republican Party. Johnson […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26075620418828-1.jpg?w=696",
-              "imageAlt": "Trump’s $5,000 dividend requires congressional approval, Mike Johnson says",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/13/house-speaker-mike-johnson-calls-trumps-5000-checks-idea-congress/",
-              "source": "Washington Times",
-              "headline": "House Speaker Mike Johnson calls Trump's $5,000 checks an 'idea' Congress will consider",
-              "excerpt": "Republicans aren't making any promises about handing out $5,000 checks to every adult American.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/22/Congress_Budget_82562_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "House Speaker Mike Johnson calls Trump's $5,000 checks an 'idea' Congress will consider",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26075620418828-1.jpg?w=696",
-          "imageAlt": "Trump’s $5,000 dividend requires congressional approval, Mike Johnson says",
-          "imageCredit": "Washington Examiner"
-        },
-        {
-          "title": "Disgusting Moment AOC And Mamdani Laugh During Most Somber Part Of 9/11 Memorial",
-          "summary": "The Daily Wire reported that Representative Alexandria Ocasio-Cortez and New York City Mayor Zohran Mamdani were seen laughing during a 9/11 memorial ceremony at Ground Zero as victims' names were read. The other link grouped with the story concerns an unrelated Colombian decree easing restrictions on carrying firearms for self-defence.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/2nd-amendment/2026/09/12/colombian-president-abelardo-de-la-espriella-loosens-restrictions-on-being-armed-for-self-defense/",
-              "source": "Breitbart",
-              "headline": "Colombian President Abelardo de la Espriella Loosens Restrictions on Being Armed for Self-Defense",
-              "excerpt": "Colombian President Abelardo de la Espriella issued a decree loosening a decades old restriction on carrying firearms in public for self-defense. The post Colombian President Abelardo de la Espriella Loosens Restrictions on Being Armed for Self-Defense appeared first on <a rel=\"nofollow\" href=\"https://www.brei",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/AP26238004885623-640x335.png",
-              "imageAlt": "Colombian President Abelardo de la Espriella Loosens Restrictions on Being Armed for Self-Defense",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/disgusting-moment-aoc-and-mamdani-laugh-during-most-somber-part-of-9-11-memorial",
+              "url": "https://www.dailywire.com/news/crowd-roars-as-trump-promises-to-end-whiskey-tariff",
               "source": "Daily Wire",
-              "headline": "Disgusting Moment AOC And Mamdani Laugh During Most Somber Part Of 9/11 Memorial",
-              "excerpt": "Rep. Alexandria Ocasio-Cortez (D-NY) and New York City Mayor Zohran Mamdani were spotted giggling together Friday morning while families mourned at Ground Zero as the names of 9/11 victims were read. Cameras at the 9/11 memorial in New York City cut from a young man crying in front of the names listed at the 9/11 ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Untitled-design-2026-09-11T122816.719.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Disgusting Moment AOC And Mamdani Laugh During Most Somber Part Of 9/11 Memorial",
+              "headline": "Crowd Roars As Trump Promises To End Whiskey Tariff",
+              "excerpt": "President Donald Trump has promised an end to the 15% tariff on Irish whiskey. Trump was attending the Amgen Irish Open at his Trump International Golf Links resort in Doonbeg, County Clare — and he took the microphone at the contest’s close to present a trophy to Irish golfer Shane Lowry, who won the tournament. ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2295079005.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Crowd Roars As Trump Promises To End Whiskey Tariff",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -435,11 +271,139 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4725304/trump-lifts-tariff-irish-whiskey/",
+              "source": "Washington Examiner",
+              "headline": "Trump says he’s lifting 10% tariff on Irish whiskey: ‘Everyone’s been bugging me’",
+              "excerpt": "President Donald Trump announced he was lifting the U.S.’s 10% tariff on Irish whiskey at the trophy ceremony for the Irish Open. Trump jokingly complained at the ceremony that everyone had been “bugging” him, including Taoiseach Micheal Martin and golfer Shane Lowry. The tariff had already been reduced from 15% earlier in the year. “On behalf […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26256660499003.jpg?w=696",
+              "imageAlt": "Trump says he’s lifting 10% tariff on Irish whiskey: ‘Everyone’s been bugging me’",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/13/donald-trump-says-plans-remove-15-tariff-irish-whiskey/",
+              "source": "Washington Times",
+              "headline": "Trump says he plans to remove a 15% tariff on Irish whiskey",
+              "excerpt": "U.S. President Donald Trump announced on Sunday at the close of a golf tournament in Ireland that he plans to remove a 15% tariff on Irish whiskey.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/13/APTOPIX_Trump_Ireland_26881_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump says he plans to remove a 15% tariff on Irish whiskey",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/AP26238004885623-640x335.png",
-          "imageAlt": "Colombian President Abelardo de la Espriella Loosens Restrictions on Being Armed for Self-Defense",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2295079005.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Crowd Roars As Trump Promises To End Whiskey Tariff",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "China Played Key Role In Iranian Strike That Killed Americans",
+          "summary": "Chinese companies allegedly supplied Iran with high-resolution satellite imagery of a U.S. military base shortly before an Iranian missile attack killed three American troops, according to U.S. officials familiar with the intelligence cited by Daily Wire. The report raised fresh tensions between Washington and Beijing as President Donald Trump prepared to meet with Chinese President Xi Jinping, and Fox News reported Trump said the U.S. spies on China \"too\" in response.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/chinese-satellite-imagery-linked-to-iranian-strike-that-killed-three-us-troops",
+              "source": "Daily Wire",
+              "headline": "China Played Key Role In Iranian Strike That Killed Americans",
+              "excerpt": "Chinese companies allegedly supplied Iran with high-resolution satellite imagery of a U.S. military base shortly before an Iranian missile attack killed three American troops, according to U.S. officials familiar with the intelligence, raising fresh tensions between Washington and Beijing as President Donald Trump prepares to meet with Chinese President Xi Jinping. The officials told the ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2025/10/GettyImages-1210866973.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "China Played Key Role In Iranian Strike That Killed Americans",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/trump-says-china-spies-us-report-ties-chinese-imagery-iran-strike",
+              "source": "Fox News",
+              "headline": "Trump says China 'spies' on US after report ties Chinese imagery to Iran strike",
+              "excerpt": "The president said the U.S. spies on China \"too\" after a report linked Chinese satellite imagery to Iran's deadly July missile attack on American troops.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/donald-trump-ireland.jpg?ve=1&tl=1",
+              "imageAlt": "Trump says China 'spies' on US after report ties Chinese imagery to Iran strike",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2025/10/GettyImages-1210866973.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "China Played Key Role In Iranian Strike That Killed Americans",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "El Sayed addresses RNC convention spotlight: ‘The barbarian is in the White House’",
+          "summary": "Michigan Democratic Senate candidate Abdul El-Sayed told CBS's \"Face the Nation\" on Sunday that President Donald Trump is a \"barbarian in the White House,\" responding to the attention he received at last week's Republican midterm elections convention, Breitbart reported. Washington Examiner reported Trump, Vice President JD Vance and other speakers had mentioned El-Sayed at the first-of-its-kind convention, prompting his rebuke.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/clips/2026/09/13/el-sayed-the-barbarian-is-in-the-white-house/",
+              "source": "Breitbart",
+              "headline": "El-Sayed: 'The Barbarian Is in the White House'",
+              "excerpt": "Sunday on CBS’s “Face the Nation,” Michigan Democratic Senate candidate Abdul El-Sayed said President Donald Trump is a “barbarian in the White House.” Partial transcript as follows: WEIJIA JIANG: We go now to Michigan’s Democratic nominee for Senate, Dr. Abdul The post El-Sayed: ‘The Barbarian Is in the White House’ appeared first on <a rel=\"nofollow\" href=\"https://www",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/elsaty345-640x335.jpg",
+              "imageAlt": "El-Sayed: 'The Barbarian Is in the White House'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4725299/el-sayed-addresses-rnc-convention-spotlight-barbarian/",
+              "source": "Washington Examiner",
+              "headline": "El Sayed addresses RNC convention spotlight: ‘The barbarian is in the White House’",
+              "excerpt": "Michigan Democratic Senate candidate Abdul el Sayed addressed the attention he received at last week’s Republican midterm elections convention on Sunday. While speaking with CBS News’s Weijia Jiang of Face the Nation, the socialist Senate candidate said President Donald Trump, Vice President JD Vance, and other speakers who mentioned him at the first-of-its-kind convention in […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/image-collage-9kcetgjkg-1789328907915-e1789330735974.jpg?1789314597&w=696",
+              "imageAlt": "El Sayed addresses RNC convention spotlight: ‘The barbarian is in the White House’",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/08/elsaty345-640x335.jpg",
+          "imageAlt": "El-Sayed: 'The Barbarian Is in the White House'",
           "imageCredit": "Breitbart"
         }
       ]
@@ -449,15 +413,15 @@
       "stories": [
         {
           "title": "Letters: ignore the farming doomsters",
-          "summary": "A Spectator Australia letters item urges readers to disregard pessimistic claims about farming. Its excerpt also criticises the government's attitude toward Britain's countryside, citing James Vitali's description of that approach.",
+          "summary": "The Spectator Australia published a letters-driven commentary headlined \"Letters: ignore the farming doomsters,\" while the linked item on the same page, \"Don't sympathise with Lindsay Clancy,\" argues the mistrial declared in the Lindsay Clancy filicide case coincides uncomfortably with a new UK development, according to the excerpt provided by the outlet.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/09/letters-ignore-the-farming-doomsters/",
+              "url": "https://www.spectator.com.au/2026/09/dont-sympathise-with-lindsay-clancy/",
               "source": "Spectator Australia",
-              "headline": "Letters: ignore the farming doomsters",
-              "excerpt": "Despoiling Suffolk Sir: There can be few better summaries of government attitude to Britain’s countryside than James Vitali’s: ‘Something to… The post Letters: ignore the farming doomsters appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/09/letters-what-will-i-do",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Letters_iStock_1270570904.jpg",
-              "imageAlt": "Letters: ignore the farming doomsters",
+              "headline": "Don’t sympathise with Lindsay Clancy",
+              "excerpt": "The declaration of a mistrial in the filicide case of Lindsay Clancy coincides, for me uncomfortably, with a new UK… The post Don’t sympathise with Lindsay Clancy appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/08/we-are-ignoring-the-biggest-threat-the-world-face",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Lionel_GettyImages_2292989072.png",
+              "imageAlt": "Don’t sympathise with Lindsay Clancy",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -471,21 +435,39 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Letters_iStock_1270570904.jpg",
-          "imageAlt": "Letters: ignore the farming doomsters",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Lionel_GettyImages_2292989072.png",
+          "imageAlt": "Don’t sympathise with Lindsay Clancy",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Cowboys back in the saddle as Alice Springs Rodeo returns",
-          "summary": "More than 2,000 people attended the Alice Springs Rodeo when it returned after a one-year hiatus. Three competitors were taken to hospital, while Territory cowboy Sam Webb won $3,000.",
+          "title": "Alan Jones told prominent athlete ‘I would like to be kissing you all night’ after alleged assault, trial hears",
+          "summary": "A prominent athlete, known as Complainant M, told the Alan Jones criminal trial at Sydney's Downing Centre that the broadcaster said he \"would like to be kissing you all night\" and later kissed him on the corner of his lips at a public event, The Guardian Australia reported. The witness said he froze and was \"shocked and embarrassed,\" while ABC News reported the athlete is giving evidence in the trial today.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-09-13/cowboys-back-in-the-saddle-as-alice-springs-rodeo-returns/107148456",
+              "url": "https://www.theguardian.com/australia-news/2026/sep/14/alan-jones-trial-athlete-witness-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Alan Jones told prominent athlete ‘I would like to be kissing you all night’ after alleged assault, trial hears",
+              "excerpt": "Alleged victim tells court he froze and was ‘in disbelief’ after broadcaster kissed him on corner of his lips at public event A prominent athlete froze and was “shocked and embarrassed” when Alan Jones kissed him on the side of his mouth at a public event, the broadcaster’s trial at Sydney’s Downing Centre has heard. The witness said the kiss on the corner of his lips happened years after Jones sent him a weekly bouquet of flowers after he had complimented the flowers on Jones’s d",
+              "imageUrl": "https://i.guim.co.uk/img/media/65d1bd8646d5c1121a13610ff68682493896add3/1503_312_1939_1552/master/1939.jpg?width=140&quality=85&auto=format&fit=max&s=ee6cbc22feb322deefd5d51c0eb6386f",
+              "imageAlt": "Alan Jones told prominent athlete ‘I would like to be kissing you all night’ after alleged assault, trial hears",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-09-14/nsw-alan-jones-trial-prominent-athlete-complainant-m-evidence/107149938",
               "source": "ABC Australia",
-              "headline": "Cowboys back in the saddle as Alice Springs Rodeo returns",
-              "excerpt": "More than 2,000 people packed into the Alice Springs Rodeo as the event returned after a year-long hiatus, with three competitors taken to hospital and Territory cowboy Sam Webb riding away with $3,000.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/8b4b04676745287f9d3c9e165a23d138?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Cowboys back in the saddle as Alice Springs Rodeo returns",
+              "headline": "Live: Prominent athlete tells court Alan Jones kissed him twice without consent",
+              "excerpt": "A prominent athlete, known as Complainant M, is giving evidence in the Alan Jones criminal trial today.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/336b8c175f6db596c89d36eab65f6ea3?impolicy=wcms_crop_resize&cropH=2295&cropW=4080&xPos=0&yPos=93&width=862&height=485",
+              "imageAlt": "Live: Prominent athlete tells court Alan Jones kissed him twice without consent",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -494,27 +476,27 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/8b4b04676745287f9d3c9e165a23d138?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-          "imageAlt": "Cowboys back in the saddle as Alice Springs Rodeo returns",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/65d1bd8646d5c1121a13610ff68682493896add3/1503_312_1939_1552/master/1939.jpg?width=140&quality=85&auto=format&fit=max&s=ee6cbc22feb322deefd5d51c0eb6386f",
+          "imageAlt": "Alan Jones told prominent athlete ‘I would like to be kissing you all night’ after alleged assault, trial hears",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "The Populist: Aeroplanes and bulldozers | Episode 1 - podcast",
-          "summary": "The first episode of The Guardian's podcast The Populist reports that Pauline Hanson and Barnaby Joyce stayed at Gina Rinehart's $20 million mansion after One Nation fundraisers. The report says the details underscore the depth of the relationship between the billionaire and the party.",
+          "title": "Australia to impose 'targeted measures' to stop Israeli settler violence but no import ban – video",
+          "summary": "Foreign affairs minister Penny Wong announced Australia will work with international partners to \"deter illegal settlements and settler violence\" in the West Bank but will not follow the UK in imposing a trade ban on goods produced in Israeli settlements, The Guardian Australia reported. Wong said the government had concerns that a blanket ban could lead to unintended consequences for Australian businesses, Palestinians and Israelis.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/sep/14/pauline-hanson-and-barnaby-joyce-stayed-at-gina-rinehart-brisbane-mansion-after-one-nation-fundraisers-ntwnfb",
+              "url": "https://www.theguardian.com/world/video/2026/sep/09/australia-to-impose-targeted-measures-to-stop-israeli-settler-violence-but-no-import-ban-video",
               "source": "The Guardian Australia",
-              "headline": "Pauline Hanson and Barnaby Joyce stayed at Gina Rinehart’s $20m mansion after One Nation fundraisers",
-              "excerpt": "Exclusive: New details underscoring depth of relationship between billionaire and party revealed in first episode of Guardian podcast The Populist Listen to the Guardian’s podcast The Populist here Get our new political email , free app or <a hre",
-              "imageUrl": "https://i.guim.co.uk/img/media/ea476ae370829a740d18311166316493f44d81e1/32_1_4876_3901/master/4876.jpg?width=140&quality=85&auto=format&fit=max&s=8a653d6d38a5755b93f9569954df7ceb",
-              "imageAlt": "Pauline Hanson and Barnaby Joyce stayed at Gina Rinehart’s $20m mansion after One Nation fundraisers",
+              "headline": "Australia to impose 'targeted measures' to stop Israeli settler violence but no import ban – video",
+              "excerpt": "The foreign affairs minister, Penny Wong, has announced that Australia will work with international partners to 'deter illegal settlements and settler violence' but won’t follow the UK in implementing a trade ban with goods produced in Israeli settlements in the West Bank. Wong said the government had concerns with a blanket ban, and that it could lead to unintended consequences for Australian businesses, for Palestinians and for Israelis <a href=\"https://www.theguardian.com/wor",
+              "imageUrl": "https://i.guim.co.uk/img/media/df08b247990e331ba4e330a833e80a0dab6f3293/384_0_1093_874/master/1093.jpg?width=140&quality=85&auto=format&fit=max&s=dc1b53e73d3785188205e8a8ebe775c6",
+              "imageAlt": "Australia to impose 'targeted measures' to stop Israeli settler violence but no import ban – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -528,21 +510,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/ea476ae370829a740d18311166316493f44d81e1/32_1_4876_3901/master/4876.jpg?width=140&quality=85&auto=format&fit=max&s=8a653d6d38a5755b93f9569954df7ceb",
-          "imageAlt": "Pauline Hanson and Barnaby Joyce stayed at Gina Rinehart’s $20m mansion after One Nation fundraisers",
+          "imageUrl": "https://i.guim.co.uk/img/media/df08b247990e331ba4e330a833e80a0dab6f3293/384_0_1093_874/master/1093.jpg?width=140&quality=85&auto=format&fit=max&s=dc1b53e73d3785188205e8a8ebe775c6",
+          "imageAlt": "Australia to impose 'targeted measures' to stop Israeli settler violence but no import ban – video",
           "imageCredit": "The Guardian"
         },
         {
           "title": "The desperation of the ‘Trump Dividend’",
-          "summary": "The story title characterises the proposed “Trump Dividend” as an act of desperation. The linked Spectator Australia item instead discusses two developments driving interest in artificial intelligence and cautions readers not to accept everything AI companies say.",
+          "summary": "The Spectator Australia ran a column headlined \"The desperation of the 'Trump Dividend',\" paired alongside a linked piece, \"Finally, a proper, grown-up retrospective from the Tate,\" in which the author describes being stopped in his tracks a month ago in Hampstead by a vast rectangular work of art, according to the outlet's excerpt.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/09/dont-believe-everything-that-ai-companies-say/",
+              "url": "https://www.spectator.com.au/2026/09/finally-a-proper-grown-up-retrospective-from-the-tate/",
               "source": "Spectator Australia",
-              "headline": "Don’t believe everything that AI companies say",
-              "excerpt": "Two big stories are driving interest in artificial intelligence this week. The first is the resignation of Jacob Coxon, a… The post Don’t believe everything that AI companies say appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/09/burnhams-clear-diagnosi",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_2022353617.jpg",
-              "imageAlt": "Don’t believe everything that AI companies say",
+              "headline": "Finally, a proper, grown-up retrospective from the Tate",
+              "excerpt": "A month ago in Hampstead, a work of art stopped me in my tracks. The piece was a vast rectangular… The post Finally, a proper, grown-up retrospective from the Tate appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/09/finally-a-museum-that-refrains",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Ana_Mendieta_Bird_Run_1974.png",
+              "imageAlt": "Finally, a proper, grown-up retrospective from the Tate",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -556,8 +538,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_2022353617.jpg",
-          "imageAlt": "Don’t believe everything that AI companies say",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/Ana_Mendieta_Bird_Run_1974.png",
+          "imageAlt": "Finally, a proper, grown-up retrospective from the Tate",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -566,16 +548,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-          "summary": "Barack Obama urged Democrats to make artificial intelligence one of their central priorities. He said the party needs a clear plan for addressing concerns about AI's economic effects and safety.",
+          "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+          "summary": "Insight Partners' Deven Parekh told TechCrunch why his $90 billion firm is deliberately staying diversified while rivals pile into OpenAI and Anthropic, saying he is fine holding stakes in rival AI labs. He also opened up about losing Legora to General Catalyst.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+              "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
               "source": "TechCrunch",
-              "headline": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-              "excerpt": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
-              "imageAlt": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+              "headline": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+              "excerpt": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?resize=1200,800",
+              "imageAlt": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -589,13 +571,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
-          "imageAlt": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?resize=1200,800",
+          "imageAlt": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-          "summary": "A Waymo vehicle pulled over and contacted police after riders were found with what was described as a ghost gun. The linked Verge item presents the incident as an example of a driverless vehicle intervening during a ride.",
+          "summary": "The Verge reported that a Waymo self-driving vehicle pulled over and called police on its riders after they were found with a so-called ghost gun. The report concerns the autonomous, driverless taxi service ahead of the LA28 Summer Olympics.",
           "links": [
             {
               "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
@@ -623,7 +605,7 @@
         },
         {
           "title": "AI will transform capitalism – but how?",
-          "summary": "Artificial intelligence is expected to reshape the economy, but the form that transformation takes remains a matter of public choice. The Guardian traces the idea of autonomous machines altering property, hierarchy and inequality back to ancient political thought, including Aristotle's discussion of self-acting tools.",
+          "summary": "The Guardian Technology argues that artificial intelligence is set to drastically reshape the economy and that it is within society's power to decide what that looks like. The piece traces the idea of machines acting independently of human direction back to Aristotle's Politics, which cites a fantasy from the Iliad in which tools perform their own work when ordered.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
@@ -651,7 +633,7 @@
         },
         {
           "title": "‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles",
-          "summary": "Scammers are exploiting interest in Apple's iPhone 18 Pro and foldable Duo by advertising implausibly cheap devices on fraudulent websites. Consumers searching for bargain iPhone deals are being warned that offers pricing a £1,199 handset at only a few hundred pounds may be traps.",
+          "summary": "The Guardian warned that criminals are exploiting demand for Apple's newly launched iPhone 18 Pro and foldable Duo to trick shoppers eager to get their hands on one. The report notes that people searching online for a \"cheap\" iPhone deal can find websites offering an iPhone 18 Pro for a couple of hundred pounds, far below the £1,199 price of the cheapest new option.",
           "links": [
             {
               "url": "https://www.theguardian.com/money/2026/sep/13/cheap-iphone-18-pro-duo-deal-price-scam-sites-apple-mobiles",
@@ -678,8 +660,239 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Oura Ring 5 review: a stunning generational leap for smart rings",
+          "summary": "The Guardian's review of the Oura Ring 5 calls it a \"stunning generational leap\" for smart rings, praising a slimmer, lighter design that brings it in line with standard wedding bands and jewellery, with longer battery life and easier day-to-day wear. The Ring 5, a direct replacement for the Ring 4, is described as the first smart ring you can genuinely forget you're wearing.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/30/oura-ring-5-review-smart-ring-health-tracking",
+              "source": "The Guardian Technology",
+              "headline": "Oura Ring 5 review: a stunning generational leap for smart rings",
+              "excerpt": "Slimmer, longer lasting and much easier to live with, new Oura sets a very high new bar for health-tracking wearables Oura’s new Ring 5 is a massive upgrade for smart rings, dramatically shrinking in size and weight to bring them right into line with standard wedding bands and other jewellery. It is finally a smart ring you can genuinely forget you’re wearing. The Ring 5 is a straight replacement for the <a href=\"https://www.theguardian.com/technology/2024/oct/15/oura-ring-4-revie",
+              "imageUrl": "https://i.guim.co.uk/img/media/adb48c158340bd81e3a39060a4fb7fa67cf1c390/2598_1820_1759_1407/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=4465ac0c6b67e0daeb4a4209faaa19fe",
+              "imageAlt": "Oura Ring 5 review: a stunning generational leap for smart rings",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/adb48c158340bd81e3a39060a4fb7fa67cf1c390/2598_1820_1759_1407/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=4465ac0c6b67e0daeb4a4209faaa19fe",
+          "imageAlt": "Oura Ring 5 review: a stunning generational leap for smart rings",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Impeach court allows ex-Sandiganbayan justice Tang to testify on SALN",
+          "summary": "The Philippine Senate impeachment court ruled against Vice President Sara Duterte's defense counsel and allowed retired Sandiganbayan Presiding Justice Amparo Cabotaje-Tang to testify, Philippine Daily Inquirer reported. The House prosecutors sought Tang as their first witness on impeachment article II, which concerns Duterte's alleged unexplained wealth, to testify on governing principles for undisclosed wealth declarations (SALN).",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2304673/impeach-court-denies-exclusion-of-retired-sandiganbayan-judge-as-witness",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Impeach court allows ex-Sandiganbayan justice Tang to testify on SALN",
+              "excerpt": "MANILA, Philippines – The Senate impeachment court ruled against Vice President Sara Duterte’s defense counsel’s request on Monday opposing the presentation of the House prosecutors’ first witness on impeachment article II, or Duterte’s alleged unexplained wealth. The House sought to present retired Sandiganbayan Presiding Justice Amparo Cabotaje-Tang to testify to governing principles on undisclosed and unexplained",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Senate-impeachment-court-9september2026.jpg",
+              "imageAlt": "Impeach court allows ex-Sandiganbayan justice Tang to testify on SALN",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Senate-impeachment-court-9september2026.jpg",
+          "imageAlt": "Impeach court allows ex-Sandiganbayan justice Tang to testify on SALN",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "‘Inconsistent class suspensions disrupt learning’ – youth group",
+          "summary": "Progressive youth group Samahan ng Progresibong Kabataan (SPARK) criticized the Philippine government's handling of class suspensions amid recent monsoon rains, saying frequent and inconsistent cancellations have further disrupted learning for millions of students, Philippine Daily Inquirer reported. The group called the government's inconsistency and inaccuracy \"unacceptable.\"",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2304556/inconsistent-class-suspensions-disrupt-learning-youth-group",
+              "source": "Philippine Daily Inquirer",
+              "headline": "‘Inconsistent class suspensions disrupt learning’ – youth group",
+              "excerpt": "MANILA, Philippines — Progressive youth group Samahan ng Progresibong Kabataan (SPARK) has criticized the government’s handling of class suspensions amid recent monsoon rains, saying frequent and inconsistent cancellations have further disrupted learning for millions of students. “Such inconsistency and inaccuracy on the part of our government is unacceptable. READ: Gatchalian seeks localized class suspensions amid",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/walang-pasok-school-weather-typhoon-08August2026_2.jpg",
+              "imageAlt": "‘Inconsistent class suspensions disrupt learning’ – youth group",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/walang-pasok-school-weather-typhoon-08August2026_2.jpg",
+          "imageAlt": "‘Inconsistent class suspensions disrupt learning’ – youth group",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Manny Pacquiao to receive honorary doctorate degree from PNU",
+          "summary": "The Philippine Normal University will confer an honorary doctorate in physical education and sports on boxing legend and recently appointed anti-poverty czar Manny Pacquiao, Philippine Daily Inquirer reported. In a statement on its website, PNU said the award recognizes Pacquiao's contributions to Philippine sports and his role in inspiring Filipinos to pursue excellence despite difficult circumstances.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2304650/manny-pacquiao-to-receive-honorary-doctorate-degree-from-pnu",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Manny Pacquiao to receive honorary doctorate degree from PNU",
+              "excerpt": "MANILA, Philippines — The Philippine Normal University (PNU) will confer an honorary doctorate in physical education and sports on boxing legend and recently appointed anti-poverty czar Manny Pacquiao, recognizing his contributions to Philippine sports and his role in inspiring Filipinos to pursue excellence despite difficult circumstances. In a statement on its website, the PNU said the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/SIG00237-29.jpg",
+              "imageAlt": "Manny Pacquiao to receive honorary doctorate degree from PNU",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/SIG00237-29.jpg",
+          "imageAlt": "Manny Pacquiao to receive honorary doctorate degree from PNU",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Marcos rejects ‘political drama’ claims over Romualdez arrest",
+          "summary": "President Ferdinand Marcos Jr. dismissed claims that the arrest of former House Speaker Martin Romualdez was merely political drama, calling the criticism another attack aimed at putting him down, Philippine Daily Inquirer reported. Romualdez was arrested on a plunder charge over alleged irregularities involving P7.44 billion worth of flood control projects.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2304635/marcos-rejects-political-drama-claims-over-romualdez-arrest",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Marcos rejects ‘political drama’ claims over Romualdez arrest",
+              "excerpt": "MANILA, Philippines — President Ferdinand Marcos Jr. has dismissed claims that the arrest of former House Speaker Martin Romualdez was merely political drama, calling the criticisms another attack aimed at putting him down. Romualdez was arrested on a plunder charge over alleged irregularities involving P7.44 billion worth of flood control projects, following Marcos’ pronouncement in his",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Marcos-romualdez-27July2026_2.jpg",
+              "imageAlt": "Marcos rejects ‘political drama’ claims over Romualdez arrest",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/Marcos-romualdez-27July2026_2.jpg",
+          "imageAlt": "Marcos rejects ‘political drama’ claims over Romualdez arrest",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "LPA forms outside PAR, not expected to affect PH Monday",
+          "summary": "A low-pressure area developed outside the Philippine area of responsibility early Monday morning and is not expected to affect the country, Philippine Daily Inquirer reported, citing the state weather bureau. The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) said in its 5 a.m. forecast that the LPA was last located 3,230 kilometers east of Eastern Visayas.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2304626/lpa-forms-outside-par-not-expected-to-affect-ph-monday",
+              "source": "Philippine Daily Inquirer",
+              "headline": "LPA forms outside PAR, not expected to affect PH Monday",
+              "excerpt": "MANILA, Philippines — A low-pressure area (LPA) developed outside the Philippine area of responsibility (PAR) early Monday morning, according to the state weather bureau. The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) said in its 5 a.m. weather forecast that the LPA was last located 3,230 kilometers east of Eastern Visayas. READ: Fair Sunday",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/08/PAGASA-Weather-Update-Title-Card.jpg",
+              "imageAlt": "LPA forms outside PAR, not expected to affect PH Monday",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/08/PAGASA-Weather-Update-Title-Card.jpg",
+          "imageAlt": "LPA forms outside PAR, not expected to affect PH Monday",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+          "summary": "The Wall Street Journal reported that the latest Gaza hostages freed are four female soldiers who had been stationed at Nahal Oz on the border of the Gaza Strip, whose release follows 15 months of captivity and a campaign by their families. According to the report, the women were among those whose warnings about Hamas had been ignored.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0",
+              "source": "Wall Street Journal",
+              "headline": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+              "excerpt": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
+              "imageUrl": "",
+              "imageAlt": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "summary": "TechCrunch reported that former President Barack Obama said Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address concerns around the technology's economic impact and safety. His comments come as AI policy moves to the fore of the political debate.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+              "source": "TechCrunch",
+              "headline": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+              "excerpt": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+              "imageAlt": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+          "imageAlt": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "imageCredit": "TechCrunch"
+        },
+        {
           "title": "The AfD won a shock election in Germany. Elon Musk was thrilled",
-          "summary": "Germany's Alternative für Deutschland scored a convincing state-election victory that left it only a few seats short of forming the country's first state-level far-right government since the Second World War. The Guardian says Elon Musk welcomed the result and describes a mutually beneficial relationship through which he and the AfD amplify far-right views in Germany and the United States.",
+          "summary": "The Alternative für Deutschland (AfD) rattled European politics with a convincing victory in a German state election, placing it only a few seats away from forming the country's first state-level far-right government since the second world war, The Guardian Technology reported. The piece examines the \"symbiotic relationship\" between Elon Musk, who was thrilled by the result, and the party in spreading their far-right views in both Germany and the US.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/13/afd-germany-elon-musk",
@@ -704,296 +917,56 @@
           "imageUrl": "https://i.guim.co.uk/img/media/86fa76375f3b6cd9ba53ab4428b02da92ec7ed92/0_0_3569_2854/master/3569.jpg?width=140&quality=85&auto=format&fit=max&s=82fe6a5de97a19c84e690ab44c47b5f9",
           "imageAlt": "The AfD won a shock election in Germany. Elon Musk was thrilled",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Stratbase: PH should strengthen cybersecurity, AI governance",
-          "summary": "The Stratbase Institute urged the Philippine government to strengthen cybersecurity and improve coordination among agencies responding to cyberattacks. The think tank said that coordination will be important for implementing the country's first AI-governance framework, which the Department of Economy, Planning, and Development planned to release in September.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2304368/stratbase-ph-should-strengthen-cybersecurity-ai-governance",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Stratbase: PH should strengthen cybersecurity, AI governance",
-              "excerpt": "MANILA, Philippines — Think tank Stratbase Institute has urged the government to strengthen its cybersecurity amid cyberattacks, saying concerned agencies must coordinate to properly implement the country’s first artificial intelligence (AI) governance framework. The Department of Economy, Planning, and Development (DepDev) recently announced that it is eyeing to release the framework this September after presenting",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2023/08/artificial-intelligence-AI-stock-08072023.jpg",
-              "imageAlt": "Stratbase: PH should strengthen cybersecurity, AI governance",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2023/08/artificial-intelligence-AI-stock-08072023.jpg",
-          "imageAlt": "Stratbase: PH should strengthen cybersecurity, AI governance",
-          "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Ex-Cavite landfill now a multi-purpose hub, public complex",
-          "summary": "A 40-hectare former landfill in Carmona, Cavite has been converted into a public complex supporting disaster preparedness, food security, environmental rehabilitation and clean energy. The Marcos administration wants the project to serve as a model for other local governments.",
+          "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+          "summary": "The Wall Street Journal reported that Beijing is signalling readiness to talk to President Donald Trump's team, including figures who have long been critics of China. The Chinese foreign minister spoke by phone with Secretary of State Marco Rubio, the new secretary of state who has been a critic of Beijing.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2304319/ex-cavite-landfill-now-a-multi-purpose-hub-public-complex",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Ex-Cavite landfill now a multi-purpose hub, public complex",
-              "excerpt": "MANILA, Philippines — A 40-hectare former landfill in Carmona, Cavite has been transformed into a multi-purpose public complex focused on disaster preparedness, food security, environmental rehabilitation and clean energy, with the Marcos administration seeking to make it a model for other local government units. Executive Secretary Ralph Recto, along with Metropolitan Manila Development Authority (MMDA) Chairman",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/mmda-carmona-2.jpg",
-              "imageAlt": "Ex-Cavite landfill now a multi-purpose hub, public complex",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/mmda-carmona-2.jpg",
-          "imageAlt": "Ex-Cavite landfill now a multi-purpose hub, public complex",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "PNP intensifies drive vs fake gov’t aid distributors targeting seniors",
-          "summary": "The Philippine National Police intensified its crackdown on scammers posing as government-aid distributors after senior citizens in Cebu and Aklan were allegedly deceived into allowing suspects into their homes. Local police units were directed to coordinate closely with relevant government agencies and respond immediately to reports of such schemes.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2304428/pnp-intensifies-drive-vs-fake-govt-aid-distributors-targeting-seniors",
-              "source": "Philippine Daily Inquirer",
-              "headline": "PNP intensifies drive vs fake gov’t aid distributors targeting seniors",
-              "excerpt": "MANILA, Philippines—The Philippine National Police (PNP) has intensified its crackdown on scammers posing as government aid distributors after senior citizens in Cebu and Aklan were allegedly tricked into letting the suspects into their homes. “We have directed our local police units to closely coordinate with concerned government agencies and immediately act on reports involving individuals",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2024/03/WhatsApp-Image-2024-03-01-at-14.06.39.jpeg",
-              "imageAlt": "PNP intensifies drive vs fake gov’t aid distributors targeting seniors",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2024/03/WhatsApp-Image-2024-03-01-at-14.06.39.jpeg",
-          "imageAlt": "PNP intensifies drive vs fake gov’t aid distributors targeting seniors",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Marcos orders stricter implementation of construction standards",
-          "summary": "President Ferdinand Marcos Jr. ordered Philippine agencies and local officials to enforce construction and building standards more strictly. The directive is intended to make infrastructure more resilient to earthquakes, floods and other disasters.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2304281/marcos-orders-stricter-implementation-of-construction-standards",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Marcos orders stricter implementation of construction standards",
-              "excerpt": "MANILA, Philippines — President Ferdinand R. Marcos Jr. has ordered government agencies and local officials to tighten enforcement of construction and building standards as the administration pushes to make the country’s infrastructure more resilient to earthquakes, floods and other disasters. In a briefing in New Delhi on Friday, Palace press officer Claire Castro said Marcos directed",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/marcos-psac-infra-8th-meeting.jpeg",
-              "imageAlt": "Marcos orders stricter implementation of construction standards",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/marcos-psac-infra-8th-meeting.jpeg",
-          "imageAlt": "Marcos orders stricter implementation of construction standards",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "VP Duterte self-incrimination claim won’t shield Mans Carpio – Ridon",
-          "summary": "House prosecutor Terry Ridon said an Anti-Money Laundering Council report is expected to detail P6.7 billion in transactions linked to accounts belonging to Vice President Sara Duterte and her husband, Manases Carpio. Ridon said the report would be presented to the Senate impeachment court in the unexplained-wealth case, while the story title says Duterte's self-incrimination claim would not protect Carpio.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2304437/ridon-amlc-report-will-confirm-p6-7-b-duterte-carpio-transactions",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Ridon: AMLC report will confirm P6.7-B Duterte-Carpio transactions",
-              "excerpt": "MANILA, Philippines — The Anti-Money Laundering Council (AMLC) is expected to present to the Senate impeachment court its report on P6.7 billion in transactions linked to the bank accounts of Vice President Sara Duterte and her husband, Manases Carpio, in the unexplained wealth case. Bicol Saro Party-list Rep. Terry Ridon, a House prosecutor, announced this",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Sara-Duterte-Mans-Carpio-15June2026.jpg",
-              "imageAlt": "Ridon: AMLC report will confirm P6.7-B Duterte-Carpio transactions",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/Sara-Duterte-Mans-Carpio-15June2026.jpg",
-          "imageAlt": "Ridon: AMLC report will confirm P6.7-B Duterte-Carpio transactions",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "Fusion power startups find new partners in the defense world",
-          "summary": "Fusion-energy startups are signing new defence-related agreements, bringing the technology's national-security connections back into focus. The deals revive a relationship between fusion research and the defence sector that had receded but never fully disappeared.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-              "source": "TechCrunch",
-              "headline": "Fusion power startups find new partners in the defense world",
-              "excerpt": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-side.jpeg?resize=1200,800",
-              "imageAlt": "Fusion power startups find new partners in the defense world",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-side.jpeg?resize=1200,800",
-          "imageAlt": "Fusion power startups find new partners in the defense world",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "summary": "Burning Man marked its 40th year amid questions about whether the Nevada desert festival is losing its anarchic, underground character. The Guardian says the event is ageing and increasingly shaped by an influx of wealthy attendees, including technology billionaires.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age",
-              "source": "The Guardian Technology",
-              "headline": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-              "excerpt": "The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-rich Burning Man , the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age. It’s not just the tech billionaires who show up to party, the <a href=\"https://journal.burningman.org/2016/06/news/brc-news/announcing-burner-express-air-burner-owne",
-              "imageUrl": "https://i.guim.co.uk/img/media/2a185d10158c6a0d64279ff5f05ce7829420462f/434_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=90632f2ec4dc2b13f436d08ed27feaea",
-              "imageAlt": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+              "source": "Wall Street Journal",
+              "headline": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+              "excerpt": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+              "imageUrl": "",
+              "imageAlt": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2a185d10158c6a0d64279ff5f05ce7829420462f/434_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=90632f2ec4dc2b13f436d08ed27feaea",
-          "imageAlt": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "Obama reportedly urges Democrats to prioritize safety plan for AI",
-          "summary": "Barack Obama reportedly urged Democrats at a closed-door Manhattan fundraiser to prioritise a public discussion about artificial-intelligence management and safety. He called for a broad framework covering issues from a possible safety slowdown to AI-related job losses.",
+          "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+          "summary": "The Wall Street Journal reported that President Donald Trump said Colombia will accept deportees, ending a standoff over tariffs. The report notes Trump has made immigration an early priority of his second term, with ICE making more than 900 arrests on Sunday.",
           "links": [
             {
-              "url": "https://www.theguardian.com/us-news/2026/sep/13/obama-democrats-ai-safety",
-              "source": "The Guardian Technology",
-              "headline": "Obama reportedly urges Democrats to prioritize safety plan for AI",
-              "excerpt": "Ex-president urged party at closed-door fundraiser to create sweeping framework, from safety ‘slow-down’ to job losses Barack Obama urged Democrats to prioritize a “public conversation” about AI management and safety in a closed-door Manhattan fundraiser last week. The comments by the former US president reportedly urged the party to create a sweeping framework for everything from a safety “slow-d",
-              "imageUrl": "https://i.guim.co.uk/img/media/5296e92325d59392639c0599e013a3f81eed9f1d/302_0_3023_2418/master/3023.jpg?width=140&quality=85&auto=format&fit=max&s=f437d1ef0201d2d6c665c4ae178c0005",
-              "imageAlt": "Obama reportedly urges Democrats to prioritize safety plan for AI",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+              "source": "Wall Street Journal",
+              "headline": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+              "excerpt": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+              "imageUrl": "",
+              "imageAlt": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/5296e92325d59392639c0599e013a3f81eed9f1d/302_0_3023_2418/master/3023.jpg?width=140&quality=85&auto=format&fit=max&s=f437d1ef0201d2d6c665c4ae178c0005",
-          "imageAlt": "Obama reportedly urges Democrats to prioritize safety plan for AI",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown",
-          "summary": "OpenAI's chief and Elon Musk joined calls to slow what was described as reckless AI development after warnings from Anthropic's chief and AI researchers. The unusual agreement among rival developers prompted critics to question the timing and motives behind the appeal.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
-              "source": "The Guardian Technology",
-              "headline": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
-              "excerpt": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guard",
-              "imageUrl": "https://i.guim.co.uk/img/media/8fe0ada1bfe4cd865ed9fad2ef90f4d8a7e96a11/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fd89d293c9cca5b89e77b33b0558d626",
-              "imageAlt": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/8fe0ada1bfe4cd865ed9fad2ef90f4d8a7e96a11/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fd89d293c9cca5b89e77b33b0558d626",
-          "imageAlt": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘Really helpful’: the AI bootcamps aimed at addressing UK youth unemployment",
-          "summary": "A three-week AI bootcamp pilot in Preston is seeking to address youth unemployment by training young people who are not in education, employment or training. The programme includes an apprenticeship opportunity at the end and tests whether AI can help ease, rather than worsen, employment pressures.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/sep/13/ai-bootcamps-uk-youth-unemployment-neets-preston",
-              "source": "The Guardian Technology",
-              "headline": "‘Really helpful’: the AI bootcamps aimed at addressing UK youth unemployment",
-              "excerpt": "Pilot project in Preston comes with apprenticeship offer for Neets at end of three-week course In a youth centre opposite Preston bus station , the UK government is trying to address two of the greatest challenges facing the national economy: AI and youth unemployment. The hope is that one will solve – rather than cause –",
-              "imageUrl": "https://i.guim.co.uk/img/media/70dbb4262916eead9da77f8b2300d454973b5f05/727_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6cd00c5a02388cda4f7cd13e4dab095d",
-              "imageAlt": "‘Really helpful’: the AI bootcamps aimed at addressing UK youth unemployment",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/70dbb4262916eead9da77f8b2300d454973b5f05/727_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6cd00c5a02388cda4f7cd13e4dab095d",
-          "imageAlt": "‘Really helpful’: the AI bootcamps aimed at addressing UK youth unemployment",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
