@@ -2,136 +2,24 @@
   "id": "2026-09-17-expanded",
   "date": "2026-09-17",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-17T03:00:05.923841",
+  "generatedAt": "2026-09-17T12:30:46.930155",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-17T03:00:05",
+  "updatedAt": "2026-09-17T12:30:46",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Three Dead After Local News Helicopter Crash",
-          "summary": "Three people, including a journalist and pilot, were killed when a local television news helicopter crashed in Los Angeles while covering a fatal bus crash. The aircraft was operated by Angel City Air and was providing coverage for NBC LA and Telemundo 52 when it went down between two commercial buildings.",
+          "title": "President Trump Wanted A Rate Cut — The Fed Gave Him A Rate Hike",
+          "summary": "The Federal Reserve unanimously raised its benchmark interest rate by a quarter percentage point, taking the target range to 3.75%–4.0% in its first increase in more than three years. The move came despite President Donald Trump’s calls for a cut; he subsequently criticised the Fed board as hostile while withholding criticism of chairman Kevin Warsh.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Journalist and pilot among three killed after news helicopter crashes in LA",
-              "excerpt": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdba/live/dc0ec400-b1dd-11f1-bc1f-3f186ca4140c.jpg",
-              "imageAlt": "Journalist and pilot among three killed after news helicopter crashes in LA",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/the-media/2026/09/15/tv-news-helicopter-crashes-los-angeles-filming-bus-crash/",
-              "source": "Breitbart",
-              "headline": "TV News Helicopter Crashes in Los Angeles While Filming Bus Crash",
-              "excerpt": "A television news helicopter crashed in Los Angeles, California, while filming the scene of a bus accident on Tuesday night. The post TV News Helicopter Crashes in Los Angeles While Filming Bus Crash appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/9-15-26-news-helicopter-crash-Chatsworth-Los-Angeles-getty-640x335.jpg",
-              "imageAlt": "TV News Helicopter Crashes in Los Angeles While Filming Bus Crash",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/three-dead-after-local-news-helicopter-crash",
-              "source": "Daily Wire",
-              "headline": "Three Dead After Local News Helicopter Crash",
-              "excerpt": "Three people died Tuesday after a local news helicopter went down while covering a Los Angeles bus crash. The helicopter crashed between two commercial buildings while filming the response to a bus crash that killed two others. The aircraft, operated by Angel City Air, was providing coverage for NBC LA and Telemundo 52. “This is ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2294975894.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Three Dead After Local News Helicopter Crash",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdba/live/dc0ec400-b1dd-11f1-bc1f-3f186ca4140c.jpg",
-          "imageAlt": "Journalist and pilot among three killed after news helicopter crashes in LA",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Charlie Kirk’s Family Reveals Chilling Warning Before His Assassination",
-          "summary": "Charlie Kirk’s family is taking legal action against Utah Valley University, alleging that security failures by the university and Utah officials created a foreseeable danger before he was killed. Kirk was addressing thousands on the university campus when a gunman positioned on a roof shot him, according to the supplied reports.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-              "excerpt": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9261/live/abd1c520-b1e3-11f1-ac01-a9af2f94b2cc.jpg",
-              "imageAlt": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.dailywire.com/news/new-kirk-family-takes-legal-action-against-utah-valley-university-for-fatal-security-failures",
-              "source": "Daily Wire",
-              "headline": "Charlie Kirk’s Family Reveals Chilling Warning Before His Assassination",
-              "excerpt": "The family of Charlie Kirk is taking legal action against Utah Valley University, claiming “a series of stunning failures and reckless decisions” by the university and the State of Utah created a foreseeable danger to Kirk and ultimately led to his “entirely preventable” murder. “Charlie Kirk was violently and publicly assassinated while speaking at an ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/04/GettyImages-2234095207.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Charlie Kirk’s Family Reveals Chilling Warning Before His Assassination",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9261/live/abd1c520-b1e3-11f1-ac01-a9af2f94b2cc.jpg",
-          "imageAlt": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Building collapse in Gaza kills at least 21 people, and other Mideast developments",
-          "summary": "A war-damaged building housing displaced Palestinian families collapsed in Gaza City, killing at least 21 people and heightening concern about unsafe ruins. In another regional development, Saudi Arabia said it intercepted a drone headed toward Mecca.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
-              "excerpt": "A war-damaged building collapses in Gaza City, killing at least 21 Palestinians and exposing fears of unsafe ruins.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A1207-copy-1789575795.jpg?resize=1920%2C1440",
-              "imageAlt": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
+              "headline": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+              "excerpt": "The unanimous decision comes as prices have remained stubbornly high and despite Trump's demands for lower rates.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aaafd7735b3-1789590903.jpg?resize=1920%2C1440",
+              "imageAlt": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -144,12 +32,114 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/16/building-collapse-gaza-kills-least-21-mideast-developments/",
+              "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "US interest rates raised for first time in three years",
+              "excerpt": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
+              "imageAlt": "US interest rates raised for first time in three years",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/president-trump-wanted-a-rate-cut-the-fed-gave-him-a-rate-hike",
+              "source": "Daily Wire",
+              "headline": "President Trump Wanted A Rate Cut — The Fed Gave Him A Rate Hike",
+              "excerpt": "The Federal Reserve unanimously raised its benchmark interest rate by a quarter percentage point Wednesday, rebuffing President Donald Trump’s calls for lower borrowing costs. The Federal Open Market Committee lifted the target range for the federal funds rate from 3.5%-3.75% to 3.75%-4.0%. It was the central bank’s first rate increase in more than three years, ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Screenshot-2026-09-16-at-2.48.27-PM-1.png?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "President Trump Wanted A Rate Cut — The Fed Gave Him A Rate Hike",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4731013/trump-hostile-fed-interest-rate-hike-kevin-warsh/",
+              "source": "Washington Examiner",
+              "headline": "Trump rips ‘hostile’ Fed board after interest rate hike but defends Warsh",
+              "excerpt": "President Donald Trump tore into the “hostile” Federal Reserve after the board voted on Wednesday to raise interest rates but held back criticism of Chairman Kevin Warsh, whom he tapped to lead the central bank earlier this year. Speaking with reporters in North Carolina, Trump was asked about the interest rate decision. The president said Warsh’s […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26142608491015.jpg?w=696",
+              "imageAlt": "Trump rips ‘hostile’ Fed board after interest rate hike but defends Warsh",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aaafd7735b3-1789590903.jpg?resize=1920%2C1440",
+          "imageAlt": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump suggests EU allowing Canada as associate member could be a 'hostile act'",
+          "summary": "An EU chief backed a proposal for Canada to become an associate member of the bloc. President Donald Trump called the possible arrangement a hostile act and threatened heavier tariffs and reduced trade with Europe in response.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
+              "excerpt": "The US president threatened heavy tariffs and said the US could cut some trade with Europe over the proposed status.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aab252b8fe5-1789601067.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "EU chief backs plan for Canada to become 'associate member'",
+              "excerpt": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg",
+              "imageAlt": "EU chief backs plan for Canada to become 'associate member'",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/16/donald-trump-suggests-eu-allowing-canada-associate-member-could/",
               "source": "Washington Times",
-              "headline": "Building collapse in Gaza kills at least 21 people, and other Mideast developments",
-              "excerpt": "A building housing displaced Palestinian families collapsed in Gaza City on Wednesday, killing at least 21 people, and Saudi Arabia said it intercepted a drone headed toward the holy city of Mecca.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/16/APTOPIX_Israel_Palestinians_Gaza_43822_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Building collapse in Gaza kills at least 21 people, and other Mideast developments",
+              "headline": "Trump suggests EU allowing Canada as associate member could be a 'hostile act'",
+              "excerpt": "President Donald Trump suggested that the European Union allowing Canada to become an associate member could be a \"hostile act\" and threatened to respond to the proposed move by imposing more tariffs on the bloc.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/15/Election_2_26_Republicans__3549_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump suggests EU allowing Canada as associate member could be a 'hostile act'",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -163,21 +153,133 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A1207-copy-1789575795.jpg?resize=1920%2C1440",
-          "imageAlt": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aab252b8fe5-1789601067.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "US limits visas for South African officials over alleged anti-white discrimination",
-          "summary": "The United States is limiting visas for South African officials over alleged racial discrimination, with Secretary of State Marco Rubio saying South Africa has not addressed US concerns. South Africa rejected the planned measures and said the Trump administration was relying on misinformation from fringe groups alleging discrimination against white Afrikaners.",
+          "title": "Susie Wiles Shares Update On Cancer Diagnosis",
+          "summary": "White House chief of staff Susie Wiles said she is cancer-free after being diagnosed with early-stage breast cancer earlier this year. The 69-year-old continued working while receiving treatment and said her medical team gave her a clean bill of health this week.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/9/16/south-africa-slam-planned-us-sanctions-over-alleged-racial-discrimination?traffic_source=rss",
+              "url": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump chief of staff Susie Wiles announces she's cancer-free",
+              "excerpt": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7248/live/32d63800-b200-11f1-a4a7-291ff3d1006b.jpg",
+              "imageAlt": "Trump chief of staff Susie Wiles announces she's cancer-free",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/09/16/white-house-chief-of-staff-susie-wiles-cancer-free-after-breast-cancer-diagnosis-earlier-this-year/",
+              "source": "Breitbart",
+              "headline": "White House Chief of Staff Susie Wiles ‘Cancer Free’ After Breast Cancer Diagnosis Earlier This Year",
+              "excerpt": "White House Chief of Staff Susie Wiles announced on Wednesday that she is \"cancer free\" after being diagnosed with early-stage breast cancer earlier this year. The post White House Chief of Staff Susie Wiles ‘Cancer Free’ After Breast Cancer Diagnosis Earlier This Year appeared first on <a rel=\"nofollow\" href=\"ht",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2194353655-640x335.png",
+              "imageAlt": "White House Chief of Staff Susie Wiles ‘Cancer Free’ After Breast Cancer Diagnosis Earlier This Year",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/susie-wiles-shares-update-on-cancer-diagnosis",
+              "source": "Daily Wire",
+              "headline": "Susie Wiles Shares Update On Cancer Diagnosis",
+              "excerpt": "President Donald Trump’s White House Chief of Staff Susie Wiles gave an update on Wednesday in her fight against breast cancer. Wiles, who has continued to work despite receiving treatment for the disease, said that her medical team had given her a clean bill of health earlier this week. “Some personal news I’m grateful to ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2025/12/GettyImages-2238314915.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Susie Wiles Shares Update On Cancer Diagnosis",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7248/live/32d63800-b200-11f1-a4a7-291ff3d1006b.jpg",
+          "imageAlt": "Trump chief of staff Susie Wiles announces she's cancer-free",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "What New Images Reveal About How Iran Was Able To Attack U.S. Bases",
+          "summary": "Images obtained from active-duty service members show widespread damage at US military positions in the Middle East following Iranian missile and drone attacks. The photographs include a wrecked air force plane and destroyed buildings, raising questions about how the attacks penetrated US air defences.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Photos show widespread damage at US sites from Iranian attacks",
+              "excerpt": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
+              "imageAlt": "Photos show widespread damage at US sites from Iranian attacks",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/what-new-images-reveal-about-how-iran-was-able-to-attack-u-s-bases",
+              "source": "Daily Wire",
+              "headline": "What New Images Reveal About How Iran Was Able To Attack U.S. Bases",
+              "excerpt": "New images showing damage at U.S. military positions across the Middle East are raising questions about how Iranian missiles and drones were able to reach American bases despite the United States’ extensive air-defense capabilities. The photos, obtained exclusively by CBS News from active-duty service members, show damage at U.S. positions including Prince Sultan Air Base ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Untitled-design.png?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "What New Images Reveal About How Iran Was Able To Attack U.S. Bases",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
+          "imageAlt": "Photos show widespread damage at US sites from Iranian attacks",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "'History is calling': Congress gives Trump power to sanction Russian oil buyers with 100% tariffs",
+          "summary": "Congress passed a long-awaited sanctions bill targeting Russia and countries financing its war against Ukraine, the first such US legislation supporting Ukraine in more than two years. The measure gives President Trump authority to impose tariffs of up to 100% on buyers of Russian oil.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "South Africa slams planned US sanctions over alleged racial discrimination",
-              "excerpt": "Trump administration falling for misinformation from 'fringe groups' alleging discrimination against white Afrikaners.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaab25710-1789571671.jpg?resize=1920%2C1440",
-              "imageAlt": "South Africa slams planned US sanctions over alleged racial discrimination",
+              "headline": "Congress passes sweeping US sanctions bill targeting Russia",
+              "excerpt": "The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aab2716a6ff-1789601558.jpg?resize=1920%2C1440",
+              "imageAlt": "Congress passes sweeping US sanctions bill targeting Russia",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -189,6 +291,34 @@
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/16/history-calling-congress-gives-trump-power-sanction-russian-oil/",
+              "source": "Washington Times",
+              "headline": "'History is calling': Congress gives Trump power to sanction Russian oil buyers with 100% tariffs",
+              "excerpt": "All eyes are on President Trump after Congress on Wednesday passed a long-awaited economic sanctions bill targeting Russia and the countries financing its war against Ukraine.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/16/Russia_Election_Ukraine_War_Veterans_72293_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "'History is calling': Congress gives Trump power to sanction Russian oil buyers with 100% tariffs",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aab2716a6ff-1789601558.jpg?resize=1920%2C1440",
+          "imageAlt": "Congress passes sweeping US sanctions bill targeting Russia",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "U.S. Imposes Visa Restrictions on South Africa over ‘Race-Based Discrimination’",
+          "summary": "Secretary of State Marco Rubio announced US visa restrictions targeting South African officials over alleged race-based discrimination. Rubio cited policies involving uncompensated land seizures and threats against minority groups, while saying South Africa had not addressed US concerns over racial inequality.",
+          "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -207,70 +337,42 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaab25710-1789571671.jpg?resize=1920%2C1440",
-          "imageAlt": "South Africa slams planned US sanctions over alleged racial discrimination",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Police Department Shut Down After Mom Arrested For Facebook Post About Dirty Water",
-          "summary": "Texas regulators are revoking the Trinidad Police Department’s authority to employ officers after finding that it failed to meet minimum state law-enforcement standards. The shutdown follows the department’s arrest of a local mother over a Facebook post criticizing the town’s drinking water, according to the supplied reports.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/police-department-shut-down-after-mom-arrested-for-facebook-post-about-dirty-water",
-              "source": "Daily Wire",
-              "headline": "Police Department Shut Down After Mom Arrested For Facebook Post About Dirty Water",
-              "excerpt": "A small Texas police department is being shut down after a state investigation found it failed to meet minimum law enforcement standards, mere months after its officers arrested a local mother over a Facebook post criticizing the town’s troubled drinking water. The Texas Commission on Law Enforcement notified Trinidad Mayor Dennis Haws on September 9 ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2283916770.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Police Department Shut Down After Mom Arrested For Facebook Post About Dirty Water",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/us/texas-moves-shut-down-police-department-failure-provide-public-benefit-community",
-              "source": "Fox News",
-              "headline": "Texas moves to shut down police department over failure to provide 'public benefit to the community'",
-              "excerpt": "TCOLE is revoking the Trinidad Police Department's authority to employ officers after finding the agency failed to meet minimum state standards.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trinidad-texas-police-cruisers.jpg?ve=1&tl=1",
-              "imageAlt": "Texas moves to shut down police department over failure to provide 'public benefit to the community'",
-              "outlet": "Fox News",
+              "url": "https://www.breitbart.com/africa/2026/09/16/u-s-imposes-visa-restrictions-on-south-africa-over-race-based-discrimination/",
+              "source": "Breitbart",
+              "headline": "U.S. Imposes Visa Restrictions on South Africa over ‘Race-Based Discrimination’",
+              "excerpt": "Secretary of State Marco Rubio on Tuesday announced visa restrictions for South Africa, due to “laws or policies that enable uncompensated land seizures, race-based discrimination, and/or the incitement of imminent violence against members of minority ethnic or racial groups.” The post U.S. Imposes Visa Restrictions on South Africa over ‘Rac",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages2247799822-640x335.jpg",
+              "imageAlt": "U.S. Imposes Visa Restrictions on South Africa over ‘Race-Based Discrimination’",
+              "outlet": "Breitbart",
               "sourceBias": "Right",
-              "sourceReliability": "medium",
+              "sourceReliability": "low",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2283916770.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Police Department Shut Down After Mom Arrested For Facebook Post About Dirty Water",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c25/live/60c515b0-b18d-11f1-87e9-b3bd4eb00d4c.jpg",
+          "imageAlt": "US limits visas for South African officials over alleged anti-white discrimination",
+          "imageCredit": "BBC"
         },
         {
-          "title": "Nolte: James Talarico’s Favorite Drag Queen Really, Really Likes Kids",
-          "summary": "Texas Democratic Senate nominee James Talarico named Alyssa Edwards when asked to identify his favorite Texas drag performer at a campaign event. Breitbart and the Daily Wire framed the answer around allegations about the performer’s work involving children, but the supplied excerpts provide no further substantiating detail.",
+          "title": "Trump blames Roy Cooper and his ‘band of communists’ for North Carolina crime",
+          "summary": "At a Charlotte rally, President Donald Trump blamed former North Carolina governor Roy Cooper and his allies for crime in the state while campaigning for Republican Senate nominee Michael Whatley. Whatley, Trump’s handpicked candidate and a former national party chairman, is running against Cooper; a separate report noted that Cooper settled a defamation lawsuit from his first statewide campaign with a $75,000 payment and formal apology.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/09/16/nolte-james-talaricos-favorite-drag-queen-really-really-likes-kids/",
+              "url": "https://www.breitbart.com/politics/2026/09/16/democrat-roy-cooper-was-sued-for-defamation-and-forced-to-apologize-in-first-statewide-campaign/",
               "source": "Breitbart",
-              "headline": "Nolte: James Talarico’s Favorite Drag Queen Really, Really Likes Kids",
-              "excerpt": "James ‘God is Nonbinary” Talarico finally delivered a straight answer to a question when he was asked to name his favorite drag queen. Without pausing, the stridently heterosexual Democrat nominee for a U.S. Senate seat in Texas answered, “Alyssa Edwards.” The post Nolte: James Talarico’s Favorite Drag Queen Really, Really Likes Kids appeared fi",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-1152244551-640x335.png",
-              "imageAlt": "Nolte: James Talarico’s Favorite Drag Queen Really, Really Likes Kids",
+              "headline": "Democrat Roy Cooper Was Sued for Defamation and Forced to Apologize in First Statewide Campaign",
+              "excerpt": "North Carolina Democrat U.S. Senate candidate and former Gov. Roy Cooper was forced to pay $75,000 and issue a formal apology to a Republican opponent in his first statewide campaign to settle a defamation lawsuit. The post Democrat Roy Cooper Was Sued for Defamation and Forced to Apologize in First Statewide Campaign</a",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/AP26253756201872-640x335.png",
+              "imageAlt": "Democrat Roy Cooper Was Sued for Defamation and Forced to Apologize in First Statewide Campaign",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -283,59 +385,31 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/james-talarico-has-a-favorite-drag-queen-and-he-likes-grooming-kids",
-              "source": "Daily Wire",
-              "headline": "James Talarico Has A Favorite Drag Queen – And He Likes Grooming Kids",
-              "excerpt": "James Talarico has a favorite Texas drag queen — and it’s a performer who has built a career around grooming young children. The Democratic Texas Senate nominee immediately named Alyssa Edwards when asked at a recent campaign event to name his favorite Lone Star drag performer. “Mr. Talarico, so nice to meet you. I was ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/Untitled-design-2.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "James Talarico Has A Favorite Drag Queen – And He Likes Grooming Kids",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4730999/trump-roy-cooper-north-carolina-crime-whatley/",
+              "source": "Washington Examiner",
+              "headline": "Trump blames Roy Cooper and his ‘band of communists’ for North Carolina crime",
+              "excerpt": "President Donald Trump on Wednesday ripped into former North Carolina Democratic Gov. Roy Cooper and his “band of communists” for crime in the state, branding his chosen candidate in the Tarheel State Senate race, Michael Whatley, as tough on crime. Trump was in Charlotte stumping for Whatley when he leaned into a familiar Republican line […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26260005225760.jpg?w=696",
+              "imageAlt": "Trump blames Roy Cooper and his ‘band of communists’ for North Carolina crime",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-1152244551-640x335.png",
-          "imageAlt": "Nolte: James Talarico’s Favorite Drag Queen Really, Really Likes Kids",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Fed raises interest rates in defiance of Trump",
-          "summary": "The Federal Reserve raised its interest-rate target for the first time in three years after a two-day policy meeting in Washington. The move, the first increase under Chairman Kevin Warsh, was presented as an effort to curb inflation and is expected to lift borrowing costs while risking conflict with President Donald Trump.",
-          "links": [
-            {
-              "url": "https://nypost.com/2026/09/16/business/fed-hikes-interest-rates-for-first-time-since-2023-in-bid-to-tamp-down-inflation/",
-              "source": "New York Post",
-              "headline": "Fed hikes interest rates for first time in three years in bid to tamp down inflation",
-              "excerpt": "The Federal Reserve on Wednesday issued its first interest-rate hike in three years, an effort to tamp down inflation that's expected to raise borrowing costs for Americans just ahead of the midterm elections.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F2026-us-federal-reserve-goes-140877882.jpg?w%3D1024",
-              "imageAlt": "Fed hikes interest rates for first time in three years in bid to tamp down inflation",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "alignmentBasis": "article-text: Right cue(s): (border security|illegal immigration|tough on crime|law and order)",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4729551/fed-interest-rates-september-warsh-trump/",
-              "source": "Washington Examiner",
-              "headline": "Fed raises interest rates in defiance of Trump",
-              "excerpt": "The Federal Reserve voted Wednesday to raise its interest rate target, the first time the central bank has raised rates under new Chairman Kevin Warsh and a move that risks drawing the ire of President Donald Trump. After a two-day meeting in Washington, the Fed’s monetary policy committee announced it would raise its rate target […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/kevin-warsh-fed.jpg?w=696",
-              "imageAlt": "Fed raises interest rates in defiance of Trump",
-              "outlet": "Washington Examiner",
+              "url": "https://www.washingtontimes.com/news/2026/sep/16/donald-trumps-handpicked-senate-nominee-michael-whatley-embraces/",
+              "source": "Washington Times",
+              "headline": "Trump's handpicked Senate nominee Michael Whatley embraces the president at a North Carolina rally",
+              "excerpt": "President Donald Trump is testing his midterm campaign appeal Wednesday in North Carolina with a rally for Republican Senate nominee Michael Whatley as the former national party chairman tries to shore up his campaign against Democratic former Gov. Roy Cooper.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/16/Election_2_26-North_Carolina_Senate_86681_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump's handpicked Senate nominee Michael Whatley embraces the president at a North Carolina rally",
+              "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -348,9 +422,9 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F2026-us-federal-reserve-goes-140877882.jpg?w%3D1024",
-          "imageAlt": "Fed hikes interest rates for first time in three years in bid to tamp down inflation",
-          "imageCredit": "New York Post"
+          "imageUrl": "https://media.breitbart.com/media/2026/09/AP26253756201872-640x335.png",
+          "imageAlt": "Democrat Roy Cooper Was Sued for Defamation and Forced to Apologize in First Statewide Campaign",
+          "imageCredit": "Breitbart"
         }
       ]
     },
@@ -359,7 +433,7 @@
       "stories": [
         {
           "title": "Meet the most powerful woman in Britain",
-          "summary": "The story title introduces an unnamed person as the most powerful woman in Britain, but the supplied source material does not identify her or provide details about that claim. Its only linked item is a Spectator Australia commentary alleging that Foreign Secretary Ed Miliband has made British Jews less safe and noting an additional £250 million in government spending this year.",
+          "summary": "The available Spectator Australia item does not identify the woman referenced in the story title. Its headline instead argues that Foreign Secretary Ed Miliband has made British Jews less safe, while the excerpt says the government is providing an additional £250 million this year.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/ed-miliband-has-chosen-to-make-british-jews-less-safe/",
@@ -386,16 +460,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Duterte appears in person at The Hague over 'war on drugs' killings",
-          "summary": "Former Philippine president Rodrigo Duterte appeared in person at The Hague in proceedings over killings connected to his anti-drug campaign. The supplied ABC report says the 81-year-old, who governed from 2016 to 2022, is charged with crimes against humanity over allegations that he established, funded and armed death squads targeting suspected drug dealers and users.",
+          "title": "Four arrested over violent brawl that put man in critical condition",
+          "summary": "Four people from Wadeye were arrested in Darwin after an alleged violent brawl. The incident left a man in critical condition with skull fractures and serious injuries to his face and legs, according to ABC News.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-09-17/duterte-at-icc-hague/107162056",
+              "url": "https://www.abc.net.au/news/2026-09-17/four-wadeye-people-arrested-over-nightcliff-attack/107163580",
               "source": "ABC Australia",
-              "headline": "Duterte appears in person at The Hague over 'war on drugs' killings",
-              "excerpt": "The 81-year-old served as president of the Philippines from 2016 to 2022, before being charged with crimes against humanity for setting up, funding and arming death squads that targeted narcotics peddlers and users.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a8e34b4d9c7a039a4e1600677214c8b4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=164&width=862&height=485",
-              "imageAlt": "Duterte appears in person at The Hague over 'war on drugs' killings",
+              "headline": "Four arrested over violent brawl that put man in critical condition",
+              "excerpt": "Four people from the community of Wadeye have been arrested in Darwin after a violent brawl allegedly left a man in a critical condition with skull fractures and serious injuries to his face and legs.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/72dd9b4252c889bebda2aca21579aac0?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=204&width=862&height=485",
+              "imageAlt": "Four arrested over violent brawl that put man in critical condition",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -410,41 +484,41 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a8e34b4d9c7a039a4e1600677214c8b4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=164&width=862&height=485",
-          "imageAlt": "Duterte appears in person at The Hague over 'war on drugs' killings",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/72dd9b4252c889bebda2aca21579aac0?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=204&width=862&height=485",
+          "imageAlt": "Four arrested over violent brawl that put man in critical condition",
           "imageCredit": "ABC News"
         },
         {
-          "title": "Labor seats get more than 90% of funding distributed under controversial multi-million dollar grants program",
-          "summary": "Federal Labor electorates received more than 90% of the money awarded during the first five months of a $568 million community grants program, according to a Guardian Australia analysis. Concerns about the selection process have prompted a Senate inquiry into the scheme.",
+          "title": "Parents of Australian brothers killed at Mexican surfing hotspot attend murder trial – video",
+          "summary": "Debra and Martin Robinson attended the opening of the trial of three men accused of murdering their sons, Perth surfers Callum and Jake Robinson, and their American friend Jack Carter Rhoad. The proceedings are being held in Ensenada in Mexico’s Baja California state.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/sep/16/community-grants-scheme-senate-inquiry-funding-favours-labor",
+              "url": "https://www.theguardian.com/world/video/2026/sep/08/parents-of-australian-brothers-killed-at-mexican-surfing-hotspot-attend-trial-video-ntwnfb",
               "source": "The Guardian Australia",
-              "headline": "Labor seats get more than 90% of funding distributed under controversial multi-million dollar grants program",
-              "excerpt": "Guardian Australia analysis adds to concerns over the federal scheme, which is to be the subject of a Senate inquiry Federal Labor seats have received over 90% of funds already awarded in the first five months of a controversial multi-million dollar grants program, adding to concerns over the scheme’s selection process. The $568m community grants scheme will be the subject of a Senate inquiry after <a href=\"https://publicintegrity.org.au/wp-content/uploads/2026/09/100926-Centre-fo",
-              "imageUrl": "https://i.guim.co.uk/img/media/c0d2266e86dc57d169c2aa401465db0c3fdc466d/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=b99a969dddd7a46ebe2bc1b20b11c13d",
-              "imageAlt": "Labor seats get more than 90% of funding distributed under controversial multi-million dollar grants program",
+              "headline": "Parents of Australian brothers killed at Mexican surfing hotspot attend murder trial – video",
+              "excerpt": "The parents of two Perth surfers killed alongside their American friend attended the start of the trial of three men accused of their murder in Mexico. Debra and Martin Robinson travelled to the port city of Ensenada in Baja California state for the proceedings after the deaths of their sons, Callum and Jake Robinson, and American Jack Carter Rhoad <a href=\"https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexi",
+              "imageUrl": "https://i.guim.co.uk/img/media/544a65a91f65e36322266078d8a124d0610dbaca/600_0_4927_3942/master/4927.jpg?width=140&quality=85&auto=format&fit=max&s=2b9689defc999059d2ad9067416e8c15",
+              "imageAlt": "Parents of Australian brothers killed at Mexican surfing hotspot attend murder trial – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/c0d2266e86dc57d169c2aa401465db0c3fdc466d/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=b99a969dddd7a46ebe2bc1b20b11c13d",
-          "imageAlt": "Labor seats get more than 90% of funding distributed under controversial multi-million dollar grants program",
+          "imageUrl": "https://i.guim.co.uk/img/media/544a65a91f65e36322266078d8a124d0610dbaca/600_0_4927_3942/master/4927.jpg?width=140&quality=85&auto=format&fit=max&s=2b9689defc999059d2ad9067416e8c15",
+          "imageAlt": "Parents of Australian brothers killed at Mexican surfing hotspot attend murder trial – video",
           "imageCredit": "The Guardian"
         },
         {
           "title": "Are school dinners really making kids fat?",
-          "summary": "The story title asks whether school dinners are contributing to childhood obesity, but the supplied source material contains no information addressing that question. Its only linked item is a Spectator Australia commentary about government proposals for internet censorship.",
+          "summary": "The available Spectator Australia item does not address school dinners or childhood weight. Its headline instead describes another attempt at internet censorship, and the excerpt says recent years have brought a steady stream of government proposals to crack down on online activity.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/another-attempt-at-internet-censorship/",
@@ -476,16 +550,34 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Threads’ new features let podcasters promote shows and reach listeners",
-          "summary": "Threads is rolling out tools designed to help podcasters promote shows and engage listeners. The features include profile cards, episode links, transcripts, guest tags, posting reminders and audience insights as Meta seeks to make Threads a larger hub for podcast discussion.",
+          "title": "Your AI agents can now control your Google Home devices",
+          "summary": "Google is offering early access to a new MCP server that lets third-party AI agents control Google Home devices through natural-language commands. TechCrunch says agents including Claude and ChatGPT can operate connected devices, review camera summaries and access smart-home activity, while The Verge also reports support for third-party agents.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+              "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+              "source": "The Verge",
+              "headline": "Google will now let any AI agent run your smart home",
+              "excerpt": "Google is inviting third-party agents, including Claude and Open Claw, into Google",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0%2C3.4128369206903%2C100%2C93.174326158619&w=1200",
+              "imageAlt": "Google will now let any AI agent run your smart home",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
               "source": "TechCrunch",
-              "headline": "Threads’ new features let podcasters promote shows and reach listeners",
-              "excerpt": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Threads-podcast-feat.jpg?resize=1200,675",
-              "imageAlt": "Threads’ new features let podcasters promote shows and reach listeners",
+              "headline": "Your AI agents can now control your Google Home devices",
+              "excerpt": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755",
+              "imageAlt": "Your AI agents can now control your Google Home devices",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -499,13 +591,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Threads-podcast-feat.jpg?resize=1200,675",
-          "imageAlt": "Threads’ new features let podcasters promote shows and reach listeners",
-          "imageCredit": "TechCrunch"
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0%2C3.4128369206903%2C100%2C93.174326158619&w=1200",
+          "imageAlt": "Google will now let any AI agent run your smart home",
+          "imageCredit": "The Verge"
         },
         {
           "title": "Small but mighty! Remembering the GameCube, Nintendo’s purple bundle of joy",
-          "summary": "Nintendo’s GameCube is being remembered on its 25th anniversary as a console that was initially promoted as a PlayStation rival and later mocked as a commercial disappointment. The supplied Guardian retrospective describes how the purple console has since become an object of nostalgic affection.",
+          "summary": "Nintendo’s GameCube is being revisited on its 25th anniversary after a commercial life in which it was first promoted as a PlayStation rival and later mocked as a flop. The Guardian’s retrospective describes how the purple console has since acquired nostalgic reverence.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/sep/16/small-but-mighty-remembering-nintendos-purple-cube-of-joy",
@@ -532,36 +624,8 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Scotland imposes mandatory environmental assessments on new datacentres",
-          "summary": "Scotland will require proposed datacentres above 50MW to undergo environmental assessments during the planning process. The government announced the tighter rules before a Holyrood vote on a moratorium for new hyperscale datacentres, amid concern about the environmental impact of the AI boom.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
-              "source": "The Guardian Technology",
-              "headline": "Scotland imposes mandatory environmental assessments on new datacentres",
-              "excerpt": "Government announces before vote on moratorium that any projects above 50MW must submit assessments in planning process Large-scale datacentres will face mandatory environmental assessments before they can go ahead, the Scottish government has announced, amid growing public concern about the impact of the AI boom. Ahead of a vote on a moratorium on new hyperscale datacentres in Holyrood on Wednesday, the Scottish government has tightened rules for new projects by requiring any abo",
-              "imageUrl": "https://i.guim.co.uk/img/media/f4c35ffc77668ec92a724e23db360ec4f31b7a93/1126_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=b5e093ca3022632469e3a1ac93e82e0e",
-              "imageAlt": "Scotland imposes mandatory environmental assessments on new datacentres",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/f4c35ffc77668ec92a724e23db360ec4f31b7a93/1126_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=b5e093ca3022632469e3a1ac93e82e0e",
-          "imageAlt": "Scotland imposes mandatory environmental assessments on new datacentres",
-          "imageCredit": "The Guardian"
-        },
-        {
           "title": "Mirror publisher to cut 220 editorial jobs as readers turn to AI summaries",
-          "summary": "Reach, publisher of the Mirror and Express, plans to cut another 220 editorial jobs as online traffic falls and more readers use AI-generated summaries. The company, which also owns numerous regional and online titles, described the change in audience behaviour as a mammoth shift.",
+          "summary": "Reach, publisher of the Mirror and Express, plans to cut another 220 editorial jobs as online traffic falls and readers increasingly use AI-generated summaries. The company, which also owns regional titles including the Manchester Evening News and Birmingham Mail, described the change in audience behaviour as a mammoth shift.",
           "links": [
             {
               "url": "https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google",
@@ -589,7 +653,7 @@
         },
         {
           "title": "‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation",
-          "summary": "The story title says JD Vance dismissed calls for AI regulation with a warning to stop if developers are building “Frankenstein.” The supplied Guardian link instead focuses on negative reactions to an Anthropic leader’s proposal to slow AI development, while noting that OpenAI’s chief and Elon Musk backed a slowdown in reckless development.",
+          "summary": "The story title says JD Vance dismissed calls for AI regulation with a warning to stop if developers are building Frankenstein. The linked Guardian item reports a largely negative response to AI-industry calls for a development slowdown, even as the heads of Anthropic and OpenAI and Elon Musk backed measures addressing reckless AI development.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
@@ -614,6 +678,34 @@
           "imageUrl": "https://i.guim.co.uk/img/media/a4fc80e643187b6b66f98b0e0f64193afdc28f1e/428_0_3331_2667/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=8300d6891ca5edf4642eeaeeeca4e1bb",
           "imageAlt": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown",
           "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+          "summary": "The Guardian’s review says Microsoft’s Surface Laptop 8 combines fast performance and longer battery life with a strong keyboard and a new haptic touchpad. The ARM-based, Qualcomm-powered replacement for the 2024 seventh edition also carries a substantial price increase attributed to higher memory and chip costs.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
+              "source": "The Guardian Technology",
+              "headline": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+              "excerpt": "Snappy performance, long battery life, great keyboard and excellent new haptic touchpad make the best of Windows 11 Microsoft’s Surface laptop for consumers is back, faster and with longer battery life and a hefty price increase because of the high cost of memory and chips. The Surface Laptop 8 is a straight replacement for the seventh edition from 2024, which was the first of Microsoft’s new generation of ARM-based, Qualcomm-powered PCs designed to better rival Apple’s MacBook Ai",
+              "imageUrl": "https://i.guim.co.uk/img/media/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=fb2600bbff24697c22f80e6c6ea9e5fd",
+              "imageAlt": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=fb2600bbff24697c22f80e6c6ea9e5fd",
+          "imageAlt": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -621,16 +713,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Panelo warns lowering impeachment threshold could invite gov’t pressure",
-          "summary": "Salvador Paolo Panelo Jr., newly appointed spokesperson for Philippine Vice President Sara Duterte, warned against lowering the 16-vote threshold for conviction in her impeachment trial. He argued that reducing the threshold could allow the sitting government to manipulate the outcome.",
+          "title": "First chemotherapy center in Occidental Mindoro to rise in Mamburao",
+          "summary": "Occidental Mindoro’s first chemotherapy centre is planned for Mamburao, allowing cancer patients to receive treatment without leaving the province. Local officials said the Prime Care Mamburao Chemotherapy Center is expected to serve patients from Mamburao and nearby municipalities.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2306480/panelo-warns-lowering-impeachment-threshold-could-invite-govt-pressure",
+              "url": "https://newsinfo.inquirer.net/2306699/first-chemotherapy-center-in-occidental-mindoro-to-rise-in-mamburao",
               "source": "Philippine Daily Inquirer",
-              "headline": "Panelo warns lowering impeachment threshold could invite gov’t pressure",
-              "excerpt": "MANILA, Philippines — Vice President Sara Duterte’s newly-appointed spokesperson Salvador Paolo Panelo Jr. on Wednesday warned that lowering the 16-vote threshold for conviction could allow the sitting government to manipulate the outcome of her impeachment trial. In an ambush interview on Wednesday, Panelo said, “Maaaring kapag ang denominator, itong 16, ay pwedeng babaan, iniimbitahan mo",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/panelo-sept162026.jpg",
-              "imageAlt": "Panelo warns lowering impeachment threshold could invite gov’t pressure",
+              "headline": "First chemotherapy center in Occidental Mindoro to rise in Mamburao",
+              "excerpt": "CALAPAN CITY — Occidental Mindoro’s first chemotherapy center is set to be established in Mamburao, giving cancer patients access to treatment without having to travel outside the province, local officials said. The planned Prime Care Mamburao Chemotherapy Center is expected to provide chemotherapy services to patients from Mamburao and nearby municipalities. Among the services announced",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Occidental-Mindoro-map-filephoto-091222.jpg",
+              "imageAlt": "First chemotherapy center in Occidental Mindoro to rise in Mamburao",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -639,18 +731,74 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/panelo-sept162026.jpg",
-          "imageAlt": "Panelo warns lowering impeachment threshold could invite gov’t pressure",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Occidental-Mindoro-map-filephoto-091222.jpg",
+          "imageAlt": "First chemotherapy center in Occidental Mindoro to rise in Mamburao",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Legal scholar urges review of legitimacy rules in Philippine family law",
+          "summary": "Ateneo de Manila University professor and human-rights advocate Amparita S. Sta. Maria called for Philippine family law to move beyond traditional labels of legitimacy. She argued that the law should give greater weight to children’s actual circumstances and best interests.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2306725/legal-scholar-urges-review-of-legitimacy-rules-in-philippine-family-law",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Legal scholar urges review of legitimacy rules in Philippine family law",
+              "excerpt": "MANILA, Philippines — Philippine family law should look beyond traditional labels of legitimacy and give greater weight to the actual circumstances and best interests of children, a legal scholar and human rights advocate said. Ateneo de Manila University professor Atty. Amparita S. Sta. Maria raised the issue at the opening of the university’s new “Ateneo",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Ateneo-School-of-Law-faculty-member-Atty.-Amparita-S.-Sta.-Maria-e1789612608642.png",
+              "imageAlt": "Legal scholar urges review of legitimacy rules in Philippine family law",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (wealth inequality|social programmes|public housing|human rights advocates)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Ateneo-School-of-Law-faculty-member-Atty.-Amparita-S.-Sta.-Maria-e1789612608642.png",
+          "imageAlt": "Legal scholar urges review of legitimacy rules in Philippine family law",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "House halts DICT budget talks over online safety concerns",
+          "summary": "The Philippine House of Representatives deferred further debate on the Department of Information and Communications Technology’s proposed 2027 budget after lawmakers raised online-safety concerns. Philreca party-list representative Presley de Jesus moved to suspend discussion of the agency’s P10.68 billion spending plan.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2306732/house-halts-dict-budget-talks-over-online-safety-concerns",
+              "source": "Philippine Daily Inquirer",
+              "headline": "House halts DICT budget talks over online safety concerns",
+              "excerpt": "MANILA, Philippines – The House of Representatives late Wednesday held off from further discussing the Department of Information and Communications Technology’s (DICT) proposed 2027 budget, as lawmakers flagged online safety concerns during floor debates on the agency’s spending plan. Philreca party-list Rep. Presley de Jesus motioned that debates on DICT’s P10.68 billion be deferred as",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2023/04/DICT-sim-card-filephoto-041923.jpg",
+              "imageAlt": "House halts DICT budget talks over online safety concerns",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2023/04/DICT-sim-card-filephoto-041923.jpg",
+          "imageAlt": "House halts DICT budget talks over online safety concerns",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Aquino urges creation of Filipino-made AI, warns of risks from foreign models",
-          "summary": "Senator Bam Aquino urged the Philippine government to develop a Filipino-made artificial-intelligence model. During a Senate budget hearing on the 2027 science department spending plan, he warned that dependence on foreign models could influence Filipino culture, language and perspectives.",
+          "summary": "Senator Bam Aquino urged the Philippine government to develop a locally made artificial-intelligence model. During a Senate finance committee hearing on the Department of Science’s 2027 spending plan, he warned that reliance on foreign models could shape Filipino culture, language and perspectives.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2306629/aquino-urges-creation-of-filipino-made-ai-warns-of-risks-from-foreign-models",
@@ -677,16 +825,16 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "DENR cites public role after turnover of rescued wildlife in Cotabato",
-          "summary": "The Philippine environment department highlighted community participation in wildlife conservation after two Cotabato residents voluntarily surrendered 12 rescued animals to its provincial office on September 10. The department said the recovery reflected growing local initiative and compliance with the country’s wildlife law.",
+          "title": "7 CIW officials, personnel face charges over missing trust fund",
+          "summary": "Bureau of Corrections director general Gregorio Pio Catapang Jr. ordered criminal, administrative and civil cases against seven current or former Correctional Institution for Women officials and personnel. The group, including two former superintendents, faces allegations of irregularities in the handling of funds belonging to persons deprived of liberty.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2306584/denr-cites-public-role-after-turnover-of-rescued-wildlife-in-cotabato",
+              "url": "https://newsinfo.inquirer.net/2306603/7-ciw-officials-personnel-face-charges-over-missing-trust-fund",
               "source": "Philippine Daily Inquirer",
-              "headline": "DENR cites public role after turnover of rescued wildlife in Cotabato",
-              "excerpt": "MANILA, Philippines – The Department of Environment and Natural Resources (DENR) has highlighted the public’s role in wildlife conservation after two Cotabato residents voluntarily turned over 12 rescued wildlife species to its provincial office on Sept. 10. “The recovery highlights growing community initiative and adherence to Republic Act (RA) No. 9147, also known as the Wildlife",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/PhilippinePalmCivets-16Sep2026.jpg",
-              "imageAlt": "DENR cites public role after turnover of rescued wildlife in Cotabato",
+              "headline": "7 CIW officials, personnel face charges over missing trust fund",
+              "excerpt": "MANILA, Philippines — Bureau of Corrections (BuCor) Director Gen. Gregorio Pio Catapang Jr. on Wednesday ordered the filing of criminal, administrative and civil cases against two former Correctional Institution for Women (CIW) superintendents and five other personnel over alleged irregularities in the handling of funds for persons deprived of liberty (PDLs). In a statement, Catapang",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/News1293732.jpg",
+              "imageAlt": "7 CIW officials, personnel face charges over missing trust fund",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -695,69 +843,13 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/PhilippinePalmCivets-16Sep2026.jpg",
-          "imageAlt": "DENR cites public role after turnover of rescued wildlife in Cotabato",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Tourists told to avoid Tinglayan, Kalinga amid tribal dispute",
-          "summary": "Officials advised tourists and other visitors to postpone travel to seven barangays in Tinglayan, Kalinga because of tensions arising from a longstanding dispute between the Butbut and Tulgao tribes. The advisory could affect local tourism, including visitors seeking traditional tattoos from the area’s mambabatok artists.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2306401/tourists-told-to-avoid-tinglayan-kalinga-amid-tribal-dispute",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Tourists told to avoid Tinglayan, Kalinga amid tribal dispute",
-              "excerpt": "BAGUIO CITY — Tourists and other visitors have been advised to postpone travel to seven barangays in Tinglayan, Kalinga amid tensions linked to a longstanding tribal dispute between the Butbut and Tulgao tribes. The municipal government’s advisory could affect tourism in Tinglayan, where guests get tattoos delivered the indigenous way by renowned mambabatok (tattoo artist)",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Kalinga-map-filephoto-091122-1.jpg",
-              "imageAlt": "Tourists told to avoid Tinglayan, Kalinga amid tribal dispute",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Kalinga-map-filephoto-091122-1.jpg",
-          "imageAlt": "Tourists told to avoid Tinglayan, Kalinga amid tribal dispute",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "3 workers found dead in Leyte town; carbon monoxide poisoning eyed",
-          "summary": "Three sewing workers—two men and a woman—were found dead inside the warehouse where they were staying in Barangay Campetic, Palo, Leyte. Authorities are investigating whether a generator operating inside the poorly ventilated building caused fatal carbon-monoxide poisoning.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2306333/3-workers-found-dead-in-leyte-town-carbon-monoxide-poisoning-eyed",
-              "source": "Philippine Daily Inquirer",
-              "headline": "3 workers found dead in Leyte town; carbon monoxide poisoning eyed",
-              "excerpt": "TACLOBAN CITY — Three sewing workers were found dead inside the warehouse where they were staying in Barangay Campetic, Palo, Leyte, early Wednesday, with authorities investigating whether a generator operating inside the poorly ventilated building caused their deaths. The victims—two men and a woman—were found lifeless inside the sewing workshop in Zone 6 of the barangay",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Leyte-map-filephoto-091322.jpg",
-              "imageAlt": "3 workers found dead in Leyte town; carbon monoxide poisoning eyed",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Leyte-map-filephoto-091322.jpg",
-          "imageAlt": "3 workers found dead in Leyte town; carbon monoxide poisoning eyed",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/News1293732.jpg",
+          "imageAlt": "7 CIW officials, personnel face charges over missing trust fund",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -767,7 +859,7 @@
       "stories": [
         {
           "title": "Palestinians Stream Back to Northern Gaza on Foot",
-          "summary": "Displaced Palestinians began returning on foot to northern Gaza after Israel allowed crossings through the military zone dividing the enclave. The opening followed the resolution of a deadlock over hostage releases.",
+          "summary": "Displaced Palestinians began returning on foot to northern Gaza after Israel allowed crossings through the military zone dividing the enclave. The movement followed the resolution of a deadlock over hostage releases, according to The Wall Street Journal.",
           "links": [
             {
               "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
@@ -791,16 +883,16 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "Your AI agents can now control your Google Home devices",
-          "summary": "The story title says AI agents can now control Google Home devices, but the supplied source does not describe that capability. Its only linked TechCrunch item reports that Meta launched a WhatsApp Business MCP server enabling AI coding agents such as Claude, Cursor, Codex and ChatGPT to handle setup, message templates, testing and troubleshooting.",
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+          "summary": "Anthropic and OpenAI want independent safety evaluators embedded within their AI laboratories. Researchers welcomed the proposed access but warned that credible oversight will require transparency, genuine independence and eventually regulation.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+              "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
               "source": "TechCrunch",
-              "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-              "excerpt": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-              "imageAlt": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+              "headline": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+              "excerpt": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+              "imageAlt": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -814,21 +906,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-          "imageAlt": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+          "imageAlt": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Why a decade of doomsday warnings failed to slow the AI race",
-          "summary": "Warnings that advanced AI could threaten humanity have unsettled the technology industry for more than a decade without stopping development. The supplied Guardian account traces the alarms from Stephen Hawking to an Anthropic researcher’s recent resignation and declaration that human extinction was imminent.",
+          "title": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "summary": "The Guardian’s review praises Sennheiser’s Momentum 5 headphones for sound quality, improved noise cancellation, comfort and exceptional battery life. The £330 premium Bluetooth model adds broad connectivity and a user-replaceable battery while replacing the previous Momentum generation.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/sep/15/ai-doomsday-warnings",
+              "url": "https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review",
               "source": "The Guardian Technology",
-              "headline": "Why a decade of doomsday warnings failed to slow the AI race",
-              "excerpt": "From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that AI could threaten humanity have shaken the industry without stopping its pursuit Before an Anthropic researcher resigned and declared human extinction imminent last week, tech leaders and scientists had sounded the alarm about a superintelligent AI ending humanity for over a decade. The development of artificial intelligence “could spell the end of the human race”, warned professor and astrophysicist St",
-              "imageUrl": "https://i.guim.co.uk/img/media/3ab9e5f6d86542a882303bb7ce012c8564b5213b/405_0_3624_2900/master/3624.jpg?width=140&quality=85&auto=format&fit=max&s=9617dd9236371482f114c191378d527f",
-              "imageAlt": "Why a decade of doomsday warnings failed to slow the AI race",
+              "headline": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "excerpt": "Premium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals. The Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu",
+              "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+              "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -842,46 +934,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/3ab9e5f6d86542a882303bb7ce012c8564b5213b/405_0_3624_2900/master/3624.jpg?width=140&quality=85&auto=format&fit=max&s=9617dd9236371482f114c191378d527f",
-          "imageAlt": "Why a decade of doomsday warnings failed to slow the AI race",
+          "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+          "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
-          "summary": "Investigators examining the Jeju Air crash are focusing on engine damage caused by a bird strike. The pilots’ actions after the strike are also an early focus of the inquiry, according to people cited by the Wall Street Journal.",
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "summary": "Chinese property developer Vanke reported a large loss, adding to signs that the country’s real-estate crisis is widening. The company’s troubles raise questions about how far the crisis may spread and whether the Chinese state will intervene.",
           "links": [
             {
-              "url": "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff",
+              "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
               "source": "Wall Street Journal",
-              "headline": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
-              "excerpt": "Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
+              "headline": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "excerpt": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
               "imageUrl": "",
-              "imageAlt": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
-              "outlet": "Wall Street Journal",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "high",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
-        },
-        {
-          "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-          "summary": "Hamas took more than 200 hostages from Israel on October 7. Israel says 91 abductees remain in captivity, including the bodies of at least 34 people.",
-          "links": [
-            {
-              "url": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124",
-              "source": "Wall Street Journal",
-              "headline": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-              "excerpt": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-              "imageUrl": "",
-              "imageAlt": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+              "imageAlt": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
               "outlet": "Wall Street Journal",
               "sourceBias": "Lean Right",
               "sourceReliability": "high",
@@ -891,6 +958,31 @@
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "summary": "Some freed Israeli hostages still had shrapnel in their bodies from the October 7 attack, according to an Israeli medical official. The official said some of the women were held alone for long periods and spent eight months in tunnels.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+              "source": "Wall Street Journal",
+              "headline": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "excerpt": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+              "imageUrl": "",
+              "imageAlt": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
