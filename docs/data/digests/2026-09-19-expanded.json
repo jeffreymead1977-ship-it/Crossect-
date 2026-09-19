@@ -2,16 +2,236 @@
   "id": "2026-09-19-expanded",
   "date": "2026-09-19",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-19T03:00:56.438657",
+  "generatedAt": "2026-09-19T12:30:36.325761",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-19T03:00:56",
+  "updatedAt": "2026-09-19T12:30:36",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
+          "title": "Trump To Ban Left-Wing News Outlets From White House",
+          "summary": "President Donald Trump announced that CNN, MS NOW and Politico would be barred from the White House, accusing them of publishing “fake news.” Al Jazeera, the BBC, Breitbart, the Daily Wire, Fox News and the Washington Times all reported the move, while Fox said Trump suggested other outlets could follow.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump bans CNN, MS NOW, Politico from White House for ‘fake news’",
+              "excerpt": "The US president insists media outlets report 'fiction and lies' as he announces new bans on White House access.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aad9fa5c3e8-1789763493.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump bans CNN, MS NOW, Politico from White House for ‘fake news’",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump says he is banning CNN and Politico from White House",
+              "excerpt": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
+              "imageAlt": "Trump says he is banning CNN and Politico from White House",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/09/18/trump-bans-cnn-ms-now-politico-from-white-house-over-fake-news/",
+              "source": "Breitbart",
+              "headline": "Trump Bans CNN, MS NOW, Politico from White House over 'FAKE NEWS'",
+              "excerpt": "President Donald Trump announced Friday that he is immediately banning establishment legacy news outlets Politico, MS NOW, and CNN from the White House for \"'reporting' FAKE NEWS.\" The post Trump Bans CNN, MS NOW, Politico from White House over ‘FAKE NEWS’ appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2293216864-640x335.png",
+              "imageAlt": "Trump Bans CNN, MS NOW, Politico from White House over 'FAKE NEWS'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/trump-to-ban-left-wing-news-outlets-from-white-house",
+              "source": "Daily Wire",
+              "headline": "Trump To Ban Left-Wing News Outlets From White House",
+              "excerpt": "President Donald Trump announced Friday that he is banning CNN, MS NOW, and Politico from the White House, accusing the three news organizations of repeatedly publishing what he called “FAKE NEWS.” “I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW … and Politico … from the White House as ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2241027595-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump To Ban Left-Wing News Outlets From White House",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/media/trump-announces-white-house-ban-three-media-outlets",
+              "source": "Fox News",
+              "headline": "Trump announces White House ban against three media outlets",
+              "excerpt": "President Donald Trump announced CNN, MS NOW and Politico are banned from the White House, dubbing them \"fake news\" and teased other outlets could follow.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Donald-Trump-Oval-Office-91826.jpg?ve=1&tl=1",
+              "imageAlt": "Trump announces White House ban against three media outlets",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house-fake-news/",
+              "source": "Washington Times",
+              "headline": "Trump bans CNN, MSNOW, Politico from White House for their 'fake news'",
+              "excerpt": "President Trump announced he has banned CNN, MSNOW and Politico from covering the White House, saying they've been reporting \"fake news.\"",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/18/Trump_77611_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump bans CNN, MSNOW, Politico from White House for their 'fake news'",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aad9fa5c3e8-1789763493.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump bans CNN, MS NOW, Politico from White House for ‘fake news’",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump announces deal giving US ‘permanent control’ over Greenland’s security",
+          "summary": "President Donald Trump said the United States had reached an agreement with Denmark and Greenland giving it “permanent control” over Greenland’s security and allowing a larger US military presence. Al Jazeera said the defence pact was due to be signed the following week subject to approval by both parliaments, while the BBC noted that Danish officials had not confirmed the details.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
+              "excerpt": "Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp-newsml.afp_.com_.20260121T033153Z.doc-93fn7pf-1769076318.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+              "excerpt": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
+              "imageAlt": "US and Denmark reach deal over Greenland after Trump annexation threats",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/trump-announces-historic-deal-with-greenland",
+              "source": "Daily Wire",
+              "headline": "Trump Announces Historic Deal With Greenland",
+              "excerpt": "President Donald Trump announced Friday that the United States has reached an agreement with Denmark and Greenland that he says gives the U.S. “permanent control over security” on the Arctic Island. He said the U.S. will “immediately begin the process of developing a large Military presence” there. “BREAKING NEWS: I am pleased to announce that ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2257168580-1-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump Announces Historic Deal With Greenland",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/policy/defense/4734347/trump-deal-denmark-us-greenland-security/",
+              "source": "Washington Examiner",
+              "headline": "Trump announces deal giving US ‘permanent control’ over Greenland’s security",
+              "excerpt": "The United States has entered into an agreement with Denmark and Greenland to have a lasting military presence in the semi-autonomous territory, President Donald Trump announced on Friday. Trump said the deal will give the U.S. “permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns.” He […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26007350263487-e1789777204675.jpg?w=696",
+              "imageAlt": "Trump announces deal giving US ‘permanent control’ over Greenland’s security",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/18/trump-says-us-reached-security-deal-denmark-greenland/",
+              "source": "Washington Times",
+              "headline": "Trump says U.S. has reached security deal with Denmark over Greenland",
+              "excerpt": "President Trump said the U.S. has reached an agreement with Denmark and Greenland that would give the U.S. \"permanent control over security and all other needs\" in the Danish island territory.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/18/Trump_94867_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump says U.S. has reached security deal with Denmark over Greenland",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp-newsml.afp_.com_.20260121T033153Z.doc-93fn7pf-1769076318.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
+          "imageCredit": "Al Jazeera"
+        },
+        {
           "title": "Lone Lindsay Clancy Holdout Juror Breaks His Silence",
-          "summary": "The lone holdout juror in Lindsay Clancy's trial has spoken publicly for the first time, saying he had no doubt that she deliberately killed her children and declining to join jurors who favoured acquittal on criminal-responsibility grounds. Another juror who supported finding Clancy not criminally responsible discussed her rapid decline and the trial's role in prompting conversation about postpartum mental health.",
+          "summary": "The lone holdout juror in Lindsay Clancy’s triple-murder trial has spoken publicly after his refusal to join the other 11 jurors resulted in a deadlocked jury and mistrial. He said he had no doubt Clancy deliberately killed her three children and disputed other jurors’ claims that he had wavered during deliberations.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
@@ -33,21 +253,39 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.dailywire.com/news/lindsay-clancy-jurors-laughing-admission",
+              "url": "https://www.dailywire.com/news/lone-lindsay-clancy-holdout-juror-breaks-his-silence",
               "source": "Daily Wire",
-              "headline": "Lindsay Clancy Juror’s Laughing Admission",
-              "excerpt": "A juror who favored finding Lindsay Clancy not criminally responsible for killing her three children laughed when an interviewer observed that the trial had succeeded in getting people talking about postpartum mental health. “Lindsay’s decline was so fast,” juror Paula Devlin said in an interview with NBC 10. “We really thought this was an opportunity ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2290570862.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Lindsay Clancy Juror’s Laughing Admission",
+              "headline": "Lone Lindsay Clancy Holdout Juror Breaks His Silence",
+              "excerpt": "The lone male holdout juror in Lindsay Clancy’s triple-murder trial is speaking out for the first time as he faces scorching attacks for refusing to join the 11 jurors who wanted to find the Massachusetts mother not criminally responsible for killing her three young children: 5-year-old Cora, 3-year-old Dawson, and 8-month-old Callan. Michael P. Desronvil, ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2290570528.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Lone Lindsay Clancy Holdout Juror Breaks His Silence",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/18/holdout-juror-clancy-trial-denies-ever-wavering-guilt/",
+              "source": "Washington Times",
+              "headline": "Holdout juror in Clancy trial denies ever wavering on guilt",
+              "excerpt": "The lone juror whose refusal to join the other 11 jurors resulted in a deadlocked jury and mistrial in the Lindsay Clancy murder case has broken his silence, disputing claims from fellow jurors that he showed doubt about the prosecution's case during deliberations.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/04/Lindsay_Clancy_Trial_82832_s1440x1021.jpg?b9271cb80fd4d702555a5d95d0101b8bd826a849",
+              "imageAlt": "Holdout juror in Clancy trial denies ever wavering on guilt",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
@@ -58,7 +296,7 @@
         },
         {
           "title": "Warren Buffett Steps Down, Says ‘Father Time Always Wins’",
-          "summary": "Warren Buffett has stepped down as Berkshire Hathaway's chairman after six decades, saying that “Father Time always wins.” His son Howard Buffett has taken over as chairman, while Warren Buffett becomes chairman emeritus after turning a struggling textile mill into a global conglomerate.",
+          "summary": "Warren Buffett announced that he was stepping down as Berkshire Hathaway chairman after leading the company for six decades. His son Howard Buffett was named chairman effective immediately, while Warren Buffett became chairman emeritus and said that “Father Time always wins.”",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
@@ -104,16 +342,109 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "New Bolivian cat claws its way into species list: What we meow",
-          "summary": "Scientists have identified the tilcayo tiger cat from Bolivia's Yungas as a new wild-cat species. The reports describe it as the first new wild cat added to the species list in more than a century.",
+          "title": "Trump signs Lindsey Graham’s Russia sanctions bill into law",
+          "summary": "President Donald Trump signed a sanctions law targeting Russian oil and gas exports linked to funding the war in Ukraine, while also extending existing measures against Iran’s energy and weapons sectors. The law permits tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "New Bolivian cat claws its way into species list: What we meow",
-              "excerpt": "Purrfectly new to science: the first new wild cat found in over a century proves that cats do have nine (secret) lives.",
+              "headline": "Trump signs sweeping Russia sanctions over Ukraine war",
+              "excerpt": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aadcc877c11-1789774983.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump signs sweeping Russia sanctions over Ukraine war",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://nypost.com/2026/09/18/us-news/trump-signs-lindsey-grahams-russia-sanctions-bill-into-law/",
+              "source": "New York Post",
+              "headline": "Trump signs Lindsey Graham’s Russia sanctions bill into law",
+              "excerpt": "The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 targets Russian oil and gas exports that have been fueling Vladimir Putin’s long and bloody war against Ukraine and extends existing sanctions against Iran’s energy and weapons sectors.",
+              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Frobert-f-kennedy-jr-administrator-141615394.jpg?w%3D1024",
+              "imageAlt": "Trump signs Lindsey Graham’s Russia sanctions bill into law",
+              "outlet": "New York Post",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aadcc877c11-1789774983.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump signs sweeping Russia sanctions over Ukraine war",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Macron orders increased defenses against Russian sabotage after drone and cyberattacks",
+          "summary": "French President Emmanuel Macron ordered work on a plan to protect critical infrastructure and defence-industry sites from Russian hybrid threats. He said cyber and drone attacks across Europe were intensifying and attributed the expanding campaign to Moscow.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+              "excerpt": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg",
+              "imageAlt": "Russian hybrid attacks against Europe intensifying, says Macron",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4734340/macron-russia-hybrid-sabotage-drone-cyberattacks-france-vigilance/",
+              "source": "Washington Examiner",
+              "headline": "Macron orders increased defenses against Russian sabotage after drone and cyberattacks",
+              "excerpt": "French President Emmanuel Macron on Friday announced his government is working to craft a plan to protect the country from Russian hybrid threats. After meeting with leading political figures in France, Macron warned in comments at the Élysée Palace that Moscow is expanding cyber and drone attacks across Europe in an effort, he said, is […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/03/macron-iran.jpg?w=696",
+              "imageAlt": "Macron orders increased defenses against Russian sabotage after drone and cyberattacks",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg",
+          "imageAlt": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Scientists Discover New Wild Cat Species for First Time in 100 Years",
+          "summary": "Scientists have identified the tilcayo tiger cat from Bolivia’s Yungas as a new living wild-cat species. The reports describe it as the first new cat species identified in more than a century.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "New cat species found, first in more than 100 years",
+              "excerpt": "A new species of living cat has been identified for the first time in more than a century.",
               "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad2112-1789731090.jpg?resize=1920%2C1440",
-              "imageAlt": "New Bolivian cat claws its way into species list: What we meow",
+              "imageAlt": "New cat species found, first in more than 100 years",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -146,194 +477,8 @@
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad2112-1789731090.jpg?resize=1920%2C1440",
-          "imageAlt": "New Bolivian cat claws its way into species list: What we meow",
+          "imageAlt": "New cat species found, first in more than 100 years",
           "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Zara Larsson Erupts at ‘F**king Losers’ in White House Using Her Song to Promote Deportations: ‘We’re Not That Different from the People in the Video’",
-          "summary": "Zara Larsson criticised the White House for using her song “Midnight Sun” in a video promoting deportations, calling the clip dehumanising and its creators “f**king losers.” The White House subsequently removed the song from the reel.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Zara Larsson criticises White House for using her song in deportation video",
-              "excerpt": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b13/live/b52dd380-b2ff-11f1-8876-8f16a6fa8729.jpg",
-              "imageAlt": "Zara Larsson criticises White House for using her song in deportation video",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/entertainment/2026/09/17/zara-larsson-erupts-at-fking-losers-in-white-house-using-her-song-to-promote-deportations-were-not-that-different-from-the-people-in-the-video/",
-              "source": "Breitbart",
-              "headline": "Zara Larsson Erupts at ‘F**king Losers’ in White House Using Her Song to Promote Deportations: ‘We’re Not That Different from the People in the Video’",
-              "excerpt": "Swedish pop singer Zara Larsson erupted over what she called \"f**king losers\" in the White House, for using her song to promote deportations. \"We're not that different from the people in this video,\" the singer complained. The post Zara Larsson Erupts at ‘F**king Losers",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/ZaraLarsson-640x335.jpg",
-              "imageAlt": "Zara Larsson Erupts at ‘F**king Losers’ in White House Using Her Song to Promote Deportations: ‘We’re Not That Different from the People in the Video’",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b13/live/b52dd380-b2ff-11f1-8876-8f16a6fa8729.jpg",
-          "imageAlt": "Zara Larsson criticises White House for using her song in deportation video",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Video: Students flee deadly school shooting in the Philippines",
-          "summary": "A 16-year-old suspected gunman shot two students dead and injured several others at a school in the Philippines. The gunman was also killed, bringing the reported death toll to three, while eight people were injured in what the BBC described as the country's third school shooting since June.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Video: Students flee deadly school shooting in the Philippines",
-              "excerpt": "A 16-year-old suspected gunman has shot two students dead and injured several others at a school in the Philippines.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789738210.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Video: Students flee deadly school shooting in the Philippines",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Three dead and eight injured in Philippines school shooting",
-              "excerpt": "The gunman is among the dead in what is the third school shooting in the country since June.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770e/live/22d1bd20-b337-11f1-910c-69bc1dc40919.jpg",
-              "imageAlt": "Three dead and eight injured in Philippines school shooting",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789738210.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Video: Students flee deadly school shooting in the Philippines",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Flock CEO, tech rivals called to testify before senators over AI camera privacy concerns",
-          "summary": "The chief executives of Flock Safety and three other surveillance-camera companies have been called to testify before a US Senate panel. Senator Josh Hawley is expected to question them about privacy concerns surrounding AI-powered licence-plate readers and the tracking of Americans' movements.",
-          "links": [
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/18/senate-grill-ceos-flock-surveillance-camera-networks/",
-              "source": "Washington Times",
-              "headline": "Senate to grill CEOs of Flock and other surveillance camera networks",
-              "excerpt": "The heads of top surveillance companies will face a Senate panel Wednesday headed by Sen. Josh Hawley, a leading critic of spy cameras.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2025/06/24/Congress_Tax_Cuts_Senators_to_Watch_46076_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Senate to grill CEOs of Flock and other surveillance camera networks",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/flock-ceo-tech-rivals-called-testify-before-senators-over-ai-camera-privacy-concerns",
-              "source": "Fox News",
-              "headline": "Flock CEO, tech rivals called to testify before senators over AI camera privacy concerns",
-              "excerpt": "Sen. Josh Hawley is calling Flock Safety and three other CEOs to testify over AI-powered license plate reader cameras tracking Americans' movements.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/josh-hawley-flock-cameras.jpg?ve=1&tl=1",
-              "imageAlt": "Flock CEO, tech rivals called to testify before senators over AI camera privacy concerns",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2025/06/24/Congress_Tax_Cuts_Senators_to_Watch_46076_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-          "imageAlt": "Senate to grill CEOs of Flock and other surveillance camera networks",
-          "imageCredit": "Washington Times"
-        },
-        {
-          "title": "Sydney Sweeney’s provocative sports ad 'reinforces the image she has already built' despite backlash: expert",
-          "summary": "WNBA player Sophie Cunningham defended Sydney Sweeney's Novig gambling advertisement and called the backlash from female athletes overblown. Cunningham argued that the ad's combination of sports, gambling and provocative imagery was predictably designed to attract attention.",
-          "links": [
-            {
-              "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-gaslighting-female-athletes-naked-sydney-sweeney-ad",
-              "source": "Fox News",
-              "headline": "Sophie Cunningham says what other gaslighting female athletes won't about the naked Sydney Sweeney ad",
-              "excerpt": "Sophie Cunningham defended Sydney Sweeney's Novig gambling ad on her \"No Hesitation\" podcast, calling the backlash from women athletes overblown.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sydney-sweeney-sophie-cunningham-phoenix-raceway-fox-news_.jpg?ve=1&tl=1",
-              "imageAlt": "Sophie Cunningham says what other gaslighting female athletes won't about the naked Sydney Sweeney ad",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/18/sophie-cunningham-wnba-world-overreacting-sydney-sweeneys-novig-ad/",
-              "source": "Washington Times",
-              "headline": "Sophie Cunningham: The WNBA world is overreacting to Sydney Sweeney's Novig ad",
-              "excerpt": "SOPHIE CUNNINGHAM on Sydney Sweeney gambling ad: \"Why are girls mad? That is literally what she does. Why is anyone mad? It is a gambling ad: men, sports, naked women. Of course, that's going to draw attention.\"",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/15/Sun_Fever_Basketball_55381_s1440x1007.jpg?65d58495be95ab1847b414201aaea3f3c7c9cf8e",
-              "imageAlt": "Sophie Cunningham: The WNBA world is overreacting to Sydney Sweeney's Novig ad",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sydney-sweeney-sophie-cunningham-phoenix-raceway-fox-news_.jpg?ve=1&tl=1",
-          "imageAlt": "Sophie Cunningham says what other gaslighting female athletes won't about the naked Sydney Sweeney ad",
-          "imageCredit": "Fox News"
         }
       ]
     },
@@ -342,7 +487,7 @@
       "stories": [
         {
           "title": "The wine industry gives me hope",
-          "summary": "A Spectator Australia item published under this headline reflects on Dolly Parton and recalls meeting her several times. The excerpt says Parton deserved the title of “icon” and refers to her marriage advice.",
+          "summary": "The digest title says the wine industry offers hope, but the linked Spectator Australia item is a personal remembrance of Dolly Parton. Its excerpt describes Parton as deserving the title of “icon” and refers to the writer having met her several times.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/dolly-partons-marriage-advice-for-me/",
@@ -369,34 +514,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
-          "summary": "Australian Simon Peter Carman has pleaded not guilty in a Pattaya court to murdering 17-year-old Tunchanok Donhomla and putting her body in a suitcase. Carman, who was arrested after the teenager was reported missing in June, was denied bail after prosecutors argued that he might flee Thailand.",
+          "title": "Hopes new outback museum will spark conversation about town's past",
+          "summary": "Birdsville’s historic courthouse, once home to one of Australia’s most isolated policing roles, has reopened as a museum. Some residents hope the site will prompt discussion of the outback town’s troubled history of Indigenous relations.",
           "links": [
             {
-              "url": "https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb",
-              "source": "The Guardian Australia",
-              "headline": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
-              "excerpt": "Simon Peter Carman appeared in a Pattaya court on Friday charged with killing Tunchanok Donhomla An Australian man accused of murdering a Thai teenager and putting her body in a suitcase pleaded not guilty on Friday in a hearing in the seaside resort city of Pattaya, a court official said. Simon Peter Carman, 45, was arrested in June after 17-year-old Tunchanok Donhomla was reported missing in Pattaya City, about 150km south-east of Bangkok. A suitcase containing her body was fou",
-              "imageUrl": "https://i.guim.co.uk/img/media/bd07e075ba8a7e76d7405ddb57b379d97f91a179/17_0_1685_1348/master/1685.jpg?width=140&quality=85&auto=format&fit=max&s=185f3d13a9a4de20d67e8842a8a613b1",
-              "imageAlt": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-09-18/australian-simon-carman-faces-court-over-thai-teen-death/107160424",
+              "url": "https://www.abc.net.au/news/2026-09-19/birdsville-courthouse-reopens-as-museum/107168640",
               "source": "ABC Australia",
-              "headline": "Australian accused of murdering teenager in Thailand denied bail",
-              "excerpt": "Simon Carman, the Australian man accused of murdering Thai teenager Tunchanok Donhomla in June, is denied bail after prosecutors argued he could try to flee the country.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/f80a99c2ba422d6081070fa545de9e7c?impolicy=wcms_crop_resize&cropH=446&cropW=792&xPos=0&yPos=15&width=862&height=485",
-              "imageAlt": "Australian accused of murdering teenager in Thailand denied bail",
+              "headline": "Hopes new outback museum will spark conversation about town's past",
+              "excerpt": "Once home to one of the most isolated policing roles in Australia, Birdsville's historical courthouse has reopened as a museum. Some residents say it is a reminder of the town's chequered past with Indigenous relations.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/6b2c17988dc86aa60d0fea6181e1599c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=292&width=862&height=485",
+              "imageAlt": "Hopes new outback museum will spark conversation about town's past",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -405,27 +532,27 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/bd07e075ba8a7e76d7405ddb57b379d97f91a179/17_0_1685_1348/master/1685.jpg?width=140&quality=85&auto=format&fit=max&s=185f3d13a9a4de20d67e8842a8a613b1",
-          "imageAlt": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/6b2c17988dc86aa60d0fea6181e1599c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=292&width=862&height=485",
+          "imageAlt": "Hopes new outback museum will spark conversation about town's past",
+          "imageCredit": "ABC News"
         },
         {
-          "title": "Do whales grieve? Rare footage of humpback alongside stillborn calf suggests they might | Olaf Meynecke for the Conversation",
-          "summary": "Rare underwater footage from off Australia's Gold Coast shows a humpback whale beside her stillborn calf on the seafloor. Researchers say the behaviour might represent grief, but could also reflect maternal attachment, confusion or instinctive caregiving.",
+          "title": "Plibersek on a mother's fears after release of domestic, family and sexual violence report – video",
+          "summary": "Social Services Minister Tanya Plibersek cited a letter from a mother of three while responding to Australia’s latest domestic, family and sexual violence report. The report said sexual-violence reports reached a record high in 2024 and declined by less than 1 percent nationally the following year.",
           "links": [
             {
-              "url": "https://www.theguardian.com/environment/2026/sep/17/do-whales-grieve-scientists-research-off-australias-gold-coast-suggests-they-might",
+              "url": "https://www.theguardian.com/australia-news/video/2026/sep/09/tanya-plibersek-mothers-fears-domestic-family-sexual-violence-report-video-ntwnfb",
               "source": "The Guardian Australia",
-              "headline": "Do whales grieve? Rare footage of humpback alongside stillborn calf suggests they might",
-              "excerpt": "The behaviours we observed could represent grief, but they could also reflect maternal attachment, confusion or instinctive caregiving It was a tragic sight. One day last July, a newborn humpback whale calf lay motionless on the seafloor, just a kilometre off Australia’s Gold Coast. The encounter was captured through underwater video. <a href=\"https://www.theguardian.com/environment/2026/sep/17/do-whales-grieve-scientists-research-off-australias-gold-coast-suggests-they-might\"",
-              "imageUrl": "https://i.guim.co.uk/img/media/4b3e1537b7fc3b41aeee12ce4942bc70d9cd4207/633_0_6333_5067/master/6333.jpg?width=140&quality=85&auto=format&fit=max&s=e8a78bc4dee4ce0df9edaa45dd58a6cb",
-              "imageAlt": "Do whales grieve? Rare footage of humpback alongside stillborn calf suggests they might | Olaf Meynecke for the Conversation",
+              "headline": "Plibersek on a mother's fears after release of domestic, family and sexual violence report – video",
+              "excerpt": "Social services minister Tanya Plibersek speaks of a letter she received from a mother of three as she responds to the sobering results of Australia's latest domestic, family and sexual violence report. Plibersek says the mother described being a parent today as 'feeling like you're standing at the edge of a field watching something unfold'. Reports of sexual violence were at their highest level ever in 2024, and dropped less than 1% nationally last year, according to the annual report. Repor",
+              "imageUrl": "https://i.guim.co.uk/img/media/547e23cfbb3d4be596b84dfa38d48ef7675b143f/1815_90_5991_4793/master/5991.jpg?width=140&quality=85&auto=format&fit=max&s=eb0fcf2de9e8df08e19edc1e39e8fc6f",
+              "imageAlt": "Plibersek on a mother's fears after release of domestic, family and sexual violence report – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -434,18 +561,18 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/4b3e1537b7fc3b41aeee12ce4942bc70d9cd4207/633_0_6333_5067/master/6333.jpg?width=140&quality=85&auto=format&fit=max&s=e8a78bc4dee4ce0df9edaa45dd58a6cb",
-          "imageAlt": "Do whales grieve? Rare footage of humpback alongside stillborn calf suggests they might | Olaf Meynecke for the Conversation",
+          "imageUrl": "https://i.guim.co.uk/img/media/547e23cfbb3d4be596b84dfa38d48ef7675b143f/1815_90_5991_4793/master/5991.jpg?width=140&quality=85&auto=format&fit=max&s=eb0fcf2de9e8df08e19edc1e39e8fc6f",
+          "imageAlt": "Plibersek on a mother's fears after release of domestic, family and sexual violence report – video",
           "imageCredit": "The Guardian"
         },
         {
           "title": "The most shameful thing I’ve ever done",
-          "summary": "A Spectator Australia item published under this headline argues that Britain needs a firmer response to artificial intelligence. Its excerpt compares current AI warnings with the exaggerated predictions surrounding the millennium bug while calling for Britain to “get a grip” on the technology.",
+          "summary": "Although the digest title refers to “the most shameful thing,” the linked Spectator Australia item argues that Britain needs to get a grip on artificial intelligence. Its excerpt compares current warnings with the hysteria surrounding the millennium bug and says exaggerated predictions have imposed a burden.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/britain-needs-to-get-a-grip-on-ai/",
@@ -477,36 +604,36 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "‘Brutal’: thousands of T-shirt designs stolen and listed on Temu, Sydney label claims",
-          "summary": "Sydney label Lonely Kids Club says thousands of its T-shirt designs were stolen and listed on Temu. Owner Warwick Levy alleges that AI may have been used to scrape the small business's entire website and replicate its designs.",
+          "title": "World model companies are keeping a lot of secrets",
+          "summary": "Companies developing “world models” have attracted substantial funding and attention, but are revealing little about what they are building. TechCrunch reports that founders and even their data suppliers are keeping key details private.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/sep/18/ai-copyright-t-shirt-designs-stolen-temu-sydney-clothing-label-lonely-kids-club",
-              "source": "The Guardian Technology",
-              "headline": "‘Brutal’: thousands of T-shirt designs stolen and listed on Temu, Sydney label claims",
-              "excerpt": "Warwick Levy, who runs Lonely Kids Club, says AI may have been used to scrape his entire website and replicate designs Get our breaking news email , free app or daily news podcast After 15 years running a small business making T-shirts, Warwick Levy says it was",
-              "imageUrl": "https://i.guim.co.uk/img/media/f792a8ee2b382758d94e16c10914ed5ffc4405fe/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e03fefb1e28e9bd413e1d65c3f9df3cc",
-              "imageAlt": "‘Brutal’: thousands of T-shirt designs stolen and listed on Temu, Sydney label claims",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "article-text: Right cue(s): (tax cuts|red tape|small business|property rights|free speech)",
+              "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+              "source": "TechCrunch",
+              "headline": "World model companies are keeping a lot of secrets",
+              "excerpt": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+              "imageAlt": "World model companies are keeping a lot of secrets",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/f792a8ee2b382758d94e16c10914ed5ffc4405fe/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e03fefb1e28e9bd413e1d65c3f9df3cc",
-          "imageAlt": "‘Brutal’: thousands of T-shirt designs stolen and listed on Temu, Sydney label claims",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+          "imageAlt": "World model companies are keeping a lot of secrets",
+          "imageCredit": "TechCrunch"
         },
         {
           "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
-          "summary": "Independent cybersecurity researchers used Anthropic's Claude chatbot to exploit vulnerabilities in OpenAI's systems. They reportedly took over employee accounts and accessed an internal code repository before disclosing the flaws, with the researchers saying the potential scope of access was huge.",
+          "summary": "Three independent US cybersecurity researchers used Anthropic’s Claude chatbot while ethically hacking OpenAI systems. The researchers said the potential scope of access was extensive, presenting the episode as another example of security problems at OpenAI.",
           "links": [
             {
               "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
@@ -521,24 +648,6 @@
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-              "source": "TechCrunch",
-              "headline": "Researchers used Anthropic’s Claude to hack into OpenAI",
-              "excerpt": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1979406539.jpg?resize=1200,675",
-              "imageAlt": "Researchers used Anthropic’s Claude to hack into OpenAI",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
@@ -569,8 +678,64 @@
           "imageCredit": "The Verge"
         },
         {
+          "title": "Why Europe has been absent from the great AI safety debate",
+          "summary": "Europe faces a choice between limiting artificial intelligence and sacrificing growth, or adopting it while depending on technology developed in the United States and China, according to European Central Bank head Christine Lagarde. The linked analysis says Europe has consumer-facing AI measures but has remained largely absent from the broader debate over extreme safety risks.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+              "source": "The Guardian Technology",
+              "headline": "Why Europe has been absent from the great AI safety debate",
+              "excerpt": "Though Europe has measures that address how consumers might encounter AI, technology will impact them if the worst scenarios bear Europe’s dilemma over AI was rendered in stark terms this week. The head of the continent’s central bank, Christine Lagarde, said Europeans have two options: shun the technology and lose out on growth; or embrace it and become dependent on tools developed by the US and China. The great debate over AI safety that has erupted in recent days threatens to m",
+              "imageUrl": "https://i.guim.co.uk/img/media/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=45a993c1b91cd2ca2442927d456c2750",
+              "imageAlt": "Why Europe has been absent from the great AI safety debate",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=45a993c1b91cd2ca2442927d456c2750",
+          "imageAlt": "Why Europe has been absent from the great AI safety debate",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "summary": "Ring’s top Video Doorbell Pro 3 adds a 4K camera, improved Wi-Fi, AI features and a sleeker design in wired and battery versions. The review says the upgrades are welcome while noting that the doorbell retains Ring’s familiar two-tone look, button, logo and ringtone.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review",
+              "source": "The Guardian Technology",
+              "headline": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "excerpt": "Camera, wifi and design updates bring welcome upgrades to Ring’s top model in wired or battery flavour Ring’s recent revamp of its popular video doorbells with a more modern design is led by the top-of-the-line Video Doorbell Pro 3, which gains much-needed upgrades with a 4K camera and better wifi plus new interesting AI features. The new doorbells are sleeker but keep the unmistakable two-tone Ring colour scheme, button, logo and ringtone. Battery models start at £80 or equivalen",
+              "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+              "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+          "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "‘A critical moment’: concern UK is not up to speed in acting on AI risks",
-          "summary": "Concern is growing that the UK is not moving quickly enough to address artificial-intelligence risks. According to the report, ministers late in Keir Starmer's tenure began reviewing existing powers and considering a new AI safety law, but Andy Burnham's focus on immediate domestic issues has prompted fears that the subject has slipped down the government's agenda.",
+          "summary": "Concern is growing that artificial-intelligence risk has slipped down the UK government’s agenda as it focuses on immediate domestic issues. Near the end of Keir Starmer’s time in office, senior ministers had begun reviewing existing powers and considering a new AI safety law in response to rapid technical developments.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/18/a-critical-moment-concern-uk-is-not-up-to-speed-in-acting-on-ai-risks",
@@ -595,62 +760,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/f1e841a34d911a660df3a71416d55e346e64d779/660_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1e188af5d12c29a5549a72b4b7450945",
           "imageAlt": "‘A critical moment’: concern UK is not up to speed in acting on AI risks",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Is Trump’s AI obsession walking the world into disaster? – podcast",
-          "summary": "Technology leaders have called for slower AI development and formal US government safeguards, while President Trump has dismissed doomsday predictions as a “hoax.” In a Guardian podcast, Jonathan Freedland and technology editor Blake Montgomery discuss Trump's support for the AI industry and the risks critics believe it poses.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/politics/video/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-politics-weekly-america",
-              "source": "The Guardian Technology",
-              "headline": "Is Trump’s AI obsession walking the world into disaster?",
-              "excerpt": "Tech bosses have called for a slowdown in artificial intelligence and formal guardrails to be introduced by the US government. But President Trump is not moved by the doomsday predictions, calling them a ‘hoax'. What is behind his affection for the AI industry? Jonathan Freedland and Guardian US tech editor Blake Montgomery discuss Continue readin",
-              "imageUrl": "https://i.guim.co.uk/img/media/6637d137c39482268637005636e40ef69021b080/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=91c062ab169f4641a4a2e8dc9119a684",
-              "imageAlt": "Is Trump’s AI obsession walking the world into disaster? | Politics Weekly America",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/6637d137c39482268637005636e40ef69021b080/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=91c062ab169f4641a4a2e8dc9119a684",
-          "imageAlt": "Is Trump’s AI obsession walking the world into disaster? | Politics Weekly America",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Your AI doomsday questions answered: ‘Why aren’t these companies being held to account?’",
-          "summary": "Guardian technology reporters have answered readers' questions after a week of warnings about artificial intelligence's potential to cause catastrophic harm. The discussion examines the reality of the threat, whether machines could be accepted as conscious, and why AI companies are not being held more accountable.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/community/live/2026/sep/18/could-ai-really-end-humanity-technology-qanda",
-              "source": "The Guardian Technology",
-              "headline": "Your AI doomsday questions answered: ‘Why aren’t these companies being held to account?’",
-              "excerpt": "After a week of alarming warnings about artificial intelligence’s potential to destroy the world as we know it, our technology reporters answered your questions on the reality of the AI threat IcommentthereforeIam asks: Given our senses, emotions, memory and moods, is it ever going to be accepted that humanly conscious AI is fantas",
-              "imageUrl": "https://i.guim.co.uk/img/media/45cdb6f3028083230359386d33a5e3eb46f57e94/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d520a0f65bc404fbe0dfac4a3716e772",
-              "imageAlt": "Your AI doomsday questions answered: ‘Why aren’t these companies being held to account?’",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/45cdb6f3028083230359386d33a5e3eb46f57e94/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d520a0f65bc404fbe0dfac4a3716e772",
-          "imageAlt": "Your AI doomsday questions answered: ‘Why aren’t these companies being held to account?’",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -658,17 +767,35 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Oriental Mindoro tightens border after ASF hits Occidental Mindoro",
-          "summary": "Oriental Mindoro's provincial government is strengthening border biosecurity after neighbouring Occidental Mindoro recorded its first African swine fever case last week. Provincial disaster, veterinary and administrative officials are involved in the response.",
+          "title": "Baguio artist sets Guinness record with giant mandala",
+          "summary": "Baguio artist Adelaida Guia earned a Guinness World Records title for the largest mandala crocheted by one person. Her creation measures six metres across and covers 29 square metres, taking her work from Baguio’s streets and community spaces into the record books.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2307511/oriental-mindoro-tightens-border-after-asf-hits-occidental-mindoro",
+              "url": "https://newsinfo.inquirer.net/2307661/baguio-artist-sets-guinness-record-with-giant-mandala-2",
               "source": "Philippine Daily Inquirer",
-              "headline": "Oriental Mindoro tightens border after ASF hits Occidental Mindoro",
-              "excerpt": "CALAPAN CITY, Oriental Mindoro — The provincial government of Oriental Mindoro is stepping up border biosecurity measures after the first African Swine Fever (ASF) case struck neighboring Occidental Mindoro last week. Provincial Disaster Risk Reduction and Management Officer Vinscent B. Gahol, Acting Provincial Veterinarian Dr. Alfredo Manglicmot, and Provincial Administrator Atty. Earl Ligorio R. Turano",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Oriental-Mindoro-map-filephoto-091222.jpg",
-              "imageAlt": "Oriental Mindoro tightens border after ASF hits Occidental Mindoro",
+              "headline": "Baguio artist sets Guinness record with giant mandala",
+              "excerpt": "BAGUIO CITY — A giant crocheted mandala measuring 6 meters (19 feet) in diameter has earned Baguio artist Adelaida Guia a Guinness World Records title for the largest mandala crocheted by a single person. Guia received an email on Thursday, Sept. 17, informing her that she had officially set the record with her 29-square-meter creation.",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/1295390.jpeg",
+              "imageAlt": "Baguio artist sets Guinness record with giant mandala",
               "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/people/artists/baguio-artist-crochet-mandala-guinness-world-record/",
+              "source": "Rappler World",
+              "headline": "From Session Road yarn to Guinness, Baguio artist crochets her way into world record",
+              "excerpt": "Adelaida Guia, the woman behind Baguio’s giant crocheted mandalas, crosses from Baguio’s streets and community spaces into the Guinness record books",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/09/Baguio-2-crochet-Guinness-World-Records-2026--scaled.jpeg",
+              "imageAlt": "From Session Road yarn to Guinness, Baguio artist crochets her way into world record",
+              "outlet": "Rappler",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
@@ -681,21 +808,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Oriental-Mindoro-map-filephoto-091222.jpg",
-          "imageAlt": "Oriental Mindoro tightens border after ASF hits Occidental Mindoro",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/1295390.jpeg",
+          "imageAlt": "Baguio artist sets Guinness record with giant mandala",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Palace on Tinio calling Marcos ‘inutile’ – Disrespecful coming from a teacher",
-          "summary": "Palace Press Officer Claire Castro criticised ACT Teachers party-list Representative Antonio Tinio for calling President Marcos “inutile,” describing the language as disrespectful from a teacher. Tinio made the remark while criticising the administration's response to transboundary haze pollution from Indonesia during House deliberations.",
+          "title": "Bohol fast-tracks P5-M cloud-seeding plan amid dry spell",
+          "summary": "Bohol’s provincial government is accelerating procurement of a P5 million cloud-seeding operation as prolonged heat and low water levels threaten thousands of hectares of farmland. Provincial Administrator Asteria Caberte discussed the proposed contract at a meeting of the provincial disaster-risk council.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2307593/palace-on-tinio-calling-marcos-inutile-disrespecful-coming-from-a-teacher",
+              "url": "https://newsinfo.inquirer.net/2307662/bohol-fast-tracks-p5-m-cloud-seeding-plan-amid-dry-spell",
               "source": "Philippine Daily Inquirer",
-              "headline": "Palace on Tinio calling Marcos ‘inutile’ – Disrespecful coming from a teacher",
-              "excerpt": "MANILA, Philippines — Palace Press Officer Claire Castro on Friday called out ACT Teachers party-list Rep. Antonio Tinio for using what she described as disrespectful language. This pertains to the lawmaker’s criticism of the administration’s response to transboundary haze pollution originating from Indonesia. Tinio made the remark during the House sponsorship and plenary deliberations on the proposed",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/castro-tinio-18sept2026.jpg",
-              "imageAlt": "Palace on Tinio calling Marcos ‘inutile’ – Disrespecful coming from a teacher",
+              "headline": "Bohol fast-tracks P5-M cloud-seeding plan amid dry spell",
+              "excerpt": "TAGBILARAN CITY—The Bohol provincial government is fast-tracking the procurement of a P5-million cloud-seeding operation as prolonged heat and below-normal water levels threaten thousands of hectares of farmland across the province. Provincial Administrator Asteria Caberte said during the full-council meeting of the Provincial Disaster Risk Reduction and Management Council (PDRRMC) on Thursday that the contract could",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/bohol-cloud-seeding-18sept2026.jpeg",
+              "imageAlt": "Bohol fast-tracks P5-M cloud-seeding plan amid dry spell",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -709,13 +836,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/castro-tinio-18sept2026.jpg",
-          "imageAlt": "Palace on Tinio calling Marcos ‘inutile’ – Disrespecful coming from a teacher",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/bohol-cloud-seeding-18sept2026.jpeg",
+          "imageAlt": "Bohol fast-tracks P5-M cloud-seeding plan amid dry spell",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Ejercito checks on major Metro Manila railway projects",
-          "summary": "Senator JV Ejercito inspected two major Metro Manila railway projects: the North-South Commuter Railway's Valenzuela Depot and the Metro Manila Subway site. He was joined by Transportation Secretary Giovanni Lopez, Japanese government and JICA representatives, and project contractors.",
+          "summary": "Senator JV Ejercito inspected the North-South Commuter Railway’s Valenzuela Depot and the Metro Manila Subway project site. He was joined by Transportation Secretary Giovanni Lopez, project contractors, and representatives of the Japan International Cooperation Agency and Japanese Embassy.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2307653/ejercito-checks-on-major-metro-manila-railway-projects",
@@ -742,36 +869,8 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Habagat returns, brings rains to parts of Luzon, Visayas",
-          "summary": "The southwest monsoon, or habagat, is returning over the Philippines' western sections on Saturday. The state weather bureau said it would bring scattered rain to parts of Southern Luzon and the Visayas.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2307594/habagat-returns-brings-rains-to-parts-of-luzon-visayas",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Habagat returns, brings rains to parts of Luzon, Visayas",
-              "excerpt": "(Satellite image from Pagasa) MANILA, Philippines — The southwest monsoon or habagat will return over the western sections of the country on Saturday, bringing scattered rains to parts of Southern Luzon and the Visayas, the state weather bureau said. Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) weather specialist Loriedin De La Cruz-Galicia said the",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/814786215_1582795896645943_1927840655787207443_n.jpeg",
-              "imageAlt": "Habagat returns, brings rains to parts of Luzon, Visayas",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/814786215_1582795896645943_1927840655787207443_n.jpeg",
-          "imageAlt": "Habagat returns, brings rains to parts of Luzon, Visayas",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
           "title": "LTFRB suspends PUV fuel discount amid BSKE election ban",
-          "summary": "The LTFRB has temporarily suspended a P12-per-litre fuel discount for public utility jeepneys starting Friday, September 18. The agency said the pause was required by an election ban ahead of the Barangay and Sangguniang Kabataan Elections.",
+          "summary": "The Land Transportation Franchising and Regulatory Board announced a temporary suspension of the P12-per-litre fuel discount for public utility vehicles from Friday, September 18. The agency attributed the pause to the election ban for the upcoming Barangay and Sangguniang Kabataan Elections.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2307652/ltfrb-suspends-puv-fuel-discount-amid-bske-election-ban",
@@ -796,6 +895,34 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/LTFRB-JEEPNEY-09172022.png",
           "imageAlt": "LTFRB suspends PUV fuel discount amid BSKE election ban",
           "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Sub judice rule? Tolosa notes VP claim that Marcos controls Senate",
+          "summary": "The digest title highlights a claim by the vice-president that Marcos controls the Senate, while the linked report focuses on the voting rules for Vice President Sara Duterte’s impeachment. Senate Minority Leader Alan Peter Cayetano warned that changing the conviction threshold in the middle of the trial could produce a mistrial.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2307635/cayetano-warns-risk-of-mistrial-if-voting-rule-changed-mid-trial",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Cayetano warns risk of ‘mistrial’ if voting rule changed mid-trial",
+              "excerpt": "MANILA, Philippines — Amid discussions of changing the voting threshold needed to convict Vice President Sara Duterte in her impeachment, Senate Minority Leader Alan Peter Cayetano warned that changing a ruling in the middle of a trial could lead to a mistrial. Cayetano, in a Facebook livestream, stressed that he would not want to start",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Cayetano-3August2026.jpg",
+              "imageAlt": "Cayetano warns risk of ‘mistrial’ if voting rule changed mid-trial",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Cayetano-3August2026.jpg",
+          "imageAlt": "Cayetano warns risk of ‘mistrial’ if voting rule changed mid-trial",
+          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -804,7 +931,7 @@
       "stories": [
         {
           "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
-          "summary": "The FBI and US Coast Guard boarded oil tankers heading toward the US coast after their networks were reportedly compromised. Federal investigators are examining the breaches, one of which interfered with a tanker's navigation and propulsion systems.",
+          "summary": "The FBI and US Coast Guard boarded oil tankers heading toward the US coast after their networks were reportedly compromised. Federal authorities are investigating, and in one case the intrusion interfered with a tanker’s navigation and propulsion systems.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
@@ -831,16 +958,16 @@
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Is Trump’s AI obsession walking the world into disaster? – podcast",
-          "summary": "Technology leaders have urged the US government to slow AI development and establish formal safeguards, while President Trump has dismissed doomsday predictions as a “hoax.” A Guardian podcast examines what lies behind Trump's embrace of the AI industry and the risks raised by critics.",
+          "title": "Is Trump’s AI obsession walking the world into disaster? | Politics Weekly America",
+          "summary": "Technology executives have called for slower artificial-intelligence development and formal US government safeguards, citing potentially catastrophic risks. President Donald Trump has dismissed such warnings as a “hoax,” and the linked Guardian discussion examines his support for the AI industry.",
           "links": [
             {
-              "url": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
+              "url": "https://www.theguardian.com/politics/video/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-politics-weekly-america",
               "source": "The Guardian Technology",
-              "headline": "Is Trump’s AI obsession walking the world into disaster? – podcast",
-              "excerpt": "Tech bosses have called for a slowdown in artificial intelligence and the creation of formal guardrails from the US government. But why is President Trump unmoved by the doomsday predictions, dismissing them as a ‘hoax’? What lies behind his embrace of the AI industry? Jonathan Freedland speaks to the Guardian US tech editor, Blake Montgomery Watch Jonathan Freedland on our new Politics Weekly YouTube channel Send your question",
-              "imageUrl": "https://i.guim.co.uk/img/media/f61f03adb43dbaa65520c5df9a732a8ef4c60824/43_0_4379_3504/master/4379.jpg?width=140&quality=85&auto=format&fit=max&s=706e10364c9b94f76db198166a6f4c99",
-              "imageAlt": "Is Trump’s AI obsession walking the world into disaster? – podcast",
+              "headline": "Is Trump’s AI obsession walking the world into disaster?",
+              "excerpt": "Tech bosses have called for a slowdown in artificial intelligence and formal guardrails to be introduced by the US government. But President Trump is not moved by the doomsday predictions, calling them a ‘hoax'. What is behind his affection for the AI industry? Jonathan Freedland and Guardian US tech editor Blake Montgomery discuss Continue readin",
+              "imageUrl": "https://i.guim.co.uk/img/media/6637d137c39482268637005636e40ef69021b080/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=91c062ab169f4641a4a2e8dc9119a684",
+              "imageAlt": "Is Trump’s AI obsession walking the world into disaster? | Politics Weekly America",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -854,13 +981,69 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/f61f03adb43dbaa65520c5df9a732a8ef4c60824/43_0_4379_3504/master/4379.jpg?width=140&quality=85&auto=format&fit=max&s=706e10364c9b94f76db198166a6f4c99",
-          "imageAlt": "Is Trump’s AI obsession walking the world into disaster? – podcast",
+          "imageUrl": "https://i.guim.co.uk/img/media/6637d137c39482268637005636e40ef69021b080/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=91c062ab169f4641a4a2e8dc9119a684",
+          "imageAlt": "Is Trump’s AI obsession walking the world into disaster? | Politics Weekly America",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
+          "summary": "A Swedish 18-year-old known as Chai was sentenced to more than 10 years in prison for attempted murder, rape and aggravated assault carried out through the internet. The victims included a teenage girl in Australia, and the report says he participated in online networks notorious for the sadistic exploitation of young people.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/19/swedish-teenager-jailed-cybercrime-attempted-murder-rape-germany-australia-ntwnfb",
+              "source": "The Guardian Technology",
+              "headline": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
+              "excerpt": "Eighteen-year-old known as Chai was active in networks notorious for their sadistic exploitation of young people A Swedish teenager known as Chai has been sentenced to more than 10 years in jail for attempted murder, rape and aggravated assault – crimes committed via the internet, including against a teenage girl in Australia . The district cour",
+              "imageUrl": "https://i.guim.co.uk/img/media/138746ee9f3b3f9b0e05cf7c5f27d417e8478e6d/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=f7cd8a9385257a2d680605c53f3c184a",
+              "imageAlt": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/138746ee9f3b3f9b0e05cf7c5f27d417e8478e6d/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=f7cd8a9385257a2d680605c53f3c184a",
+          "imageAlt": "Swedish teenager jailed for attempted murder, rape and assault committed online, with victims in Germany and Australia",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Your AI doomsday questions answered: ‘Why aren’t these companies being held to account?’",
+          "summary": "Guardian technology reporters answered readers’ questions about warnings that artificial intelligence could cause catastrophic harm. The discussion examines the reality of the threat, whether human-like machine consciousness is plausible, and why AI companies are not being held accountable.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/community/live/2026/sep/18/could-ai-really-end-humanity-technology-qanda",
+              "source": "The Guardian Technology",
+              "headline": "Your AI doomsday questions answered: ‘Why aren’t these companies being held to account?’",
+              "excerpt": "After a week of alarming warnings about artificial intelligence’s potential to destroy the world as we know it, our technology reporters answered your questions on the reality of the AI threat IcommentthereforeIam asks: Given our senses, emotions, memory and moods, is it ever going to be accepted that humanly conscious AI is fantas",
+              "imageUrl": "https://i.guim.co.uk/img/media/45cdb6f3028083230359386d33a5e3eb46f57e94/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d520a0f65bc404fbe0dfac4a3716e772",
+              "imageAlt": "Your AI doomsday questions answered: ‘Why aren’t these companies being held to account?’",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/45cdb6f3028083230359386d33a5e3eb46f57e94/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d520a0f65bc404fbe0dfac4a3716e772",
+          "imageAlt": "Your AI doomsday questions answered: ‘Why aren’t these companies being held to account?’",
           "imageCredit": "The Guardian"
         },
         {
           "title": "The best iPhones: which Apple smartphone is right for you, according to our expert",
-          "summary": "A Guardian guide compares Apple's iPhones, including refurbished options, on factors such as camera quality and battery life. It also advises that the best choice may be the phone a reader already owns rather than a newly released model.",
+          "summary": "A Guardian buying guide compares Apple smartphones, including options prioritising camera quality and battery life as well as refurbished devices. Its central advice is that the best iPhone may be the one a reader already owns, because a new model does not automatically justify replacing a working phone.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/article/2025/feb/13/best-apple-iphone",
@@ -884,62 +1067,6 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/3eb47142b95d342879518112de5d4e2f8b966995/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=90d3ce811502bc5ee6ec6141c5e2e323",
           "imageAlt": "The best iPhones: which Apple smartphone is right for you, according to our expert",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-          "summary": "AI-generated tributes and chatbots that simulate conversations with dead people are changing how some people mourn. Experts cited in the report fear these “AI ghosts” and other synthetic memorial content could lead more people to grieve in isolation.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation",
-              "source": "The Guardian Technology",
-              "headline": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-              "excerpt": "The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month. Jack White performed Jolene at a London gig. Kesha sang Old Flames (Can’t Hold a Candle to You), a single her m",
-              "imageUrl": "https://i.guim.co.uk/img/media/8875d66b138275dc460050fc37de8fc69fb67e79/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=19f84cbdb7aa715be76580a1dbbf7f1d",
-              "imageAlt": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/8875d66b138275dc460050fc37de8fc69fb67e79/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=19f84cbdb7aa715be76580a1dbbf7f1d",
-          "imageAlt": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Phones are the new cigarettes: why restaurants are discouraging and even banning them",
-          "summary": "Some restaurants are discouraging or banning phone use in an effort to get diners to connect with one another. Approaches include asking customers to hand over their phones at the door in exchange for incentives such as a free bottle of wine.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/food/2026/sep/14/phones-are-the-new-cigarettes-restaurants-discouraging-banning-digital-devices",
-              "source": "The Guardian Technology",
-              "headline": "Phones are the new cigarettes: why restaurants are discouraging and even banning them",
-              "excerpt": "Would you hand in your phone at the door in exchange for a free bottle of wine? One restaurateur has tried that – and there are now many other gambits that are encouraging us to connect Name: Phone bans. Age: Their provenance is considerable; their time is now. Continue reading...",
-              "imageUrl": "https://i.guim.co.uk/img/media/bbaefb00ccde05f10588731b397a2f587352739d/0_806_3648_2916/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=bdd20a16e4a74318a6398879c6f4396f",
-              "imageAlt": "Phones are the new cigarettes: why restaurants are discouraging and even banning them",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/bbaefb00ccde05f10588731b397a2f587352739d/0_806_3648_2916/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=bdd20a16e4a74318a6398879c6f4396f",
-          "imageAlt": "Phones are the new cigarettes: why restaurants are discouraging and even banning them",
           "imageCredit": "The Guardian"
         }
       ]
