@@ -2,23 +2,88 @@
   "id": "2026-09-21-expanded",
   "date": "2026-09-21",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-21T03:00:21.545339",
+  "generatedAt": "2026-09-21T12:30:02.654652",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-21T03:00:21",
+  "updatedAt": "2026-09-21T12:30:02",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
+          "title": "Trump Says Triumphal Arch Will Double As ‘Top Grade Military Complex’",
+          "summary": "President Donald Trump says the proposed 250-foot triumphal arch between Arlington National Cemetery and the Lincoln Memorial will also serve as a military complex. BBC, Daily Wire and Washington Times report that Trump attributed the change to a military request and national-security needs, with the BBC headline adding that the plans include drones and snipers.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump says triumphal arch will be military complex with drones and snipers",
+              "excerpt": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
+              "imageAlt": "Trump says triumphal arch will be military complex with drones and snipers",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/trump-says-triumphal-arch-will-double-as-top-grade-military-complex",
+              "source": "Daily Wire",
+              "headline": "Trump Says Triumphal Arch Will Double As ‘Top Grade Military Complex’",
+              "excerpt": "President Donald Trump announced Sunday that his proposed 250-foot triumphal arch would serve as both a monument and a “top grade Military Complex.” “At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch…into a top grade Military Complex/Triumphal Arch.” The complex would ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2283937529-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump Says Triumphal Arch Will Double As ‘Top Grade Military Complex’",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/20/trump-announces-triumphal-arch-serve-military-complex/",
+              "source": "Washington Times",
+              "headline": "Trump announces Triumphal Arch will serve as 'military complex'",
+              "excerpt": "President Trump said Sunday he has \"agreed to convert\" the planned Triumphal Arch between Arlington National Cemetery and the Lincoln Memorial into \"a top grade Military Complex.\"",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/28/Trump_Triumphal_Arch_48587_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump announces Triumphal Arch will serve as 'military complex'",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
+          "imageAlt": "Trump says triumphal arch will be military complex with drones and snipers",
+          "imageCredit": "BBC"
+        },
+        {
           "title": "Germany's AfD Projected to Win Second State Election This Month, Chancellor Merz Refuses to Resign After 'Disaster' Defeat",
-          "summary": "Exit polls indicate that Germany’s Alternative for Germany party is on course to finish first in Mecklenburg-Vorpommern, its second state-election win in less than a month. Chancellor Friedrich Merz called the results a disaster for his centre-right CDU but said he would not resign, with the party also facing losses in Berlin.",
+          "summary": "Exit polls indicate the AfD is on course to finish first in Mecklenburg-Western Pomerania, its second state-election win in less than a month. Chancellor Friedrich Merz called the result a disaster for his centre-right CDU but said he would not resign, as the party also faced losses in Berlin.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
               "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-              "excerpt": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg",
+              "excerpt": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/0cb35a40-b539-11f1-9bd0-bb4fc2f94a87.jpg",
               "imageAlt": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
               "outlet": "BBC",
               "sourceBias": "Center",
@@ -52,13 +117,59 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/0cb35a40-b539-11f1-9bd0-bb4fc2f94a87.jpg",
           "imageAlt": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
           "imageCredit": "BBC"
         },
         {
+          "title": "18 suspects in Haitian president’s 2021 killing to be extradited to US",
+          "summary": "Eighteen suspects in the 2021 assassination of Haitian President Jovenel Moïse are being extradited to the United States for trial in a Florida federal court. The U.S. attorney for southern Florida said 30 suspects had been indicted and that the 18 extradited defendants were being transported on a military aircraft over an alleged plot organized from U.S. soil.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+              "excerpt": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab02ebac4bef-1789931194.jpg?resize=1920%2C1440",
+              "imageAlt": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4735255/18-suspects-haitia-president-killing-extradited-to-us/",
+              "source": "Washington Examiner",
+              "headline": "18 suspects in Haitian president’s 2021 killing to be extradited to US",
+              "excerpt": "Eighteen suspects in Haitian President Jovenel Moïse’s 2021 assassination are set to be extradited to the United States. Jason Reding Quiñones, U.S. Attorney for the Southern District of Florida, said that 30 suspects in the assassination had been indicted, and 18 of those were being transported to the U.S. in a military plane. “Today marks […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26263665982776.jpg?w=696",
+              "imageAlt": "18 suspects in Haitian president’s 2021 killing to be extradited to US",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab02ebac4bef-1789931194.jpg?resize=1920%2C1440",
+          "imageAlt": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+          "imageCredit": "Al Jazeera"
+        },
+        {
           "title": "Ed Sheeran Addresses Macklemore Scandal: ‘Oct. 7 Was Horrific, Compounded Centuries of Jewish Pain. What Is Happening in Gaza Is Unjustifiable’",
-          "summary": "Ed Sheeran opened a Philadelphia concert with remarks condemning both the Oct. 7 attack and events in Gaza after Macklemore was dropped from the tour over pro-Palestinian comments. The controversy prompted supporting acts to withdraw in solidarity, while fans and pro-Palestinian activists gathered outside the concert.",
+          "summary": "Ed Sheeran opened a Philadelphia concert by calling the October 7 attack horrific and the situation in Gaza unjustifiable. His remarks followed controversy over Macklemore being dropped from the tour for pro-Palestinian comments, prompting supporting acts to withdraw and activists to gather outside the concert.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
@@ -104,193 +215,8 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "Trump says monumental arch in Washington, DC will also be military complex",
-          "summary": "Donald Trump says a proposed monumental arch in Washington, DC, will also function as a military complex equipped with drones and snipers. He said the changes were requested by the US military for national-security reasons, while the arch and his other plans to reshape the capital have faced opposition.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Trump says monumental arch in Washington, DC will also be military complex",
-              "excerpt": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad6d78-1789750648.jpg?resize=1920%2C1440",
-              "imageAlt": "Trump says monumental arch in Washington, DC will also be military complex",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Trump says triumphal arch will be military complex with drones and snipers",
-              "excerpt": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
-              "imageAlt": "Trump says triumphal arch will be military complex with drones and snipers",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad6d78-1789750648.jpg?resize=1920%2C1440",
-          "imageAlt": "Trump says monumental arch in Washington, DC will also be military complex",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Trump Says Triumphal Arch Will Double As ‘Top Grade Military Complex’",
-          "summary": "President Donald Trump says his proposed 250-foot Triumphal Arch will serve both as a monument and a military complex. The planned structure would stand between Arlington National Cemetery and the Lincoln Memorial, with Trump saying the conversion was requested by the US military for national-security purposes.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/trump-says-triumphal-arch-will-double-as-top-grade-military-complex",
-              "source": "Daily Wire",
-              "headline": "Trump Says Triumphal Arch Will Double As ‘Top Grade Military Complex’",
-              "excerpt": "President Donald Trump announced Sunday that his proposed 250-foot triumphal arch would serve as both a monument and a “top grade Military Complex.” “At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch…into a top grade Military Complex/Triumphal Arch.” The complex would ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2283937529-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Trump Says Triumphal Arch Will Double As ‘Top Grade Military Complex’",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/20/trump-announces-triumphal-arch-serve-military-complex/",
-              "source": "Washington Times",
-              "headline": "Trump announces Triumphal Arch will serve as 'military complex'",
-              "excerpt": "President Trump said Sunday he has \"agreed to convert\" the planned Triumphal Arch between Arlington National Cemetery and the Lincoln Memorial into \"a top grade Military Complex.\"",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/28/Trump_Triumphal_Arch_48587_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump announces Triumphal Arch will serve as 'military complex'",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2283937529-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Trump Says Triumphal Arch Will Double As ‘Top Grade Military Complex’",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "‘I’m Not A Lesbian’: Lauren Boebert Denies Sleeping With Three Staffers",
-          "summary": "A sworn complaint filed with the House Ethics Committee accuses Representative Lauren Boebert of sexual relationships with three congressional staff members, conduct that would violate House rules if substantiated. Boebert denied having any inappropriate or sexual relationship with staff and said she is neither lesbian nor bisexual.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/09/19/report-rep-lauren-boebert-accused-having-sexual-relationships-three-staffers/",
-              "source": "Breitbart",
-              "headline": "Report: Rep. Lauren Boebert Accused of Having Sexual Relationships with Three Staffers",
-              "excerpt": "Rep. Lauren Boebert (R-CO) allegedly had sexual relationships with three staffers, a complaint filed with the House Ethics Committee claims. The post Report: Rep. Lauren Boebert Accused of Having Sexual Relationships with Three Staffers appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/Lauren-Boebert-640x335.jpg",
-              "imageAlt": "Report: Rep. Lauren Boebert Accused of Having Sexual Relationships with Three Staffers",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/im-not-a-lesbian-lauren-boebert-denies-sleeping-with-three-staffers",
-              "source": "Daily Wire",
-              "headline": "‘I’m Not A Lesbian’: Lauren Boebert Denies Sleeping With Three Staffers",
-              "excerpt": "Rep. Lauren Boebert (R-CO) on Saturday denied a sworn ethics complaint accusing her of sexual relationships with three congressional aides, conduct that would breach House rules if substantiated. “Well, I’m not a lesbian or bisexual, and I have never, ever been in any inappropriate relationship, nor have I ever been sexually involved with any staff,” Boebert ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2264769040-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "‘I’m Not A Lesbian’: Lauren Boebert Denies Sleeping With Three Staffers",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/Lauren-Boebert-640x335.jpg",
-          "imageAlt": "Report: Rep. Lauren Boebert Accused of Having Sexual Relationships with Three Staffers",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "North Korea launches two ballistic missiles toward the sea and dials up pressure on the US",
-          "summary": "North Korea launched multiple short-range ballistic missiles into the sea, according to South Korea’s military. The launches came days after Pyongyang rejected renewed diplomacy with the United States and threatened to strengthen its nuclear deterrent in response to what it described as US hostility.",
-          "links": [
-            {
-              "url": "https://www.washingtonexaminer.com/news/world/4735096/north-korea-ballistic-missile-launch-sea/",
-              "source": "Washington Examiner",
-              "headline": "North Korea launches two ballistic missiles toward the sea and dials up pressure on the US",
-              "excerpt": "SEOUL, South Korea (AP) — North Korea launched two short-range ballistic missiles toward the sea on Sunday, South Korea’s military said, days after the North threatened to bolster its nuclear deterrent capabilities and respond to what it called U.S. hostilities. The launches were the latest in a series of weapons demonstrations by North Korea even […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26263309350737-e1789916216666.jpg?w=696",
-              "imageAlt": "North Korea launches two ballistic missiles toward the sea and dials up pressure on the US",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/20/north-korea-launches-multiple-ballistic-missiles/",
-              "source": "Washington Times",
-              "headline": "North Korea launches multiple ballistic missiles",
-              "excerpt": "North Korea launched multiple short-range ballistic missiles into the sea on Sunday just days after Pyongyang rejected overtures for revived diplomacy with the United States.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/20/Koreas_Tensions_5_737_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "North Korea launches multiple ballistic missiles",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26263309350737-e1789916216666.jpg?w=696",
-          "imageAlt": "North Korea launches two ballistic missiles toward the sea and dials up pressure on the US",
-          "imageCredit": "Washington Examiner"
-        },
-        {
           "title": "Cory Booker: SCOTUS Needs Term Limits, 'We Have a Compromised Court'",
-          "summary": "Senator Cory Booker called for Supreme Court term limits and ethics standards, saying the court is compromised. A separate attached report says House Majority Leader Steve Scalise told ABC News he did not know why President Donald Trump had barred CNN, MS Now and Politico from the White House.",
+          "summary": "Senator Cory Booker said on NBC's Meet the Press that the U.S. Supreme Court needs term limits and ethics standards, describing it as a compromised court. Other links grouped with the story address President Trump's exclusion of MS Now, Politico and CNN from the White House rather than Booker's proposal.",
           "links": [
             {
               "url": "https://www.breitbart.com/clips/2026/09/20/cory-booker-scotus-needs-term-limits-we-have-a-compromised-court/",
@@ -311,13 +237,31 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/house/4735159/steve-scalise-trump-media-ban-white-house/",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4735140/white-house-reporter-trump-banning-ms-now-politico-and-cnn/",
               "source": "Washington Examiner",
-              "headline": "Scalise says ‘I don’t know’ why Trump banned three news outlets from White House",
-              "excerpt": "House Majority Leader Steve Scalise (R-LA) pleaded ignorance when asked about President Donald Trump’s banning of three news outlets from the White House. Speaking to ABC News’s This Week, Scalise was asked about Trump’s controversial move to ban CNN, MS Now, and Politico from the White House. In response, he said he was as in the […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26258601160646.jpg?w=696",
-              "imageAlt": "Scalise says ‘I don’t know’ why Trump banned three news outlets from White House",
+              "headline": "White House reporter talks about Trump banning MS Now, Politico, and CNN",
+              "excerpt": "Washington Examiner White House reporter Naomi Lim said President Donald Trump’s ban on more media outlets from the White House appeared to be a “shoot from the hip” announcement. “It was actually really lovely to be a part of this press pool,” Lim said on NewsNation’s The Hill Sunday with Chris Stirewalt on Sunday. “We […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/Untitled-design-1-e1789928044870.jpg?w=696",
+              "imageAlt": "White House reporter talks about Trump banning MS Now, Politico, and CNN",
               "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/20/republicans-back-trumps-ban-liberal-news-outlets/",
+              "source": "Washington Times",
+              "headline": "Republicans back Trump's ban of liberal news outlets",
+              "excerpt": "Republicans are supporting President Trump's banishment of three left-leaning news outlets from the White House, arguing that Mr. Trump has been more accessible to the press than any other president and that President Biden did more to restrict press access.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/19/APTOPIX_Trump_News_Media_21143_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Republicans back Trump's ban of liberal news outlets",
+              "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -333,6 +277,116 @@
           "imageUrl": "https://media.breitbart.com/media/2026/06/booker45677-640x335.jpg",
           "imageAlt": "Cory Booker: SCOTUS Needs Term Limits, 'We Have a Compromised Court'",
           "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Exclusive — U.N. Ambassador Mike Waltz: Trump to Focus on 'Sovereignty' and 'Peace Deals' at General Assembly",
+          "summary": "U.S. Ambassador to the United Nations Mike Waltz said President Trump would emphasize sovereignty and peace deals in his General Assembly address. Trump and Iranian President Masoud Pezeshkian were both expected in New York amid restrictions on Iran's delegation, while Trump was also scheduled to meet Mayor Zohran Mamdani.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/politics/2026/09/19/exclusive-u-n-ambassador-mike-waltz-trump-to-focus-on-sovereignty-and-peace-deals-at-general-assembly/",
+              "source": "Breitbart",
+              "headline": "Exclusive — U.N. Ambassador Mike Waltz: Trump to Focus on 'Sovereignty' and 'Peace Deals' at General Assembly",
+              "excerpt": "U.S. Ambassador to the United Nations Mike Waltz gave Breitbart News an exclusive sneak-peak at what President Donald Trump will say during his address to the UN's General Assembly this week, revealing that he will highlight \"sovereignty\" and \"peace deals.\" The post Exclusive — U.N. Ambassador Mike Waltz: Trump to",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/UN-Ambassador-Mike-Walz-640x335.png",
+              "imageAlt": "Exclusive — U.N. Ambassador Mike Waltz: Trump to Focus on 'Sovereignty' and 'Peace Deals' at General Assembly",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
+              "source": "Fox News",
+              "headline": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
+              "excerpt": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran's delegation movements.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-pezeshkian.jpg?ve=1&tl=1",
+              "imageAlt": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/20/trump-zohran-mamdani-meet-gracie-mansion-new-york-city/",
+              "source": "Washington Times",
+              "headline": "Trump to meet with Mamdani on Monday in New York City",
+              "excerpt": "President Trump will meet with socialist New York City Mayor Zohran Mamdani on Monday during his visit to the United Nations General Assembly.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/14/NY_Mamdani_Immigration_67528_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump to meet with Mamdani on Monday in New York City",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/09/UN-Ambassador-Mike-Walz-640x335.png",
+          "imageAlt": "Exclusive — U.N. Ambassador Mike Waltz: Trump to Focus on 'Sovereignty' and 'Peace Deals' at General Assembly",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Rep. Salazar says Trump ‘receptive’ after she released ad challenging immigration stance",
+          "summary": "Representative Maria Elvira Salazar said President Trump was courteous and receptive during a conversation after she released an advertisement criticizing his immigration policies. The Florida Republican, who represents a largely Hispanic Miami-area district, separately said some Trump advisers were compromising his legacy.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/clips/2026/09/20/rep-salazar-some-of-trumps-advisers-are-compromising-his-legacy/",
+              "source": "Breitbart",
+              "headline": "Rep. Salazar: Some of Trump's Advisers 'Are Compromising His Legacy'",
+              "excerpt": "Sunday on CBS’s “Face the Nation,” Rep. Maria Elvira Salazar (R-FL) said some of President Donald Trump’s advisers “are compromising his legacy.” Host Margaret Brennan said, “You have been speaking for months about your concerns regarding President Trump’s immigration policies but The post Rep. Salazar: Some of Trump’s Advisers ‘Are Compromising His Legac",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/Rep.-Maria-Elvira-Salazar45-640x335.jpg",
+              "imageAlt": "Rep. Salazar: Some of Trump's Advisers 'Are Compromising His Legacy'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4735276/salazar-trump-receptive-ad-immigration-policy/",
+              "source": "Washington Examiner",
+              "headline": "Rep. Salazar says Trump ‘receptive’ after she released ad challenging immigration stance",
+              "excerpt": "Rep. Maria Elvira Salazar (R-FL) said on Sunday she had a “very good conversation” with President Donald Trump after she released an advertisement attacking his anti-immigration policies last week. While speaking with Margaret Brennan on Face the Nation, Salazar, who represents a largely Hispanic, Miami-area district, said Trump was “very courteous” and “very receptive” during […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2024/10/Maria-Salazar-April-2024.webp?w=696",
+              "imageAlt": "Rep. Salazar says Trump ‘receptive’ after she released ad challenging immigration stance",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/09/Rep.-Maria-Elvira-Salazar45-640x335.jpg",
+          "imageAlt": "Rep. Salazar: Some of Trump's Advisers 'Are Compromising His Legacy'",
+          "imageCredit": "Breitbart"
         }
       ]
     },
@@ -340,8 +394,93 @@
       "name": "Australia",
       "stories": [
         {
+          "title": "The most shameful thing I’ve ever done",
+          "summary": "The linked Spectator Australia item concerns Germany's AfD following a recent state-election victory in Saxony-Anhalt. It says two further state elections could intensify pressure on Germany's embattled chancellor; the available headline and excerpt do not substantiate the digest title.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/09/another-afd-win-could-mean-the-end-for-germanys-embattled-chancellor/",
+              "source": "Spectator Australia",
+              "headline": "Another AfD win could mean the end for Germany’s embattled chancellor",
+              "excerpt": "Just two weeks after the Alternative for Germany’s (AfD) victory in the state of Saxony-Anhalt, two more state elections are… The post Another AfD win could mean the end for Germany’s embattled chancellor appeared first on The Spectator Australia . What to read next: <a href=\"https://www",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_2295772795.jpg",
+              "imageAlt": "Another AfD win could mean the end for Germany’s embattled chancellor",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_2295772795.jpg",
+          "imageAlt": "Another AfD win could mean the end for Germany’s embattled chancellor",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "Support worker 'quite terrified' by decision to close short-stay shelter",
+          "summary": "A support worker says she is terrified by the impending closure of a short-stay accommodation facility used by remote Territorians receiving medical care in Darwin. Charlie Yebarrarr Dhamarrandji and Evonne Mitja Wunungmurra rely on dialysis several times a week and have used the facility for refuge during treatment.",
+          "links": [
+            {
+              "url": "https://www.abc.net.au/news/2026-09-21/dialysis-patients-fear-short-stay-yissa-accommodation-shutdown/107173878",
+              "source": "ABC Australia",
+              "headline": "Support worker 'quite terrified' by decision to close short-stay shelter",
+              "excerpt": "Remote Territorians Charlie Yebarrarr Dhamarrandji and Evonne Mitja Wunungmurra need dialysis treatment in Darwin several times a week, but the short-stay accommodation facility where they have sought refuge is about to close its doors.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/1dfc7198e50df67267ef031ad3c3fd22?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=60&width=862&height=485",
+              "imageAlt": "Support worker 'quite terrified' by decision to close short-stay shelter",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/1dfc7198e50df67267ef031ad3c3fd22?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=60&width=862&height=485",
+          "imageAlt": "Support worker 'quite terrified' by decision to close short-stay shelter",
+          "imageCredit": "ABC News"
+        },
+        {
+          "title": "The Populist: The favourite son | Episode 2 – podcast",
+          "summary": "The second episode of The Guardian's The Populist podcast examines James Ashby, Pauline Hanson's top adviser and a powerful figure within One Nation. It traces his path from public relations work through a major parliamentary scandal to political influence, including his role in controlling the party's media access.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/news/audio/2026/sep/21/the-populist-podcast-ep-2-the-favourite-son-pauline-hanson-one-nation-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "The Populist: The favourite son",
+              "excerpt": "Most Australians know the story of Pauline Hanson: the fish and chip shop, the maiden speech, the ‘please explain’. But Hanson’s top adviser James Ashby wields as much – if not more – power over One Nation as Hanson herself. When the party bars media from press conferences, it’s Ashby who makes the call. To understand how One Nation operates, it’s important to understand Ashby’s story, from his beginnings as a PR flack, through a massive parliamentary scandal, to his ascent to political power",
+              "imageUrl": "https://i.guim.co.uk/img/media/1f55f806b604b77f88faca6d2550bb1bd903126a/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=f273c7a8ee8fadab4ddd32edb689189a",
+              "imageAlt": "The Populist: The favourite son | Episode 2 – podcast",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/1f55f806b604b77f88faca6d2550bb1bd903126a/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=f273c7a8ee8fadab4ddd32edb689189a",
+          "imageAlt": "The Populist: The favourite son | Episode 2 – podcast",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Help! I’ve got a sex offender tattooed on me",
-          "summary": "The story is titled “Help! I’ve got a sex offender tattooed on me,” but the attached feed item does not provide details about that subject. Instead, its headline and excerpt discuss whether Reform wants to win and say the party has buckled under pressure.",
+          "summary": "The linked Spectator Australia item asks whether Reform wants to win and says the party has buckled under pressure. The available headline and excerpt provide no information supporting the digest title about a sex-offender tattoo.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/09/does-reform-really-want-to-win/",
@@ -366,91 +505,6 @@
           "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_2292958176.jpg",
           "imageAlt": "Does Reform really want to win?",
           "imageCredit": "Spectator Australia"
-        },
-        {
-          "title": "'Needle in haystack': Expert says little chance of finding shark that killed Greg O'Neill",
-          "summary": "A behavioural biologist and shark-drone expert says there is little chance of finding the shark that killed 63-year-old Greg O’Neill. The expert criticised the Western Australian government’s response, describing the search as a needle-in-a-haystack task with slim-to-none prospects of success.",
-          "links": [
-            {
-              "url": "https://www.abc.net.au/news/2026-09-20/slim-chance-find-shark-killed-greg-oneill-after-sorrento-attack/107173856",
-              "source": "ABC Australia",
-              "headline": "'Needle in haystack': Expert says little chance of finding shark that killed Greg O'Neill",
-              "excerpt": "A behavioural biologist and shark drone expert has criticised the WA government's response to the state's most recent fatal shark attack, saying the chances of finding the shark responsible for the 63-year-old's death are slim to none.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/4e282e61dd464c936f5e76145eea710b?impolicy=wcms_crop_resize&cropH=482&cropW=856&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "'Needle in haystack': Expert says little chance of finding shark that killed Greg O'Neill",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/4e282e61dd464c936f5e76145eea710b?impolicy=wcms_crop_resize&cropH=482&cropW=856&xPos=0&yPos=0&width=862&height=485",
-          "imageAlt": "'Needle in haystack': Expert says little chance of finding shark that killed Greg O'Neill",
-          "imageCredit": "ABC News"
-        },
-        {
-          "title": "The Populist: The favourite son | Episode 2 – Full Story podcast",
-          "summary": "A Guardian podcast examines the influence of James Ashby, Pauline Hanson’s top adviser, within One Nation. It traces his path from public-relations work through a major parliamentary scandal to political power, noting that he makes decisions such as barring media from party press conferences.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/australia-news/audio/2026/sep/21/the-populist-full-story-podcast-ep-2-the-favourite-son-pauline-hanson-one-nation-ntwnfb",
-              "source": "The Guardian Australia",
-              "headline": "The Populist: The favourite son",
-              "excerpt": "Most Australians know the story of Pauline Hanson: the fish and chip shop, the maiden speech, the “please explain”. But Hanson’s top adviser, James Ashby, wields as much – if not more – power over One Nation as Hanson herself. When the party bars media from press conferences, it’s Ashby who makes the call. To understand how One Nation operates, it’s important to understand Ashby’s story, from his beginnings as a PR flack, through a massive parliamentary scandal, to his ascent to political pow",
-              "imageUrl": "https://i.guim.co.uk/img/media/1f55f806b604b77f88faca6d2550bb1bd903126a/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=f273c7a8ee8fadab4ddd32edb689189a",
-              "imageAlt": "The Populist: The favourite son | Episode 2 – Full Story podcast",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/1f55f806b604b77f88faca6d2550bb1bd903126a/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=f273c7a8ee8fadab4ddd32edb689189a",
-          "imageAlt": "The Populist: The favourite son | Episode 2 – Full Story podcast",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Are we diagnosing too many people with ADHD?",
-          "summary": "A Spectator Australia article asks whether too many people are being diagnosed with attention deficit hyperactivity disorder. Its excerpt notes that ADHD received its name in the 1980s and says that by the end of that decade 40 people in Britain had been diagnosed.",
-          "links": [
-            {
-              "url": "https://www.spectator.com.au/2026/09/are-we-diagnosing-too-many-people-with-adhd/",
-              "source": "Spectator Australia",
-              "headline": "Are we diagnosing too many people with ADHD?",
-              "excerpt": "Attention Deficit Hyperactivity Disorder was named in the 1980s, and by the end of that decade forty people in Britain… The post Are we diagnosing too many people with ADHD? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/09/disabled-people-will-suffer-if",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_460492812.jpg",
-              "imageAlt": "Are we diagnosing too many people with ADHD?",
-              "outlet": "Spectator Australia",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_460492812.jpg",
-          "imageAlt": "Are we diagnosing too many people with ADHD?",
-          "imageCredit": "Spectator Australia"
         }
       ]
     },
@@ -458,16 +512,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-          "summary": "TechCrunch Mobility examines how to decide when an autonomous vehicle is safe enough for public use. The newsletter frames the question within the future of transport and AI’s increasingly prominent role in mobility.",
+          "title": "A small but growing number of founders are betting on bringing people together offline",
+          "summary": "A small group of founders is building businesses around bringing people together offline. TechCrunch points to ventures as different as a game console and a leathercraft school whose founders both see commercial value in restoring forms of connection they believe technology has eroded.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+              "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
               "source": "TechCrunch",
-              "headline": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-              "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
-              "imageAlt": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+              "headline": "A small but growing number of founders are betting on bringing people together offline",
+              "excerpt": "On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over the last couple of decades.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/StrictlyVC-with-Brynn-Putnam-and-Tristan-Walker.jpg?resize=1200,800",
+              "imageAlt": "A small but growing number of founders are betting on bringing people together offline",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -481,13 +535,41 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
-          "imageAlt": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/StrictlyVC-with-Brynn-Putnam-and-Tristan-Walker.jpg?resize=1200,800",
+          "imageAlt": "A small but growing number of founders are betting on bringing people together offline",
           "imageCredit": "TechCrunch"
         },
         {
+          "title": "Raiding the past: Lara Croft relives her first adventure in Legacy of Atlantis",
+          "summary": "The forthcoming Tomb Raider remake Legacy of Atlantis revisits Lara Croft's original 1996 adventure. The Guardian's preview explores whether its developers can modernize the gameplay while preserving the original's appeal, including a new rendering of St Francis' Folly inspired by Greece's Meteora monasteries.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/sep/11/tomb-raider-legacy-of-atlantis-lara-croft-remake",
+              "source": "The Guardian Technology",
+              "headline": "Raiding the past: Lara Croft relives her first adventure in Legacy of Atlantis",
+              "excerpt": "We have a first play of the forthcoming Tomb Raider remake and speak with its developers. Can they improve on the gameplay without losing what made the 1996 original such a classic? We join Lara Croft in St Francis’ Folly – inspired by the Unesco-listed monasteries of Meteora in Greece – as the light shines through the cracked ceiling and a flock of bats glide across the vast ruins below. When Lara leaps down to the monastery’s crumbling pillared courtyard, it becomes clear that these s",
+              "imageUrl": "https://i.guim.co.uk/img/media/b336e2d1f139ecfd1890a748eb43fb1543523b8f/523_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=d9c77e0d15567447aabd32d6e954004d",
+              "imageAlt": "Raiding the past: Lara Croft relives her first adventure in Legacy of Atlantis",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/b336e2d1f139ecfd1890a748eb43fb1543523b8f/523_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=d9c77e0d15567447aabd32d6e954004d",
+          "imageAlt": "Raiding the past: Lara Croft relives her first adventure in Legacy of Atlantis",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Reαd carefully: how to spot – and avoid – a homoglyph attack",
-          "summary": "Scam emails are increasingly using homoglyph attacks, replacing familiar letters in web addresses with near-identical characters from other alphabets. A link such as “miсrosoft.com” can therefore look legitimate at a glance even though one character differs, making close inspection of URLs essential.",
+          "summary": "Scammers are increasingly using homoglyphs—characters from different alphabets that look nearly identical—to disguise malicious web addresses. A link such as one made to resemble microsoft.com can appear legitimate at a glance, so users should inspect every character carefully before clicking.",
           "links": [
             {
               "url": "https://www.theguardian.com/money/2026/sep/20/how-to-spot-avoid-homoglyph-attack-scam",
@@ -515,7 +597,7 @@
         },
         {
           "title": "Marvel’s Wolverine review – a gloriously conflicted lead is let down by crude, boring battling",
-          "summary": "Insomniac’s Marvel’s Wolverine gives Logan a well-realised portrayal through Liam McIntyre’s performance and detailed character art. The review says those strengths are undermined by lapses in the narrative and emotional arcs, while crude and repetitive combat can feel like a chore.",
+          "summary": "Insomniac Games' Marvel's Wolverine gives Logan a strong portrayal through Liam McIntyre's performance and detailed character art. The Guardian's review says those strengths are undermined by lapses in the narrative and emotional arcs, while parts of the combat feel crude, repetitive and laborious.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/sep/10/marvels-wolverine-review-a-gloriously-conflicted-lead-is-let-down-by-crude-boring-battling",
@@ -543,7 +625,7 @@
         },
         {
           "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
-          "summary": "Donald Trump says he will appoint an artificial-intelligence czar and establish an “AI Force” to monitor the technology. He offered few details, and the proposal comes after he resisted calls to slow AI development even as members of his own party urged caution amid fears about out-of-control agents.",
+          "summary": "President Donald Trump said he would appoint an artificial-intelligence czar and establish an “AI Force” to monitor the technology. He offered few details, and the announcement comes as concerns about uncontrolled AI agents grow despite his earlier resistance to calls for slowing development.",
           "links": [
             {
               "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
@@ -568,34 +650,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/16036f1089514535d801d2d2f452cc57da7d985c/0_0_1353_1082/master/1353.jpg?width=140&quality=85&auto=format&fit=max&s=af31914fd31b473855086f5599de2828",
           "imageAlt": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-          "summary": "AI-generated tributes and conversational bots modelled on dead people are changing how some people mourn. Experts cited by the Guardian worry that these “AI ghosts” and other synthetic memorial content could lead more people to grieve in isolation.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation",
-              "source": "The Guardian Technology",
-              "headline": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-              "excerpt": "The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month. Jack White performed Jolene at a London gig. Kesha sang Old Flames (Can’t Hold a Candle to You), a single her m",
-              "imageUrl": "https://i.guim.co.uk/img/media/8875d66b138275dc460050fc37de8fc69fb67e79/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=19f84cbdb7aa715be76580a1dbbf7f1d",
-              "imageAlt": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/8875d66b138275dc460050fc37de8fc69fb67e79/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=19f84cbdb7aa715be76580a1dbbf7f1d",
-          "imageAlt": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -603,64 +657,8 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Palace orders DOH to expedite MAIFIP claims processing",
-          "summary": "Malacañang has ordered the Philippine Department of Health to speed up legitimate claims under the Medical Assistance to Indigent and Financially Incapacitated Patients program. Executive Secretary Ralph Recto directed regional officials and participating hospitals to verify outstanding accounts and promptly process valid claims.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2308281/palace-orders-doh-to-expedite-maifip-claims-processing",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Palace orders DOH to expedite MAIFIP claims processing",
-              "excerpt": "MANILA, Philippines — Malacañang has directed the Department of Health (DOH) to fast-track the processing of legitimate claims under the agency’s Medical Assistance to Indigent and Financially Incapacitated Patients (MAIFIP) program. Executive Secretary Ralph Recto directed DOH regional directors and participating hospitals to verify accounts payable and promptly process valid claims under the program. “Let us",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2024/06/2024-June-19-DOH-head-office-with-DOH-logo-superimposed.jpg",
-              "imageAlt": "Palace orders DOH to expedite MAIFIP claims processing",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2024/06/2024-June-19-DOH-head-office-with-DOH-logo-superimposed.jpg",
-          "imageAlt": "Palace orders DOH to expedite MAIFIP claims processing",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Abel-Iloko, weaving tradition take spotlight in Ilocos Sur exhibit",
-          "summary": "An upgraded Abel-Iloko exhibition opened at the National Museum of the Philippines–Ilocos in Vigan City on Sept. 19. The exhibition highlights Ilocano weaving traditions and the artisans preserving the craft, with provincial representative Janina Medina-Fariñas attending the opening.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2308270/abel-iloko-weaving-tradition-take-spotlight-in-ilocos-sur-exhibit",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Abel-Iloko, weaving tradition take spotlight in Ilocos Sur exhibit",
-              "excerpt": "VIGAN CITY, Ilocos Sur — The upgraded Abel-Iloko Exhibition of the National Museum of the Philippines–Ilocos (NMP-Ilocos) opened here on Saturday, Sept. 19, highlighting the rich tradition of Ilocano weaving and the artisans who keep the craft alive. Provincial Board Member Janina Medina-Fariñas, who represented Gov. Jerry Singson, attended the opening ceremony and underscored the importance",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Ilocos-Sur-boosts-preservation-of-Ilocano-weaving-with-exhibit-.jpeg",
-              "imageAlt": "Abel-Iloko, weaving tradition take spotlight in Ilocos Sur exhibit",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Ilocos-Sur-boosts-preservation-of-Ilocano-weaving-with-exhibit-.jpeg",
-          "imageAlt": "Abel-Iloko, weaving tradition take spotlight in Ilocos Sur exhibit",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Sara Duterte’s business interests, gov’t deals face scrutiny",
-          "summary": "Vice President Sara Duterte’s finances are under scrutiny as prosecutors continue presenting an impeachment case involving alleged unexplained wealth. During the trial’s 11th week, the Senate impeachment court also heard conflicting views on how many votes are required for conviction, with three retired chief justices saying the threshold need not be fixed at 16.",
+          "title": "ICYMI: Sara Duterte impeachment trial Week 11 highlights",
+          "summary": "The Philippine Senate impeachment court heard competing arguments over how many votes are needed to convict Vice President Sara Duterte while prosecutors continued presenting an unexplained-wealth case. Three retired chief justices said the threshold need not remain fixed at 16 votes, and senators planned a caucus on whether 11 votes could overturn that requirement with 20 active members.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2308552/icymi-sara-duterte-impeachment-trial-week-11-highlights",
@@ -679,6 +677,24 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/senator-judges-caucus-sara-duterte-impeachment-voting-threshold/",
+              "source": "Rappler World",
+              "headline": "16 votes or lower? Senators to hold caucus on Duterte impeachment voting threshold",
+              "excerpt": "With 20 active senators, 11 votes — a simple majority — are needed to overturn the 16-vote threshold required to convict Vice President Sara Duterte",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/09/EX-JUSTICES.jpg",
+              "imageAlt": "16 votes or lower? Senators to hold caucus on Duterte impeachment voting threshold",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
@@ -687,16 +703,44 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Marcos declares holidays in 7 areas in September, October",
-          "summary": "President Ferdinand Marcos Jr. declared special non-working days in seven Philippine localities during September and October. The proclamations are intended to let residents participate in founding, charter or fiesta celebrations, including Aguinaldo, Ifugao’s founding anniversary on Sept. 21.",
+          "title": "Palace to DOH: Fast-track medical aid for indigents",
+          "summary": "Malacañang has directed the Philippine Department of Health to accelerate legitimate claims under the Medical Assistance to Indigent and Financially Incapacitated Patients program. The order follows complaints that delays have left some patients waiting months for financial assistance and directs regional officials and participating hospitals to act faster.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2308284/marcos-declares-local-holidays-in-7-areas-in-september-october",
+              "url": "https://newsinfo.inquirer.net/2308564/palace-to-doh-fast-track-medical-aid-for-indigents",
               "source": "Philippine Daily Inquirer",
-              "headline": "Marcos declares holidays in 7 areas in September, October",
-              "excerpt": "MANILA, Philippines — President Ferdinand R. Marcos Jr. has declared special non-working days in seven localities across the country to allow residents to fully participate in their respective founding, charter or fiesta celebrations. Under Proclamation No. 1437, Sept. 21, Monday, is a special non-working day in Aguinaldo, Ifugao. The municipality marks its founding anniversary on Sept.",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/Holidays-stock-08242022.jpg",
-              "imageAlt": "Marcos declares holidays in 7 areas in September, October",
+              "headline": "Palace to DOH: Fast-track medical aid for indigents",
+              "excerpt": "MANILA, Philippines — Malacañang has ordered the Department of Health (DOH) to fast-track the processing of legitimate claims under its Medical Assistance to Indigent and Financially Incapacitated Patients (Maifip) program, following complaints of delays that have left some patients waiting months for financial support. Executive Secretary Ralph Recto directed DOH regional directors and participating hospitals",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/1296450.jpeg",
+              "imageAlt": "Palace to DOH: Fast-track medical aid for indigents",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/1296450.jpeg",
+          "imageAlt": "Palace to DOH: Fast-track medical aid for indigents",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Biodiversity plan seeks to revive Ifugao Rice Terraces",
+          "summary": "A proposed biodiversity plan seeks to support the centuries-old Ifugao Rice Terraces, a World Heritage Site since 1995. The terraces face biodiversity loss as younger residents leave traditional farming amid declining economic viability, and the proposal would integrate conservation into the economic plans of Ifugao ancestral domains.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2308534/biodiversity-plan-seeks-to-revive-ifugao-rice-terraces",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Biodiversity plan seeks to revive Ifugao Rice Terraces",
+              "excerpt": "BAGUIO CITY, Philippines — The centuries-old Ifugao Rice Terraces, inscribed as a World Heritage Site in 1995, are confronting biodiversity losses as more Ifugao youth abandon the mountain-carved rice farms amid the continuing decline in the economic viability of traditional farming. A proposal to integrate biodiversity conservation into the economic plans of Ifugao ancestral domains",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Rice-Terraces-21September2026.jpg",
+              "imageAlt": "Biodiversity plan seeks to revive Ifugao Rice Terraces",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -710,13 +754,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/Holidays-stock-08242022.jpg",
-          "imageAlt": "Marcos declares holidays in 7 areas in September, October",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Rice-Terraces-21September2026.jpg",
+          "imageAlt": "Biodiversity plan seeks to revive Ifugao Rice Terraces",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Calabarzon cleanup hauls 35,105 kilos of coastal waste",
-          "summary": "Volunteers collected 35,105 kilograms of waste from shorelines across the Calabarzon region during International Coastal Cleanup activities. The effort was held under the theme “Clean Seas for Resilient Communities,” and the environment department thanked those who took part.",
+          "summary": "Volunteers collected 35,105 kilograms of waste from shorelines across the Calabarzon region during this year's International Coastal Cleanup. The activities were held under the theme “Clean Seas for Resilient Communities,” with the regional environment department thanking participants for the cleanup effort.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2308440/calabarzon-cleanup-hauls-35105-kilos-of-coastal-waste",
@@ -741,6 +785,34 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Calabarzon-volunteers-collect-35-05-kilos-of-coastal-waste-20September2026.jpg",
           "imageAlt": "Calabarzon cleanup hauls 35,105 kilos of coastal waste",
           "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "To check school violence: Lawmaker wants franchises for social media",
+          "summary": "A deadly school shooting in Banga, South Cotabato, has prompted Quezon Representative David “Jayjay” Suarez to propose requiring social-media platforms to obtain congressional franchises before operating in the Philippines. House Bill No. 4786 is presented as a response to concerns about online content, school security and youth violence.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2308562/to-check-school-violence-lawmaker-wants-franchises-for-social-media",
+              "source": "Philippine Daily Inquirer",
+              "headline": "To check school violence: Lawmaker wants franchises for social media",
+              "excerpt": "MANILA, Philippines — The deadly school shooting in Banga, South Cotabato, has prompted a congressman to push for a measure requiring social media platforms to secure congressional franchises before operating in the Philippines, as authorities grapple with concerns over online content, school security, and youth violence. House Bill No. 4786, which Quezon Rep. David “Jayjay”",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/David-Jayjay-Suarez-21September2026.jpg",
+              "imageAlt": "To check school violence: Lawmaker wants franchises for social media",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/David-Jayjay-Suarez-21September2026.jpg",
+          "imageAlt": "To check school violence: Lawmaker wants franchises for social media",
+          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -748,16 +820,41 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-          "summary": "Andreessen Horowitz-backed Vals AI wants to establish itself as a gold standard for benchmarking artificial-intelligence systems. The company says it aims to provide a more neutral and trustworthy evaluation resource as the number of AI models continues to grow.",
+          "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+          "summary": "Italian Prime Minister Giorgia Meloni says Italy supports Saudi Arabia joining the Global Combat Air Programme. The United Kingdom, Italy and Japan are already partners in the project, which aims to field a new supersonic stealth fighter by 2035.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+              "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+              "source": "Wall Street Journal",
+              "headline": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+              "excerpt": "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.",
+              "imageUrl": "",
+              "imageAlt": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+          "summary": "TechCrunch Mobility examines how the autonomous-vehicle industry can determine when an AV is safe enough for deployment. The newsletter frames the issue within the growing role of artificial intelligence in transportation, although its excerpt provides no specific safety threshold or conclusion.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
               "source": "TechCrunch",
-              "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-              "excerpt": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
-              "imageAlt": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+              "headline": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+              "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
+              "imageAlt": "TechCrunch Mobility: How do we know when an AV is safe enough?",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -771,21 +868,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
-          "imageAlt": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
+          "imageAlt": "TechCrunch Mobility: How do we know when an AV is safe enough?",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Streaming from the cloud was meant to change games forever – what happened?",
-          "summary": "Cloud gaming was once promoted as the industry’s future, but major companies including Google, Sony and Microsoft have struggled to make it consistently enjoyable, responsive and affordable. The Guardian examines what prevented game streaming from delivering on the promise showcased as far back as Gamescom in 2009.",
+          "title": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
+          "summary": "AI-generated memorials and chatbots that imitate deceased people are changing how some people grieve. Experts cited by The Guardian worry that these “AI ghosts” and synthetic tributes could lead more bereaved people to mourn in isolation.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/sep/09/streaming-from-the-cloud-was-meant-to-changes-games-forever-what-happened",
+              "url": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation",
               "source": "The Guardian Technology",
-              "headline": "Streaming from the cloud was meant to change games forever – what happened?",
-              "excerpt": "Once hailed as the future, even the likes of Google, Sony and Microsoft have struggled to make streaming games fun, fast or affordable • Don’t get Pushing Buttons delivered to your inbox? Sign up here In August 2009, at the very first Gamescom expo, I sat in a small meeting room in Germany and pla",
-              "imageUrl": "https://i.guim.co.uk/img/media/7b2927a72ad33e359a736440b1fc1f2eae168c11/229_0_4366_3492/master/4366.jpg?width=140&quality=85&auto=format&fit=max&s=fe302d63dd44d4849049e6748a83eda6",
-              "imageAlt": "Streaming from the cloud was meant to change games forever – what happened?",
+              "headline": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
+              "excerpt": "The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolation Tributes rolled in after the death of Dolly Parton last month. Jack White performed Jolene at a London gig. Kesha sang Old Flames (Can’t Hold a Candle to You), a single her m",
+              "imageUrl": "https://i.guim.co.uk/img/media/8875d66b138275dc460050fc37de8fc69fb67e79/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=19f84cbdb7aa715be76580a1dbbf7f1d",
+              "imageAlt": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -799,93 +896,59 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/7b2927a72ad33e359a736440b1fc1f2eae168c11/229_0_4366_3492/master/4366.jpg?width=140&quality=85&auto=format&fit=max&s=fe302d63dd44d4849049e6748a83eda6",
-          "imageAlt": "Streaming from the cloud was meant to change games forever – what happened?",
+          "imageUrl": "https://i.guim.co.uk/img/media/8875d66b138275dc460050fc37de8fc69fb67e79/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=19f84cbdb7aa715be76580a1dbbf7f1d",
+          "imageAlt": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Australia claims it is a global pioneer in preventing online harm – should other countries follow suit?",
-          "summary": "Australia presents itself as a global pioneer in preventing online harm, and Prime Minister Anthony Albanese is taking the country’s social-media reform agenda to discussions in the United States. The Guardian considers whether Australia’s approach offers a model that other countries should follow.",
+          "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+          "summary": "Cocaine-funded militias are carrying out attacks on civilians in Colombia eight years after a peace accord removed a major rebel group from the field. The Wall Street Journal attributes the continuing instability to state inaction that allowed powerful armed gangs to gain ground.",
           "links": [
             {
-              "url": "https://www.theguardian.com/media/2026/sep/19/australia-global-leader-online-safety-big-tech-ai-social-media",
-              "source": "The Guardian Technology",
-              "headline": "Australia claims it is a global pioneer in preventing online harm – should other countries follow suit?",
-              "excerpt": "As Anthony Albanese heads to the US to discuss social media reform, he has shown a level of leadership not always expected from a smaller country Get our new political email , free app or daily news podcast Statesmen, shysters, dictators. Over the years, the Uni",
-              "imageUrl": "https://i.guim.co.uk/img/media/3337e7f8e8c68aebecf5cc475619877d2de6b561/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d685eed593d1d8ccdf104585f0d11313",
-              "imageAlt": "Australia claims it is a global pioneer in preventing online harm – should other countries follow suit?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+              "source": "Wall Street Journal",
+              "headline": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+              "excerpt": "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
+              "imageUrl": "",
+              "imageAlt": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/3337e7f8e8c68aebecf5cc475619877d2de6b561/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d685eed593d1d8ccdf104585f0d11313",
-          "imageAlt": "Australia claims it is a global pioneer in preventing online harm – should other countries follow suit?",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying",
-          "summary": "Liberal MP Andrew Hastie says an AI system suggested he reply “congratulations!” to a terminally ill man who planned to use assisted dying. He cited the response as evidence of AI’s shortcomings, while Australia’s cyber chief told an inquiry that the technology is also needed to counter highly capable malicious cyber actors.",
+          "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+          "summary": "Fentanyl is increasingly being manufactured in and trafficked from Canada, drawing scrutiny from President Trump. The Wall Street Journal says the volumes remain small compared with Mexico, but the trend is turning the United States' northern neighbor into an exporter and political target.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying",
-              "source": "The Guardian Technology",
-              "headline": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying",
-              "excerpt": "Liberal MP speaks of AI’s shortcomings as cyber chief tells inquiry the tech is needed to fend off ‘highly capable malicious cyber actors’ Get our new political email , free app or daily news podcast When a man with a terminal illness wrote to his local MP Andre",
-              "imageUrl": "https://i.guim.co.uk/img/media/34734119f9d6178e94ad147c3dae613bf60a1e2b/613_0_4631_3707/master/4631.jpg?width=140&quality=85&auto=format&fit=max&s=9780279f6314b933a2fb5006f054b881",
-              "imageAlt": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+              "source": "Wall Street Journal",
+              "headline": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+              "excerpt": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+              "imageUrl": "",
+              "imageAlt": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/34734119f9d6178e94ad147c3dae613bf60a1e2b/613_0_4631_3707/master/4631.jpg?width=140&quality=85&auto=format&fit=max&s=9780279f6314b933a2fb5006f054b881",
-          "imageAlt": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored – podcast",
-          "summary": "A Guardian podcast traces the birth of the digital age and the belief that technology would create a more egalitarian society. It also examines early warnings that digital systems could threaten liberal democracy and asks why those concerns went unheeded.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/news/audio/2026/sep/14/democracy-v-machine-birth-digital-age-warnings-ignored-podcast",
-              "source": "The Guardian Technology",
-              "headline": "Democracy v the machine: the birth of the digital age and the warnings that were ignored – podcast",
-              "excerpt": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen? By Jill Lepore. Read by Laurel Lefkow Read the text version here Support the Guardian today: thegu",
-              "imageUrl": "https://i.guim.co.uk/img/media/649a756435dbd3c93e403544046ef977e9ac9ca4/714_0_3672_2939/master/3672.jpg?width=140&quality=85&auto=format&fit=max&s=fd0a958ee3992e9af8b68c4b482197f4",
-              "imageAlt": "Democracy v the machine: the birth of the digital age and the warnings that were ignored – podcast",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/649a756435dbd3c93e403544046ef977e9ac9ca4/714_0_3672_2939/master/3672.jpg?width=140&quality=85&auto=format&fit=max&s=fd0a958ee3992e9af8b68c4b482197f4",
-          "imageAlt": "Democracy v the machine: the birth of the digital age and the warnings that were ignored – podcast",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
