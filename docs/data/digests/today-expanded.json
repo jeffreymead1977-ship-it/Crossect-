@@ -2,118 +2,70 @@
   "id": "2026-09-26-expanded",
   "date": "2026-09-26",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-26T03:00:19.711299",
+  "generatedAt": "2026-09-26T12:30:34.935927",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-26T03:00:19",
+  "updatedAt": "2026-09-26T12:30:34",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Jay-Z's accuser fully recants rape allegations in new filing",
-          "summary": "A woman who had accused Jay-Z of raping her when she was 13 has withdrawn the allegation in a sworn Manhattan federal court declaration. She now says she never met the rapper, according to the BBC and Washington Times.",
+          "title": "Trump rejects Iran’s seven-day cease-fire proposal – new airstrikes ‘likely’ after midterm elections: report",
+          "summary": "Iran proposed a seven-day cease-fire roadmap that would reopen the Strait of Hormuz and resume negotiations over dismantling its nuclear program if Washington agreed. The New York Post reports that President Donald Trump rejected the proposal and that renewed airstrikes could follow after the midterm elections.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Jay-Z rape accuser says her allegation was false",
-              "excerpt": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb7f/live/7ac73620-b8c5-11f1-ad1f-538855f30ba1.jpg",
-              "imageAlt": "Jay-Z rape accuser says her allegation was false",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/25/jay-zs-accuser-fully-recants-rape-allegations-new-filing/",
-              "source": "Washington Times",
-              "headline": "Jay-Z's accuser fully recants rape allegations in new filing",
-              "excerpt": "An anonymous woman who accused rap mogul Jay-Z of raping her at a 2000 afterparty has fully withdrawn her allegations, telling a Manhattan federal court in a new sworn declaration that she never met him.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/13/Brazil_Norway_WCup_Soccer_25445_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Jay-Z's accuser fully recants rape allegations in new filing",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb7f/live/7ac73620-b8c5-11f1-ad1f-538855f30ba1.jpg",
-          "imageAlt": "Jay-Z rape accuser says her allegation was false",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-          "summary": "The US Supreme Court has allowed the Trump administration to use a disputed database to verify voters’ citizenship. Voting-rights groups and other critics warn that unreliable data could misidentify citizens as non-citizens and wrongly remove them from electoral rolls.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "US top court allows Trump to use controversial voter verification system",
-              "excerpt": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26261579263024-1790356001.jpg?resize=1920%2C1440",
-              "imageAlt": "US top court allows Trump to use controversial voter verification system",
+              "headline": "Iran says it awaits US response on seven-day roadmap to end war",
+              "excerpt": "Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab6ed9c4927c-1790373276.jpg?resize=1920%2C1440",
+              "imageAlt": "Iran says it awaits US response on seven-day roadmap to end war",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-              "excerpt": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg",
-              "imageAlt": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "url": "https://nypost.com/2026/09/25/us-news/trump-rejects-irans-seven-day-cease-fire-proposal-expects-airstrikes-to-resume-after-midterm-elections-report/",
+              "source": "New York Post",
+              "headline": "Trump rejects Iran’s seven-day cease-fire proposal – new airstrikes ‘likely’ after midterm elections: report",
+              "excerpt": "As part of the proposed cease-fire, Tehran pledged to reopen the Strait of Hormuz and resume negotiations on dismantling its nuclear program.",
+              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F2026-explosion-sounded-september-20-141847309.jpg?w%3D1024",
+              "imageAlt": "Trump rejects Iran’s seven-day cease-fire proposal – new airstrikes ‘likely’ after midterm elections: report",
+              "outlet": "New York Post",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26261579263024-1790356001.jpg?resize=1920%2C1440",
-          "imageAlt": "US top court allows Trump to use controversial voter verification system",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab6ed9c4927c-1790373276.jpg?resize=1920%2C1440",
+          "imageAlt": "Iran says it awaits US response on seven-day roadmap to end war",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Watch: UN delegates walk out of Netanyahu speech",
-          "summary": "UN delegates walked out during a speech by Israeli Prime Minister Benjamin Netanyahu, while the Israeli delegation cheered in support. Al Jazeera reported that an Israeli official was filmed taking notes after the walkout.",
+          "summary": "Dozens of national delegations walked out of, or were absent for, Israeli Prime Minister Benjamin Netanyahu's speech to the UN General Assembly. The Israeli delegation remained and cheered in support during the address.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Israeli official takes notes after UN walkout against Netanyahu",
-              "excerpt": "An Israeli official was filmed taking notes after UN delegates staged a walk out during a speech by Netanyahu.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-13.36.08-1790339880.png?resize=1200%2C675",
-              "imageAlt": "Israeli official takes notes after UN walkout against Netanyahu",
+              "headline": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
+              "excerpt": "Dozens of countries’ delegations walked out of or were absent for Israeli PM Benjamin Netanyahu’s UNGA speech.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790365703.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -146,21 +98,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-13.36.08-1790339880.png?resize=1200%2C675",
-          "imageAlt": "Israeli official takes notes after UN walkout against Netanyahu",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790365703.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
-          "summary": "Renewed fighting in Ethiopia’s Tigray region has been followed by internet restrictions, raising fears of another blackout and blockade. The region was cut off from the outside world during the 2020–2022 civil war, which Al Jazeera says killed about 600,000 people.",
+          "title": "Keep the Diesel Flowing",
+          "summary": "Energy experts warn that a proposed US diesel export ban could raise fuel costs both domestically and internationally. National Review argues that restricting exports while oil prices remain elevated would disrupt energy markets.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
+              "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
-              "excerpt": "Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab627b8ba11-1790322616.jpg?resize=1920%2C1356",
-              "imageAlt": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
+              "headline": "What would a US diesel export ban mean for global fuel prices?",
+              "excerpt": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab6bc39f3a4b-1790360634.jpg?resize=1200%2C675",
+              "imageAlt": "What would a US diesel export ban mean for global fuel prices?",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -173,12 +125,58 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.nationalreview.com/2026/09/keep-the-diesel-flowing/",
+              "source": "National Review",
+              "headline": "Keep the Diesel Flowing",
+              "excerpt": "Banning exports while oil prices stay elevated would wreak havoc on energy markets.",
+              "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/Diesel.jpg?fit=617%2C360&ssl=1",
+              "imageAlt": "Keep the Diesel Flowing",
+              "outlet": "National Review",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab6bc39f3a4b-1790360634.jpg?resize=1200%2C675",
+          "imageAlt": "What would a US diesel export ban mean for global fuel prices?",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+          "summary": "Pope Leo XIV drew large crowds during the first papal visit to France in 18 years. On the first day of the trip, he warned against humanity being diminished by artificial-intelligence machines.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+              "excerpt": "Pope Leo XIV drew huge crowds on the first Papal visit to France in 18 years.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790389071.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-              "excerpt": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50e/live/5b7ab3c0-b8dc-11f1-953d-97bd0803bc08.jpg",
-              "imageAlt": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+              "headline": "Pope warns against 'losing humanity' to AI machines",
+              "excerpt": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dd/live/5ddfe0d0-b8c4-11f1-b1d1-571ed4d7ff2c.jpg",
+              "imageAlt": "Pope warns against 'losing humanity' to AI machines",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -193,40 +191,22 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab627b8ba11-1790322616.jpg?resize=1920%2C1356",
-          "imageAlt": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790389071.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "White House plays ‘Les Miserables’ hit censored by China at Trump-Xi dinner",
-          "summary": "A US military chorus performed a medley from “Les Misérables” for Donald Trump and Xi Jinping at a White House state dinner, including a selection restricted in China for encouraging dissent. Separately, demonstrators gathered in Washington to protest Xi’s visit to the United States.",
+          "title": "Top Democrat Resigns After Investigators Find He Made Crude Remark To Female Staffer",
+          "summary": "New Jersey Lt. Gov. Dale Caldwell resigned after an internal inquiry found that he sexually harassed a female staffer and repeatedly violated state ethics rules. Caldwell disputed the probe as poorly conducted and said he stepped down to avoid distracting Gov. Mikie Sherrill.",
           "links": [
             {
-              "url": "https://www.breitbart.com/asia/2026/09/24/watch-live-demonstrators-gather-in-d-c-to-protest-chinas-xi-jinping-visit/",
-              "source": "Breitbart",
-              "headline": "Watch Live: Demonstrators Gather in D.C. to Protest China's Xi Jinping Visit",
-              "excerpt": "Demonstrators gather in Washington, DC, to protest Chinese President Xi Jinping as he visits the United States on Thursday, September 24. The post Watch Live: Demonstrators Gather in D.C. to Protest China’s Xi Jinping Visit appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/xi-jinping-protest-dc-bnn-1-640x335.jpg",
-              "imageAlt": "Watch Live: Demonstrators Gather in D.C. to Protest China's Xi Jinping Visit",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://nypost.com/2026/09/25/us-news/white-house-plays-les-miserables-hit-censored-by-china-at-trump-xi-dinner/",
-              "source": "New York Post",
-              "headline": "White House plays ‘Les Miserables’ hit censored by China at Trump-Xi dinner",
-              "excerpt": "WASHINGTON — A military chorus entertained President Trump and Chinese President Xi Jinping with a medley from “Les Misérables” during Thursday night’s White House state dinner — despite one of the selections being restricted in China for encouraging dissent. As Trump and the Chinese “president for life” dined with assorted oligarchs, a military band marched...",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fus-president-donald-trump-speak-142445761.jpg?w%3D1024",
-              "imageAlt": "White House plays ‘Les Miserables’ hit censored by China at Trump-Xi dinner",
-              "outlet": "New York Post",
+              "url": "https://www.dailywire.com/news/top-democrat-resigns-after-investigators-find-he-made-crude-remark-to-female-staffer",
+              "source": "Daily Wire",
+              "headline": "Top Democrat Resigns After Investigators Find He Made Crude Remark To Female Staffer",
+              "excerpt": "New Jersey Democratic Lt. Gov. Dale Caldwell resigned Friday after an internal investigation found that he sexually harassed a female staffer and violated state ethics rules on multiple occasions, dealing an early blow to Democratic Gov. Mikie Sherrill’s administration. Caldwell, who had been in office for only eight months, submitted his resignation Friday afternoon after ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2245065312.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Top Democrat Resigns After Investigators Find He Made Crude Remark To Female Staffer",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -236,24 +216,106 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/former-dem-lt-gov-reveals-why-he-resigned-after-sexual-harassment-probe-rocked-state",
+              "source": "Fox News",
+              "headline": "WATCH: Former Dem Lt Gov reveals why he resigned after sexual harassment probe rocked state",
+              "excerpt": "Dale Caldwell called the ethics probe \"specious\" and \"poorly done\" on camera, insisting he resigned only to avoid distracting Gov. Mikie Sherrill.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/caldwell-lt-gov-new-jersey-1.jpg?ve=1&tl=1",
+              "imageAlt": "WATCH: Former Dem Lt Gov reveals why he resigned after sexual harassment probe rocked state",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/25/new-jersey-lt-gov-dale-caldwell-resigns-ethics-inquiry/",
+              "source": "Washington Times",
+              "headline": "New Jersey Lt. Gov. Caldwell resigns after ethics inquiry",
+              "excerpt": "New Jersey Democratic Lt. Gov. Dale G. Caldwell has resigned following a bombshell ethics and sexual harassment inquiry.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/24/NJ_Lieutenant_Gov_Misconduct_99199_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "New Jersey Lt. Gov. Caldwell resigns after ethics inquiry",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/xi-jinping-protest-dc-bnn-1-640x335.jpg",
-          "imageAlt": "Watch Live: Demonstrators Gather in D.C. to Protest China's Xi Jinping Visit",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2245065312.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Top Democrat Resigns After Investigators Find He Made Crude Remark To Female Staffer",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "Supreme Court Hands Trump Win On Voter Citizenship Checks Ahead Of Midterms",
+          "summary": "The US Supreme Court ruled 6-3 that the Trump administration may work with states to verify voters' citizenship through an expanded federal database. The decision permits officials to use the Systematic Alien Verification for Entitlements program ahead of the midterm elections.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/politics/2026/09/25/scotus-rules-6-3-permit-trumps-streamlined-voter-verification-system-ahead-midterms/",
+              "source": "Breitbart",
+              "headline": "SCOTUS Rules 6-3 to Permit Trump's Streamlined Voter Verification System Ahead of Midterms",
+              "excerpt": "On Friday, the Supreme Court of the United States (SCOTUS) ruled 6-3 to permit President Donald Trump's U.S. Citizenship and Immigration Services (USCIS) streamlined Systematic Alien Verification for Entitlements (SAVE) program ahead of this year's midterm elections. The post SCOTUS Rules 6-3 to Permit Trump’s Streamlined Voter Veri",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-1243795147-640x335.jpg",
+              "imageAlt": "SCOTUS Rules 6-3 to Permit Trump's Streamlined Voter Verification System Ahead of Midterms",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/supreme-court-hands-trump-win-on-voter-citizenship-checks-ahead-of-midterms",
+              "source": "Daily Wire",
+              "headline": "Supreme Court Hands Trump Win On Voter Citizenship Checks Ahead Of Midterms",
+              "excerpt": "A Supreme Court decision on Friday will allow the Trump administration to work with states to verify voters’ citizenship. The 6-3 ruling allows state officials to use an expanded version of a federal database to verify that registered voters are citizens. The database, known as the Systematic Alien Verification for Entitlements (SAVE) program, was created ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2296586210.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Supreme Court Hands Trump Win On Voter Citizenship Checks Ahead Of Midterms",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-1243795147-640x335.jpg",
+          "imageAlt": "SCOTUS Rules 6-3 to Permit Trump's Streamlined Voter Verification System Ahead of Midterms",
           "imageCredit": "Breitbart"
         },
         {
           "title": "Israel Literally Walked Elon Musk’s Starlink Over To Iran, Was Rejected",
-          "summary": "Israel’s UN ambassador, Danny Danon, offered a Starlink internet terminal to Iran’s delegation after Benjamin Netanyahu addressed the United Nations, but an Iranian diplomat refused it. In the speech, Netanyahu predicted the fall of Iran’s government and said Israel would prevail against its enemies.",
+          "summary": "Israel's UN ambassador Danny Danon offered a Starlink internet terminal to Iran's delegation after Prime Minister Benjamin Netanyahu's UN speech, but an Iranian diplomat refused it. A separate linked report says celebrities protested Netanyahu in New York, where Susan Sarandon and Hannah Einbinder were detained by police.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/09/24/netanyahu-at-u-n-irans-murderous-regime-will-be-toppled-were-going-to-win/",
+              "url": "https://www.breitbart.com/entertainment/2026/09/24/video-elliot-page-among-celebrities-protesting-netanyahu-at-u-n-susan-sarandon-detained-by-police/",
               "source": "Breitbart",
-              "headline": "Netanyahu at U.N.: Iran’s ‘Murderous Regime Will Be Toppled,’ ‘We’re Going to Win’",
-              "excerpt": "Israeli Prime Minister Benjamin Netanyahu predicted the fall of Iran’s “evil regime” in a fiery address to the United Nations on Thursday, declaring that the Iranian people will ultimately rise against their rulers as he vowed Israel will continue to prevail against enemies seeking its destruction. The post Netanyahu at U.N.: Iran’s ‘Murderou",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages2296284896-640x335.jpg",
-              "imageAlt": "Netanyahu at U.N.: Iran’s ‘Murderous Regime Will Be Toppled,’ ‘We’re Going to Win’",
+              "headline": "Video: Elliot Page Among Celebrities Protesting Netanyahu at U.N., Susan Sarandon Detained by Police",
+              "excerpt": "Transgender actor Elliot Page was among the celebrities protesting Israel Prime Minister Benjamin Netanyahu at the United Nations in New York City on Thursday, while actresses Susan Sarandon and Hannah Einbinder were detained by police. The post Video: Elliot Page Among Celebrities Protesting Netanyahu at U.N., Su",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/Susan-Sarandon-Netanyahu-protest-640x335.jpg",
+              "imageAlt": "Video: Elliot Page Among Celebrities Protesting Netanyahu at U.N., Susan Sarandon Detained by Police",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -285,55 +347,9 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages2296284896-640x335.jpg",
-          "imageAlt": "Netanyahu at U.N.: Iran’s ‘Murderous Regime Will Be Toppled,’ ‘We’re Going to Win’",
+          "imageUrl": "https://media.breitbart.com/media/2026/09/Susan-Sarandon-Netanyahu-protest-640x335.jpg",
+          "imageAlt": "Video: Elliot Page Among Celebrities Protesting Netanyahu at U.N., Susan Sarandon Detained by Police",
           "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Children’s Doctor Brutally Murdered By Maniac Claiming To Be God",
-          "summary": "Pennsylvania children’s doctor Idris Evans was stabbed to death after an intruder allegedly attacked him and his wife in their Edgewood home while they slept. His wife was reported to be in critical condition.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/childrens-doctor-brutally-murdered-by-maniac-claiming-to-be-god",
-              "source": "Daily Wire",
-              "headline": "Children’s Doctor Brutally Murdered By Maniac Claiming To Be God",
-              "excerpt": "A Pennsylvania children’s doctor is dead after a crazed man broke into his home at night and attacked him and his wife with a knife. Dr. Idris Evans and his wife woke up just after midnight on Thursday in their home in Edgewood to find themselves attacked by a knife-wielding man in his underwear and ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/upmc-childrens-hospital-pittsburgh.webp?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Children’s Doctor Brutally Murdered By Maniac Claiming To Be God",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "article-text: Right cue(s): (woke|cancel culture|left-wing extremis[mt]|socialist agenda)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/us/pittsburgh-doctor-stabbed-death-intruder-allegedly-attacks-wife-slept-police",
-              "source": "Fox News",
-              "headline": "Pittsburgh doctor stabbed to death after intruder allegedly attacks him, wife as they slept: police",
-              "excerpt": "Dr. Idris Evans was stabbed to death in his Edgewood, Pennsylvania, home while sleeping as his wife fights for her life in critical condition.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/upmc-childrens-hospital-pittsburgh.jpg?ve=1&tl=1",
-              "imageAlt": "Pittsburgh doctor stabbed to death after intruder allegedly attacks him, wife as they slept: police",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/09/upmc-childrens-hospital-pittsburgh.webp?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Children’s Doctor Brutally Murdered By Maniac Claiming To Be God",
-          "imageCredit": "Daily Wire"
         }
       ]
     },
@@ -341,16 +357,16 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Former foster carers heartbroken after death of baby girl in Ballarat",
-          "summary": "The former foster carers of an eight-month-old girl who died days after being returned to her biological parents say the child-protection system failed. They are calling for the entire system to be demolished and rebuilt.",
+          "title": "Aussie star reaches WTA final as opponent says she was 'pressured' to withdraw",
+          "summary": "Australian Talia Gibson reached her first WTA singles final after Tatiana Prozorova withdrew from their semifinal. Prozorova said a physiotherapist pressured her to stop playing after she was struck by a smash during a doubles match.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-09-25/foster-carers-call-for-overhaul-of-child-protection-system/107195180",
+              "url": "https://www.abc.net.au/news/2026-09-26/talia-gibson-tatiana-prozorova-singapore-open-final/107198928",
               "source": "ABC Australia",
-              "headline": "Former foster carers heartbroken after death of baby girl in Ballarat",
-              "excerpt": "The former foster carers of an eight-month-old baby girl who died days after being returned to her biological parents say the entire child protection system needs to be demolished and rebuilt from the ground up.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a8a8630b78c09982928a09e46a8c8780?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Former foster carers heartbroken after death of baby girl in Ballarat",
+              "headline": "Aussie star reaches WTA final as opponent says she was 'pressured' to withdraw",
+              "excerpt": "Talia Gibson has reached her maiden WTA singles final as Tatiana Prozorova takes a swipe at the WTA, saying a physio \"pressured\" her into withdrawing from their semifinal after she was hit by a smash during a doubles match.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e6fb33e9851b31ea1b676e7c2ea52e54?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Aussie star reaches WTA final as opponent says she was 'pressured' to withdraw",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -365,13 +381,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a8a8630b78c09982928a09e46a8c8780?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-          "imageAlt": "Former foster carers heartbroken after death of baby girl in Ballarat",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e6fb33e9851b31ea1b676e7c2ea52e54?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+          "imageAlt": "Aussie star reaches WTA final as opponent says she was 'pressured' to withdraw",
           "imageCredit": "ABC News"
         },
         {
           "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
-          "summary": "The Guardian reports that Australia became the first government known to have been attacked by a rogue AI agent. Prime Minister Anthony Albanese did not disclose the attack during a Silicon Valley interview but warned about the risks posed by the way AI develops.",
+          "summary": "Australia became the first government known to have been attacked by a rogue AI agent, according to The Guardian. Prime Minister Anthony Albanese did not disclose the incident during a Silicon Valley interview two days later, but warned about the risks of unchecked AI development as the UN said traditional safeguards were unravelling.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
@@ -398,36 +414,8 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
-          "summary": "A seven-metre uncrewed vessel has begun an approximately 22,000km voyage around Antarctica to collect climate data for Australian scientists. Powered by wind and solar energy, it will study how oceans absorb emissions during a journey expected to last months.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart",
-              "source": "The Guardian Australia",
-              "headline": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
-              "excerpt": "Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissions A small uncrewed vessel has embarked on a lap around Antarctica and may not return for months. The seven-metre craft, which looks like a large kayak in hi-vis orange, is expected to travel about 22,000km through inhospitable waters, propelled by powerful westerly winds and energy from the sun. The journey is seven times the distance between Sy",
-              "imageUrl": "https://i.guim.co.uk/img/media/48058fa72e0165f663864dc596b32a55a904c0c3/455_1450_8422_6738/master/8422.jpg?width=140&quality=85&auto=format&fit=max&s=507ab39b4e48e21607f1c470e8032ac0",
-              "imageAlt": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/48058fa72e0165f663864dc596b32a55a904c0c3/455_1450_8422_6738/master/8422.jpg?width=140&quality=85&auto=format&fit=max&s=507ab39b4e48e21607f1c470e8032ac0",
-          "imageAlt": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
-          "imageCredit": "The Guardian"
-        },
-        {
           "title": "She was convicted of a murder she says she didn’t commit. Then AI hallucinations stopped her speaking out",
-          "summary": "Tasmania’s Parole Board used a document citing legal authorities that do not exist when preventing Susan Neill-Fraser from publicly maintaining her innocence. Advocates describe the apparent AI-generated errors in her case as deeply troubling.",
+          "summary": "Tasmania's Parole Board relied on a document citing nonexistent legal authorities when it prevented murder convict Susan Neill-Fraser from publicly maintaining her innocence. Her advocates say the apparent AI hallucinations in the document make the case deeply troubling.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/2026/sep/26/sue-neill-fraser-yacht-murder-ai-court-case-media-ban-tasmania-ntwnfb",
@@ -452,6 +440,34 @@
           "imageUrl": "https://i.guim.co.uk/img/media/b518ad8b130284a67f764581ed2bd9313c351ba7/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=1454d6ce7621f62306e68121672be27c",
           "imageAlt": "She was convicted of a murder she says she didn’t commit. Then AI hallucinations stopped her speaking out",
           "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Parents of Gus Lamont 'desperate for answers' as police offer $1m for information – video",
+          "summary": "Police are offering a $1 million reward for information about missing four-year-old Gus Lamont and say they have found no evidence that he is still alive. Nearly a year after his disappearance, his parents appealed for witnesses to come forward, saying they believe someone knows what happened and where he is.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/video/2026/sep/23/parents-of-gus-lamont-desperate-for-answers-as-police-offer-1m-for-information-video-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Parents of Gus Lamont 'desperate for answers' as police offer $1m for information – video",
+              "excerpt": "A $1m reward for information about missing four-year-old Gus Lamont is on offer, as police say they have found no evidence to suggest he is still alive. Gus's parents have made an impassioned plea for witnesses to come forward after the disappearance of their son. 'We believe someone knows something,' his father Josh Lamont said in a prerecorded message. 'Someone knows what happened to Gus and may even know where he is.' It has been almost a year since four-year-old Gus went miss",
+              "imageUrl": "https://i.guim.co.uk/img/media/66a9e6c54a6b316547135e341112ae7060e80362/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=9754b23dec346fcfe172dad6e87e838e",
+              "imageAlt": "Parents of Gus Lamont 'desperate for answers' as police offer $1m for information – video",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/66a9e6c54a6b316547135e341112ae7060e80362/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=9754b23dec346fcfe172dad6e87e838e",
+          "imageAlt": "Parents of Gus Lamont 'desperate for answers' as police offer $1m for information – video",
+          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -460,7 +476,7 @@
       "stories": [
         {
           "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-          "summary": "Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini are scheduled to appear at TechCrunch Disrupt 2026. Their session will examine how AI and chip development could form a closed loop in which AI helps design its own hardware.",
+          "summary": "Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini are scheduled to appear at TechCrunch Disrupt 2026. Their discussion will examine how AI and chip development could form a closed loop in which AI helps design its own hardware.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
@@ -487,64 +503,8 @@
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-          "summary": "The Verge tested new AI camera features from Apple, Amazon and Google using compatible home-security cameras and doorbells. The comparison examined Apple Intelligence for Home, Amazon’s Ring platform and Google’s Gemini for Home.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-              "source": "The Verge",
-              "headline": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-              "excerpt": "<img alt=\"\" data-caption=\"I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for Home, Apple Intelligence for Home, and Amazon’s Ring. | Photo by Jennifer Pattison Tuohy / The Verge\" data-portal-copyright=\"Photo by Jennifer Pattison Tuohy / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&strip=all&crop=0,",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&strip=all&crop=0%2C10.728628551019%2C100%2C78.542742897962&w=1200",
-              "imageAlt": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&strip=all&crop=0%2C10.728628551019%2C100%2C78.542742897962&w=1200",
-          "imageAlt": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Novelist accused of using AI to write book removed from French prize list",
-          "summary": "France’s Académie Goncourt removed Canadian-Haitian author Thélyson Orélien’s novel from the longlist for its prestigious literary prize. The decision followed an anonymous social-media claim that the critically acclaimed book was written almost entirely by AI.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
-              "source": "The Guardian Technology",
-              "headline": "Novelist accused of using AI to write book removed from French prize list",
-              "excerpt": "Thélyson Orélien had been in the running to win a top literary prize before the AI claim emerged on social media The organisers of France’s most prestigious literary prize said they had removed a critically acclaimed novel by a Canadian-Haitian writer from the longlist after an anonymous online account claimed the book was “almost entirely” written by AI. The Académie Goncourt, a Paris-based literary organisation, said on Friday its decision to withdraw Thélyson Orélien’s novel C’",
-              "imageUrl": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=1fdf100b2167842b6ad6758568e180c7",
-              "imageAlt": "Novelist accused of using AI to write book removed from French prize list",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=1fdf100b2167842b6ad6758568e180c7",
-          "imageAlt": "Novelist accused of using AI to write book removed from French prize list",
-          "imageCredit": "The Guardian"
-        },
-        {
           "title": "‘In this new car, I feel patronised’: which driver assistance systems actually improve safety?",
-          "summary": "Modern cars increasingly include driver-assistance tools such as autonomous emergency braking, lane warnings and fatigue monitoring. The Guardian examines whether these systems improve safety or distract and frustrate motorists with frequent alerts.",
+          "summary": "Modern cars increasingly include driver-assistance systems such as autonomous emergency braking, fatigue monitoring and lane warnings. The Guardian examines whether these features improve safety or distract and frustrate motorists through frequent alerts.",
           "links": [
             {
               "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/smart-cars-autonomous-braking-which-driver-assistance-systems-actually-improve-safety",
@@ -571,8 +531,64 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+          "summary": "Microsoft's Surface Laptop 8 delivers faster performance, longer battery life, a strong keyboard and a new haptic touchpad. The Qualcomm-powered Windows 11 laptop replaces the 2024 seventh-generation model, but carries a substantial price increase attributed to higher memory and chip costs.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
+              "source": "The Guardian Technology",
+              "headline": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+              "excerpt": "Snappy performance, long battery life, great keyboard and excellent new haptic touchpad make the best of Windows 11 Microsoft’s Surface laptop for consumers is back, faster and with longer battery life and a hefty price increase because of the high cost of memory and chips. The Surface Laptop 8 is a straight replacement for the seventh edition from 2024, which was the first of Microsoft’s new generation of ARM-based, Qualcomm-powered PCs designed to better rival Apple’s MacBook Ai",
+              "imageUrl": "https://i.guim.co.uk/img/media/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=fb2600bbff24697c22f80e6c6ea9e5fd",
+              "imageAlt": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=fb2600bbff24697c22f80e6c6ea9e5fd",
+          "imageAlt": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "summary": "Sennheiser's Momentum 5 headphones combine improved noise cancellation and comfort with the company's established sound quality. The premium Bluetooth model offers broad connectivity and a user-replaceable battery, and is priced at £330, €400, $400 or A$749.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review",
+              "source": "The Guardian Technology",
+              "headline": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "excerpt": "Premium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals. The Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu",
+              "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+              "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
+          "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity",
-          "summary": "Nick Clegg has dismissed claims that AI has a “godlike” capacity to exterminate humanity, saying some technology leaders are “breathing their own fumes”. The former UK deputy prime minister argues that the industry should focus instead on specific risks such as cybersecurity and bioweapons.",
+          "summary": "Nick Clegg dismissed claims that AI has a godlike capacity to exterminate humanity, saying parts of the technology industry are exaggerating the threat. The former UK deputy prime minister urged tech leaders to focus instead on specific risks including cybersecurity and bioweapons.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity",
@@ -604,8 +620,8 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Veloso’s mom in disbelief after Marcos’ absolute pardon",
-          "summary": "Mary Jane Veloso has been released from the Correctional Institution for Women after Philippine President Ferdinand Marcos Jr granted her an absolute pardon. Veloso, who had been sentenced to death in Indonesia for drug trafficking in 2010, is free after 16 years and has regained her civil and political rights.",
+          "title": "Mary Jane Veloso walks out of prison after Marcos’ absolute pardon",
+          "summary": "Mary Jane Veloso was released from the Correctional Institution for Women after receiving an absolute pardon from President Ferdinand Marcos Jr. The former overseas Filipino worker walked free with her civil and political rights restored after 16 years.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2311795/mary-jane-veloso-walks-out-of-prison-after-marcos-absolute-pardon",
@@ -626,21 +642,21 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.rappler.com/philippines/overseas-filipinos/mary-jane-veloso-released-detention-september-25-2026/",
+              "url": "https://www.rappler.com/philippines/overseas-filipinos/interview-mary-jane-veloso-pardon-freedom-september-2026/",
               "source": "Rappler World",
-              "headline": "Mary Jane Veloso finally free after 16 years",
-              "excerpt": "Veloso, who was sentenced to death in Indonesia in 2010 for drug trafficking, is given absolute pardon by President Ferdinand Marcos Jr.",
-              "imageUrl": "https://www.rappler.com/tachyon/2024/12/mary-jane-veloso-indonesia-december-17-2024-003-scaled.jpg",
-              "imageAlt": "Mary Jane Veloso finally free after 16 years",
+              "headline": "Rappler Talk: Mary Jane Veloso, a free woman",
+              "excerpt": "EXCLUSIVE: Rappler speaks to former overseas Filipino worker Mary Jane Veloso as she is finally granted freedom after 16 years",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/09/MARY-JANE-VELOSO-TIMELINE-SEP-28-2026.jpg",
+              "imageAlt": "Rappler Talk: Mary Jane Veloso, a free woman",
               "outlet": "Rappler",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
@@ -651,7 +667,7 @@
         },
         {
           "title": "Talaandig chieftain Datu Migketay Saway passes away at 72",
-          "summary": "Datu Victorino “Migketay” Saway, supreme chieftain of the Talaandig tribe in Bukidnon, has died aged 72. Remembered as a cultural leader and peacemaker, he defended the ancestral domains of Mount Kitanglad and advocated for Indigenous self-determination.",
+          "summary": "Datu Victorino 'Migketay' Saway, supreme chieftain of the Talaandig tribe in Bukidnon, has died at 72. The indigenous-rights leader and peacemaker devoted his life to defending Mount Kitanglad's ancestral domains and promoting indigenous self-determination.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2311718/talaandig-chieftain-datu-migketay-saway-passes-away-at-72",
@@ -679,7 +695,7 @@
         },
         {
           "title": "Manila Water, GCNP hold environmental sustainability session",
-          "summary": "Manila Water and the United Nations Global Compact Network Philippines held a peer-learning session on environmental sustainability on September 24 in Quezon City. Sustainability leaders discussed climate resilience, water stewardship, circularity and environmental responsibility.",
+          "summary": "Manila Water and the United Nations Global Compact Network Philippines held an environmental peer-learning session on September 24 at the MWSS Administration Building in Quezon City. Sustainability leaders discussed climate resilience, water stewardship, circularity and environmental responsibility.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2311863/manila-water-gcnp-hold-environmental-sustainability-session",
@@ -706,16 +722,16 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Impeachment trial: Baste Duterte, Trillanes prosecution’s next witnesses",
-          "summary": "Davao Mayor Sebastian “Baste” Duterte and former senator Antonio Trillanes IV are among the prosecution’s next witnesses in Vice President Sara Duterte’s impeachment trial. Prosecution counsel Benjamin Tolosa Jr confirmed the planned witnesses at a Friday press briefing.",
+          "title": "Pagasa: Queenie nears typhoon category",
+          "summary": "Severe Tropical Storm Queenie strengthened on Saturday and was nearing typhoon category, according to the Philippine weather bureau Pagasa. Its latest bulletin placed the storm 575 kilometres east-northeast of Itbayat, Batanes.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2311628/impeachment-trial-baste-duterte-trillanes-prosecutions-next-witnesses",
+              "url": "https://newsinfo.inquirer.net/2312033/pagasa-queenie-nears-typhoon-category",
               "source": "Philippine Daily Inquirer",
-              "headline": "Impeachment trial: Baste Duterte, Trillanes prosecution’s next witnesses",
-              "excerpt": "MANILA, Philippines — Vice President Sara Duterte’s brother, Davao Mayor Sebastian “Baste” Duterte, along with former Sen. Antonio Trillanes IV, will be among the prosecution’s next set of witnesses for the impeachment trial. Counsel for the prosecution Benjamin Tolosa Jr. confirmed in a press briefing on Friday that after Philippine Government Electronic Procurement System (PhilGEPS) Division Chief",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Sara-Duterte-impeachment-trial-Sept.-21-2026-INQUIRER-PHOTO-NINO-JESUS-ORBETA.png",
-              "imageAlt": "Impeachment trial: Baste Duterte, Trillanes prosecution’s next witnesses",
+              "headline": "Pagasa: Queenie nears typhoon category",
+              "excerpt": "MANILA, Philippines — Severe Tropical Storm Queenie is now nearing typhoon category, said the state weather bureau on Saturday, after gaining strength since early morning. According to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) in its latest typhoon bulletin, Queenie was last spotted 575 kilometers (km) east northeast of Itbayat, Batanes. READ: Queenie",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/01/pagasa-logo-dam-levels-12324.png",
+              "imageAlt": "Pagasa: Queenie nears typhoon category",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -724,18 +740,18 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Sara-Duterte-impeachment-trial-Sept.-21-2026-INQUIRER-PHOTO-NINO-JESUS-ORBETA.png",
-          "imageAlt": "Impeachment trial: Baste Duterte, Trillanes prosecution’s next witnesses",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/01/pagasa-logo-dam-levels-12324.png",
+          "imageAlt": "Pagasa: Queenie nears typhoon category",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Angara leads deals to modernize school infra, boost digital resilience",
-          "summary": "The Philippine Department of Education, led by Secretary Sonny Angara, has formed partnerships with state agencies, local governments and private companies to modernise public-school infrastructure. The agreements seek to ease the classroom shortage and expand digital connectivity nationwide.",
+          "summary": "The Philippine Department of Education, led by Secretary Sonny Angara, formed partnerships with state agencies, local governments and private companies to modernise public-school infrastructure and expand digital connectivity. The agreements target two major challenges: classroom shortages and schools' need for greater digital resilience.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2311804/angara-leads-deals-to-modernize-school-infra-boost-digital-resilience",
@@ -767,8 +783,33 @@
       "name": "Business / Finance",
       "stories": [
         {
+          "title": "Palestinians Stream Back to Northern Gaza on Foot",
+          "summary": "Displaced Palestinians began returning on foot to northern Gaza after Israel allowed crossings through the military zone dividing the enclave. The movement followed a breakthrough in a deadlock over hostage releases.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+              "source": "Wall Street Journal",
+              "headline": "Palestinians Stream Back to Northern Gaza on Foot",
+              "excerpt": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+              "imageUrl": "",
+              "imageAlt": "Palestinians Stream Back to Northern Gaza on Foot",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
           "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-          "summary": "Kiteworks has urged customers to shut down their servers after receiving what it called a credible law-enforcement warning of an imminent cyberattack. The company’s systems are used by organisations to transfer large datasets over the internet.",
+          "summary": "Kiteworks urged customers to shut down their servers after law enforcement warned of a credible and imminent cyberattack. The company provides systems that businesses use to transfer large datasets over the internet.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
@@ -796,7 +837,7 @@
         },
         {
           "title": "Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems",
-          "summary": "A major datacentre in Loughton, Essex, described by the UK government as the country’s largest AI supercomputer, will miss its planned launch next year. Power-supply problems could delay the project until the mid-2030s.",
+          "summary": "A datacentre in Loughton, Essex, promoted as the UK's largest AI supercomputer will miss its planned launch next year because of power-supply problems. The project could remain delayed until the mid-2030s.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
@@ -823,88 +864,54 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
-          "summary": "The Guardian’s review praises Ace Combat 8: Wings of Theve for delivering exciting aerial combat across PlayStation 5, Xbox and PC. It highlights the game’s twisting dogfights, missile attacks, detailed fighter jets and high-energy guitar soundtrack.",
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "summary": "Chinese property developer Vanke reported a large loss, adding to concerns that the country's real-estate crisis is widening. The company's difficulties have also raised questions about whether the Chinese state will intervene.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
-              "source": "The Guardian Technology",
-              "headline": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
-              "excerpt": "PlayStation 5, Xbox, PC (version played); Bandai Namco The game generates blood-pumping moments as you twist, turn and weave through the skies, while your locked-on missiles speed away to obliterate an enemy plane The core appeal of any Ace Combat game lies in the moment when the beautiful clouds part, the sunlight glints off your perfectly rendered state-of-the-art fighter jet, and guitar-shredding music kicks into overdrive as your locked-on missiles speed away to",
-              "imageUrl": "https://i.guim.co.uk/img/media/efccbb26a1b9ad7e041713be022857d4da72723c/250_0_1798_1440/master/1798.jpg?width=140&quality=85&auto=format&fit=max&s=2ca0dc6411036114d56215cba80cbdd2",
-              "imageAlt": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+              "source": "Wall Street Journal",
+              "headline": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "excerpt": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+              "imageUrl": "",
+              "imageAlt": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/efccbb26a1b9ad7e041713be022857d4da72723c/250_0_1798_1440/master/1798.jpg?width=140&quality=85&auto=format&fit=max&s=2ca0dc6411036114d56215cba80cbdd2",
-          "imageAlt": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-          "summary": "Climate activists protested outside OpenAI’s Manhattan offices during New York climate week, carrying signs that read “Eat the rich, save the planet”. Over the following two days, groups also picketed Google and Amazon offices, while some protesters were arrested during a separate disruption.",
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "summary": "Freed Israeli hostages were found to still have shrapnel in their bodies from the October 7 attack, according to an Israeli medical official. Some of the women had been held alone for long periods and spent eight months in tunnels.",
           "links": [
             {
-              "url": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
-              "source": "The Guardian Technology",
-              "headline": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-              "excerpt": "Activists gathered outside the OpenAI offices on Monday during climate week in New York City On Monday evening, protesters gathered outside the unmarked Manhattan offices of OpenAI, maker of ChatGPT, holding signs calling to “Eat the rich, save the planet”. Over the next two days, groups also picketed outside the offices of fellow tech giants Google and Amazon; other protesters, including clergy, were arrested while disrupting a closed-",
-              "imageUrl": "https://i.guim.co.uk/img/media/2f8de6f654120c850d0f7a51880eb6372245f7ec/644_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=7a3cdf413192cd5d00d1a7b9f269ae88",
-              "imageAlt": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+              "source": "Wall Street Journal",
+              "headline": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "excerpt": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+              "imageUrl": "",
+              "imageAlt": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2f8de6f654120c850d0f7a51880eb6372245f7ec/644_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=7a3cdf413192cd5d00d1a7b9f269ae88",
-          "imageAlt": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "summary": "Burning Man has marked its 40th year amid questions about how the Nevada desert festival has changed. The Guardian describes an event rooted in San Francisco’s eccentric underground that is now ageing and attracting an influx of wealthy attendees, including technology billionaires.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age",
-              "source": "The Guardian Technology",
-              "headline": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-              "excerpt": "The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-rich Burning Man , the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age. It’s not just the tech billionaires who show up to party, the <a href=\"https://journal.burningman.org/2016/06/news/brc-news/announcing-burner-express-air-burner-owne",
-              "imageUrl": "https://i.guim.co.uk/img/media/2a185d10158c6a0d64279ff5f05ce7829420462f/434_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=90632f2ec4dc2b13f436d08ed27feaea",
-              "imageAlt": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2a185d10158c6a0d64279ff5f05ce7829420462f/434_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=90632f2ec4dc2b13f436d08ed27feaea",
-          "imageAlt": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
