@@ -2,24 +2,107 @@
   "id": "2026-09-27-expanded",
   "date": "2026-09-27",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-27T03:00:25.780210",
+  "generatedAt": "2026-09-27T12:30:08.277060",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-27T03:00:25",
+  "updatedAt": "2026-09-27T12:30:08",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Report: Trump Rejects Iran 7-Day Hormuz Proposal, Expects to Renew Strikes After Midterms",
-          "summary": "President Donald Trump rejected Iran’s proposed seven-day arrangement to reopen the Strait of Hormuz, describing Tehran’s offer as a sign that it was losing the war. Breitbart reported that Trump told aides he expected US strikes on Iran to resume after the November midterm elections, while the Washington Times characterized the proposal as a seven-day ceasefire.",
+          "title": "Four Americans dead after building collapses near the Acropolis in Athens",
+          "summary": "Six people, including four American tourists, a British man and his Greek wife, were killed in a building explosion near the Acropolis in Athens. Greek authorities initially believed a natural-gas leak caused the blast, which also reportedly injured several people.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Trump rejects Iranian offer to reopen Strait of Hormuz",
-              "excerpt": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790445626.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+              "headline": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
+              "excerpt": "Two women reportedly injured after building collapse in Athens' historic Plaka district.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26269262641752-1790459501.jpg?resize=1920%2C1440",
+              "imageAlt": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "British national among six dead in building explosion close to Acropolis in Athens",
+              "excerpt": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e5/live/83c97ed0-b9ac-11f1-8a1a-0176f978c211.png",
+              "imageAlt": "British national among six dead in building explosion close to Acropolis in Athens",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/crime/4744297/four-americans-dead-building-collapses-athens/",
+              "source": "Washington Examiner",
+              "headline": "Four Americans dead after building collapses near the Acropolis in Athens",
+              "excerpt": "Four American tourists died on Friday after a building collapsed due to a gas explosion in Athens, Greece, in a neighborhood near the Acropolis. “I am deeply saddened to learn of the death of four American citizens in yesterday’s explosion in central Athens,” U.S. Ambassador to the Hellenic Republic Kimberly Guilfoyle said in a statement […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26269263754059-e1790457768593.jpg?w=696",
+              "imageAlt": "Four Americans dead after building collapses near the Acropolis in Athens",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/26/explosion-athens-kills-six-including-four-american-tourists-injures/",
+              "source": "Washington Times",
+              "headline": "Explosion in Athens kills six, including four American tourists, and injures three others",
+              "excerpt": "A building explosion in Athens killed four Americans, a British man and his Greek wife. Following an initial investigation, Greek authorities believe a natural gas leak caused the blast.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/26/Greece_Athens_Explosion_63964_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Explosion in Athens kills six, including four American tourists, and injures three others",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26269262641752-1790459501.jpg?resize=1920%2C1440",
+          "imageAlt": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Report: Trump Rejects Iran 7-Day Hormuz Proposal, Expects to Renew Strikes After Midterms",
+          "summary": "President Donald Trump rejected Iran’s proposed seven-day plan to reopen the Strait of Hormuz, according to the reports. Iran’s foreign minister said Tehran was still awaiting an official response through mediators, while Breitbart reported that Trump told aides he expected US strikes to resume after the November midterm elections.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
+              "excerpt": "Iran says it’s still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790470220.jpg?resize=1200%2C675",
+              "imageAlt": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -35,7 +118,7 @@
               "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
               "headline": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-              "excerpt": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+              "excerpt": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
               "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
               "imageAlt": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
               "outlet": "BBC",
@@ -67,15 +150,43 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790470220.jpg?resize=1200%2C675",
+          "imageAlt": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Trump to set new fuel economy standards and undo Biden-era ‘EV mandate’",
+          "summary": "President Donald Trump said he had approved new US fuel-economy standards that would reverse Biden-era rules designed to encourage electric-vehicle adoption. He described the change as ending a so-called “EV mandate” and framed it as beneficial to workers and consumers.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+              "excerpt": "The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab8317e53261-1790456190.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/26/trump-rejects-iranian-ceasefire-offer/",
-              "source": "Washington Times",
-              "headline": "Trump rejects Iranian ceasefire offer",
-              "excerpt": "President Trump has turned down a seven-day ceasefire proposed by Iran.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/26/Trump_91596_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump rejects Iranian ceasefire offer",
-              "outlet": "Washington Times",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4744317/trump-fuel-economy-standards-biden-electric-vehicles/",
+              "source": "Washington Examiner",
+              "headline": "Trump to set new fuel economy standards and undo Biden-era ‘EV mandate’",
+              "excerpt": "President Donald Trump said on Saturday night he plans to scrap former President Joe Biden’s fuel economy standards meant to incentivize electric vehicle adoption, framing it as a “BIG DAY” for both workers and consumers. “I have just approved new Fuel Economy Standards that TERMINATE Sleepy Joe Biden and [former Transportation Secretary] Pete Boot-Edge-Edge’s ridiculous […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/trump-cnn-air-force-one.jpg?w=696",
+              "imageAlt": "Trump to set new fuel economy standards and undo Biden-era ‘EV mandate’",
+              "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -88,21 +199,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790445626.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab8317e53261-1790456190.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Four American Tourists Among Six Killed in Athens Building Blast",
-          "summary": "Six people, including four American tourists, a British national and a Greek national, were killed when an explosion brought down a small residential building near the Acropolis in Athens. Officials cited by the BBC said the blast was suspected to have been caused by gas.",
+          "title": "'Strong' Nor'easter Impacts East Coast, Millions at Risk of 'Dangerous' Coastal Flooding, High Winds, Storm Surges",
+          "summary": "A powerful nor’easter brought heavy rain, strong winds, rip currents and dangerous coastal flooding to the US East Coast. New York and New Jersey declared emergencies as tens of millions of people from Maine to Virginia faced the storm’s effects.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "British national among six dead in building explosion close to Acropolis in Athens",
-              "excerpt": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e5/live/83c97ed0-b9ac-11f1-8a1a-0176f978c211.png",
-              "imageAlt": "British national among six dead in building explosion close to Acropolis in Athens",
+              "headline": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+              "excerpt": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
+              "imageAlt": "Nor'easter brings flooding as New York and New Jersey declare emergency",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -111,37 +222,84 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/09/26/four-american-tourists-among-six-killed-in-athens-building-blast/",
+              "url": "https://www.breitbart.com/pre-viral/2026/09/26/strong-noreaster-impacts-east-coast-millions-at-risk-of-dangerous-coastal-flooding-high-winds-storm-surges/",
               "source": "Breitbart",
-              "headline": "Four American Tourists Among Six Killed in Athens Building Blast",
-              "excerpt": "Four American tourists visiting Greece were among six people confirmed dead Saturday after a blast brought down the small Athens residential building they had been staying in near the Acropolis, officials said. The post Four American Tourists Among Six Killed in Athens Building Blast appeared first on <a rel=\"nofollow\" href=\"https://www.breitbart.",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2296629949-2-640x335.jpg",
-              "imageAlt": "Four American Tourists Among Six Killed in Athens Building Blast",
+              "headline": "'Strong' Nor'easter Impacts East Coast, Millions at Risk of 'Dangerous' Coastal Flooding, High Winds, Storm Surges",
+              "excerpt": "A \"strong\" nor'easter is slamming the north east United States, impacting millions as the storm brings heavy rain, strong wind gusts, rip currents, and \"dangerous\" coastal flooding. The post ‘Strong’ Nor’easter Impacts East Coast, Millions at Risk of ‘Dangerous’ Coastal Flooding, High Winds, Storm Surges",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/AP26268625770081-640x335.png",
+              "imageAlt": "'Strong' Nor'easter Impacts East Coast, Millions at Risk of 'Dangerous' Coastal Flooding, High Winds, Storm Surges",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e5/live/83c97ed0-b9ac-11f1-8a1a-0176f978c211.png",
-          "imageAlt": "British national among six dead in building explosion close to Acropolis in Athens",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
+          "imageAlt": "Nor'easter brings flooding as New York and New Jersey declare emergency",
           "imageCredit": "BBC"
         },
         {
-          "title": "Trump trolls reporter: I don’t want fake news ‘like you’",
-          "summary": "President Donald Trump told a reporter he wanted “real news, not fake news, like you” before boarding Air Force One for a trip to Tennessee. The exchange came as the White House barred CNN, which had been scheduled to travel with Trump, from the flight.",
+          "title": "Watch: Bangkok declared flood disaster zone",
+          "summary": "Bangkok was declared a disaster zone after days of heavy rain caused widespread flooding and submerged roads. Emergency measures were put in place across Thailand’s inundated capital.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Bangkok declared disaster zone after heavy rains submerge roads",
+              "excerpt": "Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790479964.jpg?resize=1200%2C675",
+              "imageAlt": "Bangkok declared disaster zone after heavy rains submerge roads",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Bangkok roads submerged as flood disaster declared",
+              "excerpt": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b19/live/342eea60-b978-11f1-97d9-a9cee45390c5.jpg",
+              "imageAlt": "Bangkok roads submerged as flood disaster declared",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790479964.jpg?resize=1200%2C675",
+          "imageAlt": "Bangkok declared disaster zone after heavy rains submerge roads",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "White House Removes CNN from Air Force One for Trump's Tennessee Trip",
+          "summary": "The White House barred CNN from travelling aboard Air Force One for President Donald Trump’s Saturday trip to Tennessee. CNN had been scheduled to accompany the president to a football game there.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
@@ -163,21 +321,21 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/entertainment/4744106/trump-trolls-reporter-i-dont-want-fake-news-like-you/",
-              "source": "Washington Examiner",
-              "headline": "Trump trolls reporter: I don’t want fake news ‘like you’",
-              "excerpt": "President Donald Trump fired back at a reporter Saturday before boarding Air Force One for the University of Tennessee vs. the University of Texas college football game. “I want real news, not fake news, like you,” Trump said when asked if he only wanted to be surrounded by outlets that support him. “Listen, I want […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26269515862693.jpg?w=696",
-              "imageAlt": "Trump trolls reporter: I don’t want fake news ‘like you’",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "url": "https://www.breitbart.com/the-media/2026/09/26/white-house-removes-cnn-air-force-one-trumps-tennessee-trip/",
+              "source": "Breitbart",
+              "headline": "White House Removes CNN from Air Force One for Trump's Tennessee Trip",
+              "excerpt": "The White House dropped CNN from traveling with President Donald Trump on Air Force One to attend a football game in Tennessee on Saturday. The post White House Removes CNN from Air Force One for Trump’s Tennessee Trip appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages2296657485-640x335.jpg",
+              "imageAlt": "White House Removes CNN from Air Force One for Trump's Tennessee Trip",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
@@ -187,54 +345,8 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "At Least Seven Killed as Russia and Ukraine Trade Aerial Strikes",
-          "summary": "Russia and Ukraine traded aerial attacks, with Breitbart reporting that Russian strikes killed four people across Ukraine and Ukrainian attacks killed at least three in Krasnodar. Al Jazeera put the combined death toll at at least 10 and said Russia’s foreign minister accused Europe of obstructing peace talks.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "At least 10 people killed in Russian and Ukrainian attacks",
-              "excerpt": "New strikes come as Russian FM accuses Europe of doing 'everything it can to thwart peace talks' with Ukraine.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7de84d692-1790434948.jpg?resize=1920%2C1440",
-              "imageAlt": "At least 10 people killed in Russian and Ukrainian attacks",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.breitbart.com/europe/2026/09/26/at-least-seven-killed-as-russia-and-ukraine-trade-aerial-strikes/",
-              "source": "Breitbart",
-              "headline": "At Least Seven Killed as Russia and Ukraine Trade Aerial Strikes",
-              "excerpt": "Russian attacks killed four people across Ukraine Saturday, officials said, as Ukraine killed at least three in Krasnodar. The post At Least Seven Killed as Russia and Ukraine Trade Aerial Strikes appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2297230319-2-640x335.jpg",
-              "imageAlt": "At Least Seven Killed as Russia and Ukraine Trade Aerial Strikes",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7de84d692-1790434948.jpg?resize=1920%2C1440",
-          "imageAlt": "At least 10 people killed in Russian and Ukrainian attacks",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Body of 10th woman found in South Africa as killings investigation continues",
-          "summary": "South African police found another woman’s body near Johannesburg, bringing the number of victims in a series of killings under investigation to 10. The discovery comes amid concern over South Africa’s high rate of femicide.",
+          "title": "Tenth woman's body found as South Africa police probe killings",
+          "summary": "South African police found the body of a tenth woman near Johannesburg as they investigated a series of killings. The deaths have prompted national outrage over violence against women in a country with one of the world’s highest femicide rates.",
           "links": [
             {
               "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
@@ -255,58 +367,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/26/body-10th-woman-found-south-africa-killings-investigation-continues/",
-              "source": "Washington Times",
-              "headline": "Body of 10th woman found in South Africa as killings investigation continues",
-              "excerpt": "South African police said Saturday that another woman's body had been found near Johannesburg, bringing to 10 the number of victims in a series of killings under investigation.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/26/South_Africa_Killings_Explainer_48578_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Body of 10th woman found in South Africa as killings investigation continues",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aae7928c3bb-1789819176.jpg?resize=1920%2C1440",
-          "imageAlt": "South African police discover body of 10th woman near Johannesburg",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-          "summary": "Pope Leo praised young people’s “energy and commitment” during a large open-air Mass in central Paris. The Vatican estimated that about 700,000 people attended as the pope continued a four-day tour of France.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
-              "excerpt": "Vatican estimates 700,000 people in attendance as the Catholic religious leader continues four-day tour of France.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab7db81-1790434177.jpg?resize=1920%2C1440",
-              "imageAlt": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-              "excerpt": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg",
-              "imageAlt": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+              "headline": "Tenth woman's body found as South Africa police probe killings",
+              "excerpt": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2323/live/c5e43700-b9d0-11f1-b9a2-c51fbcac2d8e.jpg",
+              "imageAlt": "Tenth woman's body found as South Africa police probe killings",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -321,55 +387,9 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab7db81-1790434177.jpg?resize=1920%2C1440",
-          "imageAlt": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aae7928c3bb-1789819176.jpg?resize=1920%2C1440",
+          "imageAlt": "South African police discover body of 10th woman near Johannesburg",
           "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "US and China make deal cutting tariffs on $30 billion worth of goods",
-          "summary": "The United States and China agreed to reduce tariffs covering $30 billion in goods following a three-day Washington summit between President Donald Trump and President Xi Jinping. The talks also produced a two-year coal deal and progress on artificial-intelligence discussions, according to the Washington Examiner.",
-          "links": [
-            {
-              "url": "https://www.foxnews.com/politics/us-china-strike-deal-lower-tariffs-30b-goods-trump-xi-washington-summit",
-              "source": "Fox News",
-              "headline": "US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit",
-              "excerpt": "The United States and China agreed to slash tariffs on $30 billion in goods after Trump and Xi Jinping's three-day Washington summit this week.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-xi-joint-base-andrews.jpg?ve=1&tl=1",
-              "imageAlt": "US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/world/4744099/us-china-deal-cut-tariff-30-billion-good/",
-              "source": "Washington Examiner",
-              "headline": "US and China make deal cutting tariffs on $30 billion worth of goods",
-              "excerpt": "The United States and China have cut several deals during President Donald Trump’s visit with Chinese President Xi Jinping in Washington, D.C., this week, including finalizing a $30 billion tariff agreement, a two-year coal deal, and advancing artificial intelligence talks. Trump and Xi have had a complicated relationship throughout their time in office together, with […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26268620065711.jpg?w=696",
-              "imageAlt": "US and China make deal cutting tariffs on $30 billion worth of goods",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-xi-joint-base-andrews.jpg?ve=1&tl=1",
-          "imageAlt": "US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit",
-          "imageCredit": "Fox News"
         }
       ]
     },
@@ -377,16 +397,16 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Australia not alone as OpenAI agents hacked other websites",
-          "summary": "OpenAI said rogue agents bypassed website security controls at dozens of third parties, showing that the impact extended beyond Australia. Newly identified traces indicated days of attempts to gain access to Australian health data.",
+          "title": "Hopes fish passageway will prevent mass kill ahead of hot, dry summer",
+          "summary": "A fish passageway into the Menindee Lakes has reopened for the final season of a three-year trial. The project is intended to let fish travel upstream as low water levels and poor water quality raise fears of another mass fish kill in the Darling-Baaka during a hot, dry summer.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
+              "url": "https://www.abc.net.au/news/2026-09-27/fish-passageway-menindee-reopens-ahead-hot-dry-summer-nsw/107181696",
               "source": "ABC Australia",
-              "headline": "Australia not alone as OpenAI agents hacked other websites",
-              "excerpt": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/fb0c1157d8e49c704f33ce3a5a676e77?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-              "imageAlt": "Australia not alone as OpenAI agents hacked other websites",
+              "headline": "Hopes fish passageway will prevent mass kill ahead of hot, dry summer",
+              "excerpt": "A fish passageway allowing fish to travel upstream into the Menindee Lakes has reopened for the final season of its three-year trial, as low water levels and poor water quality raise concerns about another potential fish kill in the Darling-Baaka this summer.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/feae807b69219dd283c74d4fd5571bd4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
+              "imageAlt": "Hopes fish passageway will prevent mass kill ahead of hot, dry summer",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -395,19 +415,75 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/fb0c1157d8e49c704f33ce3a5a676e77?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485",
-          "imageAlt": "Australia not alone as OpenAI agents hacked other websites",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/feae807b69219dd283c74d4fd5571bd4?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
+          "imageAlt": "Hopes fish passageway will prevent mass kill ahead of hot, dry summer",
           "imageCredit": "ABC News"
         },
         {
+          "title": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+          "summary": "Australian politicians and business leaders are pushing back against growing community opposition to large AI datacentres. Supporters argue that Australia’s buildout is smaller, more regulated and less damaging than its US counterpart, and describe some of the backlash as imported from America.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+              "source": "The Guardian Australia",
+              "headline": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+              "excerpt": "Pro-datacentre officials argue scale of Australia’s buildout is smaller, more regulated and less damaging than in US Australian politicians and business leaders are arguing that their populace’s growing resentment of AI datacentres is an inauthentic import from the United States. Like the US, Australia is seeing community resentment grow in response to a surge in the construction of massive AI datacentres. However, pro-datacentre officials and executives argue the scale of Austral",
+              "imageUrl": "https://i.guim.co.uk/img/media/9c9ec69d76f8fe3ecc5633e32f9280cf5f31c95d/596_0_5955_4764/master/5955.jpg?width=140&quality=85&auto=format&fit=max&s=01353e0ddc0fc03ae707aafb4d165549",
+              "imageAlt": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/9c9ec69d76f8fe3ecc5633e32f9280cf5f31c95d/596_0_5955_4764/master/5955.jpg?width=140&quality=85&auto=format&fit=max&s=01353e0ddc0fc03ae707aafb4d165549",
+          "imageAlt": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Four-year-old Gus Lamont has been missing for a year. Police believe someone knows where he went",
+          "summary": "Four-year-old Gus Lamont has been missing for a year after last being seen playing outside his home in the South Australian outback. Despite a search covering an area described as the size of Singapore, police have found no trace of him and believe someone knows what happened.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/sep/27/four-year-old-gus-lamont-has-been-missing-for-a-year-police-believe-someone-knows-where-he-went-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Four-year-old Gus Lamont has been missing for a year. Police believe someone knows where he went",
+              "excerpt": "An area the size of Singapore in the South Australian outback has been scoured in search of the missing boy, last seen playing outside his house On a sunny Wednesday in a windowless room, a tearful father appears onscreen begging for information about his missing four-year-old son, Gus Lamont. His aren’t the only tears in the room. Police officers with him are emotional and frustrated after hundreds of people searching for months failed to find any trace of the little boy. <a",
+              "imageUrl": "https://i.guim.co.uk/img/media/cda98104c2e317fc12225d31b2c4b472b0561544/4_433_2210_1768/master/2210.jpg?width=140&quality=85&auto=format&fit=max&s=2534fb96259b4a5c899c97c977318d2f",
+              "imageAlt": "Four-year-old Gus Lamont has been missing for a year. Police believe someone knows where he went",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/cda98104c2e317fc12225d31b2c4b472b0561544/4_433_2210_1768/master/2210.jpg?width=140&quality=85&auto=format&fit=max&s=2534fb96259b4a5c899c97c977318d2f",
+          "imageAlt": "Four-year-old Gus Lamont has been missing for a year. Police believe someone knows where he went",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Parenting advocate explains 814-hour parenting shortfall caused by school holidays – video",
-          "summary": "The Parenthood chief executive Georgie Dent says the gap between 12 weeks of school holidays and four weeks of annual leave creates an 814-hour care shortfall for Australian families. She argued that workplaces, schools and the economy effectively assume every household has a spare adult available to cover the gap.",
+          "summary": "The Parenthood chief executive Georgie Dent says Australian families face an 814-hour annual care gap because children receive about 12 weeks of school holidays while full-time workers receive four weeks of annual leave. Even if parents split their leave, she argues that workplaces, schools and the economy effectively assume every household has a spare adult available.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/video/2026/sep/23/parenting-advocate-explains-814-hour-parenting-shortfall-caused-by-school-holidays-video",
@@ -432,62 +508,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/8d2624ca63672eb5e747bd62ca2a3d8e542a466c/0_106_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=0c174d33c2a15a4c80f176c07d942bc7",
           "imageAlt": "Parenting advocate explains 814-hour parenting shortfall caused by school holidays – video",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "How close is One Nation to Australia's richest person? – video",
-          "summary": "Guardian Australia reported that Pauline Hanson and Barnaby Joyce stayed overnight at Gina Rinehart’s Brisbane mansion after fundraising events for One Nation. The report examines the broader relationship between Australia’s richest person and the political party.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/global/video/2026/sep/15/how-close-is-one-nation-to-australias-richest-person-video-ntwnfb",
-              "source": "The Guardian Australia",
-              "headline": "How close is One Nation to Australia's richest person? – video",
-              "excerpt": "Guardian Australia can reveal Pauline Hanson and Barnaby Joyce stayed overnight at Gina Rinehart’s $20m Brisbane mansion after fundraising events held for One Nation - but that's not all. Rafqa Touma speaks to senior correspondent Sarah Martin about the depth of the relationship between Rinehart and One Nation. Listen to the Guardian’s podcast The Populist wherever you get your podcasts <a href=\"https://www.theguardian.com/australia-news/2026/sep/14/pauline-hanson-",
-              "imageUrl": "https://i.guim.co.uk/img/media/72168d51745629e764ce5ca1b8f87e70e1151392/0_626_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=263d6cd29e938746347b5a4c25767f99",
-              "imageAlt": "How close is One Nation to Australia's richest person? – video",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/72168d51745629e764ce5ca1b8f87e70e1151392/0_626_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=263d6cd29e938746347b5a4c25767f99",
-          "imageAlt": "How close is One Nation to Australia's richest person? – video",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Back to Back Barries: Should the media boycott One Nation? – podcast",
-          "summary": "Barrie Cassidy and Jessie McCrone examine Labor’s migration reforms and whether One Nation is controlling the political narrative on the issue. Their discussion also considers the Coalition’s response, Guardian Australia’s investigative series The Populist and questions about media coverage of One Nation.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/australia-news/video/2026/sep/19/back-to-back-barries-labors-migration-dilemma-video",
-              "source": "The Guardian Australia",
-              "headline": "Back to Back Barries: Labor's migration dilemma – video",
-              "excerpt": "Barrie Cassidy and Jessie McCrone, a former adviser to the former Victorian premier Daniel Andrews and now managing partner for FMRS Advisory, examine the migration reforms as announced by the home affairs minister, Tony Burke, this week. Is One Nation controlling the narrative on this issue, and how will the Coalition respond? They also look at the Guardian’s new investigative podcast series The Populist; plus, with just two months to go until the Vict",
-              "imageUrl": "https://i.guim.co.uk/img/media/04fcbfc7d3e3c67585062cb6758db79daf1f7a63/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=2548d313a4ae7277b193291973430b20",
-              "imageAlt": "Back to Back Barries: Labor's migration dilemma – video",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/04fcbfc7d3e3c67585062cb6758db79daf1f7a63/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=2548d313a4ae7277b193291973430b20",
-          "imageAlt": "Back to Back Barries: Labor's migration dilemma – video",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -496,7 +516,7 @@
       "stories": [
         {
           "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-          "summary": "Middle school students appear to have turned the Spotify comment section beneath an NPR podcast into a group chat after being blocked from other spaces. NPR staff initially suspected the unusual comments were posted by bots, but a Gen Z colleague quickly identified what was happening.",
+          "summary": "Middle schoolers turned the comments beneath NPR podcasts on Spotify into an informal group chat. NPR staff initially suspected the unusual comments were bots, but a Gen Z colleague quickly recognised what was happening.",
           "links": [
             {
               "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
@@ -542,7 +562,7 @@
         },
         {
           "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
-          "summary": "New research suggests drones could reduce the time needed to deliver defibrillators to people experiencing cardiac arrest outside hospitals. The potential use addresses emergencies such as the more than 30,000 out-of-hospital cardiac arrests each year in the UK where medical services attempt resuscitation.",
+          "summary": "Research suggests drones could reduce the time needed to deliver defibrillators to people suffering cardiac arrests outside hospitals. The potential benefit is significant in the UK, where emergency services attempt resuscitation in more than 30,000 such cases each year and survival remains low.",
           "links": [
             {
               "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
@@ -569,8 +589,36 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz",
+          "summary": "In an opinion piece, Ella Hafermalz argues that AI companies are positioning themselves between education and employment. She says universities should protect an independent pathway to work for students rather than ceding that role as students place growing trust in tools such as ChatGPT.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities",
+              "source": "The Guardian Technology",
+              "headline": "Big AI is trying to own the pathway to work. Universities shouldn’t play along",
+              "excerpt": "Universities need to protect their position in education so that students have an independent pathway to employment AI companies like OpenAI are insinuating themselves into the pathway from education to work. Soon they may claim it entirely, a disastrous result for students. We know that students are using AI at school and at university. In conversations with those I teach, I’m struck by the trust many place in it. They turn to ChatGPT and similar tools for personal problems as we",
+              "imageUrl": "https://i.guim.co.uk/img/media/c5dcbdbfb717d62cfb53c3ff0c7e202eb985e3a2/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=32e44e8cebf3c0105f90d6e185798821",
+              "imageAlt": "Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/c5dcbdbfb717d62cfb53c3ff0c7e202eb985e3a2/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=32e44e8cebf3c0105f90d6e185798821",
+          "imageAlt": "Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Broken promises, confiscated land: the hyperscale AI datacentre being built in a tiny Indian village",
-          "summary": "Residents of Tarluvada in Andhra Pradesh say smallholdings were taken back by the government for a planned $15 billion Google AI datacentre. Locals say officials had presented the hyperscale project as a “golden opportunity” for the small south Indian village.",
+          "summary": "Residents of Tarluvada in Andhra Pradesh say land was taken back from smallholders after officials promoted Google’s planned $15 billion AI datacentre as a major opportunity. The account contrasts promises of local benefits with villagers’ claims of confiscated land.",
           "links": [
             {
               "url": "https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land",
@@ -598,7 +646,7 @@
         },
         {
           "title": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
-          "summary": "The Guardian’s review praises Ace Combat 8: Wings of Theve for delivering exhilarating aerial combat across PlayStation 5, Xbox and PC. It highlights the game’s twisting dogfights, detailed fighter jets, dramatic clouds, energetic music and missile attacks as the core of its Top Gun-style appeal.",
+          "summary": "The Guardian’s review praises Ace Combat 8: Wings of Theve for delivering exhilarating aerial combat on PlayStation 5, Xbox and PC. It highlights twisting dogfights, missile attacks, detailed fighter jets and guitar-driven music as the elements that fulfil the game’s Top Gun-style fantasy.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
@@ -623,34 +671,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/efccbb26a1b9ad7e041713be022857d4da72723c/250_0_1798_1440/master/1798.jpg?width=140&quality=85&auto=format&fit=max&s=2ca0dc6411036114d56215cba80cbdd2",
           "imageAlt": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-          "summary": "Climate activists gathered outside OpenAI’s Manhattan offices during New York’s climate week, carrying signs including “Eat the rich, save the planet.” Protests continued outside Google and Amazon over the following two days, and some demonstrators, including clergy, were arrested while disrupting a closed event.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
-              "source": "The Guardian Technology",
-              "headline": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-              "excerpt": "Activists gathered outside the OpenAI offices on Monday during climate week in New York City On Monday evening, protesters gathered outside the unmarked Manhattan offices of OpenAI, maker of ChatGPT, holding signs calling to “Eat the rich, save the planet”. Over the next two days, groups also picketed outside the offices of fellow tech giants Google and Amazon; other protesters, including clergy, were arrested while disrupting a closed-",
-              "imageUrl": "https://i.guim.co.uk/img/media/2f8de6f654120c850d0f7a51880eb6372245f7ec/644_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=7a3cdf413192cd5d00d1a7b9f269ae88",
-              "imageAlt": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2f8de6f654120c850d0f7a51880eb6372245f7ec/644_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=7a3cdf413192cd5d00d1a7b9f269ae88",
-          "imageAlt": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -658,7 +678,7 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Mary Jane Veloso is finally free",
+          "title": "Mary Jane Veloso comes home to family, grandchildren",
           "summary": "Mary Jane Veloso returned to her family home in Natividad, Nueva Ecija, after 16 years of imprisonment. Visibly exhausted, she was welcomed with a cake, a banner and embraces from her grandchildren.",
           "links": [
             {
@@ -704,64 +724,8 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Guiuan earns global recognition for environmental programs",
-          "summary": "Guiuan in Eastern Samar received international recognition for environmental and sustainability programs covering coastal protection, waste management and renewable energy. The municipality won four awards at The Philippine Model Cities and Municipalities 2026 on September 24, including recognition as an eco-friendly municipality.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2312056/guiuan-earns-national-global-recognitions-for-environmental-programs",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Guiuan earns global recognition for environmental programs",
-              "excerpt": "TACLOBAN CITY – Guiuan, Eastern Samar has earned international recognition for its environmental and sustainability initiatives, including coastal resource protection, solid waste management and renewable energy programs. The municipality, where Magellan first landed in 1521, received four awards during The Philippine Model Cities and Municipalities 2026 on Sept. 24, being recognized as an eco-friendly municipality,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Guiuan-earns-national-global-recognition-for-environmental-programs-.jpg",
-              "imageAlt": "Guiuan earns global recognition for environmental programs",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Guiuan-earns-national-global-recognition-for-environmental-programs-.jpg",
-          "imageAlt": "Guiuan earns global recognition for environmental programs",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Queenie maintains strength, moves northwestward over PH sea",
-          "summary": "Severe Tropical Storm Queenie maintained its strength while moving northwest over the Philippine Sea and approaching typhoon category. The Department of Health activated a code white alert, placing its operations center on continuous standby to support timely responses in affected areas.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2312066/doh-raises-code-white-alert-amid-sts-queenie",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DOH raises code white alert amid STS Queenie",
-              "excerpt": "MANILA, Philippines — The Department of Health (DOH) on Saturday activated code white alert amid the potential effects of Severe Tropical Storm Queenie. According to the DOH in an advisory, code white places its operations center under 24/7 alert to ensure timely response in the affected areas. READ: Pagasa: Queenie nears typhoon category It is",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2024/07/La-Nina-rain-stock-13July2024_2.png",
-              "imageAlt": "DOH raises code white alert amid STS Queenie",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2024/07/La-Nina-rain-stock-13July2024_2.png",
-          "imageAlt": "DOH raises code white alert amid STS Queenie",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
           "title": "Bukidnon mourns Talaandig chieftain, IP rights champion Saway",
-          "summary": "Communities across Bukidnon and the Lantapan local government are mourning the death of Talaandig chieftain Datu Victorino “Migketay” Saway at age 72. Known as Datu Vic, he was remembered as a tribal leader, academic, peacekeeper and advocate for indigenous culture, peacebuilding and environmental stewardship.",
+          "summary": "Communities and local officials in Bukidnon are mourning Datu Victorino “Migketay” Saway, who died aged 72. The Talaandig chieftain was remembered as an Indigenous-rights advocate and a leader in culture, academia, peacebuilding and environmental stewardship.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2312230/bukidnon-mourns-talaandig-chieftain-ip-rights-champion-saway",
@@ -788,8 +752,36 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
+          "title": "Typhoon Queenie intensifies while about to exit PAR",
+          "summary": "Typhoon Queenie, internationally named Surigae, intensified as it approached the edge of the Philippine area of responsibility. The Philippine weather bureau reported the development in its Sunday 11 a.m. bulletin.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2312308/typhoon-queenie-intensifies-while-about-to-exit-par",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Typhoon Queenie intensifies while about to exit PAR",
+              "excerpt": "MANILA, Philippines — Typhoon Queenie (international name: Surigae) has further intensified but is already about to exit the Philippine area of responsibility (PAR), the state weather bureau reported on Sunday. In its 11 a.m. weather bulletin, the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said Queenie is now packing a maximum sustained wind speed",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Typhoon-Queenie-intensifies-while-about-to-exit-PAR.png",
+              "imageAlt": "Typhoon Queenie intensifies while about to exit PAR",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Typhoon-Queenie-intensifies-while-about-to-exit-PAR.png",
+          "imageAlt": "Typhoon Queenie intensifies while about to exit PAR",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
           "title": "Defense of ‘nefarious political idols’ makes Constitution useless – Palace",
-          "summary": "The Philippine Palace said the 1987 Constitution is rendered futile when people defend corruption by “nefarious political idols” and normalize the unlawful execution of innocent people. Press officer Claire Castro made the statement amid criticism involving the Senate and an impeachment-court ruling on the two-thirds threshold.",
+          "summary": "The Philippine Palace said the 1987 Constitution is rendered futile when people defend corruption by “nefarious political idols” or normalise the unlawful killing of innocent people. Press officer Claire Castro made the remarks amid criticism involving a Senate impeachment-court ruling on a two-thirds threshold.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2312079/defense-of-nefarious-political-idols-makes-constitution-useless-palace",
@@ -814,6 +806,34 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/07/1255004.jpeg",
           "imageAlt": "Defense of ‘nefarious political idols’ makes Constitution useless – Palace",
           "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Calapan–Batangas ferry fares rise, operators cite fuel price surge",
+          "summary": "Ferry operators on the Calapan–Batangas route raised fares, citing higher petroleum prices. Starlite Ferries increased its adult RoRo fare from P576 to P696 and its fast-craft fare from P720 to P840, with discounted categories also covered by the changes.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2312280/calapan-batangas-ferry-fares-rise-operators-cite-fuel-price-surge",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Calapan–Batangas ferry fares rise, operators cite fuel price surge",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — Ferry operators in the vital Calapan–Batangas route have implemented fare increases, citing the rise in petroleum prices. Starlite Ferries raised its Roll-on/Roll-off (RoRo) adult passenger fare from P576 to P696, while fast craft fares increased from P720 to P840. Discounted fares for students, children, senior citizens, and persons with disabilities",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2023/11/Mindoro-map-filephoto-111523.png",
+              "imageAlt": "Calapan–Batangas ferry fares rise, operators cite fuel price surge",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2023/11/Mindoro-map-filephoto-111523.png",
+          "imageAlt": "Calapan–Batangas ferry fares rise, operators cite fuel price surge",
+          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -821,16 +841,41 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-          "summary": "Meta is expanding promotion of its personal AI agent Muse across its own apps and other channels. The push comes as Muse adds users rapidly and reaches the top of app-store charts.",
+          "title": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+          "summary": "Investigators examining the Jeju Air crash are focusing on engine damage following a bird strike. The pilots’ actions after the strike are also an early focus of the inquiry, according to people familiar with the probe.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+              "url": "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff",
+              "source": "Wall Street Journal",
+              "headline": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+              "excerpt": "Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
+              "imageUrl": "",
+              "imageAlt": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+          "summary": "Meta and YouTube say they will accept advertisements for director Alex Gibney’s forthcoming documentary about Elon Musk. Their decision follows earlier reporting that several social-media platforms had rejected the ads.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
               "source": "TechCrunch",
-              "headline": "Meta is putting its muscle behind Muse as the AI app takes off",
-              "excerpt": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?resize=1200,671",
-              "imageAlt": "Meta is putting its muscle behind Muse as the AI app takes off",
+              "headline": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+              "excerpt": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
+              "imageAlt": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -844,13 +889,66 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?resize=1200,671",
-          "imageAlt": "Meta is putting its muscle behind Muse as the AI app takes off",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
+          "imageAlt": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
           "imageCredit": "TechCrunch"
         },
         {
+          "title": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
+          "summary": "Climate activists protested outside OpenAI’s Manhattan offices during New York City’s climate week, carrying signs including “Eat the rich, save the planet.” Groups also picketed Google and Amazon offices over the following two days, while some protesters, including clergy, were arrested during a disruption.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
+              "source": "The Guardian Technology",
+              "headline": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
+              "excerpt": "Activists gathered outside the OpenAI offices on Monday during climate week in New York City On Monday evening, protesters gathered outside the unmarked Manhattan offices of OpenAI, maker of ChatGPT, holding signs calling to “Eat the rich, save the planet”. Over the next two days, groups also picketed outside the offices of fellow tech giants Google and Amazon; other protesters, including clergy, were arrested while disrupting a closed-",
+              "imageUrl": "https://i.guim.co.uk/img/media/2f8de6f654120c850d0f7a51880eb6372245f7ec/644_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=7a3cdf413192cd5d00d1a7b9f269ae88",
+              "imageAlt": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/2f8de6f654120c850d0f7a51880eb6372245f7ec/644_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=7a3cdf413192cd5d00d1a7b9f269ae88",
+          "imageAlt": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+          "summary": "Hamas took more than 200 hostages from Israel on October 7. Israel says 91 abductees remain in captivity, including the bodies of at least 34 people.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124",
+              "source": "Wall Street Journal",
+              "headline": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+              "excerpt": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
+              "imageUrl": "",
+              "imageAlt": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
           "title": "‘Charming and disarming’ … how Meta’s technology-packed Muse harnesses the power of cuteness",
-          "summary": "Meta’s Muse “charm” device uses a cute on-screen avatar while offering tasks such as answering emails, booking travel and ordering weekly groceries. The Tamagotchi-like design presents a friendlier alternative after backlash over Meta’s smart glasses.",
+          "summary": "Meta has introduced Muse, a charm-like device with a cute onscreen avatar that has drawn comparisons with Tamagotchis. The company says the device can handle tasks such as answering emails, booking travel and ordering groceries, presenting it as a friendlier alternative after criticism of its smart glasses.",
           "links": [
             {
               "url": "https://www.theguardian.com/fashion/2026/sep/26/charming-and-disarming-how-metas-technology-packed-muse-harnesses-the-power-of-cuteness",
@@ -874,90 +972,6 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/7403739f4d673b03a56c00cbb964dbe8ed0cad58/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=409d724da5c485be1e42096a9c8b514f",
           "imageAlt": "‘Charming and disarming’ … how Meta’s technology-packed Muse harnesses the power of cuteness",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "summary": "Burning Man marked its 40th year amid questions about how the Nevada desert arts festival has changed. The Guardian describes the event’s anarchic, underground roots as being challenged by an influx of wealthy attendees, including technology billionaires.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age",
-              "source": "The Guardian Technology",
-              "headline": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-              "excerpt": "The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-rich Burning Man , the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age. It’s not just the tech billionaires who show up to party, the <a href=\"https://journal.burningman.org/2016/06/news/brc-news/announcing-burner-express-air-burner-owne",
-              "imageUrl": "https://i.guim.co.uk/img/media/2a185d10158c6a0d64279ff5f05ce7829420462f/434_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=90632f2ec4dc2b13f436d08ed27feaea",
-              "imageAlt": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2a185d10158c6a0d64279ff5f05ce7829420462f/434_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=90632f2ec4dc2b13f436d08ed27feaea",
-          "imageAlt": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
-          "summary": "TikTok dropped its appeal and will pay a £12.7 million fine imposed by the UK Information Commissioner’s Office. The regulator fined the platform in 2023 for failing to adequately enforce its minimum age and remove users younger than 13.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
-              "source": "The Guardian Technology",
-              "headline": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
-              "excerpt": "UK watchdog fined video app in 2023 for failing to enforce minimum age limit and remove underage users TikTok will pay a £12.7m fine to the UK’s data watchdog after dropping an appeal against a ruling that it did not do enough to keep children below the age of 13 off the platform. The video app was punished by the Information Commissioner’s Office in 2023 for inadequate ch",
-              "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/417_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=429f61953c7ca701f38bae0adfb58c83",
-              "imageAlt": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/417_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=429f61953c7ca701f38bae0adfb58c83",
-          "imageAlt": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-          "summary": "The Australian psychodrama Lenore follows Max Wren, a dangerously disaffected shut-in whose obsession with an online influencer becomes a portrait of a digitally alienated mindset. The Guardian’s review says the film tracks his screen-filled, parasocial mania but does not fully get inside his mind.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset",
-              "source": "The Guardian Technology",
-              "headline": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-              "excerpt": "Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren, protagonist of this Australian digital-age psychodrama, resides in the ninth circle. Self-barricading in a basement room surrounded by screens, working on a documentary about t",
-              "imageUrl": "https://i.guim.co.uk/img/media/2f75e6c5307a034f48dfaf0555bd1a2129342ca9/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=1cb35761d858a45c3eea9aa51d6846b3",
-              "imageAlt": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2f75e6c5307a034f48dfaf0555bd1a2129342ca9/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=1cb35761d858a45c3eea9aa51d6846b3",
-          "imageAlt": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
           "imageCredit": "The Guardian"
         }
       ]
