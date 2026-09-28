@@ -2,24 +2,24 @@
   "id": "2026-09-28-expanded",
   "date": "2026-09-28",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-09-28T03:00:58.082201",
+  "generatedAt": "2026-09-28T12:30:12.185375",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-09-28T03:00:58",
+  "updatedAt": "2026-09-28T12:30:12",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Gunmen Massacre 27 In Back-To-Back South African Mass Shootings",
-          "summary": "Two mass shootings roughly four hours apart killed at least 27 people in South African townships over the weekend. The deadlier attack began around 9:30 p.m. on Saturday in Wedela, in Gauteng province’s West Rand mining district. Police were hunting the gunmen as the country continued to confront high levels of armed violence.",
+          "title": "Serbia's populist President Vucic resigns to run for prime minister at early vote",
+          "summary": "Serbian President Aleksandar Vučić has resigned, clearing the way for an early parliamentary election in which he intends to run for prime minister. The vote follows nearly two years of protests and allegations of corruption that have challenged his administration.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Dozens killed in two mass shootings in South Africa",
-              "excerpt": "At least 27 people have been killed in two mass shootings across South Africa.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790528303.jpg?resize=1620%2C1080&quality=80",
-              "imageAlt": "Dozens killed in two mass shootings in South Africa",
+              "headline": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
+              "excerpt": "Despite student-led protests and political unrest challenging his rule, Vucic intends to run in the snap elections.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab96a58-1790536280.jpg?resize=1920%2C1440",
+              "imageAlt": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -31,6 +31,53 @@
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Embattled Serbian president resigns, paving way for early elections",
+              "excerpt": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2059/live/af01bc20-baa6-11f1-96c0-052f341a8103.jpg",
+              "imageAlt": "Embattled Serbian president resigns, paving way for early elections",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/sep/27/aleksandar-vucic-serbias-populist-president-resigns-run-prime/",
+              "source": "Washington Times",
+              "headline": "Serbia's populist President Vucic resigns to run for prime minister at early vote",
+              "excerpt": "Serbia's populist President Aleksandar Vucic resigned on Sunday to pursue a bid to become the prime minister in an upcoming early parliamentary election that will test his firm rule in the Balkan country after nearly two years of protests.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/27/Serbia_Election_Vucic_94431_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Serbia's populist President Vucic resigns to run for prime minister at early vote",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab96a58-1790536280.jpg?resize=1920%2C1440",
+          "imageAlt": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Gunmen Massacre 27 In Back-To-Back South African Mass Shootings",
+          "summary": "Two mass shootings in South African townships about four hours apart killed at least 27 people, police said. The attacks come amid persistent gang-related armed violence, with one assault reported in Wedela in Gauteng province’s West Rand mining district.",
+          "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -88,103 +135,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790528303.jpg?resize=1620%2C1080&quality=80",
-          "imageAlt": "Dozens killed in two mass shootings in South Africa",
-          "imageCredit": "Al Jazeera"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
+          "imageAlt": "Two mass shootings in South Africa leave 27 dead",
+          "imageCredit": "BBC"
         },
         {
-          "title": "Iran ready for ‘doomsday war’ after Trump rejects ceasefire, foreign minister says",
-          "summary": "Iranian Foreign Minister Abbas Araghchi said the country was prepared for war to resume, even if it became a “doomsday war,” after President Donald Trump rejected an Iranian ceasefire offer. The reported offer would have halted attacks on Strait of Hormuz shipping and resumed nuclear talks, but Araghchi said Tehran would not back down from its terms.",
+          "title": "Taylor Swift and Paris Hilton sizzle at 2026 VMAs: Vote on your favorite star looks",
+          "summary": "Taylor Swift, Charli XCX, Paris Hilton and other celebrities appeared on the red carpet ahead of the 2026 MTV Video Music Awards in Los Angeles. Coverage highlighted the stars’ standout styles and invited audiences to choose their favourite looks.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "‘Iran ready for doomsday war’, FM Araghchi says",
-              "excerpt": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-IRAN-FM-2709-1790531111.png?resize=1920%2C1080&quality=80",
-              "imageAlt": "‘Iran ready for doomsday war’, FM Araghchi says",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4744415/iran-doomsday-war-trump-ceasefire-araghchi/",
-              "source": "Washington Examiner",
-              "headline": "Iran ready for ‘doomsday war’ after Trump rejects ceasefire, foreign minister says",
-              "excerpt": "Iranian Foreign Minister Abbas Araghchi warned that Iran was prepared for a “doomsday war” after President Donald Trump rejected its ceasefire offer. Trump publicly confirmed that he rejected an Iranian ceasefire offer on Saturday, one that offered a halt on attacks on Strait of Hormuz shipping and a resumption of nuclear talks in return for […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP26117196579990.jpg?w=696",
-              "imageAlt": "Iran ready for ‘doomsday war’ after Trump rejects ceasefire, foreign minister says",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/27/iran-says-ready-doomsday-onslaught-us-attacks-trump-rejects-ceasefire/",
-              "source": "Washington Times",
-              "headline": "Iran says it's ready for 'doomsday' onslaught of U.S. attacks after Trump rejects ceasefire deal",
-              "excerpt": "Iranian Foreign Minister Abbas Araghchi said Tehran won't back down on the terms of its ceasefire offer, \"even if it comes to a doomsday war.\"",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/26/UN_General_Assembly_Iran__269__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Iran says it's ready for 'doomsday' onslaught of U.S. attacks after Trump rejects ceasefire deal",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/WIDE-THUMB-IRAN-FM-2709-1790531111.png?resize=1920%2C1080&quality=80",
-          "imageAlt": "‘Iran ready for doomsday war’, FM Araghchi says",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Are claims of a white genocide in South Africa real?",
-          "summary": "Thousands of white crosses displayed in Washington by an Afrikaner lobby group have revived claims of a “white genocide” against South African farmers. Al Jazeera described the claims as erroneous, while South Africa’s new ambassador, Roelf Meyer, said there is no genocide.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "US installation commemorates victims of South African ‘white genocide’",
-              "excerpt": "Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-27-at-14.40.54-1790516613.png?resize=1200%2C675",
-              "imageAlt": "US installation commemorates victims of South African ‘white genocide’",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Are claims of a white genocide in South Africa real?",
-              "excerpt": "Thousands of white crosses have been displayed in Washington by an Afrikaner lobby group But South Africa's new ambassador Roelf Meyer says there is not a genocide.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59c1/live/741ac600-b92b-11f1-bc1f-3f186ca4140c.jpg",
-              "imageAlt": "Are claims of a white genocide in South Africa real?",
+              "headline": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+              "excerpt": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e696/live/63efb740-bad9-11f1-bd21-bdf910f2cec6.jpg",
+              "imageAlt": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -196,24 +161,42 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.foxnews.com/entertainment/vmas-red-carpet-vote-your-favorite-star-looks",
+              "source": "Fox News",
+              "headline": "Taylor Swift and Paris Hilton sizzle at 2026 VMAs: Vote on your favorite star looks",
+              "excerpt": "Taylor Swift and more hit the VMAs red carpet in standout styles. See all the looks and vote for your favorite fashion moment.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/taylor-swift-paris-hilton.jpg?ve=1&tl=1",
+              "imageAlt": "Taylor Swift and Paris Hilton sizzle at 2026 VMAs: Vote on your favorite star looks",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-27-at-14.40.54-1790516613.png?resize=1200%2C675",
-          "imageAlt": "US installation commemorates victims of South African ‘white genocide’",
-          "imageCredit": "Al Jazeera"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e696/live/63efb740-bad9-11f1-bd21-bdf910f2cec6.jpg",
+          "imageAlt": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+          "imageCredit": "BBC"
         },
         {
-          "title": "Two giant pandas arrive in Atlanta under a US-China government agreement",
-          "summary": "Giant pandas Ping Ping and Fu Shuang arrived in Atlanta on Sunday under an agreement between the Chinese and American governments. The pair travelled from Chengdu in southwestern China aboard a dedicated Boeing 777, with one report describing the arrangement as a 10-year agreement involving Zoo Atlanta.",
+          "title": "Three dead and four injured in Detroit strip club shooting, police say",
+          "summary": "Three people were killed and four injured in an early-morning shooting at a Detroit strip club, police said. Detroit Police Chief Todd Bettison said the shooting followed a fight at the after-hours venue, and the four wounded people were taken to hospital.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-              "excerpt": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab94d9b75868-1790528923.jpg?resize=1643%2C1080",
-              "imageAlt": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
+              "headline": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
+              "excerpt": "Police say the US shooting followed an altercation at an after-hours venue, and four people are in hospital.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-13T161632Z_120661481_RC23DMARWCBK_RTRMADP_3_USA-MIGRATION-MAINE-SHOOTING-1790537697.jpg?resize=1920%2C1440",
+              "imageAlt": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -226,12 +209,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4744476/two-giant-pandas-atlanta-zoo-china/",
+              "url": "https://www.washingtonexaminer.com/news/crime/4744494/detroit-strip-club-mass-shooting/",
               "source": "Washington Examiner",
-              "headline": "Two giant pandas arrive in Atlanta under a US-China government agreement",
-              "excerpt": "BANGKOK (AP) — Two giant pandas arrived in Atlanta on Sunday morning as part of an agreement between the Chinese and American governments. Ping Ping and Fu Shuang departed Chengdu in southwestern China early Sunday aboard a dedicated “FedEx Panda Express” Boeing 777 aircraft, officials said. A new agreement between Zoo Atlanta and the China […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26270602738176.jpg?w=696",
-              "imageAlt": "Two giant pandas arrive in Atlanta under a US-China government agreement",
+              "headline": "Three dead and four injured in Detroit strip club shooting, police say",
+              "excerpt": "Three people were killed and four more injured in a mass shooting at a Detroit strip club early Sunday morning. The shooting occurred at 7:21 a.m., according to Detroit Police Chief Todd Bettison, and stemmed from a fight. All victims were in their 20s and 30s; the three deaths were men, and the wounded were […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26095793671500-1.jpg?w=696",
+              "imageAlt": "Three dead and four injured in Detroit strip club shooting, police say",
               "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -242,14 +225,42 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-13T161632Z_120661481_RC23DMARWCBK_RTRMADP_3_USA-MIGRATION-MAINE-SHOOTING-1790537697.jpg?resize=1920%2C1440",
+          "imageAlt": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Nor'easter floods Northeast, causing problems from New Jersey to New England",
+          "summary": "A powerful nor’easter brought a second day of coastal flooding from New Jersey toward New England, including low-lying areas of New Jersey and New York City. The storm also knocked out power to tens of thousands of homes as residents contended with floodwaters.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Powerful storm floods US Northeast, causes power outages",
+              "excerpt": "The nor'easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26270661022259-1790545254.jpg?resize=1920%2C1440",
+              "imageAlt": "Powerful storm floods US Northeast, causes power outages",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/27/2-giant-pandas-arrive-atlanta-us-china-government-agreement/",
+              "url": "https://www.washingtontimes.com/news/2026/sep/27/noreaster-floods-northeast-causing-problems-new-jersey-new-england/",
               "source": "Washington Times",
-              "headline": "2 giant pandas arrive in Atlanta under a U.S.-China government agreement",
-              "excerpt": "Two giant pandas arrived in Atlanta on Sunday morning as part of an agreement between the Chinese and American governments.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/27/China_US_Pandas_51424_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "2 giant pandas arrive in Atlanta under a U.S.-China government agreement",
+              "headline": "Nor'easter floods Northeast, causing problems from New Jersey to New England",
+              "excerpt": "Residents of coastal communities in the Northeast slogged through floodwaters for a second day as a powerful nor'easter pummeled the shoreline Sunday, knocking out power to tens of thousands of homes.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/27/NJ_Extreme_Weather_12874_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Nor'easter floods Northeast, causing problems from New Jersey to New England",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -263,13 +274,59 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab94d9b75868-1790528923.jpg?resize=1643%2C1080",
-          "imageAlt": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26270661022259-1790545254.jpg?resize=1920%2C1440",
+          "imageAlt": "Powerful storm floods US Northeast, causes power outages",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
+          "summary": "British authorities arrested five men near RAF Fairford on suspicion of explosives and terrorism offences. A former intelligence official said the group may have planned a coordinated vehicle-borne explosive attack targeting US strategic bombers at the base.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/five-arrested-near-uk-raf-base-over-suspected-explosives-terror-plot?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Five arrested near UK RAF base over suspected explosives ‘terror’ plot",
+              "excerpt": "Five men have been arrested near RAF Fairford in the UK on suspicion of explosives and terrorism offences.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T064542Z_1242454410_RC2IRNAX7BHD_RTRMADP_3_BRITAIN-USA-FAIRFORD-1790542296.jpg?resize=1920%2C1440",
+              "imageAlt": "Five arrested near UK RAF base over suspected explosives ‘terror’ plot",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/world/foiled-terror-plot-key-bomber-base-signals-wider-threat-us-military-installations-expert",
+              "source": "Fox News",
+              "headline": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
+              "excerpt": "Five men arrested near RAF Fairford may have planned a complex, coordinated VBIED attack on U.S. strategic bombers, a former intelligence official says.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/fairford-trump-split-1.jpg?ve=1&tl=1",
+              "imageAlt": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T064542Z_1242454410_RC2IRNAX7BHD_RTRMADP_3_BRITAIN-USA-FAIRFORD-1790542296.jpg?resize=1920%2C1440",
+          "imageAlt": "Five arrested near UK RAF base over suspected explosives ‘terror’ plot",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Inside The Sinister Terror Plot Targeting America’s Most Powerful Bombers",
-          "summary": "British police arrested five men near RAF Fairford on suspicion of preparing a terrorist act, after authorities declared a major incident and sent bomb-disposal units to the area. The Gloucestershire base hosts U.S. forces and bombers and has been used during operations connected to the war against Iran.",
+          "summary": "British authorities arrested five men near RAF Fairford on suspicion of preparing a terrorist attack, after a major incident reportedly involving three vans. The base hosts US forces and has been used by B-52 and B-1 bombers, while President Trump said the suspects had been under US surveillance for a long time and that Washington was working with the UK.",
           "links": [
             {
               "url": "https://www.dailywire.com/news/british-police-thwart-suspected-terror-plot-near-base-hosting-us-bombers",
@@ -292,10 +349,10 @@
             {
               "url": "https://www.washingtonexaminer.com/news/world/4744368/men-arrested-explosives-uk-raf-airbase-us-iran-war/",
               "source": "Washington Examiner",
-              "headline": "Five arrested on explosives charges near UK air base used by US in Iran war",
-              "excerpt": "British police declared a “major incident” near a major Royal Air Force base used by the United States for strikes against Iran, with five men arrested and bomb disposal units on the scene. RAF Fairford, which the United Kingdom authorized the U.S. to use for defensive strikes against Iran, is an important base for the U.S., as it hosts […]",
+              "headline": "Five arrested on suspicion of preparing terrorist act at UK air base used by US in Iran war",
+              "excerpt": "British police declared a “major incident” on Sunday near a major Royal Air Force base used by the United States for strikes against Iran, with five men arrested on suspicion of preparing a terrorist act that appeared to involve three vans. RAF Fairford, which the United Kingdom authorized the U.S. to use for defensive strikes against Iran, is an […]",
               "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26270356408001.jpg?w=696",
-              "imageAlt": "Five arrested on explosives charges near UK air base used by US in Iran war",
+              "imageAlt": "Five arrested on suspicion of preparing terrorist act at UK air base used by US in Iran war",
               "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -308,12 +365,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/sep/27/british-police-arrest-5-men-near-air-base-used-us-suspicion-preparing/",
+              "url": "https://www.washingtontimes.com/news/2026/sep/27/trump-us-british-terrorism-suspects-surveillance-long-time/",
               "source": "Washington Times",
-              "headline": "British police arrest 5 men near an air base used by U.S. on suspicion of preparing a terrorist act",
-              "excerpt": "UK police said Sunday that five men arrested in the middle of the night near an air base used by the United States during its war against Iran are being held on suspicion of preparing a terrorist act.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/27/Britain_Explosives_Arrests__8_1_s1440x941.jpg?ba27b5b7c1c494b93d7ffffd037cb785e3eeb723",
-              "imageAlt": "British police arrest 5 men near an air base used by U.S. on suspicion of preparing a terrorist act",
+              "headline": "U.S. had British terrorism suspects under surveillance for 'a long time,' Trump says",
+              "excerpt": "President Trump said Sunday that the United States was working with the United Kingdom to capture a group of men arrested outside RAF Fairford on suspicion of terrorism.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/27/Britain_Explosives_Arrests_5_586_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "U.S. had British terrorism suspects under surveillance for 'a long time,' Trump says",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -330,98 +387,6 @@
           "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2296809896.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
           "imageAlt": "Inside The Sinister Terror Plot Targeting America’s Most Powerful Bombers",
           "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Rachel Dolezal 2.0: ‘Black Palestinian’ Activist’s Race-Faking Secret Is Out",
-          "summary": "Philadelphia teacher and activist Hannah Gann admitted that she is a white woman of Jewish heritage after years of presenting herself as Black and Palestinian. Reports said she apologised after acknowledging that she had lied about her background to people in her life.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/rachel-dolezal-2-0-black-palestinian-activists-race-faking-secret-is-out",
-              "source": "Daily Wire",
-              "headline": "Rachel Dolezal 2.0: ‘Black Palestinian’ Activist’s Race-Faking Secret Is Out",
-              "excerpt": "A Philadelphia teacher and activist who spent years presenting herself as black and Palestinian has now admitted that she is a white woman of Jewish heritage — and that she lied about her background to everyone in her life. Hannah Gann, a teacher at Philadelphia’s Workshop School, publicly acknowledged the deception this week after members ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2025/04/GettyImages-2207926704.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Rachel Dolezal 2.0: ‘Black Palestinian’ Activist’s Race-Faking Secret Is Out",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://nypost.com/2026/09/27/opinion/teacher-lies-about-being-palestinian-and-black-letters/",
-              "source": "New York Post",
-              "headline": "Teacher lies about being Palestinian and black: Letters to the Editor — Sept. 28, 2026",
-              "excerpt": "NY Post readers discuss Hannah Gann, the white Jewish woman who apologized after pretending to be a black Palestinian.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fteacher-workshop-school-philadelphia-arriving-142248277.jpg?quality%3D90%26strip%3Dall",
-              "imageAlt": "Teacher lies about being Palestinian and black: Letters to the Editor — Sept. 28, 2026",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2025/04/GettyImages-2207926704.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Rachel Dolezal 2.0: ‘Black Palestinian’ Activist’s Race-Faking Secret Is Out",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Russian Strikes Kill Two in Ukraine as Moscow Rejects German Calls to De-Escalate",
-          "summary": "Reports gave differing death tolls after Russia and Ukraine traded aerial strikes, with Russian attacks said to have killed between four and six people across Ukraine and Ukrainian strikes killing at least three in Krasnodar. The attacks followed Moscow’s rejection of German calls to de-escalate tensions toward NATO.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/europe/2026/09/26/at-least-seven-killed-as-russia-and-ukraine-trade-aerial-strikes/",
-              "source": "Breitbart",
-              "headline": "At Least Seven Killed as Russia and Ukraine Trade Aerial Strikes",
-              "excerpt": "Russian attacks killed four people across Ukraine Saturday, officials said, as Ukraine killed at least three in Krasnodar. The post At Least Seven Killed as Russia and Ukraine Trade Aerial Strikes appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2297230319-2-640x335.jpg",
-              "imageAlt": "At Least Seven Killed as Russia and Ukraine Trade Aerial Strikes",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/sep/27/moscow-rejects-german-calls-de-escalate-strikes-kill-6-ukraine/",
-              "source": "Washington Times",
-              "headline": "Strikes kill 6 in Ukraine after Moscow rejects German calls to de-escalate",
-              "excerpt": "Strikes across Ukraine killed at least six people overnight and on Sunday, officials said, hours after Moscow rejected German calls to ease off its escalation toward NATO.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/26/Russia_Ukraine_War_9543__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Strikes kill 6 in Ukraine after Moscow rejects German calls to de-escalate",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/09/GettyImages-2297230319-2-640x335.jpg",
-          "imageAlt": "At Least Seven Killed as Russia and Ukraine Trade Aerial Strikes",
-          "imageCredit": "Breitbart"
         }
       ]
     },
@@ -429,16 +394,34 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Brisbane's Story Bridge to close over new year for maintenance",
-          "summary": "Brisbane’s Story Bridge is set to close for three weeks over the New Year period for maintenance. Planned work includes resurfacing the southern approach and parts of the northern approach, along with structural deck maintenance and waterproofing.",
+          "title": "Beau Lamarre-Condon told friend if he killed anyone he’d dump belongings in bin and take bodies to bushland, court hears",
+          "summary": "A friend of former police officer Beau Lamarre-Condon told his double-murder trial that he had discussed disposing of belongings and taking bodies to bushland. She also said he once asked whether she would help hide a body, months before Jesse Baird and Luke Davies were killed in 2024; Lamarre-Condon has pleaded not guilty to their murders.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-09-27/brisbane-story-bridge-to-close-for-three-weeks-for-repairs/107200602",
+              "url": "https://www.theguardian.com/australia-news/2026/sep/28/beau-lamarre-condon-murder-trial-court-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Beau Lamarre-Condon told friend if he killed anyone he’d dump belongings in bin and take bodies to bushland, court hears",
+              "excerpt": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in early 2024 – nine months after discussion with friend Georgia Cook Follow our Australia news live blog for latest updates Get our new political email",
+              "imageUrl": "https://i.guim.co.uk/img/media/9121e130e1a0424273a784f6febc21cfcb53dd1d/204_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=cceb847e454fac7c4debd9fa26137861",
+              "imageAlt": "Beau Lamarre-Condon told friend if he killed anyone he’d dump belongings in bin and take bodies to bushland, court hears",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-09-28/beau-lamarre-condon-double-murder-trial-friend-surreal-comments/107203772",
               "source": "ABC Australia",
-              "headline": "Brisbane's Story Bridge to close over new year for maintenance",
-              "excerpt": "Brisbane's iconic Story Bridge is set to close for three weeks over the new year for maintenance. The repairs include resurfacing the southern approach and parts of the northern approach, as well as structural deck maintenance and waterproofing.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/338b20350a88e3d384f8de8bbca4f562?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Brisbane's Story Bridge to close over new year for maintenance",
+              "headline": "Beau Lamarre-Condon told friend how he'd dispose of a body, court hears",
+              "excerpt": "A friend of Beau-Lamarre Condon has told his double murder trial the former cop once asked her if she would help hide a body months before Jesse Baird and Luke Davies were killed in 2024.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/d0b6472cac59a5bf1ad6d62d2fd4db29?impolicy=wcms_crop_resize&cropH=678&cropW=1205&xPos=352&yPos=0&width=862&height=485",
+              "imageAlt": "Beau Lamarre-Condon told friend how he'd dispose of a body, court hears",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -447,26 +430,26 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/338b20350a88e3d384f8de8bbca4f562?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485",
-          "imageAlt": "Brisbane's Story Bridge to close over new year for maintenance",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/9121e130e1a0424273a784f6febc21cfcb53dd1d/204_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=cceb847e454fac7c4debd9fa26137861",
+          "imageAlt": "Beau Lamarre-Condon told friend if he killed anyone he’d dump belongings in bin and take bodies to bushland, court hears",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "‘I can’t be the mum I want to be’: why does parenthood feel so impossible for millennial mothers?",
-          "summary": "The article examines why many millennial mothers feel overwhelmed despite being more educated, employed and involved in childcare than earlier generations. It follows one mother who, struggling to reconcile work, school and childcare schedules, turned to ChatGPT for help making family life manageable.",
+          "summary": "A Guardian feature examines why many millennial mothers feel overwhelmed despite being more educated, employed and involved in childcare than earlier generations. It describes one mother turning to ChatGPT to reconcile work schedules, childcare and school commitments as she searched for a workable routine.",
           "links": [
             {
               "url": "https://www.theguardian.com/lifeandstyle/2026/sep/28/parenthood-millennial-mothers-overwhelmed",
               "source": "The Guardian Australia",
               "headline": "‘I can’t be the mum I want to be’: why does parenthood feel so impossible for millennial mothers?",
-              "excerpt": "Women today are more educated, more employed and more engaged in childcare than generations before them. Is there any way out of the total overwhelm? Early one morning, feeling desperate, Katherine went on to her phone and asked ChatGPT how to make her life work. She plugged in her work hours, her husband’s work schedule, the days she had childcare for her three-year-old, the school hours – plus before- and after-school care times – for her six-year-old; the flexibility her job of",
-              "imageUrl": "https://i.guim.co.uk/img/media/d59e1d56bf60349a63ce372b9e0d56ef2ae2f156/0_0_1973_1578/master/1973.jpg?width=140&quality=85&auto=format&fit=max&s=11d3c49b44e36fb7e7a94306238db753",
+              "excerpt": "Women today are more educated, more employed and more engaged in childcare than generations before them. Is there any way out of the total overwhelm? Early one morning, feeling desperate, Katherine went on to her phone and asked ChatGPT how to make her life work. She plugged in her work hours, her husband’s work schedule, the days she had childcare for her three-year-old, the school hours – plus before- and after-school care times – for her six-year-old; the flexibility her job o",
+              "imageUrl": "https://i.guim.co.uk/img/media/81a6b5a9ecf3e72cb2d1b774a69619449a2636c0/338_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=e52fde88ec784db64de4fd413e878736",
               "imageAlt": "‘I can’t be the mum I want to be’: why does parenthood feel so impossible for millennial mothers?",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
@@ -481,13 +464,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/d59e1d56bf60349a63ce372b9e0d56ef2ae2f156/0_0_1973_1578/master/1973.jpg?width=140&quality=85&auto=format&fit=max&s=11d3c49b44e36fb7e7a94306238db753",
+          "imageUrl": "https://i.guim.co.uk/img/media/81a6b5a9ecf3e72cb2d1b774a69619449a2636c0/338_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=e52fde88ec784db64de4fd413e878736",
           "imageAlt": "‘I can’t be the mum I want to be’: why does parenthood feel so impossible for millennial mothers?",
           "imageCredit": "The Guardian"
         },
         {
           "title": "The Populist: Money nation | Episode 3 - podcast",
-          "summary": "The podcast investigates One Nation’s finances, including the millions it receives in public funding. Former members allege candidates were left out of pocket, donations were lost in the system and questionable financial arrangements went unchecked, prompting questions about accountability inside the party.",
+          "summary": "The third episode of The Populist investigates One Nation’s finances, including the millions it receives in public funding. Former members allege candidates were left out of pocket, donations were lost in the system and questionable deals occurred, raising internal concerns about accountability.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/audio/2026/sep/28/the-populist-money-nation-episode-3-full-story-podcast-ntwnfb",
@@ -515,7 +498,7 @@
         },
         {
           "title": "Back to Back Barries: Labor's migration dilemma – video",
-          "summary": "Barrie Cassidy and Jessie McCrone examine migration reforms announced by Home Affairs Minister Tony Burke and ask whether One Nation is controlling the political narrative. They also consider how the Coalition may respond, discuss The Guardian’s investigative podcast The Populist and look ahead to the Victorian election.",
+          "summary": "Barrie Cassidy and former Victorian government adviser Jessie McCrone examine Labor’s newly announced migration reforms and whether One Nation is shaping the debate. They also consider how the Coalition may respond, discuss The Guardian’s investigative podcast The Populist and look ahead to the Victorian election.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/video/2026/sep/19/back-to-back-barries-labors-migration-dilemma-video",
@@ -548,7 +531,7 @@
       "stories": [
         {
           "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-          "summary": "TechCrunch tested the Sennheiser Momentum 5 headphones over several weeks, assessing sound quality, noise cancellation, comfort and battery life. The review found that the headphones deliver strong sound and exceptional battery life with few compromises.",
+          "summary": "TechCrunch’s review tests the Sennheiser Momentum 5 headphones across sound quality, noise cancellation, comfort and battery life. It finds that strong sound and exceptional battery performance help the model stand out with few compromises.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
@@ -575,8 +558,92 @@
           "imageCredit": "TechCrunch"
         },
         {
+          "title": "Why Europe has been absent from the great AI safety debate",
+          "summary": "A Guardian analysis says Europe has focused on measures governing how consumers encounter AI while remaining less visible in the broader debate over severe AI risks. European Central Bank president Christine Lagarde framed the dilemma as either shunning the technology and sacrificing growth or adopting it while relying on tools built in the US and China.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+              "source": "The Guardian Technology",
+              "headline": "Why Europe has been absent from the great AI safety debate",
+              "excerpt": "Though Europe has measures that address how consumers might encounter AI, technology will impact them if the worst scenarios bear Europe’s dilemma over AI was rendered in stark terms this week. The head of the continent’s central bank, Christine Lagarde, said Europeans have two options: shun the technology and lose out on growth; or embrace it and become dependent on tools developed by the US and China. The great debate over AI safety that has erupted in recent days threatens to m",
+              "imageUrl": "https://i.guim.co.uk/img/media/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=45a993c1b91cd2ca2442927d456c2750",
+              "imageAlt": "Why Europe has been absent from the great AI safety debate",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=45a993c1b91cd2ca2442927d456c2750",
+          "imageAlt": "Why Europe has been absent from the great AI safety debate",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "summary": "The updated Ring Video Doorbell Pro 3 adds a 4K camera, improved Wi-Fi, a sleeker design and new AI features in wired and battery versions. The Guardian’s review describes these as welcome upgrades to Ring’s top video doorbell while noting that it retains the brand’s familiar two-tone look, button and ringtone.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review",
+              "source": "The Guardian Technology",
+              "headline": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "excerpt": "Camera, wifi and design updates bring welcome upgrades to Ring’s top model in wired or battery flavour Ring’s recent revamp of its popular video doorbells with a more modern design is led by the top-of-the-line Video Doorbell Pro 3, which gains much-needed upgrades with a 4K camera and better wifi plus new interesting AI features. The new doorbells are sleeker but keep the unmistakable two-tone Ring colour scheme, button, logo and ringtone. Battery models start at £80 or equivalen",
+              "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+              "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/master/2477.jpg?width=140&quality=85&auto=format&fit=max&s=16ab018de288a2b6bd77ed712f91a0dc",
+          "imageAlt": "Ring Video Doorbell Pro review: night and day better with new 4K camera",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘A critical moment’: concern UK is not up to speed in acting on AI risks",
+          "summary": "Concern is growing that the UK government is not moving quickly enough on AI risks as its attention shifts toward immediate domestic issues. The Guardian reports that senior ministers late in Keir Starmer’s tenure had begun planning an AI safety law, reviewing existing powers and considering requirements for leading AI companies.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/18/a-critical-moment-concern-uk-is-not-up-to-speed-in-acting-on-ai-risks",
+              "source": "The Guardian Technology",
+              "headline": "‘A critical moment’: concern UK is not up to speed in acting on AI risks",
+              "excerpt": "Andy Burnham’s focus on immediate domestic problems leads some to fear issue has dropped off government’s radar Towards the end of Keir Starmer’s time in office, his senior ministers, alarmed by the latest developments in artificial intelligence, began drawing up plans for a new AI safety law. They ordered a review of existing legislation to see what powers they already had, according to those briefed on the plans, and were exploring whether they could force the world’s most adva",
+              "imageUrl": "https://i.guim.co.uk/img/media/f1e841a34d911a660df3a71416d55e346e64d779/660_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1e188af5d12c29a5549a72b4b7450945",
+              "imageAlt": "‘A critical moment’: concern UK is not up to speed in acting on AI risks",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/f1e841a34d911a660df3a71416d55e346e64d779/660_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1e188af5d12c29a5549a72b4b7450945",
+          "imageAlt": "‘A critical moment’: concern UK is not up to speed in acting on AI risks",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "‘Mum, where did my Robux go?’ The Roblox scam targeting children",
-          "summary": "Scammers are targeting children with promises of free Robux, often directing them from YouTube links to sites that imitate Roblox’s login process. The stolen credentials can be used to take in-game currency and harvest players’ personal data.",
+          "summary": "Criminals are targeting children with promises of free Robux to steal Roblox login details, in-game currency and personal data. One described tactic uses a YouTube link that leads to what appears to be the Roblox site, after which the promised currency never arrives and the player’s Robux disappears.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children",
@@ -601,10 +668,206 @@
           "imageUrl": "https://i.guim.co.uk/img/media/01808b73b359b3ef312c77bde55d3669323819b1/1068_0_5413_4333/master/5413.jpg?width=140&quality=85&auto=format&fit=max&s=6a87f7acde2fefcfa07b3db1ed866904",
           "imageAlt": "‘Mum, where did my Robux go?’ The Roblox scam targeting children",
           "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Back home, Mary Jane Veloso begins rebuilding family ties",
+          "summary": "Mary Jane Veloso has returned to her home in Natividad, Nueva Ecija, and begun rebuilding ties with her family. On her first morning there, she woke at 5 a.m. and recalled having to convince herself that she was really home.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2312510/back-home-mary-jane-veloso-begins-rebuilding-family-ties",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Back home, Mary Jane Veloso begins rebuilding family ties",
+              "excerpt": "NUEVA, ECIJA, Philippines — Mary Jane Veloso woke up at 5 a.m. on Sunday, her first morning home in Natividad, Nueva Ecija, and for a moment, had to convince herself that it was real. “Totoo ba ‘to, nasa bahay na ba talaga ako? (Is this real? Am I really home?)” she recalled thinking during a",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Mary-Jane-Veloso-28September2026.jpg",
+              "imageAlt": "Back home, Mary Jane Veloso begins rebuilding family ties",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "article-text: Right cue(s): (woke|cancel culture|left-wing extremis[mt]|socialist agenda)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Mary-Jane-Veloso-28September2026.jpg",
+          "imageAlt": "Back home, Mary Jane Veloso begins rebuilding family ties",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "ITCZ to bring rains, thunderstorms to Visayas, Mindanao on Monday",
+          "summary": "The Intertropical Convergence Zone is expected to bring scattered rain showers and thunderstorms to Palawan, the Visayas and parts of Mindanao on Monday, according to Philippine weather reports. Affected areas include the Zamboanga Peninsula, Northern Mindanao, Caraga, Lanao del Sur and Basilan, while Typhoon Queenie has exited the Philippine Area of Responsibility.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2312618/itcz-to-bring-rains-thunderstorms-to-visayas-mindanao-on-monday",
+              "source": "Philippine Daily Inquirer",
+              "headline": "ITCZ to bring rains, thunderstorms to Visayas, Mindanao on Monday",
+              "excerpt": "MANILA, Philippines — Rain showers and thunderstorms are expected to persist in Palawan, Visayas, and Mindanao on Monday due to the effect of the Intertropical Convergence Zone (ITCZ), the state weather bureau reported. Based on its morning forecast, the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said the ITCZ, or “the line where winds",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/08/PAGASA-Weather-Update-Title-Card.jpg",
+              "imageAlt": "ITCZ to bring rains, thunderstorms to Visayas, Mindanao on Monday",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/",
+              "source": "Rappler World",
+              "headline": "ITCZ affects parts of Philippines; Typhoon Queenie exits PAR",
+              "excerpt": "The Visayas, Zamboanga Peninsula, Northern Mindanao, Caraga, Lanao del Sur, and Basilan have scattered rain and thunderstorms due to the intertropical convergence zone",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/09/queenie-track-september-27-2026-5pm-scaled.png",
+              "imageAlt": "ITCZ affects parts of Philippines; Typhoon Queenie exits PAR",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/08/PAGASA-Weather-Update-Title-Card.jpg",
+          "imageAlt": "ITCZ to bring rains, thunderstorms to Visayas, Mindanao on Monday",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Shared fiber conduit rules must ensure reliable connectivity – group",
+          "summary": "CitizenWatch Philippines supports proposed national rules for shared underground fibre conduits but says the policy must deliver more reliable connectivity. The Private Sector Advisory Council’s digital infrastructure group presented President Ferdinand Marcos Jr. with a “One Canal Policy” proposal that would require telecommunications infrastructure to share conduits.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2312413/shared-fiber-conduit-rules-must-ensure-reliable-connectivity-group",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Shared fiber conduit rules must ensure reliable connectivity – group",
+              "excerpt": "MANILA, Philippines — Consumer advocacy group CitizenWatch Philippines supports the proposal to establish national rules for shared underground conduits but said the policy must result in more reliable connectivity for Filipinos. The Private Sector Advisory Council’s Digital Infrastructure Sector recently presented to President Ferdinand Marcos Jr. the “One Canal Policy,” which would require telecommunications and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2025/12/INTERNET-SPEED-composite-image.jpeg",
+              "imageAlt": "Shared fiber conduit rules must ensure reliable connectivity – group",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2025/12/INTERNET-SPEED-composite-image.jpeg",
+          "imageAlt": "Shared fiber conduit rules must ensure reliable connectivity – group",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Potential source of uranium found in Camarines Norte",
+          "summary": "Filipino scientists have identified a potential uranium resource in Camarines Norte that could support the country’s nuclear-energy ambitions, the Philippine Nuclear Research Institute said. Researchers from the University of the Philippines Diliman, DOST-PNRI and Japan’s Akita University reported finding uranium-bearing material.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2312536/potential-source-of-uranium-found-in-camarines-norte",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Potential source of uranium found in Camarines Norte",
+              "excerpt": "MANILA, Philippines — Filipino scientists have identified a potential uranium resource in Camarines Norte that they hope will help fuel the country’s nuclear energy ambitions, the Philippine Nuclear Research Institute (PNRI) said on Friday. Researchers from the University of the Philippines-Diliman, the Department of Science and Technology (DOST)–PNRI, and Japan’s Akita University reported finding uranium-bearing",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Camarines-Norte-map-filephoto-091322.jpg",
+              "imageAlt": "Potential source of uranium found in Camarines Norte",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Camarines-Norte-map-filephoto-091322.jpg",
+          "imageAlt": "Potential source of uranium found in Camarines Norte",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Palace dares Sara Duterte: Prove claims Marcos admin plots to oust her",
+          "summary": "The Philippine Palace challenged Vice President Sara Duterte to substantiate her allegation that the Marcos administration is trying to prevent the 2028 elections. President Ferdinand Marcos Jr. laughed off the claim when reporters asked him about it during an interview in Pasay City.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2312656/marcos-laughs-off-at-sara-duterte-claim-admin-seeks-to-block-2028-polls",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Marcos laughs off at Sara Duterte claim admin seeks to block 2028 polls",
+              "excerpt": "MANILA, Philippines —President Ferdinand Marcos Jr. on Monday merely laughed off Vice President Sara Duterte’s allegation that the administration is trying to prevent the 2028 elections from taking place. In a media interview in Pasay City, reporters sought a comment on Duterte’s recent remark that the Marcos administration is pushing to stop the 2028 elections, calling",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/10/bongbong-marcos-sara-duterte-FILE.png",
+              "imageAlt": "Marcos laughs off at Sara Duterte claim admin seeks to block 2028 polls",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/10/bongbong-marcos-sara-duterte-FILE.png",
+          "imageAlt": "Marcos laughs off at Sara Duterte claim admin seeks to block 2028 polls",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+          "summary": "TikTok has agreed to pay Alabama at least $100 million to settle allegations concerning the safety of its short-form video platform. The state alleged that TikTok misled users about safety and designed the service to addict children.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+              "source": "TechCrunch",
+              "headline": "TikTok agrees to pay at least $100M in Alabama settlement",
+              "excerpt": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
+              "imageAlt": "TikTok agrees to pay at least $100M in Alabama settlement",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
+          "imageAlt": "TikTok agrees to pay at least $100M in Alabama settlement",
+          "imageCredit": "TechCrunch"
         },
         {
           "title": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
-          "summary": "The article examines resistance to Silicon Valley efforts to reshape society around artificial intelligence and large data centres. Opposition to data centres is presented as a sign of public frustration at having little say over consequential choices, contrasting with technologists’ interest in states designed to maximise science and commercially powered technology.",
+          "summary": "A Guardian feature examines resistance to Silicon Valley efforts to reshape society around AI, including local opposition to data centres. Stanford ethicist Rob Reich argues that the pushback reflects frustration among people who feel excluded from decisions affecting their lives, contrasting that response with technologists’ interest in states designed to maximise science and commercially powered technology.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
@@ -632,7 +895,7 @@
         },
         {
           "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "summary": "Burning Man has turned 40, and the Nevada desert festival is confronting questions about age, identity and direction. The article contrasts its origins in San Francisco’s eccentric underground with an influx of wealthy attendees, including tech billionaires.",
+          "summary": "Burning Man has turned 40 as the Nevada desert arts festival confronts questions about ageing and change. The Guardian describes a gathering rooted in San Francisco’s eccentric underground that now draws an influx of wealthy attendees, including tech billionaires.",
           "links": [
             {
               "url": "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age",
@@ -660,7 +923,7 @@
         },
         {
           "title": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
-          "summary": "TikTok has dropped its appeal against a £12.7 million fine imposed by the UK Information Commissioner’s Office. The watchdog penalised the platform in 2023 for failing to enforce its minimum age and remove enough users younger than 13.",
+          "summary": "TikTok has dropped its appeal and will pay a £12.7 million fine imposed by the UK Information Commissioner’s Office. The watchdog penalised the video app in 2023 for failing to enforce its minimum age limit and do enough to keep children under 13 off the platform.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
@@ -685,188 +948,10 @@
           "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/417_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=429f61953c7ca701f38bae0adfb58c83",
           "imageAlt": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Shared fiber conduit rules must ensure reliable connectivity – group",
-          "summary": "CitizenWatch Philippines supports proposed national rules for shared underground fibre conduits but says the policy must deliver more reliable connectivity for Filipinos. The proposal, called the “One Canal Policy,” was recently presented to President Ferdinand Marcos Jr. by the Private Sector Advisory Council’s Digital Infrastructure Sector.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2312413/shared-fiber-conduit-rules-must-ensure-reliable-connectivity-group",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Shared fiber conduit rules must ensure reliable connectivity – group",
-              "excerpt": "MANILA, Philippines — Consumer advocacy group CitizenWatch Philippines supports the proposal to establish national rules for shared underground conduits but said the policy must result in more reliable connectivity for Filipinos. The Private Sector Advisory Council’s Digital Infrastructure Sector recently presented to President Ferdinand Marcos Jr. the “One Canal Policy,” which would require telecommunications and",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/12/INTERNET-SPEED-composite-image.jpeg",
-              "imageAlt": "Shared fiber conduit rules must ensure reliable connectivity – group",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/12/INTERNET-SPEED-composite-image.jpeg",
-          "imageAlt": "Shared fiber conduit rules must ensure reliable connectivity – group",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "NCRPO readies security, assistance during 3-day transport strike",
-          "summary": "The National Capital Region Police Office is preparing security and commuter assistance for a three-day transport strike running from Monday to Wednesday. Officer-in-Charge Brig. Gen. Christopher Abrahano directed police districts and stations to coordinate with local governments, transport authorities and partner agencies.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2312466/ncrpo-readies-security-assistance-during-3-day-transport-strike",
-              "source": "Philippine Daily Inquirer",
-              "headline": "NCRPO readies security, assistance during 3-day transport strike",
-              "excerpt": "MANILA, Philippines — The National Capital Region Police Office (NCRPO) ensured public safety and assistance to commuters who may be affected by the transport strike from Monday to Wednesday. NCRPO Officer-in-Charge Brig. Gen. Christopher Abrahano directed all police districts and stations to coordinate with concerned local government units, transport authorities, and other partner agencies to",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/07/NCRPO.png",
-              "imageAlt": "NCRPO readies security, assistance during 3-day transport strike",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/07/NCRPO.png",
-          "imageAlt": "NCRPO readies security, assistance during 3-day transport strike",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Typhoon Queenie exits PAR",
-          "summary": "Typhoon Queenie, internationally named Surigae, exited the Philippine area of responsibility on Sunday afternoon. Pagasa said the storm was being monitored outside the area as of 2 p.m.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2312394/typhoon-queenie-exits-par",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Typhoon Queenie exits PAR",
-              "excerpt": "MANILA, Philippines — Typhoon Queenie exited the Philippine area of responsibility (PAR) on Sunday afternoon, according to the state weather bureau. In its latest update, the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said Queenie, with the international name Surigae, was monitored outside the PAR as of 2 p.m. READ: Typhoon Queenie intensifies while",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/image-40.png",
-              "imageAlt": "Typhoon Queenie exits PAR",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/image-40.png",
-          "imageAlt": "Typhoon Queenie exits PAR",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Marcos’ 69th birthday outreach benefits over 170,000 Filipinos",
-          "summary": "Government assistance activities tied to President Ferdinand Marcos Jr.’s 69th birthday celebrations benefited more than 170,000 Filipinos during the month. Officials reported 175,565 beneficiaries across about 282 participating sites.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2312590/marcos-69th-birthday-outreach-benefits-over-170000-filipinos",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Marcos’ 69th birthday outreach benefits over 170,000 Filipinos",
-              "excerpt": "MANILA, Philippines — More than 170,000 Filipinos benefited from government assistance activities held in connection with 69th birthday celebrations of President Marcos in different parts of the country this month. “Overall, we were able to benefit 175,565 beneficiaries across approximately 282 participating sites. That is why we received many letters of gratitude from our fellow",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/marcos-birthday-69.jpg",
-              "imageAlt": "Marcos’ 69th birthday outreach benefits over 170,000 Filipinos",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/marcos-birthday-69.jpg",
-          "imageAlt": "Marcos’ 69th birthday outreach benefits over 170,000 Filipinos",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "CHEd closes 26 teacher education programs",
-          "summary": "The Commission on Higher Education has closed 26 teacher-education programs at 11 institutions for failing to meet quality standards. CHEd Chair Shirley Agrupis disclosed the closures during Senate deliberations on the commission’s proposed ₱35.45 billion budget under the 2027 National Expenditure Program.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2312171/ched-closes-26-teacher-education-programs",
-              "source": "Philippine Daily Inquirer",
-              "headline": "CHEd closes 26 teacher education programs",
-              "excerpt": "MANILA, Philippines — The Commission on Higher Education (CHEd) has closed 26 teacher education programs in 11 teacher education institutions (TEIs) for failing to comply with quality standards. CHEd Chair Shirley Agrupis made the disclosure during last Friday’s Senate deliberations on the commission’s P35.45 billion budget under the 2027 National Expenditure Program. “We have 11",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/07/Screenshot-2025-07-04-at-12.18.15___PM.png",
-              "imageAlt": "CHEd closes 26 teacher education programs",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/07/Screenshot-2025-07-04-at-12.18.15___PM.png",
-          "imageAlt": "CHEd closes 26 teacher education programs",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-          "summary": "TikTok has agreed to pay Alabama at least $100 million to settle allegations concerning the safety and design of its short-form video platform. The state alleged that TikTok misled users about safety and designed the service to addict children.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-              "source": "TechCrunch",
-              "headline": "TikTok agrees to pay at least $100M in Alabama settlement",
-              "excerpt": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
-              "imageAlt": "TikTok agrees to pay at least $100M in Alabama settlement",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
-          "imageAlt": "TikTok agrees to pay at least $100M in Alabama settlement",
-          "imageCredit": "TechCrunch"
         },
         {
           "title": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-          "summary": "The Australian psychodrama Lenore follows Max Wren, a shut-in man whose parasocial obsession with an online influencer becomes dangerous. The review says the film captures a dislocated digital-age mindset and his screen-filled basement existence, but does not fully get inside his mind.",
+          "summary": "The Australian psychodrama Lenore follows Max Wren, a dangerously disaffected shut-in whose obsession with an online influencer becomes a study of a dislocated digital-age mindset. The Guardian’s review says the film tracks his screen-filled, basement-bound mania but does not fully get inside his mind.",
           "links": [
             {
               "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset",
@@ -890,90 +975,6 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/2f75e6c5307a034f48dfaf0555bd1a2129342ca9/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=1cb35761d858a45c3eea9aa51d6846b3",
           "imageAlt": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-          "summary": "Pope Leo warned against humanity becoming lost in a “paradise of machines” as he began a three-day visit to France. During the first official papal visit to the country in 18 years, he said artificial intelligence must remain at the service of people.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-              "source": "The Guardian Technology",
-              "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-              "excerpt": "Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 years Pope Leo has warned against losing humanity in a “paradise of machines” as he addressed global concerns over the dangers of artificial intelligence at the start of a three-day visit to France. “If we are to avoid losing our",
-              "imageUrl": "https://i.guim.co.uk/img/media/bda0afa989fbdccf5e1501fceef9d84965bd6fff/16_0_1379_1103/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=4ca1a5352f5e47303462cbba9ba0de1f",
-              "imageAlt": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/bda0afa989fbdccf5e1501fceef9d84965bd6fff/16_0_1379_1103/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=4ca1a5352f5e47303462cbba9ba0de1f",
-          "imageAlt": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Playing video games with my 22-year-old son has brought me to tears | Dominik Diamond",
-          "summary": "Dominik Diamond writes about spending three weeks living with his 22-year-old son in a two-bedroom flat they call the “brotel.” Alongside cooking and watching films and television, they revisit the first video game they played together, turning the experience into an emotional reflection on their relationship.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/sep/25/playing-video-games-with-my-22-year-old-son-has-brought-me-to-tears-call-of-duty-modern-warfare-2",
-              "source": "The Guardian Technology",
-              "headline": "Playing video games with my 22-year-old son has brought me to tears",
-              "excerpt": "I’ve been holed up in an flat, affectionately dubbed the ‘brotel’, with my son for weeks – and we’ve revisited the first game we ever played together I have spent the last three weeks living with my 22-year-old son in a two-bedroom flat he has dubbed the ”brotel”. We cook curries and watch Lanterns . We barbecue meat and analyse Tarantin",
-              "imageUrl": "https://i.guim.co.uk/img/media/e54f5543416648876f61a8752184313fa113dd3b/280_0_2305_1845/master/2305.jpg?width=140&quality=85&auto=format&fit=max&s=19efec143b6df9e09a33076a1f897f6d",
-              "imageAlt": "Playing video games with my 22-year-old son has brought me to tears | Dominik Diamond",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/e54f5543416648876f61a8752184313fa113dd3b/280_0_2305_1845/master/2305.jpg?width=140&quality=85&auto=format&fit=max&s=19efec143b6df9e09a33076a1f897f6d",
-          "imageAlt": "Playing video games with my 22-year-old son has brought me to tears | Dominik Diamond",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Why fans are digging their claws into Wolverine over its patronising gameplay",
-          "summary": "Players are criticising Marvel’s Wolverine and other blockbuster games for guidance they regard as patronising. Highlighted ledges and characters that repeatedly tell players what to do are cited as features that reduce challenge and have prompted a backlash from fans.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/sep/23/why-are-gamers-ripping-into-the-new-wolverine-game",
-              "source": "The Guardian Technology",
-              "headline": "Why fans are digging their claws into Wolverine over its patronising gameplay",
-              "excerpt": "From highlighted ledges to characters telling you what to do, blockbuster games are increasingly taking the challenge out of playing – and players are pushing back • Don’t get Pushing Buttons delivered to your inbox? Sign up here Marvel’s Wolverine, the latest action game from Sony’s stable of exp",
-              "imageUrl": "https://i.guim.co.uk/img/media/a7ae8a7d178fd983965b51ae3afb0c7876c211f6/518_2_2298_1838/master/2298.jpg?width=140&quality=85&auto=format&fit=max&s=38b5a02aecc0e74bea062164a918ec55",
-              "imageAlt": "Why fans are digging their claws into Wolverine over its patronising gameplay",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/a7ae8a7d178fd983965b51ae3afb0c7876c211f6/518_2_2298_1838/master/2298.jpg?width=140&quality=85&auto=format&fit=max&s=38b5a02aecc0e74bea062164a918ec55",
-          "imageAlt": "Why fans are digging their claws into Wolverine over its patronising gameplay",
           "imageCredit": "The Guardian"
         }
       ]
