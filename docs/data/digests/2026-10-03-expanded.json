@@ -2,24 +2,88 @@
   "id": "2026-10-03-expanded",
   "date": "2026-10-03",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-10-03T03:00:38.068039",
+  "generatedAt": "2026-10-03T12:30:26.313579",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-10-03T03:00:38",
+  "updatedAt": "2026-10-03T12:30:26",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "N.Y. governor says Cornell rape accuser was 'failed' by people obligated to protect her",
-          "summary": "New York Governor Kathy Hochul said the woman who accused seven Cornell University students of raping her at a fraternity house in 2024 was failed by campus police and the county prosecutor. Hochul appointed a prosecutor after saying local authorities had not properly investigated the allegations.",
+          "title": "Flydubai Hijacker Was Barred by Oman, Flagged ‘Security Risk’ — Intended to Crash Jet in Israel",
+          "summary": "Breitbart, the Daily Wire and the Washington Examiner report that Oman had previously barred the Omani Flydubai co-pilot from flying over concerns about radical or extremist views. The reports say he later stabbed the captain during an attempted hijacking of a flight carrying 174 passengers, while Breitbart says he told investigators he intended to crash the aircraft in Israel.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
+              "url": "https://www.breitbart.com/politics/2026/10/02/flydubai-hijacker-was-barred-by-oman-flagged-security-risk-intended-to-crash-jet-in-israel/",
+              "source": "Breitbart",
+              "headline": "Flydubai Hijacker Was Barred by Oman, Flagged ‘Security Risk’ — Intended to Crash Jet in Israel",
+              "excerpt": "The Omani co-pilot accused of trying to crash a Flydubai passenger jet carrying more than 170 people, nearly all of them Israeli, had previously been barred from flying over concerns about extremist views and identified as a security risk — and has indicated to investigators that he intended to crash the aircraft in Israel, according to reports Friday. The post <a rel=\"nofollow\" href=\"https://www.breitbart.com/politics/2026/10/02/flydubai-hijacker-was-barred-by-oman-flagged-security-ri",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Flydubai-Aircraft-Pilot-Stabbing-640x335.jpeg",
+              "imageAlt": "Flydubai Hijacker Was Barred by Oman, Flagged ‘Security Risk’ — Intended to Crash Jet in Israel",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/oman-banned-flydubai-co-pilot-over-radical-views-before-cockpit-attack",
+              "source": "Daily Wire",
+              "headline": "Oman Banned FlyDubai Co-Pilot Over ‘Radical’ Views Before Cockpit Attack",
+              "excerpt": "Oman had banned the FlyDubai co-pilot accused of stabbing his captain in an attempted hijacking from flying over concerns that he had adopted “radical ideological views,” according to a new report. Despite the ban, FlyDubai hired the Omani national, allowing him to fly the route between the United Arab Emirates and Israel, The Wall Street ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2297340556-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Oman Banned FlyDubai Co-Pilot Over ‘Radical’ Views Before Cockpit Attack",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4752652/flydubai-hijacker-ban-flying-oman-radical-beliefs/",
+              "source": "Washington Examiner",
+              "headline": "Flydubai hijacker previously barred from flying by Oman over radical beliefs: Report",
+              "excerpt": "The co-pilot who hijacked a Flydubai flight carrying 174 passengers and stabbed his captain on Wednesday was previously banned from flying by Oman over his radical beliefs. Israeli officials identified the hijacker as an Omani national, but according to a Wall Street Journal report, the individual was banned from operating an aircraft by the country. […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/flydubai-plane.jpg?w=696",
+              "imageAlt": "Flydubai hijacker previously barred from flying by Oman over radical beliefs: Report",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/10/Flydubai-Aircraft-Pilot-Stabbing-640x335.jpeg",
+          "imageAlt": "Flydubai Hijacker Was Barred by Oman, Flagged ‘Security Risk’ — Intended to Crash Jet in Israel",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "What we know about Christa Pike’s condition after failed execution",
+          "summary": "Lawyers for Christa Pike say she was unconscious, on a ventilator and critically ill in a Nashville hospital after surviving two lethal-injection attempts in Tennessee. Al Jazeera reports that doctors were working to clear pentobarbital from her system.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
-              "excerpt": "New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T142146Z_1286935840_RC21VNAJ7W9U_RTRMADP_3_USA-CRIME-CORNELL-1790955963.jpg?resize=1920%2C1440",
-              "imageAlt": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
+              "headline": "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
+              "excerpt": "The Tennessee woman's legal team says doctors are working to clear doses of the drug pentobarbital from her system.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac015eb276de-1790973419.jpg?resize=1920%2C1440",
+              "imageAlt": "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,12 +96,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-              "excerpt": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d36/live/09d5ba60-be7c-11f1-a64c-550be9e3c66b.jpg",
-              "imageAlt": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+              "headline": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+              "excerpt": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg",
+              "imageAlt": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -49,35 +113,35 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac015eb276de-1790973419.jpg?resize=1920%2C1440",
+          "imageAlt": "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "summary": "Flydubai captain Smit Machchhar recounted his co-pilot’s midair cockpit attack on a flight to Tel Aviv during a call with Indian Prime Minister Narendra Modi. Machchhar said he opened the cockpit door to let others in because he was not going to let others die.",
+          "links": [
             {
-              "url": "https://www.washingtontimes.com/news/2026/oct/2/new-york-governor-says-cornell-rape-accuser-failed-people-obligated/",
-              "source": "Washington Times",
-              "headline": "N.Y. governor says Cornell rape accuser was 'failed' by people obligated to protect her",
-              "excerpt": "The woman who accused members of a Cornell University fraternity of gang rape was \"failed\" by people obligated to protect her, including campus police and the county prosecutor, New York Gov. Kathy Hochul said Friday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/02/APTOPIX_Cornell_Investigation_1_652_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "N.Y. governor says Cornell rape accuser was 'failed' by people obligated to protect her",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
+              "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+              "excerpt": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac0255b54b1-1790977371.jpg?resize=1920%2C1440",
+              "imageAlt": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
               "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T142146Z_1286935840_RC21VNAJ7W9U_RTRMADP_3_USA-CRIME-CORNELL-1790955963.jpg?resize=1920%2C1440",
-          "imageAlt": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Blood-Soaked Pilot Reveals Moment He Knew He Had To Get Up Or Terrorist Would Win",
-          "summary": "Captain Smit Machchhar has described surviving a cockpit stabbing attack aboard Flydubai Flight FZ1073 and deciding to act so others would not die. He told Indian Prime Minister Narendra Modi that he opened the cockpit door to let others in during the attack, and appeared on camera for the first time since the incident.",
-          "links": [
+            },
             {
               "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -96,60 +160,118 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac0255b54b1-1790977371.jpg?resize=1920%2C1440",
+          "imageAlt": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Riot police clash with students as education protests rage in France",
+          "summary": "Student protests over education standards and teacher shortages have disrupted about 735 schools across France, according to the BBC. Al Jazeera and the BBC report that students clashed with police, with some schools set on fire as the unrest spread.",
+          "links": [
             {
-              "url": "https://www.breitbart.com/asia/2026/10/02/hero-pilot-flydubai-flight-speaks-interview-indian-pm-modi/",
-              "source": "Breitbart",
-              "headline": "Hero Pilot of Flydubai Flight Speaks in Interview with Indian PM Modi",
-              "excerpt": "Captain Smit Machchhar, the copilot of Flydubai Flight FZ1073, appeared on camera for the first time since the dramatic incident. The post Hero Pilot of Flydubai Flight Speaks in Interview with Indian PM Modi appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/Captain-Smit-Machchharj-Flydubai-hero-pilot-640x335.jpg",
-              "imageAlt": "Hero Pilot of Flydubai Flight Speaks in Interview with Indian PM Modi",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/blood-soaked-pilot-who-stopped-israels-9-11-speaks-on-camera-from-hospital-bed",
-              "source": "Daily Wire",
-              "headline": "Blood-Soaked Pilot Reveals Moment He Knew He Had To Get Up Or Terrorist Would Win",
-              "excerpt": "The heroic Indian Flydubai aviator who saved the plane and its passengers from a Muslim terrorist opened up for the first time about the harrowing moment his own co-pilot turned on him in a brutal airborne stabbing frenzy. Despite bleeding out on the cockpit floor from horrific stab wounds, Captain Smit Machchhar summoned every last ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/hero-pilot-hospital-.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Blood-Soaked Pilot Reveals Moment He Knew He Had To Get Up Or Terrorist Would Win",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Schools ablaze as student protests spread across France",
+              "excerpt": "Students have set fire to schools and clashed with police as protests spread across France",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790991962.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Schools ablaze as student protests spread across France",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Riot police clash with students as education protests rage in France",
+              "excerpt": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
+              "imageAlt": "Riot police clash with students as education protests rage in France",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8316/live/441b8c40-be3b-11f1-a64c-550be9e3c66b.jpg",
-          "imageAlt": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-          "imageCredit": "BBC"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790991962.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Schools ablaze as student protests spread across France",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
-          "summary": "An Ethiopian government-aligned group claims it is close to taking full control of the Tigray region as violence intensifies across northern Ethiopia. Ethiopian forces are battling rebel fighters, while Ethiopia and Eritrea have cut diplomatic ties amid worsening diplomatic and humanitarian conditions.",
+          "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+          "summary": "A Flydubai pilot emotionally recounted the attack in which his co-pilot was overpowered. The BBC says he has been hailed as a hero for opening the cockpit door and allowing passengers to intervene, while Al Jazeera describes him as a national hero.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
-              "excerpt": "Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aba25c8accd-1790584264.jpg?resize=1920%2C1440",
-              "imageAlt": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
+              "headline": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+              "excerpt": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790974469.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Watch: Emotional pilot recounts moment of Flydubai attack",
+              "excerpt": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba1c/live/ef0f91d0-be42-11f1-a64c-550be9e3c66b.png",
+              "imageAlt": "Watch: Emotional pilot recounts moment of Flydubai attack",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790974469.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+          "summary": "Ethiopia and Eritrea have cut diplomatic ties as Ethiopian forces battle rebel fighters in the country’s north. Al Jazeera reports that Addis Ababa has accused Egypt, Eritrea and Sudan of backing armed groups, raising concern that the conflict could spread across the region.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Could conflict in Ethiopia expand across the region?",
+              "excerpt": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790964553.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Could conflict in Ethiopia expand across the region?",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -182,57 +304,57 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aba25c8accd-1790584264.jpg?resize=1920%2C1440",
-          "imageAlt": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1790964553.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Could conflict in Ethiopia expand across the region?",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "U.S. hiring slows, unemployment ticks higher with a month remaining before Americans head to polls",
-          "summary": "The U.S. economy added 29,000 jobs in September and unemployment rose from 4.1% to 4.2%, according to the Labor Department figures cited by the outlets. The hiring gain fell short of economists’ expectation of 85,000 jobs and came about a month before the midterm elections.",
+          "title": "Christa Pike’s Bizarre Behavior During Failed Execution",
+          "summary": "The Daily Wire reports that Christa Pike laughed, sang a Buddhist meditation and later snored after Tennessee officials administered two rounds of lethal-injection drugs during a failed execution. Fox News and the Washington Times report that her attorneys subsequently described her as unconscious, critically ill and breathing through a ventilator, and sought to preserve evidence from the execution attempt.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/economy/2026/10/2/us-job-growth-slows-as-unemployment-rises-before-midterm-elections?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "US adds just 29,000 jobs as unemployment rises before midterm elections",
-              "excerpt": "The US economy added 29,000 jobs in September, with unemployment rising to 4.2 percent, according to Labor Department.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfccd3e38b8-1790954707.jpg?resize=1920%2C1440",
-              "imageAlt": "US adds just 29,000 jobs as unemployment rises before midterm elections",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.breitbart.com/economy/2026/10/02/america-added-29000-jobs-in-september-unemployment-ticked-up-to-4-2/",
-              "source": "Breitbart",
-              "headline": "America Added 29,000 Jobs in September, Unemployment Ticked Up to 4.2%",
-              "excerpt": "The U.S. economy added 29,000 jobs in September and the unemployment rate rose to 4.2 percent. Economists had expected the economy to add 85,000 jobs and the unemployment to hold steady at 4.1 percent. The U.S. labor market has experienced The post America Added 29,000 Jobs in September, Unemployment Ticked Up to 4.2% appeared first on <a rel=\"n",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2295570718-e1790944051873-638x335.jpg",
-              "imageAlt": "America Added 29,000 Jobs in September, Unemployment Ticked Up to 4.2%",
-              "outlet": "Breitbart",
+              "url": "https://www.dailywire.com/news/christa-pikes-bizarre-behavior-during-failed-execution",
+              "source": "Daily Wire",
+              "headline": "Christa Pike’s Bizarre Behavior During Failed Execution",
+              "excerpt": "Christa Pike was supposed to die Wednesday night. Instead, the Tennessee death row inmate reportedly laughed, sang a Buddhist meditation, and eventually snored so loudly that one witness compared it to someone having “the best sleep of her life,” all after prison officials administered two rounds of lethal injection drugs. Pike, 50, was scheduled to ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2024/01/GettyImages-526765082-scaled-e1706278095776.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Christa Pike’s Bizarre Behavior During Failed Execution",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
-              "sourceReliability": "low",
+              "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/oct/2/us-hiring-slows-unemployment-ticks-higher-month-americans-head-polls/",
+              "url": "https://www.foxnews.com/us/death-row-inmate-unconscious-ventilator-botched-execution-teens-killing-attorneys",
+              "source": "Fox News",
+              "headline": "Death row inmate unconscious on ventilator after botched execution for teen’s killing: attorneys",
+              "excerpt": "Christa Pike remains unconscious on a ventilator after Tennessee's botched lethal injection as attorneys file to preserve execution evidence.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Christa-Pike-Botched-Execution-defense-Filing-001.jpg?ve=1&tl=1",
+              "imageAlt": "Death row inmate unconscious on ventilator after botched execution for teen’s killing: attorneys",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/2/christa-pike-tenn-death-row-inmate-breathing-ventilator-botched/",
               "source": "Washington Times",
-              "headline": "U.S. hiring slows, unemployment ticks higher with a month remaining before Americans head to polls",
-              "excerpt": "U.S. employers added a disappointing 29,000 jobs and the unemployment rate ticked up last month, the government reported Friday, a month before voters go to the polls in pivotal midterm elections at a time of discontent over the high cost of living and the state of the economy.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/02/US_Employment_84964_s697x929.jpg?bf9a90e8fc027861223f0634d8f96f43da14e0ab",
-              "imageAlt": "U.S. hiring slows, unemployment ticks higher with a month remaining before Americans head to polls",
+              "headline": "Tenn. death row inmate Christa Pike breathing through ventilator following botched execution attempt",
+              "excerpt": "Attorneys for Tennessee death row inmate Christa Pike say she is in critical condition, unconscious and breathing through a ventilator following a botched lethal injection attempt Wednesday night.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/01/Tennessee_Execution__8469_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Tenn. death row inmate Christa Pike breathing through ventilator following botched execution attempt",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -246,166 +368,9 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfccd3e38b8-1790954707.jpg?resize=1920%2C1440",
-          "imageAlt": "US adds just 29,000 jobs as unemployment rises before midterm elections",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Riot police clash with students as education protests rage in France",
-          "summary": "Riot police have clashed with students during French protests over education standards and teacher shortages. More than 600 schools have been disrupted, and the education minister said students were in danger as hundreds of injuries were reported nationwide.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Protests shutter hundreds of French schools as violence flares",
-              "excerpt": "Education minister declares students 'in danger' as hundreds of injuries reported across the country.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T113329Z_680601561_RC2ZUNAZ041H_RTRMADP_3_FRANCE-PROTEST-1790942281.jpg?resize=1920%2C1440",
-              "imageAlt": "Protests shutter hundreds of French schools as violence flares",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Riot police clash with students as education protests rage in France",
-              "excerpt": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
-              "imageAlt": "Riot police clash with students as education protests rage in France",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T113329Z_680601561_RC2ZUNAZ041H_RTRMADP_3_FRANCE-PROTEST-1790942281.jpg?resize=1920%2C1440",
-          "imageAlt": "Protests shutter hundreds of French schools as violence flares",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Hochul Wants An ‘Independent’ Investigation Into ‘Cornell 7.’ Enter Letitia James.",
-          "summary": "New York Governor Kathy Hochul removed the Cornell gang-rape case from the local district attorney and appointed Attorney General Letitia James as special prosecutor. James then announced an active criminal investigation, while conservative outlets questioned whether prior public statements by Hochul and James could affect the inquiry’s impartiality.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/10/02/nolte-gov-kathy-hochul-appoints-disgraced-ag-letitia-james-as-cornell-special-prosecutor-in-gang-rape-case/",
-              "source": "Breitbart",
-              "headline": "Nolte: Gov. Kathy Hochul Appoints Disgraced AG Letitia James as Cornell Special Prosecutor in Gang Rape Case",
-              "excerpt": "Democrat New York Gov. Kathy Hochul announced on Thursday that she has appointed disgraced New York Attorney General Letitia James as a special prosecutor to take over the Cornell University gang rape case. The post Nolte: Gov. Kathy Hochul Appoints Disgraced AG Letitia James as Cornell Special Prosecutor in G",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2290193487-640x335.png",
-              "imageAlt": "Nolte: Gov. Kathy Hochul Appoints Disgraced AG Letitia James as Cornell Special Prosecutor in Gang Rape Case",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/hochul-wants-an-independent-investigation-into-cornell-7-enter-letitia-james",
-              "source": "Daily Wire",
-              "headline": "Hochul Wants An ‘Independent’ Investigation Into ‘Cornell 7.’ Enter Letitia James.",
-              "excerpt": "New York Democratic Gov. Kathy Hochul has taken the controversial “Cornell 7” case away from the local district attorney and handed it to Attorney General Letitia James as a special prosecutor — even as both Hochul and James have already made public statements that raise questions about how dispassionately the new investigation will approach the ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2298242792.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Hochul Wants An ‘Independent’ Investigation Into ‘Cornell 7.’ Enter Letitia James.",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/us/cornell-rape-allegations-prompt-ny-attorney-general-letitia-james-open-active-criminal-investigation",
-              "source": "Fox News",
-              "headline": "Cornell rape allegations prompt NY Attorney General Letitia James to open ‘active criminal investigation’",
-              "excerpt": "Letitia James announced an active criminal probe into the alleged Cornell University gang rape after Gov. Kathy Hochul named her special prosecutor.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Letitia_James_Hochul.jpg?ve=1&tl=1",
-              "imageAlt": "Cornell rape allegations prompt NY Attorney General Letitia James to open ‘active criminal investigation’",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2290193487-640x335.png",
-          "imageAlt": "Nolte: Gov. Kathy Hochul Appoints Disgraced AG Letitia James as Cornell Special Prosecutor in Gang Rape Case",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Virginia Sanctuary City Frees Illegal Alien from Jail Despite Child Sex Crime Charges",
-          "summary": "Fairfax County released a Honduran man charged with child sex crimes despite an Immigration and Customs Enforcement detainer, according to the linked reports. ICE later arrested him, and the Department of Homeland Security criticized the Virginia county over the release.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/10/01/virginia-sanctuary-city-frees-illegal-alien-jail-child-sex-crime-charges/",
-              "source": "Breitbart",
-              "headline": "Virginia Sanctuary City Frees Illegal Alien from Jail Despite Child Sex Crime Charges",
-              "excerpt": "Officials in Fairfax County, Virginia, released an illegal alien from police custody despite child sexual abuse charges against him and an Immigration and Customs Enforcement (ICE) detainer. The post Virginia Sanctuary City Frees Illegal Alien from Jail Despite Child Sex Crime Charges appeared first on <a rel=\"nofollow\" href=\"https://www.",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/Screenshot-2026-09-30-at-12.57.23%E2%80%AFPM-640x335.png",
-              "imageAlt": "Virginia Sanctuary City Frees Illegal Alien from Jail Despite Child Sex Crime Charges",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/dhs-torches-sanctuary-fairfax-accused-child-predator-released-despite-immigration-detainer",
-              "source": "Fox News",
-              "headline": "DHS torches sanctuary Fairfax after accused child predator released despite immigration detainer",
-              "excerpt": "DHS blasted Fairfax County, Virginia, after ICE arrested a Honduran illegal immigrant charged with child sex crimes whom the sanctuary county had released.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/news-image-fox-news_029.jpg?ve=1&tl=1",
-              "imageAlt": "DHS torches sanctuary Fairfax after accused child predator released despite immigration detainer",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/10/Screenshot-2026-09-30-at-12.57.23%E2%80%AFPM-640x335.png",
-          "imageAlt": "Virginia Sanctuary City Frees Illegal Alien from Jail Despite Child Sex Crime Charges",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://dw-wp-production.imgix.net/2024/01/GettyImages-526765082-scaled-e1706278095776.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Christa Pike’s Bizarre Behavior During Failed Execution",
+          "imageCredit": "Daily Wire"
         }
       ]
     },
@@ -414,7 +379,7 @@
       "stories": [
         {
           "title": "Which old rockers are still touring?",
-          "summary": "The story title asks which veteran rock musicians are still touring, but the only linked item concerns a different subject. That Spectator Australia article argues that Chancellor John Healey should cut fuel taxes to avert a winter diesel crisis following his Labour conference pledge of a “new age of industrialisation.”",
+          "summary": "The story title asks which veteran rock musicians are still touring, but the sole linked Spectator Australia item concerns a call for John Healey to cut fuel taxes to avert a winter diesel crisis. The available linked headline and excerpt provide no information about touring musicians.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/10/john-healey-should-slash-fuel-taxes-to-avert-a-winter-diesel-crisis/",
@@ -441,16 +406,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Inquiry hears 'blue code of silence' stops DV victims reporting police",
-          "summary": "A Tasmanian inquiry heard that domestic-violence victim-survivors whose alleged abusers are police officers fear they will not be believed or treated seriously. Their concern centres on police officers’ interconnected relationships and a perceived “blue code of silence.”",
+          "title": "Could exposure to sharks reduce fear and boost conservation efforts?",
+          "summary": "Juliana Gleave’s childhood viewing of Jaws inspired a fascination with sharks, whose numbers the ABC says have fallen by 70 per cent since the film was released. She is investigating whether greater familiarity with sharks can reduce fear and improve conservation awareness.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-10-02/tas-blue-code-of-silence-stops-dv-victims-reporting-police/107221656",
+              "url": "https://www.abc.net.au/news/2026-10-03/exposure-to-sharks-reduce-fear-and-boost-conservation-sa/107180928",
               "source": "ABC Australia",
-              "headline": "Inquiry hears 'blue code of silence' stops DV victims reporting police",
-              "excerpt": "Victim-survivors of police officers are concerned they will not be believed or treated seriously because of the \"interconnected relationships\" that police have with each other, a Tasmanian inquiry hears.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/9bc1e6ecf41a13ca6954fd31112e7f83?impolicy=wcms_crop_resize&cropH=3293&cropW=5854&xPos=1154&yPos=0&width=862&height=485",
-              "imageAlt": "Inquiry hears 'blue code of silence' stops DV victims reporting police",
+              "headline": "Could exposure to sharks reduce fear and boost conservation efforts?",
+              "excerpt": "Watching Jaws as a child led to Juliana Gleave's fascination with sharks. Now, with their numbers reduced by 70 per cent since the movie was released, she is working to see if familiarity can lead to better conservation awareness.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/d6d618d7f5a7edbe9867544d5e33bd8c?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Could exposure to sharks reduce fear and boost conservation efforts?",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -465,21 +430,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/9bc1e6ecf41a13ca6954fd31112e7f83?impolicy=wcms_crop_resize&cropH=3293&cropW=5854&xPos=1154&yPos=0&width=862&height=485",
-          "imageAlt": "Inquiry hears 'blue code of silence' stops DV victims reporting police",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/d6d618d7f5a7edbe9867544d5e33bd8c?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+          "imageAlt": "Could exposure to sharks reduce fear and boost conservation efforts?",
           "imageCredit": "ABC News"
         },
         {
-          "title": "Inside the group chats of the trash-talking NSW young Liberals who dreamed big – then imploded",
-          "summary": "Messages from a group of young NSW Liberal members known as the Reformers document their campaign to shift the state party to the right and how the group later unravelled. In one 2018 email, co-founder Robert Assaf celebrated taking control of the Coffs Harbour branch from the party’s left wing.",
+          "title": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson",
+          "summary": "Shirleene Robinson argues that AI may weaken people’s ability to listen, even as much public concern focuses on its effect on writing. Citing a study that found Australians lost an average of 338 spoken words a day between 2005 and 2019, she says conversation and engagement with different views are integral to humanity.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/03/icac-young-liberals-group-chats-trash-talking-ntwnfb",
+              "url": "https://www.theguardian.com/commentisfree/2026/oct/03/ai-threatens-to-destroy-so-much-of-our-culture-our-greatest-loss-might-be-our-ability-to-listen",
               "source": "The Guardian Australia",
-              "headline": "Inside the group chats of the trash-talking NSW young Liberals who dreamed big – then imploded",
-              "excerpt": "The Reformers were once ‘twentysomething-year-old guys’ hoping to shift the NSW party to the right. Their messages show how it all went wrong In July 2018, a group of young Sydney Liberal party members calling themselves the Reformers were riding high. “Great News, God has granted us a victory and we have officially taken the Coffs Harbour branch away from the left wing,” Robert Assaf, one of the Reformers co-founders, wrote in an email to a newly recruited Liberal party member.</",
-              "imageUrl": "https://i.guim.co.uk/img/media/407cbaf1a81f9a917ab32a7c29bb02fdbb6e6efe/0_0_4966_3973/master/4966.jpg?width=140&quality=85&auto=format&fit=max&s=d270ca8f6d8ae62d82cf6a9fd53bac59",
-              "imageAlt": "Inside the group chats of the trash-talking NSW young Liberals who dreamed big – then imploded",
+              "headline": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen",
+              "excerpt": "Australians are conversing less every year, with a recent study showing we lost an average of 338 spoken words each day between 2005 and 2019 We talk a lot about losing our ability to write as a result of AI. I’m convinced our greatest loss might be our ability to listen. Listening to different views and entering into different worlds is integral to our humanity. But Australians are conversing less every year. While rapidly evolving AI tools and chatbots promise faster responses a",
+              "imageUrl": "https://i.guim.co.uk/img/media/5d3b450e4a0c5e69771bf94be244b56927f0c872/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=664865818e1b7928817d3942933bfc18",
+              "imageAlt": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -488,18 +453,18 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/407cbaf1a81f9a917ab32a7c29bb02fdbb6e6efe/0_0_4966_3973/master/4966.jpg?width=140&quality=85&auto=format&fit=max&s=d270ca8f6d8ae62d82cf6a9fd53bac59",
-          "imageAlt": "Inside the group chats of the trash-talking NSW young Liberals who dreamed big – then imploded",
+          "imageUrl": "https://i.guim.co.uk/img/media/5d3b450e4a0c5e69771bf94be244b56927f0c872/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=664865818e1b7928817d3942933bfc18",
+          "imageAlt": "AI threatens to destroy so much of our culture. Our greatest loss might be our ability to listen | Shirleene Robinson",
           "imageCredit": "The Guardian"
         },
         {
           "title": "Christa Pike should be allowed to live",
-          "summary": "The story title argues that Christa Pike should be allowed to live and references the late Esther Rantzen’s campaign for assisted suicide, but the only linked item covers a different topic. That Spectator Australia article criticizes Andy Burnham’s defence of Manchester City following his Labour conference speech.",
+          "summary": "The story title argues that Christa Pike should be allowed to live, but its sole linked Spectator Australia item is about Andy Burnham’s defence of Manchester City. The available linked headline and excerpt do not contain information about Pike or the argument presented in the title.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/10/burnhams-bizarre-man-city-defence/",
@@ -531,16 +496,34 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Pope Leo XIV is not a fan of AI-generated art",
-          "summary": "Pope Leo XIV has rejected the idea that machine-generated images are equivalent to human art. He wrote that there is an ontological as well as aesthetic difference because algorithms use statistical calculation over others’ images and “lack the spark of humanity.”",
+          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": "Apple says it will tighten macOS Full Disk Access controls because increasingly capable AI agents make broad access to user data riskier. TechCrunch says the permission can expose files, messages, mail and browsing history, while The Verge reports that Apple plans new limits on that access.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+              "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+              "source": "The Verge",
+              "headline": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+              "excerpt": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, <a href=\"https://techcrunch.com/2026/10/02/apple-says-it",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
               "source": "TechCrunch",
-              "headline": "Pope Leo XIV is not a fan of AI-generated art",
-              "excerpt": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-              "imageAlt": "Pope Leo XIV is not a fan of AI-generated art",
+              "headline": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+              "excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+              "imageAlt": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -554,13 +537,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-          "imageAlt": "Pope Leo XIV is not a fan of AI-generated art",
-          "imageCredit": "TechCrunch"
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+          "imageCredit": "The Verge"
         },
         {
           "title": "‘Just like my big brothers’: boy with cerebral palsy passes GCSEs with eye-tracking technology",
-          "summary": "Patrick McCabe, a 16-year-old pupil with cerebral palsy at Fallibroome Academy in Cheshire, passed his GCSEs using eye-tracking technology. His achievement illustrates both the possibilities of assistive technology and the limits of the special educational needs and disabilities system.",
+          "summary": "Patrick McCabe, a 16-year-old with cerebral palsy, passed his GCSEs using eye-tracking technology. The Guardian says his achievement at Fallibroome Academy in Macclesfield highlights both the possibilities and limits of the special educational needs and disabilities system.",
           "links": [
             {
               "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
@@ -587,8 +570,54 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Meta open sources code to let you make Muse AI gadgets",
+          "summary": "Meta has released code that lets developers build gadgets featuring its Muse AI agent. TechCrunch says the company wants Muse incorporated into devices ranging from televisions to toasters and is making the code available for free.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+              "source": "TechCrunch",
+              "headline": "Meta wants your next gadget to be Muse-infused",
+              "excerpt": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+              "imageAlt": "Meta wants your next gadget to be Muse-infused",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+              "source": "The Verge",
+              "headline": "Meta open sources code to let you make Muse AI gadgets",
+              "excerpt": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with co",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+              "imageAlt": "Meta open sources code to let you make Muse AI gadgets",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+          "imageAlt": "Meta wants your next gadget to be Muse-infused",
+          "imageCredit": "TechCrunch"
+        },
+        {
           "title": "‘If you can’t hold it, you don’t own it’: why media fans want to escape algorithms with CDs, DVDs and vinyl",
-          "summary": "Some media fans are returning to CDs, DVDs, vinyl and cassettes to retain control over their collections and avoid the algorithms, interruptions and uncertainty of streaming. Others value the tactile experience of physical formats or see buying them as a way to protect data and support artists.",
+          "summary": "Media fans are returning to CDs, DVDs, vinyl and cassettes to retain control of their collections and avoid the algorithms, interruptions and uncertainty of streaming. People cited by The Guardian also point to protecting data, supporting artists and the tactile experience of physical formats.",
           "links": [
             {
               "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
@@ -616,7 +645,7 @@
         },
         {
           "title": "‘We’re not going to back down’: tiny Dorset B&B stands up to Airbnb’s legal bid to ‘monopolise’ letters ‘bnb’",
-          "summary": "A six-room Dorset guesthouse called bnb-side is resisting a legal challenge from Airbnb over its use of the letters “bnb.” The Isle of Portland business says its name refers to the local b-side arts festival, whose future the guesthouse was created to support.",
+          "summary": "Bnb-side, a six-room bed and breakfast on Dorset’s Isle of Portland, is resisting an Airbnb legal challenge over the letters “bnb” in its name. The guesthouse’s name refers to the local b-side arts festival, whose future the business was created to help support, while Airbnb says the name threatens its global brand.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
@@ -641,34 +670,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/76f2af58beec314abd801f350a25f3b5afc3c222/966_683_2113_1690/master/2113.jpg?width=140&quality=85&auto=format&fit=max&s=35f8251a8dffca769e8de983737d1cb5",
           "imageAlt": "‘We’re not going to back down’: tiny Dorset B&B stands up to Airbnb’s legal bid to ‘monopolise’ letters ‘bnb’",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
-          "summary": "The Guardian’s review says Gears of War: E-Day delivers the strongest combat in the series’ 20-year history but disappoints in the elements surrounding it. The Xbox and PC game depicts the franchise’s long-referenced Emergence Day, when alien creatures erupt from the ground amid widespread chaos.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
-              "source": "The Guardian Technology",
-              "headline": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
-              "excerpt": "Xbox, PC (version tested); The Coalition/Xbox Game Studios E-Day boasts the best combat in 20 years of Gears games – but everything surrounding it is disappointing Every Gears of War game released in the last 20 years has made reverent reference to Emergence Day, when alien creatures emerged from the earth, single-minded in their savagery. In E-Day, you’re there to witness it: the police lights, flipped cars, ground tremors, civilians running, aliens pouring out of f",
-              "imageUrl": "https://i.guim.co.uk/img/media/706d703828c3323af61b4044429b92816e9a4d0e/279_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=52918d0310fbf1937d2fc729c6b6a08b",
-              "imageAlt": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/706d703828c3323af61b4044429b92816e9a4d0e/279_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=52918d0310fbf1937d2fc729c6b6a08b",
-          "imageAlt": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -676,16 +677,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Trillanes won’t explain pressure, hits Escudero for not issuing subpoena",
-          "summary": "Former senator Antonio Trillanes IV declined to identify who he believes pressured the prosecution over his testimony, but criticized impeachment trial presiding officer Francis Escudero over subpoenas. Senate impeachment court spokesperson Reginald Tongol called Trillanes’s belief that he was unwelcome at the trial a baseless assumption.",
+          "title": "Quezon regains bird flu-free status",
+          "summary": "The Philippine Department of Agriculture has again declared Quezon province free of avian influenza. The declaration followed disease-control measures and subsequent negative tests, according to the provincial government’s Public Information Office.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2315739/thinking-trillanes-is-not-welcome-in-trial-is-a-baseless-assumption-tongol",
+              "url": "https://newsinfo.inquirer.net/2316073/quezon-regains-bird-flu-free-status",
               "source": "Philippine Daily Inquirer",
-              "headline": "Thinking Trillanes is ‘not welcome’ in trial is a ‘baseless assumption’ – Tongol",
-              "excerpt": "MANILA, Philippines — The impression of former Sen. Antonio Trillanes IV that he is “not welcome” in the impeachment court is a “baseless assumption,” Senate impeachment court spokesperson Atty. Reginald Tongol said on Friday. Trillanes, in a press conference, said that it is “clear” that he is “not welcome” at the Senate impeachment court after",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/4725cce3-245a-4b4d-ab66-2666ff108f8a-e1774238316122.jpeg",
-              "imageAlt": "Thinking Trillanes is ‘not welcome’ in trial is a ‘baseless assumption’ – Tongol",
+              "headline": "Quezon regains bird flu-free status",
+              "excerpt": "LUCENA CITY — The Department of Agriculture (DA) has once again declared Quezon province free of avian influenza, commonly known as bird flu. This situation comes following the implementation of disease control measures and subsequent negative test results. The provincial government’s Public Information Office (PIO) reported that Agriculture Secretary Francisco Tiu Laurel issued the declaration",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/07/Chicken-DA-photo-PNA-20July2024.jpg",
+              "imageAlt": "Quezon regains bird flu-free status",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -696,70 +697,24 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/newsbreak/inside-track/trillanes-calls-out-escudero-not-explicitly-blame-impeachment-trial-withdrawal-witness/",
-              "source": "Rappler World",
-              "headline": "Who’s behind Trillanes’ trial withdrawal? He won’t say Escudero, but calls him out",
-              "excerpt": "Former senator Antonio Trillanes IV doesn't explicitly disclose what he means when he says the prosecution is being pressured over his testimony, but he still can't resist taking a swipe at the trial's presiding officer",
-              "imageUrl": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg",
-              "imageAlt": "Who’s behind Trillanes’ trial withdrawal? He won’t say Escudero, but calls him out",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/4725cce3-245a-4b4d-ab66-2666ff108f8a-e1774238316122.jpeg",
-          "imageAlt": "Thinking Trillanes is ‘not welcome’ in trial is a ‘baseless assumption’ – Tongol",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DENR releases communication on $100-M Marcopper disaster settlement",
-          "summary": "The Philippine Department of Environment and Natural Resources has released a long-awaited communication concerning a US$100 million settlement between Marinduque’s provincial government and Barrick Gold Corporation. The settlement relates to the 1995 Marcopper mine disaster, which environmental advocates say has polluted the province’s waterways for decades.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2315796/denr-releases-communication-on-100-m-marcopper-disaster-settlement",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DENR releases communication on $100-M Marcopper disaster settlement",
-              "excerpt": "CALAPAN CITY— The Department of Environment and Natural Resources (DENR) has released its long-awaited communication related to the US$100-million settlement between the Marinduque provincial government and Canadian-firm Barrick Gold Corporation over the 1995 Marcopper mine disaster that has polluted Marinduque waterways for decades, according to the Marinduque Council for Environmental Concerns (MACEC). In a Facebook",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/1000028781-e1790933256648.jpg",
-              "imageAlt": "DENR releases communication on $100-M Marcopper disaster settlement",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/1000028781-e1790933256648.jpg",
-          "imageAlt": "DENR releases communication on $100-M Marcopper disaster settlement",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/07/Chicken-DA-photo-PNA-20July2024.jpg",
+          "imageAlt": "Quezon regains bird flu-free status",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "PhilHealth seeks to address double coverage of workers with HMOs, PHIs",
-          "summary": "PhilHealth is seeking to address workers’ overlapping state, HMO and private health-insurance coverage, according to the story title. Separately, the linked report says three Pangasinan municipalities petitioned PhilHealth for an accounting of provincial primary-care funds, including P1,700 allocated for each qualified beneficiary.",
+          "summary": "PhilHealth is seeking to address what it calls double coverage among workers who contribute to the state insurer while also receiving employer-provided HMO or private health insurance. The agency says some members rely mainly on their private plans for medical care.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2315754/3-pangasinan-towns-seek-accounting-of-philhealth-primary-care-funds",
+              "url": "https://newsinfo.inquirer.net/2315888/philhealth-seeks-to-address-double-coverage-of-workers-with-hmos-phis",
               "source": "Philippine Daily Inquirer",
-              "headline": "3 Pangasinan towns seek accounting of PhilHealth primary care funds",
-              "excerpt": "MANILA, Philippines — Three municipalities filed a joint petition with the Philippine Health Insurance Corp. (PhilHealth) to obtain an accounting of Pangasinan’s primary care funds managed by its province-wide health system. The move seeks to shed light on how the P1,700 in PhilHealth primary care funding allocated to qualified beneficiaries in the province was spent",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/08/philhealth08262021.png",
-              "imageAlt": "3 Pangasinan towns seek accounting of PhilHealth primary care funds",
+              "headline": "PhilHealth seeks to address double coverage of workers with HMOs, PHIs",
+              "excerpt": "MANILA, Philippines—Philippine Health Insurance Corp. (PhilHealth) is seeking to address what it describes as “double coverage” among workers who contribute to the state health insurer while also receiving health maintenance organization (HMO) or private health insurance (PHI) coverage from their employers. PhilHealth said some members rely mainly on their private health plans for medical care",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/12/philhealth-file.png",
+              "imageAlt": "PhilHealth seeks to address double coverage of workers with HMOs, PHIs",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -773,13 +728,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/08/philhealth08262021.png",
-          "imageAlt": "3 Pangasinan towns seek accounting of PhilHealth primary care funds",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/12/philhealth-file.png",
+          "imageAlt": "PhilHealth seeks to address double coverage of workers with HMOs, PHIs",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Dinagyang main tribes competition returns to downtown Iloilo",
-          "summary": "The Dinagyang Festival’s main tribes competition is set to return to Iloilo City’s historic downtown in January 2027. Organizers have proposed five judging areas and a redesigned illuminated street parade, with routes and schedules presented to festival stakeholders for consultation.",
+          "summary": "The Dinagyang Festival’s main tribes competition is set to return to Iloilo City’s historic downtown in January 2027. Organisers have proposed five judging areas and a redesigned lighted street parade, presenting initial routes and schedules to festival stakeholders at a consultative meeting.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2315935/dinagyang-main-tribes-competition-returns-to-downtown-iloilo",
@@ -806,16 +761,44 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Marcos, Dy join Angara in Isabela school visit for feeding program",
-          "summary": "President Ferdinand Marcos Jr. and House Speaker Faustino Dy III joined Education Secretary Sonny Angara at Patul Elementary School in Santiago City, Isabela. The visit highlighted children’s nutrition, safety and wellbeing programs, including the education department’s Home-Grown School Feeding initiative providing hot meals.",
+          "title": "Volcanic quakes raise eruption risk at Kanlaon",
+          "summary": "Phivolcs recorded 105 volcanic-tectonic earthquakes beneath Kanlaon Volcano from Thursday noon to Friday morning and warned of a possible eruption. A resident volcanologist said the strongest event was a magnitude-3 volcanic earthquake recorded at 2:10 a.m.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2315793/marcos-dy-join-angara-in-isabela-school-visit-for-feeding-program",
+              "url": "https://newsinfo.inquirer.net/2315954/volcanic-quakes-raise-eruption-risk-at-kanlaon",
               "source": "Philippine Daily Inquirer",
-              "headline": "Marcos, Dy join Angara in Isabela school visit for feeding program",
-              "excerpt": "MANILA, Philippines — President Ferdinand R. Marcos Jr. and House Speaker Faustino “Bojie” G. Dy III joined Education Secretary Sonny Angara in a visit to Patul Elementary School in Santiago City, Isabela, on Friday to highlight programs supporting children’s nutrition, safety, and well-being. The visit featured DepEd’s Home-Grown School Feeding program, which provides nutritious hot meals",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/FerdinandMarcosJr-Isabela-02Oct2026.jpg",
-              "imageAlt": "Marcos, Dy join Angara in Isabela school visit for feeding program",
+              "headline": "Volcanic quakes raise eruption risk at Kanlaon",
+              "excerpt": "BACOLOD CITY — A total of 105 volcanic-tectonic (VT) earthquakes were recorded beneath Kanlaon Volcano from Thursday noon to Friday morning, prompting the Philippine Institute of Volcanology and Seismology (Phivolcs) to warn of possible eruption. According to Mari-Andylene Quintia, Phivolcs resident volcanologist, the strongest was a magnitude 3 volcanic earthquake recorded at 2:10 a.m. on",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Kanlaon-Volcano-02oct2026.jpeg",
+              "imageAlt": "Volcanic quakes raise eruption risk at Kanlaon",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Kanlaon-Volcano-02oct2026.jpeg",
+          "imageAlt": "Volcanic quakes raise eruption risk at Kanlaon",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Habitat loss remains top threat to Mindoro’s Tamaraws",
+          "summary": "Conservation leaders warn that unchecked clearing of Mindoro’s forests and grasslands for farms, housing, businesses and infrastructure is pushing the critically endangered tamaraw closer to the brink. The Mindoro Biodiversity Conservation Foundation raised the warning at a forum on September 29.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2315834/habitat-loss-remains-top-threat-to-mindoros-tamaraws",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Habitat loss remains top threat to Mindoro’s Tamaraws",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — The unchecked clearing of forests and grasslands for farms, housing, businesses, and infrastructure continues to push the critically endangered Tamaraw to the brink, conservation leaders warned. The Mindoro Biodiversity Conservation Foundation Inc. (MBCFI) sounded the alarm during the Kapihan sa PIA Oriental Mindoro forum on September 29, noting that the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/1000028779-1.jpg",
+              "imageAlt": "Habitat loss remains top threat to Mindoro’s Tamaraws",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -829,8 +812,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/FerdinandMarcosJr-Isabela-02Oct2026.jpg",
-          "imageAlt": "Marcos, Dy join Angara in Isabela school visit for feeding program",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/1000028779-1.jpg",
+          "imageAlt": "Habitat loss remains top threat to Mindoro’s Tamaraws",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -839,16 +822,16 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "summary": "Apple says it will introduce tighter controls for macOS Full Disk Access permissions as AI agents become more capable. The company warned that broad access to files, messages, email and browsing history creates greater risks when such agents can act on a user’s behalf.",
+          "title": "Pope Leo XIV is not a fan of AI-generated art",
+          "summary": "Pope Leo XIV has rejected the idea that AI-generated images are equivalent to human art. He wrote that machine output is based on statistical calculation across millions of images made by others and said algorithms lack “the spark of humanity.”",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+              "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
               "source": "TechCrunch",
-              "headline": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-              "excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-              "imageAlt": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+              "headline": "Pope Leo XIV is not a fan of AI-generated art",
+              "excerpt": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
+              "imageAlt": "Pope Leo XIV is not a fan of AI-generated art",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -862,13 +845,69 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-          "imageAlt": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
+          "imageAlt": "Pope Leo XIV is not a fan of AI-generated art",
           "imageCredit": "TechCrunch"
         },
         {
+          "title": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
+          "summary": "The Guardian’s review says Gears of War: E-Day delivers the series’ best combat in 20 years but finds the material surrounding it disappointing. The game puts players at Emergence Day, depicting police lights, overturned cars, tremors, fleeing civilians and aliens pouring from the ground.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
+              "source": "The Guardian Technology",
+              "headline": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
+              "excerpt": "Xbox, PC (version tested); The Coalition/Xbox Game Studios E-Day boasts the best combat in 20 years of Gears games – but everything surrounding it is disappointing Every Gears of War game released in the last 20 years has made reverent reference to Emergence Day, when alien creatures emerged from the earth, single-minded in their savagery. In E-Day, you’re there to witness it: the police lights, flipped cars, ground tremors, civilians running, aliens pouring out of f",
+              "imageUrl": "https://i.guim.co.uk/img/media/706d703828c3323af61b4044429b92816e9a4d0e/279_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=52918d0310fbf1937d2fc729c6b6a08b",
+              "imageAlt": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/706d703828c3323af61b4044429b92816e9a4d0e/279_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=52918d0310fbf1937d2fc729c6b6a08b",
+          "imageAlt": "Gears of War: E-Day review – an alien invasion shouldn’t be this boring",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘I miss old Google’: readers tell us how they search the internet in the age of AI",
+          "summary": "Google’s AI Overviews now place an AI-generated summary ahead of the traditional list of links, changing how users encounter search results. The Guardian reports that the feature is shifting the browsing habits of billions of people and prompting some readers to say they miss the older Google experience.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
+              "source": "The Guardian Technology",
+              "headline": "‘I miss old Google’: readers tell us how they search the internet in the age of AI",
+              "excerpt": "A feature called AI Overviews has been a profound change, and the browsing habits of billions of people are shifting Google has put artificial intelligence at the front and center of its search bar. The most-visited site on the internet still shows the same list of links to users, but they have to scroll past a summarized response from an AI chatbot, a feature Google calls AI Overviews. The change to what was once the gateway t",
+              "imageUrl": "https://i.guim.co.uk/img/media/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/master/3623.jpg?width=140&quality=85&auto=format&fit=max&s=7fcb5a0ba75fd467a177db6aef429d1e",
+              "imageAlt": "‘I miss old Google’: readers tell us how they search the internet in the age of AI",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/master/3623.jpg?width=140&quality=85&auto=format&fit=max&s=7fcb5a0ba75fd467a177db6aef429d1e",
+          "imageAlt": "‘I miss old Google’: readers tell us how they search the internet in the age of AI",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "‘It could get an orgasm out of a cabbage’: the best vibrators, tested",
-          "summary": "A Guardian sexual-wellbeing review tested 67 vibrators across bullet, rabbit and wand designs and selected 17 leading models. The guide aims to explain the available categories and notes a Durex survey in which nearly one-fifth of women called a sex toy their most dependable route to climax.",
+          "summary": "The Guardian’s sexual-wellbeing reviewer tested 67 vibrators and selected 17 leading models across bullet, rabbit and wand designs. The article also cites a Durex survey in which almost one-fifth of women said a sex toy was their most dependable route to climax.",
           "links": [
             {
               "url": "https://www.theguardian.com/thefilter/2025/feb/23/best-vibrators-bullet-rabbit-wand",
@@ -896,7 +935,7 @@
         },
         {
           "title": "SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’",
-          "summary": "SpaceX launched four astronauts toward the International Space Station for a mission expected to last until spring after a three-week delay. Commander Jessica Watkins, the first Black woman to lead an orbital crew, is making her second trip to the station.",
+          "summary": "SpaceX launched four astronauts toward the International Space Station on Thursday for a mission expected to last until spring after a three-week delay. Commander Jessica Watkins, the first Black woman to lead a crew to orbit, is making her second trip to the station; the crew also includes a Canadian astronaut whose wife is due to give birth while he is away.",
           "links": [
             {
               "url": "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch",
@@ -920,62 +959,6 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/6231a3945ccafdb5e0a1e2229d52219baf56e78e/949_882_3138_2510/master/3138.jpg?width=140&quality=85&auto=format&fit=max&s=6336abfd735538f2ea6830f10a69959c",
           "imageAlt": "SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
-          "summary": "A Guardian product test selected 14 dehumidifiers intended to reduce condensation, mould and musty smells. The guide also presents dehumidifiers as a potentially cheaper way to dry laundry than tumble dryers, while explaining how everyday activities add humidity indoors.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
-              "source": "The Guardian Technology",
-              "headline": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
-              "excerpt": "Fed up with condensation, mould and musty smells? A dehumidifier could help – plus, they’re a cheaper way to dry laundry compared with tumble dryers • The best electric blankets and heated throws, tested by our expert You don’t have to live in the American deep south to feel the effects of humidity. At home, just breathing makes the air more humid, let alone cookin",
-              "imageUrl": "https://i.guim.co.uk/img/media/273bb0e7e4744bed07df3a7a32fce1b43ce606a4/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2b3288a10415baec970b5b8ba145b25e",
-              "imageAlt": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/273bb0e7e4744bed07df3a7a32fce1b43ce606a4/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2b3288a10415baec970b5b8ba145b25e",
-          "imageAlt": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
-          "summary": "The Guardian reports that ChatGPT, Grok, Gemini and Claude edited images to remove Muslim women’s hijabs when prompted. The tests followed an incident in which a French far-right politician altered a Muslim woman’s photo, and the report describes such edits as violating a common and visible expression of faith.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
-              "source": "The Guardian Technology",
-              "headline": "AI chatbots remove hijabs from images of Muslim women when prompted",
-              "excerpt": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chatbots will edit images to remove the hijabs from Muslim women, a violation of one of the world’s most common and visible expressions of faith. The Guardian asked ChatGPT , Grok, Gemini and Claude to take the veil off an",
-              "imageUrl": "https://i.guim.co.uk/img/media/976016b244ec75038c7b4d519a0cbce1e2e70696/0_103_3400_2720/master/3400.jpg?width=140&quality=85&auto=format&fit=max&s=a247cfc363b6adeb0b7a64d6d1432f3a",
-              "imageAlt": "AI chatbots remove hijabs from images of Muslim women when prompted",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Left",
-              "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/976016b244ec75038c7b4d519a0cbce1e2e70696/0_103_3400_2720/master/3400.jpg?width=140&quality=85&auto=format&fit=max&s=a247cfc363b6adeb0b7a64d6d1432f3a",
-          "imageAlt": "AI chatbots remove hijabs from images of Muslim women when prompted",
           "imageCredit": "The Guardian"
         }
       ]
