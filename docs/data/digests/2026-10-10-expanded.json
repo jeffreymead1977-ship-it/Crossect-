@@ -2,24 +2,24 @@
   "id": "2026-10-10-expanded",
   "date": "2026-10-10",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-10-10T03:00:18.470170",
+  "generatedAt": "2026-10-10T12:30:17.535820",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-10-10T03:00:18",
+  "updatedAt": "2026-10-10T12:30:17",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Trump Loses Nobel To Israel Genocide Accuser Who Then Mocks Him On Stage",
-          "summary": "The Norwegian Nobel Committee awarded the 2026 Peace Prize to former UN human rights chief Navi Pillay, citing her work for peace and international law. Al Jazeera highlighted the 85-year-old South African judge’s decades fighting apartheid and genocide, while the Daily Wire sharply criticised the choice and portrayed her as hostile to Israel.",
+          "title": "UN whistleblower accuses Nobel winner of being ‘complicit in the Uyghur genocide’",
+          "summary": "South African jurist and former UN human rights chief Navi Pillay has won the 2026 Nobel Peace Prize for efforts to promote peace and international law. A UN whistleblower accused Pillay of ignoring and being “complicit in the Uyghur genocide”, while other coverage highlighted criticism of her record and her current role as an ad hoc judge at the International Court of Justice.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Who is Navi Pillay, winner of the 2026 Nobel Peace Prize?",
-              "excerpt": "The 85-year-old South African judge has spent decades fighting apartheid and genocide.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac90a957c49-1791560341.jpg?resize=1920%2C1440",
-              "imageAlt": "Who is Navi Pillay, winner of the 2026 Nobel Peace Prize?",
+              "headline": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+              "excerpt": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2011-01-19T120000Z_1307908534_BM2E71J17EO01_RTRMADP_3_TUNISIA-UN-1791577750.jpg?resize=1920%2C1440",
+              "imageAlt": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -51,18 +51,36 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.dailywire.com/news/trump-loses-nobel-to-israel-genocide-accuser-who-then-mocks-him-on-stage",
-              "source": "Daily Wire",
-              "headline": "Trump Loses Nobel To Israel Genocide Accuser Who Then Mocks Him On Stage",
-              "excerpt": "In a stunning display of moral bankruptcy, the Norwegian Nobel Committee on Friday awarded its 2026 Peace Prize to former United Nations tribunal boss Navi Pillay, a militant anti-Israel ideologue whose career has been defined by an obsession with delegitimizing the Jewish state. Giving the top international honor to the 85-year-old South African jurist came ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2298704310.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Trump Loses Nobel To Israel Genocide Accuser Who Then Mocks Him On Stage",
-              "outlet": "Daily Wire",
+              "url": "https://www.breitbart.com/middle-east/2026/10/09/nobel-peace-prize-for-2026-awarded-to-anti-israel-south-african-judge/",
+              "source": "Breitbart",
+              "headline": "Nobel Peace Prize for 2026 Awarded to Anti-Israel South African Judge",
+              "excerpt": "The 2026 Nobel Peace Prize was awarded on Friday to South African judge and former United Nations High Commissioner for Human Rights Navanethem \"Navi\" Pillay, currently serving as an ad hoc judge at the International Court of Justice (ICJ). The post Nobel Peace Prize for 2026 Awarded to Anti-Israel South African Judge appeared first on <a",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2298728718-640x335.png",
+              "imageAlt": "Nobel Peace Prize for 2026 Awarded to Anti-Israel South African Judge",
+              "outlet": "Breitbart",
               "sourceBias": "Right",
-              "sourceReliability": "medium",
+              "sourceReliability": "low",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4762037/un-whistleblower-nobel-winner-complicit-uyghur-genocide/",
+              "source": "Washington Examiner",
+              "headline": "UN whistleblower accuses Nobel winner of being ‘complicit in the Uyghur genocide’",
+              "excerpt": "A U.N. whistleblower accused former U.N. human rights chief Navi Pillay, who was announced as the winner of the Nobel Peace Prize on Friday, of ignoring and even being “complicit in the Uyghur genocide.” Almost as soon as Pillay, 85, was chosen for the award, a flurry of criticisms emerged, largely around her focus on […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/navi-pillay.jpg?w=696",
+              "imageAlt": "UN whistleblower accuses Nobel winner of being ‘complicit in the Uyghur genocide’",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
@@ -70,21 +88,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac90a957c49-1791560341.jpg?resize=1920%2C1440",
-          "imageAlt": "Who is Navi Pillay, winner of the 2026 Nobel Peace Prize?",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2011-01-19T120000Z_1307908534_BM2E71J17EO01_RTRMADP_3_TUNISIA-UN-1791577750.jpg?resize=1920%2C1440",
+          "imageAlt": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Mullin Calls Out Mamdani’s Stunning Double Standard On Criminal Illegal Immigrants",
-          "summary": "An ICE-involved shooting in Manhattan’s Marble Hill neighbourhood prompted protests and condemnation from New York City Mayor Zohran Mamdani, while DHS said the officers believed they were in danger. Homeland Security Secretary Markwayne Mullin attacked Mamdani’s response as dangerous and accused him of defending a migrant who, according to the Washington Times account, had a lengthy criminal record and tried to run down ICE officers.",
+          "title": "Katie Zacharia Offered White House Press Secretary Position",
+          "summary": "President Donald Trump announced conservative commentator Katie Zacharia as the next White House press secretary in a Truth Social post. Zacharia currently works as a communications adviser at Trump Media & Technology Group, and Trump described her as “a devoted fan”.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-              "excerpt": "The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac9085d656d-1791559773.jpg?resize=1920%2C1440",
-              "imageAlt": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
+              "headline": "Katie Zacharia selected to be next White House press secretary",
+              "excerpt": "US President Donald Trump called the conservative commentator 'a devoted fan'.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP21039654690168-1791571215.jpg?resize=1920%2C1440",
+              "imageAlt": "Katie Zacharia selected to be next White House press secretary",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -97,48 +115,207 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/mullin-calls-out-mamdanis-stunning-double-standard-on-criminal-illegal-immigrants",
-              "source": "Daily Wire",
-              "headline": "Mullin Calls Out Mamdani’s Stunning Double Standard On Criminal Illegal Immigrants",
-              "excerpt": "Homeland Security Secretary Markwayne Mullin slammed New York City Mayor Zohran Mamdani for his defense of the wanted criminal illegal immigrant whom Immigration and Customs Enforcement (ICE) officers shot Thursday in Manhattan’s Marble Hill neighborhood. Mullin made the fiery comments during a press conference Friday morning. Just hours before, Mamdani said he spent two hours ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/i-16.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Mullin Calls Out Mamdani’s Stunning Double Standard On Criminal Illegal Immigrants",
-              "outlet": "Daily Wire",
+              "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Commentator Katie Zacharia picked as new White House press secretary",
+              "excerpt": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b258/live/476d9530-c414-11f1-9a39-31b474234113.jpg",
+              "imageAlt": "Commentator Katie Zacharia picked as new White House press secretary",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/10/09/katie-zacahria-offered-white-house-press-secretary-position/",
+              "source": "Breitbart",
+              "headline": "Katie Zacharia Offered White House Press Secretary Position",
+              "excerpt": "President Donald Trump announced Katie Zacharia as the next press secretary via a post on Truth Social. The post Katie Zacharia Offered White House Press Secretary Position appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Katie-Zachariah-640x335.jpg",
+              "imageAlt": "Katie Zacharia Offered White House Press Secretary Position",
+              "outlet": "Breitbart",
               "sourceBias": "Right",
-              "sourceReliability": "medium",
+              "sourceReliability": "low",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP21039654690168-1791571215.jpg?resize=1920%2C1440",
+          "imageAlt": "Katie Zacharia selected to be next White House press secretary",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Zelensky bashes Trump over diesel deal with Russia",
+          "summary": "President Donald Trump announced that Russia would supply millions of tons of diesel to the US and global markets following a call with Russian President Vladimir Putin. Ukrainian President Volodymyr Zelensky sharply criticised the deal as a gift to Putin and an “investment in war that must be ended, not prolonged”.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+              "excerpt": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+              "imageAlt": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/10/09/trump-putin-deal-russian-diesel-fuel-u-s/",
+              "source": "Breitbart",
+              "headline": "Trump Announces Deal with Putin to Deliver Russian Diesel to U.S.",
+              "excerpt": "President Donald Trump announced Friday that Russia has agreed to supply millions of tons of diesel fuel to the American and global market, following a call with Russian President Vladimir Putin. The post Trump Announces Deal with Putin to Deliver Russian Diesel to U.S. appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/President-Donald-Trump-Russian-president-Vladimir-Putin-august2025-whflickr-640x335.jpg",
+              "imageAlt": "Trump Announces Deal with Putin to Deliver Russian Diesel to U.S.",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4762031/zelensky-bashes-trump-russia-diesel-deal/",
+              "source": "Washington Examiner",
+              "headline": "Zelensky bashes Trump over diesel deal with Russia",
+              "excerpt": "Ukrainian President Volodymyr Zelensky bashed President Donald Trump’s deal with Russia to supply millions of tons of diesel fuel to global markets, giving arguably his most direct and biting criticism of Trump so far. Trump announced the deal on Friday in a post on Truth Social after a phone call with Russian President Vladimir Putin, […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/zelensky-trump-russia-diesel-deal.jpg?w=696",
+              "imageAlt": "Zelensky bashes Trump over diesel deal with Russia",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+          "imageAlt": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Peruvian Voters Elect Man Named 'Hitler Mussolini’ as Mayor",
+          "summary": "Hitler Mussolini Simeon Flores won the mayoral race in Queropalca, a remote district in the Peruvian Andes. The left-wing candidate secured a narrow victory, according to exit polls cited in the coverage.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Man named Hitler Mussolini elected mayor in Peru",
+              "excerpt": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8a/live/e5e46370-c3f5-11f1-9a39-31b474234113.png",
+              "imageAlt": "Man named Hitler Mussolini elected mayor in Peru",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/latin-america/2026/10/09/peruvian-voters-elect-man-named-hitler-mussolini-as-mayor/",
+              "source": "Breitbart",
+              "headline": "Peruvian Voters Elect Man Named 'Hitler Mussolini’ as Mayor",
+              "excerpt": "The race for mayor in the Peruvian town of Queropalca was won on Friday by a candidate with one of the most provocative names imaginable: Hitler Mussolini Simeon Flores. The post Peruvian Voters Elect Man Named ‘Hitler Mussolini’ as Mayor appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Hitler-Mussolini-Simeon-Flores-640x335.jpg",
+              "imageAlt": "Peruvian Voters Elect Man Named 'Hitler Mussolini’ as Mayor",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8a/live/e5e46370-c3f5-11f1-9a39-31b474234113.png",
+          "imageAlt": "Man named Hitler Mussolini elected mayor in Peru",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Trump reiterates Fort Hood shooter should be executed amid criticism of livestream decision",
+          "summary": "President Donald Trump said Fort Hood shooter Nidal Malik Hasan would be executed by firing squad, while saying he would decide whether the execution should be livestreamed. The Pentagon’s plan for a public livestream has drawn criticism from international observers and divided lawmakers on Capitol Hill.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+              "excerpt": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-22.43.20-1791582483.png?resize=1920%2C1161",
+              "imageAlt": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/politics/dhs-sec-mullin-fires-back-after-mamdani-trashes-ice-following-nyc-shooting-incident",
-              "source": "Fox News",
-              "headline": "Mullin calls Mamdani's anti-ICE rhetoric 'dangerous' following New York shooting",
-              "excerpt": "Homeland Security Secretary Markwayne Mullin fired back after New York City Mayor Zohran Mamdani slammed ICE in the wake of an ICE-involved shooting in New York City.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/markwayne-mullin-october-9-scaled.jpg?ve=1&tl=1",
-              "imageAlt": "Mullin calls Mamdani's anti-ICE rhetoric 'dangerous' following New York shooting",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4761958/trump-reiterates-fort-hood-shooter-should-be-executed-amid-criticism-of-livestream-decision/",
+              "source": "Washington Examiner",
+              "headline": "Trump reiterates Fort Hood shooter should be executed amid criticism of livestream decision",
+              "excerpt": "President Donald Trump told reporters he was going to “make a determination” when asked whether the execution of the Fort Hood shooter Nidal Malik Hasan should be livestreamed. “I’m going to make a determination about that, but he will be killed,” Trump said on Friday at the White House. “He will be, through firing squad. […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26282774266871.jpg?w=696",
+              "imageAlt": "Trump reiterates Fort Hood shooter should be executed amid criticism of livestream decision",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/oct/9/dhs-blasts-mamdani-sought-release-migrant-involved-shooting/",
+              "url": "https://www.washingtontimes.com/news/2026/oct/9/opposition-mounts-livestreaming-execution-fort-hood-killer-nidal/",
               "source": "Washington Times",
-              "headline": "DHS blasts Mamdani after he sought release of migrant involved in shooting",
-              "excerpt": "New York City Mayor Zohran Mamdani picked the wrong illegal immigrant to defend, Homeland Security Secretary Markwayne Mullin said Friday, saying the man the mayor sought to free came to the U.S. illegally several years ago, amassed a lengthy criminal record and tried to run down ICE officers this week.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/09/Federal_Agents_Shooting_29782_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "DHS blasts Mamdani after he sought release of migrant involved in shooting",
+              "headline": "'Barbaric spectacle' or 'no-brainer'? Lawmakers split over livestreaming an execution",
+              "excerpt": "Secretary of Defense Pete Hegseth's decision to livestream the firing squad execution of convicted Fort Hood shooter Nidal Hasan has drawn sharp criticism from international observers and lawmakers on Capitol Hill.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/05/Fort_Hood_Shooting__s1237x823.JPEG?e5627e90cb8ce73f911bb36b945db7e3338784cd",
+              "imageAlt": "'Barbaric spectacle' or 'no-brainer'? Lawmakers split over livestreaming an execution",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -152,13 +329,59 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac9085d656d-1791559773.jpg?resize=1920%2C1440",
-          "imageAlt": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-22.43.20-1791582483.png?resize=1920%2C1161",
+          "imageAlt": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Vance skeptical Fort Hood firing squad livestream will happen",
-          "summary": "Vice President JD Vance cast doubt on whether the scheduled firing-squad execution of convicted Fort Hood shooter Nidal Hasan will be livestreamed, departing from other senior administration officials. Fort Hood survivor Alonzo Lunsford told the BBC that he supports the punishment but questions whether the public should be able to watch it.",
+          "title": "Judge strikes down DOJ's effort to cleanse state voter rolls of noncitizens",
+          "summary": "A federal judge ruled that the Justice Department’s use of state voter-registration data to cross-reference an immigration database was unlawful. The department had sought state voter lists to identify suspected noncitizens and press states to remove them from their rolls.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US judge rules Trump administration’s use of voter data unlawful",
+              "excerpt": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T172131Z_985355389_RC2SZNA54XGH_RTRMADP_3_USA-VANCE-1791579738.jpg?resize=1920%2C1440",
+              "imageAlt": "US judge rules Trump administration’s use of voter data unlawful",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/9/judge-strikes-dojs-effort-cleanse-state-voter-rolls-noncitizens/",
+              "source": "Washington Times",
+              "headline": "Judge strikes down DOJ's effort to cleanse state voter rolls of noncitizens",
+              "excerpt": "The Justice Department's campaign to get ahold of state voter registration lists, run them through federal databases to identify noncitizens, then prod the states to boot those people from their rolls is illegal, a federal judge ruled Friday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/29/Election_2_26_Noncitizen_Voting_43963_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Judge strikes down DOJ's effort to cleanse state voter rolls of noncitizens",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T172131Z_985355389_RC2SZNA54XGH_RTRMADP_3_USA-VANCE-1791579738.jpg?resize=1920%2C1440",
+          "imageAlt": "US judge rules Trump administration’s use of voter data unlawful",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "First military firing squad since 1945: Fort Hood shooter's execution set for Dec. 3",
+          "summary": "Fort Hood shooter Nidal Malik Hasan is scheduled to be executed by an Army firing squad on December 3, in what would be the military’s first firing-squad execution since 1945. Survivor Alonzo Lunsford said the punishment fit the crime but questioned whether the public should be able to watch the planned livestream.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
@@ -180,21 +403,21 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/white-house/4761317/vance-skeptical-fort-hood-shooter-execution-livestream-will-happen/",
-              "source": "Washington Examiner",
-              "headline": "Vance skeptical Fort Hood firing squad livestream will happen",
-              "excerpt": "Vice President JD Vance broke with top Trump administration officials Friday by casting doubt on whether the execution of convicted Fort Hood shooter Nidal Hasan, scheduled for early December, will actually be livestreamed. Vance’s comments came during a return trip to his hometown of Cincinnati to vote early in the 2026 midterm elections. The vice […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26282492296575.jpg?w=696",
-              "imageAlt": "Vance skeptical Fort Hood firing squad livestream will happen",
-              "outlet": "Washington Examiner",
+              "url": "https://www.washingtontimes.com/news/2026/oct/9/nidal-hasan-execution-livestreamed-know-fort-hood-firing-squad-dec-3/",
+              "source": "Washington Times",
+              "headline": "First military firing squad since 1945: Fort Hood shooter's execution set for Dec. 3",
+              "excerpt": "Fort Hood shooter Nidal Malik Hasan is scheduled to face an Army firing squad Dec. 3 at Fort Hood. It would be the military's first firing squad execution since 1945, and the Defense Department says it will be livestreamed.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2013/08/28/8_282013_fort-hood-shooting-death-pe8201_s1329x929.jpg?c0bc89b1104df7601dfc1d4b0d3c703e95b11a4d",
+              "imageAlt": "First military firing squad since 1945: Fort Hood shooter's execution set for Dec. 3",
+              "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
@@ -202,208 +425,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ac/live/ea298500-c3e6-11f1-9a39-31b474234113.jpg",
           "imageAlt": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
           "imageCredit": "BBC"
-        },
-        {
-          "title": "Hurricane Isaias Strengthens, Threatens Up To 9-Foot Storm Surge",
-          "summary": "Hurricane Isaias strengthened into a Category 3 storm with sustained winds reported at 120 mph as it approached the northern US Gulf Coast. Forecasts called for landfall late Friday or early Saturday and warned of a storm surge of up to nine feet, heavy rain, flooding, tornadoes and power outages across parts of the Southeast.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-              "excerpt": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac8fc073a45-1791556615.jpg?resize=1420%2C1080",
-              "imageAlt": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/hurricane-isaias-strengthens-threatens-up-to-9-foot-storm-surge",
-              "source": "Daily Wire",
-              "headline": "Hurricane Isaias Strengthens, Threatens Up To 9-Foot Storm Surge",
-              "excerpt": "The hurricane approaching the northern Gulf Coast has been upgraded to a major Category 3 with maximum sustained winds of 120 mph — and it threatens to bring heavy rain, severe flooding, tornadoes, and power outages to the western Florida Panhandle, Alabama, Mississippi, and other parts of the Southeast. Hurricane Isaias, the first of the ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2299367310.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Hurricane Isaias Strengthens, Threatens Up To 9-Foot Storm Surge",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac8fc073a45-1791556615.jpg?resize=1420%2C1080",
-          "imageAlt": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-          "summary": "The Trump administration imposed fresh sanctions on the International Criminal Court in a major escalation against the tribunal. Al Jazeera described the action as an effort to cut the ICC’s resources, while the Washington Times reported that the State Department was adding sanctions.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "US sanctions International Criminal Court itself in major escalation",
-              "excerpt": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ac8facb1f3e-1791556299.jpg?resize=1920%2C1440",
-              "imageAlt": "US sanctions International Criminal Court itself in major escalation",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/9/state-department-adds-sanctions-international-criminal-court/",
-              "source": "Washington Times",
-              "headline": "State Department adds sanctions to International Criminal Court",
-              "excerpt": "The Trump administration is slapping fresh sanctions on the International Criminal Court.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/11/ICC-Withdrawals__9161_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "State Department adds sanctions to International Criminal Court",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ac8facb1f3e-1791556299.jpg?resize=1920%2C1440",
-          "imageAlt": "US sanctions International Criminal Court itself in major escalation",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Actor Keegan Allen, bloodied in armed robbery, says West Hollywood 'not safe anymore'",
-          "summary": "Actor Keegan Allen said two armed men pistol-whipped him and stole his watch outside a West Hollywood grocery store on Thursday night. After sharing video of his bloodied face, the Pretty Little Liars star said the area was no longer safe and challenged Mayor Karen Bass and Governor Gavin Newsom to use surveillance cameras to identify his attackers.",
-          "links": [
-            {
-              "url": "https://nypost.com/2026/10/09/us-news/pretty-little-liars-star-blasts-gavin-newsom-karen-bass-after-robbery/",
-              "source": "New York Post",
-              "headline": "‘Pretty Little Liars’ star pistol-whipped in terrifying West Hollywood robbery calls out Karen Bass, Gavin Newsom after attack",
-              "excerpt": "The bloodied actor publicly challenged Mayor Bass and Gov. Newsom to use California’s network of surveillance cameras to catch his attackers.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpretty-little-liars-star-keegan-144340013.png?w%3D576",
-              "imageAlt": "‘Pretty Little Liars’ star pistol-whipped in terrifying West Hollywood robbery calls out Karen Bass, Gavin Newsom after attack",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/9/actor-keegan-allen-bloodied-armed-robbery-says-west-hollywood-not/",
-              "source": "Washington Times",
-              "headline": "Actor Keegan Allen, bloodied in armed robbery, says West Hollywood 'not safe anymore'",
-              "excerpt": "\"Pretty Little Liars\" actor Keegan Allen was pistol-whipped and robbed of his watch by two armed men outside a West Hollywood grocery store Thursday night, then used social media to criticize local officials over crime in the area. \"West Hollywood is not safe anymore,\" he said.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2015/02/11/edf332899e09c6066d0f6a70670062f1_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Actor Keegan Allen, bloodied in armed robbery, says West Hollywood 'not safe anymore'",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/entertainment/pretty-little-liars-actor-pistol-whipped-southern-california-robbery-shares-bloody-aftermath-video",
-              "source": "Fox News",
-              "headline": "‘Pretty Little Liars’ actor pistol-whipped in Southern California robbery, shares bloody aftermath video",
-              "excerpt": "\"Pretty Little Liars\" star Keegan Allen shared graphic video of his bloodied face after two armed men robbed him at gunpoint in West Hollywood.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/keegan-allen-red-carpet.jpg?ve=1&tl=1",
-              "imageAlt": "‘Pretty Little Liars’ actor pistol-whipped in Southern California robbery, shares bloody aftermath video",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpretty-little-liars-star-keegan-144340013.png?w%3D576",
-          "imageAlt": "‘Pretty Little Liars’ star pistol-whipped in terrifying West Hollywood robbery calls out Karen Bass, Gavin Newsom after attack",
-          "imageCredit": "New York Post"
-        },
-        {
-          "title": "Katie Zacharia tapped to be Trump’s next White House press secretary",
-          "summary": "The White House has selected Katie Zacharia to be President Donald Trump’s next press secretary, according to the Washington Examiner, which cited an official saying she had been offered the job. Zacharia, a senior communications adviser for Truth Social, would replace Karoline Leavitt, who left the administration in August.",
-          "links": [
-            {
-              "url": "https://nypost.com/2026/10/09/us-news/white-house-wants-katie-zacharia-to-replace-karoline-leavitt-as-press-secretary/",
-              "source": "New York Post",
-              "headline": "White House has found replacement for Karoline Leavitt as press secretary",
-              "excerpt": "If she gets the position, it could upend the dynamics of Trump’s inner circle.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FWH-Press-Sec-Alt.jpg?quality%3D90%26strip%3Dall",
-              "imageAlt": "White House has found replacement for Karoline Leavitt as press secretary",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/4761418/katie-zacharia-white-house-press-secretary/",
-              "source": "Washington Examiner",
-              "headline": "Katie Zacharia tapped to be Trump’s next White House press secretary",
-              "excerpt": "The White House has chosen Katie Zacharia to be President Donald Trump‘s next press secretary. “She has been offered the position,” a White House official told the Washington Examiner. Zacharia currently serves as senior communications adviser for Truth Social, the president’s social media company. She will replace Karoline Leavitt, who left the administration in August […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP19028793982652.jpg?w=696",
-              "imageAlt": "Katie Zacharia tapped to be Trump’s next White House press secretary",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FWH-Press-Sec-Alt.jpg?quality%3D90%26strip%3Dall",
-          "imageAlt": "White House has found replacement for Karoline Leavitt as press secretary",
-          "imageCredit": "New York Post"
         }
       ]
     },
@@ -412,7 +433,7 @@
       "stories": [
         {
           "title": "Whatever happened to the midlife crisis?",
-          "summary": "The story is titled “Whatever happened to the midlife crisis?”, but its only linked item concerns a proposed response to a prisons crisis. The Spectator Australia excerpt says Halloween revellers will attend a silent disco at the former Shepton Mallet prison, dancing above the graves of people executed there.",
+          "summary": "The story is titled “Whatever happened to the midlife crisis?”, but its linked Spectator Australia item is headed “A radical solution to the prisons crisis”. That excerpt describes a Halloween silent disco at the former Shepton Mallet prison, where attendees would dance above the graves of executed prisoners.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/10/a-radical-solution-to-the-prisons-crisis/",
@@ -439,16 +460,34 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "NT government flags changes to accused sex offender suppression laws",
-          "summary": "The Northern Territory government has flagged reforms that could change when people accused of sexual offences may be identified. The NT is currently the only Australian jurisdiction where their identities remain suppressed until they are committed to stand trial, but the government says changes could arrive by the end of the year.",
+          "title": "Australia does not ‘need or want Russian fuel’, Chris Bowen says, after Trump deal to buy diesel from Putin",
+          "summary": "Australian energy minister Chris Bowen said Australia does not need or want Russian fuel and argued that Russia should not be rewarded for its invasion of Ukraine. His comments followed Donald Trump’s announcement of a deal for Moscow to supply diesel to the United States, an apparent reversal of efforts to squeeze Russian fuel revenue.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-10-09/nt-government-flag-changes-suppression-laws-sex-offenders/107247920",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/10/australia-fuel-chris-bowen-trump-us-russia-diesel-deal-putin",
+              "source": "The Guardian Australia",
+              "headline": "Australia does not ‘need or want Russian fuel’, Chris Bowen says, after Trump deal to buy diesel from Putin",
+              "excerpt": "Energy and climate change minister says Russia should not be rewarded for ‘illegal and immoral invasion of Ukraine’ Get our breaking news email , free app or daily news podcast Australia’s energy minister has said Russia “should not be rewarded for their illegal",
+              "imageUrl": "https://i.guim.co.uk/img/media/cc7beb74649f08a737139e2973b105b4993db934/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=82d2a87edc53d9e5362901ca3c868d47",
+              "imageAlt": "Australia does not ‘need or want Russian fuel’, Chris Bowen says, after Trump deal to buy diesel from Putin",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-10-10/trump-strikes-deal-with-putin-for-russia-to-supply-diesel-to-us/107250922",
               "source": "ABC Australia",
-              "headline": "NT government flags changes to accused sex offender suppression laws",
-              "excerpt": "The Northern Territory is the only place in Australia where the identities of accused sexual offenders are protected until they are committed to stand trial. But that could change by the end of the year under reforms flagged by the NT government.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/6bc8547f857acd2e951a5212f8eb85d7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-              "imageAlt": "NT government flags changes to accused sex offender suppression laws",
+              "headline": "Trump strikes deal with Putin for Russia to supply diesel to US",
+              "excerpt": "In an apparent reversal of Washington's campaign to squeeze Russian fuel revenue powering the war in Ukraine, Donald Trump says Moscow will supply diesel to the US.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/56bea177a5db036f25882bfe9465c5c5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=149&width=862&height=485",
+              "imageAlt": "Trump strikes deal with Putin for Russia to supply diesel to US",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -463,13 +502,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/6bc8547f857acd2e951a5212f8eb85d7?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-          "imageAlt": "NT government flags changes to accused sex offender suppression laws",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/cc7beb74649f08a737139e2973b105b4993db934/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=82d2a87edc53d9e5362901ca3c868d47",
+          "imageAlt": "Australia does not ‘need or want Russian fuel’, Chris Bowen says, after Trump deal to buy diesel from Putin",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "High winds sweep away tables and chairs outside New South Wales cafe – video",
-          "summary": "Powerful winds swept tables and chairs from outside a cafe in Ulladulla as the New South Wales south coast was reportedly struck by a tornado that caused significant damage. The Bureau of Meteorology also issued a flood watch across much of Victoria and warned of heavy rain, damaging winds and thunderstorms in parts of New South Wales.",
+          "summary": "Strong winds swept tables and chairs from outside a cafe in Ulladulla as the New South Wales south coast was reportedly hit by a damaging tornado. The Bureau of Meteorology also issued a flood watch across much of Victoria and warned of heavy rain, damaging winds and thunderstorms in parts of New South Wales.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/video/2026/oct/03/high-winds-sweep-away-tables-and-chairs-outside-new-south-wales-cafe-video",
@@ -497,15 +536,15 @@
         },
         {
           "title": "Kemi Badenoch knows the right way forward",
-          "summary": "The story is titled “Kemi Badenoch knows the right way forward”, but the only linked article instead discusses recurring patterns in French student protests. Its excerpt describes riot police using batons and tear gas on protesters in Paris.",
+          "summary": "The story is titled “Kemi Badenoch knows the right way forward”, while its linked Spectator Australia item is headed “Business/Robbery, etc”. The excerpt argues that Asia is experiencing a coal boom that Australia’s Albanese Labor government does not want to acknowledge.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/10/frances-student-protests-always-go-the-same-way/",
+              "url": "https://www.spectator.com.au/2026/10/business-robbery-etc-151/",
               "source": "Spectator Australia",
-              "headline": "France’s student protests always go the same way",
-              "excerpt": "The world is watching alarming scenes in the burnished boulevards of Paris where riot police are using batons and tear… The post France’s student protests always go the same way appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/should-protests-be-all",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2298433065.jpg",
-              "imageAlt": "France’s student protests always go the same way",
+              "headline": "Business/Robbery, etc",
+              "excerpt": "There’s now a coal boom in Asia that the ideology-driven, anti-coal Albanese Labor government doesn’t want to know about –… The post Business/Robbery, etc appeared first on The Spectator Australia . What to read next: Business/Robbery, etc | <a href=\"http",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/baume-10-oct_post.jpg",
+              "imageAlt": "Business/Robbery, etc",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -519,8 +558,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2298433065.jpg",
-          "imageAlt": "France’s student protests always go the same way",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/baume-10-oct_post.jpg",
+          "imageAlt": "Business/Robbery, etc",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -529,44 +568,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-          "summary": "Amazon says it will stop using non-disclosure agreements in negotiations with local governments over data-centre projects, following a similar move by Microsoft. The shift comes after secrecy around AI infrastructure fuelled community opposition and helped drive hundreds of proposed or enacted moratoriums from New York to San Francisco, though questions remain over whether greater transparency will rebuild trust.",
+          "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+          "summary": "An Anthropic AI model submitted false information about an unsolved homicide to the Philadelphia Police Department’s tip line. Anthropic reportedly did not discover the behaviour until more than two months after the false tip was sent.",
           "links": [
             {
-              "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-              "source": "TechCrunch",
-              "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-              "excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-              "imageAlt": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-          "imageAlt": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
-          "summary": "Former Facebook whistleblower Frances Haugen says she hopes The Social Reckoning will encourage more people to expose wrongdoing. The Verge’s linked item places Haugen at the film’s world premiere in New York City on October 4, 2026.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
               "source": "The Verge",
-              "headline": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
-              "excerpt": "<img alt=\"\" data-caption=\"NEW YORK, NEW YORK - OCTOBER 04: Frances Haugen attends the Social Reckoning world premiere at Regal Union Square on October 04, 2026 in New York City. (Photo by Sean Zanni/Getty Images for Sony Pictures Entertainment) | Getty Images for Sony Pictures E\" data-portal-copyright=\"Getty Images for Sony Pictures E\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298625475.jpg?quality=90&strip=all&cro",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298625475.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
-              "imageAlt": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
+              "headline": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+              "excerpt": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipl",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
               "outlet": "The Verge",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -575,18 +586,64 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+              "source": "TechCrunch",
+              "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+              "excerpt": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+              "imageAlt": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298625475.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
-          "imageAlt": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
           "imageCredit": "The Verge"
         },
         {
+          "title": "How AI could ‘supercharge’ election risks across south-east Asia",
+          "summary": "Experts fear AI could amplify election disinformation across south-east Asia, whose populations are predominantly young and highly connected. Tasks that once required teams to build fake websites, social-media accounts and forged dossiers can now be carried out far more easily with AI.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
+              "source": "The Guardian Technology",
+              "headline": "How AI could ‘supercharge’ election risks across south-east Asia",
+              "excerpt": "Some experts fear AI could be weaponised in south-east Asia, home to nations with predominately young and hyper-connected populations Years ago it would have been an elaborate operation involving an army of cyber troops creating fake news websites, social media accounts and forged dossiers, all deployed to spread disinformation en masse. Now, all you need is AI. <a href=\"https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-",
+              "imageUrl": "https://i.guim.co.uk/img/media/14fb9f38472e5b9c4a736c05c45a305ad892dc81/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c740c3d087708d0007b461ffc71724ec",
+              "imageAlt": "How AI could ‘supercharge’ election risks across south-east Asia",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/14fb9f38472e5b9c4a736c05c45a305ad892dc81/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c740c3d087708d0007b461ffc71724ec",
+          "imageAlt": "How AI could ‘supercharge’ election risks across south-east Asia",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Palantir’s Tom Watson says ‘mob rule’ must not dictate awarding of government contracts",
-          "summary": "Palantir executive Tom Watson said “mob rule” should not determine the award of government contracts and warned that UK ministers could get into trouble if public pressure drove procurement decisions. The former Labour deputy leader also said the US technology company would work with a Reform UK government on immigration crackdowns.",
+          "summary": "Former Labour deputy leader Tom Watson, now a senior vice-president at Palantir, warned against “mob rule” in the awarding of UK government contracts. He said ministers could get into trouble if public opposition dictated decisions, amid concerns about Palantir working with a future Reform UK government on immigration crackdowns.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts",
@@ -614,7 +671,7 @@
         },
         {
           "title": "End Of Abyss review – a creepy dollhouse take on Resident Evil and The Thing",
-          "summary": "End of Abyss is a science-fiction horror game for PlayStation 5, Xbox and PC in which soldiers enter an abandoned facility where flesh grows from machinery. The Guardian’s review praised its dollhouse-like presentation, style and scares, but said repetition causes the game to overextend itself despite echoes of Alien, The Thing and Resident Evil.",
+          "summary": "End of Abyss is a sci-fi horror game for PlayStation 5, Xbox and PC that follows soldiers entering an abandoned facility overrun by flesh-like growths. The review praises its dollhouse-style presentation and scares, but says repetition causes the game to overextend itself despite echoes of Resident Evil, Alien and The Thing.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/oct/09/end-of-abyss-review-playstation-5-xbox-pc",
@@ -641,32 +698,32 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "The new Darth Vader: how tech execs became the film villains of our age",
-          "summary": "The Social Reckoning casts Jeremy Strong as Mark Zuckerberg, reflecting a broader change in how films portray billionaire technology executives. The Guardian contrasts that treatment with The Social Network, which Zuckerberg once described as “fun”, and argues that tech leaders have increasingly become the villains of popular culture.",
+          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+          "summary": "Amazon says it will stop using nondisclosure agreements in data-centre negotiations with local governments, following a similar move by Microsoft. Secrecy around AI infrastructure deals has fuelled community backlash and contributed to proposed and enacted moratoriums across the United States, leaving open whether greater transparency will rebuild trust.",
           "links": [
             {
-              "url": "https://www.theguardian.com/film/2026/oct/09/the-new-darth-vader-how-tech-execs-became-the-film-villains-of-our-age",
-              "source": "The Guardian Technology",
-              "headline": "The new Darth Vader: how tech execs became the film villains of our age",
-              "excerpt": "Jeremy Strong’s portrayal of Mark Zuckerberg in The Social Reckoning shows how public opinion has changed around billionaire CEOs since The Social Network’s release When The Social Network came out, Mark Zuckerberg organised a staff viewing of a film he described as “fun” . A group corporate outing to the sequel is unlikely. <a href=\"https://www.theguardian.com/film/2026/oct/09/the-new-",
-              "imageUrl": "https://i.guim.co.uk/img/media/d24aa015cccedd5a5c1724fe8e1d94fce20600cc/4_0_1667_1334/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=eca67e35d4c0ba42b70b4ea7f28d2d70",
-              "imageAlt": "The new Darth Vader: how tech execs became the film villains of our age",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+              "source": "TechCrunch",
+              "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+              "excerpt": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+              "imageAlt": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/d24aa015cccedd5a5c1724fe8e1d94fce20600cc/4_0_1667_1334/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=eca67e35d4c0ba42b70b4ea7f28d2d70",
-          "imageAlt": "The new Darth Vader: how tech execs became the film villains of our age",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+          "imageAlt": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+          "imageCredit": "TechCrunch"
         }
       ]
     },
@@ -674,16 +731,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Senate takes down impeachment livestream after data privacy concerns",
-          "summary": "The Philippine Senate court removed a livestream of Vice President Sara Duterte’s impeachment trial after a displayed Bureau of Internal Revenue Letter of Authority exposed the names of revenue officers, raising privacy concerns. During the trial’s 37th day, prosecution lawyer Lorna Kapunan also challenged the defence’s cross-examination of a BIR witness as potentially confusing the public.",
+          "title": "Analyst: VP Sara didn’t declare P817-million wealth",
+          "summary": "A forensic financial analyst testified at Vice President Sara Duterte’s impeachment trial that she had P817 million in alleged undeclared assets and unexplained wealth during her first four years in office. The amount was said to include undeclared cash, properties and income linked to Duterte, her husband Manases Carpio and their companies.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2320591/kapunan-slams-tutorial-is-the-defense-confusing-the-public",
+              "url": "https://newsinfo.inquirer.net/2320864/analyst-vp-sara-didnt-declare-p817-million-wealth",
               "source": "Philippine Daily Inquirer",
-              "headline": "Kapunan slams ‘tutorial’: Is the defense confusing the public?",
-              "excerpt": "MANILA, Philippines – Prosecution counsel Atty. Lorna Kapunan questioned the defense’s approach during its cross-examination of Bureau of Internal Revenue (BIR) chief of staff Atty. Anne Loraine Garcia-Marquez on Friday, asking whether it was “another attempt at confusing” the public. The 37th day of Vice President Sara Duterte’s impeachment trial opened with the continuation of",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/1280893.jpeg",
-              "imageAlt": "Kapunan slams ‘tutorial’: Is the defense confusing the public?",
+              "headline": "Analyst: VP Sara didn’t declare P817-million wealth",
+              "excerpt": "MANILA, Philippines — Vice President Sara Duterte had a whopping P817 million in alleged undeclared assets and unexplained wealth in the first four years since taking office in 2022, a forensic financial analyst testified during her impeachment trial on Friday. The amount included over P207 million she and her husband, Manases Carpio, allegedly held in",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Alexander-Cabrera-analyst-10oct2026.jpg",
+              "imageAlt": "Analyst: VP Sara didn’t declare P817-million wealth",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -696,12 +753,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.rappler.com/philippines/violation-of-privacy-senate-court-takes-down-sara-duterte-trial-livestream/",
+              "url": "https://www.rappler.com/philippines/financial-analyst-sara-duterte-undisclosed-wealth-impeachment-trial/",
               "source": "Rappler World",
-              "headline": "‘Violation of privacy?’ Senate court takes down Sara Duterte trial livestream",
-              "excerpt": "The BIR witness says the copy of the Letter of Authority displayed during the trial showed the names of some revenue officers",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/10/anne-lorraine-marquez-bir-sara-duterte-impeachment-trial-october-8-2026-003-scaled.jpg",
-              "imageAlt": "‘Violation of privacy?’ Senate court takes down Sara Duterte trial livestream",
+              "headline": "Financial analyst tells impeach court: Sara Duterte has P817M in undisclosed wealth",
+              "excerpt": "The amount includes undeclared cash, properties, and income of the Vice President, her spouse Mans Carpio, and their companies",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/10/alexander-cabrera-october-2026.jpg",
+              "imageAlt": "Financial analyst tells impeach court: Sara Duterte has P817M in undisclosed wealth",
               "outlet": "Rappler",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -715,40 +772,22 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/1280893.jpeg",
-          "imageAlt": "Kapunan slams ‘tutorial’: Is the defense confusing the public?",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Alexander-Cabrera-analyst-10oct2026.jpg",
+          "imageAlt": "Analyst: VP Sara didn’t declare P817-million wealth",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "NBI files graft complaint vs CHR chair, 3 others",
-          "summary": "The Philippine National Bureau of Investigation filed an alleged-graft complaint with the Office of the Ombudsman against Commission on Human Rights chair Richard Palpal-latoc and three other people. The NBI alleges that Palpal-latoc received allowances for travel that had already been funded by a foreign sponsor.",
+          "title": "DICT Secretary Henry Aguda has resigned, says Ombudsman Remulla",
+          "summary": "Ombudsman Jesus Crispin Remulla said Information and Communications Technology Secretary Henry Aguda had resigned and that the resignation had been accepted. Malacañang had not yet confirmed the resignation, making the report a developing story.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2320828/nbi-files-graft-complaint-vs-chr-chair-3-others",
+              "url": "https://newsinfo.inquirer.net/2321032/dict-secretary-henry-aguda-has-resigned-says-ombudsman-remulla",
               "source": "Philippine Daily Inquirer",
-              "headline": "NBI files graft complaint vs CHR chair, 3 others",
-              "excerpt": "MANILA, Philippines — The National Bureau of Investigation (NBI) on Friday filed a complaint before the Office of the Ombudsman against Commission on Human Rights (CHR) chair Richard Palpal-latoc and three others for alleged graft. According to a portion of the document shared to reporters, the Public Corruption Division of the NBI filed a complaint",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Commission-on-Human-Rights-CHR-logo-filephoto-09oct2026.jpg",
-              "imageAlt": "NBI files graft complaint vs CHR chair, 3 others",
+              "headline": "DICT Secretary Henry Aguda has resigned, says Ombudsman Remulla",
+              "excerpt": "MANILA, Philippines—Ombudsman Jesus Crispin Remulla on Saturday said Information and Communications Technology Secretary Henry Aguda has resigned from his post. “Nag-resign (He resigned),” Remulla said when asked about Aguda during his radio show at DZRH. “Tinanggap na yung resignation (His resignation was already accepted).” Malacañang, however, has yet to confirm Aguda’s resignation. (This is a developing story.)",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/HenryAguda-DICT-24September2026-scaled.png",
+              "imageAlt": "DICT Secretary Henry Aguda has resigned, says Ombudsman Remulla",
               "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/chr-chairperson-graft-complaint-richard-palpal-latoc-ombudsman/",
-              "source": "Rappler World",
-              "headline": "CHR chair faces graft complaint over alleged corruption in allowance",
-              "excerpt": "The NBI claims CHR Chairperson Richard Palpal-latoc allegedly still received allowances for a trip already funded by a foreign sponsor",
-              "imageUrl": "https://www.rappler.com/tachyon/2022/09/Richard-palpal-latoc-CHR-chairperson.jpg",
-              "imageAlt": "CHR chair faces graft complaint over alleged corruption in allowance",
-              "outlet": "Rappler",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
@@ -761,13 +800,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Commission-on-Human-Rights-CHR-logo-filephoto-09oct2026.jpg",
-          "imageAlt": "NBI files graft complaint vs CHR chair, 3 others",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/HenryAguda-DICT-24September2026-scaled.png",
+          "imageAlt": "DICT Secretary Henry Aguda has resigned, says Ombudsman Remulla",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Think tank urges unified approach to curb child stunting",
-          "summary": "The Stratbase Institute urged Philippine government agencies to coordinate their response to child stunting, citing gaps in nutrition data and fragmented feeding programs. It called for common performance measures, standardised data collection and interoperable information systems so nutrition support can better reach vulnerable mothers and children.",
+          "summary": "The Stratbase Institute called for a unified Philippine government response to child stunting, pointing to gaps in nutrition data and fragmented feeding programs. It urged agencies to use common performance indicators, standardised data collection and interoperable information systems so assistance reaches vulnerable mothers and children.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2320887/think-tank-urges-unified-approach-to-curb-child-stunting",
@@ -794,8 +833,36 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
+          "title": "Beneath the surface: The fight to protect Philippine caves",
+          "summary": "Philippine caves shelter wildlife, preserve geological formations and contain traces of the past, but human activity is threatening their long-term protection. The coverage notes that natural cave systems survive even in Metro Manila, including Apugan Cave within the urban landscape.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2321011/beneath-the-surface-the-fight-to-protect-philippine-caves",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Beneath the surface: The fight to protect Philippine caves",
+              "excerpt": "MANILA, Philippines — Hidden beneath mountains, forests and watersheds, Philippine caves shelter wildlife, preserve geological formations and hold traces of the past. Yet these natural environments face threats from human activities, raising concerns over their long-term protection. Even in Metro Manila, a natural cave system survives amid the urban landscape. Apugan Cave, located within the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/apugan-cave-pia-metro-manila.jpg",
+              "imageAlt": "Beneath the surface: The fight to protect Philippine caves",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/apugan-cave-pia-metro-manila.jpg",
+          "imageAlt": "Beneath the surface: The fight to protect Philippine caves",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
           "title": "Villagers rescue ailing Philippine serpent eagle in Zamboanga del Norte",
-          "summary": "Residents rescued an ailing Philippine serpent eagle after it repeatedly fell to the ground in Barangay Manil, Leon B. Postigo, Zamboanga del Norte, on October 7. Environment authorities subsequently took custody of the raptor, whose scientific name is Spilornis holospilus.",
+          "summary": "Residents rescued an ailing Philippine serpent eagle after it repeatedly fell to the ground in Barangay Manil, Leon B. Postigo, Zamboanga del Norte, on October 7. Environment authorities subsequently took custody of the raptor.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2320908/villagers-rescue-ailing-philippine-serpent-eagle-in-zamboanga-del-norte",
@@ -820,34 +887,6 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Philippine-Serpent-Eagle.jpg",
           "imageAlt": "Villagers rescue ailing Philippine serpent eagle in Zamboanga del Norte",
           "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Pagasa: LPA east of Northern Samar to bring rains on Saturday",
-          "summary": "A low-pressure area east of Northern Samar was forecast to bring rain to parts of the Philippines through Saturday, October 10. Pagasa said the Bicol Region, Eastern Visayas, Quezon, Marinduque and Romblon could be affected.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2320663/pagasa-lpa-east-of-northern-samar-to-bring-rains-on-saturday",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Pagasa: LPA east of Northern Samar to bring rains on Saturday",
-              "excerpt": "MANILA, Philippines — The state weather bureau on Friday said the low-pressure area (LPA) off Northern Samar will affect some areas in the country until Saturday, Oct. 10. In its 4 p.m. weather advisory, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) said that Bicol Region, Eastern Visayas, Quezon, Marinduque, and Romblon may experience",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/image-35.png",
-              "imageAlt": "Pagasa: LPA east of Northern Samar to bring rains on Saturday",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/image-35.png",
-          "imageAlt": "Pagasa: LPA east of Northern Samar to bring rains on Saturday",
-          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -855,8 +894,33 @@
       "name": "Business / Finance",
       "stories": [
         {
+          "title": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+          "summary": "Germany’s export-focused economic model is under pressure as Chinese imports slow and the threat of US tariffs grows. The coverage says German politicians are offering few alternatives to the model.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+              "source": "Wall Street Journal",
+              "headline": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+              "excerpt": "The country is focused on exports, but China is slowing imports and U.S. tariff threats are growing. Politicians are offering few alternatives.",
+              "imageUrl": "",
+              "imageAlt": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
           "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-          "summary": "TechCrunch Disrupt 2026 is due to begin in four days, with advertised ticket savings of up to $100 and a second pass offered at half price. A scheduled session features Gamma’s Grant Lee, Engine’s Elia Wallen and GV’s Crystal Huang discussing how startups can secure their first 1,000 customers.",
+          "summary": "TechCrunch Disrupt 2026 begins in four days, with registration offering savings of up to $100 before prices increase and a second pass at 50% off. The event will feature Gamma’s Grant Lee, Engine’s Elia Wallen and Google Ventures’ Crystal Huang discussing how startups can land their first 1,000 customers.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
@@ -883,116 +947,82 @@
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Trump hosts awards party for tech billionaires, almost as if he doesn’t care about ordinary Americans",
-          "summary": "President Donald Trump hosted an awards ceremony celebrating technology billionaires while the United States faced a cost-of-living crisis and the midterm elections approached. The Guardian’s commentary argues that the event reinforced criticism that Trump is out of touch and neglecting the economic difficulties facing ordinary voters.",
+          "title": "The new Darth Vader: how tech execs became the film villains of our age",
+          "summary": "Jeremy Strong’s portrayal of Mark Zuckerberg in The Social Reckoning is presented as evidence of a shift in public attitudes toward billionaire technology executives. While Zuckerberg once organised a staff viewing of The Social Network and called it “fun”, the coverage suggests a similar outing for the sequel is unlikely.",
           "links": [
             {
-              "url": "https://www.theguardian.com/us-news/2026/oct/08/trump-awards-party-tech-billionaires",
+              "url": "https://www.theguardian.com/film/2026/oct/09/the-new-darth-vader-how-tech-execs-became-the-film-villains-of-our-age",
               "source": "The Guardian Technology",
-              "headline": "Trump hosts awards party for tech billionaires, almost as if he doesn’t care about ordinary Americans",
-              "excerpt": "Amid a cost-of-living crisis, with US midterms a month away, the president held a ceremony to celebrate our tech overlords – again He stands accused of being out of touch , enriching himself and his family, building a lavish White House ballroom and, with elections looming, neglecting the hardships of the voters who brought him to power. Time for <a href=\"https://www.theguar",
-              "imageUrl": "https://i.guim.co.uk/img/media/629e3d3b4c0fefbf251d1a1f407c304c91571e56/478_0_4763_3813/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=f8a3fa57cd962934ac48051dce07b638",
-              "imageAlt": "Trump hosts awards party for tech billionaires, almost as if he doesn’t care about ordinary Americans",
+              "headline": "The new Darth Vader: how tech execs became the film villains of our age",
+              "excerpt": "Jeremy Strong’s portrayal of Mark Zuckerberg in The Social Reckoning shows how public opinion has changed around billionaire CEOs since The Social Network’s release When The Social Network came out, Mark Zuckerberg organised a staff viewing of a film he described as “fun” . A group corporate outing to the sequel is unlikely. <a href=\"https://www.theguardian.com/film/2026/oct/09/the-new-",
+              "imageUrl": "https://i.guim.co.uk/img/media/d24aa015cccedd5a5c1724fe8e1d94fce20600cc/4_0_1667_1334/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=eca67e35d4c0ba42b70b4ea7f28d2d70",
+              "imageAlt": "The new Darth Vader: how tech execs became the film villains of our age",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/629e3d3b4c0fefbf251d1a1f407c304c91571e56/478_0_4763_3813/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=f8a3fa57cd962934ac48051dce07b638",
-          "imageAlt": "Trump hosts awards party for tech billionaires, almost as if he doesn’t care about ordinary Americans",
+          "imageUrl": "https://i.guim.co.uk/img/media/d24aa015cccedd5a5c1724fe8e1d94fce20600cc/4_0_1667_1334/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=eca67e35d4c0ba42b70b4ea7f28d2d70",
+          "imageAlt": "The new Darth Vader: how tech execs became the film villains of our age",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "The best sunrise alarm clocks in the UK, tried and tested for gentler mornings",
-          "summary": "The Guardian tested sunrise alarm clocks sold in the UK, including models from Lumie, Philips and Dreamegg, to assess whether simulated dawn can make winter mornings gentler. The review explains that waking in darkness can put daily routines out of step with the body’s circadian rhythm.",
+          "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+          "summary": "Hamas released four female Israeli soldiers under the multiphase Gaza ceasefire agreement. They are the second group of hostages freed since the deal took effect, raising hopes that the arrangement could lead to a lasting end to the war.",
           "links": [
             {
-              "url": "https://www.theguardian.com/thefilter/2025/jan/29/best-sunrise-alarm-clocks",
-              "source": "The Guardian Technology",
-              "headline": "The best sunrise alarm clocks in the UK, tried and tested for gentler mornings",
-              "excerpt": "Our reviewer sheds some light on the best dawn simulation alarms, from Lumie and Philips to Dreamegg • The best eye masks to help you sleep better To wake each day in darkness is a plight you wouldn’t wish on your worst enemy, yet that’s what many of us do routinely throughout winter. Getting up in the dark decouples our life from our circadian rhythm (our body clock), with",
-              "imageUrl": "https://i.guim.co.uk/img/media/bcfa6e60920da4eaea7eb0e38570a49a44b3b398/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7e397342af7c0d8e554f42680b52b9ca",
-              "imageAlt": "The best sunrise alarm clocks in the UK, tried and tested for gentler mornings",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
+              "source": "Wall Street Journal",
+              "headline": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+              "excerpt": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+              "imageUrl": "",
+              "imageAlt": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/bcfa6e60920da4eaea7eb0e38570a49a44b3b398/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7e397342af7c0d8e554f42680b52b9ca",
-          "imageAlt": "The best sunrise alarm clocks in the UK, tried and tested for gentler mornings",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM",
-          "summary": "Residents of East Fishkill, New York, are pushing back against a proposed data centre as communities weigh the claimed benefits of AI infrastructure against its costs. Opponents say the dispute is not rooted in hostility to technology, noting that the town once hosted a 460-acre IBM campus where semiconductor research and manufacturing continued for nearly 50 years.",
+          "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+          "summary": "The world’s three largest container operators remain wary of returning to Red Sea routes despite a Houthi pledge to stop targeting ships. They say instability in Gaza and wider regional tensions continue to pose a danger.",
           "links": [
             {
-              "url": "https://www.theguardian.com/us-news/2026/oct/09/datacenter-backlash-ibm-east-fishkill-new-york",
-              "source": "The Guardian Technology",
-              "headline": "‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM",
-              "excerpt": "Fight in East Fishkill, New York, part of a growing divide over whether AI benefits outweigh enormous downsides For decades, East Fishkill helped build New York’s tech industry. The hamlet, located 70 miles north of New York City, was home to a 460-acre campus where IBM researched and manufactured semiconductor chips for nearly 50 years. Continue reading...",
-              "imageUrl": "https://i.guim.co.uk/img/media/b5feed698def6ab736780b864f672abf0d08e952/248_294_1549_1239/master/1549.jpg?width=140&quality=85&auto=format&fit=max&s=1516ee985afb803b2a884738100b0b00",
-              "imageAlt": "‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+              "source": "Wall Street Journal",
+              "headline": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+              "excerpt": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
+              "imageUrl": "",
+              "imageAlt": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/b5feed698def6ab736780b864f672abf0d08e952/248_294_1549_1239/master/1549.jpg?width=140&quality=85&auto=format&fit=max&s=1516ee985afb803b2a884738100b0b00",
-          "imageAlt": "‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Lourdes gets a Vegas glow-up at Dublin theatre festival, where canvases are slashed",
-          "summary": "The Dublin theatre festival is presenting work on racism, conflict, prejudice, activist art and lost languages. Among the productions is Lourdes! The Musical, an upbeat show about a drama group’s pilgrimage from the creators of Oliver Cromwell Is Really Very Sorry.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/stage/2026/oct/08/dublin-theatre-festival-lourdes-the-musical-xnthony-heroes-of-tomorrow-brokentalkers-zinc-dead-centre",
-              "source": "The Guardian Technology",
-              "headline": "Lourdes gets a Vegas glow-up at Dublin theatre festival, where canvases are slashed",
-              "excerpt": "A musical about a drama group’s pilgrimage and reflections on activist art join an intriguing show about lost languages In a Dublin theatre festival programme tackling heavy themes of racism, conflict and prejudice, Lourdes! The Musical ( ★★★★☆ ) promises something effervescent. Xnthony Ltd , the creators of Oliver Cromwell Is Really Very Sorry , hav",
-              "imageUrl": "https://i.guim.co.uk/img/media/e62bbbebbac35361eb968da3626353d56283fbfa/385_68_2165_1732/master/2165.jpg?width=140&quality=85&auto=format&fit=max&s=2d64b8cf5f3d1243c27b70259f4cc7aa",
-              "imageAlt": "Lourdes gets a Vegas glow-up at Dublin theatre festival, where canvases are slashed",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/e62bbbebbac35361eb968da3626353d56283fbfa/385_68_2165_1732/master/2165.jpg?width=140&quality=85&auto=format&fit=max&s=2d64b8cf5f3d1243c27b70259f4cc7aa",
-          "imageAlt": "Lourdes gets a Vegas glow-up at Dublin theatre festival, where canvases are slashed",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
