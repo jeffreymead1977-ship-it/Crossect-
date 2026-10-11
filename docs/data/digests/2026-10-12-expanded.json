@@ -1,0 +1,966 @@
+{
+  "id": "2026-10-12-expanded",
+  "date": "2026-10-12",
+  "title": "Daily Source Digest",
+  "generatedAt": "2026-10-12T03:00:13.351377",
+  "note": "Daily source-balanced news digest — morning update.",
+  "updatedAt": "2026-10-12T03:00:13",
+  "sections": [
+    {
+      "name": "World / Geopolitics",
+      "stories": [
+        {
+          "title": "Pope Leo to Undergo Surgery to Remove a Nodule on His Lung",
+          "summary": "Pope Leo XIV, 71, said he will undergo surgery in the coming days to remove a lung nodule. The BBC reports that the nodule was found at a very early stage, while Al Jazeera says he announced the operation during his Sunday blessing in St Peter's Square.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Pope Leo to undergo surgery to remove lung nodule",
+              "excerpt": "The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter's Square.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6acb92f556742-1791726325.jpg?resize=1920%2C1440",
+              "imageAlt": "Pope Leo to undergo surgery to remove lung nodule",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Pope Leo to have surgery after lump found on lung",
+              "excerpt": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg",
+              "imageAlt": "Pope Leo to have surgery after lump found on lung",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/europe/2026/10/11/pope-leo-to-undergo-surgery-to-remove-a-nodule-on-his-lung/",
+              "source": "Breitbart",
+              "headline": "Pope Leo to Undergo Surgery to Remove a Nodule on His Lung",
+              "excerpt": "Pope Leo XIV is scheduled to undergo surgery in coming days to remove an early-stage nodule on his lung, he announced Sunday. The post Pope Leo to Undergo Surgery to Remove a Nodule on His Lung appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/pope-leo-surgery-predicted-640x335.jpg",
+              "imageAlt": "Pope Leo to Undergo Surgery to Remove a Nodule on His Lung",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6acb92f556742-1791726325.jpg?resize=1920%2C1440",
+          "imageAlt": "Pope Leo to undergo surgery to remove lung nodule",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Zelensky to Trump: Ukraine will hold elections if Putin agrees to 60-day ceasefire",
+          "summary": "Ukrainian President Volodymyr Zelenskyy says Ukraine will hold elections if Russian President Vladimir Putin agrees to a 60-day ceasefire. Separately, President Donald Trump announced an immediate energy ceasefire between Russia and Ukraine; Al Jazeera says Zelenskyy was unaware of that deal but would support it, while Fox News notes Kyiv's criticism of a deal easing Russian diesel exports.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+              "excerpt": "Ukrainian President Volodymyr Zelenskyy says he was unaware of the deal, but that Ukraine would back it.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acba24d-1791730253.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/trump-announces-immediate-energy-ceasefire-between-russia-ukraine",
+              "source": "Fox News",
+              "headline": "Trump announces immediate energy ceasefire between Russia and Ukraine",
+              "excerpt": "President Donald Trump declared an immediate energy ceasefire, but his recent deal easing Russian diesel exports drew sharp criticism from Kyiv.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/donald-trump-oval-office-white-house.jpg?ve=1&tl=1",
+              "imageAlt": "Trump announces immediate energy ceasefire between Russia and Ukraine",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4762515/trump-energy-ceasefire-russia-ukraine-war/",
+              "source": "Washington Examiner",
+              "headline": "Trump announces immediate ‘energy ceasefire’ between Russia and Ukraine",
+              "excerpt": "President Donald Trump on Sunday announced an immediate “energy ceasefire” between Russia and Ukraine, a day after ripping Ukrainian President Volodymyr Zelensky for targeting Russian energy infrastructure during the war and calling for a new Ukrainian leader. “Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine,” Trump said in a […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26265676242751.jpg?w=696",
+              "imageAlt": "Trump announces immediate ‘energy ceasefire’ between Russia and Ukraine",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acba24d-1791730253.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Bodycam Reveals Key Moments After Violent Illegal Convict Was Shot During ICE Arrest",
+          "summary": "New York City police body-camera footage shows the tense aftermath of a shooting during an ICE encounter in Marble Hill. The Daily Wire says NYPD officers arrived to take 28-year-old Oscar Belgal, who had been wounded, to hospital, while the BBC describes the footage as showing the moments when police reached the scene.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "BBC breaks down video of the aftermath of New York City ICE shooting",
+              "excerpt": "The BBC's Nada Tawfik goes through new dramatic body cam footage that shows the tense moments when police arrive on scene.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d012/live/775be490-c41e-11f1-9a39-31b474234113.jpg",
+              "imageAlt": "BBC breaks down video of the aftermath of New York City ICE shooting",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/bodycam-reveals-key-moments-after-violent-illegal-convict-was-shot-during-ice-arrest",
+              "source": "Daily Wire",
+              "headline": "Bodycam Reveals Key Moments After Violent Illegal Convict Was Shot During ICE Arrest",
+              "excerpt": "Body camera footage released by the New York City Police Department shows the chaotic aftermath after a criminal illegal immigrant was wounded during an encounter with ICE on Thursday afternoon. The footage shows NYPD officers arriving at the scene in the city’s Marble Hill neighborhood to transport 28-year-old Oscar Belgal to the hospital. Belgal, an ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2298687198.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Bodycam Reveals Key Moments After Violent Illegal Convict Was Shot During ICE Arrest",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d012/live/775be490-c41e-11f1-9a39-31b474234113.jpg",
+          "imageAlt": "BBC breaks down video of the aftermath of New York City ICE shooting",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Abbas delays Palestinian elections again, making more than two decades without vote",
+          "summary": "Palestinian Authority President Mahmoud Abbas has postponed legislative elections until 2027, extending a wait that Fox News describes as nearly two decades. Al Jazeera reports that Palestinians have been reacting to the delay and asking who will represent them.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "‘Who will represent us?’ Palestinians react to election delay",
+              "excerpt": "Palestinians have reacted to President Mahmoud Abbas’ decision to postpone the Palestinian legislative elections.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791738481.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "‘Who will represent us?’ Palestinians react to election delay",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote",
+              "source": "Fox News",
+              "headline": "Abbas delays Palestinian elections again, making more than two decades without vote",
+              "excerpt": "Palestinian Authority President Mahmoud Abbas delayed elections to 2027, extending a nearly 20-year wait as Israel and Hamas clash over the blame.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mahmoud-abbas-innovation-excellence-compound.jpg?ve=1&tl=1",
+              "imageAlt": "Abbas delays Palestinian elections again, making more than two decades without vote",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791738481.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "‘Who will represent us?’ Palestinians react to election delay",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Polish Police Warn of Possible Plot to Attack Prime Minister Donald Tusk",
+          "summary": "Polish police detained a man suspected of planning an attack on Prime Minister Donald Tusk. Police said they had received credible information about possible attacks against Tusk and Defence Minister Wladyslaw Kosiniak-Kamysz, according to the BBC and Breitbart.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Poland detains man suspected of planning assassination of PM Tusk",
+              "excerpt": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg",
+              "imageAlt": "Poland detains man suspected of planning assassination of PM Tusk",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/europe/2026/10/11/polish-police-warn-of-possible-plot-to-attack-prime-minister-donald-tusk/",
+              "source": "Breitbart",
+              "headline": "Polish Police Warn of Possible Plot to Attack Prime Minister Donald Tusk",
+              "excerpt": "Poland's police said Sunday they received information about a possible plot to attack Prime Minister Donald Tusk and Defense Minister Wladyslaw Kosiniak-Kamysz. The post Polish Police Warn of Possible Plot to Attack Prime Minister Donald Tusk appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2225730493-2-640x335.jpg",
+              "imageAlt": "Polish Police Warn of Possible Plot to Attack Prime Minister Donald Tusk",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg",
+          "imageAlt": "Poland detains man suspected of planning assassination of PM Tusk",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Trump calls for Zelenskyy's ouster after criticism of Russia diesel deal",
+          "summary": "President Donald Trump called for Ukraine to choose a new president after Volodymyr Zelenskyy criticised a US diesel-import agreement with Russia. The BBC quotes Trump as saying Zelenskyy “wants to make problems for the world,” while The Washington Times says Trump is pressing Ukrainians to vote him out.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Watch: 'Time for Ukraine to get a new president', says Trump",
+              "excerpt": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9f8/live/c42726c0-c4de-11f1-9a39-31b474234113.jpg",
+              "imageAlt": "Watch: 'Time for Ukraine to get a new president', says Trump",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/10/trump-calls-zelenskyys-ouster-criticism-russia-diesel-deal/",
+              "source": "Washington Times",
+              "headline": "Trump calls for Zelenskyy's ouster after criticism of Russia diesel deal",
+              "excerpt": "President Trump is pressing Ukraine to vote out President Volodymyr Zelenskyy after he slammed America's diesel import deal with Russia.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/28/Turkey_NATO_Summit_Trump_39817_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump calls for Zelenskyy's ouster after criticism of Russia diesel deal",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9f8/live/c42726c0-c4de-11f1-9a39-31b474234113.jpg",
+          "imageAlt": "Watch: 'Time for Ukraine to get a new president', says Trump",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Bill Maher Rips ‘Tone Deaf’ Mayor Mamdani Over October 7th Comments",
+          "summary": "Bill Maher criticised New York City Mayor Zohran Mamdani's statement marking the third anniversary of the October 7 attacks, calling it tone-deaf. The Daily Wire and Washington Times report Maher's remarks, while Washington Examiner columnist Joe Concha separately described Mamdani's statement as insulting and disgusting.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/bill-maher-rips-tone-deaf-mayor-mamdani-over-october-7th-comments",
+              "source": "Daily Wire",
+              "headline": "Bill Maher Rips ‘Tone Deaf’ Mayor Mamdani Over October 7th Comments",
+              "excerpt": "Comedian and HBO host Bill Maher gave New York City Mayor Zohran Mamdani an earful over his “tone deaf” comments marking the third anniversary of the horrific October 7th massacre. Maher used his monologue to rip into the self-described democratic socialist, who issued a statement that gave lip service to the suffering of Israeli civilians ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bill-Maher.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Bill Maher Rips ‘Tone Deaf’ Mayor Mamdani Over October 7th Comments",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/entertainment/4762558/mamdani-oct-7-statement-insult-jews-joe-concha/",
+              "source": "Washington Examiner",
+              "headline": "Zohran Mamdani’s Oct. 7 statement was ‘disgusting’ and an insult to Jews: Joe Concha",
+              "excerpt": "Washington Examiner columnist Joe Concha blasted New York City Mayor Zohran Mamdani’s statement on the anniversary of the Oct. 7, 2023 terrorist attacks against Israel by Hamas, calling it “insulting.” “This was intentionally insulting,” Concha said Saturday on Fox Business’s Kudlow. “Quite frankly disgusting … this statement was designed to gaslight the Jewish community.” On […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26188614122583-3.jpg?w=696",
+              "imageAlt": "Zohran Mamdani’s Oct. 7 statement was ‘disgusting’ and an insult to Jews: Joe Concha",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/10/bill-maher-mocks-mamdanis-oct-7-anniversary-statement-rap-name-tone/",
+              "source": "Washington Times",
+              "headline": "Bill Maher mocks Mamdani's Oct. 7 anniversary statement: 'His rap name was Tone Deaf'",
+              "excerpt": "BILL MAHER criticized Zohran Mamdani on Friday over the mayor's statement marking the third anniversary of the Oct. 7, 2023, Hamas attack on Israel: \"His rap name was Tone Deaf.\"",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2023/09/18/Hollywood-Strikes-Talk_Shows_16996--5a03a_s1440x958.jpg?490e662726d84b4409caff0ab65abb92b92af294",
+              "imageAlt": "Bill Maher mocks Mamdani's Oct. 7 anniversary statement: 'His rap name was Tone Deaf'",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/03/Bill-Maher.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Bill Maher Rips ‘Tone Deaf’ Mayor Mamdani Over October 7th Comments",
+          "imageCredit": "Daily Wire"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "title": "Why Germany’s AfD keeps winning",
+          "summary": "This story is titled “Why Germany’s AfD keeps winning,” but its only attached source does not provide reporting about the AfD. The linked Spectator Australia item instead discusses the Mercedes G-Wagon and asks how the popemobile would handle Penzance.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/10/how-would-the-popemobile-handle-penzance/",
+              "source": "Spectator Australia",
+              "headline": "How would the popemobile handle Penzance?",
+              "excerpt": "The Mercedes G-Wagon, the Geländewagen, is a beautiful word on the tongue, even if it means ‘off-road vehicle’. But Mercedes,… The post How would the popemobile handle Penzance? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/09/rolls-royces-connection-to-th",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/Tanya_Mercedes_Benz.png",
+              "imageAlt": "How would the popemobile handle Penzance?",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/Tanya_Mercedes_Benz.png",
+          "imageAlt": "How would the popemobile handle Penzance?",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "New Flinders Street health clinic to offer addiction services in CBD",
+          "summary": "A new health clinic serving vulnerable people, including those dealing with addiction, is set to open opposite Melbourne's Flinders Street Station. ABC News reports that some people had wanted the site to become a second safe injecting room.",
+          "links": [
+            {
+              "url": "https://www.abc.net.au/news/2026-10-12/flinders-street-community-health-hub-addiction-homeless-support/107248170",
+              "source": "ABC Australia",
+              "headline": "New Flinders Street health clinic to offer addiction services in CBD",
+              "excerpt": "A new health service targeting vulnerable people, including those struggling with addiction, is set to open opposite Melbourne's Flinders Street Station at a site some had hoped would become a second safe injecting room.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/bbd14d096b1902d20a34543053e8cb9d?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "New Flinders Street health clinic to offer addiction services in CBD",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/bbd14d096b1902d20a34543053e8cb9d?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+          "imageAlt": "New Flinders Street health clinic to offer addiction services in CBD",
+          "imageCredit": "ABC News"
+        },
+        {
+          "title": "The Australians buried together in unmarked graves - podcast",
+          "summary": "A Guardian Australia investigation has found that Australians classified as “persons without means” are being buried together in unmarked graves, often in bare ground between cemetery walkways and older headstones. The reporting, based on testimony, cemetery records and aerial and satellite imagery, prompted an immediate apology from NSW Health, while state Health Minister Ryan Park signalled further action.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/audio/2026/oct/12/the-australians-buried-together-in-unmarked-graves-full-story-podcast",
+              "source": "The Guardian Australia",
+              "headline": "The Australians buried together in unmarked graves - podcast",
+              "excerpt": "Using evidence from family and friends, analysis of cemetery registries, and aerial and satellite imagery, a special investigation by Guardian Australia has found that ‘persons without means’ are being buried in bare patches of earth between walkways and old headstones. The vast majority of the graves do not have a plaque or tombstone. The investigation has prompted an immediate apology from NSW Health, which oversees the process, while the state health minister, Ryan Park, has signalled he w",
+              "imageUrl": "https://i.guim.co.uk/img/media/76b0690336b6418e68bc5dd0ff1c8ae8888f0a96/313_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=826ab874b8443505a59977525ff2464f",
+              "imageAlt": "The Australians buried together in unmarked graves - podcast",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/76b0690336b6418e68bc5dd0ff1c8ae8888f0a96/313_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=826ab874b8443505a59977525ff2464f",
+          "imageAlt": "The Australians buried together in unmarked graves - podcast",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Why are a woman’s eggs worth $220,000?",
+          "summary": "This story is titled “Why are a woman’s eggs worth $220,000?”, but its only attached source supplies no information about eggs or that valuation. The linked Spectator Australia item instead argues that driving into London is psychologically punishing.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/10/driving-into-london-is-a-form-of-psychological-torture/",
+              "source": "Spectator Australia",
+              "headline": "Driving into London is a form of psychological torture",
+              "excerpt": "Whether or not you are a Kemi Badenoch supporter, her comment that people get into more trouble for driving slightly… The post Driving into London is a form of psychological torture appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/why-is-live",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/iStock_2214069045.jpg",
+              "imageAlt": "Driving into London is a form of psychological torture",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/iStock_2214069045.jpg",
+          "imageAlt": "Driving into London is a form of psychological torture",
+          "imageCredit": "Spectator Australia"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "stories": [
+        {
+          "title": "Long live the mechanical keyboard",
+          "summary": "Mechanical-keyboard maker Keychron has expanded since launching on Kickstarter in 2017. TechCrunch highlights its value-focused K2 alongside a wider range that includes a model with an all-wood body.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+              "source": "TechCrunch",
+              "headline": "Long live the mechanical keyboard",
+              "excerpt": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
+              "imageAlt": "Long live the mechanical keyboard",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
+          "imageAlt": "Long live the mechanical keyboard",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
+          "summary": "A phishing scam is placing fake appointment or renewal reminders directly into victims' online calendars. The Guardian reports that the entries contain links leading to counterfeit Google, Microsoft or PayPal login pages designed to capture credentials.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+              "source": "The Guardian Technology",
+              "headline": "‘You have a meeting’: the calendar phishing scam growing exponentially",
+              "excerpt": "Appointment or renewal reminder appears in victims’ calendar to lure them into logging in to fake Google, Microsoft or PayPal page You’re preparing for the week ahead and take a look at your Google calendar. There’s an entry for a meeting that you must have completely forgotten. The note that pops up when you click on it says you’ll be reviewing a project and includes a link to more details. Confused, you follow it to find out more; the website you land on asks for logon details, and yo",
+              "imageUrl": "https://i.guim.co.uk/img/media/26d72cb1f65c0c4f02670bd2e39f1d87f06eb73e/849_0_5555_4444/master/5555.jpg?width=140&quality=85&auto=format&fit=max&s=43f46be4401615d1fef852ad7a8d4581",
+              "imageAlt": "‘You have a meeting’: the calendar phishing scam growing exponentially",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/26d72cb1f65c0c4f02670bd2e39f1d87f06eb73e/849_0_5555_4444/master/5555.jpg?width=140&quality=85&auto=format&fit=max&s=43f46be4401615d1fef852ad7a8d4581",
+          "imageAlt": "‘You have a meeting’: the calendar phishing scam growing exponentially",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
+          "summary": "Guardian columnist Simon Tisdall argues that public focus on artificial intelligence is obscuring the growing danger of nuclear annihilation. He points to the accelerating proliferation of advanced nuclear weapons as a threat bringing catastrophic risk closer.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+              "source": "The Guardian Technology",
+              "headline": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation",
+              "excerpt": "This is no scoffing matter. The accelerating proliferation of advanced nuclear weapons is bringing ‘end times’ closer by the day Humankind has fearfully and sometimes joyfully anticipated the end of the world ever since it began. The Bible’s Book of Revelation speaks of “end times”, a period of tribulation, war, famine, plague, floods and environmental catastrophe that may seem a less absurd prospect today than perhaps it once did. Islam, too, posits a fateful day of judgment or day of",
+              "imageUrl": "https://i.guim.co.uk/img/media/603ece70d9015d3f39bcf155098c10c864112098/192_528_1858_1487/master/1858.jpg?width=140&quality=85&auto=format&fit=max&s=d07bf9a67f3cf7241663c6ada77c859f",
+              "imageAlt": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/603ece70d9015d3f39bcf155098c10c864112098/192_528_1858_1487/master/1858.jpg?width=140&quality=85&auto=format&fit=max&s=d07bf9a67f3cf7241663c6ada77c859f",
+          "imageAlt": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?",
+          "summary": "Parents are finding that viral YouTube creators and content they regard as “brain rot” are appearing on Netflix as streaming services seek younger audiences. The Guardian examines this new challenge for families and asks whether children are becoming more discerning about low-quality online “slop.”",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop",
+              "source": "The Guardian Technology",
+              "headline": "Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?",
+              "excerpt": "As streamers poach viral creators to appeal to children, digital whack-a-mole has become a new kind of family challenge Exasperated dad Simon Hooper shakes his fist at the camera in a viral video . “We managed to get rid of YouTube in our household six months ago and the kids are finally OK with it,” he says – but Netflix is “now commissioning YouTubers to make their brain rot and putting it back in front of my kids’ faces”. <p",
+              "imageUrl": "https://i.guim.co.uk/img/media/bfa4ec89d972ddd11fb12e18622373ef31038bc6/385_0_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=65f0798664eb3c60c5fc746c9135654d",
+              "imageAlt": "Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/bfa4ec89d972ddd11fb12e18622373ef31038bc6/385_0_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=65f0798664eb3c60c5fc746c9135654d",
+          "imageAlt": "Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "The best sunrise alarm clocks in the UK, tried and tested for gentler mornings",
+          "summary": "The Guardian has tested sunrise alarm clocks sold in the UK, including models from Lumie, Philips and Dreamegg. The review considers whether simulated dawn can make winter mornings gentler by helping people wake in closer alignment with their circadian rhythm.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/thefilter/2025/jan/29/best-sunrise-alarm-clocks",
+              "source": "The Guardian Technology",
+              "headline": "The best sunrise alarm clocks in the UK, tried and tested for gentler mornings",
+              "excerpt": "Our reviewer sheds some light on the best dawn simulation alarms, from Lumie and Philips to Dreamegg • The best eye masks to help you sleep better To wake each day in darkness is a plight you wouldn’t wish on your worst enemy, yet that’s what many of us do routinely throughout winter. Getting up in the dark decouples our life from our circadian rhythm (our body clock), with",
+              "imageUrl": "https://i.guim.co.uk/img/media/bcfa6e60920da4eaea7eb0e38570a49a44b3b398/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7e397342af7c0d8e554f42680b52b9ca",
+              "imageAlt": "The best sunrise alarm clocks in the UK, tried and tested for gentler mornings",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/bcfa6e60920da4eaea7eb0e38570a49a44b3b398/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7e397342af7c0d8e554f42680b52b9ca",
+          "imageAlt": "The best sunrise alarm clocks in the UK, tried and tested for gentler mornings",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Marcos confirms Lino Cayetano to replace Dave Gomez as PCO chief",
+          "summary": "President Ferdinand Marcos Jr. has named Lino Cayetano as his sixth communications chief, replacing Dave Gomez at the Presidential Communications Office. Rappler notes the office's repeated leadership changes under Marcos; a separate Inquirer link reports Marcos also confirmed ICT Secretary Henry Aguda's resignation after delaying the announcement while seeking a replacement.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2321603/marcos-confirms-aguda-resignation",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Marcos confirms Aguda resignation",
+              "excerpt": "SINGAPORE — President Ferdinand Marcos Jr. on Sunday confirmed that he had accepted the resignation of Information and Communications Technology Secretary Henry Aguda but said Malacañang delayed announcing it while searching for his replacement. “Yes, but we were holding it back until we found the … replacement,” Marcos said during a Kapihan interview in Singapore.",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/HenryAguda-DICT-24September2026-scaled.png",
+              "imageAlt": "Marcos confirms Aguda resignation",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/lino-cayetano-presidential-communications-office-secretary-marcos-jr/",
+              "source": "Rappler World",
+              "headline": "Lino Cayetano is Marcos’ 6th communications chief",
+              "excerpt": "The Presidential Communications Office has undergone several leadership changes throughout the Marcos administration",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/06/lino-cayetano.jpg",
+              "imageAlt": "Lino Cayetano is Marcos’ 6th communications chief",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/HenryAguda-DICT-24September2026-scaled.png",
+          "imageAlt": "Marcos confirms Aguda resignation",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "400 workers of Benguet mining firm go on strike over wage dispute",
+          "summary": "Around 400 underground and surface employees at Philex Mining's Padcal mine in Tuba, Benguet, went on strike on October 11. The Inquirer reports that the stoppage began during the first shift after collective-bargaining talks between management and the workers' union broke down over wages.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2321526/400-workers-of-benguet-mining-firm-go-on-strike-over-wage-dispute",
+              "source": "Philippine Daily Inquirer",
+              "headline": "400 workers of Benguet mining firm go on strike over wage dispute",
+              "excerpt": "BAGUIO CITY — Around 400 underground and surface workers of Philex Mining Corp. at its Padcal mine in Tuba, Benguet, went on strike on Oct. 11 after collective bargaining negotiations between management and the workers’ union broke down. The work stoppage began between 6 a.m. and 7 a.m. during the first shift, according to labor",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/400-Philex-mine-workers-in-Benguet-go-on-strike-over-wage-dispute.png",
+              "imageAlt": "400 workers of Benguet mining firm go on strike over wage dispute",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (union-backed|labour union|strike action|collective bargaining)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/400-Philex-mine-workers-in-Benguet-go-on-strike-over-wage-dispute.png",
+          "imageAlt": "400 workers of Benguet mining firm go on strike over wage dispute",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Parts of Quezon may experience heavy rain, strong winds on Sunday",
+          "summary": "Parts of Quezon province were forecast to receive moderate to heavy rain, lightning and strong winds on Sunday afternoon. The Philippine weather bureau's 12:30 p.m. thunderstorm advisory named Tagkawayan, Guinayangan, Pitogo, Gumaca and Macalelon among the areas expected to face inclement conditions.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2321521/parts-of-quezon-may-experience-heavy-rain-strong-winds-on-sunday",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Parts of Quezon may experience heavy rain, strong winds on Sunday",
+              "excerpt": "MANILA, Philippines — Parts of Quezon province may experience moderate to heavy rains, lightning, and strong winds on Sunday afternoon, according to the state weather bureau. In its thunderstorm advisory issued at 12:30 p.m., the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said inclement weather was expected in Tagkawayan, Guinayangan, Pitogo, Gumaca, Macalelon and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Thunderstorm-advisory-issued-at-1230-p.m.-on-October-11-2026.-Photo-by-PagasaX.png",
+              "imageAlt": "Parts of Quezon may experience heavy rain, strong winds on Sunday",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Thunderstorm-advisory-issued-at-1230-p.m.-on-October-11-2026.-Photo-by-PagasaX.png",
+          "imageAlt": "Parts of Quezon may experience heavy rain, strong winds on Sunday",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Legarda files bill to strengthen monitoring of fishing vessels",
+          "summary": "Senator Loren Legarda has filed Senate Bill No. 2521, the proposed Fisheries Vessel Monitoring Act. The measure would establish an electronic monitoring framework intended to combat illegal, unreported and unregulated fishing and protect small-scale fishers' livelihoods.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2321643/legarda-files-bill-to-strengthen-monitoring-of-fishing-vessels",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Legarda files bill to strengthen monitoring of fishing vessels",
+              "excerpt": "MANILA, Philippines — Sen. Loren Legarda has filed Senate Bill No. 2521, or the proposed Fisheries Vessel Monitoring Act, to strengthen the monitoring of fishing vessels, combat illegal fishing and protect the livelihoods of small-scale fishers. The measure seeks to establish an electronic vessel monitoring framework to combat illegal, unreported and unregulated (IUU) fishing within",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/legarda-11oct2026.jpeg",
+              "imageAlt": "Legarda files bill to strengthen monitoring of fishing vessels",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/legarda-11oct2026.jpeg",
+          "imageAlt": "Legarda files bill to strengthen monitoring of fishing vessels",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "P180-M underdrainage project eyed to address Baguio lagoon flooding",
+          "summary": "Baguio's city government is working with the Department of Public Works and Highways on a proposed P180-million underdrainage project for City Camp Lagoon. The project is intended to address recurring flooding across the roughly 11,033-square-metre area, although the construction schedule remains under discussion.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2321660/p180-m-underdrainage-project-eyed-to-address-baguio-lagoon-flooding",
+              "source": "Philippine Daily Inquirer",
+              "headline": "P180-M underdrainage project eyed to address Baguio lagoon flooding",
+              "excerpt": "BAGUIO CITY — The city government is coordinating with the Department of Public Works and Highways (DPWH) on a proposed P180-million underdrainage project to address recurring flooding in City Camp Lagoon, with the construction schedule still under discussion. City Engineer Richard Lardizabal, in a statement on Friday, Oct. 10, said the approximately 11,033-square-meter Lagoon area",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/baguio-lagoon-11oct2026.jpg",
+              "imageAlt": "P180-M underdrainage project eyed to address Baguio lagoon flooding",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/baguio-lagoon-11oct2026.jpg",
+          "imageAlt": "P180-M underdrainage project eyed to address Baguio lagoon flooding",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "summary": "TechCrunch has compiled a list of notable AI agents that users can access through text messages. The roundup covers general-purpose assistants as well as agents aimed at families, travel and work.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+              "source": "TechCrunch",
+              "headline": "Here are the top AI agents that can live in your text messages",
+              "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+              "imageAlt": "Here are the top AI agents that can live in your text messages",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+          "imageAlt": "Here are the top AI agents that can live in your text messages",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "The Filter is two! 31 things we loved this year, from cloud-like duvets to the perfect running shoe",
+          "summary": "For the second anniversary of its Filter section, The Guardian has assembled 31 products its writers and editors particularly liked over the past year. The selections range from duvets and running shoes to skincare and gardening tools.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/thefilter/2026/oct/09/the-filter-uk-turns-two-favourite-products-tried-tested",
+              "source": "The Guardian Technology",
+              "headline": "The Filter is two! 31 things we loved this year, from cloud-like duvets to the perfect running shoe",
+              "excerpt": "Whether it’s a super-glowy serum or a cult gardening tool, here are our writers’ favourite buys from the past year • Don’t get the Filter delivered to your inbox? Sign up here The Filter is turning two! To celebrate, we asked our contributors for their favourite products from the past year, and rounded up the team’s picks too. From handb",
+              "imageUrl": "https://i.guim.co.uk/img/media/7dc6d1cdb7e5bd373301f56a6fd4e13a4cea569b/2_0_1996_1597/master/1996.jpg?width=140&quality=85&auto=format&fit=max&s=d1bb572640510fe2f99a943973963552",
+              "imageAlt": "The Filter is two! 31 things we loved this year, from cloud-like duvets to the perfect running shoe",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/7dc6d1cdb7e5bd373301f56a6fd4e13a4cea569b/2_0_1996_1597/master/1996.jpg?width=140&quality=85&auto=format&fit=max&s=d1bb572640510fe2f99a943973963552",
+          "imageAlt": "The Filter is two! 31 things we loved this year, from cloud-like duvets to the perfect running shoe",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
+          "summary": "An international legal dispute over the AI-generated meme character Tung Tung Tung Sahur is testing who can own so-called “brain rot” creations. The Guardian reports that the case could help define the boundary between human creativity and artificial intelligence, while US copyright law currently protects only human-made work.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
+              "source": "The Guardian Technology",
+              "headline": "Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
+              "excerpt": "Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of online video content has become the center of an international legal battle that could determine where human creativity ends and artificia",
+              "imageUrl": "https://i.guim.co.uk/img/media/c2dfa51f1648c91edd6ddfc5ab431cd670b80eba/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=ba022b4f5e38c1610212b48f33491b5d",
+              "imageAlt": "Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/c2dfa51f1648c91edd6ddfc5ab431cd670b80eba/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=ba022b4f5e38c1610212b48f33491b5d",
+          "imageAlt": "Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘Someone else will do it for less’: refugees in Kenya are powering tech for dwindling pay",
+          "summary": "Refugees in Kenya are doing gig work that helps power technology companies, but they face falling and unpredictable pay as cheaper workers and AI compete for the same tasks. The Guardian describes work in Kakuma refugee camp that includes using ChatGPT to research hymn translations in unfamiliar languages.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/08/ai-gig-work-refugees-kenya",
+              "source": "The Guardian Technology",
+              "headline": "‘Someone else will do it for less’: refugees in Kenya are powering tech for dwindling pay",
+              "excerpt": "Refugee gig workers for tech companies don’t know how much they’ll be paid – if AI hasn’t already taken their jobs In a portable building in Kakuma, a refugee camp near Kenya ’s northern border with South Sudan , Grace used ChatGPT to research translations of Christian hymns in languages she doesn’t speak. She d",
+              "imageUrl": "https://i.guim.co.uk/img/media/53d66ebd8b4c6838ae365637ba65b0178b71b3f3/1075_391_4346_3477/master/4346.jpg?width=140&quality=85&auto=format&fit=max&s=0567a4a04254e85973e3d6a9f30a035b",
+              "imageAlt": "‘Someone else will do it for less’: refugees in Kenya are powering tech for dwindling pay",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/53d66ebd8b4c6838ae365637ba65b0178b71b3f3/1075_391_4346_3477/master/4346.jpg?width=140&quality=85&auto=format&fit=max&s=0567a4a04254e85973e3d6a9f30a035b",
+          "imageAlt": "‘Someone else will do it for less’: refugees in Kenya are powering tech for dwindling pay",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "What the £350 Grand Theft Auto ‘collector’s box’ says about the escalating cost of gaming",
+          "summary": "This story is titled “What the £350 Grand Theft Auto ‘collector’s box’ says about the escalating cost of gaming,” but its only attached source provides no details about that product or price. The linked Guardian article instead discusses Zach Cregger's Resident Evil adaptation and how it tries to recreate the experience of playing the game without using characters such as Leon, Claire or Ada Wong.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation",
+              "source": "The Guardian Technology",
+              "headline": "How Zach Cregger’s Resident Evil stands out from all other game adaptations",
+              "excerpt": "There’s no Leon, Claire or Ada Wong in Cregger’s adaptation. Instead, it re-creates something more fundamental – the strange, terrifying experience of actually playing the game • Don’t get Pushing Buttons delivered to your inbox? Sign up here I’ve been surprised by the number of Resident Evil fans",
+              "imageUrl": "https://i.guim.co.uk/img/media/2f792680a7aeaec5f298318a37ef933f27e353f4/726_0_6659_5327/master/6659.jpg?width=140&quality=85&auto=format&fit=max&s=b78481718918b2477aa4e2d0093f2646",
+              "imageAlt": "How Zach Cregger’s Resident Evil stands out from all other game adaptations",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/2f792680a7aeaec5f298318a37ef933f27e353f4/726_0_6659_5327/master/6659.jpg?width=140&quality=85&auto=format&fit=max&s=b78481718918b2477aa4e2d0093f2646",
+          "imageAlt": "How Zach Cregger’s Resident Evil stands out from all other game adaptations",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    }
+  ]
+}
