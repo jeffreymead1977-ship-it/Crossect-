@@ -1,25 +1,25 @@
 {
-  "id": "2026-10-15-expanded",
-  "date": "2026-10-15",
+  "id": "2026-10-16-expanded",
+  "date": "2026-10-16",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-10-15T12:30:04.896156",
+  "generatedAt": "2026-10-16T03:00:03.525340",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-10-15T12:30:04",
+  "updatedAt": "2026-10-16T03:00:03",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Ultimate Aim Of Ilhan Omar Probe Is To Strip Her Citizenship And Deport Her",
-          "summary": "The Trump administration’s investigation into Rep. Ilhan Omar is reportedly seeking grounds to revoke her US citizenship and deport her. Reports cited by Al Jazeera, the Daily Wire and Washington Examiner say investigators have examined immigration records and subpoenaed relatives as they scrutinise how Omar obtained citizenship.",
+          "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+          "summary": "President Donald Trump said the Pentagon will not livestream the firing-squad execution of Fort Hood shooter Nidal Malik Hasan, reversing an earlier plan after public and bipartisan criticism. A letter signed by 72 retired US officers had called the proposed broadcast barbaric and warned that it would taint the honour of the military and the nation.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
-              "excerpt": "Investigators have subpoenaed relatives and examined immigration records, the newspaper reports.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acd05bae07a-1791821242.jpg?resize=1920%2C1440",
-              "imageAlt": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+              "headline": "Trump says Fort Hood US shooter execution will not be livestreamed",
+              "excerpt": "US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0e21cab11-1792074268.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump says Fort Hood US shooter execution will not be livestreamed",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,58 +32,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/ultimate-aim-of-ilhan-omar-probe-is-to-strip-her-citizenship-and-deport-her",
-              "source": "Daily Wire",
-              "headline": "Ultimate Aim Of Ilhan Omar Probe Is To Strip Her Citizenship And Deport Her",
-              "excerpt": "The federal investigation into Rep. Ilhan Omar (D-MN) seeks to build a case to revoke her U.S. citizenship and ultimately deport her, according to The Wall Street Journal, which cited U.S. officials and other people familiar with the probe. The Journal reported Wednesday that investigators are examining how Omar obtained U.S. citizenship after arriving from ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2285656416-1-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Ultimate Aim Of Ilhan Omar Probe Is To Strip Her Citizenship And Deport Her",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/policy/immigration/4766604/ilhan-omar-investigation-citizenship-deport/",
-              "source": "Washington Examiner",
-              "headline": "Ilhan Omar investigation seeks to denaturalize and deport congresswoman: Report",
-              "excerpt": "The Trump administration’s criminal investigation into Rep. Ilhan Omar (D-MN) is aimed at seeking to build a basis to strip the congresswoman of her U.S. citizenship and deport her, according to a new report. Omar has been the subject of government investigations for months. President Donald Trump said in January that the Department of Justice […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26285444534618_7d03e7.jpg?w=696",
-              "imageAlt": "Ilhan Omar investigation seeks to denaturalize and deport congresswoman: Report",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acd05bae07a-1791821242.jpg?resize=1920%2C1440",
-          "imageAlt": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Brooklyn Shop Owner: ‘Kelly Clarkson Has Put Us All In Danger’",
-          "summary": "Brooklyn novelty shop Art of Play says its staff have received threats after singer Kelly Clarkson complained online about how she was treated during a dispute involving a mechanical bird. Co-owner Adam Rubin accused Clarkson of a gross abuse of power and said the resulting attention had put the shop and its workers in danger.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
-              "excerpt": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c048/live/3343c710-c81e-11f1-8533-a5e253c1e7c0.jpg",
-              "imageAlt": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
+              "headline": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+              "excerpt": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/491e/live/40de5ca0-c841-11f1-afe1-c9348bd7f501.jpg",
+              "imageAlt": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -97,179 +51,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.dailywire.com/news/brooklyn-shop-owner-kelly-clarkson-has-put-us-all-in-danger",
-              "source": "Daily Wire",
-              "headline": "Brooklyn Shop Owner: ‘Kelly Clarkson Has Put Us All In Danger’",
-              "excerpt": "The drama between singer Kelly Clarkson and a Brooklyn game shop just got more interesting as the store owner put her on blast, saying the “American Idol” winner’s “gross abuse of power” was “reprehensible” and that she should face “social consequences.” Art of Play co-owner Adam Rubin complained that he’s had to shut off the ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2023/06/GettyImages-1246309663-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Brooklyn Shop Owner: ‘Kelly Clarkson Has Put Us All In Danger’",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c048/live/3343c710-c81e-11f1-8533-a5e253c1e7c0.jpg",
-          "imageAlt": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Dean: Dems Likely to Pickup Iowa, Kansas, Nebraska, Alaska",
-          "summary": "Former Democratic National Committee chairman Howard Dean predicted that Democrats would win US Senate seats in Iowa, Kansas, Nebraska and Alaska, arguing that voters view President Donald Trump as corrupt. A separate linked report concerns Trump accusing Michigan Senate candidate Abdul El-Sayed of membership in the Muslim Brotherhood, an allegation presented without supporting detail in the excerpt.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
-              "excerpt": "President Donald Trump says Michigan Senate candidate Abdul El-Sayed is a member of the Muslim Brotherhood.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792032795.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.breitbart.com/clips/2026/10/13/dean-dems-likely-to-pickup-iowa-kansas-nebraska-alaska/",
+              "url": "https://www.breitbart.com/politics/2026/10/15/trump-says-pentagon-wont-livestream-execution-of-fort-hood-shooter/",
               "source": "Breitbart",
-              "headline": "Dean: Dems Likely to Pickup Iowa, Kansas, Nebraska, Alaska",
-              "excerpt": "Tuesday on MS NOW’s “The Beat,” former Democratic National Committee chairman Howard Dean boldly predicted Democrats will win the Iowa, Kansas, Nebraska, and Alaska U.S. Senate seats. Dean said, “I think that people do believe that Trump is corrupt, and The post Dean: Dems Likely to Pickup Iowa, Kansas, Nebraska, Alaska appeared first on <a rel=\"nofollow\" href",
-              "imageUrl": "https://media.breitbart.com/media/2024/07/dean-640x335.jpg",
-              "imageAlt": "Dean: Dems Likely to Pickup Iowa, Kansas, Nebraska, Alaska",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792032795.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "White House defends new press secretary amid questions about her legal credentials",
-          "summary": "The White House is defending press secretary Katie Zacharia as questions mount over her claims to be a lawyer. Al Jazeera says critics question whether she was ever licensed, while the BBC reports that she does not appear to be registered with the legal bar in any state where she has lived.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
-              "excerpt": "Katie Zacharia has repeatedly claimed to be a lawyer, but critics question whether she was ever licensed.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad00eeb-1792020203.jpg?resize=1920%2C1440",
-              "imageAlt": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "White House defends new press secretary amid questions about her legal credentials",
-              "excerpt": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg",
-              "imageAlt": "White House defends new press secretary amid questions about her legal credentials",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad00eeb-1792020203.jpg?resize=1920%2C1440",
-          "imageAlt": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Feds Subpoena Ilhan Omar’s Family, Seize Her Phone In Raid",
-          "summary": "Federal agents reportedly searched Rep. Ilhan Omar’s Washington, DC, home and seized her cellphone as part of an investigation into alleged immigration fraud. The Daily Wire says prosecutors issued more than 15 subpoenas, including to Omar’s relatives, while Fox News describes the inquiry as focusing on her immigration paperwork.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/feds-subpoena-ilhan-omars-family-seize-her-phone-in-raid",
-              "source": "Daily Wire",
-              "headline": "Feds Subpoena Ilhan Omar’s Family, Seize Her Phone In Raid",
-              "excerpt": "Prosecutors have issued more than 15 subpoenas, including to relatives of Rep. Ilhan Omar (D-MN), as part of an ongoing criminal investigation into alleged immigration fraud, according to NewsNation, which cited a source familiar with the investigation. Federal agents also seized Omar’s phone during Monday’s search of her Washington, D.C., residence, NewsNation reported Wednesday. Homeland ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/Untitled-design-5.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Feds Subpoena Ilhan Omar’s Family, Seize Her Phone In Raid",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/federal-agents-seize-phone-rep-ilhan-omar-raid-tied-immigration-fraud-probe",
-              "source": "Fox News",
-              "headline": "Federal agents seize phone of Rep Ilhan Omar in raid tied to immigration fraud probe",
-              "excerpt": "Federal agents raided Ilhan Omar's D.C. home and seized her cellphone as part of a criminal fraud investigation into her immigration paperwork.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ilhan-omar-and-ice-officers.jpg?ve=1&tl=1",
-              "imageAlt": "Federal agents seize phone of Rep Ilhan Omar in raid tied to immigration fraud probe",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/Untitled-design-5.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Feds Subpoena Ilhan Omar’s Family, Seize Her Phone In Raid",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Mom Who Confessed To Killing Toddler And Husband Had A Twisted Final Wish",
-          "summary": "Police arrested 27-year-old Metallica Harrison after her husband and three-year-old son were found fatally stabbed at a resort in Pennsylvania’s Pocono Mountains. Reports say investigators allege Harrison killed them before attempting to take her own life, and detectives are still trying to determine a motive.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/crime/2026/10/14/young-mom-allegedly-stabbed-husband-and-toddler-to-death-at-family-resort-then-called-911-to-ask-for-advice-in-her-suicide-attempt/",
-              "source": "Breitbart",
-              "headline": "Young Mom Allegedly Stabbed Husband and Toddler to Death at Family Resort Then Called 911 to Ask for Advice in Her Suicide Attempt",
-              "excerpt": "Detectives are trying to determine the motive of a young mom who allegedly stabbed her husband and their three-year-old son to death before trying to kill herself this week at a popular family resort lodge in Pennsylvania’s Pocono Mountains. The post Young Mom Allegedly Stabbed Husband and",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/Metallica-Rose-Harrison-640x335.png",
-              "imageAlt": "Young Mom Allegedly Stabbed Husband and Toddler to Death at Family Resort Then Called 911 to Ask for Advice in Her Suicide Attempt",
+              "headline": "Trump Says Pentagon Won’t Livestream Execution of Fort Hood Shooter",
+              "excerpt": "The Pentagon will no longer livestream the firing squad execution of Fort Hood shooter Nidal Malik Hasan, President Donald Trump announced Thursday. The post Trump Says Pentagon Won’t Livestream Execution of Fort Hood Shooter appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Nidal-Hasan-Fort-Hood-shooting-undated-ap-640x335.jpg",
+              "imageAlt": "Trump Says Pentagon Won’t Livestream Execution of Fort Hood Shooter",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -282,58 +69,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/mom-arrested-in-brutal-murder-of-3-year-old-son-and-husband",
-              "source": "Daily Wire",
-              "headline": "Mom Who Confessed To Killing Toddler And Husband Had A Twisted Final Wish",
-              "excerpt": "Police arrested a 27-year-old woman after they said she stabbed her husband and 3-year-old son to death at a resort in northeastern Pennsylvania. Officers with the Pocono Township Police Department detained 27-year-old Metallica Harrison on Monday after they arrived at the Great Wolf Lodge in Monroe County and found her husband Charles and 3-year-old son ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/Untitled-design-2026-10-14T084037.604.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Mom Who Confessed To Killing Toddler And Husband Had A Twisted Final Wish",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/10/Metallica-Rose-Harrison-640x335.png",
-          "imageAlt": "Young Mom Allegedly Stabbed Husband and Toddler to Death at Family Resort Then Called 911 to Ask for Advice in Her Suicide Attempt",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "The Daily Wire’s New Film ‘Confession’ Is Full Of Oscar Nominees",
-          "summary": "The Daily Wire’s new film “Confession,” a Stalin-era prison drama written by Ben Shapiro, is set to premiere at the Warsaw Film Festival. Rob Lowe and James Franco star, Lowe also serves as a producer, and the Daily Wire says the cast and crew include seven Academy Award nominees.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/the-daily-wires-new-film-confession-is-full-of-oscar-nominees",
-              "source": "Daily Wire",
-              "headline": "The Daily Wire’s New Film ‘Confession’ Is Full Of Oscar Nominees",
-              "excerpt": "The Daily Wire announced an exciting new entertainment project this week, and the cast includes some of the biggest names in the business. “Confession,” which will debut at the Warsaw Film Festival on Thursday, includes seven Academy Award nominees across its cast and crew. That includes star Rob Lowe (“The West Wing”), James Franco (“127 ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/Confession.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "The Daily Wire’s New Film ‘Confession’ Is Full Of Oscar Nominees",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/14/rob-lowe-james-franco-star-ben-shapiro-penned-confession/",
+              "url": "https://www.washingtontimes.com/news/2026/oct/15/donald-trump-bipartisan-backlash-says-pentagon-wont-livestream/",
               "source": "Washington Times",
-              "headline": "Rob Lowe, James Franco star in Ben Shapiro-penned 'Confession'",
-              "excerpt": "Rob Lowe and James Franco are starring in a new Daily Wire movie written by Ben Shapiro. \"Confession,\" a Stalin-era prison drama, premieres Thursday at the Warsaw Film Festival. Lowe also serves as a producer on the movie.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2024/09/30/France_Fashion_Stella_McCartney_25_Front_Row_54415_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Rob Lowe, James Franco star in Ben Shapiro-penned 'Confession'",
+              "headline": "Trump, after bipartisan backlash, cancels livestream execution of Fort Hood shooter",
+              "excerpt": "President Trump said Thursday the livestreamed execution of Fort Hood shooter Nidal Hasan has been canceled.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/15/APTOPIX_Trump_81339_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump, after bipartisan backlash, cancels livestream execution of Fort Hood shooter",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -347,9 +88,304 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/Confession.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "The Daily Wire’s New Film ‘Confession’ Is Full Of Oscar Nominees",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0e21cab11-1792074268.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump says Fort Hood US shooter execution will not be livestreamed",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Maduro pleads not guilty to torture charges",
+          "summary": "Nicolas Maduro and his wife, Cilia Flores, pleaded not guilty in a New York City federal court to new US charges of conspiracy to commit torture. The charges allege that the pair were involved in torturing US citizens.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
+              "excerpt": "Maduro and wife appear in New York City court after new 'conspiracy to commit torture' charges.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0e914c116-1792076052.jpg?resize=1920%2C1440",
+              "imageAlt": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department); article-text lowers reliability: (rumours|unverified|alleged without evidence|speculation|conspiracy)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/justice/4767250/maduro-plead-not-guilty-torture-charge-southern-district-court/",
+              "source": "Washington Examiner",
+              "headline": "Maduro pleads not guilty to torture charges",
+              "excerpt": "Former Venezuelan dictator Nicolas Maduro and his wife each pleaded not guilty to new charges alleging they tortured U.S. citizens. Maduro and his wife, Cilia Flores, appeared in a New York City federal courtroom on Thursday for an arraignment on new charges that the two were allegedly involved in conspiring to commit torture. The new […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26203663327285-e1791414054943.jpg?w=696",
+              "imageAlt": "Maduro pleads not guilty to torture charges",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0e914c116-1792076052.jpg?resize=1920%2C1440",
+          "imageAlt": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Student protesters attack government buildings in Albania",
+          "summary": "Thousands of student protesters attacked government buildings in Albania during a second day of demonstrations, and some buildings were set alight. The students are demanding better university conditions and improved job prospects.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Student protesters attack government buildings in Albania",
+              "excerpt": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
+              "imageAlt": "Student protesters attack government buildings in Albania",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
+          "imageAlt": "Student protesters attack government buildings in Albania",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Pope Leo Has 'Good Night' in Hospital After Lung Cancer Surgery",
+          "summary": "Pope Leo XIV had a good night and ate breakfast in hospital after surgery to remove a cancerous growth from his lung, according to the Vatican. Doctors said his recovery was proceeding, and the pontiff resumed work by meeting a senior Vatican aide.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Pope Leo resumes work in hospital while recovering from surgery",
+              "excerpt": "Catholic leader met top Vatican aide, as doctors say recovery proceeding after lung surgery to remove cancerous growth.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acb92de-1791726302.jpg?resize=1920%2C1440",
+              "imageAlt": "Pope Leo resumes work in hospital while recovering from surgery",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/europe/2026/10/15/pope-leo-has-good-night-in-hospital-after-lung-cancer-surgery/",
+              "source": "Breitbart",
+              "headline": "Pope Leo Has 'Good Night' in Hospital After Lung Cancer Surgery",
+              "excerpt": "The surgery is over and now the recovery begins. That is the plan for Pope Leo XIV who had a \"good night\" in hospital and has eaten breakfast as he recovers from lung cancer surgery, the Vatican said Thursday. The post Pope Leo Has ‘Good Night’ in Hospital After Lung Cancer Surgery appeared first on Br",
+              "imageUrl": "https://media.breitbart.com/media/2026/09/Pope-Leo-XIV-in-france-640x335.jpg",
+              "imageAlt": "Pope Leo Has 'Good Night' in Hospital After Lung Cancer Surgery",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acb92de-1791726302.jpg?resize=1920%2C1440",
+          "imageAlt": "Pope Leo resumes work in hospital while recovering from surgery",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Michigan’s El-Sayed Cornered By Liberal Outlet Over Muslim Brotherhood, Then Lashes Out",
+          "summary": "Michigan Democratic US Senate nominee Abdul El-Sayed rejected questions about alleged family ties to the Muslim Brotherhood during television interviews. Confronted with social-media posts attributed to his half-sister, he called the material hearsay, said neither he nor his family had ties to the group, and described the line of questioning as not serious.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/clips/2026/10/14/el-sayed-on-half-sisters-muslim-brotherhood-tweets-youre-using-hearsay-evidence-we-have-no-ties-i-didnt-talk-to-my-mom-about-that-not-serious/",
+              "source": "Breitbart",
+              "headline": "El-Sayed on Half-Sister's Muslim Brotherhood Tweets: 'You're Using Hearsay Evidence', 'We Have No Ties', I Didn't Talk to My Mom About That, 'Not Serious'",
+              "excerpt": "During a portion of an interview aired on Wednesday’s broadcast of “NBC Nightly News,” Michigan Democratic U.S. Senate nominee Abdul El-Sayed responded to posts from his half-sister about his family’s relationship with the Muslim Brotherhood by saying that “We have no The post E",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/oct8-2026-Michigan-debate-Abdul-El-Sayed-ap-640x335.jpg",
+              "imageAlt": "El-Sayed on Half-Sister's Muslim Brotherhood Tweets: 'You're Using Hearsay Evidence', 'We Have No Ties', I Didn't Talk to My Mom About That, 'Not Serious'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/michigans-el-sayed-cornered-by-liberal-outlet-over-muslim-brotherhood-then-lashes-out",
+              "source": "Daily Wire",
+              "headline": "Michigan’s El-Sayed Cornered By Liberal Outlet Over Muslim Brotherhood, Then Lashes Out",
+              "excerpt": "Michigan Democrat Senate candidate Abdul El-Sayed dismissed questions about reported family ties to the Muslim Brotherhood as “not serious” during an interview with NBC News. A flustered El-Sayed attempted to write off past social media posts from his half-sister claiming their mother and family had “long” been active in the radical group. The questions from ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2288811904.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Michigan’s El-Sayed Cornered By Liberal Outlet Over Muslim Brotherhood, Then Lashes Out",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4767048/el-sayed-relatives-posts-support-muslim-brotherhood-egypt/",
+              "source": "Washington Examiner",
+              "headline": "El Sayed confronted with relative’s posts supporting Muslim Brotherhood after he denied affiliation",
+              "excerpt": "Abdul el Sayed became agitated when a journalist confronted him with a family member’s posts supporting the Muslim Brotherhood after he previously denied ties to the group. On Sunday, the Michigan Democratic Senate nominee told Meet the Press host Kristen Welker that neither he nor his family had any connections to the Muslim Brotherhood, an […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26217554416561-e1791493130406.jpg?w=696",
+              "imageAlt": "El Sayed confronted with relative’s posts supporting Muslim Brotherhood after he denied affiliation",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/10/oct8-2026-Michigan-debate-Abdul-El-Sayed-ap-640x335.jpg",
+          "imageAlt": "El-Sayed on Half-Sister's Muslim Brotherhood Tweets: 'You're Using Hearsay Evidence', 'We Have No Ties', I Didn't Talk to My Mom About That, 'Not Serious'",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Democrats Turn to Bill Clinton for Late Campaign Push in Florida",
+          "summary": "Former president Bill Clinton is joining Florida Democratic gubernatorial nominee David Jolly on the campaign trail two weeks before Election Day. The appearance is Clinton's first public campaign stop ahead of the midterm elections, while Hillary Clinton has launched a podcast with Kara Swisher called High Stakes.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/politics/2026/10/14/democrats-turn-to-bill-clinton-for-late-campaign-push-in-florida/",
+              "source": "Breitbart",
+              "headline": "Democrats Turn to Bill Clinton for Late Campaign Push in Florida",
+              "excerpt": "Former President Bill Clinton is joining Florida Democrats’ late push for votes, with a campaign appearance for gubernatorial nominee David Jolly scheduled two weeks before Election Day. The post Democrats Turn to Bill Clinton for Late Campaign Push in Florida appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Bill-Clinton-640x335.jpeg",
+              "imageAlt": "Democrats Turn to Bill Clinton for Late Campaign Push in Florida",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/politics/bill-hillary-clinton-make-eleventh-hour-midterm-moves-partys-old-guard-faces-new-reality",
+              "source": "Fox News",
+              "headline": "Bill and Hillary Clinton make eleventh-hour midterm moves as party's old guard faces new reality",
+              "excerpt": "Bill Clinton heads to Florida to campaign for David Jolly while Hillary Clinton launches \"High Stakes\" podcast with Kara Swisher for midterms.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/bill-hillary-clinton-white-house.png?ve=1&tl=1",
+              "imageAlt": "Bill and Hillary Clinton make eleventh-hour midterm moves as party's old guard faces new reality",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/15/bill-clinton-campaign-florida-democrat-david-jolly-ahead-midterms/",
+              "source": "Washington Times",
+              "headline": "Bill Clinton to campaign for Florida Democrat David Jolly ahead of midterms",
+              "excerpt": "Bill Clinton will join David Jolly, the Democratic nominee for Florida governor, on the campaign trail in the former president's first public stumping ahead of the midterm elections.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/08/18/Election_2_26_Florida_Governor_45189_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Bill Clinton to campaign for Florida Democrat David Jolly ahead of midterms",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/10/Bill-Clinton-640x335.jpeg",
+          "imageAlt": "Democrats Turn to Bill Clinton for Late Campaign Push in Florida",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Suspicious packages sent to election and congressional offices ahead of midterm elections",
+          "summary": "The FBI is investigating letters containing white powder or other unknown substances that were sent to Senate offices and state election authorities ahead of the November 3 midterm elections. The Senate Sergeant at Arms said law enforcement was trying to intercept further letters, although some could still reach their destinations.",
+          "links": [
+            {
+              "url": "https://www.washingtonexaminer.com/news/crime/4767400/suspicious-package-congress-office/",
+              "source": "Washington Examiner",
+              "headline": "Suspicious packages sent to election and congressional offices ahead of midterm elections",
+              "excerpt": "Authorities are investigating letters containing “suspicious substances” sent to multiple Capitol Hill offices, according to a notice distributed to congressional staff. The Senate Sergeant at Arms said law enforcement officials are working to intercept additional letters before they are delivered, though some may still reach their intended destinations, according to a memo obtained by Politico. […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2024/09/AP24264740830449.webp?w=696",
+              "imageAlt": "Suspicious packages sent to election and congressional offices ahead of midterm elections",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/15/fbi-investigating-packages-containing-white-powder-sent-senate-state/",
+              "source": "Washington Times",
+              "headline": "FBI investigating packages containing white powder sent to Senate, state elections officials",
+              "excerpt": "The FBI is investigating mail containing unknown substances sent to the Senate and state election authorities this week, ahead of the Nov. 3 midterm elections.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/08/Chinese_Hacking-FBI_89461_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "FBI investigating packages containing white powder sent to Senate, state elections officials",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2024/09/AP24264740830449.webp?w=696",
+          "imageAlt": "Suspicious packages sent to election and congressional offices ahead of midterm elections",
+          "imageCredit": "Washington Examiner"
         }
       ]
     },
@@ -357,16 +393,16 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Why are a woman’s eggs worth $220,000?",
-          "summary": "The story is titled “Why are a woman’s eggs worth $220,000?”, but the only linked item does not provide information about eggs or that valuation. Its excerpt is a Spectator Australia commentary about the difficulty of driving into London and briefly references Kemi Badenoch.",
+          "title": "Revealed: Nato’s plan to combat Russia",
+          "summary": "A Spectator Australia article examines what it describes as NATO's plan to combat Russia. Its excerpt contrasts the alliance's reportedly quiet, competent and confident work with the turmoil surrounding Donald Trump's White House and Pete Hegseth's Pentagon.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/10/driving-into-london-is-a-form-of-psychological-torture/",
+              "url": "https://www.spectator.com.au/2026/10/revealed-natos-plan-to-combat-russia/",
               "source": "Spectator Australia",
-              "headline": "Driving into London is a form of psychological torture",
-              "excerpt": "Whether or not you are a Kemi Badenoch supporter, her comment that people get into more trouble for driving slightly… The post Driving into London is a form of psychological torture appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/why-is-live",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/iStock_2214069045.jpg",
-              "imageAlt": "Driving into London is a form of psychological torture",
+              "headline": "Revealed: Nato’s plan to combat Russia",
+              "excerpt": "Amidst all the ‘Sturm und Drang’ of Donald Trump’s White House and Pete Hegseth’s Pentagon, a quietly competent and confident… The post Revealed: Nato’s plan to combat Russia appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/zia-yusufs-plan-to-tackle-the-small-",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_1406574909_1.jpg",
+              "imageAlt": "Revealed: Nato’s plan to combat Russia",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -380,39 +416,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/iStock_2214069045.jpg",
-          "imageAlt": "Driving into London is a form of psychological torture",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_1406574909_1.jpg",
+          "imageAlt": "Revealed: Nato’s plan to combat Russia",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
-          "summary": "An IBAC investigation found that senior Victorian public servants withheld information about major losses from flawed Covid-19 business-support grants. The Guardian says an estimated $257 million went to 9,000 ineligible businesses, while ABC reports that officials failed to warn the responsible minister that hundreds of millions of dollars were being improperly paid.",
+          "title": "Quick hits: Walsh vomits after try, Ponga shines then suffers in epic duel",
+          "summary": "Australia and New Zealand opened the 2026 Rugby League World Cup with what ABC described as an all-time classic. Reece Walsh vomited after scoring a try, while Kalyn Ponga impressed before suffering in the closely fought match.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb",
-              "source": "The Guardian Australia",
-              "headline": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
-              "excerpt": "Whistleblowers applauded as Ibac finds ‘decisions were made to withhold information about the magnitude of the loss’ Senior public servants in one state covered up losses suspected to be worth hundreds of millions of dollars arising from flawed Covid-19 business support payments, an investigation has found. During the pandemic, the Victorian government spent an estimated $257m on support grants to 9,000 ineligible businesses. <a href=\"https://www.theguardian.com/australia-ne",
-              "imageUrl": "https://i.guim.co.uk/img/media/a4537d2fb3564f582ea1419f5f48bb91e2e4327c/571_0_5708_4568/master/5708.jpg?width=140&quality=85&auto=format&fit=max&s=4b5742b48c12b9a1d68ed8878cb2766a",
-              "imageAlt": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-10-15/vic-covid-business-grants-corruption-report/107268816",
+              "url": "https://www.abc.net.au/news/2026-10-15/kangaroos-vs-kiwis-quick-hits-rugby-league-world-cup/107272576",
               "source": "ABC Australia",
-              "headline": "COVID-19 grants paid to 9,000 ineligible Victorian businesses",
-              "excerpt": "An IBAC investigation has found senior public officers failed to warn the minister that hundreds of millions of dollars in business support grants were being paid to ineligible businesses during the COVID-19 pandemic.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/dc368b8d852ca30447bb08a9c5d171e0?impolicy=wcms_crop_resize&cropH=585&cropW=1040&xPos=44&yPos=147&width=862&height=485",
-              "imageAlt": "COVID-19 grants paid to 9,000 ineligible Victorian businesses",
+              "headline": "Quick hits: Walsh vomits after try, Ponga shines then suffers in epic duel",
+              "excerpt": "Australia and New Zealand have set a high standard for the 17th edition of the Rugby League World Cup, opening the 2026 tournament with an all-time classic. Here are the quick hits from the opening match.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/785ee28f15536faba5ba09058da1d672?impolicy=wcms_crop_resize&cropH=1148&cropW=2041&xPos=92&yPos=151&width=862&height=485",
+              "imageAlt": "Quick hits: Walsh vomits after try, Ponga shines then suffers in epic duel",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -421,55 +439,55 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/a4537d2fb3564f582ea1419f5f48bb91e2e4327c/571_0_5708_4568/master/5708.jpg?width=140&quality=85&auto=format&fit=max&s=4b5742b48c12b9a1d68ed8878cb2766a",
-          "imageAlt": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/785ee28f15536faba5ba09058da1d672?impolicy=wcms_crop_resize&cropH=1148&cropW=2041&xPos=92&yPos=151&width=862&height=485",
+          "imageAlt": "Quick hits: Walsh vomits after try, Ponga shines then suffers in epic duel",
+          "imageCredit": "ABC News"
         },
         {
-          "title": "If you’re over 55 and too tired to make it into the office, these two Fair Work decisions are required reading | Van Badham",
-          "summary": "A Guardian commentary examines two Fair Work decisions concerning older workers, fatigue and working-from-home accommodations. It argues that the rulings have implications beyond office policy by confronting physical limits and what it describes as outdated management culture.",
+          "title": "Digital duty laws still allow manosphere content and conspiracy theories, says Wells – video",
+          "summary": "Australia's proposed digital duty-of-care laws would still allow manosphere podcasts and moon-landing conspiracy theories to remain online, Communications Minister Anika Wells said. Wells used those examples to reject claims that Labor's legislation would give the government control over speech.",
           "links": [
             {
-              "url": "https://www.theguardian.com/commentisfree/2026/oct/13/over-55-office-fatigue-fair-work-decisions-wfh-australia",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/15/anika-wells-dismisses-gov-censorship-claims-online-safety-national-press-club-ntwnfb",
               "source": "The Guardian Australia",
-              "headline": "If you’re over 55 and too tired to make it into the office, these two Fair Work decisions are required reading",
-              "excerpt": "The industrial tribunal is where the human experience of fatigue and the mythologies of outdated management cultures are brought into sharper view A decision last week about work-from-home accommodations carries implications far beyond the modern workplace and into the realm of a refreshingly material understanding of existential limitation. It was only in July that Australia’s <a href=\"https://www.smh.com.au/business/workplace/55-year-old-council-worker-s-age-based-wfh-claim-deni",
-              "imageUrl": "https://i.guim.co.uk/img/media/999df496529c5d942571961a960fd84be7da9f33/383_317_4193_3353/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=e5bcae7486d0a8ae6986ec4a316eed1f",
-              "imageAlt": "If you’re over 55 and too tired to make it into the office, these two Fair Work decisions are required reading | Van Badham",
+              "headline": "‘Manosphere’ podcasts and moon-landing conspiracy theories to remain online under new laws, Wells says",
+              "excerpt": "Communications minister rebuts claims that Labor’s digital duty of care laws would lead to government control of speech Follow our Australian politics live blog for latest updates Get our breaking news email , <a href=\"http",
+              "imageUrl": "https://i.guim.co.uk/img/media/90b8aedbc61c292087433bcf41d5f0eee9e03beb/1298_0_5610_4491/master/5610.jpg?width=140&quality=85&auto=format&fit=max&s=1170c358eca6f79aba9ee43fe1ed92a4",
+              "imageAlt": "‘Manosphere’ podcasts and moon-landing conspiracy theories to remain online under new laws, Wells says",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (rumours|unverified|alleged without evidence|speculation|conspiracy)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/999df496529c5d942571961a960fd84be7da9f33/383_317_4193_3353/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=e5bcae7486d0a8ae6986ec4a316eed1f",
-          "imageAlt": "If you’re over 55 and too tired to make it into the office, these two Fair Work decisions are required reading | Van Badham",
+          "imageUrl": "https://i.guim.co.uk/img/media/90b8aedbc61c292087433bcf41d5f0eee9e03beb/1298_0_5610_4491/master/5610.jpg?width=140&quality=85&auto=format&fit=max&s=1170c358eca6f79aba9ee43fe1ed92a4",
+          "imageAlt": "‘Manosphere’ podcasts and moon-landing conspiracy theories to remain online under new laws, Wells says",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Mulholland Drive makes perfect sense",
-          "summary": "The story is titled “Mulholland Drive makes perfect sense,” but the only linked excerpt does not discuss the film or explain that claim. Instead, the Spectator Australia item is commentary from the Conservative Party conference arguing that Kemi Badenoch has given the Tories cause for hope.",
+          "title": "An online tax crackdown is a mistake",
+          "summary": "A Spectator Australia commentary argues that an online tax crackdown would be a mistake. It says Chancellor John Healey has few remaining options to target wealthy taxpayers when he presents his first Budget later this month.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/10/kemi-badenoch-has-given-the-tories-cause-for-hope/",
+              "url": "https://www.spectator.com.au/2026/10/an-online-tax-crackdown-is-a-mistake/",
               "source": "Spectator Australia",
-              "headline": "Kemi Badenoch has given the Tories cause for hope",
-              "excerpt": "The old jokes are the best. When I arrived in Birmingham on Sunday evening for the Tory party conference, I… The post Kemi Badenoch has given the Tories cause for hope appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/06/rupert-lowe-turns-up-for-work-",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/PolCol_GettyImages_2298432927.jpg",
-              "imageAlt": "Kemi Badenoch has given the Tories cause for hope",
+              "headline": "An online tax crackdown is a mistake",
+              "excerpt": "When he presents his first Budget later this month, Chancellor John Healey won’t have many ‘bash the rich’ or ‘hammer… The post An online tax crackdown is a mistake appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/jaguars-new-electric-car-is-a-terrible-mistake",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2217385706.jpg",
+              "imageAlt": "An online tax crackdown is a mistake",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -483,8 +501,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/PolCol_GettyImages_2298432927.jpg",
-          "imageAlt": "Kemi Badenoch has given the Tories cause for hope",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2217385706.jpg",
+          "imageAlt": "An online tax crackdown is a mistake",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -493,17 +511,162 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-          "summary": "CedarDB is developing a database engine designed to handle both operational transactions and analytical workloads, which have traditionally been served by separate systems. TechCrunch reports that the company believes this combined approach has become more relevant with the rise of agentic AI.",
+          "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+          "summary": "TechCrunch says October 16 is the final day for discounted booking tied to its 2026 events. The story title advertises savings of up to $200 on a Founder Summit pass, while the linked TechCrunch item promotes a 75% discount for TechCrunch Disrupt 2026 and says more than 10,000 technology leaders are expected.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+              "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
               "source": "TechCrunch",
-              "headline": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-              "excerpt": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
-              "imageAlt": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+              "headline": "TechCrunch Disrupt 2026: Last day",
+              "excerpt": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800",
+              "imageAlt": "TechCrunch Disrupt 2026: Last day",
               "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800",
+          "imageAlt": "TechCrunch Disrupt 2026: Last day",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+          "summary": "Artificial intelligence is expanding workplace surveillance beyond traditional output targets and computer-based 'bossware'. The Guardian's podcast examines systems that process large volumes of data to produce minute-by-minute assessments of worker activity and productivity, including why employers adopt them and how they may prove counterproductive.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
+              "source": "The Guardian Technology",
+              "headline": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+              "excerpt": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and productivity. To find out more, Ian Sample hears from UK technology editor Robert Booth. He explains which sectors are adopting this approach, why they are doing it, and how it could end up being counterproductive. <",
+              "imageUrl": "https://i.guim.co.uk/img/media/36b9a50411e1fa12be05e3f9ba7330007bc42a3a/385_0_4103_3282/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=ae1303463bb1b86f2f94316328cccbd5",
+              "imageAlt": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/36b9a50411e1fa12be05e3f9ba7330007bc42a3a/385_0_4103_3282/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=ae1303463bb1b86f2f94316328cccbd5",
+          "imageAlt": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
+          "summary": "Sony has made a gold-plated Walkman MP3 player priced at $5,900. The Verge reported on the unusually expensive portable music player.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
+              "source": "The Verge",
+              "headline": "Sony made a $5,900 gold-plated Walkman MP3 player",
+              "excerpt": "<img alt=\"A press render of the $5,900 gold-plated sony walkman on a plain gray background because there was no way we would ever be allowed to actually touch one of these things.\" data-caption=\"This render with a transparent background is the closest we’ll ever come to touching one of these things. | Image: Sony\" data-portal-copyright=\"Image: Sony\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sony_walkman_WM1ZM3.jpg?quality=90&st",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sony_walkman_WM1ZM3.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+              "imageAlt": "Sony made a $5,900 gold-plated Walkman MP3 player",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sony_walkman_WM1ZM3.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+          "imageAlt": "Sony made a $5,900 gold-plated Walkman MP3 player",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "Castlevania: Belmont’s Curse review – every fantastical vampire-hunting vision is fulfilled",
+          "summary": "Castlevania: Belmont's Curse moves the long-running vampire-hunting series into a gothic Paris filled with demons, buzzsaws, blood pits and fast action. The Guardian's review praises the vivid, haunting presentation but says the stronger emphasis on twitch-based combat may frustrate series purists.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/oct/13/castlevania-belmonts-curse-review-vampire-hunting",
+              "source": "The Guardian Technology",
+              "headline": "Castlevania: Belmont’s Curse review – every fantastical vampire-hunting vision is fulfilled",
+              "excerpt": "Evil Empire/Konami; PC, PS5, Switch, Xbox There are buzzsaws and blood pits, bats burst into blood and demons burn to cinders. The series’ new emphasis on twitch-based action may annoy purists but you can’t call it dull A gorgeously gothic Paris swarming with demons should be a perfect setting for Konami’s long-running vampiric adventure series. Unfortunately, while the sights and sounds of this vivid and haunting world leave a bold impression, developer Evil",
+              "imageUrl": "https://i.guim.co.uk/img/media/ebfeb56372e3be0f5796bc7ad173a0c6ac42b1a9/245_0_1250_1000/master/1250.png?width=140&quality=85&auto=format&fit=max&s=e11a2928423f5e3907f06ce0f6655662",
+              "imageAlt": "Castlevania: Belmont’s Curse review – every fantastical vampire-hunting vision is fulfilled",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/ebfeb56372e3be0f5796bc7ad173a0c6ac42b1a9/245_0_1250_1000/master/1250.png?width=140&quality=85&auto=format&fit=max&s=e11a2928423f5e3907f06ce0f6655662",
+          "imageAlt": "Castlevania: Belmont’s Curse review – every fantastical vampire-hunting vision is fulfilled",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "The fight to switch off your algorithm – podcast",
+          "summary": "Campaigner Chanel Contos is pushing back against social-media algorithms and has helped shape an Australian bill intended to increase regulation of large technology companies. The Guardian podcast traces that work alongside her earlier Teach Us Consent campaign, which successfully pressed for consent education to be mandated in Australia's national curriculum.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/news/audio/2026/oct/12/the-fight-to-switch-off-your-algorithm-podcast",
+              "source": "The Guardian Technology",
+              "headline": "The fight to switch off your algorithm – podcast",
+              "excerpt": "Chanel Contos talks about her campaign against social media algorithms and how it has helped shape a groundbreaking bill in her native Australia to increase regulation of big tech Chanel Contos is in her mid-20s and has already changed Australia once. As she tells Annie Kelly , after she founded Teach Us Consent at university, the advocacy group successfully campaigned to change Australian’s national curriculum to mandate the teach",
+              "imageUrl": "https://i.guim.co.uk/img/media/a1689a55c2e0aae2070fb809c8d9cd0a7c19222c/594_0_5578_4462/master/5578.jpg?width=140&quality=85&auto=format&fit=max&s=1925c8cccd1c5c7b97ff665408295b5b",
+              "imageAlt": "The fight to switch off your algorithm – podcast",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/a1689a55c2e0aae2070fb809c8d9cd0a7c19222c/594_0_5578_4462/master/5578.jpg?width=140&quality=85&auto=format&fit=max&s=1925c8cccd1c5c7b97ff665408295b5b",
+          "imageAlt": "The fight to switch off your algorithm – podcast",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "1PWD party-list filing complaint vs Machong Chismisan hosts",
+          "summary": "The 1PWD party-list group plans to file a complaint with the National Bureau of Investigation against the hosts of the Machong Chismisan podcast over remarks mocking Josh Aquino and people with disabilities. The NBI is set to investigate the hosts after the comments drew a public backlash and prompted groups and friends to defend Aquino.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2324386/1pwd-party-list-filing-complaint-vs-machong-chismisan-hosts",
+              "source": "Philippine Daily Inquirer",
+              "headline": "1PWD party-list filing complaint vs Machong Chismisan hosts",
+              "excerpt": "MANILA, Philippines — 1PWD party-list Rep. JD Castro said that his group will file a complaint before the National Bureau of Investigation (NBI) against Machong Chismisan podcast hosts over their insensitive remarks directed towards people with disabilities (PWD). The five male hosts faced backlash after they made comments about Joshua “Josh” Aquino, the eldest son",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Senator-slams-mockery-of-persons-with-autism.png",
+              "imageAlt": "1PWD party-list filing complaint vs Machong Chismisan hosts",
+              "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
@@ -513,141 +676,42 @@
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
-          "imageAlt": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "The Legend of Zelda: Ocarina of Time preview – Link faces his scariest challenge yet: the 4K era",
-          "summary": "Nintendo’s Switch 2 remake of 1998 classic The Legend of Zelda: Ocarina of Time updates Hyrule for 4K presentation and adds a newly orchestrated soundtrack. A Guardian hands-on preview says Link feels notably different to control, framing the remake as a test of how a beloved game survives substantial visual and mechanical revision.",
-          "links": [
+            },
             {
-              "url": "https://www.theguardian.com/games/2026/oct/14/the-legend-of-zelda-ocarina-of-time-preview-4k-era-switch-2-remake",
-              "source": "The Guardian Technology",
-              "headline": "The Legend of Zelda: Ocarina of Time preview – Link faces his scariest challenge yet: the 4K era",
-              "excerpt": "The kingdom of Hyrule has been prettified, the soundtrack is newly orchestrated and our hero feels strikingly different under the thumbs … we play a hands-on demo of Nintendo’s Switch 2 remake of a 1998 game-changer When beloved art is revisited and revised, a familiar cry is often heard: “You’re ruining my childhood!” But with Nintendo’s Switch 2 remake of Ocarina of Time, there are also livelihoods at risk: specifically, the man running the shooting gallery in Castle Town. In the orig",
-              "imageUrl": "https://i.guim.co.uk/img/media/c2a1544dfcc137112f74b2641d33f3025f183feb/595_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=960d08bed805518267ad0f1995325129",
-              "imageAlt": "The Legend of Zelda: Ocarina of Time preview – Link faces his scariest challenge yet: the 4K era",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "url": "https://www.rappler.com/people/newsmakers/josh-aquino-machong-chismisan-podcast-controversy/",
+              "source": "Rappler World",
+              "headline": "‘No person is walang kwenta’: Groups, friends defend Josh Aquino amid podcast controversy",
+              "excerpt": "The NBI is set to probe the hosts of the 'Machong Chismisan' podcast following public backlash over offensive remarks mocking Josh Aquino",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/10/josh-podcast-oct-15-2026.jpg",
+              "imageAlt": "‘No person is walang kwenta’: Groups, friends defend Josh Aquino amid podcast controversy",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/c2a1544dfcc137112f74b2641d33f3025f183feb/595_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=960d08bed805518267ad0f1995325129",
-          "imageAlt": "The Legend of Zelda: Ocarina of Time preview – Link faces his scariest challenge yet: the 4K era",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Senator-slams-mockery-of-persons-with-autism.png",
+          "imageAlt": "1PWD party-list filing complaint vs Machong Chismisan hosts",
+          "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
-          "summary": "MI5 chief Sir Ken McCallum has warned that artificial intelligence could “change the stakes” in the development of existing or new bioweapons. Experts cited by the Guardian say AI may help terrorists or nation states with production, though significant practical hurdles remain.",
+          "title": "Army intensifies pursuit against NPA rebels in N. Samar",
+          "summary": "The Philippine military has intensified operations against an estimated 40 remaining New People's Army rebels in Northern Samar. The move follows residents' reports of armed rebels and alleged gatherings in mountainous, geographically isolated and disadvantaged communities.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
-              "source": "The Guardian Technology",
-              "headline": "Could AI ‘change the stakes’ in the development of bioweapons?",
-              "excerpt": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remain In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to “change the stakes” on existing and even new bioweapons. Here we look at how AI might help in the development of bioweapons and the hurdles that remain. <a href=\"https://www.theguardian.com/technology/2026/oct/14/could-",
-              "imageUrl": "https://i.guim.co.uk/img/media/fc1dd52941c9a6bd0156aa709eb103e872d37d5a/86_0_834_667/master/834.jpg?width=140&quality=85&auto=format&fit=max&s=9fbf95c0c4a1abe119a05188182809e8",
-              "imageAlt": "Could AI ‘change the stakes’ in the development of bioweapons?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/fc1dd52941c9a6bd0156aa709eb103e872d37d5a/86_0_834_667/master/834.jpg?width=140&quality=85&auto=format&fit=max&s=9fbf95c0c4a1abe119a05188182809e8",
-          "imageAlt": "Could AI ‘change the stakes’ in the development of bioweapons?",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘Like being in a vortex’: US report details extent of ‘devastating’ dating-app scams",
-          "summary": "A US report details the damage caused by dating-app scams and has prompted congressional calls for Match Group and other companies to do more to protect users. One victim told the Guardian that a relationship begun on Plenty of Fish escalated into constant contact, pressure and repeated demands for money, ultimately costing her almost $100,000.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
-              "source": "The Guardian Technology",
-              "headline": "‘Like being in a vortex’: US report details extent of ‘devastating’ dating-app scams",
-              "excerpt": "Congress calls for Match Group and others to do more to help victims like Mary, who lost $100,000 to app scammer Mary met a man on the dating app Plenty of Fish in 2024. She told the Guardian she had been looking for a connection, but instead became the victim of a romance scam that cost her almost $100,000. “There was a lot of conversation, and then it started with the constant contact, pressure and repeated asks for money,” Mary, who asked that her last name be withheld, said in",
-              "imageUrl": "https://i.guim.co.uk/img/media/39ad56bf99c1f8e26f0f088ecc640f415267bd2f/581_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=6688f343729d09a835c6d016603a575d",
-              "imageAlt": "‘Like being in a vortex’: US report details extent of ‘devastating’ dating-app scams",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/39ad56bf99c1f8e26f0f088ecc640f415267bd2f/581_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=6688f343729d09a835c6d016603a575d",
-          "imageAlt": "‘Like being in a vortex’: US report details extent of ‘devastating’ dating-app scams",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
-          "summary": "Microsoft’s Surface Laptop 8 delivers faster performance, longer battery life, a strong keyboard and a new haptic touchpad, according to the Guardian’s review. The ARM-based, Qualcomm-powered Windows 11 laptop replaces the 2024 seventh edition but carries a substantial price increase attributed to higher memory and chip costs.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
-              "source": "The Guardian Technology",
-              "headline": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
-              "excerpt": "Snappy performance, long battery life, great keyboard and excellent new haptic touchpad make the best of Windows 11 Microsoft’s Surface laptop for consumers is back, faster and with longer battery life and a hefty price increase because of the high cost of memory and chips. The Surface Laptop 8 is a straight replacement for the seventh edition from 2024, which was the first of Microsoft’s new generation of ARM-based, Qualcomm-powered PCs designed to better rival Apple’s MacBook Ai",
-              "imageUrl": "https://i.guim.co.uk/img/media/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=fb2600bbff24697c22f80e6c6ea9e5fd",
-              "imageAlt": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=fb2600bbff24697c22f80e6c6ea9e5fd",
-          "imageAlt": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
-          "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Camarines Sur earns PCCI citation for business-friendly policies",
-          "summary": "Camarines Sur received the Philippine Chamber of Commerce and Industry’s 2026 Most Business-Friendly Local Government Unit Special Citation Award. The PCCI recognised the provincial government for policies aimed at improving the business environment, attracting investment and creating jobs at the 52nd Philippine Business Conference in Manila.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2324165/camarines-sur-earns-pcci-citation-for-business-friendly-policies",
+              "url": "https://newsinfo.inquirer.net/2324487/army-intensifies-pursuit-against-npa-rebels-in-n-samar",
               "source": "Philippine Daily Inquirer",
-              "headline": "Camarines Sur earns PCCI citation for business-friendly policies",
-              "excerpt": "LEGAZPI CITY — Camarines Sur earned a special national citation for promoting a business-friendly environment, attracting investments, and generating jobs. The Philippine Chamber of Commerce and Industry (PCCI) conferred the 2026 Most Business-Friendly Local Government Unit Special Citation Award on the provincial government on Tuesday at the Manila Hotel during the 52nd Philippine Business Conference",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Camarines-Sur-map-filephoto-091322.jpg",
-              "imageAlt": "Camarines Sur earns PCCI citation for business-friendly policies",
+              "headline": "Army intensifies pursuit against NPA rebels in N. Samar",
+              "excerpt": "TACLOBAN CITY — The military has intensified operations against an estimated 40 remaining members of the communist New People’s Army (NPA) in Northern Samar following reports from residents of armed rebels’ presence and alleged gatherings in mountainous communities, particularly in geographically isolated and disadvantaged areas. The intensified campaign comes amid continuing efforts by government forces",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Northern-Samar-map-filephoto-091322.jpg",
+              "imageAlt": "Army intensifies pursuit against NPA rebels in N. Samar",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -661,49 +725,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Camarines-Sur-map-filephoto-091322.jpg",
-          "imageAlt": "Camarines Sur earns PCCI citation for business-friendly policies",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Northern-Samar-map-filephoto-091322.jpg",
+          "imageAlt": "Army intensifies pursuit against NPA rebels in N. Samar",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Sandro Marcos leaves PFP, joins Lakas-CMD",
-          "summary": "Philippine House Majority Leader Ferdinand Alexander “Sandro” Marcos has left the PFP and joined Lakas-CMD, according to sources cited by the Philippine Daily Inquirer. The sources said he took his oath at a ceremony attended by his uncle, former House speaker Ferdinand Martin Romualdez, and former president Gloria Macapagal-Arroyo.",
+          "title": "Angara boosts school mental health programs with joint caravan",
+          "summary": "Education Secretary Sonny Angara has expanded the Philippine Department of Education's nationwide mental-health and wellbeing initiatives. The effort, timed with Mental Health Awareness Month and National School Safety Week, included a joint Mental Health Caravan at Marikina Elementary School.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2323968/sandro-marcos-leaves-pfp-joins-lakas-cmd",
+              "url": "https://newsinfo.inquirer.net/2324699/angara-boosts-school-mental-health-programs-with-joint-caravan",
               "source": "Philippine Daily Inquirer",
-              "headline": "Sandro Marcos leaves PFP, joins Lakas-CMD",
-              "excerpt": "MANILA, Philippines — House of Representatives Majority Leader Ferdinand Alexander “Sandro” Marcos has joined political party Lakas-CMD, several sources told reporters. According to different sources, Marcos took his oath as a member of the party in a ceremony last Monday which includes his uncle, former House Speaker Ferdinand Martin Romualdez and former president Gloria Macapagal-Arroyo, as",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/SandroMarcos-08Sep2026.jpg",
-              "imageAlt": "Sandro Marcos leaves PFP, joins Lakas-CMD",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/SandroMarcos-08Sep2026.jpg",
-          "imageAlt": "Sandro Marcos leaves PFP, joins Lakas-CMD",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Walang pasok: Oct. 15 in-person classes suspended over poor air quality",
-          "summary": "In-person classes were suspended on October 15 amid hazardous air quality affecting Ateneo de Zamboanga University. The Philippine environmental regulator said conditions had improved from “emergency” to “very unhealthy” by its 5pm October 14 advisory, while still reporting dangerous PM2.5 pollution.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2323894/denr-ateneo-de-zamboanga-air-quality-now-very-unhealthy",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DENR: Ateneo de Zamboanga air quality now ‘very unhealthy’",
-              "excerpt": "MANILA, Philippines — Air quality at Ateneo de Zamboanga University remained hazardous on Wednesday, with pollution levels falling from “emergency” to “very unhealthy.” The Department of Environment and Natural Resources – Environmental Management Bureau (DENR-EMB) reported the change in its 5 p.m. advisory on Wednesday, Oct. 14. The agency said the particulate matter (PM) 2.5",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Zamboanga-City-map-filephoto-091422.jpg",
-              "imageAlt": "DENR: Ateneo de Zamboanga air quality now ‘very unhealthy’",
+              "headline": "Angara boosts school mental health programs with joint caravan",
+              "excerpt": "MANILA, Philippines — Education Secretary Sonny Angara led the expansion of the Department of Education’s (DepEd) nationwide mental health and well-being initiatives, coinciding with the nationwide observance of Mental Health Awareness Month and National School Safety Week. The initiative featured a Mental Health Caravan held at Marikina Elementary School, organized in collaboration with the National",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/SonnyAngara-23Sep2026.jpg",
+              "imageAlt": "Angara boosts school mental health programs with joint caravan",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -717,21 +753,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Zamboanga-City-map-filephoto-091422.jpg",
-          "imageAlt": "DENR: Ateneo de Zamboanga air quality now ‘very unhealthy’",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/SonnyAngara-23Sep2026.jpg",
+          "imageAlt": "Angara boosts school mental health programs with joint caravan",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "ITCZ, northeasterly winds to bring rain to most parts of PH Thursday",
-          "summary": "Northeasterly winds and the intertropical convergence zone were expected to bring rain to most parts of the Philippines on Thursday. The forecast came from the Philippine Atmospheric, Geophysical and Astronomical Services Administration in its 5am weather update.",
+          "title": "Northeasterly winds, ITCZ to bring rains in PH on Friday",
+          "summary": "Northeasterly winds and the intertropical convergence zone were expected to continue affecting parts of the Philippines on Friday, October 16. The state weather bureau Pagasa forecast cloudy skies with scattered rain and thunderstorms in affected areas.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2324112/itcz-northeasterly-winds-to-bring-rain-to-most-parts-of-ph-thursday",
+              "url": "https://newsinfo.inquirer.net/2324632/northeasterly-winds-itcz-to-bring-rains-in-ph-on-friday",
               "source": "Philippine Daily Inquirer",
-              "headline": "ITCZ, northeasterly winds to bring rain to most parts of PH Thursday",
-              "excerpt": "MANILA, Philippines — Northeasterly winds and the intertropical convergence zone (ITCZ) will continue to bring rain to most parts of the country on Thursday, according to the state weather bureau. In the 5 a.m. weather forecast of the Philippine Atmospheric, Geophysical, and Astronomical Services Administration, weather specialist Chenel Dominguez said that the northeasterly wind flow",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2024/08/PAGASA-Weather-Update-Title-Card.jpg",
-              "imageAlt": "ITCZ, northeasterly winds to bring rain to most parts of PH Thursday",
+              "headline": "Northeasterly winds, ITCZ to bring rains in PH on Friday",
+              "excerpt": "MANILA, Philippines — The northeasterly winds and the intertropical convergence zone (ITCZ) will continue to affect parts of the country on Friday, Oct. 16, the state weather bureau said. According to its 5 p.m. weather advisory, the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said that cloudy skies with scattered rains and thunderstorms will",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/image-57.png",
+              "imageAlt": "Northeasterly winds, ITCZ to bring rains in PH on Friday",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -745,21 +781,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2024/08/PAGASA-Weather-Update-Title-Card.jpg",
-          "imageAlt": "ITCZ, northeasterly winds to bring rain to most parts of PH Thursday",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/image-57.png",
+          "imageAlt": "Northeasterly winds, ITCZ to bring rains in PH on Friday",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Ridon to Carpio’s massive shoe bill: Only oligarchs are sports patrons",
-          "summary": "Bicol Saro representative Terry Ridon questioned the explanation given for large sports-apparel purchases by Manases Carpio, husband of Vice President Sara Duterte. Ridon asked whether Carpio considered himself an oligarch, arguing that sponsorship of basketball teams on that scale is usually associated with major business interests.",
+          "title": "Palace says Marcos listens to the public; Duterte leads in trust ratings",
+          "summary": "The Philippine presidential palace said Ferdinand Marcos Jr listens to public concerns and considers different sectors' needs when developing government programs. The statement followed a September 2026 Pulse Asia survey that found 49% of respondents disapproved of Marcos's performance, while the story headline said Duterte led the trust ratings.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2324105/ridon-to-carpios-massive-shoe-bill-only-oligarchs-are-sports-patrons",
+              "url": "https://newsinfo.inquirer.net/2324591/palace-says-marcos-listens-to-the-public-duterte-leads-in-trust-ratings",
               "source": "Philippine Daily Inquirer",
-              "headline": "Ridon to Carpio’s massive shoe bill: Only oligarchs are sports patrons",
-              "excerpt": "MANILA, Philippines — Bicol Saro party-list Rep. Terry Ridon has asked whether Vice President Sara Duterte’s husband Manases Carpio considers himself an oligarch, as the reason that he gave for huge sports apparel purchases—supporting basketball teams—is often reserved for big business players. Ridon, in an interview on the sidelines of Duterte’s impeachment trial, maintained that",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Terry-Ridon-14September2026.jpg",
-              "imageAlt": "Ridon to Carpio’s massive shoe bill: Only oligarchs are sports patrons",
+              "headline": "Palace says Marcos listens to the public; Duterte leads in trust ratings",
+              "excerpt": "MANILA, Philippines — President Ferdinand Marcos Jr. listens to public concerns and considers the needs of different sectors when planning and implementing government programs, Palace Press Officer Claire Castro said Thursday Her statement came after Pulse Asia Research’s September 2026 Ulat ng Bayan survey found that 49 percent of respondents disapproved of Marcos’ performance, while",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/20260930MB-05-scaled-e1791162575198.jpg",
+              "imageAlt": "Palace says Marcos listens to the public; Duterte leads in trust ratings",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -773,8 +809,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/Terry-Ridon-14September2026.jpg",
-          "imageAlt": "Ridon to Carpio’s massive shoe bill: Only oligarchs are sports patrons",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/20260930MB-05-scaled-e1791162575198.jpg",
+          "imageAlt": "Palace says Marcos listens to the public; Duterte leads in trust ratings",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -783,41 +819,16 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
-          "summary": "Investigators examining the Jeju Air crash are focusing on engine damage caused by a bird strike. The Wall Street Journal reports that the pilots’ actions after the strike are also an early focus of the inquiry.",
+          "title": "Volvo makes a bigger bet on Nvidia",
+          "summary": "Volvo is expanding its nearly decade-long partnership with Nvidia to strengthen its automated-driving system. TechCrunch reports that the expanded collaboration will extend beyond Volvo's battery-electric vehicles.",
           "links": [
             {
-              "url": "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff",
-              "source": "Wall Street Journal",
-              "headline": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
-              "excerpt": "Pilots’ actions after that strike are an early focus of the investigation, according to people familiar with the probe.",
-              "imageUrl": "",
-              "imageAlt": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
-              "outlet": "Wall Street Journal",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "high",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
-        },
-        {
-          "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-          "summary": "Mosqitter is expanding its mosquito-trapping hardware into an AI-powered surveillance network. The system is intended to identify mosquito species, track populations and provide earlier warnings about the risk of mosquito-borne diseases.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+              "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
               "source": "TechCrunch",
-              "headline": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-              "excerpt": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Copy-of-photo-74.jpg?resize=1200,800",
-              "imageAlt": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+              "headline": "Volvo makes a bigger bet on Nvidia",
+              "excerpt": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?resize=1200,900",
+              "imageAlt": "Volvo makes a bigger bet on Nvidia",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -831,21 +842,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Copy-of-photo-74.jpg?resize=1200,800",
-          "imageAlt": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?resize=1200,900",
+          "imageAlt": "Volvo makes a bigger bet on Nvidia",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
-          "summary": "Sennheiser’s Momentum 5 Bluetooth headphones pair the company’s sound quality with improved noise cancellation, extensive connectivity and long battery life, according to the Guardian’s review. The premium headphones are designed for comfort, include a user-replaceable battery and cost £330, €400, US$400 or A$749.",
+          "title": "From Mario to machine guns: how Ubisoft Paris made Tom Clancy’s Rainbow Six Tactics",
+          "summary": "Ubisoft Paris has moved from the colourful world of Mario + Rabbids to the military setting of Tom Clancy's Rainbow Six Tactics. The shift followed the studio's work on the turn-based tactics sequel Mario + Rabbids: Sparks of Hope and trades the Mushroom Kingdom's palette for a grittier action series.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/jul/06/sennheiser-momentum-5-headphones-review",
+              "url": "https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
               "source": "The Guardian Technology",
-              "headline": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
-              "excerpt": "Premium Bluetooth noise-cancelling cans combine comfort with extensive connectivity and a user-replaceable battery Sennheiser’s latest Momentum Bluetooth headphones build on the German audio specialist’s renowned sound quality with improved noise cancelling, exceptional comfort and a user-replaceable battery to keep pace with rivals. The Momentum 5s cost £330 (€400/$400/A$749) and directly replace their <a href=\"https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentu",
-              "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
-              "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+              "headline": "From Mario to machine guns: how Ubisoft Paris made Tom Clancy’s Rainbow Six Tactics",
+              "excerpt": "The studio is swapping the Mushroom Kingdom’s vivid palette for the blood-soaked grit of military action series Where do you go after Mario? It’s a question the team at Ubisoft Paris found itself pondering three years ago after wrapping up work on the charming turn-based tactics adventure, Mario + Rabbids: Sparks of Hope , sequel to its unexpected crossover hit, Mario + Rabbids: Kingdom Ba",
+              "imageUrl": "https://i.guim.co.uk/img/media/462c25d94e20d6ab8bd20b2b675fa9c6bcdb57db/986_594_1957_1566/master/1957.jpg?width=140&quality=85&auto=format&fit=max&s=04d1b829deb4e17e9471c0b0873099c4",
+              "imageAlt": "From Mario to machine guns: how Ubisoft Paris made Tom Clancy’s Rainbow Six Tactics",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -859,46 +870,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/3c37072988ae29c618dc1443f6eff93d271cb404/1013_340_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=117a55c859b7ee1c9480ef7c488a4cd6",
-          "imageAlt": "Sennheiser Momentum 5 headphones review: great sound meets exceptional battery life",
+          "imageUrl": "https://i.guim.co.uk/img/media/462c25d94e20d6ab8bd20b2b675fa9c6bcdb57db/986_594_1957_1566/master/1957.jpg?width=140&quality=85&auto=format&fit=max&s=04d1b829deb4e17e9471c0b0873099c4",
+          "imageAlt": "From Mario to machine guns: how Ubisoft Paris made Tom Clancy’s Rainbow Six Tactics",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-          "summary": "Hamas took more than 200 hostages from Israel during the October 7 attack. Israel says 91 abducted people remain in captivity, a figure that includes the bodies of at least 34 hostages.",
+          "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+          "summary": "Researchers at the University of Toronto's Citizen Lab say millions of online advertisements have been used to enable 'zero-click' spyware attacks. They allege that an Israeli advertising agency's Controlium software allows clients to profile internet users at scale and then covertly hack selected targets.",
           "links": [
             {
-              "url": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124",
-              "source": "Wall Street Journal",
-              "headline": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-              "excerpt": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34.",
-              "imageUrl": "",
-              "imageAlt": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
-              "outlet": "Wall Street Journal",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "high",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
-        },
-        {
-          "title": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
-          "summary": "Suspected use of smart glasses by Reform UK Senedd member Jason O’Connell during a statistics-heavy speech has renewed calls to ban AI-enabled devices in Westminster. The Guardian reports that periodic flashes in O’Connell’s spectacles drew attention as he spoke for five minutes without consulting notes.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban",
+              "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
               "source": "The Guardian Technology",
-              "headline": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
-              "excerpt": "Jason O’Connell’s suspected use of the specs to aid his speech in Senedd reignites debate over AI-enabled devices It was a flowing speech packed full of precise statistics – but Jason O’Connell, a Reform UK Senedd member, was not quite the gifted orator he had first appeared. The periodic flashing in his spectacles seemed to give the game away as he spoke for five minutes in the Senedd chamber without a glance at his notes. “Cardiff reviewed 192 roads, following 933 requests, and",
-              "imageUrl": "https://i.guim.co.uk/img/media/4c63fd3569598d1424cf7662c053ed995980c8e5/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=37f0eac17e8aa21c3ce4e7ea567d6b56",
-              "imageAlt": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
+              "headline": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+              "excerpt": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of Toronto An Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets, researchers at a Canadian university have said . Citizen Lab, a digital investigations researc",
+              "imageUrl": "https://i.guim.co.uk/img/media/3035c44f5ae09be7cb6b5806453ff11e9db3e89f/401_440_2305_1844/master/2305.jpg?width=140&quality=85&auto=format&fit=max&s=bd5cfa2f5ec372fc452ae1d3a44c7503",
+              "imageAlt": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -912,8 +898,64 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/4c63fd3569598d1424cf7662c053ed995980c8e5/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=37f0eac17e8aa21c3ce4e7ea567d6b56",
-          "imageAlt": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
+          "imageUrl": "https://i.guim.co.uk/img/media/3035c44f5ae09be7cb6b5806453ff11e9db3e89f/401_440_2305_1844/master/2305.jpg?width=140&quality=85&auto=format&fit=max&s=bd5cfa2f5ec372fc452ae1d3a44c7503",
+          "imageAlt": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+          "summary": "US authorities, from the FBI to local police departments, are increasingly warning that would-be terrorists could use chatbots to plan attacks while anti-AI extremism also poses a threat. The Guardian cites the May 2025 car bombing outside a Palm Springs fertility clinic, which killed the attacker and injured four people, as a wake-up call.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism",
+              "source": "The Guardian Technology",
+              "headline": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+              "excerpt": "From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using chatbots to plan attacks and anti-AI extremist threats In May 2025, a 25-year-old man detonated a car bomb outside a Palm Springs fertility clinic, killing himself and injuring four others. For many, it was a wake-up call about the threats to reprod",
+              "imageUrl": "https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=59704e3f5fbb09ed03fcee1e21ac0c41",
+              "imageAlt": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=59704e3f5fbb09ed03fcee1e21ac0c41",
+          "imageAlt": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+          "summary": "Zimbabwean writer Simbarashe Kundizeza has denied using artificial intelligence to write his prize-winning short story The Blue Fighter. His denial followed an Atlantic article saying software had flagged the story as almost entirely AI-generated, days after it won the Caine Prize for African Writing.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+              "source": "The Guardian Technology",
+              "headline": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+              "excerpt": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated. Kundizeza’s story The Blue F",
+              "imageUrl": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_113_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=6e0f4e5dcae2b2a9e886d0f5ebb34561",
+              "imageAlt": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_113_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=6e0f4e5dcae2b2a9e886d0f5ebb34561",
+          "imageAlt": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
           "imageCredit": "The Guardian"
         }
       ]
