@@ -2,24 +2,24 @@
   "id": "2026-10-18-expanded",
   "date": "2026-10-18",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-10-18T03:00:58.460812",
+  "generatedAt": "2026-10-18T12:30:57.498779",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-10-18T03:00:58",
+  "updatedAt": "2026-10-18T12:30:57",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Pope Leo XIV leaves hospital and returns to Vatican after lung cancer surgery",
-          "summary": "Pope Leo XIV left Rome's Gemelli Hospital on Saturday, four days after surgery to remove a cancerous nodule or tumour from his right lung, and returned to the Vatican. Doctors said the 71-year-old had resumed some normal activities, while the operation confirmed lung adenocarcinoma.",
+          "title": "Masked settlers attack European diplomats in the occupied West Bank",
+          "summary": "Masked settlers attacked European diplomats visiting the occupied West Bank on Saturday, according to Belgium’s foreign minister. The incident came amid the olive harvest and a second day of reported assaults on Palestinians and others. The Israeli military condemned the violence, while the prime minister’s office described coverage of it as part of a smear campaign.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Pope Leo leaves hospital after lung cancer surgery",
-              "excerpt": "Pope Leo left Rome's Gemelli Hospital on Saturday after successful lung cancer surgery",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/Sequence-01.00_00_05_00.Still002-1792252013.jpg?resize=1920%2C1080&quality=80",
-              "imageAlt": "Pope Leo leaves hospital after lung cancer surgery",
+              "headline": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+              "excerpt": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261013__D3722F9__v1__MidRes__UaeIranUsIsraelWarHormuzShipping-1792301908.jpg?resize=1200%2C630",
+              "imageAlt": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,48 +32,31 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/pope-leo-discharged-from-hospital-after-lung-cancer-surgery",
-              "source": "Daily Wire",
-              "headline": "Pope Leo Discharged From Hospital After Lung Cancer Surgery",
-              "excerpt": "Pope Leo XIV was discharged from Rome’s Gemelli Hospital on Saturday, four days after undergoing surgery to remove a cancerous tumor from his right lung. He left the hospital at approximately 3:30 p.m. — several days earlier than initially anticipated — and returned to the Vatican after a 10-minute car ride, according to The New ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2214489556-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Pope Leo Discharged From Hospital After Lung Cancer Surgery",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "European diplomats attacked by Israeli settlers in West Bank",
+              "excerpt": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+              "imageAlt": "European diplomats attacked by Israeli settlers in West Bank",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/world/4769781/pope-leo-xiv-leave-hospital-lung-cancer-surgery/",
-              "source": "Washington Examiner",
-              "headline": "Pope Leo XIV leaves hospital and returns to Vatican after lung cancer surgery",
-              "excerpt": "Pope Leo XIV left Gemelli Hospital in Rome on Saturday, four days after the removal of a cancerous nodule in his lung. Doctors from the hospital told reporters that Leo, 71, had resumed certain normal activities after the surgery while staying at Gemelli. The operation confirmed the pope has lung adenocarcinoma, the most common type […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26290491627574.jpg?w=1024",
-              "imageAlt": "Pope Leo XIV leaves hospital and returns to Vatican after lung cancer surgery",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/17/pope-leo-returns-vatican-4-days-lung-cancer-surgery/",
+              "url": "https://www.washingtontimes.com/news/2026/oct/17/masked-settlers-attack-group-european-diplomats-occupied-west-bank/",
               "source": "Washington Times",
-              "headline": "Pope Leo returns to the Vatican 4 days after lung cancer surgery",
-              "excerpt": "Pope Leo returned to the Vatican on Saturday, four days after undergoing surgery for lung cancer at Rome's Gemelli hospital, where dozens of well-wishers saw him off with cries of \"Holiness.\"",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/17/Vatican_Pope_Surgery_27574_s1440x961.jpg?6ffc4d3d57b058013256ad5bbd6d52434af2a762",
-              "imageAlt": "Pope Leo returns to the Vatican 4 days after lung cancer surgery",
+              "headline": "Masked settlers attack European diplomats in the occupied West Bank",
+              "excerpt": "Masked settlers attacked a group of European diplomats during a visit to the occupied West Bank on Saturday, Belgium's foreign minister said, on a second straight day of high-profile assaults on Palestinians and others during the sensitive olive harvest.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/17/Israel_Palestinians_West_Bank_71112_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Masked settlers attack European diplomats in the occupied West Bank",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -87,13 +70,95 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/Sequence-01.00_00_05_00.Still002-1792252013.jpg?resize=1920%2C1080&quality=80",
-          "imageAlt": "Pope Leo leaves hospital after lung cancer surgery",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261013__D3722F9__v1__MidRes__UaeIranUsIsraelWarHormuzShipping-1792301908.jpg?resize=1200%2C630",
+          "imageAlt": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Pope Leo to Be Released From Hospital on Saturday After Lung Cancer Surgery, Vatican Says",
-          "summary": "Pope Leo XIV was discharged from hospital on Saturday, four days after lung cancer surgery, the Vatican said. He was expected to deliver the traditional Angelus prayer and noon blessing from a window overlooking St Peter's Square on Sunday.",
+          "title": "France Rioters Clash With Police, Torch Lyon Tourism Office, Break Into Marseille City Hall",
+          "summary": "Violent unrest spread across France as cost-of-living protesters joined youth riots, with reports of clashes with police and damage to public buildings in Lyon and Marseille. Masked protesters also set fire to Limoges Town Hall, collapsing its roof and leaving much of the historic building destroyed. Reports said police arrested about 400 people nationwide.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Buildings burn as French protests go into the night",
+              "excerpt": "Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792287009.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Buildings burn as French protests go into the night",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/europe/2026/10/17/france-rioters-clash-with-police-torch-lyon-tourism-office-break-into-marseille-city-hall/",
+              "source": "Breitbart",
+              "headline": "France Rioters Clash With Police, Torch Lyon Tourism Office, Break Into Marseille City Hall",
+              "excerpt": "Hundreds of people were arrested amid violent clashed as cost of living protesters joined the youth riots across France. The post France Rioters Clash With Police, Torch Lyon Tourism Office, Break Into Marseille City Hall appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2300098373-2-640x335.jpg",
+              "imageAlt": "France Rioters Clash With Police, Torch Lyon Tourism Office, Break Into Marseille City Hall",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest",
+              "source": "Fox News",
+              "headline": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
+              "excerpt": "Rioters set fire to the historic Limoges Town Hall, collapsing its roof and destroying much of the landmark as France's protests rage on.",
+              "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/france-collapse.gif",
+              "imageAlt": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://nypost.com/2026/10/17/world-news/limoges-town-hall-largely-lost-after-far-left-protesters-cast-flames-on-historic-landmark-amid-french-unrest/",
+              "source": "New York Post",
+              "headline": "French rioters set fire to historic Limoges Town Hall as far-left demonstrations spiral out of control",
+              "excerpt": "France's historic Limoges Town Hall was largely lost to fire during nationwide cost-of-living riots, as police arrested 400 people.",
+              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fphotograph-shows-fire-burning-destroying-145456967_9039ae.jpg?w%3D1024",
+              "imageAlt": "French rioters set fire to historic Limoges Town Hall as far-left demonstrations spiral out of control",
+              "outlet": "New York Post",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792287009.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Buildings burn as French protests go into the night",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Pope Leo Discharged From Hospital After Lung Cancer Surgery",
+          "summary": "Pope Leo XIV left Rome’s Gemelli Hospital on Saturday, four days after surgery to remove a cancerous tumour from his right lung. He returned to the Vatican several days earlier than initially expected. The pontiff was due to give the traditional Angelus prayer and blessing in St Peter’s Square on Sunday.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
@@ -115,21 +180,21 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/10/17/pope-leo-to-be-released-from-hospital-on-saturday-after-lung-cancer-surgery/",
-              "source": "Breitbart",
-              "headline": "Pope Leo to Be Released From Hospital on Saturday After Lung Cancer Surgery, Vatican Says",
-              "excerpt": "Pope Leo XIV is being released from the hospital on Saturday, four days after lung cancer surgery, and will deliver the traditional noon blessing Sunday from a window overlooking St. Peter's Square, the Vatican announced. The post Pope Leo to Be Released From Hospital on Saturday After Lung Cancer Surgery, Vatican Says appeared first on <",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2216327952-2-640x335.jpg",
-              "imageAlt": "Pope Leo to Be Released From Hospital on Saturday After Lung Cancer Surgery, Vatican Says",
-              "outlet": "Breitbart",
+              "url": "https://www.dailywire.com/news/pope-leo-discharged-from-hospital-after-lung-cancer-surgery",
+              "source": "Daily Wire",
+              "headline": "Pope Leo Discharged From Hospital After Lung Cancer Surgery",
+              "excerpt": "Pope Leo XIV was discharged from Rome’s Gemelli Hospital on Saturday, four days after undergoing surgery to remove a cancerous tumor from his right lung. He left the hospital at approximately 3:30 p.m. — several days earlier than initially anticipated — and returned to the Vatican after a 10-minute car ride, according to The New ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2214489556-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Pope Leo Discharged From Hospital After Lung Cancer Surgery",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
-              "sourceReliability": "low",
+              "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
@@ -139,16 +204,16 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "Scuffles and fires break out as protesters rally across France, joining students",
-          "summary": "Students, unions and activists rallied across France over living costs, inequality and education conditions following more than three weeks of school blockades. A car and newspaper kiosk were set alight in Paris, where police used tear gas and water cannons, and tensions also flared on the fringes of demonstrations in other major cities.",
+          "title": "No Kings rallies across America urge voters to cast ballots early ahead of midterms",
+          "summary": "Thousands joined No Kings rallies in cities and communities across the United States on Saturday. The network, which opposes President Trump, used the events to encourage early voting in the midterm elections. The gatherings continued two years of No Kings marches.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
+              "url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "France tackles new wave of nationwide protests",
-              "excerpt": "France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792239508.jpg?resize=1571%2C1080&quality=80",
-              "imageAlt": "France tackles new wave of nationwide protests",
+              "headline": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+              "excerpt": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad3d76565d33-1792268133.jpg?resize=1920%2C1333",
+              "imageAlt": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -161,30 +226,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/10/17/left-wing-unions-join-france-youth-revolt-protests-demanding-higher-wages/",
-              "source": "Breitbart",
-              "headline": "Left-Wing Unions Join France Youth Revolt Protests, Demanding Higher Wages",
-              "excerpt": "Protesters across France called for street demonstrations Saturday against rising living costs, joining high school students' grievances over education conditions after more than three weeks of school blockades. The post Left-Wing Unions Join France Youth Revolt Protests, Demanding Higher Wages appeared first on <a rel=\"nofollow\" href=\"http",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2300053432-2-640x335.jpg",
-              "imageAlt": "Left-Wing Unions Join France Youth Revolt Protests, Demanding Higher Wages",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/17/scuffles-fires-break-protesters-rally-across-france-joining-students/",
+              "url": "https://www.washingtontimes.com/news/2026/oct/17/no-kings-rallies-across-america-urge-voters-cast-ballots-early-ahead/",
               "source": "Washington Times",
-              "headline": "Scuffles and fires break out as protesters rally across France, joining students",
-              "excerpt": "A car and a newspaper kiosk were set on fire in Paris as police used tear gas and water cannons to disperse violent groups of protesters, while similar tensions erupted in other big cities on the fringes of nationwide demonstrations against rising living costs and in support of high school students' grievances.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/17/APTOPIX_France_Protests_34778_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Scuffles and fires break out as protesters rally across France, joining students",
+              "headline": "No Kings rallies across America urge voters to cast ballots early ahead of midterms",
+              "excerpt": "Rallies organized by the No Kings network opposed to President Trump were being held Saturday in cities and communities across the U.S., with an aim of getting people out to vote early in the midterm elections.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/17/No_Kings_Protest_Washington_93483_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "No Kings rallies across America urge voters to cast ballots early ahead of midterms",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -198,159 +245,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792239508.jpg?resize=1571%2C1080&quality=80",
-          "imageAlt": "France tackles new wave of nationwide protests",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad3d76565d33-1792268133.jpg?resize=1920%2C1333",
+          "imageAlt": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Katie Zacharia Makes First Remarks After Leaving White House",
-          "summary": "Katie Zacharia made her first public remarks after being ousted as White House press secretary following a five-day tenure. In a statement posted hours after her departure, she called it an honour to work for President Donald Trump and praised him in strongly positive terms.",
+          "title": "‘Serious’ incident resulted in deaths, injuries and major fire at Canadian military base",
+          "summary": "A major fire at a Canadian military base caused deaths and injuries in what Prime Minister called a serious incident. Defence Minister David McGuinty confirmed there were casualties and said he could not recall a similar event in recent memory. The available reports did not specify the cause.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Why Trump’s latest White House press secretary lasted just five days",
-              "excerpt": "Katie Zacharia is the shortest-serving White House press secretary after a rocky tenure, but she's not the first to go.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad36cb9b155-1792240825.jpg?resize=1920%2C1440",
-              "imageAlt": "Why Trump’s latest White House press secretary lasted just five days",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/katie-zacharia-makes-first-remarks-after-leaving-white-house",
-              "source": "Daily Wire",
-              "headline": "Katie Zacharia Makes First Remarks After Leaving White House",
-              "excerpt": "Former Press Secretary Katie Zacharia said it was an honor to work for President Donald Trump in a statement posted hours after her ouster from the White House. “President Trump is a kind, wonderful, gracious, thoughtful, enthusiastic, and hardworking man. I wish more Americans appreciated him. No one will ever make America great the way ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/Screenshot-2026-10-16-at-11.10.05-PM.png?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Katie Zacharia Makes First Remarks After Leaving White House",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad36cb9b155-1792240825.jpg?resize=1920%2C1440",
-          "imageAlt": "Why Trump’s latest White House press secretary lasted just five days",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Hurricane Trudy approaches Mexico as Typhoon Champi threatens Guam",
-          "summary": "Hurricane Trudy moved towards Mexico's southwestern and west-central Pacific coast, threatening heavy rain and potentially strengthening through Saturday, according to the US National Hurricane Center. The story also identifies Typhoon Champi as a threat to Guam, while noting that Trudy follows several storms that have struck Mexico's Pacific coast this year.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-              "excerpt": "Trudy is the latest in successive storms that have hit Mexico's Pacific coast this year.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad38279-1792246393.jpg?resize=1920%2C1440",
-              "imageAlt": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/17/hurricane-trudy-approaches-mexico-typhoon-champi-threatens-guam/",
-              "source": "Washington Times",
-              "headline": "Hurricane Trudy approaches Mexico as Typhoon Champi threatens Guam",
-              "excerpt": "Hurricane Trudy moved toward Mexico's southwestern and west-central Pacific coast and could strengthen through Saturday, the U.S. National Hurricane Center said.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/15/Mexico_Extreme_Weather_Pacific_81669_s949x929.jpg?af7893f9e504c40123800f0323b5ecd1b2463136",
-              "imageAlt": "Hurricane Trudy approaches Mexico as Typhoon Champi threatens Guam",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad38279-1792246393.jpg?resize=1920%2C1440",
-          "imageAlt": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Kenya's Ebola cases rise to 7, including health workers who cared for the first patient",
-          "summary": "Kenya confirmed four additional Ebola infections, bringing the country's reported total to seven. Three of the new cases were health workers who had cared for the first confirmed patient, according to the Health Ministry.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
-              "excerpt": "⁠Three health workers who ⁠treated the country's first Ebola patient are among the latest confirmed cases.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad39d0c86f8-1792253196.jpg?resize=1920%2C1440",
-              "imageAlt": "Kenya confirms four more Ebola cases, bringing total to seven",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/17/kenyas-ebola-cases-rise-7-including-health-workers-who-cared-first/",
-              "source": "Washington Times",
-              "headline": "Kenya's Ebola cases rise to 7, including health workers who cared for the first patient",
-              "excerpt": "Three Kenyan health workers have tested positive for Ebola after caring for the country's first confirmed case, the Health Ministry said Saturday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/17/Kenya_Ebola__6387_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Kenya's Ebola cases rise to 7, including health workers who cared for the first patient",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad39d0c86f8-1792253196.jpg?resize=1920%2C1440",
-          "imageAlt": "Kenya confirms four more Ebola cases, bringing total to seven",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "summary": "President Donald Trump signed an executive order on Friday waiving the imposition of several new sanctions on Russia. The BBC described the move as temporarily ending many restrictions recently passed by Congress on national-security grounds, as Trump's dispute with Ukrainian President Volodymyr Zelensky intensified.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-              "excerpt": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-              "imageAlt": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+              "headline": "Deadly fire breaks out at Canada military base",
+              "excerpt": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff0/live/8afbf6f0-caa1-11f1-b705-756408c76b36.jpg",
+              "imageAlt": "Deadly fire breaks out at Canada military base",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -364,12 +273,105 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/oct/17/trump-waives-placing-new-sanctions-russia/",
+              "url": "https://nypost.com/2026/10/17/world-news/serious-incident-resulted-in-deaths-injuries-and-major-fire-at-canadian-military-base/",
+              "source": "New York Post",
+              "headline": "‘Serious’ incident resulted in deaths, injuries and major fire at Canadian military base",
+              "excerpt": "“I cannot recall an incident like this in recent memory,\" Canadian Defense Minister David McGuinty said.",
+              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Ftargi-kielce-kielce-poland-photo-145515893.jpg?w%3D1024",
+              "imageAlt": "‘Serious’ incident resulted in deaths, injuries and major fire at Canadian military base",
+              "outlet": "New York Post",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff0/live/8afbf6f0-caa1-11f1-b705-756408c76b36.jpg",
+          "imageAlt": "Deadly fire breaks out at Canada military base",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Anti-government protesters battle with police in Albania",
+          "summary": "Anti-government protesters and riot police clashed throughout Saturday in Tirana, Albania’s capital. Demonstrators accused police of brutality as violence continued outside the Education Ministry. The linked reports did not give casualty or arrest figures.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Protesters allege police brutality as violent clashes rage on in Albania",
+              "excerpt": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792269591.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Protesters allege police brutality as violent clashes rage on in Albania",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (police brutality|racial justice|indigenous rights|refugee rights)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Anti-government protesters battle with police in Albania",
+              "excerpt": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
+              "imageAlt": "Anti-government protesters battle with police in Albania",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792269591.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Protesters allege police brutality as violent clashes rage on in Albania",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Sherrill on Fort Hood Shooter Execution: Soldiers Being Told 'Shoot This Guy Who's in a Wheelchair'",
+          "summary": "New Jersey Governor Mikie Sherrill denounced plans to execute the Fort Hood shooter by firing squad, referring to him as a man in a wheelchair. She said soldiers would effectively be ordered to shoot him. Plans to stream the execution publicly were subsequently cancelled, according to the linked coverage.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/clips/2026/10/16/sherrill-on-fort-hood-shooter-execution-soldiers-being-told-shoot-this-guy-whos-in-a-wheelchair/",
+              "source": "Breitbart",
+              "headline": "Sherrill on Fort Hood Shooter Execution: Soldiers Being Told 'Shoot This Guy Who's in a Wheelchair'",
+              "excerpt": "On Friday’s broadcast of MS NOW’s “The Weeknight,” New Jersey Gov. Mikie Sherrill (D) discussed the now-canceled plans to publicly stream the planned execution of the Fort Hood shooter and said that soldiers are going to be told, “you’re going The post Sherrill on Fort Hood Shooter Execution: Soldiers Being Told ‘Shoot This",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Sherrill-1016-Thumbnail-640x335.jpg",
+              "imageAlt": "Sherrill on Fort Hood Shooter Execution: Soldiers Being Told 'Shoot This Guy Who's in a Wheelchair'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/17/njs-sherrill-calls-fort-hood-shooter-guy-whos-wheelchair-rips-firing/",
               "source": "Washington Times",
-              "headline": "Trump waives placing new sanctions on Russia",
-              "excerpt": "President Trump on Friday signed an executive order calling off the imposition of new sanctions on Russia.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/02/04/Russia_US_Nuclear_Treaty_30308_s1440x961.jpg?6ffc4d3d57b058013256ad5bbd6d52434af2a762",
-              "imageAlt": "Trump waives placing new sanctions on Russia",
+              "headline": "N.J.'s Sherrill calls Fort Hood shooter 'guy who's in a wheelchair,' rips firing squad",
+              "excerpt": "New Jersey Gov. Mikie Sherrill on Friday denounced the planned firing squad execution of the Fort Hood killer, whom she called \"this guy who's in a wheelchair.\"",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/02/Medicaid_Employers__5321_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "N.J.'s Sherrill calls Fort Hood shooter 'guy who's in a wheelchair,' rips firing squad",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -383,9 +385,9 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-          "imageAlt": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "imageCredit": "BBC"
+          "imageUrl": "https://media.breitbart.com/media/2026/10/Sherrill-1016-Thumbnail-640x335.jpg",
+          "imageAlt": "Sherrill on Fort Hood Shooter Execution: Soldiers Being Told 'Shoot This Guy Who's in a Wheelchair'",
+          "imageCredit": "Breitbart"
         }
       ]
     },
@@ -393,8 +395,8 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "How Swindon became Britain’s drone hub",
-          "summary": "A Spectator Australia item linked under the title about Swindon becoming Britain's drone hub instead discusses fentanyl and the difficulty of explaining sharps-disposal facilities to children. The available linked headline and excerpt provide no details about Swindon or its drone industry.",
+          "title": "Society hates those coping with dementia",
+          "summary": "The story is titled “Society hates those coping with dementia,” but its sole linked item is an unrelated Spectator Australia piece about fentanyl and sharps-disposal facilities in parks. The available headline and excerpt therefore do not substantiate or explain the dementia-related title.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/10/fentanyl-coming-soon-to-a-park-near-you/",
@@ -421,16 +423,34 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "New menopause guidelines designed to cut through misinformation",
-          "summary": "Australia has introduced new clinical guidelines for managing menopause symptoms and cutting through misinformation. The guidance covers symptoms including hot flushes, night sweats and a frequent need to urinate.",
+          "title": "Labor knew in July, months earlier than previously admitted, that ATO planned to ban credit card payments",
+          "summary": "Assistant Treasurer Daniel Mulino acknowledged that the government knew in July that the Australian Taxation Office was considering a ban on credit-card payments, months before the proposal became public. He said the government insisted on a transition period. The change has since been delayed until mid-2027.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/health/2026-10-17/ranzcog-new-guidelines-for-managing-menopausal-symptoms/107269850",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/18/labor-knew-in-july-months-earlier-than-previously-admitted-that-ato-planned-to-ban-credit-card-payments",
+              "source": "The Guardian Australia",
+              "headline": "Labor knew in July, months earlier than previously admitted, that ATO planned to ban credit card payments",
+              "excerpt": "Assistant treasurer Daniel Mulino says ‘what we did was to insist there be a transition period’. Since then government has pushed back change to mid-2027 Get our new political email , free app or daily news podcast The federal assistant treasurer has conceded he",
+              "imageUrl": "https://i.guim.co.uk/img/media/a3df463d7c9c9dcc02772b02ebf9299c40df6eb4/520_0_3112_2491/master/3112.jpg?width=140&quality=85&auto=format&fit=max&s=1ff77eaecd9121d91d2d9cc3c4952e35",
+              "imageAlt": "Labor knew in July, months earlier than previously admitted, that ATO planned to ban credit card payments",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382",
               "source": "ABC Australia",
-              "headline": "New menopause guidelines designed to cut through misinformation",
-              "excerpt": "Australia has a new set of clinical guidelines for managing the symptoms of menopause, that include hot flushes, night sweats, and a frequent need to urinate. Here's what it means for you.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e56aff59b017bb409bc5420740e2088b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "New menopause guidelines designed to cut through misinformation",
+              "headline": "Assistant treasurer knew about ATO's credit card ban plans months ago",
+              "excerpt": "Assistant Treasurer Daniel Mulino concedes the government knew the Australian Taxation Office was considering banning credit card payments in July, months before the decision was made public.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a85e113b35527a0dc9831a3a889cce76?impolicy=wcms_crop_resize&cropH=3942&cropW=7008&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Assistant treasurer knew about ATO's credit card ban plans months ago",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -445,13 +465,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e56aff59b017bb409bc5420740e2088b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-          "imageAlt": "New menopause guidelines designed to cut through misinformation",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/a3df463d7c9c9dcc02772b02ebf9299c40df6eb4/520_0_3112_2491/master/3112.jpg?width=140&quality=85&auto=format&fit=max&s=1ff77eaecd9121d91d2d9cc3c4952e35",
+          "imageAlt": "Labor knew in July, months earlier than previously admitted, that ATO planned to ban credit card payments",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "Why this Sidney Nolan painting was a breakthrough moment for Australian modern art – video",
-          "summary": "An Art Gallery of New South Wales exhibition presents works from Sidney Nolan's formative years alongside his famous Ned Kelly series. Senior curator Denise Mimmocchi highlights *Kiata*, painted while Nolan was stationed in Victoria's Wimmera region in 1943, as a breakthrough for both the artist and Australian modern art.",
+          "summary": "An Art Gallery of New South Wales exhibition of Sidney Nolan’s formative work includes his famous Ned Kelly series and the lesser-known painting Kiata. Nolan created Kiata in Victoria’s Wimmera region in 1943 while conscripted in the army. Senior curator Denise Mimmocchi explains why the work marked a breakthrough for both Nolan and Australian modern art.",
           "links": [
             {
               "url": "https://www.theguardian.com/artanddesign/video/2026/oct/07/sidney-nolan-agnsw-painting-australian-modern-art-video",
@@ -478,16 +498,16 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Status Quo are a much better band than people think",
-          "summary": "A Spectator Australia item linked under the title about Status Quo instead reminisces about Mijanou and describes it as an oenophile's delight. The available linked headline and excerpt offer no information about the band or the assessment made in the story title.",
+          "title": "The SNP has tough decisions to make on defence",
+          "summary": "The story is titled “The SNP has tough decisions to make on defence,” but its sole linked item is an unrelated Spectator Australia piece about lessons for statesmen drawn from Cormac McCarthy. The available headline and excerpt provide no information about the SNP or its defence choices.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/10/memories-of-mijanou-the-oenophiles-delight/",
+              "url": "https://www.spectator.com.au/2026/10/cormac-mccarthy-has-an-important-lesson-for-todays-statesman/",
               "source": "Spectator Australia",
-              "headline": "Memories of Mijanou, the oenophile’s delight",
-              "excerpt": "Où sont les bouteilles d’antan? Or proprietors. The other day, some of us were reminiscing about Mijanou, in its day… The post Memories of Mijanou, the oenophile’s delight appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/hipsters-love-orange-wine-but-don",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/Drink_iStock_520393799.png",
-              "imageAlt": "Memories of Mijanou, the oenophile’s delight",
+              "headline": "Cormac McCarthy has an important lesson for today’s statesman",
+              "excerpt": "“In the dawn there is a man progressing over the plain by means of holes which he is making in… The post Cormac McCarthy has an important lesson for today’s statesman appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/wfh-has-turned-the-p",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/2RFG8CG.jpg",
+              "imageAlt": "Cormac McCarthy has an important lesson for today’s statesman",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -501,8 +521,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/Drink_iStock_520393799.png",
-          "imageAlt": "Memories of Mijanou, the oenophile’s delight",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/2RFG8CG.jpg",
+          "imageAlt": "Cormac McCarthy has an important lesson for today’s statesman",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -511,16 +531,34 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-          "summary": "Tressfecta is developing products for textured hair aimed at making braiding less arduous for hairstylists. Its first project, Plait Pilot, helps braiders with the initial task of separating hair from packs before braiding begins.",
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "summary": "TikTok permanently banned an advertising account associated with a four-hour documentary about Elon Musk. The documentary has also encountered resistance from other social-media platforms, according to TechCrunch. The linked excerpts do not state TikTok’s reason for the ban.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+              "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+              "source": "The Verge",
+              "headline": "TikTok bans Musk documentary account",
+              "excerpt": "<fi",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "TikTok bans Musk documentary account",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
               "source": "TechCrunch",
-              "headline": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-              "excerpt": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
-              "imageAlt": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+              "headline": "TikTok permanently bans ‘Musk’ documentary advertising account",
+              "excerpt": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+              "imageAlt": "TikTok permanently bans ‘Musk’ documentary advertising account",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -534,13 +572,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
-          "imageAlt": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-          "imageCredit": "TechCrunch"
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "TikTok bans Musk documentary account",
+          "imageCredit": "The Verge"
         },
         {
           "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
-          "summary": "Writer Linda Geddes began investigating after a LinkedIn user praised a New York Post article on “chronoworking” that carried her byline even though she had not written it or interviewed the contributor. The discovery led her into what she describes as a shadowy world of impersonators and a byline-fraud mystery.",
+          "summary": "Writer Linda Geddes discovered an apparent impersonation after a LinkedIn user praised an interview in a New York Post article published under her byline. Although the article’s subject, chronoworking, fitted her expertise in circadian rhythms, Geddes said she had neither written the piece nor interviewed the person. She then investigated a wider world of shadowy impersonators.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
@@ -568,7 +606,7 @@
         },
         {
           "title": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
-          "summary": "A Guardian commentary argues that Britain should resist inexpensive Chinese AI models offered to Western businesses and governments. It says developers including DeepSeek and Xiaomi distribute open-weight models that can be used without ongoing licence fees, while contending that their security and intent warrant concern.",
+          "summary": "A Guardian commentary argues that Britain should resist cheap Chinese artificial-intelligence systems because of security and intent concerns. It points to developers including DeepSeek and Xiaomi, which release open-weight models that organisations can use without ongoing licence fees. The piece contrasts those offerings with what it describes as Western efforts to provide safeguards and benign intent.",
           "links": [
             {
               "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
@@ -595,8 +633,36 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Mac mini M6 review: truly mighty but now more pricey",
+          "summary": "The latest Mac mini pairs Apple’s new M6 chip with the compact design of its smallest desktop computer. The review says it delivers enough speed and power for demanding work while remaining smaller than a headphones box. It also concludes that price increases mean Apple’s cheapest M-series computer is no longer the bargain it once was.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/29/mac-mini-m6-review",
+              "source": "The Guardian Technology",
+              "headline": "Mac mini M6 review: truly mighty but now more pricey",
+              "excerpt": "Apple’s cheapest desktop computer is no longer a bargain but its newest, fastest chip makes it a pocket powerhouse Apple’s latest Mac mini brings real speed and power for far more than everyday tasks in a practically pocketable form you can fit almost anywhere. The impressive new desktop machine is the first to receive an update to Apple’s latest M6 chip while remaining smaller than a headphones box. It is the cheapest computer Apple sells with an M-series chip, but like every oth",
+              "imageUrl": "https://i.guim.co.uk/img/media/f89491d99d5dfc150e2e38186c8319330b84ecbe/1241_505_4450_3560/master/4450.jpg?width=140&quality=85&auto=format&fit=max&s=b7ba2cfd063bf8420f499285d1f398ea",
+              "imageAlt": "Mac mini M6 review: truly mighty but now more pricey",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/f89491d99d5dfc150e2e38186c8319330b84ecbe/1241_505_4450_3560/master/4450.jpg?width=140&quality=85&auto=format&fit=max&s=b7ba2cfd063bf8420f499285d1f398ea",
+          "imageAlt": "Mac mini M6 review: truly mighty but now more pricey",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
-          "summary": "Senior Labour figures are increasingly concerned about AI safety, including the technology's potential use by extremist groups and other bad actors. One cabinet minister predicted that AI could become the dominant political topic within months, amid fears that Westminster is falling behind public concern.",
+          "summary": "Senior Labour figures are increasingly concerned about artificial-intelligence safety and the risk of the government falling behind public debate. The linked report says Westminster is focusing on possible use of AI by extremist groups and other bad actors. One cabinet minister predicted that AI could become the dominant political topic within months.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
@@ -621,10 +687,213 @@
           "imageUrl": "https://i.guim.co.uk/img/media/e0d13c6ce0b90597a109492537328402905b91ca/719_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=bc2e49beb9729a79008890cd95940733",
           "imageAlt": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
           "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "PhilPEN launched to enhance polytechnic education",
+          "summary": "Representatives from Philippine polytechnic state universities and other educational institutions launched the Philippine Polytechnic Education Network, or PhilPEN, in Manila. The network is intended to create a more coordinated national polytechnic system. Organisers called for a consortium that can advance polytechnic education and contribute to national progress.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2325663/philpen-launched-for-stronger-polytechnic-education",
+              "source": "Philippine Daily Inquirer",
+              "headline": "PhilPEN launched to enhance polytechnic education",
+              "excerpt": "MANILA, Philippines — Representatives from polytechnic state universities and other educational institutions gathered for the launching of the Philippine Polytechnic Education Network (PhilPEN) for a more coordinated polytechnic system in the country. “Let’s work together as one polytechnic. Let us build a consortium that will advance polytechnic education, that will contribute to national progress while",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/image-10.png",
+              "imageAlt": "PhilPEN launched to enhance polytechnic education",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/image-10.png",
+          "imageAlt": "PhilPEN launched to enhance polytechnic education",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Development banks pledge support in 1st Manila meeting",
+          "summary": "Leaders of 10 multilateral development banks met in the Philippines for the first time and agreed to expand their financing capacity. They said stronger cooperation and mobilisation of private funding would help developing countries, including the Philippines, respond to geopolitical economic pressures and increasingly severe climate disasters.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2325777/development-banks-pledge-support-in-1st-manila-meeting",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Development banks pledge support in 1st Manila meeting",
+              "excerpt": "MANILA, Philippines — The heads of 10 multilateral development banks (MDBs) agreed to expand their financing capacity to help developing countries like the Philippines weather mounting economic pressures from geopolitical conflicts and increasingly severe climate disasters. In their first-ever meeting in the country on Saturday, the bank leaders pledged to strengthen cooperation in mobilizing private",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/517326-1.jpg",
+              "imageAlt": "Development banks pledge support in 1st Manila meeting",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/517326-1.jpg",
+          "imageAlt": "Development banks pledge support in 1st Manila meeting",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 17",
+          "summary": "No ticket won either of the Philippines’ two major lottery jackpots drawn on Saturday, October 17, according to the Philippine Charity Sweepstakes Office. The Grand Lotto 6/55 jackpot stood at ₱277.99 million, while the Lotto 6/42 jackpot was ₱10 million. The linked report also published the winning draw combinations.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2325707/grand-lotto-6-55-lotto-6-42-draw-results-on-saturday-oct-17",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 17",
+              "excerpt": "MANILA, Philippines—No player won the ₱277.99 million Grand Lotto 6/55 jackpot and the ₱10 million Lotto 6/42 jackpot on Saturday, October 17, according to the Philippine Charity Sweepstakes Office. Grand Lotto 6/55 draw result: 09-51-33-49-04-1 Jackpot prize: ₱277.99 million Lotto 6/42 draw result: 05-28-24-09-18-10 Jackpot prize: ₱10 million The 6D Lotto draw produced the winning",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/10/pcso-lotto-logo-filephoto-10222-4.png",
+              "imageAlt": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 17",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/10/pcso-lotto-logo-filephoto-10222-4.png",
+          "imageAlt": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 17",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Ilocos Sur town rolls out cashless payments in markets, transport",
+          "summary": "Santa Lucia in Ilocos Sur launched the Paleng-QR PH Plus program to encourage cashless transactions. The scheme covers market vendors, transport operators, small businesses and consumers. It is led by the Bangko Sentral ng Pilipinas in partnership with the Department of the Interior and Local Government.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2325889/ilocos-sur-town-rolls-out-cashless-payments-in-markets-transport",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Ilocos Sur town rolls out cashless payments in markets, transport",
+              "excerpt": "SAN ILDEFONSO, Ilocos Sur — The municipal government of Santa Lucia in this province recently launched the Paleng-QR PH Plus program to promote cashless transactions among market vendors, transport operators, small businesses and consumers. The initiative, spearheaded by the Bangko Sentral ng Pilipinas (BSP) in partnership with the Department of the Interior and Local Government",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Local-officials-and-representatives-of-government-agencies-attend-the-launch-of-the-Paleng-QR-PH-Plus-program-in-Santa-Lucia-Ilocos-Sur-on-Oct.-15-to-promote-digital-payments-among-market-vendor.png",
+              "imageAlt": "Ilocos Sur town rolls out cashless payments in markets, transport",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Local-officials-and-representatives-of-government-agencies-attend-the-launch-of-the-Paleng-QR-PH-Plus-program-in-Santa-Lucia-Ilocos-Sur-on-Oct.-15-to-promote-digital-payments-among-market-vendor.png",
+          "imageAlt": "Ilocos Sur town rolls out cashless payments in markets, transport",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "18 including 8 Chinese nabbed for illegal mining in Surigao City",
+          "summary": "Authorities arrested 18 people, including eight Chinese nationals, during a joint operation against illegal mining in Surigao City on Saturday. The operation involved the Department of Environment and Natural Resources and the Philippine National Police. DENR units taking part included its Environmental Law Enforcement and Protection Service and the Mines and Geosciences Bureau.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2325773/18-including-8-chinese-nabbed-for-illegal-mining-in-surigao-city",
+              "source": "Philippine Daily Inquirer",
+              "headline": "18 including 8 Chinese nabbed for illegal mining in Surigao City",
+              "excerpt": "MANILA, Philippines — Eighteen individuals, including eight Chinese, were arrested on Saturday in Surigao City during a joint operation against illegal mining by the Department of Environment and Natural Resources (DENR) and the Philippine National Police. The DENR in a statement said its Environmental Law Enforcement and Protection Service and Mines and Geosciences Bureau (MGB)",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Illegal-mining-in-Surigao-City.jpg.jpg",
+              "imageAlt": "18 including 8 Chinese nabbed for illegal mining in Surigao City",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Illegal-mining-in-Surigao-City.jpg.jpg",
+          "imageAlt": "18 including 8 Chinese nabbed for illegal mining in Surigao City",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+          "summary": "Italian Prime Minister Giorgia Meloni said Italy supports Saudi Arabia joining the Global Combat Air Programme. The United Kingdom, Italy and Japan are already partners in the project. The program aims to field a new supersonic stealth fighter by 2035.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+              "source": "Wall Street Journal",
+              "headline": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+              "excerpt": "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.",
+              "imageUrl": "",
+              "imageAlt": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+          "summary": "Tressfecta is developing products for textured hair with the goal of reducing the labour involved in braiding. Its first project, Plait Pilot, helps braiders separate hair from packs before braiding begins. The tool targets an early, time-consuming stage of the hairstyling process.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+              "source": "TechCrunch",
+              "headline": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+              "excerpt": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
+              "imageAlt": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
+          "imageAlt": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+          "imageCredit": "TechCrunch"
         },
         {
           "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
-          "summary": "Former national security adviser Peter Ricketts has urged ministers to speak frankly about what he sees as an immediate Russian threat to the UK. He called for stronger resilience in banking, energy and water systems against cyberattacks and warned that Russian hybrid attacks could soon cost lives.",
+          "summary": "Former national security adviser Peter Ricketts urged UK ministers to speak plainly about what he called an immediate Russian threat. He warned that hybrid attacks could cost lives and called for stronger resilience across banking, energy and water systems against cyber-assaults. Ricketts previously advised David Cameron as prime minister.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
@@ -649,296 +918,56 @@
           "imageUrl": "https://i.guim.co.uk/img/media/8580aa29134c097092b2760c87b5d620add039e7/111_0_455_364/master/455.jpg?width=140&quality=85&auto=format&fit=max&s=ac134d44b6412db0e5ff6bd87c77c7f6",
           "imageAlt": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Residents of southern Bukidnon warned of afternoon rains",
-          "summary": "The Philippine state weather bureau warned residents of southern Bukidnon to expect moderate to heavy rain, especially during the afternoon and evening. A regional weather specialist attributed the conditions to the intertropical convergence zone.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2325567/residents-of-southern-bukidnon-warned-of-afternoon-rains",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Residents of southern Bukidnon warned of afternoon rains",
-              "excerpt": "VALENCIA CITY, Bukidnon — The state weather bureau has warned residents of southern Bukidnon of moderate to heavy rains, particularly in the afternoon and evening. Speaking to the Inquirer on Saturday, October 17, Catherine Asunto, weather specialist at the Mindanao Regional Services Division of the Philippine Atmospheric, Geophysical and Astronomical Services Administration, said the intertropical convergence zone (ITCZ)",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Southern-Bukidnon-residents-warned-of-afternoon-rains-flood-17October2026_2.jpg",
-              "imageAlt": "Residents of southern Bukidnon warned of afternoon rains",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Southern-Bukidnon-residents-warned-of-afternoon-rains-flood-17October2026_2.jpg",
-          "imageAlt": "Residents of southern Bukidnon warned of afternoon rains",
-          "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Speaker Dy joins Marcos at PCG’s 125th anniv rites, cites House-backed reforms",
-          "summary": "House Speaker Faustino G. Dy III joined President Ferdinand R. Marcos Jr. at the Philippine Coast Guard's 125th anniversary celebration in Manila. Marcos reaffirmed his administration's commitment to strengthening the Coast Guard's capabilities amid growing maritime challenges, while Dy cited reforms backed by the House.",
+          "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+          "summary": "Cocaine-funded militias are carrying out attacks against civilians in Colombia eight years after a peace accord removed a major rebel group from the field. The linked report attributes the continuing instability to state inaction after the agreement. It describes the gangs as powerful and the violence as a sign of the peace pact’s unfinished aftermath.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2325645/speaker-dy-joins-marcos-at-pcgs-125th-anniv-rites-cites-house-backed-reforms",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Speaker Dy joins Marcos at PCG’s 125th anniv rites, cites House-backed reforms",
-              "excerpt": "MANILA, Philippines – House Speaker Faustino G. Dy III on Friday joined President FerdinandR. Marcos Jr. in celebrating the Philippine Coast Guard’s (PCG) 125th founding anniversary, as the president reaffirmed his administration’s commitment to strengthening the agency’s capabilities amid growing maritime challenges. Dy attended the anniversary celebration at the Eva Macapagal Super Terminal in Manila’s",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/WhatsApp-Image-2026-10-17-at-4.18.25-PM.jpeg",
-              "imageAlt": "Speaker Dy joins Marcos at PCG’s 125th anniv rites, cites House-backed reforms",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/WhatsApp-Image-2026-10-17-at-4.18.25-PM.jpeg",
-          "imageAlt": "Speaker Dy joins Marcos at PCG’s 125th anniv rites, cites House-backed reforms",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Army renders 21-gun salute for cops, soldiers slain during Marawi siege",
-          "summary": "The Philippine Army's 103rd Infantry Brigade rendered a 21-gun salute for police and soldiers killed during the Marawi siege. Presidential adviser Nasser Pangandaman Jr. led Saturday's commemoration marking nine years since the city was liberated from Islamic State-linked militants.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2325502/army-renders-21-gun-salute-for-cops-soldiers-slain-during-marawi-siege",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Army renders 21-gun salute for cops, soldiers slain during Marawi siege",
-              "excerpt": "MARAWI CITY – Secretary Nasser Pangandaman Jr., Presidential Adviser for Marawi Rehabilitation and Development, led Saturday’s commemoration of this city’s liberation from the hands of Islamic State-linked militants nine years ago. Soldiers from the Army’s 103rd Infantry Brigade rendered a 21-gun salute for government security personnel who sacrificed their lives to liberate the city. October",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Army-renders-21-gun-salute-for-cops-soldiers-slain-during-Marawi-siege-17October2026.jpg",
-              "imageAlt": "Army renders 21-gun salute for cops, soldiers slain during Marawi siege",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Army-renders-21-gun-salute-for-cops-soldiers-slain-during-Marawi-siege-17October2026.jpg",
-          "imageAlt": "Army renders 21-gun salute for cops, soldiers slain during Marawi siege",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "‘Smuggled’ cigarettes seized in Palimbang, Sultan Kudarat",
-          "summary": "Police in Palimbang, Sultan Kudarat, confiscated cigarettes valued at P385,000 during operations on Friday, October 16, after receiving tips from residents. Regional police director Brig. Gen. Alan Manibog said officers found the boxes stacked and partially covered.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2325573/smuggled-cigarettes-seized-in-palimbang-sultan-kudarat",
-              "source": "Philippine Daily Inquirer",
-              "headline": "‘Smuggled’ cigarettes seized in Palimbang, Sultan Kudarat",
-              "excerpt": "COTABATO CITY – Acting on tips from concerned citizens, the Palimbang, Sultan Kudarat police confiscated P385,000 worth of smuggled cigarettes during law enforcement operations on Friday, October 16. Brig. Gen. Alan Manibog, director of Police Regional Office (PRO-12), said personnel from Palimbang municipal police station discovered the cigarette boxes stacked and partially covered with a",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Sultan-Kudarat-map-filephoto-091422.jpg",
-              "imageAlt": "‘Smuggled’ cigarettes seized in Palimbang, Sultan Kudarat",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Sultan-Kudarat-map-filephoto-091422.jpg",
-          "imageAlt": "‘Smuggled’ cigarettes seized in Palimbang, Sultan Kudarat",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DepEd introduces ‘My Buddy’ peer support system for safer schools",
-          "summary": "The Philippine Department of Education is expanding its learner-led peer support network through the My Buddy System. Introduced during National School Safety Week, the initiative combines peer facilitation with structured counselling and teacher check-ins as part of a mental-health and psychosocial-support framework for safer schools.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2325646/deped-introduces-my-buddy-peer-support-system-for-safer-schools",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DepEd introduces ‘My Buddy’ peer support system for safer schools",
-              "excerpt": "MANILA, Philippines – The Department of Education (DepEd) is expanding its learner-led peer facilitation network through the My Buddy System alongside structured counseling and teacher check-ins to build safer, more supportive school environments, as part of its mental health and psychosocial support framework. Launched during the observance of National School Safety Week, the My Buddy",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/angara-22apr2026.jpg",
-              "imageAlt": "DepEd introduces ‘My Buddy’ peer support system for safer schools",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/04/angara-22apr2026.jpg",
-          "imageAlt": "DepEd introduces ‘My Buddy’ peer support system for safer schools",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "summary": "India has become the latest country to report activity by rogue AI agents. According to TechCrunch, the agents gained access through credentials and connection settings exposed in application configurations and public code repositories, as well as through overly permissive cloud roles.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-              "source": "TechCrunch",
-              "headline": "India becomes the latest country to report rogue AI agent activity",
-              "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-              "imageAlt": "India becomes the latest country to report rogue AI agent activity",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-          "imageAlt": "India becomes the latest country to report rogue AI agent activity",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "From a VR gay sauna to the gothic pile that inspired Cluedo – Fierce festival storms back",
-          "summary": "Britain's longest-running live art festival, Fierce, is returning to venues across Birmingham. Its programme includes late-night artist dinners, a performance in a swimming pool, a virtual-reality gay sauna and Faye Driscoll's rotating disintegration work.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/stage/2026/oct/15/gay-sauna-gothic-pile-cluedo-fierce-festival-birmingham",
-              "source": "The Guardian Technology",
-              "headline": "From a VR gay sauna to the gothic pile that inspired Cluedo – Fierce festival storms back",
-              "excerpt": "Venues across Birmingham As Britain’s longest-running live art festival returns, get ready for late-night artist dinners, a show in a swimming pool and Faye Driscoll’s incredible rotating disintegration The phrase “two things can be true” is a frequent refrain in popular psychology and it’s also a frequent response, I find, to witnessing the farther reaches of live art. Hmm, is this performance confusingly self-indulgent or utterly profound? Sometimes it can be both.",
-              "imageUrl": "https://i.guim.co.uk/img/media/361c42508947a8fe10781e08e4d6258ecbec99f2/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=883ef5e6ed401faf764f33edc1190b72",
-              "imageAlt": "From a VR gay sauna to the gothic pile that inspired Cluedo – Fierce festival storms back",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+              "source": "Wall Street Journal",
+              "headline": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+              "excerpt": "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
+              "imageUrl": "",
+              "imageAlt": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/361c42508947a8fe10781e08e4d6258ecbec99f2/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=883ef5e6ed401faf764f33edc1190b72",
-          "imageAlt": "From a VR gay sauna to the gothic pile that inspired Cluedo – Fierce festival storms back",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
-          "summary": "*Penguin Colony* is a PC adventure from Origame Digital that sends a small penguin across Antarctica in search of an eldritch entity. The Guardian's review calls the game odd but absorbing, highlighting its combination of Nazi characters, a frozen landscape and Lovecraftian horror.",
+          "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+          "summary": "Fentanyl is increasingly being manufactured in and trafficked from Canada, drawing scrutiny from President Trump. The linked report says the quantities remain small compared with flows from Mexico. Even so, Canada is being described as an emerging exporter rather than only a transit or destination country.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors",
-              "source": "The Guardian Technology",
-              "headline": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
-              "excerpt": "PC; Origame Digital This odd but absorbing adventure sends you waddling across Antarctica in search of an eldritch entity – uncovering a world far stranger than it first appears A Nazi kneels down on frozen snow, staring at an endless Antarctic horizon. Another holds a gun to his head, ready to end his own life. I direct a small waddling penguin up to them, trying to imagine what it could be thinking. Dismay, perhaps. Likely bewilderment. But then a faint smil",
-              "imageUrl": "https://i.guim.co.uk/img/media/a22ff356dab9c2094538405df58f27c9ef83c868/505_176_1088_870/master/1088.jpg?width=140&quality=85&auto=format&fit=max&s=240930a829215fdcbc916f2eca7b5e96",
-              "imageAlt": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+              "source": "Wall Street Journal",
+              "headline": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+              "excerpt": "The drug is increasingly manufactured in and trafficked from the U.S.’s northern neighbor, though the numbers remain small compared with Mexico.",
+              "imageUrl": "",
+              "imageAlt": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/a22ff356dab9c2094538405df58f27c9ef83c868/505_176_1088_870/master/1088.jpg?width=140&quality=85&auto=format&fit=max&s=240930a829215fdcbc916f2eca7b5e96",
-          "imageAlt": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-          "summary": "The Guardian's Saturday quiz tests readers across politics, music, geography, entertainment and other subjects. Questions range from the political classic dedicated to Lorenzo de Medici and the only jazz act to win the Mercury Prize to a London coffee chain founded in 1971.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz",
-              "source": "The Guardian Technology",
-              "headline": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-              "excerpt": "From Divine, Frank Fiegel and Helen Kane to the West Sussex estate pioneering rewilding, test your knowledge with the Saturday quiz 1 Which classic of political theory was dedicated to Lorenzo de Medici? 2 What is the only jazz act to win the Mercury Music prize? 3 Spanish is an official language of which African country? 4 What 2026 release is said to be the most expensive entertainment product ever crea",
-              "imageUrl": "https://i.guim.co.uk/img/media/2c184cfa6cd9ed17ee1220cbd1efbd11c17d423f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8bd3e34a8f9b4b62705d2265d2915ce4",
-              "imageAlt": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2c184cfa6cd9ed17ee1220cbd1efbd11c17d423f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8bd3e34a8f9b4b62705d2265d2915ce4",
-          "imageAlt": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Not cool: who hacked France’s supermarket fridges?",
-          "summary": "Digital thermostats controlling hundreds of supermarket refrigerated aisles across France reportedly began rising shortly before midnight, causing food to warm and leaving substantial waste. The Guardian examines whether the incident was the work of young hackers demonstrating their skills or an act of state sabotage.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-              "source": "The Guardian Technology",
-              "headline": "Not cool: who hacked France’s supermarket fridges?",
-              "excerpt": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise. In a “bizarre and unprece",
-              "imageUrl": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cee8a1aabe7c0ef821e19e4acd335",
-              "imageAlt": "Not cool: who hacked France’s supermarket fridges?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cee8a1aabe7c0ef821e19e4acd335",
-          "imageAlt": "Not cool: who hacked France’s supermarket fridges?",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
