@@ -2,71 +2,42 @@
   "id": "2026-10-20-expanded",
   "date": "2026-10-20",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-10-20T03:00:53.518562",
+  "generatedAt": "2026-10-20T12:30:52.447134",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-10-20T03:00:53",
+  "updatedAt": "2026-10-20T12:30:52",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Canada deploys 50 investigators to probe military base fire that killed 4 soldiers",
-          "summary": "Canada has deployed 50 investigators to examine a fire at a military base that killed four soldiers and injured 39 people. Accounts cited by the BBC say the blaze travelled about a kilometre in 30 to 60 seconds, while questions have arisen over why training continued when officials knew a fire was burning nearby.",
+          "title": "SEE IT: World’s First-Ever Rescue By Drone On Active Battlefield",
+          "summary": "Ukraine’s military says it used an aerial drone to evacuate a wounded soldier from the front line in what it describes as the first rescue of its kind. The serviceman was reportedly surrounded by landmines and enemy drones, making a ground rescue impossible, and footage shared by Ukraine’s 92nd Separate Assault Brigade shows him securing himself to the drone before being lifted away.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-              "excerpt": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg",
-              "imageAlt": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/19/50-investigators-deployed-probe-canada-military-base-fire-killed-4/",
-              "source": "Washington Times",
-              "headline": "Canada deploys 50 investigators to probe military base fire that killed 4 soldiers",
-              "excerpt": "Fifty investigators are examining a fire at a Canadian military base that killed four soldiers and injured 39 others, Prime Minister Mark Carney said Monday, as questions mount over why training continued despite officials knowing a fire was burning nearby.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/19/Canada_CFB_Wainwright_919_9_s1440x919.jpg?252ea9e198945816604730f895a81dd8af01cbc5",
-              "imageAlt": "Canada deploys 50 investigators to probe military base fire that killed 4 soldiers",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+              "excerpt": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792442972.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
               "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg",
-          "imageAlt": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-          "summary": "About three million Albertans are eligible to take part in a non-binding referendum on separation from Canada. Polling suggests most favour remaining in Canada, but the issue has divided the province and exposed splits within the governing UCP.",
-          "links": [
+            },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-              "excerpt": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975c/live/8ec83c20-cb9c-11f1-93a7-b36f3083f4d3.jpg",
-              "imageAlt": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+              "headline": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+              "excerpt": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg",
+              "imageAlt": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -80,13 +51,13 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.foxnews.com/world/alberta-holds-non-binding-separation-vote-independence-fight-grips-canada",
-              "source": "Fox News",
-              "headline": "Alberta holds non-binding separation vote as independence fight grips Canada",
-              "excerpt": "About 3 million Albertans are eligible to vote in the non-binding separation referendum, but polls show deep divisions within the UCP over it.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/alberta-independence-rally.jpg?ve=1&tl=1",
-              "imageAlt": "Alberta holds non-binding separation vote as independence fight grips Canada",
-              "outlet": "Fox News",
+              "url": "https://www.dailywire.com/news/see-it-worlds-first-ever-rescue-by-drone-on-active-battlefield",
+              "source": "Daily Wire",
+              "headline": "SEE IT: World’s First-Ever Rescue By Drone On Active Battlefield",
+              "excerpt": "Ukrainian forces used an aerial drone to lift a wounded soldier from the front lines in what the military says was the world’s first such battlefield rescue, newly released footage shows. The footage, shared Monday by Ukraine’s 92nd Separate Assault Brigade, shows the wounded soldier securing himself to a large drone before being lifted into the ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2300415291-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "SEE IT: World’s First-Ever Rescue By Drone On Active Battlefield",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -99,32 +70,96 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975c/live/8ec83c20-cb9c-11f1-93a7-b36f3083f4d3.jpg",
-          "imageAlt": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-          "imageCredit": "BBC"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792442972.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-          "summary": "Funding shortages are forcing the World Food Programme to reduce the number of people it assists in Gaza from 1.6 million to 1.1 million. The cuts coincide with continuing shipment restrictions, deepening fears among displaced families that food insecurity will worsen.",
+          "title": "Mahmoud Khalil asks Supreme Court to hear deportation case",
+          "summary": "Mahmoud Khalil has asked the US Supreme Court to overturn an appeals court decision that could allow his removal and renewed arrest. His petition argues that federal judges should be able to review the legality of immigration detentions promptly rather than only after immigration proceedings are complete.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
-              "excerpt": "Displaced families in Gaza fear worsening food insecurity as planned aid cuts coincide with continued restrictions.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/873A0995-copy-1792410266.jpeg?resize=1920%2C1440",
-              "imageAlt": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
+              "headline": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+              "excerpt": "Lawyers for the former student leader seek to overturn an appeals court decision that would allow for his removal.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/08/afp_68b348afefe8-1756580016.jpg?resize=1920%2C1440",
+              "imageAlt": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
+            {
+              "url": "https://www.dailywire.com/news/mahmoud-khalil-asks-the-supreme-court-for-a-lifeline",
+              "source": "Daily Wire",
+              "headline": "Mahmoud Khalil Asks The Supreme Court For A Lifeline",
+              "excerpt": "Anti-Israel activist Mahmoud Khalil asked the Supreme Court to overturn a ruling that would allow the Trump administration to arrest him again. In an X post on Monday, Khalil shared the petition his legal team filed, saying that he has “asked the Supreme Court to affirm that federal courts have the power to hear my ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2239340076.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Mahmoud Khalil Asks The Supreme Court For A Lifeline",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/supreme-court/4771328/mahmoud-khalil-supreme-court-deportation-case/",
+              "source": "Washington Examiner",
+              "headline": "Mahmoud Khalil asks Supreme Court to hear deportation case",
+              "excerpt": "Mahmoud Khalil, the Columbia University demonstrator whose case became a flash point in the Trump administration’s crackdown on anti-Israel foreign students, has asked the Supreme Court to take up his case, his lawyers said Monday. Khalil is appealing a lower court ruling that found federal judges cannot consider his claims until he completes the immigration […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/03/AP26015521561946-e1773318943784.jpg?w=1024",
+              "imageAlt": "Mahmoud Khalil asks Supreme Court to hear deportation case",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/19/mahmoud-khalil-asks-supreme-court-let-us-judges-quickly-reverse/",
+              "source": "Washington Times",
+              "headline": "Activist Mahmoud Khalil asks Supreme Court to let U.S. judges quickly reverse immigration detentions",
+              "excerpt": "Palestinian activist Mahmoud Khalil asked the Supreme Court on Monday to let federal judges quickly determine the legality of immigration-related detentions so that people cannot be held for months or years without judicial oversight.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/01/Supreme_Court_Church_Shrine_457_9_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Activist Mahmoud Khalil asks Supreme Court to let U.S. judges quickly reverse immigration detentions",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/08/afp_68b348afefe8-1756580016.jpg?resize=1920%2C1440",
+          "imageAlt": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Short of funds, U.N. food agency cuts aid to 500,000 Palestinians in Gaza, 200,000 in the West Bank",
+          "summary": "The UN’s World Food Programme is cutting food assistance because of a serious funding shortage, affecting 500,000 Palestinians in Gaza and 200,000 in the West Bank. In Gaza, the number of people receiving help is expected to fall by about a third, from 1.6 million to 1.1 million.",
+          "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -143,60 +178,14 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/873A0995-copy-1792410266.jpeg?resize=1920%2C1440",
-          "imageAlt": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Trump creates NIH women’s health office ahead of midterm elections",
-          "summary": "President Donald Trump has signed an executive order establishing a Women’s Health Division at the National Institutes of Health and a White House Women’s Health Task Force. The initiative was prompted by first lady Melania Trump and is intended to focus research on women’s health and translate it into treatments.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/president-and-first-lady-take-on-critical-womens-health-problems",
-              "source": "Daily Wire",
-              "headline": "President And First Lady Take On ‘Critical’ Women’s Health Problems",
-              "excerpt": "WASHINGTON — President Donald Trump signed an executive order on Monday establishing a White House Women’s Health Task Force and a new Women’s Health Division. The executive order is an initiative of his wife, first lady Melania Trump, who promised that “beginning today, we will change the reality of women’s health.” Melania said the Women’s ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2300988020.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "President And First Lady Take On ‘Critical’ Women’s Health Problems",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/policy/healthcare/4770676/trump-creates-nih-women-health-office/",
-              "source": "Washington Examiner",
-              "headline": "Trump creates NIH women’s health office ahead of midterm elections",
-              "excerpt": "President Donald Trump signed an executive order creating a specific women’s health division at the National Institutes of Health, a move prompted by first lady Melania Trump. The president signed the executive order alongside his wife Monday in the White House Rose Garden, calling the creation of a new NIH office “a big deal.” Donald […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26292560541946.jpg?w=1024",
-              "imageAlt": "Trump creates NIH women’s health office ahead of midterm elections",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/19/trump-signs-order-creating-nih-division-white-house-task-force-womens/",
+              "url": "https://www.washingtontimes.com/news/2026/oct/19/short-funds-un-food-agency-cuts-aid-500000-palestinians-gaza-200000/",
               "source": "Washington Times",
-              "headline": "Trump signs order creating NIH division and White House task force on women's health",
-              "excerpt": "President Trump signed an executive order Monday creating a National Institutes of Health division focused on women's health and turning research into cures.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/19/Trump_13348_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump signs order creating NIH division and White House task force on women's health",
+              "headline": "Short of funds, U.N. food agency cuts aid to 500,000 Palestinians in Gaza, 200,000 in the West Bank",
+              "excerpt": "The United Nations has cut food assistance to 500,000 Palestinians in Gaza and 200,000 in the West Bank due to a serious funding shortage, the head of the U.N. food agency said Monday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/19/Israel_Palestinians_Gaza_7_793_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Short of funds, U.N. food agency cuts aid to 500,000 Palestinians in Gaza, 200,000 in the West Bank",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -210,21 +199,39 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2300988020.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "President And First Lady Take On ‘Critical’ Women’s Health Problems",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2c/live/e6934370-cb7c-11f1-8d42-dd1c1e8413a3.jpg",
+          "imageAlt": "Funding shortages force World Food Programme to cut aid to Gaza",
+          "imageCredit": "BBC"
         },
         {
-          "title": "U.S. Airman Dies During Pregame Ceremony at UTSA-Naval Academy Game in San Antonio",
-          "summary": "A U.S. Air Force airman died after falling from the rafters of San Antonio’s Alamodome during a pregame rappelling demonstration. The incident occurred before Saturday’s college football game between the University of Texas at San Antonio and the U.S. Naval Academy, in front of thousands of spectators.",
+          "title": "Polls: Jon Husted Edges Sherrod Brown in Ohio Senate Race",
+          "summary": "An ActiVote poll puts Republican Jon Husted narrowly ahead of Democrat Sherrod Brown in Ohio’s Senate race, 50.2% to 49.8%, contrary to some recent surveys. Separately, a Reuters/Ipsos poll cited by Al Jazeera reports Donald Trump’s approval at 31% and Democrats leading Republicans by 12 points on a generic congressional ballot.",
           "links": [
             {
-              "url": "https://www.breitbart.com/border/2026/10/18/u-s-airman-dies-during-pregame-ceremony-at-utsa-naval-academy-game-in-san-antonio/",
+              "url": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+              "excerpt": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad6765e11e8-1792439902.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/politics/2026/10/19/polls-jon-husted-edges-sherrod-brown-ohio-senate-race/",
               "source": "Breitbart",
-              "headline": "U.S. Airman Dies During Pregame Ceremony at UTSA-Naval Academy Game in San Antonio",
-              "excerpt": "A U.S. Air Force Tactical Air Controller died after falling from the rafters of the Alamodome during a pregame ceremony before the University of Texas at San Antonio (UTSA) - U.S. Naval Academy football game. The airman fell from the stadium ceiling in front of thousands of spectators watching the pregame ceremony on Saturday evening. The post <a rel=\"nofollow\" href=\"https://www.breitbart.com/border/2026/10/18/u-s-airman-dies-during-pregame-ceremony-at-utsa-naval-academy-game-in-san-an",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/MixCollage-18-Oct-2026-10-11-AM-8425-600x335.jpg",
-              "imageAlt": "U.S. Airman Dies During Pregame Ceremony at UTSA-Naval Academy Game in San Antonio",
+              "headline": "Polls: Jon Husted Edges Sherrod Brown in Ohio Senate Race",
+              "excerpt": "An ActiVote poll finds Republican Jon Husted leading Democrat Sherrod Brown 50.2 percent to 49.8 percent in Ohio, bucking recent surveys. The post Polls: Jon Husted Edges Sherrod Brown in Ohio Senate Race appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages2299805078-640x335.jpg",
+              "imageAlt": "Polls: Jon Husted Edges Sherrod Brown in Ohio Senate Race",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -235,88 +242,71 @@
               "reliability": "low",
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/air-force-airman-dies-after-falling-during-pregame-rappelling-demo",
-              "source": "Daily Wire",
-              "headline": "Air Force Airman Dies After Falling During Pregame Rappelling Demo",
-              "excerpt": "An Air Force airman died after falling from the rafters of the Alamodome in San Antonio, Texas, during a pregame demonstration before Saturday’s college football game between the University of Texas at San Antonio and Navy. Nellis Air Force Base Public Affairs confirmed Sunday that the service member, assigned to Detachment 2 of the 6th Combat ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2276696288-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Air Force Airman Dies After Falling During Pregame Rappelling Demo",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/10/MixCollage-18-Oct-2026-10-11-AM-8425-600x335.jpg",
-          "imageAlt": "U.S. Airman Dies During Pregame Ceremony at UTSA-Naval Academy Game in San Antonio",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad6765e11e8-1792439902.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Abdul El-Sayed Admits His Sister-In-Law Landed On Terrorist Watchlist",
-          "summary": "Michigan Democratic Senate candidate Abdul El-Sayed confirmed that his sister-in-law, Mariam Jukaku, was placed on a terrorist watchlist during Barack Obama’s presidency. In a separate interview, El-Sayed compared scrutiny of his loyalties to that faced by John F. Kennedy and called assumptions that he has dual loyalties “crazy.”",
+          "title": "Exiled critic of Rwandan president found beheaded in Uganda",
+          "summary": "Robert Kabera, an exiled critic of Rwanda’s president, has been found beheaded in Uganda. Kabera was a former army sergeant major, singer and popular YouTuber who had sought asylum in Uganda; police said his body was found near Kampala but his head had not been located.",
           "links": [
             {
-              "url": "https://www.breitbart.com/clips/2026/10/18/el-sayed-compares-himself-to-jfk-crazy-to-assume-i-have-dual-loyalties/",
-              "source": "Breitbart",
-              "headline": "El-Sayed Compares Himself to JFK: 'Crazy' to Assume I Have 'Dual Loyalties'",
-              "excerpt": "On Saturday’s broadcast of “MS NOW Reports,” Michigan’s Democratic nominee for the U.S. Senate, Abdul El-Sayed, compared himself to late President John F. Kennedy and said it is “crazy” to assume he has “dual loyalties.” Host Ali Velshi said, “You The post El-Sayed Compares Himself to JFK: ‘Crazy’ to Assume I Have ‘Dual Loyalties’ appeared firs",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/elsaty345-640x335.jpg",
-              "imageAlt": "El-Sayed Compares Himself to JFK: 'Crazy' to Assume I Have 'Dual Loyalties'",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "url": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Exiled critic of Rwandan president found beheaded in Uganda",
+              "excerpt": "Ugandan police say a male body has been found in a village near Kampala, and his head has yet to be located.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad6b1a840116-1792455080.jpg?resize=1920%2C1440",
+              "imageAlt": "Exiled critic of Rwandan president found beheaded in Uganda",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/abdul-el-sayed-admits-his-sister-in-law-landed-on-terrorist-watchlist",
-              "source": "Daily Wire",
-              "headline": "Abdul El-Sayed Admits His Sister-In-Law Landed On Terrorist Watchlist",
-              "excerpt": "Michigan Democratic candidate Abdul El-Sayed confirmed on Saturday that his sister-in-law Mariam Jukaku landed on the terrorist watch list when former President Barack Obama was still in the White House. El-Sayed, who is scheduled to campaign alongside Obama in the coming days, told Fox News senior correspondent Mike Tobin that Jukaku’s name had been added ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2296029877.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Abdul El-Sayed Admits His Sister-In-Law Landed On Terrorist Watchlist",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Exiled critic of Rwandan president found beheaded",
+              "excerpt": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png",
+              "imageAlt": "Exiled critic of Rwandan president found beheaded",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/elsaty345-640x335.jpg",
-          "imageAlt": "El-Sayed Compares Himself to JFK: 'Crazy' to Assume I Have 'Dual Loyalties'",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad6b1a840116-1792455080.jpg?resize=1920%2C1440",
+          "imageAlt": "Exiled critic of Rwandan president found beheaded in Uganda",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "The Family Messages Now At The Center Of Ilhan Omar’s Troubles",
-          "summary": "Family text messages reportedly became central to the investigation that led to a search warrant and raid on Rep. Ilhan Omar’s Washington home. The messages were found on a phone seized from Omar’s sister, Sahra Noor, as federal investigators reportedly sought to build a case against the Minnesota congresswoman.",
+          "title": "Feds Have DNA Evidence In Ilhan Omar Immigration Fraud Probe: Report",
+          "summary": "Federal investigators reportedly obtained DNA evidence while examining allegations that Representative Ilhan Omar committed immigration fraud by marrying her brother. Reports cited by Breitbart and the Daily Wire say investigators collected rubbish from Omar’s Washington home and were also using government records and whistleblower information; the allegations are presented as claims under investigation, not established findings.",
           "links": [
             {
-              "url": "https://www.breitbart.com/crime/2026/10/18/33932547report-family-text-messages-prompted-warrant-and-raid-on-ilhan-omars-home/",
+              "url": "https://www.breitbart.com/politics/2026/10/19/report-feds-collected-garbage-rep-ilhan-omars-home-searching-for-dna/",
               "source": "Breitbart",
-              "headline": "Report: Family Text Messages Prompted Warrant and Raid on Ilhan Omar's Home",
-              "excerpt": "Family text messages on the phone of Rep. Ilhan Omar’s (D-MN) sister prompted the search warrant and controversial raid on the lawmaker's Washington, D.C. home, the New York Times is reporting. The post Report: Family Text Messages Prompted Warrant and Raid on Ilhan Omar’s Home appeared first on <a rel=\"nofollow\" href=\"https://www.br",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/Ilhan-Omars-Home-is-raided-640x335.jpg",
-              "imageAlt": "Report: Family Text Messages Prompted Warrant and Raid on Ilhan Omar's Home",
+              "headline": "Report: Feds Collected Garbage from Rep. Ilhan Omar's Home, Searching for Her DNA",
+              "excerpt": "Federal investigators reportedly collected garbage from Rep. Ilhan Omar's (D-MN) home in Washington, DC, searching for her DNA. The post Report: Feds Collected Garbage from Rep. Ilhan Omar’s Home, Searching for Her DNA appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2299339902-640x335.jpg",
+              "imageAlt": "Report: Feds Collected Garbage from Rep. Ilhan Omar's Home, Searching for Her DNA",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -329,13 +319,41 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/ilhan-omar-raid-approved-after-feds-seized-sisters-phone",
+              "url": "https://www.dailywire.com/news/feds-have-dna-evidence-in-ilhan-omar-immigration-fraud-probe-report",
               "source": "Daily Wire",
-              "headline": "The Family Messages Now At The Center Of Ilhan Omar’s Troubles",
-              "excerpt": "The raid on Rep. Ilhan Omar’s (D-MN) home reportedly moved forward after federal law enforcement reviewed a phone seized from the Minnesota congresswoman’s sister, author and health care executive Sahra Noor. The New York Times reported that Noor’s phone was taken earlier this year as investigators reportedly sought to build a case against Omar for ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2262837378.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "The Family Messages Now At The Center Of Ilhan Omar’s Troubles",
+              "headline": "Feds Have DNA Evidence In Ilhan Omar Immigration Fraud Probe: Report",
+              "excerpt": "Federal investigators have obtained DNA evidence in an attempt to prove accusations that Rep. Ilhan Omar (D-MN) married her brother and committed immigration fraud, according to The New York Post. On Monday, the Post reported that investigators were using DNA, government records, and information from whistleblowers to investigate possible immigration fraud involving Omar and her ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2262837378-1.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Feds Have DNA Evidence In Ilhan Omar Immigration Fraud Probe: Report",
               "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2299339902-640x335.jpg",
+          "imageAlt": "Report: Feds Collected Garbage from Rep. Ilhan Omar's Home, Searching for Her DNA",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Vance declines to endorse Netanyahu for reelection, diverging from Trump",
+          "summary": "Vice President JD Vance declined to endorse Israeli Prime Minister Benjamin Netanyahu in Israel’s coming election. His position differs from President Donald Trump’s public backing of Netanyahu’s re-election bid.",
+          "links": [
+            {
+              "url": "https://www.foxnews.com/politics/jd-vance-declines-endorse-netanyahu-despite-trumps-strong-backing",
+              "source": "Fox News",
+              "headline": "JD Vance declines to endorse Netanyahu despite Trump's strong backing",
+              "excerpt": "Vice President JD Vance said he will not weigh in on Israel's upcoming election after Trump threw his support behind Netanyahu's reelection bid.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jd-vance.jpg?ve=1&tl=1",
+              "imageAlt": "JD Vance declines to endorse Netanyahu despite Trump's strong backing",
+              "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -345,12 +363,30 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4771732/vance-netanyahu-reelection-endorsement-trump/",
+              "source": "Washington Examiner",
+              "headline": "Vance declines to endorse Netanyahu for reelection, diverging from Trump",
+              "excerpt": "Vice President JD Vance declined to endorse Israeli Prime Minister Benjamin Netanyahu for reelection on Monday, a day after President Donald Trump backed the Israeli leader’s bid. When journalist Mark Halperin posed the question, Vance laughed before giving a brief response. “The president has the most effective endorsement in American or international political history,” he […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP25295345179556.jpg?w=1024",
+              "imageAlt": "Vance declines to endorse Netanyahu for reelection, diverging from Trump",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/10/Ilhan-Omars-Home-is-raided-640x335.jpg",
-          "imageAlt": "Report: Family Text Messages Prompted Warrant and Raid on Ilhan Omar's Home",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jd-vance.jpg?ve=1&tl=1",
+          "imageAlt": "JD Vance declines to endorse Netanyahu despite Trump's strong backing",
+          "imageCredit": "Fox News"
         }
       ]
     },
@@ -359,7 +395,7 @@
       "stories": [
         {
           "title": "Russia’s bot farms remain alive and well",
-          "summary": "The story title says Russia’s bot farms remain active, but the sole linked excerpt does not provide supporting details about them. Instead, the Spectator Australia item discusses renewed unrest in France, its tradition of political subversion and why Australia should pay attention.",
+          "summary": "The selected story is titled “Russia’s bot farms remain alive and well,” but its sole attached Spectator Australia item concerns renewed unrest in France and argues that Australia should pay attention. The available headline and excerpt provide no further information about Russian bot farms.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/10/france-is-burning-again-australia-should-take-notice/",
@@ -386,34 +422,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Who is Helen Haines, the MP allegedly attacked in Victoria?",
-          "summary": "Independent Indi MP Helen Haines was critically injured in an alleged attack near her electorate office in north-east Victoria. A man was arrested, counter-terrorism police began investigating and political leaders condemned the incident.",
+          "title": "Kumanjayi Little Baby review finds extensive failings",
+          "summary": "An independent review found extensive failings in the Northern Territory child protection department’s handling of Kumanjayi Little Baby’s case before her alleged murder. The department had rated her safety at two out of 10.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
-              "source": "The Guardian Australia",
-              "headline": "Premier ‘deeply appalled’ after Indi MP Haines injured – as it happened",
-              "excerpt": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament <a href=\"https://www.th",
-              "imageUrl": "https://i.guim.co.uk/img/media/d3c06ff51861fd776fd4f0b94d461ddd7f5bfc1d/1352_0_6027_4822/master/6027.jpg?width=140&quality=85&auto=format&fit=max&s=058086dfe841acb3960287787a0823ba",
-              "imageAlt": "Premier ‘deeply appalled’ after Indi MP Haines injured – as it happened",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-10-19/live-blog-victoria-indi-mp-helen-haines-injured-wangaratta/107285046",
+              "url": "https://www.abc.net.au/news/2026-10-20/kumanjayi-little-baby-independent-review-nt-child-protection/107285266",
               "source": "ABC Australia",
-              "headline": "Indi MP Helen Haines critically injured after 'attack' at electorate office — as it happened",
-              "excerpt": "Anthony Albanese says counter-terrorism police are investigating and a man has been arrested after Indi MP Helen Haines was \"attacked\" near her electorate office in Victoria's north-east.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/cc6e7ac52d8d2a91d7135a1508e032a9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=53&width=862&height=485",
-              "imageAlt": "Indi MP Helen Haines critically injured after 'attack' at electorate office — as it happened",
+              "headline": "Kumanjayi Little Baby review finds extensive failings",
+              "excerpt": "An independent review into the NT child protection department's conduct surrounding Kumanjayi Little Baby before her alleged murder has revealed extensive failings, with the department rating her safety as two out of 10.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/07c2e238408e7bd414637321eb66a1ec?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485",
+              "imageAlt": "Kumanjayi Little Baby review finds extensive failings",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -422,27 +440,27 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/d3c06ff51861fd776fd4f0b94d461ddd7f5bfc1d/1352_0_6027_4822/master/6027.jpg?width=140&quality=85&auto=format&fit=max&s=058086dfe841acb3960287787a0823ba",
-          "imageAlt": "Premier ‘deeply appalled’ after Indi MP Haines injured – as it happened",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/07c2e238408e7bd414637321eb66a1ec?impolicy=wcms_crop_resize&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485",
+          "imageAlt": "Kumanjayi Little Baby review finds extensive failings",
+          "imageCredit": "ABC News"
         },
         {
-          "title": "Ellie Goulding admits error over promoting diamonds from controversial Australian mine",
-          "summary": "Singer and environmental campaigner Ellie Goulding says she was mortified to have promoted diamonds from Australia’s Argyle mine. The mine is at the centre of environmental concerns involving Indigenous land, and Goulding acknowledged that wearing the diamonds was an error.",
+          "title": "I knew one of us could get hurt eventually. I never thought it would be my friend Helen | Zoe Daniel",
+          "summary": "Former MP Zoe Daniel writes that people working around politics had feared someone would eventually be physically hurt, but she never expected it to be her friend Helen Haines. She urges readers to resist political opportunism and blame from either side, arguing that responsibility is shared.",
           "links": [
             {
-              "url": "https://www.theguardian.com/music/2026/oct/19/ellie-goulding-diamonds-australia-argyle-mine",
+              "url": "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-zoe-daniels-wangaratta-opinion-ntwnfb",
               "source": "The Guardian Australia",
-              "headline": "Ellie Goulding admits error over promoting diamonds from controversial Australian mine",
-              "excerpt": "Singer ‘mortified’ about wearing diamonds from Argyle mine at centre of environmental concerns about Indigenous land The singer Ellie Goulding has admitted her error at having promoted diamonds at the centre of environmental concerns about Indigenous land in Australia, despite having spent years campaigning on environmental issues – including the effects of mining on ancestral lands. She appeared at a event in London earlier this month for the jewellery brand Boodles, modelling so",
-              "imageUrl": "https://i.guim.co.uk/img/media/8bf5027699c821ff481837f8e9b44b6b3e1a46e3/836_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=f0aa7f77f3127c0ea2378fc720b3e2c6",
-              "imageAlt": "Ellie Goulding admits error over promoting diamonds from controversial Australian mine",
+              "headline": "I knew one of us could get hurt eventually. I never thought it would be my friend Helen",
+              "excerpt": "There will now be a flood of rhetoric about who is to blame. Don’t fall for the political opportunism from left or right. We are all responsible It was obvious to those of us who work in and around politics, that eventually, someone would get physically hurt. The fact that it’s Helen Haines, arguably the best of all of us, not just as a politician but a person, is unbearable. <a href=\"https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-zoe-daniels-wangaratta-opi",
+              "imageUrl": "https://i.guim.co.uk/img/media/e64a8c33fbab56511d8ddb0cdb178ac2df41252e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2963cfa23e22eedb20dc5c5cbf92f467",
+              "imageAlt": "I knew one of us could get hurt eventually. I never thought it would be my friend Helen | Zoe Daniel",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -456,21 +474,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/8bf5027699c821ff481837f8e9b44b6b3e1a46e3/836_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=f0aa7f77f3127c0ea2378fc720b3e2c6",
-          "imageAlt": "Ellie Goulding admits error over promoting diamonds from controversial Australian mine",
+          "imageUrl": "https://i.guim.co.uk/img/media/e64a8c33fbab56511d8ddb0cdb178ac2df41252e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2963cfa23e22eedb20dc5c5cbf92f467",
+          "imageAlt": "I knew one of us could get hurt eventually. I never thought it would be my friend Helen | Zoe Daniel",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "When does a police force become an army?",
-          "summary": "The story title raises the question of when a police force becomes an army, but the linked excerpt offers no information about policing or militarisation. The sole Spectator Australia link is instead a commentary on conservative leadership arguing that Josh Frydenberg had his opportunity and failed.",
+          "title": "Society hates those coping with dementia",
+          "summary": "The selected story is titled “Society hates those coping with dementia,” but its only attached Spectator Australia item profiles neuroscientist and teacher Jared Cooney Horvath and his campaign concerning screens in schools. The supplied headline and excerpt contain no additional information about dementia.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/10/conservative-leadership/",
+              "url": "https://www.spectator.com.au/2026/10/meet-jared-cooney-horvath-the-neuroscientist-taking-on-screens-in-schools/",
               "source": "Spectator Australia",
-              "headline": "Conservative leadership",
-              "excerpt": "Sorry, Josh, you had your go. And you blew it. Politics is both a brutal and an unforgiving game. As… The post Conservative leadership appeared first on The Spectator Australia . What to read next: A test of leadership | <a href=\"https://www.spectator.com.au/2",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/leader-17-oct_post.jpg",
-              "imageAlt": "Conservative leadership",
+              "headline": "Meet Jared Cooney Horvath, the neuroscientist taking on screens in schools",
+              "excerpt": "‘I’ve been here a week, and I can’t figure it out,’ says Dr Jared Cooney Horvath, neuroscientist, teacher and now… The post Meet Jared Cooney Horvath, the neuroscientist taking on screens in schools appeared first on The Spectator Australia . What to read next: <a href=\"https://www.",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/Flora-Watkins.jpg",
+              "imageAlt": "Meet Jared Cooney Horvath, the neuroscientist taking on screens in schools",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -484,8 +502,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/leader-17-oct_post.jpg",
-          "imageAlt": "Conservative leadership",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/Flora-Watkins.jpg",
+          "imageAlt": "Meet Jared Cooney Horvath, the neuroscientist taking on screens in schools",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -494,36 +512,36 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-          "summary": "Nvidia has launched new open models designed to run AI agents in company data centres and on personal computers. The move targets businesses that want to operate their own models while also advancing private, on-device AI agents.",
+          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+          "summary": "Hugging Face’s policy chief says placing supposedly neutral third-party evaluators inside AI companies will not be a simple answer to safety concerns. Interest in such embedded oversight has grown as AI laboratories confront a series of safety incidents and concern about potential harms.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+              "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
               "source": "TechCrunch",
-              "headline": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-              "excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
-              "imageAlt": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+              "headline": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+              "excerpt": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+              "imageAlt": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
-          "imageAlt": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+          "imageAlt": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
           "imageCredit": "TechCrunch"
         },
         {
           "title": "The one change that worked: I deleted Instagram – and embraced the joys of a truly private life",
-          "summary": "A former Instagram user describes deleting the app after becoming preoccupied with appealing to an invisible online audience. A year later, the writer says private and quieter moments have regained meaning without the pressure to post them.",
+          "summary": "A writer says deleting Instagram ended an obsession with performing for an invisible audience and gave private moments new meaning. After joining at 17 and gradually becoming hooked, the writer quit the platform a year ago despite not previously considering their use an addiction.",
           "links": [
             {
               "url": "https://www.theguardian.com/lifeandstyle/2026/oct/19/the-one-change-that-worked-i-deleted-instagram-and-embraced-the-joys-of-a-truly-private-life",
@@ -550,8 +568,36 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+          "summary": "Researchers at Mass General Brigham have developed an AI system that uses a single facial photograph to estimate a cancer patient’s biological age and predict survival prospects. The tool is described as custom-built for patients diagnosed with cancer, though the supplied excerpt does not provide validation results or clinical-use details.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+              "source": "The Guardian Technology",
+              "headline": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+              "excerpt": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face. The AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system in Massachusetts, to estimate biological age and directly predict survival outcomes in patients diagnosed",
+              "imageUrl": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=560167757e3f4e4a3571ff33be6bb85d",
+              "imageAlt": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=560167757e3f4e4a3571ff33be6bb85d",
+          "imageAlt": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots",
-          "summary": "Hotels, restaurants and scenic destinations are restricting influencer photoshoots as filming and elaborate social-media setups overwhelm photogenic spaces. Responses range from limited filming hours to outright photography bans, including measures at the five-star Hotel du Cap-Eden-Roc.",
+          "summary": "Hotels, restaurants and tourist sites are responding to intrusive content creation with restricted filming hours and, in some cases, outright photography bans. The measures reflect a backlash at photogenic locations increasingly crowded by influencers and other visitors using phones, ring lights and staged shoots.",
           "links": [
             {
               "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots",
@@ -579,7 +625,7 @@
         },
         {
           "title": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
-          "summary": "Penguin Colony is an unusual but absorbing PC adventure from Origame Digital in which players guide a penguin across Antarctica. Its journey unfolds amid Nazis, suicidal figures and a search for an eldritch entity, revealing a world stranger than it initially appears.",
+          "summary": "Penguin Colony is an unusual PC adventure from Origame Digital in which a small penguin crosses Antarctica in search of an eldritch entity. The review describes an absorbing, increasingly strange journey featuring Nazis, bleak frozen landscapes and Lovecraftian horror.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors",
@@ -604,10 +650,213 @@
           "imageUrl": "https://i.guim.co.uk/img/media/a22ff356dab9c2094538405df58f27c9ef83c868/505_176_1088_870/master/1088.jpg?width=140&quality=85&auto=format&fit=max&s=240930a829215fdcbc916f2eca7b5e96",
           "imageAlt": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
           "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Raw sugar imports threaten local industry, Bukidnon planters warn",
+          "summary": "Bukidnon sugarcane growers warn that importing raw sugar to steady Philippine market prices could depress farm-gate prices and undermine domestic production. Pablo Lorenzo III of the Associated Bukidnon Sugarcane Farmers organisations strongly cautioned the government against the proposal.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2326647/raw-sugar-imports-threaten-local-industry-bukidnon-planters-warn",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Raw sugar imports threaten local industry, Bukidnon planters warn",
+              "excerpt": "QUEZON, BUKIDNON, Philippines — Importing raw sugar to stabilize domestic market prices risks collapsing local production and depressing farm-gate prices nationwide, an industry leader here warned. Pablo Lorenzo III, president and chair emeritus of the Associated Bukidnon Sugarcane Farmers Inc. and Associated Bukidnon Sugarcane Farmers Multi-Purpose Cooperative (ABSFI-ABSMPC), strongly cautioned the government against raw sugar",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/sugar-stock-08252021.jpg",
+              "imageAlt": "Raw sugar imports threaten local industry, Bukidnon planters warn",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/sugar-stock-08252021.jpg",
+          "imageAlt": "Raw sugar imports threaten local industry, Bukidnon planters warn",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Ex-DPWH official, now state witness, testifies against Romualdez",
+          "summary": "Former Department of Public Works and Highways official Henry Alcantara, now a state witness, testified against former House speaker Martin Romualdez before the Sandiganbayan Third Division. Alcantara previously served as district engineer for DPWH-Bulacan’s first district engineering office, and gave evidence during proceedings in the anti-graft court.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2326811/ex-dpwh-official-now-state-witness-testifies-against-romualdez",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Ex-DPWH official, now state witness, testifies against Romualdez",
+              "excerpt": "MANILA, Philippines — Henry Alcantara, a former Department of Public Works and Highways (DPWH) official who became a state witness, took the witness stand before the Sandiganbayan Third Division on Tuesday to testify against former House Speaker Martin Romualdez. Alcantara, formerly district engineer of DPWH-Bulacan’s first district engineering office, testified before the anti-graft court during the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/IMG_0711.jpeg",
+              "imageAlt": "Ex-DPWH official, now state witness, testifies against Romualdez",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/IMG_0711.jpeg",
+          "imageAlt": "Ex-DPWH official, now state witness, testifies against Romualdez",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Beyond the price tag: The hidden cost of rice in the Philippines",
+          "summary": "An analysis of Philippine rice argues that retail prices omit major environmental and social costs created during production. Building on Teodoro C. Mendoza’s 2021 True Cost Accounting study, it reassesses rice costs by considering climate, water, ecosystem and other externalities.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2326849/beyond-the-price-tag-the-hidden-cost-of-rice-in-the-philippines",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Beyond the price tag: The hidden cost of rice in the Philippines",
+              "excerpt": "Rice is commonly perceived as an expensive staple food in the Philippines. However, market prices often exclude substantial environmental and social externalities generated during production. Building on Teodoro C. Mendoza’s 2021 True Cost Accounting (TCA) study of Philippine rice production, this paper reassesses whether rice remains “expensive” when climate, water, ecosystem and other hidden costs",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/rice-price-increase-20oct2026.jpg",
+              "imageAlt": "Beyond the price tag: The hidden cost of rice in the Philippines",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/rice-price-increase-20oct2026.jpg",
+          "imageAlt": "Beyond the price tag: The hidden cost of rice in the Philippines",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Stronger cyberwarfare capabilities needed vs new threats – Gatchalian",
+          "summary": "The selected story calls for stronger Philippine cyberwarfare capabilities against new threats, while its attached report says officials and online trolls who defend China may embolden Beijing in the West Philippine Sea. Defense Secretary Gilbert Teodoro raised that concern during a hearing on the Department of National Defense’s 2027 budget.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2326766/pro-china-officials-online-trolls-embolden-beijing-to-make-daring-acts",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Pro-China officials, online trolls embolden Beijing to make daring acts",
+              "excerpt": "MANILA, Philippines – Philippine officials and alleged online trolls who defend China could be giving Beijing more confidence to make daring acts and statements amid the escalating tensions in the West Philippine Sea, Defense Secretary Gilbert “Gibo” Teodoro warned on Monday. During Monday’s hearing on the 2027 budget of the Department of National Defense (DND),",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/teodoro-14oct2026.jpg",
+              "imageAlt": "Pro-China officials, online trolls embolden Beijing to make daring acts",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/teodoro-14oct2026.jpg",
+          "imageAlt": "Pro-China officials, online trolls embolden Beijing to make daring acts",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Super Typhoon Rosal enters PAR; Signal No. 1 in 5 Luzon areas",
+          "summary": "The selected story says Super Typhoon Rosal entered the Philippine Area of Responsibility and Signal No. 1 was raised in five Luzon areas. Its attached weather report separately warns of moderate to heavy rain, lightning and strong winds in parts of Quezon and Laguna, while referring to rains associated with Super Typhoon Champi’s trough.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2326840/rainfall-thunderstorm-alert-in-parts-of-quezon-laguna-tuesday-morning",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Rainfall, thunderstorm alert in parts of Quezon, Laguna Tuesday morning",
+              "excerpt": "MANILA, Philippines — Moderate to heavy rain with lightning and strong winds are expected in parts of Quezon and Laguna on Tuesday morning, according to the state weather bureau. READ: Super Typhoon Champi’s trough to bring rains to parts of Luzon, Visayas In its thunderstorm advisory issued at 9:30 a.m., the Philippine Atmospheric, Geophysical, and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/11/weather-update-storm32.jpeg",
+              "imageAlt": "Rainfall, thunderstorm alert in parts of Quezon, Laguna Tuesday morning",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/11/weather-update-storm32.jpeg",
+          "imageAlt": "Rainfall, thunderstorm alert in parts of Quezon, Laguna Tuesday morning",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+          "summary": "Four female soldiers held for 15 months have been freed in a hostage swap. They had been stationed at Nahal Oz on the Gaza border, and their families had campaigned for their release after warnings about Hamas were reportedly ignored.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0",
+              "source": "Wall Street Journal",
+              "headline": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+              "excerpt": "The swap for four soldiers stationed on the border of the Gaza Strip at Nahal Oz follows 15 months of captivity and a campaign by their families.",
+              "imageUrl": "",
+              "imageAlt": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+          "summary": "Hackers breached part of OpenCode’s online platform, stole some users’ API keys and ran up charges on their AI accounts. The open-source coding agent, a popular alternative to Claude Code and Cursor, reportedly sought help from AI tools that repeatedly refused to inspect the malicious code.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+              "source": "TechCrunch",
+              "headline": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+              "excerpt": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
+              "imageAlt": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
+          "imageAlt": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+          "imageCredit": "TechCrunch"
         },
         {
           "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
-          "summary": "A new documentary examines the unusual legacy and continuing public fascination surrounding convicted fraudster Elizabeth Holmes. One account recalls Holmes appearing personable backstage at a health conference before adopting a markedly deeper voice and more serious persona on stage.",
+          "summary": "Elizabeth Holmes remains a subject of fascination in an Oscar-tipped documentary that examines the convicted entrepreneur’s unusual public persona and legacy. Physician David Agus recalls meeting a personable Holmes backstage before she adopted a markedly deeper voice and more serious manner on stage.",
           "links": [
             {
               "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
@@ -632,314 +881,56 @@
           "imageUrl": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=a87bb955799dc99704c62e34bbde3f3a",
           "imageAlt": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "INQToday: DFA summons Chinese envoy for ‘may easily win’ remark",
-          "summary": "The Philippine Department of Foreign Affairs summoned Chinese Ambassador Jing Quan after he said China “may easily win” a confrontation in the West Philippine Sea. President Ferdinand Marcos Jr. favoured diplomacy over declaring the envoy persona non grata, while a Senate resolution sought that designation and expressed serious concern over the remarks.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2326687/inqtoday-dfa-summons-chinese-envoy-for-may-easily-win-remark",
-              "source": "Philippine Daily Inquirer",
-              "headline": "INQToday: DFA summons Chinese envoy for ‘may easily win’ remark",
-              "excerpt": "DFA summons Chinese envoy over ‘may easily win’ West PH Sea remark The Department of Foreign Affairs (DFA) on Monday summoned Chinese Ambassador Jing Quan over his remarks that China “may easily win” in a confrontation in the West Philippine Sea. Marcos prefers diplomacy over declaring Chinese envoy persona non grata President Ferdinand Marcos Jr.",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/INQToday-TitleCard-19Oct2026.jpg",
-              "imageAlt": "INQToday: DFA summons Chinese envoy for ‘may easily win’ remark",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/senate-resolution-seeks-declare-china-jing-quan-persona-non-grata/",
-              "source": "Rappler World",
-              "headline": "Senate resolution seeks to declare Chinese envoy ‘persona non grata’",
-              "excerpt": "The resolution also expresses the Senate’s 'serious concern' over Chinese Ambassador Jing Quan's controversial remarks",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/07/marcos-jing-quan-july-21-2026-003.jpg",
-              "imageAlt": "Senate resolution seeks to declare Chinese envoy ‘persona non grata’",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/INQToday-TitleCard-19Oct2026.jpg",
-          "imageAlt": "INQToday: DFA summons Chinese envoy for ‘may easily win’ remark",
-          "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Remote Zamboanga del Sur school trains own responders",
-          "summary": "Pisompongan Integrated School in the remote town of Midsalip, Zamboanga del Sur, held a two-day emergency-response course for teachers, students and community volunteers. The training aimed to turn local participants into first responders because schools in geographically isolated and disadvantaged areas face heightened disaster risks.",
+          "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+          "summary": "Beijing has signalled willingness to engage with President Donald Trump’s team, including officials who have previously criticised China. China’s foreign minister spoke by phone with Secretary of State Marco Rubio, a longstanding critic of Beijing.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2326485/remote-zamboanga-del-sur-school-trains-own-responders",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Remote Zamboanga del Sur school trains own responders",
-              "excerpt": "PAGADIAN CITY, Zamboanga del Sur — Recognizing the heightened vulnerability of schools in Geographically Isolated and Disadvantaged Areas during disasters, the Pisompongan Integrated School (PIS) in Midsalip town, Zamboanga del Sur, conducted over the weekend a two-day emergency response training, transforming teachers, students, and community volunteers into first responders. Pisompongan Integrated School is 20 kilometers",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/emergency-response-techniques-Zamboanga-del-Sur-school-19October2026.jpg",
-              "imageAlt": "Remote Zamboanga del Sur school trains own responders",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/emergency-response-techniques-Zamboanga-del-Sur-school-19October2026.jpg",
-          "imageAlt": "Remote Zamboanga del Sur school trains own responders",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Agusan del Sur solon hits gov’t agricultural soil practices",
-          "summary": "Agusan del Sur Rep. Adolph Edward “Eddiebong” Plaza criticised what he called a systematic government failure to improve farm productivity through laboratory-tested soil application methods. He made the comments during a capacity-building event on soil health and local diagnostics attended by participants from several regions.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2326462/agusan-del-sur-solon-hits-govt-agricultural-soil-practices",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Agusan del Sur solon hits gov’t agricultural soil practices",
-              "excerpt": "PROSPERIDAD, AGUSAN DEL SUR — Agusan del Sur 2nd District Rep. Adolph Edward “Eddiebong” Plaza scored Monday morning the “systematic breakdown” of the government to improve agricultural productivity through proper laboratory-tested soil application methods. In his keynote speech during the Capacity Building on Soil Health and Local Diagnostics attended by participants from different regions, Plaza",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Agusan-del-Sur-2nd-District-Rep-Adolph-Edward-Eddiebong-Plaza-19October2026.jpg",
-              "imageAlt": "Agusan del Sur solon hits gov’t agricultural soil practices",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Agusan-del-Sur-2nd-District-Rep-Adolph-Edward-Eddiebong-Plaza-19October2026.jpg",
-          "imageAlt": "Agusan del Sur solon hits gov’t agricultural soil practices",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Stronger cyberwarfare capabilities needed vs new threats – Gatchalian",
-          "summary": "The story title says Senator Sherwin Gatchalian is calling for stronger cyberwarfare capabilities to meet new threats. Its sole linked excerpt instead reports Senator JV Ejercito’s request for a detailed accounting of the P90 billion AFP Modernization Program allocation, including releases, spending and project implementation.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2326504/jv-ejercito-seeks-accounting-of-p90-b-afp-modernization-funds",
-              "source": "Philippine Daily Inquirer",
-              "headline": "JV Ejercito seeks accounting of P90-B AFP modernization funds",
-              "excerpt": "MANILA, Philippines — Sen. JV Ejercito called for a detailed accounting of the P90-billion allocation for the Armed Forces of the Philippines (AFP) Modernization Program, particularly fund releases, obligations, expenditures, and project implementation. During the Senate Committee on Finance’s subpanel hearing on the proposed budget of the Department of National Defense (DND) on Monday, Ejercito",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/24sept2026-jvejer.jpg",
-              "imageAlt": "JV Ejercito seeks accounting of P90-B AFP modernization funds",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/24sept2026-jvejer.jpg",
-          "imageAlt": "JV Ejercito seeks accounting of P90-B AFP modernization funds",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "NIA rolls out anti-El Niño measures in Zamboanga Peninsula",
-          "summary": "The National Irrigation Administration in the Zamboanga Peninsula has ordered crop-diversification measures and administrative reforms to reduce El Niño’s impact on farmers. Regional manager June Nathaniel Plaza urged personnel to act proactively in helping agricultural communities prepare.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2326535/nia-rolls-out-anti-el-nino-measures-in-zamboanga-peninsula",
-              "source": "Philippine Daily Inquirer",
-              "headline": "NIA rolls out anti-El Niño measures in Zamboanga Peninsula",
-              "excerpt": "PAGADIAN CITY, Zamboanga del Sur — The National Irrigation Administration Region 9 (Zamboanga Peninsula) has instructed its personnel to implement crop diversification strategies and administrative reforms to cushion farmers from the effects of the El Niño phenomenon. Engr. June Nathaniel Plaza, NIA-9 regional manager, on Monday urged personnel to take proactive measures to help farmers",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/June-Nathaniel-Plaza-19October2026.jpg",
-              "imageAlt": "NIA rolls out anti-El Niño measures in Zamboanga Peninsula",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/June-Nathaniel-Plaza-19October2026.jpg",
-          "imageAlt": "NIA rolls out anti-El Niño measures in Zamboanga Peninsula",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "People are using AI to make their smart TVs dumb again",
-          "summary": "Some smart-TV owners are using AI agents to remove unwanted software and simplify their televisions. The effort is driven by frustration with advertising, tracking and sluggish built-in interfaces, with users seeking greater control over their devices.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-              "source": "TechCrunch",
-              "headline": "People are using AI to make their smart TVs dumb again",
-              "excerpt": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
-              "imageAlt": "People are using AI to make their smart TVs dumb again",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
-          "imageAlt": "People are using AI to make their smart TVs dumb again",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "summary": "Burning Man has turned 40 and is confronting what the Guardian describes as a midlife crisis. The Nevada desert festival, once associated with San Francisco’s eccentric underground, is ageing while attracting an influx of wealthy attendees, including technology billionaires.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/culture/2026/sep/13/burning-man-crowd-age",
-              "source": "The Guardian Technology",
-              "headline": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-              "excerpt": "The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-rich Burning Man , the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age. It’s not just the tech billionaires who show up to party, the <a href=\"https://journal.burningman.org/2016/06/news/brc-news/announcing-burner-express-air-burner-owne",
-              "imageUrl": "https://i.guim.co.uk/img/media/2a185d10158c6a0d64279ff5f05ce7829420462f/434_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=90632f2ec4dc2b13f436d08ed27feaea",
-              "imageAlt": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+              "source": "Wall Street Journal",
+              "headline": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+              "excerpt": "The Chinese foreign minister spoke by phone with Marco Rubio, the new secretary of state who has been a critic of Beijing.",
+              "imageUrl": "",
+              "imageAlt": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2a185d10158c6a0d64279ff5f05ce7829420462f/434_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=90632f2ec4dc2b13f436d08ed27feaea",
-          "imageAlt": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-          "summary": "The Guardian’s Saturday quiz asks readers which coffee chain was founded in London in 1971. Its broader questions range across political theory, jazz, geography, entertainment, popular culture and rewilding.",
+          "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+          "summary": "President Donald Trump says Colombia has agreed to accept deportees, ending a tariff standoff between the two countries. The dispute came as Trump made immigration an early priority of his second term, with ICE carrying out more than 900 arrests on Sunday.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz",
-              "source": "The Guardian Technology",
-              "headline": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-              "excerpt": "From Divine, Frank Fiegel and Helen Kane to the West Sussex estate pioneering rewilding, test your knowledge with the Saturday quiz 1 Which classic of political theory was dedicated to Lorenzo de Medici? 2 What is the only jazz act to win the Mercury Music prize? 3 Spanish is an official language of which African country? 4 What 2026 release is said to be the most expensive entertainment product ever crea",
-              "imageUrl": "https://i.guim.co.uk/img/media/2c184cfa6cd9ed17ee1220cbd1efbd11c17d423f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8bd3e34a8f9b4b62705d2265d2915ce4",
-              "imageAlt": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+              "source": "Wall Street Journal",
+              "headline": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+              "excerpt": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+              "imageUrl": "",
+              "imageAlt": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2c184cfa6cd9ed17ee1220cbd1efbd11c17d423f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8bd3e34a8f9b4b62705d2265d2915ce4",
-          "imageAlt": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-          "summary": "A Tech Transparency Project test using accounts presented as 13-year-olds reportedly downloaded 135 apps capable of generating non-consensual nude imagery despite Apple and Google parental controls. The issue has had real-world consequences, including an allegation that a Pennsylvania student used an AI image-editing app to make pornographic material from another student’s image.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
-              "source": "The Guardian Technology",
-              "headline": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-              "excerpt": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imagery In December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high school was making AI-generated pornographic material using the daughter’s image. He was using an artificial intelligence image-editing app called M",
-              "imageUrl": "https://i.guim.co.uk/img/media/1b5ce85190e6d89e4db3acb2c4d28f253a101ac3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c420bb546a20a703516798696d6332b8",
-              "imageAlt": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/1b5ce85190e6d89e4db3acb2c4d28f253a101ac3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c420bb546a20a703516798696d6332b8",
-          "imageAlt": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "The best toys and gifts for eight-year-olds, tested by eight-year-olds",
-          "summary": "Eight-year-old testers assessed a range of toys and gifts, including science kits, karaoke machines, shower sets and brain-boosting games. The guide focuses on presents that match children’s developing interests while still encouraging sustained, imaginative play.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk",
-              "source": "The Guardian Technology",
-              "headline": "The best toys and gifts for eight-year-olds, tested by eight-year-olds",
-              "excerpt": "From science kits to karaoke machines, shower sets to brain-boosting games, here are the presents our mini testers loved the most • The best gifts for seven-year-olds Eight is such a wonderful age. Kids are old enough to have their own interests and hobbies, but still young enough to get swept up in play and be absorbed for hours if you find the rig",
-              "imageUrl": "https://i.guim.co.uk/img/media/492e7e936d85b3a274cd73df683745e9d36e7bea/22_0_3956_3165/master/3956.jpg?width=140&quality=85&auto=format&fit=max&s=9b1d470261c76dc2925140b30c632e86",
-              "imageAlt": "The best toys and gifts for eight-year-olds, tested by eight-year-olds",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/492e7e936d85b3a274cd73df683745e9d36e7bea/22_0_3956_3165/master/3956.jpg?width=140&quality=85&auto=format&fit=max&s=9b1d470261c76dc2925140b30c632e86",
-          "imageAlt": "The best toys and gifts for eight-year-olds, tested by eight-year-olds",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
