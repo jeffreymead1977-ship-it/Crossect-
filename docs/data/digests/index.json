@@ -2,13 +2,13 @@
   "digests": [
     {
       "id": "today-expanded.json",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "title": "Daily Source Digest",
-      "generatedAt": "2026-10-21T12:30:49.997186",
+      "generatedAt": "2026-10-22T03:00:48.316619",
       "note": "Daily source-balanced news digest \u2014 morning update.",
-      "sectionCount": 5,
-      "storyCount": 26,
-      "sourceCount": 26,
+      "sectionCount": 4,
+      "storyCount": 21,
+      "sourceCount": 21,
       "sections": [
         {
           "name": "World / Geopolitics",
@@ -25,9 +25,33 @@
         {
           "name": "Asia Pacific",
           "storyCount": 5
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-expanded.json",
+      "date": "2026-10-22",
+      "title": "Daily Source Digest",
+      "generatedAt": "2026-10-22T03:00:48.316619",
+      "note": "Daily source-balanced news digest \u2014 morning update.",
+      "sectionCount": 4,
+      "storyCount": 21,
+      "sourceCount": 21,
+      "sections": [
+        {
+          "name": "World / Geopolitics",
+          "storyCount": 7
         },
         {
-          "name": "Business / Finance",
+          "name": "Australia",
+          "storyCount": 4
+        },
+        {
+          "name": "Technology",
+          "storyCount": 5
+        },
+        {
+          "name": "Asia Pacific",
           "storyCount": 5
         }
       ]
@@ -287,39 +311,7 @@
           "storyCount": 5
         }
       ]
-    },
-    {
-      "id": "2026-10-13-expanded.json",
-      "date": "2026-10-13",
-      "title": "Daily Source Digest",
-      "generatedAt": "2026-10-13T12:30:10.022186",
-      "note": "Daily source-balanced news digest \u2014 morning update.",
-      "sectionCount": 5,
-      "storyCount": 26,
-      "sourceCount": 26,
-      "sections": [
-        {
-          "name": "World / Geopolitics",
-          "storyCount": 7
-        },
-        {
-          "name": "Australia",
-          "storyCount": 4
-        },
-        {
-          "name": "Technology",
-          "storyCount": 5
-        },
-        {
-          "name": "Asia Pacific",
-          "storyCount": 5
-        },
-        {
-          "name": "Business / Finance",
-          "storyCount": 5
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-10-21"
+  "lastUpdated": "2026-10-22"
 }
