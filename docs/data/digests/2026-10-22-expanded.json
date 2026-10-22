@@ -2,24 +2,199 @@
   "id": "2026-10-22-expanded",
   "date": "2026-10-22",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-10-22T03:00:48.316619",
+  "generatedAt": "2026-10-22T12:30:47.491808",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-10-22T03:00:48",
+  "updatedAt": "2026-10-22T12:30:47",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
+          "title": "Trump Persuades Putin To Free Jailed American Teacher Who Was Taken On Biden’s Watch",
+          "summary": "Russia freed 74-year-old retired American teacher Stephen Hubbard after he spent more than four years imprisoned on charges of fighting as a mercenary for Ukraine. Daily Wire and Breitbart attributed the release to pressure from President Donald Trump, while Hubbard’s sister told the Washington Times that he was in disbelief after leaving custody.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Russia frees American Stephen Hubbard after 4 years behind bars",
+              "excerpt": "Russia frees American Stephen Hubbard after 4 years behind bars",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/russia-frees-american-horizontal-thumb-1792635334.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Russia frees American Stephen Hubbard after 4 years behind bars",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/europe/2026/10/21/russia-relents-frees-american-citizen-stephen-hubbard-after-trump-pressure/",
+              "source": "Breitbart",
+              "headline": "Russia Relents: Frees American Citizen Stephen Hubbard After Trump Pressure",
+              "excerpt": "Russia on Wednesday freed retired American teacher Stephen Hubbard who had been imprisoned on charges of fighting as a Ukraine mercenary, U.S. envoy Steve Witkoff said. The post Russia Relents: Frees American Citizen Stephen Hubbard After Trump Pressure appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Stephen-Hubbard-640x335.jpg",
+              "imageAlt": "Russia Relents: Frees American Citizen Stephen Hubbard After Trump Pressure",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/trump-persuades-putin-to-free-jailed-american-teacher-who-was-taken-on-bidens-watch",
+              "source": "Daily Wire",
+              "headline": "Trump Persuades Putin To Free Jailed American Teacher Who Was Taken On Biden’s Watch",
+              "excerpt": "President Donald Trump personally persuaded Russian dictator Vladimir Putin to free a 74-year-old retired American schoolteacher who spent more than four years locked up in Russia on mercenary charges. Stephen Hubbard walked out of Russian custody Wednesday and was waiting at a St. Petersburg airport for his flight back to the States, according to U.S. ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/Stephen-Hubbard.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump Persuades Putin To Free Jailed American Teacher Who Was Taken On Biden’s Watch",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/21/sister-american-stephen-hubbard-says-hes-disbelief-following-release/",
+              "source": "Washington Times",
+              "headline": "Sister of American Stephen Hubbard says he's in disbelief following release by Russia",
+              "excerpt": "The younger sister of Stephen Hubbard, the American freed Wednesday after spending more than four years in a Russian prison, said she spoke with her brother by phone and described him as being in disbelief.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/21/Russia_US_72869_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Sister of American Stephen Hubbard says he's in disbelief following release by Russia",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/russia-frees-american-horizontal-thumb-1792635334.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Russia frees American Stephen Hubbard after 4 years behind bars",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Ramaswamy Bets Millions On Bombshell Ad Featuring Dem’s Estranged Mother",
+          "summary": "Ohio Republican gubernatorial candidate Vivek Ramaswamy’s campaign is putting $4 million behind an attack ad featuring the estranged mother of Democratic rival Amy Acton, who calls her daughter a liar. The BBC reported that Acton has not seen her mother since her stepfather was charged with sexually abusing her during childhood, while Vance told Republicans to stop complaining about the ad.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+              "excerpt": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/64f8e290-cda0-11f1-96a8-11b361e3c25f.jpg",
+              "imageAlt": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/ramaswamy-bets-millions-on-bombshell-ad-featuring-dems-estranged-mother",
+              "source": "Daily Wire",
+              "headline": "Ramaswamy Bets Millions On Bombshell Ad Featuring Dem’s Estranged Mother",
+              "excerpt": "Ohio Republican gubernatorial candidate Vivek Ramaswamy is going all in on the explosive ad rocking the ugly race for the governor’s mansion. Ramaswamy’s campaign accepted responsibility and is pouring $4 million behind the bombshell ad, which features the estranged mother of his opponent, Ohio Democrat gubernatorial candidate Amy Acton, calling her daughter a “liar” and ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/Untitled-design-9.avif?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Ramaswamy Bets Millions On Bombshell Ad Featuring Dem’s Estranged Mother",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/64f8e290-cda0-11f1-96a8-11b361e3c25f.jpg",
+          "imageAlt": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Trump brings rally to South Carolina to boost Darline Graham in Senate race",
+          "summary": "President Trump travelled to South Carolina to rally support for Senator Darline Graham, the sister and successor of the late Lindsey Graham. Al Jazeera and the Washington Times described her contest against Democrat Annie Andrews as tightening in a state where Republicans have long held the advantage.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump heads to South Carolina to boost Senator Darline Graham in race",
+              "excerpt": "The race between the sister of late Senator Lindsey Graham and Democrat Annie Andrews has tightened in deep-red state.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad8f5aa-1792603562.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump heads to South Carolina to boost Senator Darline Graham in race",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/21/trump-brings-rally-south-carolina-boost-darline-graham-senate-race/",
+              "source": "Washington Times",
+              "headline": "Trump brings rally to South Carolina to boost Darline Graham in Senate race",
+              "excerpt": "President Trump traveled to South Carolina on Wednesday to boost U.S. Sen. Darline Graham, whose stumbles in her first campaign since replacing her late brother have Democratic voters hopeful - but not necessarily optimistic - that their candidate can break Republicans' grip on the state.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/21/Trump__9649_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump brings rally to South Carolina to boost Darline Graham in Senate race",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad8f5aa-1792603562.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump heads to South Carolina to boost Senator Darline Graham in race",
+          "imageCredit": "Al Jazeera"
+        },
+        {
           "title": "Putin Agrees To Three-Way Ukraine Peace Talks After Meeting With Trump Envoys",
-          "summary": "Russia and Ukraine have accepted a US proposal for trilateral talks aimed at ending the war, according to a White House official cited by the Daily Wire. The reports followed Russian President Vladimir Putin’s meeting with US envoy Steve Witkoff in St Petersburg; the BBC said Russia had announced it was ready to resume talks with Ukraine and the United States.",
+          "summary": "Russia and Ukraine accepted a US proposal for trilateral talks, according to a White House official cited by Daily Wire, after Trump envoys Steve Witkoff and Jared Kushner met Vladimir Putin in St Petersburg. The BBC said Moscow was ready in principle to resume negotiations, even as missiles struck Kyiv.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Russia says it is ready to resume talks with Ukraine and US to end war",
-              "excerpt": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
-              "imageAlt": "Russia says it is ready to resume talks with Ukraine and US to end war",
+              "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+              "excerpt": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
+              "imageAlt": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -52,317 +227,22 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
-          "imageAlt": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
+          "imageAlt": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "imageCredit": "BBC"
         },
         {
-          "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-          "summary": "Donald Trump plans to turn a 106-year-old public golf course in Washington, DC, into a tournament-capable course for professional players. The BBC reports that local golfers oppose the plan, which has become the subject of a legal dispute.",
+          "title": "Trump Administration Asks Supreme Court to Restart Big Bend Border Wall",
+          "summary": "The Trump administration asked the US Supreme Court to lift an order halting construction of a border wall through the Big Bend region of Texas. A federal judge had blocked the Texas-Mexico border project while the underlying legal dispute continues.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-              "excerpt": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3de/live/3d6a1550-cc92-11f1-94e6-edd4c60b2e1d.jpg",
-              "imageAlt": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3de/live/3d6a1550-cc92-11f1-94e6-edd4c60b2e1d.jpg",
-          "imageAlt": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "From The ABCs To Jihad? Probe Blows Lid Off What Schools Are Teaching Your Kids",
-          "summary": "House Republicans released findings from an investigation into several major school districts after complaints about teachers promoting anti-Israel views. The Daily Wire says the probe alleged that students were encouraged to join resistance against “settler colonialism” and were given a sanitized account of Islamic jihad.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/from-the-abcs-to-jihad-probe-blows-lid-off-what-schools-are-teaching-your-kids",
-              "source": "Daily Wire",
-              "headline": "From The ABCs To Jihad? Probe Blows Lid Off What Schools Are Teaching Your Kids",
-              "excerpt": "Reading, writing, arithmetic, and resistance? Students across the country have been taught to join the “resistance” against “settler colonialism” while being taught a sanitized view of Islamic jihad, a damning probe into major school districts revealed Wednesday. House Republicans released the findings of their investigation into multiple school districts after complaints of teachers pushing anti-Israel ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2239839907.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "From The ABCs To Jihad? Probe Blows Lid Off What Schools Are Teaching Your Kids",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2239839907.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "From The ABCs To Jihad? Probe Blows Lid Off What Schools Are Teaching Your Kids",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "The Hidden China Alliance Of America’s Most Powerful Law Firms",
-          "summary": "The Daily Wire reports that major US law firms coordinate with the Environmental Law Institute on climate activism while also representing energy companies in domestic climate litigation. The report alleges that ELI supports legal action against American energy companies and strengthens ties between the Chinese Communist Party and the global climate movement.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/the-hidden-china-alliance-of-americas-most-powerful-law-firms",
-              "source": "Daily Wire",
-              "headline": "The Hidden China Alliance Of America’s Most Powerful Law Firms",
-              "excerpt": "America’s largest and most prestigious law firms coordinate with a nonprofit that pushes climate activism and undermines U.S. energy sovereignty, even as they represent energy companies in domestic climate litigation. The Environmental Law Institute (ELI) incubates lawfare attacks on American energy companies, while strengthening ties between the Chinese Communist Party (CCP) and the global climate ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-1449431226.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "The Hidden China Alliance Of America’s Most Powerful Law Firms",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-1449431226.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "The Hidden China Alliance Of America’s Most Powerful Law Firms",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Abdul El-Sayed Assures Black Voters He’s Not Like The Other Arabs",
-          "summary": "Michigan Democratic Senate nominee Abdul El-Sayed discussed some Black Detroiters’ experiences with Arab-American business owners during an interview with The Root publisher Ashley Allison. According to the Daily Wire, he cited interactions through bulletproof glass, catcalling, and the sale of single cigarettes at gas stations and stores.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/abdul-el-sayed-assures-black-voters-hes-not-like-the-other-arabs",
-              "source": "Daily Wire",
-              "headline": "Abdul El-Sayed Assures Black Voters He’s Not Like The Other Arabs",
-              "excerpt": "Michigan Democratic Senate nominee Abdul El-Sayed said during a recent interview that some black Detroiters’ experiences with “somebody who looks like me” involve being “talked at from behind bulletproof glass,” catcalled, and sold single cigarettes at gas stations and stores. During an interview with “The Root” publisher Ashley Allison, El-Sayed said some black Detroiters’ “experience ...",
-              "imageUrl": "https://news.dailywire.com/wp-content/uploads/2026/10/GettyImages-2299271297.jpg?ar=16%3A9&crop=faces&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Abdul El-Sayed Assures Black Voters He’s Not Like The Other Arabs",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://news.dailywire.com/wp-content/uploads/2026/10/GettyImages-2299271297.jpg?ar=16%3A9&crop=faces&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Abdul El-Sayed Assures Black Voters He’s Not Like The Other Arabs",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Trump, Vance Offer Thousands To Americans Who Blow The Whistle On Fraud",
-          "summary": "President Donald Trump and Vice President JD Vance announced a $25 million whistleblower program offering rewards of up to $30,000. The Daily Wire reports that payments would go to people whose tips lead to fraud convictions or significant federal enforcement actions.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/trump-and-vance-want-americans-to-help-hunt-down-fraudsters-and-theyre-paying",
-              "source": "Daily Wire",
-              "headline": "Trump, Vance Offer Thousands To Americans Who Blow The Whistle On Fraud",
-              "excerpt": "WASHINGTON— President Donald Trump and Vice President JD Vance announced Tuesday the launch of a whistleblower program offering Americans up to $30,000 for tips that lead to fraud convictions or significant federal enforcement actions. The $25 million Fraud Whistleblower Incentive Program will reward tipsters whose information leads to a successful fraud conviction or a “significant ...",
-              "imageUrl": "https://news.dailywire.com/wp-content/uploads/2026/10/GettyImages-2300641719.jpg?ar=16%3A9&crop=faces&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Trump, Vance Offer Thousands To Americans Who Blow The Whistle On Fraud",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://news.dailywire.com/wp-content/uploads/2026/10/GettyImages-2300641719.jpg?ar=16%3A9&crop=faces&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Trump, Vance Offer Thousands To Americans Who Blow The Whistle On Fraud",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Meet The Prosecutor Giving Letitia James A Fight In Deep-Blue New York",
-          "summary": "Republican former federal prosecutor Saritha Komatireddy is challenging Democratic New York Attorney General Letitia James on public safety, government accountability, and prosecutorial independence. The Daily Wire says Komatireddy cited an internal campaign poll showing a single-digit race after a debate in which James struggled with a question.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/meet-the-prosecutor-giving-letitia-james-a-fight-in-deep-blue-new-york",
-              "source": "Daily Wire",
-              "headline": "Meet The Prosecutor Giving Letitia James A Fight In Deep-Blue New York",
-              "excerpt": "Republican Saritha Komatireddy is betting that New Yorkers are more interested in public safety, government accountability, and prosecutorial independence than partisan politics — and after a debate in which Democrat Attorney General Letitia James stumbled over a softball question, the former federal prosecutor is pointing to an internal campaign poll showing a single-digit race in ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2293703546.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Meet The Prosecutor Giving Letitia James A Fight In Deep-Blue New York",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2293703546.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Meet The Prosecutor Giving Letitia James A Fight In Deep-Blue New York",
-          "imageCredit": "Daily Wire"
-        }
-      ]
-    },
-    {
-      "name": "Australia",
-      "stories": [
-        {
-          "title": "Seven people charged over deadly alleged pack attack in Melbourne's west",
-          "summary": "Three boys and four men have been charged over an alleged pack attack in Melbourne’s south-west that killed a 24-year-old nearly two years ago. ABC News reports that the victim’s final moments were described in court as the seven defendants faced charges over the ambush.",
-          "links": [
-            {
-              "url": "https://www.abc.net.au/news/2026-10-21/lino-atem-wyndham-vale-court-stabbing/107294288",
-              "source": "ABC Australia",
-              "headline": "Seven people charged over deadly alleged pack attack in Melbourne's west",
-              "excerpt": "The final moments of a 24-year-old allegedly hacked to death in a pack attack in Melbourne's south-west are revealed in court as three boys and four men face charges almost two years after the ambush.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/9a76dd506db5bb7b8bbf1fd719005b4c?impolicy=wcms_crop_resize&cropH=537&cropW=955&xPos=0&yPos=84&width=862&height=485",
-              "imageAlt": "Seven people charged over deadly alleged pack attack in Melbourne's west",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/9a76dd506db5bb7b8bbf1fd719005b4c?impolicy=wcms_crop_resize&cropH=537&cropW=955&xPos=0&yPos=84&width=862&height=485",
-          "imageAlt": "Seven people charged over deadly alleged pack attack in Melbourne's west",
-          "imageCredit": "ABC News"
-        },
-        {
-          "title": "Smith injured, Australia facing crushing defeat in Gqeberha",
-          "summary": "Australia faced a likely defeat against South Africa in the second Test at St George’s Park in Gqeberha, with six wickets remaining and a 170-run deficit entering the final day. ABC News reports that Australia had been bowled out for 99 and forced to follow on, while Smith was injured.",
-          "links": [
-            {
-              "url": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438",
-              "source": "ABC Australia",
-              "headline": "Smith injured, Australia facing crushing defeat in Gqeberha",
-              "excerpt": "Australia has six wickets remaining and is still 170 runs behind South Africa with a day remaining in the second Test at St George's Park, after being bowled out for 99 and being forced to follow on.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a542dda02e5803c69ecad1ca6ff3947c?impolicy=wcms_crop_resize&cropH=1969&cropW=3500&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Smith injured, Australia facing crushing defeat in Gqeberha",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a542dda02e5803c69ecad1ca6ff3947c?impolicy=wcms_crop_resize&cropH=1969&cropW=3500&xPos=0&yPos=0&width=862&height=485",
-          "imageAlt": "Smith injured, Australia facing crushing defeat in Gqeberha",
-          "imageCredit": "ABC News"
-        },
-        {
-          "title": "Australian government sites among those exposed to 'critical' software flaw",
-          "summary": "Australian government websites are among those exposed to a critical flaw in a programming language that hackers are believed to be exploiting. ABC News reports that the Australian Signals Directorate joined other cyber agencies in urging organisations to apply fixes quickly.",
-          "links": [
-            {
-              "url": "https://www.abc.net.au/news/2026-10-22/php-vulnerabilities-cyber-asd/107294812",
-              "source": "ABC Australia",
-              "headline": "Australian government sites among those exposed to 'critical' software flaw",
-              "excerpt": "The Australian Signals Directorate is among global cyber agencies urging organisations to quickly act to fix flaws in a programming language that hackers are believed to be exploiting.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e21db981460f1d51702ac6ce60ec468c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-              "imageAlt": "Australian government sites among those exposed to 'critical' software flaw",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e21db981460f1d51702ac6ce60ec468c?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-          "imageAlt": "Australian government sites among those exposed to 'critical' software flaw",
-          "imageCredit": "ABC News"
-        },
-        {
-          "title": "Putin announces release of imprisoned US citizen during meeting with Witkoff",
-          "summary": "Russian President Vladimir Putin said 74-year-old US citizen Stephen Hubbard had been released from Russian custody. ABC News reports that Hubbard, detained since 2022, was at Pulkovo Airport in St Petersburg when Putin made the announcement during a meeting with US envoy Steve Witkoff.",
-          "links": [
-            {
-              "url": "https://www.abc.net.au/news/2026-10-21/russia-releases-us-citizen-stephen-hubbard-in-custody-since-2022/107294224",
-              "source": "ABC Australia",
-              "headline": "Putin announces release of imprisoned US citizen during meeting with Witkoff",
-              "excerpt": "Russian President Vladimir Putin has said that Stephen Hubbard, a 74-year-old US citizen held in Russian custody since 2022, had been freed and was at Pulkovo Airport in St Petersburg.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/f8c57a8ec4c93d24188794f6a2ac2d9e?impolicy=wcms_crop_resize&cropH=404&cropW=718&xPos=94&yPos=398&width=862&height=485",
-              "imageAlt": "Putin announces release of imprisoned US citizen during meeting with Witkoff",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/f8c57a8ec4c93d24188794f6a2ac2d9e?impolicy=wcms_crop_resize&cropH=404&cropW=718&xPos=94&yPos=398&width=862&height=485",
-          "imageAlt": "Putin announces release of imprisoned US citizen during meeting with Witkoff",
-          "imageCredit": "ABC News"
-        }
-      ]
-    },
-    {
-      "name": "Technology",
-      "stories": [
-        {
-          "title": "They want your blood",
-          "summary": "The Verge examines interest in blood as a route to “immortality.” Its presentation connects blood samples with graphs depicting health data.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
-              "source": "The Verge",
-              "headline": "They want your blood",
-              "excerpt": "<img alt=\"Illustration of vampire teeth with a drop of blood dripping down on top of a red background. Around the teeth are vials of blood and graphs depicting health data.\" data-caption=\"Your blood, for “immortality.” | Image: Cath Virgina / The Verge, Getty Images\" data-portal-copyright=\"Image: Cath Virgina / The Verge, Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268812_Everybody_wants_my_blood_CVirginia4.jpg?qual",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268812_Everybody_wants_my_blood_CVirginia4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-              "imageAlt": "They want your blood",
-              "outlet": "The Verge",
+              "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+              "excerpt": "US federal judge blocked wall's construction on Texas-Mexico border amid an ongoing legal battle.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26281666762924-1792639836.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+              "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
@@ -370,27 +250,45 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/immigration/2026/10/21/trump-admin-asks-supreme-court-restart-big-bend-border-wall/",
+              "source": "Breitbart",
+              "headline": "Trump Administration Asks Supreme Court to Restart Big Bend Border Wall",
+              "excerpt": "The Trump administration asked the Supreme Court on Wednesday to lift a court order that stopped border wall construction across the Big Bend region of Texas. The post Trump Administration Asks Supreme Court to Restart Big Bend Border Wall appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/border-wall-protesters-Big-Bend-National-Park-August28-2026-getty-640x335.jpg",
+              "imageAlt": "Trump Administration Asks Supreme Court to Restart Big Bend Border Wall",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268812_Everybody_wants_my_blood_CVirginia4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "imageAlt": "They want your blood",
-          "imageCredit": "The Verge"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26281666762924-1792639836.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "EA is shutting down BioWare",
-          "summary": "EA is shutting down BioWare, according to The Verge. The studio is known for role-playing games including Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic.",
+          "title": "Government websites in Europe go offline as companies update software flaw",
+          "summary": "Scores of European government websites, including the Dutch parliament’s lower-house homepage, were taken offline as a precaution after vulnerabilities were found in PHP. Al Jazeera reported that AI helped identify two flaws in the programming language, which is used by about 70 percent of websites.",
           "links": [
             {
-              "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-              "source": "The Verge",
-              "headline": "EA is shutting down BioWare",
-              "excerpt": "BioWare, the legendary studio behind RPGs like Mass Effect , Dragon Age , and Star Wars: Knights of the Old Republic , is shutting down, <a href=\"https://x.com/bioware/status/2",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gsh636en2u1g1.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-              "imageAlt": "EA is shutting down BioWare",
-              "outlet": "The Verge",
+              "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "World leaders warn of security flaws found in PHP programming language",
+              "excerpt": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad93379-1792619385.jpg?resize=1920%2C1440",
+              "imageAlt": "World leaders warn of security flaws found in PHP programming language",
+              "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
@@ -400,25 +298,43 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/21/government-websites-europe-go-offline-companies-update-software-flaw/",
+              "source": "Washington Times",
+              "headline": "Government websites in Europe go offline as companies update software flaw",
+              "excerpt": "The home page of the lower house of the Dutch parliament was among scores of government websites throughout Europe taken offline as a precautionary measure following the discovery of vulnerabilities in PHP, the programming language used to build websites.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/07/20/Europe_AliExpress_52588_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Government websites in Europe go offline as companies update software flaw",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gsh636en2u1g1.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-          "imageAlt": "EA is shutting down BioWare",
-          "imageCredit": "The Verge"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad93379-1792619385.jpg?resize=1920%2C1440",
+          "imageAlt": "World leaders warn of security flaws found in PHP programming language",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Will TP-Link really make routers in the US? Here’s what it told us",
-          "summary": "The Verge asked TP-Link whether it will manufacture routers in the United States. The report says the leading consumer Wi-Fi router maker is in a precarious position as it discusses possible US production.",
+          "title": "Non-essential U.S. personnel, families told to leave Saudi Arabia amid growing Houthi strikes",
+          "summary": "The US State Department ordered non-essential embassy staff and family members to leave Saudi Arabia as Houthi missile and drone attacks on Riyadh escalated. US officials said the Iran-aligned Yemeni group had increasingly engaged in hostilities against Saudi Arabia.",
           "links": [
             {
-              "url": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
-              "source": "The Verge",
-              "headline": "Will TP-Link really make routers in the US? Here’s what it told us",
-              "excerpt": "A TP-Link Wi-Fi 8 router. | Image: TP-Link TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in t",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tp-link-wifi-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-              "imageAlt": "Will TP-Link really make routers in the US? Here’s what it told us",
-              "outlet": "The Verge",
+              "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+              "excerpt": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad938b69c56d-1792620726.jpg?resize=1920%2C1440",
+              "imageAlt": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+              "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
@@ -426,205 +342,22 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tp-link-wifi-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "imageAlt": "Will TP-Link really make routers in the US? Here’s what it told us",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Apple Music has a new logo",
-          "summary": "Apple is officially launching an Apple Music rebrand, The Verge reports. A redesigned wordmark had appeared earlier in a video, and the service now has a new logo.",
-          "links": [
+            },
             {
-              "url": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
-              "source": "The Verge",
-              "headline": "Apple Music has a new logo",
-              "excerpt": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a vid",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-              "imageAlt": "Apple Music has a new logo",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
+              "url": "https://www.washingtontimes.com/news/2026/oct/21/non-essential-us-personnel-families-told-leave-saudi-arabia-amid/",
+              "source": "Washington Times",
+              "headline": "Non-essential U.S. personnel, families told to leave Saudi Arabia amid growing Houthi strikes",
+              "excerpt": "The State Department has ordered the departure of non-essential staff and family members from the U.S. embassy in Saudi Arabia due to escalating missile and drone attacks on Riyadh by the Iran-backed Houthi rebels of Yemen.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/17/Saudi_Arabia_Airport_Attack_8295__s919x597.jpg?f116dc4ec6b9c21e8749d6a3cccde91a12383662",
+              "imageAlt": "Non-essential U.S. personnel, families told to leave Saudi Arabia amid growing Houthi strikes",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_70284.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "imageAlt": "Apple Music has a new logo",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
-          "summary": "Samsung’s latest 55-inch Frame TV has fallen to its lowest price to date, according to The Verge. The television is being offered at a $400 discount.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale",
-              "source": "The Verge",
-              "headline": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
-              "excerpt": "Samsung’s latest version of The Frame TV is $400 off. | Image: Samsung If you want a TV but",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsungtheframetv2026.jpg.png?quality=90&strip=all&crop=0,5.1469678855588,100,89.706064228882",
-              "imageAlt": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsungtheframetv2026.jpg.png?quality=90&strip=all&crop=0,5.1469678855588,100,89.706064228882",
-          "imageAlt": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
-          "imageCredit": "The Verge"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "Probe into ‘lapses’ in Atong Ang’s ‘backdoor exit’ needed – Palace",
-          "summary": "Malacañang called for an investigation into possible lapses surrounding gambling tycoon Charlie “Atong” Ang’s reported departure from the Philippines. Interior Secretary Jonvic Remulla said Ang had left through the “backdoor,” while Justice Secretary Fredderick Vida maintained that Ang was still in the country, according to the Philippine Daily Inquirer.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2327764/probe-into-lapses-in-atong-angs-backdoor-exit-needed-palace",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Probe into ‘lapses’ in Atong Ang’s ‘backdoor exit’ needed – Palace",
-              "excerpt": "MANILA, Philippines — Malacañang on Wednesday called for an investigation on the possible lapses in the reported departure of gambling tycoon Charlie “Atong” Ang from the country. Interior and Local Government Secretary Jonvic Remulla earlier revealed that Ang had already left the country through the “backdoor.” Justice Secretary Fredderick Vida, however, maintained that Ang is still",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/03/1-Charlie-Atong-Tiu-Hay-Ang-032122-scaled.jpeg",
-              "imageAlt": "Probe into ‘lapses’ in Atong Ang’s ‘backdoor exit’ needed – Palace",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/03/1-Charlie-Atong-Tiu-Hay-Ang-032122-scaled.jpeg",
-          "imageAlt": "Probe into ‘lapses’ in Atong Ang’s ‘backdoor exit’ needed – Palace",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Super Typhoon Rosal slightly weakens off Aparri, Cagayan",
-          "summary": "Super Typhoon Rosal weakened slightly on Wednesday afternoon as it moved west-northwest east of Aparri, Cagayan. The Philippine Daily Inquirer attributed the update to the state weather bureau.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2327920/inqtoday-super-typhoon-rosal-slightly-weakens-off-aparri-cagayan",
-              "source": "Philippine Daily Inquirer",
-              "headline": "INQToday: Super Typhoon Rosal slightly weakens off Aparri, Cagayan",
-              "excerpt": "Super Typhoon Rosal slightly weakens off Aparri, Cagayan Super Typhoon Rosal slightly weakened on Wednesday afternoon, Oct. 21, as it moved west-northwestward east of Aparri, Cagayan, the state weather bureau said. Solgen to appeal SC ruling on 2024, 2025 budgets The Office of the Solicitor General will file a motion for reconsideration to the Supreme",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/INQToday-TitleCard-21Oct2026.jpg",
-              "imageAlt": "INQToday: Super Typhoon Rosal slightly weakens off Aparri, Cagayan",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/INQToday-TitleCard-21Oct2026.jpg",
-          "imageAlt": "INQToday: Super Typhoon Rosal slightly weakens off Aparri, Cagayan",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "2026 Galing Pook Awards: Marcos names 10 outstanding governance programs",
-          "summary": "President Ferdinand Marcos Jr. named 10 outstanding local governance programs during the 2026 Galing Pook Awards ceremony at Malacañan Palace. The Philippine Daily Inquirer reports that a national search assessed the programs on criteria including positive results, impact, and public participation.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2327853/2026-galing-pook-awards-marcos-names-10-outstanding-governance-programs",
-              "source": "Philippine Daily Inquirer",
-              "headline": "2026 Galing Pook Awards: Marcos names 10 outstanding governance programs",
-              "excerpt": "MANILA, Philippines — President Ferdinand Marcos Jr. on Wednesday named the 10 outstanding local governance programs at the 2026 Galing Pook Awards ceremony at Malacañan Palace. This year’s awardees were selected through a national search for local governance programs and evaluated based on the following criteria: positive results and impact; promotion of people’s participation and",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/2026-Galing-Pook-Awards.jpeg",
-              "imageAlt": "2026 Galing Pook Awards: Marcos names 10 outstanding governance programs",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/2026-Galing-Pook-Awards.jpeg",
-          "imageAlt": "2026 Galing Pook Awards: Marcos names 10 outstanding governance programs",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "COA flags P397M ‘duplicate,’ ‘overlapping’ AICS payments",
-          "summary": "The Commission on Audit found P397.45 million in duplicate, multiple, or overlapping payments to beneficiaries of the Assistance to Individuals in Crisis Situation program. According to the Philippine Daily Inquirer, the finding concerned the Department of Social Welfare and Development’s implementation of AICS and appeared in COA’s 2025 annual audit report.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2327916/coa-flags-p397m-duplicate-overlapping-aics-payments",
-              "source": "Philippine Daily Inquirer",
-              "headline": "COA flags P397M ‘duplicate,’ ‘overlapping’ AICS payments",
-              "excerpt": "MANILA, Philippines—The Commission on Audit (COA) said it found P397.45 million worth of “duplicate, multiple and overlapping” payments to beneficiaries of the Assistance to Individuals in Crisis Situation (AICS) program implemented by the Department of Social Welfare and Development (DSWD). In its 2025 annual audit report, COA noted that some beneficiaries of the AICS program",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/21oct2026-coa-e1792586343542.jpg",
-              "imageAlt": "COA flags P397M ‘duplicate,’ ‘overlapping’ AICS payments",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/21oct2026-coa-e1792586343542.jpg",
-          "imageAlt": "COA flags P397M ‘duplicate,’ ‘overlapping’ AICS payments",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "‘Flood control-like’ scandal flagged in DA’s 2027 proposed budget",
-          "summary": "Several red flags were raised over infrastructure projects in the Philippine Department of Agriculture’s proposed 2027 budget. The Philippine Daily Inquirer reports that coordinates for some farm-to-market roads pointed to dubious locations, including Benham Rise and the Celebes Sea, prompting a warning during a Senate hearing about a possible repeat of a flood-control-style scandal.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2327774/flood-control-like-scandal-flagged-in-das-2027-proposed-budget",
-              "source": "Philippine Daily Inquirer",
-              "headline": "‘Flood control-like’ scandal flagged in DA’s 2027 proposed budget",
-              "excerpt": "MANILA, Philippines — Several red flags were raised in the Department of Agriculture’s (DA) proposed budget for 2027, particularly in infrastructure projects like farm-to-market roads whose grid coordinates were found in dubious locations, including Benham Rise and the Celebes Sea. During a Senate hearing, People’s Budget Coalition Ken Abante warned of a possible repeat of",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/Department-of-Agriculture-10February2026.png",
-              "imageAlt": "‘Flood control-like’ scandal flagged in DA’s 2027 proposed budget",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
@@ -632,9 +365,553 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/Department-of-Agriculture-10February2026.png",
-          "imageAlt": "‘Flood control-like’ scandal flagged in DA’s 2027 proposed budget",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad938b69c56d-1792620726.jpg?resize=1920%2C1440",
+          "imageAlt": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+          "imageCredit": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "title": "It couldn’t happen here, until it does",
+          "summary": "A Spectator Australia commentary said France experienced its first calm night since the weekend after curfews were imposed in several places. The piece framed the preceding unrest as evidence that France has been too soft on crime.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/10/france-is-far-too-soft-on-crime/",
+              "source": "Spectator Australia",
+              "headline": "France is far too soft on crime",
+              "excerpt": "France experienced its first night of calm since the weekend on Monday evening after the imposition of curfews in several… The post France is far too soft on crime appeared first on The Spectator Australia . What to read next: The truth ab",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2300672180.jpg",
+              "imageAlt": "France is far too soft on crime",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2300672180.jpg",
+          "imageAlt": "France is far too soft on crime",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "Australians facing spike in data breaches after 'critical' flaw uncovered",
+          "summary": "Australians have been warned to expect more data breaches after critical software flaws were uncovered. ABC News reported that the vulnerabilities forced major government websites, education platforms and web-hosting services offline.",
+          "links": [
+            {
+              "url": "https://www.abc.net.au/news/2026-10-22/data-breach-warning-after-ai-uncovers-critical-php-flaw/107295516",
+              "source": "ABC Australia",
+              "headline": "Australians facing spike in data breaches after 'critical' flaw uncovered",
+              "excerpt": "Australians should expect an increase in future data breaches as a result of critical software flaws that have forced major government websites, education platforms and web hosts to go offline.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/9270f61ea46138ff34da7d2d1346ca1d?impolicy=wcms_crop_resize&cropH=1239&cropW=2200&xPos=0&yPos=150&width=862&height=485",
+              "imageAlt": "Australians facing spike in data breaches after 'critical' flaw uncovered",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/9270f61ea46138ff34da7d2d1346ca1d?impolicy=wcms_crop_resize&cropH=1239&cropW=2200&xPos=0&yPos=150&width=862&height=485",
+          "imageAlt": "Australians facing spike in data breaches after 'critical' flaw uncovered",
+          "imageCredit": "ABC News"
+        },
+        {
+          "title": "The tiny Australian town that goes head over heels for Dolly – video",
+          "summary": "Narromine, an agricultural town 430 kilometres north-west of Sydney, became “Dollymine” for its fifth annual Dolly Parton festival. The Guardian reported that dozens of impersonators appeared in elaborate costumes and a record 1,600 people attended, equivalent to nearly half the town’s population.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/music/video/2026/oct/12/the-tiny-australian-town-that-goes-head-over-heels-for-dolly-video",
+              "source": "The Guardian Australia",
+              "headline": "The tiny Australian town that goes head over heels for Dolly – video",
+              "excerpt": "Narromine, a quiet agricultural town 430km north-west of Sydney, transformed into 'Dollymine' for the fifth annual Dolly Parton festival over the weekend. Dozens of Dolly impersonators took to the runway in extravagant costumes, including Jerome, who recalled how 'old girls from bingo' asked him to join in: 'I said, sure, and they said, \"We're dressing you up.\"' The festival drew a record 1,600 attenders, nearly half the town’s population, among them Arcadia, who travelled from Brisbane and s",
+              "imageUrl": "https://i.guim.co.uk/img/media/fa6cc54e8e2810e3bab23bd4b93ee6fa1a5d9447/54_96_1026_820/master/1026.jpg?width=140&quality=85&auto=format&fit=max&s=363b429e30e12dc69296371e606613a4",
+              "imageAlt": "The tiny Australian town that goes head over heels for Dolly – video",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/fa6cc54e8e2810e3bab23bd4b93ee6fa1a5d9447/54_96_1026_820/master/1026.jpg?width=140&quality=85&auto=format&fit=max&s=363b429e30e12dc69296371e606613a4",
+          "imageAlt": "The tiny Australian town that goes head over heels for Dolly – video",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Could things get any worse for BBC Verify?",
+          "summary": "A Spectator Australia commentary revisited former BBC director-general Tim Davie’s expansion of BBC Verify, the broadcaster’s external fact-checking operation. Its headline questions whether the unit’s position has deteriorated further.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/10/could-things-get-any-worse-for-bbc-verify/",
+              "source": "Spectator Australia",
+              "headline": "Could things get any worse for BBC Verify?",
+              "excerpt": "When Tim Davie, the former BBC director-general, announced the expansion of BBC Verify, the organisation’s external fact-checking branch, last May,… The post Could things get any worse for BBC Verify? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/the-b",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/iStock_2253846745.jpg",
+              "imageAlt": "Could things get any worse for BBC Verify?",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/iStock_2253846745.jpg",
+          "imageAlt": "Could things get any worse for BBC Verify?",
+          "imageCredit": "Spectator Australia"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "stories": [
+        {
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "summary": "Walmart is introducing technology that lets AI agents make purchases for customers, with controls for spending and transaction approvals. TechCrunch contrasts that approach with Amazon, which is blocking AI shopping agents from its site.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+              "source": "TechCrunch",
+              "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+              "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
+              "imageAlt": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
+          "imageAlt": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "New York’s first microdrama film festival searches for its audience",
+          "summary": "New York’s first festival devoted to microdramas is trying to build an audience for the short-form film format. The Verge’s coverage includes the world premiere of Microhouse Films and Lifetime’s Reunion Island at the ALZA Festival.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+              "source": "The Verge",
+              "headline": "New York’s first microdrama film festival searches for its audience",
+              "excerpt": "<img alt=\"Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette standing on a red carpet together.\" data-caption=\"Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival. | Getty Images for Lifetime.\" data-portal-copyright=\"Getty Images for Lifetime.\" data-has-syndication-rights=\"1\" src=\"https://platform.thev",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300700160.jpg?quality=90&strip=all&crop=0%2C12.167027952572%2C100%2C75.665944094855&w=1200",
+              "imageAlt": "New York’s first microdrama film festival searches for its audience",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300700160.jpg?quality=90&strip=all&crop=0%2C12.167027952572%2C100%2C75.665944094855&w=1200",
+          "imageAlt": "New York’s first microdrama film festival searches for its audience",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
+          "summary": "Convicted fraudster Elizabeth Holmes invited filmmakers Nathan Fielder and Lance Oppenheim into her home for You Can See Everything in what she presented as an act of radical transparency. The Guardian places her alongside figures including Lance Armstrong, Imelda Marcos and Anthony Weiner who have invited cameras into their lives after public disgrace.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
+              "source": "The Guardian Technology",
+              "headline": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
+              "excerpt": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can See Everything, convicted fraudster Elizabeth Holmes invites film-makers Nathan Fielder and Lance Oppenheim into her home in a supposed act of “radical transparency”. Holmes is filmed, along with her partner, Billy Evans, and their two young children, in the weeks before st",
+              "imageUrl": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/433_0_1853_1484/master/1853.jpg?width=140&quality=85&auto=format&fit=max&s=f722bb903838b6f47bd70728bbadf69f",
+              "imageAlt": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/433_0_1853_1484/master/1853.jpg?width=140&quality=85&auto=format&fit=max&s=f722bb903838b6f47bd70728bbadf69f",
+          "imageAlt": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+          "summary": "Wikipedia volunteers and new recruits gathered for a “wikithon” aimed at adding more detail about the arms industry to the public encyclopedia. The Guardian notes that although anyone can edit Wikipedia, its content is maintained by a comparatively small community of roughly 270,000 active volunteers.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages",
+              "source": "The Guardian Technology",
+              "headline": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+              "excerpt": "Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively small number actually do. What is worthy of a digital page in the world’s largest and most-read encyclopedia is decided by roughly 270,000 active volunteers, enthusiasts who populate the online resource with information on anything from 19th-century medicine to TikTok trends. Inevitably, some subj",
+              "imageUrl": "https://i.guim.co.uk/img/media/402db70b11f213be53f7835a6b7b4d56dffa5190/516_0_4121_3297/master/4121.jpg?width=140&quality=85&auto=format&fit=max&s=0d9b0c618237426e4bee3513392f5e5e",
+              "imageAlt": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/402db70b11f213be53f7835a6b7b4d56dffa5190/516_0_4121_3297/master/4121.jpg?width=140&quality=85&auto=format&fit=max&s=0d9b0c618237426e4bee3513392f5e5e",
+          "imageAlt": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "UK watchdogs urged to tackle suicide social media content after death of girl, 14",
+          "summary": "The death of 14-year-old Adriana Retyte has renewed calls for UK watchdogs to act against high-risk suicide content on social-media feeds. The Guardian reported that a coroner found she had viewed suicide-related videos and images served through TikTok before taking her own life.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/oct/21/uk-watchdogs-urged-to-tackle-suicide-social-media-content-after-death-of-girl-14",
+              "source": "The Guardian Technology",
+              "headline": "UK watchdogs urged to tackle suicide social media content after death of girl, 14",
+              "excerpt": "Adriana Retyte took her own life after viewing ‘high-risk’ material on the video-sharing platform TikTok A 14-year-old schoolgirl’s death after TikTok served her suicide content has prompted renewed calls for UK watchdogs to crack down on “toxic” social media feeds. Adriana Retyte, a pupil at Langley school in Norfolk, took her own life after she viewed videos and images related to suicide on the video-sharing platform, according to a coroner who last week found her access to the",
+              "imageUrl": "https://i.guim.co.uk/img/media/9483c0b6ad81f5a1fd4e3f6e9910cbdca6feb3a8/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=97b46af580a07515370c0df7c0ae65ac",
+              "imageAlt": "UK watchdogs urged to tackle suicide social media content after death of girl, 14",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/9483c0b6ad81f5a1fd4e3f6e9910cbdca6feb3a8/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=97b46af580a07515370c0df7c0ae65ac",
+          "imageAlt": "UK watchdogs urged to tackle suicide social media content after death of girl, 14",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "58 seniors in Bukidnon reach 100 years old",
+          "summary": "Bukidnon’s provincial government has registered 58 centenarians under its cash-incentive program, which provides recurring financial support to the province’s oldest residents. Provincial social-welfare data cited by the Philippine Daily Inquirer said 36 of those registered were still alive.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2328127/58-seniors-in-bukidnon-reach-100-years-old",
+              "source": "Philippine Daily Inquirer",
+              "headline": "58 seniors in Bukidnon reach 100 years old",
+              "excerpt": "MARAMAG, Bukidnon — The Bukidnon provincial government has officially registered 58 centenarians under its Provincial Centenarian Cash Incentive Program as of Wednesday, honoring the province’s oldest living residents with recurring financial support. Data from the Provincial Social Welfare and Development Office (PSWDO) shows that 36 of the total recorded centenarians are still alive. Under the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/856148348_29995094726757603_854538527533510854_n.jpeg",
+              "imageAlt": "58 seniors in Bukidnon reach 100 years old",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/856148348_29995094726757603_854538527533510854_n.jpeg",
+          "imageAlt": "58 seniors in Bukidnon reach 100 years old",
           "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Quezon seeks origin status for iconic ‘lambanog’",
+          "summary": "Quezon province is pursuing Geographical Indication status for lambanog, its coconut-based liquor. The initiative is intended to protect the product’s identity and heritage, improve market recognition and create more business opportunities for local producers.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2328159/quezon-seeks-origin-status-for-iconic-lambanog",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Quezon seeks origin status for iconic ‘lambanog’",
+              "excerpt": "LUCENA CITY — Quezon province is pursuing Geographical Indication (GI) status for its iconic coconut-based liquor, lambanog, to protect the product’s identity and heritage, strengthen its market recognition, and expand business opportunities for local producers. The initiative, dubbed “Tatak at Pinagmulan: Tungo sa Geographical Indication (GI) ng Lambanog ng Quezon” (Brand and Origin: Toward a",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/1000030682.jpg",
+              "imageAlt": "Quezon seeks origin status for iconic ‘lambanog’",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/1000030682.jpg",
+          "imageAlt": "Quezon seeks origin status for iconic ‘lambanog’",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Palace: Probe lapses in Atong Ang case",
+          "summary": "Malacañang called for an investigation into possible lapses after Interior Secretary Jonvic Remulla said gambling tycoon Charlie “Atong” Ang had left the Philippines through a backdoor route. Justice Secretary Fredderick Vida disputed that account, saying Bureau of Immigration records indicated Ang was still in the country.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2328031/palace-probe-lapses-in-atong-ang-case",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Palace: Probe lapses in Atong Ang case",
+              "excerpt": "MANILA, Philippines — Malacañang on Wednesday called for an investigation into possible lapses following Interior Secretary Jonvic Remulla’s admission that gambling tycoon Charlie “Atong” Ang had managed to leave the country through the “backdoor.” Justice Secretary Fredderick Vida, however, insisted that Ang was still in the Philippines, based on Bureau of Immigration (BI) records. “Let’s",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/atong-ang-04june2026.jpg",
+              "imageAlt": "Palace: Probe lapses in Atong Ang case",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/06/atong-ang-04june2026.jpg",
+          "imageAlt": "Palace: Probe lapses in Atong Ang case",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Mangyan literacy program in Oriental Mindoro wins 2026 Galing Pook Award",
+          "summary": "Oriental Mindoro’s Zero Illiteracy and Innumeracy Program for Mangyan communities was named among 10 initiatives recognised by the 2026 Galing Pook Awards. The award highlights the province’s efforts to expand educational opportunities for Mangyan residents.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2328101/mangyan-literacy-program-in-oriental-mindoro-wins-2026-galing-pook-award",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Mangyan literacy program in Oriental Mindoro wins 2026 Galing Pook Award",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — The Zero Illiteracy and Innumeracy Program for Mangyan communities in Oriental Mindoro was among 10 local governance initiatives recognized by the 2026 Galing Pook Awards, which honor innovative programs that improve lives in local communities. The recognition puts a spotlight on Oriental Mindoro’s efforts to expand educational opportunities for Mangyan",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Screenshot-2026-10-22-at-6.32.52-AM.png",
+              "imageAlt": "Mangyan literacy program in Oriental Mindoro wins 2026 Galing Pook Award",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Screenshot-2026-10-22-at-6.32.52-AM.png",
+          "imageAlt": "Mangyan literacy program in Oriental Mindoro wins 2026 Galing Pook Award",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Witness: Zaldy Co’s alleged kickbacks have acknowledgment receipts",
+          "summary": "A witness told the Sandiganbayan Third Division that alleged kickbacks delivered to former Ako Bicol representative Zaldy Co from former public-works engineer Henry Alcantara were documented with acknowledgment receipts. Alcantara’s personal assistant, Wirt Walter Rosales, made the claim while testifying at former Speaker Martin’s bail hearing.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2328165/witness-zaldy-cos-alleged-kickbacks-have-acknowledgement-receipts",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Witness: Zaldy Co’s alleged kickbacks have acknowledgment receipts",
+              "excerpt": "MANILA, Philippines — The alleged kickbacks delivered to former Ako Bicol party-list Rep. Zaldy Co from former Public Works engineer Henry Alcantara have acknowledgment receipts (AR), a witness told the Sandiganbayan Third Division on Thursday. Wirt Walter Rosales, personal assistant of Alcantara, made this revelation when he testified during the bail hearing of former Speaker Martin",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Former-Ako-Bicol-Rep.-Elizaldy-Zaldy-Co-left-and-Former-Public-Works-District-Engineer-Henry-Alcantara-Photo-of-Co-from-his-Facebook-page-and-picture-of-Alcatara-from-Inquirers-John-Eric-Men.jpg",
+              "imageAlt": "Witness: Zaldy Co’s alleged kickbacks have acknowledgment receipts",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Former-Ako-Bicol-Rep.-Elizaldy-Zaldy-Co-left-and-Former-Public-Works-District-Engineer-Henry-Alcantara-Photo-of-Co-from-his-Facebook-page-and-picture-of-Alcatara-from-Inquirers-John-Eric-Men.jpg",
+          "imageAlt": "Witness: Zaldy Co’s alleged kickbacks have acknowledgment receipts",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+          "summary": "Rwanda-backed rebels entered Goma after overrunning Congolese troops, with residents reporting gunfire and shelling. UN officials estimated that more than one million displaced people were inside the city.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+              "source": "Wall Street Journal",
+              "headline": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "excerpt": "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops. U.N. officials estimated that more than one million displaced people were now inside the city.",
+              "imageUrl": "",
+              "imageAlt": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+          "summary": "GM plans to introduce a new central computer and electrical architecture with its fourth-generation electric-vehicle platform. TechCrunch reported that the system will debut in the Cadillac Escalade IQ in 2028 as GM seeks to compete with Tesla, Rivian and Chinese automakers.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+              "source": "TechCrunch",
+              "headline": "GM is betting compute and AI will help it compete with Chinese automakers",
+              "excerpt": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
+              "imageAlt": "GM is betting compute and AI will help it compete with Chinese automakers",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
+          "imageAlt": "GM is betting compute and AI will help it compete with Chinese automakers",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+          "summary": "Canadian publisher Boréal ended its relationship with Haitian Canadian novelist Thélyson Orélien after confirming that artificial intelligence helped produce his novel C’était ça ou mourir. Orélien, whose book was withdrawn from France’s Prix Goncourt list, has repeatedly denied using AI to write it.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+              "source": "The Guardian Technology",
+              "headline": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+              "excerpt": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (It Was Either That",
+              "imageUrl": "https://i.guim.co.uk/img/media/593ae3d39388056aa07d530e1309848d610c3078/1027_0_6240_4994/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=0dfce1b80329a4af69ed0cdc674a4cde",
+              "imageAlt": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/593ae3d39388056aa07d530e1309848d610c3078/1027_0_6240_4994/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=0dfce1b80329a4af69ed0cdc674a4cde",
+          "imageAlt": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Who Are the Israeli Hostages Released by Hamas?",
+          "summary": "Hamas released four Israeli hostages, all women soldiers, from the Gaza Strip. They were the second group freed under a fragile ceasefire agreement.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f",
+              "source": "Wall Street Journal",
+              "headline": "Who Are the Israeli Hostages Released by Hamas?",
+              "excerpt": "Israelis held their breath as four soldiers, all women, were released from the Gaza Strip, the second group to be freed as part of a fragile cease-fire agreement with Hamas.",
+              "imageUrl": "",
+              "imageAlt": "Who Are the Israeli Hostages Released by Hamas?",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+          "summary": "NATO mounted its first coordinated response to a suspected campaign of sabotage against critical infrastructure. The move followed the severing of another deep-sea cable in the Baltic Sea.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+              "source": "Wall Street Journal",
+              "headline": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "excerpt": "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.",
+              "imageUrl": "",
+              "imageAlt": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
