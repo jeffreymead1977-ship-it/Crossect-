@@ -1,25 +1,25 @@
 {
-  "id": "2026-10-25-expanded",
-  "date": "2026-10-25",
+  "id": "2026-10-26-expanded",
+  "date": "2026-10-26",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-10-25T12:30:39.984529",
+  "generatedAt": "2026-10-26T03:00:38.471628",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-10-25T12:30:39",
+  "updatedAt": "2026-10-26T03:00:38",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Suspected Arsonist Burns Down Hitler’s Eagle’s Nest",
-          "summary": "A fire almost completely destroyed the Kehlsteinhaus, the Bavarian Alps retreat built for Adolf Hitler and commonly known as the Eagle’s Nest. Police detained a 33-year-old German man on suspicion of setting the late-Friday blaze; Fox News reported that the suspect showed signs of mental illness.",
+          "title": "Venezuela’s opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+          "summary": "Venezuelan opposition leader and Nobel laureate María Corina Machado returned to Venezuela on Sunday, her first appearance in the country since December. BBC, the Washington Examiner and the Washington Times report that she had left shortly before the U.S. military deposed then-president Nicolás Maduro; Machado announced her return on social media with the message, “I am here. With you.”",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-              "excerpt": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
-              "imageAlt": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+              "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+              "excerpt": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
+              "imageAlt": "Venezuelan opposition leader María Machado returns after months in exile",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -33,12 +33,197 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/10/24/suspect-detained-as-fire-ravages-hitlers-eagles-nest-mountain-retreat/",
+              "url": "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
+              "source": "Washington Examiner",
+              "headline": "Venezuela’s opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+              "excerpt": "CARACAS, Venezuela (AP) — Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela on Sunday for the first time since December, about a month before the U.S. military deposed the country’s then-President Nicolás Maduro. Machado announced her arrival on social media, writing “I am here. With you.” Meanwhile, Venezuela’s opposition leader Edmundo Gonzalez […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26145784873457.jpg?w=1024",
+              "imageAlt": "Venezuela’s opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/25/venezuelas-opposition-leader-machado-returns-months-exile-doubts/",
+              "source": "Washington Times",
+              "headline": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+              "excerpt": "Opposition leader and Nobel laureate Maria Corina Machado reappeared in Venezuela Sunday for the first time since December, about a month before the U.S. military deposed the country's then-President Nicolas Maduro.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/25/Venezuela_Opposition_13336_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
+          "imageAlt": "Venezuelan opposition leader María Machado returns after months in exile",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Israel presses ahead with West Bank operation as election approaches",
+          "summary": "Israel continued a large military operation in the occupied West Bank ahead of Tuesday’s election, while announcing election-day crossing closures and restrictions on Palestinian workers. The Washington Times says the operation followed a gun attack that killed two Israeli soldiers and wounded three, and has displaced hundreds of Palestinians while sharply restricting movement.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+              "excerpt": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg",
+              "imageAlt": "Israel to close West Bank crossings on election day as crackdown escalates",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/25/israel-presses-ahead-west-bank-operation-election-approaches/",
+              "source": "Washington Times",
+              "headline": "Israel presses ahead with West Bank operation as election approaches",
+              "excerpt": "The Israeli military pressed ahead with a massive military operation in the occupied West Bank on Sunday that has displaced hundreds of Palestinians and placed major restrictions on movement in response to a gun attack last week that killed two Israeli soldiers and wounded three others.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/24/APTOPIX_Israel_Palestinians_West_Bank_54932_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Israel presses ahead with West Bank operation as election approaches",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg",
+          "imageAlt": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Top secrets come spilling out",
+          "summary": "A CNN opinion piece recalls how British analysts deciphered the 1917 Zimmermann Telegram, in which Germany proposed unrestricted submarine warfare and sought Mexico’s support if the United States entered the First World War. Its publication caused a sensation and helped propel the United States into the conflict against Germany.",
+          "links": [
+            {
+              "url": "https://www.cnn.com/2023/04/16/opinions/top-secrets-come-spilling-out-opinion-column-galant/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Top secrets come spilling out",
+              "excerpt": "In 1917, British analysts deciphered a coded message the German foreign minister sent to one of his country's diplomats vowing to begin \"unrestricted submarine warfare\" and seeking to win over Mexico with a promise to \"reconquer the lost territory in Texas, New Mexico and Arizona\" if the US entered the world war. When it became public, the Zimmerman Telegram caused a sensation, helping propel the US into the conflict against Germany.",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
+              "imageAlt": "Top secrets come spilling out",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
+          "imageAlt": "Top secrets come spilling out",
+          "imageCredit": "CNN"
+        },
+        {
+          "title": "Blanche declines to say if Trump ordered him to file Alaska election lawsuit",
+          "summary": "Attorney General Todd Blanche defended a Justice Department lawsuit over Alaska’s Senate race, saying the government wanted to determine whether voters could be confused because two candidates share the name Dan Sullivan. The Washington Examiner reports that Blanche declined to explain whether President Donald Trump ordered the filing, while Breitbart highlighted his heated response to CNN host Dana Bash’s questioning about the suit.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/clips/2026/10/25/ag-blanche-to-cnns-bash-you-are-not-being-a-real-person-that-is-crazy/",
               "source": "Breitbart",
-              "headline": "Suspect Detained After Fire Ravages Hitler's Eagle's Nest Mountain Retreat",
-              "excerpt": "The retreat known as the Eagle's Nest built for Adolf Hitler in the Bavarian Alps was almost completely destroyed in a fire, and work to extinguish the blaze was still in progress Saturday, authorities said. A suspect was detained. The post Suspect Detained After Fire Ravages Hitler’s Eagle’s Nest Mountain Retreat appeared first on <a rel=\"nofo",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2301218831-2-640x335.jpg",
-              "imageAlt": "Suspect Detained After Fire Ravages Hitler's Eagle's Nest Mountain Retreat",
+              "headline": "AG Blanche to CNN's Bash: You Are Not Being a Real Person, 'That Is Crazy'",
+              "excerpt": "Sunday on CNN’s “State of the Union,” Attorney General Todd Blanche told anchor Dana Bash she is being “crazy” asking if President Donald Trump wants to overturn the midterm elections while discussing the Department of Justice suing over the Alaska The post AG Blanche to CNN’s Bash: You Are Not Being a Real Person, ‘That Is Crazy’ appeared first",
+              "imageUrl": "https://media.breitbart.com/media/2026/08/Blanche8222026-1-640x335.jpg",
+              "imageAlt": "AG Blanche to CNN's Bash: You Are Not Being a Real Person, 'That Is Crazy'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/oct/25/ag-todd-blanche-election-lawsuit-determine-alaskan-voters-picked/",
+              "source": "Washington Times",
+              "headline": "Are Alaska voters confused by two Dan Sullivans? DOJ sues to find out, Blanche says",
+              "excerpt": "The Trump administration wants to ensure Alaskans are not misled into voting for the wrong Dan Sullivan in the U.S. Senate race, Attorney General Todd Blanche said Sunday in two interviews defending a new federal lawsuit.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/25/Trump_81244_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Are Alaska voters confused by two Dan Sullivans? DOJ sues to find out, Blanche says",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/justice/4779007/blanche-trump-order-alaska-election-lawsuit/",
+              "source": "Washington Examiner",
+              "headline": "Blanche declines to say if Trump ordered him to file Alaska election lawsuit",
+              "excerpt": "Attorney General Todd Blanche declined to detail the circumstances leading up to the Department of Justice filing a lawsuit challenging the results of Alaska’s Senate race because two candidates share the same name. Blanche appeared on two different programs Sunday morning and was asked about President Donald Trump saying he directed the DOJ to pursue […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26251656156281.jpg?w=1024",
+              "imageAlt": "Blanche declines to say if Trump ordered him to file Alaska election lawsuit",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/08/Blanche8222026-1-640x335.jpg",
+          "imageAlt": "AG Blanche to CNN's Bash: You Are Not Being a Real Person, 'That Is Crazy'",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Meghan Markle Responds To Shocking Accusations Against Estranged Father",
+          "summary": "Meghan, Duchess of Sussex, said she was “deeply distressed” by allegations that child sexual abuse material was found at the home of her estranged father. The Daily Wire says her half-brother claimed to have found hundreds or thousands of images, while Breitbart reports that Meghan said she had known about allegations involving her father since 2018.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/entertainment/2026/10/24/meghan-markle-says-she-has-known-about-child-porn-allegations-against-her-father-since-2018/",
+              "source": "Breitbart",
+              "headline": "Meghan Markle Says She Has Known About Child Porn Allegations Against Her Father Since 2018",
+              "excerpt": "Meghan the Duchess of Sussex's response to a probe into child sex abuse material found at her father's former home has drawn scrutiny. The post Meghan Markle Says She Has Known About Child Porn Allegations Against Her Father Since 2018 appeared first on Breitbart</a",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2300494623-640x335.jpg",
+              "imageAlt": "Meghan Markle Says She Has Known About Child Porn Allegations Against Her Father Since 2018",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -51,12 +236,40 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/suspected-arsonist-burns-down-hitlers-eagles-nest",
+              "url": "https://www.dailywire.com/news/meghan-markle-responds-to-shocking-accusations-against-estranged-father",
               "source": "Daily Wire",
-              "headline": "Suspected Arsonist Burns Down Hitler’s Eagle’s Nest",
-              "excerpt": "A fire tore through the Kehlsteinhaus — the Alpine retreat built for Adolf Hitler and known in the English-speaking world as the Eagle’s Nest — late Friday, leaving the building almost entirely gutted and a 33-year-old man under arrest on suspicion of setting it. Emergency dispatchers in southeastern Bavaria were alerted around 9:15 p.m. local ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2301233735-2.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Suspected Arsonist Burns Down Hitler’s Eagle’s Nest",
+              "headline": "Meghan Markle Responds To Shocking Accusations Against Estranged Father",
+              "excerpt": "Meghan Markle has responded to the allegations that her estranged father was in possession of child pornography, after her half-brother revealed this week that he found “hundreds, if not thousands” of child sexual abuse images in their father’s home. Markle said she is “deeply distressed” over the matter, but hopes people now understand why she ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2024/03/Meghan-Markle-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Meghan Markle Responds To Shocking Accusations Against Estranged Father",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2300494623-640x335.jpg",
+          "imageAlt": "Meghan Markle Says She Has Known About Child Porn Allegations Against Her Father Since 2018",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Vanessa Trump Announces She Is Cancer-Free After Breast Cancer Battle",
+          "summary": "Vanessa Trump announced that she is cancer-free after treatment for breast cancer. The BBC says she disclosed her diagnosis six months earlier, while the Daily Wire reports that the 48-year-old shared the update in a video posted by her daughter Kai.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/vanessa-trump-announces-she-is-cancer-free-after-breast-cancer-battle",
+              "source": "Daily Wire",
+              "headline": "Vanessa Trump Announces She Is Cancer-Free After Breast Cancer Battle",
+              "excerpt": "Vanessa Trump, the ex-wife of Donald Trump Jr., announced Friday that she is cancer-free, sharing the encouraging news months after revealing her breast cancer diagnosis and undergoing treatment. “I am finally cancer-free,” Trump, 48, said in a video shared by her daughter Kai Trump, 19. After her mother delivered the news, Kai leaned over to ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2268071483.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Vanessa Trump Announces She Is Cancer-Free After Breast Cancer Battle",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -69,309 +282,75 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps",
-              "source": "Fox News",
-              "headline": "Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps",
-              "excerpt": "A 33-year-old suspect allegedly set fire to the Eagle's Nest, Adolf Hitler's mountain retreat in the Bavarian Alps, and showed signs of mental illness.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/eagles-nest-fire-bavarian-alps.jpg?ve=1&tl=1",
-              "imageAlt": "Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
-          "imageAlt": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Trump DOJ Sues Alaska Over ‘Spoiler’ Candidate In Crucial Senate Race",
-          "summary": "The US Justice Department has sued to delay certification of Alaska’s Senate election, arguing that two candidates named Dan Sullivan could confuse voters. One is Republican Senator Dan Sullivan and the other is retired teacher Daniel J. Sullivan Jr., whose presence the administration says may have affected the incumbent’s result.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Trump administration sues to block certification of upcoming Alaska election",
-              "excerpt": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/056d/live/ef958c50-cef9-11f1-a7ee-733e71112503.jpg",
-              "imageAlt": "Trump administration sues to block certification of upcoming Alaska election",
+              "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+              "excerpt": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg",
+              "imageAlt": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.dailywire.com/news/trump-doj-sues-alaska-over-spoiler-candidate-in-crucial-senate-race",
-              "source": "Daily Wire",
-              "headline": "Trump DOJ Sues Alaska Over ‘Spoiler’ Candidate In Crucial Senate Race",
-              "excerpt": "The Trump administration is asking a federal court to delay certification of Alaska’s U.S. Senate election if voter confusion involving a similarly named candidate could have cost Republican Sen. Dan Sullivan a victory. The Justice Department filed the lawsuit Thursday, arguing that Daniel J. Sullivan Jr., a retired teacher running against the incumbent, could mislead ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2024/03/Dan-Sullivan-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Trump DOJ Sues Alaska Over ‘Spoiler’ Candidate In Crucial Senate Race",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/056d/live/ef958c50-cef9-11f1-a7ee-733e71112503.jpg",
-          "imageAlt": "Trump administration sues to block certification of upcoming Alaska election",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Trump floats booting White House press from briefing room",
-          "summary": "President Trump said he may move White House reporters out of the briefing room at 1600 Pennsylvania Avenue. The suggestion comes amid a fractious period between the president and the journalists who cover him.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Trump says he may move White House press corps to new location",
-              "excerpt": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69d826df-1775773407.jpg?resize=1920%2C1440",
-              "imageAlt": "Trump says he may move White House press corps to new location",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/24/trump-floats-booting-white-house-press-briefing-room/",
-              "source": "Washington Times",
-              "headline": "Trump floats booting White House press from briefing room",
-              "excerpt": "President Trump suggested he may evict White House reporters from the press briefing room inside 1600 Pennsylvania Ave.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/21/Trump_News_Media_9_661_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump floats booting White House press from briefing room",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69d826df-1775773407.jpg?resize=1920%2C1440",
-          "imageAlt": "Trump says he may move White House press corps to new location",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Susan Collins Gets An Unexpected Lifeline From Trump In Senate Nail-Biter",
-          "summary": "The White House is easing tariffs on some Canadian goods from 30 October while placing tariffs on other products, including carpets and valves. The change could help Maine Republican Senator Susan Collins in her re-election campaign, after trade tensions with Canada strained relations with Maine’s largest trading partner.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-              "excerpt": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
-              "imageAlt": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2268071483.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Vanessa Trump Announces She Is Cancer-Free After Breast Cancer Battle",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "‘No Enemy Dares to Threaten Me’: Ilhan Omar Shares Video with Somali Diss Track",
+          "summary": "Representative Ilhan Omar posted a short video of herself walking beside a Minnesota lake with a Somali rap song playing in the background. Breitbart and the Daily Wire report that translations of the song describe threatening, humiliating or subjugating enemies, framing the apparently casual video as carrying a hostile message.",
+          "links": [
             {
-              "url": "https://www.dailywire.com/news/susan-collins-gets-an-unexpected-lifeline-from-trump-in-senate-nail-biter",
+              "url": "https://www.dailywire.com/news/the-violent-message-hidden-in-ilhan-omars-innocent-looking-video",
               "source": "Daily Wire",
-              "headline": "Susan Collins Gets An Unexpected Lifeline From Trump In Senate Nail-Biter",
-              "excerpt": "President Donald Trump is lifting tariffs on some Canadian goods, a move that could boost Maine Republican Sen. Susan Collins in her reelection fight, though the White House said it would impose tariffs on other Canadian products, including valves and carpets, in their place. The trade war with Canada, Maine’s biggest trade partner, has strained ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2019/12/GettyImages-1158825043.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Susan Collins Gets An Unexpected Lifeline From Trump In Senate Nail-Biter",
+              "headline": "The Violent Message Hidden In Ilhan Omar’s Innocent-Looking Video",
+              "excerpt": "A Somali rap song that Rep. Ilhan Omar (D-MN), whose real name is “Ilhan Nur Said Elmi,” according to the Department of Justice, set as background music in a video of a lakeside stroll threatens to punish, humiliate, and subjugate the singer’s enemies, according to an English translation. The 27-second clip, which Omar posted to ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-1164448205-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "The Violent Message Hidden In Ilhan Omar’s Innocent-Looking Video",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
-          "imageAlt": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "First Nigerian Ebola Case in Current Outbreak Is Swiss National, Country Confirms",
-          "summary": "Switzerland says the first person diagnosed in Nigeria with Ebola Bundibugyo during the current regional outbreak is a Ugandan-born Swiss national who had not recently visited the Democratic Republic of Congo. Separately, a 65-year-old woman became the second Ebola patient to die in Kenya and was a close relative of the first victim, who had travelled from the DRC.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-              "excerpt": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
-              "imageAlt": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.breitbart.com/africa/2026/10/23/first-nigerian-ebola-case-in-current-outbreak-is-swiss-national-country-confirms/",
+              "url": "https://www.breitbart.com/politics/2026/10/24/no-enemy-dares-to-threaten-me-ilhan-omar-shares-video-with-somali-diss-track/",
               "source": "Breitbart",
-              "headline": "First Nigerian Ebola Case in Current Outbreak Is Swiss National, Country Confirms",
-              "excerpt": "The government of Switzerland confirmed on Friday that a woman identified as the first patient in Nigeria diagnosed with Ebola Bundibugyo in the context of an ongoing outbreak in the Democratic Republic of Congo (DRC) is an Ugandan-born Swiss national who had not recently visited the DRC. The post First Nigerian Ebola Case in Current Out",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/AP26294382070249-640x335.jpg",
-              "imageAlt": "First Nigerian Ebola Case in Current Outbreak Is Swiss National, Country Confirms",
+              "headline": "‘No Enemy Dares to Threaten Me’: Ilhan Omar Shares Video with Somali Diss Track",
+              "excerpt": "Rep. Ilhan Omar (D-MN) posted a video Friday of herself walking beside a Minnesota lake with her husband, set to a Somali song the lyrics of which describe humiliating enemies and making them “suffer and cry,” according to a translation obtained by the Washington Free Beacon. The post ‘No Enemy Dares to Threaten Me’: Ilhan Omar Shares Vide",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Ilhan-Omar-Yelling-640x335.jpeg",
+              "imageAlt": "‘No Enemy Dares to Threaten Me’: Ilhan Omar Shares Video with Somali Diss Track",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
-          "imageAlt": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Hero Dad Who Took Down School Shooter Reveals What He Heard Before Pulling The Trigger",
-          "summary": "Kaylub Giamanco, a 36-year-old carpenter whose two daughters attend Silver Rail Elementary School in Bend, Oregon, fatally shot a teenager attacking the school. Police credited him with preventing further deaths after the gunman killed three children and a teacher, while Giamanco said he remains haunted by those he could not save.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-              "excerpt": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg",
-              "imageAlt": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.dailywire.com/news/hero-dad-who-took-down-school-shooter-reveals-what-he-heard-before-pulling-the-trigger",
-              "source": "Daily Wire",
-              "headline": "Hero Dad Who Took Down School Shooter Reveals What He Heard Before Pulling The Trigger",
-              "excerpt": "The father who fatally shot a gunman attacking an Oregon elementary school says he is haunted by the children he could not save, even as police credit him with preventing further deaths. Kaylub Giamanco, a 36-year-old carpenter and father of two girls who attend Silver Rail Elementary School in Bend, Oregon, detailed the October 15 ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/IMG_8877.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Hero Dad Who Took Down School Shooter Reveals What He Heard Before Pulling The Trigger",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg",
-          "imageAlt": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "1 person rescued from collapsed building in Kenya as others remain missing",
-          "summary": "Rescuers pulled people from the rubble after a multi-storey building under construction collapsed in Nairobi, with five people still reported missing. Police launched a search for the building’s owner and contractor after its floors pancaked.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Two rescued after Nairobi building collapse with five still missing",
-              "excerpt": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
-              "imageAlt": "Two rescued after Nairobi building collapse with five still missing",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/24/1-person-rescued-collapsed-building-kenya-others-remain-missing/",
-              "source": "Washington Times",
-              "headline": "1 person rescued from collapsed building in Kenya as others remain missing",
-              "excerpt": "One person was rescued from the rubble of a building that collapsed in the capital, Nairobi, more than 24 hours after its floors pancaked, police said Saturday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/23/Kenya_Building_Collapse_79293_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "1 person rescued from collapsed building in Kenya as others remain missing",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
-          "imageAlt": "Two rescued after Nairobi building collapse with five still missing",
-          "imageCredit": "BBC"
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-1164448205-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "The Violent Message Hidden In Ilhan Omar’s Innocent-Looking Video",
+          "imageCredit": "Daily Wire"
         }
       ]
     },
@@ -379,16 +358,16 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Brace yourselves for Gulfgate…",
-          "summary": "This digest entry is titled “Brace yourselves for Gulfgate…”, but its linked Spectator Australia article has a different headline and subject. The available link discusses the history of Australia’s concept of a fair and reasonable wage and argues that the country’s “fair go” was never exclusively libertarian.",
+          "title": "What Spinoza got right – and wrong",
+          "summary": "The selected story is titled “What Spinoza got right – and wrong,” but its attached Spectator Australia item carries the headline “Let the Brethren hand out.” That excerpt discusses renewed debate over religious freedom in Australia and Allegra Spender’s proposal to restrict exemptions used by religious schools when making decisions.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/10/australias-fair-go-was-never-exclusively-libertarian/",
+              "url": "https://www.spectator.com.au/2026/10/let-the-brethren-hand-out/",
               "source": "Spectator Australia",
-              "headline": "Australia’s fair go was never exclusively libertarian",
-              "excerpt": "In 1907, Justice Henry Bourne Higgins was asked to decide what constituted a fair and reasonable wage for an Australian… The post Australia’s fair go was never exclusively libertarian appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/france-is-b",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2024/01/GettyImages-1911733948.jpg",
-              "imageAlt": "Australia’s fair go was never exclusively libertarian",
+              "headline": "Let the Brethren hand out",
+              "excerpt": "Australia is talking about religious freedom again. Allegra Spender wants to restrict the exemptions under which religious schools make decisions… The post Let the Brethren hand out appeared first on The Spectator Australia . What to read next: Go directly to jai",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/clegg-24-oct_post.jpg",
+              "imageAlt": "Let the Brethren hand out",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -402,21 +381,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2024/01/GettyImages-1911733948.jpg",
-          "imageAlt": "Australia’s fair go was never exclusively libertarian",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/clegg-24-oct_post.jpg",
+          "imageAlt": "Let the Brethren hand out",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "WA government to consider return of Perth to Albany passenger rail service",
-          "summary": "The Western Australian government will consider restoring passenger rail between Perth and Albany, a service scrapped in 1978. Several previous revival attempts failed, but the proposed state buyback of WA’s freight rail network has created a new opportunity.",
+          "title": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
+          "summary": "ABC News presents a stark economic outlook for 2027, arguing that ordinary workers will bear the costs. The report points to large, prominent institutions cutting staff or clashing with employees as the economy pours resources into job-changing technology that is both enormous and potentially brittle.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-10-25/return-of-passenger-rail-perth-to-albany-to-be-considered/107296124",
+              "url": "https://www.abc.net.au/news/2026-10-26/economic-outlook-for-2027-feels-shaky/107299778",
               "source": "ABC Australia",
-              "headline": "WA government to consider return of Perth to Albany passenger rail service",
-              "excerpt": "There have been several attempts to bring back the passenger line since it was scrapped in 1978. None has been successful, but with the proposed WA government buyback of the state's freight rail network, a new opportunity has presented itself.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ff112e6429214de3e9cf5c1d66a6feff?impolicy=wcms_crop_resize&cropH=564&cropW=1002&xPos=0&yPos=26&width=862&height=485",
-              "imageAlt": "WA government to consider return of Perth to Albany passenger rail service",
+              "headline": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
+              "excerpt": "Right now, some of our largest and most visible institutions are trimming or fighting with employees, in an economy that's powered by the build-out of job-changing technology that is both gargantuan and seemingly brittle at the same time.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/44afee941376b92b142cc4da8c148ec4?impolicy=wcms_crop_resize&cropH=1438&cropW=2556&xPos=29&yPos=285&width=862&height=485",
+              "imageAlt": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -431,21 +410,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/ff112e6429214de3e9cf5c1d66a6feff?impolicy=wcms_crop_resize&cropH=564&cropW=1002&xPos=0&yPos=26&width=862&height=485",
-          "imageAlt": "WA government to consider return of Perth to Albany passenger rail service",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/44afee941376b92b142cc4da8c148ec4?impolicy=wcms_crop_resize&cropH=1438&cropW=2556&xPos=29&yPos=285&width=862&height=485",
+          "imageAlt": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
           "imageCredit": "ABC News"
         },
         {
-          "title": "DanceRites 2026: First Nations performers bring story, song and dance to Sydney Opera House – in pictures",
-          "summary": "More than 300 First Nations dancers gathered at the Sydney Opera House forecourt for the ninth DanceRites festival. The national competition celebrates Aboriginal and Torres Strait Islander culture at Tubowgule, the Dharug name for Bennelong Point, and this year honoured Aunty Rhoda Roberts, who died in March.",
+          "title": "Victoria's election will be historic, no matter who wins. Here's why – video",
+          "summary": "Victoria’s 2026 election is shaping up as a consequential and uncertain contest after 12 years of Labor government. The Guardian says corruption allegations burden Labor, but the Coalition still faces a difficult path amid three-way contests involving a resurgent One Nation and the Greens.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/gallery/2026/oct/25/dancerites-2026-first-nations-performers-bring-story-song-and-dance-to-sydney-opera-house-in-pictures",
+              "url": "https://www.theguardian.com/australia-news/video/2026/oct/22/victorias-election-will-be-historic-no-matter-who-wins-heres-why-video",
               "source": "The Guardian Australia",
-              "headline": "DanceRites 2026: First Nations performers bring story, song and dance to Sydney Opera House – in pictures",
-              "excerpt": "More 300 First Nations dancers gathered at the Sydney Opera House forecourt over the weekend to compete in the DanceRites festival, a national competition celebrating Aboriginal and Torres Strait Islander culture. Now in its ninth year, DanceRites invites everyone to join in the living history of Tubowgule (the Dharug word for Bennelong Point), a place where story, song and dance has long been shared. This year’s event honoured the legacy of Aunty Rhoda Roberts, who died in March and was form",
-              "imageUrl": "https://i.guim.co.uk/img/media/91caa01529b60eafe0883de5590e418b449a6b73/383_0_2509_2007/master/2509.jpg?width=140&quality=85&auto=format&fit=max&s=fd5adfe1fda054f4a168f56b566d1505",
-              "imageAlt": "DanceRites 2026: First Nations performers bring story, song and dance to Sydney Opera House – in pictures",
+              "headline": "Victoria's election will be historic, no matter who wins. Here's why – video",
+              "excerpt": "The 2026 Victorian election is shaping up to be a consequential state poll for the nation. Despite going up against a 12-year-old Labor government beleaguered by allegations of corruption, the Coalition's road to victory is fraught with challenges. With three-way races across the state, involving a resurgent One Nation and the Greens, the outcome is far from certain. Guardian Australia's Victorian state correspondent Benita Kolovos presents this guide to winning the election <a href=\"http",
+              "imageUrl": "https://i.guim.co.uk/img/media/5a8f081a96045e3bd4c4237e778a927e50ba436d/778_0_4556_3647/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=aba77128fa9dbb33f058aaf08daa99b2",
+              "imageAlt": "Victoria's election will be historic, no matter who wins. Here's why – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -459,21 +438,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/91caa01529b60eafe0883de5590e418b449a6b73/383_0_2509_2007/master/2509.jpg?width=140&quality=85&auto=format&fit=max&s=fd5adfe1fda054f4a168f56b566d1505",
-          "imageAlt": "DanceRites 2026: First Nations performers bring story, song and dance to Sydney Opera House – in pictures",
+          "imageUrl": "https://i.guim.co.uk/img/media/5a8f081a96045e3bd4c4237e778a927e50ba436d/778_0_4556_3647/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=aba77128fa9dbb33f058aaf08daa99b2",
+          "imageAlt": "Victoria's election will be historic, no matter who wins. Here's why – video",
           "imageCredit": "The Guardian"
         },
         {
           "title": "There is a logic to a tourist tax",
-          "summary": "This digest entry is titled “There is a logic to a tourist tax”, but the linked Spectator Australia item concerns an unrelated advice column. Its available excerpt discusses a reader’s concern about lavatory use while staying with younger friends, so the supplied source material does not support a factual account of a tourist tax.",
+          "summary": "The selected story is titled “There is a logic to a tourist tax,” but the attached Spectator Australia item is headlined “France is a warning – our civilisation is not immortal.” Its excerpt asks whether the unrest the author describes in France could also happen in Australia, without providing details about a tourist tax.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/10/dear-mary-how-can-i-stop-my-husband-from-telling-the-wrong-anecdotes/",
+              "url": "https://www.spectator.com.au/2026/10/france-is-a-warning-our-civilisation-is-not-immortal/",
               "source": "Spectator Australia",
-              "headline": "Dear Mary: How can I stop my husband from telling the wrong anecdotes?",
-              "excerpt": "Q. My problem concerns lavatory usage. I have been staying with some new, much younger, friends who live on the… The post Dear Mary: How can I stop my husband from telling the wrong anecdotes? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.c",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2262615600.AskMary.jpg",
-              "imageAlt": "Dear Mary: How can I stop my husband from telling the wrong anecdotes?",
+              "headline": "France is a warning – our civilisation is not immortal",
+              "excerpt": "Could it happen here? I suppose that’s the underlying thought many of us have had as we watch France burn.… The post France is a warning – our civilisation is not immortal appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/there-is-no-such-thing-",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2300707613.DouglasMurrayjpg.jpg",
+              "imageAlt": "France is a warning – our civilisation is not immortal",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -487,8 +466,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2262615600.AskMary.jpg",
-          "imageAlt": "Dear Mary: How can I stop my husband from telling the wrong anecdotes?",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2300707613.DouglasMurrayjpg.jpg",
+          "imageAlt": "France is a warning – our civilisation is not immortal",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -497,22 +476,50 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-          "summary": "A study found that, when forced to choose between election candidates, Grok overwhelmingly recommended Republicans while OpenAI’s GPT favoured Democrats. The two AI models disagreed in more than 90% of nearly 500 races examined.",
+          "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+          "summary": "Two critical vulnerabilities in PHP threatened widespread disruption because the programming language is used across much of the web. TechCrunch says the episode was a near miss for the internet and warns that it is unlikely to be the last major software security scare.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+              "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
               "source": "TechCrunch",
-              "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-              "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-              "imageAlt": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+              "headline": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+              "excerpt": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
+              "imageAlt": "PHP-ocalypse: How two critical web bugs almost broke the internet",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
+          "imageAlt": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+          "summary": "The Verge reviewed the Crkd Nitro Deck 2 accessory for Nintendo’s Switch 2 and found it narrowly missed being good. The review’s accompanying description identifies the central ergonomic problem: the right analog stick and face buttons sit too close together for comfort.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+              "source": "The Verge",
+              "headline": "This Switch 2 sequel accessory was a few millimeters away from being good",
+              "excerpt": "<img alt=\"A close-up photo of the Crkd Nitro Deck 2, showing the face buttons and right analog stick. The Nintendo Switch 2 console held by the accessory is displaying the game Echo Weaver.\" data-caption=\"The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge\" data-portal-copyright=\"Photo: Cameron Faulkner / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&str",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "imageAlt": "This Switch 2 sequel accessory was a few millimeters away from being good",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
@@ -520,105 +527,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-          "imageAlt": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
-          "summary": "The AI boom is fuelling disputes between residents and companies building energy-hungry data centres. In Newport, South Wales, local opposition has focused on the effect of a vast facility on nearby homes, including views from residents’ gardens.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
-              "source": "The Guardian Technology",
-              "headline": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
-              "excerpt": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky – but almost his entire view is blotted out by a vast expanse of",
-              "imageUrl": "https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=140&quality=85&auto=format&fit=max&s=5f523b9df1901844cac4ef7d3a723b2b",
-              "imageAlt": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=140&quality=85&auto=format&fit=max&s=5f523b9df1901844cac4ef7d3a723b2b",
-          "imageAlt": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Chris Davies obituary",
-          "summary": "Academic metallurgist Chris Davies has died of cancer at 61. Much of his research was conducted at Monash University after he moved from the UK to Australia in the early 1990s, and his work on light metals and alloys helped improve understanding and control of material properties during manufacturing.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/science/2026/oct/15/chris-davies-obituary",
-              "source": "The Guardian Technology",
-              "headline": "Chris Davies obituary",
-              "excerpt": "My brother, Chris Davies, who has died aged 61 of cancer, was an academic metallurgist whose research helped to bring about a better understanding of why metals behave the way they do – and therefore how to control their properties during manufacturing. Much of his research took place at Monash University in Australia, where he had moved from the UK in the early 1990s. In particular, his work on the behaviour of light metals and alloys fed into the development of lighter, stronger and m",
-              "imageUrl": "https://i.guim.co.uk/img/media/248c9489d86c42f1c1509df51d857cd680095b15/69_50_415_332/master/415.jpg?width=140&quality=85&auto=format&fit=max&s=a0f2b11007e1eafe8b15e03ca52ce333",
-              "imageAlt": "Chris Davies obituary",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/248c9489d86c42f1c1509df51d857cd680095b15/69_50_415_332/master/415.jpg?width=140&quality=85&auto=format&fit=max&s=a0f2b11007e1eafe8b15e03ca52ce333",
-          "imageAlt": "Chris Davies obituary",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-          "summary": "The Verge argues that a future touchscreen MacBook could learn from Lenovo’s Yoga 9n. The Lenovo is described as an expensive workstation laptop whose 2-in-1 design also lets it fold into a tent mode.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-              "source": "The Verge",
-              "headline": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-              "excerpt": "<img alt=\"A 2-in-1 Lenovo Yoga 9n laptop folded over into tent mode.\" data-caption=\"The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge\" data-portal-copyright=\"Photo: Antonio G. Di Benedetto / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100\"",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-              "imageAlt": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified); article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "imageAlt": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "imageAlt": "This Switch 2 sequel accessory was a few millimeters away from being good",
           "imageCredit": "The Verge"
         },
         {
-          "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-          "summary": "John Healey has pledged to use Wednesday’s budget to apply artificial intelligence to Britain’s security and prosperity amid a global technology arms race. The linked Guardian report says the government plans to commit hundreds of millions of pounds to a distinctively British approach to AI.",
+          "title": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
+          "summary": "Lara Croft has turned 30, marking three decades since the Tomb Raider character first appeared. The Guardian looks beyond the franchise’s celebrated moments to revisit its biggest missteps, noting that more than 100 million Tomb Raider games have been sold.",
           "links": [
             {
-              "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+              "url": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
               "source": "The Guardian Technology",
-              "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-              "excerpt": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI John Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race. As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British",
-              "imageUrl": "https://i.guim.co.uk/img/media/13ceb52a43f1b6771519d70b1eb33680ffbec0ca/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=7c0a9667489edbac502049a00339a656",
-              "imageAlt": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+              "headline": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
+              "excerpt": "We all know the highlights of the tomb raider’s storied career – but what about the lowlights? We dig deep to unearth the archaeologist’s less glorious moments Happy birthday, Lara! This month marks 30 years since Ms Croft first swan-dived into our lives with her unique blend of athletic prowess, archaeological expertise and giant knockers. More than 100 million Tomb Raider games have been sold since. We all remember the good times: the bold design and sheer playability of the original",
+              "imageUrl": "https://i.guim.co.uk/img/media/52d12c6f6e9a9ca0bfdbcedb816f2d4b81c60040/263_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=29ebe3d7dc5f2777dc2a280789f5176a",
+              "imageAlt": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -632,8 +555,64 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/13ceb52a43f1b6771519d70b1eb33680ffbec0ca/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=7c0a9667489edbac502049a00339a656",
-          "imageAlt": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+          "imageUrl": "https://i.guim.co.uk/img/media/52d12c6f6e9a9ca0bfdbcedb816f2d4b81c60040/263_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=29ebe3d7dc5f2777dc2a280789f5176a",
+          "imageAlt": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
+          "summary": "Storylines featuring Margot Robbie in the Australian soap Neighbours are being recut with AI into short vertical episodes designed for phones. The Guardian reports that other cast members say they were not consulted, prompting debate about performers’ rights and the wider reuse of television archives for new content.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
+              "source": "The Guardian Technology",
+              "headline": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
+              "excerpt": "Robbie’s storylines in the famous soap will be recut into vertical micro-episodes to be watched on phones – but her fellow cast members say they haven’t been consulted The long-running Australian soap opera Neighbours is being recut with AI into a microdrama designed to be watched on phones, sparking a debate among the show’s actors and the industry over the wider implications of television archives being mined for new content. RoseBerry Media, which specialises in making “vertica",
+              "imageUrl": "https://i.guim.co.uk/img/media/d850e2558a1a7a06e667ee3f5cb1123b8775f401/189_38_3166_2534/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=fe1cb9d1d4badba3ae6fe42f103a214a",
+              "imageAlt": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/d850e2558a1a7a06e667ee3f5cb1123b8775f401/189_38_3166_2534/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=fe1cb9d1d4badba3ae6fe42f103a214a",
+          "imageAlt": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Cookie theft: how fraudsters get the digital key to your accounts",
+          "summary": "Fraudsters are targeting session cookies, the digital credentials that keep users logged in, to hijack active online accounts. The Guardian explains that a victim can close a laptop after banking or other online tasks without realising an attacker has captured the session and may still be able to access the account.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+              "source": "The Guardian Technology",
+              "headline": "Cookie theft: how fraudsters get the digital key to your accounts",
+              "excerpt": "‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts You’ve had a busy morning of life admin, logging into various accounts to check balances and make payments. At the end of a productive few hours you close your laptop and move on to your next job. What you don’t know is that fraudsters have hijacked your session with the bank and are now able to access your account. You are the victim of cookie theft, which belongs to a type of fraud known",
+              "imageUrl": "https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=140&quality=85&auto=format&fit=max&s=900c5b114da3d3054d71f6f77be6e3db",
+              "imageAlt": "Cookie theft: how fraudsters get the digital key to your accounts",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=140&quality=85&auto=format&fit=max&s=900c5b114da3d3054d71f6f77be6e3db",
+          "imageAlt": "Cookie theft: how fraudsters get the digital key to your accounts",
           "imageCredit": "The Guardian"
         }
       ]
@@ -642,44 +621,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Electricity bring modern education to tribal community in Bukidnon",
-          "summary": "More than 300 Indigenous students in a remote village in San Fernando, Bukidnon, gained electricity at Salumayag Tigwahanon Integrated School. Officials energised the school on 23 October under the Philippine government’s Last Mile Schools Electrification Program, with National Electrification Administration chief Antonio Mariano Almeda leading the switch-on.",
+          "title": "Libanan says new social worker posts to bolster 4Ps implementation",
+          "summary": "Philippine House Minority Leader Marcelino Libanan welcomed the creation of 5,703 permanent social-worker positions to strengthen frontline delivery of the Pantawid Pamilyang Pilipino Program. The Philippine Daily Inquirer reports that the Department of Budget and Management approved the posts for the government’s flagship anti-poverty program, known as 4Ps.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2329641/electricity-bring-modern-education-to-tribal-community-in-bukidnon",
+              "url": "https://newsinfo.inquirer.net/2329975/libanan-says-new-social-worker-posts-to-bolster-4ps-implementation",
               "source": "Philippine Daily Inquirer",
-              "headline": "Electricity bring modern education to tribal community in Bukidnon",
-              "excerpt": "SAN FERNANDO, BUKIDNON, Philippines — Over 300 indigenous learners in a remote village here now have access to modern education after officials energized the Salumayag Tigwahanon Integrated School under the national government’s Last Mile Schools Electrification Program on Friday, Oct. 23, 2026. National Electrification Administration (NEA) Administrator Antonio Mariano Almeda led the ceremonial switch-on in",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/858643753_1464199705642396_762410264562723293_n.jpg",
-              "imageAlt": "Electricity bring modern education to tribal community in Bukidnon",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/858643753_1464199705642396_762410264562723293_n.jpg",
-          "imageAlt": "Electricity bring modern education to tribal community in Bukidnon",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "ITCZ to bring rains, thunderstorms over much of PH on Sunday",
-          "summary": "This digest entry is titled as a forecast of rain and thunderstorms from the intertropical convergence zone, but its linked Inquirer report covers dam levels instead. Pagasa said water levels rose slightly over 24 hours at five monitored dams: La Mesa, Ambuklao, Binga, Pantabangan and one additional dam not visible in the supplied excerpt.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2329780/5-ph-dams-see-slight-rise-in-water-levels",
-              "source": "Philippine Daily Inquirer",
-              "headline": "5 PH dams see slight rise in water levels",
-              "excerpt": "MANILA, Philippines — Water levels at five of the nine monitored dams across the country slightly increased in the past 24 hours, according to the state weather bureau. In its latest update issued at 8 a.m., the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said the dams were La Mesa, Ambuklao, Binga, Pantabangan and",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/11aug2026-lamesa2.jpg",
-              "imageAlt": "5 PH dams see slight rise in water levels",
+              "headline": "Libanan says new social worker posts to bolster 4Ps implementation",
+              "excerpt": "MANILA, Philippines – House Minority Leader Marcelino Libanan on Sunday welcomed the creation of over 5,000 regular social worker posts to reinforce frontline operations for the government’s flagship anti-poverty Pantawid Pamilyang Pilipino Program (4Ps). In a statement, the 4Ps party-list representative said that the Department of Budget and Management’s (DBM) approval of 5,703 regular posts",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2023/12/House-Minority-Leader-Marcelino-Libanan.png",
+              "imageAlt": "Libanan says new social worker posts to bolster 4Ps implementation",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -688,82 +639,26 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/11aug2026-lamesa2.jpg",
-          "imageAlt": "5 PH dams see slight rise in water levels",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2023/12/House-Minority-Leader-Marcelino-Libanan.png",
+          "imageAlt": "Libanan says new social worker posts to bolster 4Ps implementation",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Lacson: Keep cameras rolling during budget talks suspension",
-          "summary": "Senator Panfilo Lacson proposed keeping livestream cameras running even when bicameral budget deliberations are suspended. He said the measure could deter corruption from entering the Philippines’ 2027 budget during pauses in the conference committee’s proceedings.",
+          "title": "Suspension of Estrada, Marcoleta on hold pending MR",
+          "summary": "Suspension orders against Philippine senators Rodante Marcoleta and Jinggoy Estrada will remain on hold while their motions for reconsideration are resolved. Senate President Sherwin Gatchalian told the Philippine Daily Inquirer that the Senate had received the orders issued by the anti-graft court Sandiganbayan.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2329702/lacson-keep-cameras-rolling-during-budget-talks-suspension",
+              "url": "https://newsinfo.inquirer.net/2330105/estrada-marcoleta-suspensions-on-hold-pending-mr",
               "source": "Philippine Daily Inquirer",
-              "headline": "Lacson: Keep cameras rolling during budget talks suspension",
-              "excerpt": "MANILA, Philippines — Sen. Panfilo Lacson suggested keeping livestream cameras rolling even when budget deliberations are suspended to prevent corruption from creeping into the 2027 budget measure. His proposal was specifically aimed at bicameral conference committee proceedings. “When the budget bill reaches the bicam, as what happened last year, there were many suspensions where lawmakers",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Lacson-1September2026.jpg",
-              "imageAlt": "Lacson: Keep cameras rolling during budget talks suspension",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Lacson-1September2026.jpg",
-          "imageAlt": "Lacson: Keep cameras rolling during budget talks suspension",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Legarda: Gender-based price bias banned in new ‘Anti-Pink Tax’ bill",
-          "summary": "Senator Loren Legarda has filed Senate Bill 2483 to prohibit gender-based price discrimination in consumer goods. The proposed “Anti-Pink Tax” measure targets cases in which substantially identical products cost more when marketed to a particular gender.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2329574/legarda-gender-based-price-bias-banned-in-new-anti-pink-tax-bill",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Legarda: Gender-based price bias banned in new ‘Anti-Pink Tax’ bill",
-              "excerpt": "MANILA, Philippines — Have you ever observed that everyday consumer products marketed toward a specific gender are frequently more expensive than identical items targeted at another, despite being practically the same? To eradicate this inequitable pricing practice, Sen. Loren Legarda has officially filed SBN 2483, or An Act prohibiting gender-based price discrimination in consumer goods",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Loren.jpeg",
-              "imageAlt": "Legarda: Gender-based price bias banned in new ‘Anti-Pink Tax’ bill",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Loren.jpeg",
-          "imageAlt": "Legarda: Gender-based price bias banned in new ‘Anti-Pink Tax’ bill",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 24",
-          "summary": "No ticket won either the Grand Lotto 6/55 or Lotto 6/42 jackpot in the 24 October 2026 draws, according to the Philippine Charity Sweepstakes Office. The winning combinations were 22-39-14-17-54-10 for the ₱298.32 million Grand Lotto jackpot and 39-03-18-41-42-34 for the ₱15.43 million Lotto 6/42 jackpot; the 6D Lotto also had no winner.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2329558/grand-lotto-6-55-lotto-6-42-draw-results-on-saturday-oct-24",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 24",
-              "excerpt": "MANILA, Philippines—No player bagged the Grand Lotto 6/55 and Lotto 6/42 jackpot prize on Saturday, Oct. 24, 2026, according to the Philippine Charity Sweepstakes Office. Grand Lotto 6/55 draw result: 22-39-14-17-54-10. Jackpot prize: 298.32 million. Lotto 6/42 draw result: 39-03-18-41-42-34. Jackpot prize: ₱15.43 million. The 6D Lotto draw likewise recorded no winner for the combination",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/10/pcso-lotto-logo-filephoto-10222-4.png",
-              "imageAlt": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 24",
+              "headline": "Suspension of Estrada, Marcoleta on hold pending MR",
+              "excerpt": "MANILA, Philippines – The suspension order issued by the Sandiganbayan against Senators Rodante Marcoleta and Jinggoy Estrada will be held in abeyance pending the final resolution of their motions for reconsideration, according to Senate President Sherwin Gatchalian. Gatchalian confirmed that the Senate has already received the suspension orders from the anti-graft court. “We also received",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/Estrada-marcoleta-25May2026.jpg",
+              "imageAlt": "Suspension of Estrada, Marcoleta on hold pending MR",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -772,13 +667,97 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/10/pcso-lotto-logo-filephoto-10222-4.png",
-          "imageAlt": "Grand Lotto 6/55, Lotto 6/42 draw results on Saturday, Oct. 24",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/05/Estrada-marcoleta-25May2026.jpg",
+          "imageAlt": "Suspension of Estrada, Marcoleta on hold pending MR",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "La Union town seeks, gains landowners’ help in easing highway flooding",
+          "summary": "The municipal government of Bauang, La Union, is seeking help from private landowners and businesses to improve drainage and restore waterways along flood-prone sections of the national highway. The Philippine Daily Inquirer says prolonged rain in August and September worsened recurring flooding in Barangays Bakwitsur and Bakwit Norte and submerged parts of the road.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2330025/la-union-town-seeks-gains-landowners-help-in-easing-highway-flooding",
+              "source": "Philippine Daily Inquirer",
+              "headline": "La Union town seeks, gains landowners’ help in easing highway flooding",
+              "excerpt": "BAUANG, La Union — The municipal government is seeking the cooperation of private landowners and business establishments to improve drainage systems and restore waterways in flood-prone areas along the national highway, particularly in Barangays Bakwitsur and Bakwit Norte. Recurring flooding, aggravated by prolonged rains in August and September, has submerged portions of the highway and",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/La-Union-map-filephoto-091122.jpg",
+              "imageAlt": "La Union town seeks, gains landowners’ help in easing highway flooding",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/La-Union-map-filephoto-091122.jpg",
+          "imageAlt": "La Union town seeks, gains landowners’ help in easing highway flooding",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Eco concerns raised over land conversion in Tarlac Aeta communities",
+          "summary": "Environmental advocates have raised concerns about extensive land conversion and earth-moving in Capas, Tarlac, where the government is preparing part of New Clark City for a proposed Economic Security Zone. The Philippine Daily Inquirer says more than 50 environmentalists, scientists, engineers and young people warned of possible harm to water sources, farmland and biodiversity in Aeta communities.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2330012/eco-concerns-raised-over-land-conversion-in-tarlac-aeta-communities",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Eco concerns raised over land conversion in Tarlac Aeta communities",
+              "excerpt": "OLONGAPO CITY — Extensive land conversion and earth-moving activities in Capas, Tarlac, have raised concerns over the potential impact on water sources, agricultural lands and biodiversity as the government prepares an area in New Clark City for a proposed Economic Security Zone (ESZ), environmental advocates said on Sunday. More than 50 environmentalists, scientists, engineers, youth,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Ayta-livelihoods-TARLAC-25October2026.jpg",
+              "imageAlt": "Eco concerns raised over land conversion in Tarlac Aeta communities",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Ayta-livelihoods-TARLAC-25October2026.jpg",
+          "imageAlt": "Eco concerns raised over land conversion in Tarlac Aeta communities",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "LTFRB to PUV operators, drivers: Honor fare discounts",
+          "summary": "The Philippines’ Land Transportation Franchising and Regulatory Board warned public-utility vehicle operators and drivers that they could face penalties for refusing mandated fare discounts. The Philippine Daily Inquirer says students, senior citizens and persons with disabilities are entitled to a 20 percent discount.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2329960/ltfrb-to-puv-operators-drivers-honor-fare-discounts",
+              "source": "Philippine Daily Inquirer",
+              "headline": "LTFRB to PUV operators, drivers: Honor fare discounts",
+              "excerpt": "MANILA, Philippines — The Land Transportation Franchising and Regulatory Board (LTFRB) on Sunday warned operators and drivers of public utility vehicles that they may face penalties for not honoring fare discounts provided for students, senior citizens, and persons with disabilities. The 20 percent fare discount for senior citizens, students, and persons with disabilities is mandated",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/IMG_1598-scaled.jpeg",
+              "imageAlt": "LTFRB to PUV operators, drivers: Honor fare discounts",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/IMG_1598-scaled.jpeg",
+          "imageAlt": "LTFRB to PUV operators, drivers: Honor fare discounts",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -787,16 +766,16 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "These clever apps show off the iPhone Duo’s potential",
-          "summary": "Developers are experimenting with apps designed for Apple’s first foldable phone, the iPhone Duo. Examples include retro cassette players, virtual notebooks, flight trackers and a digital toaster, illustrating possible uses for the device’s form factor.",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "summary": "An Apollo economist says artificial intelligence has produced “zero financial payoff” for most of corporate America outside the technology sector. TechCrunch reports that this assessment comes despite massive investment in AI and widespread hype about its business potential.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+              "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
               "source": "TechCrunch",
-              "headline": "These clever apps show off the iPhone Duo’s potential",
-              "excerpt": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-              "imageAlt": "These clever apps show off the iPhone Duo’s potential",
+              "headline": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+              "excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+              "imageAlt": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -810,21 +789,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-          "imageAlt": "These clever apps show off the iPhone Duo’s potential",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+          "imageAlt": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
-          "summary": "A political advertisement from Spain’s main opposition party used deepfake likenesses of the prime minister’s wife and others linked to Pedro Sánchez’s Socialist party, depicting them as admitting wrongdoing. The video has prompted outrage and a wider debate over political uses of AI ahead of next month’s general election.",
+          "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+          "summary": "The UK government plans to create an AI-powered Cobra unit to detect wildfires after a record-hot summer brought prolonged dry spells, extreme heat and destructive blazes. The Guardian says the prime minister will also announce funding for specialised protective equipment and the deployment of military aircraft.",
           "links": [
             {
-              "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+              "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
               "source": "The Guardian Technology",
-              "headline": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
-              "excerpt": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised country gears up for general elections next month. Launched this week across the social media channels of the conservative Pe",
-              "imageUrl": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=26b2782eab34845759c7884cee206583",
-              "imageAlt": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
+              "headline": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+              "excerpt": "PM will also announce funding for specialised protective gear and the deployment of military aircraft The UK government is to create an AI Cobra unit to spot wildfires after this year’s record-breaking summer saw devastating blazes across the country. The country experienced its hottest-ever summer this year, with prolonged dry periods and extreme heat",
+              "imageUrl": "https://i.guim.co.uk/img/media/ddd42922992ae55f86ec51be5c53ef522fcfffa2/0_0_6096_4878/master/6096.jpg?width=140&quality=85&auto=format&fit=max&s=b3cec623cc5724e62f374032e53f8c96",
+              "imageAlt": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -838,21 +817,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=26b2782eab34845759c7884cee206583",
-          "imageAlt": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
+          "imageUrl": "https://i.guim.co.uk/img/media/ddd42922992ae55f86ec51be5c53ef522fcfffa2/0_0_6096_4878/master/6096.jpg?width=140&quality=85&auto=format&fit=max&s=b3cec623cc5724e62f374032e53f8c96",
+          "imageAlt": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-          "summary": "The producers of the David Attenborough-narrated Blue Planet III deliberately included cloudier, less polished wildlife footage. They say the more organic images are intended to reassure viewers that the animals are authentic rather than AI-generated.",
+          "title": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
+          "summary": "The Guardian’s review says Nintendo Switch Sports Resort carries forward the accessible appeal of Wii Sports on the Switch 2. With a holiday atmosphere and a broad collection of sports-themed games, it is presented as an easy-to-enjoy family game.",
           "links": [
             {
-              "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+              "url": "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
               "source": "The Guardian Technology",
-              "headline": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-              "excerpt": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said. Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue",
-              "imageUrl": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
-              "imageAlt": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+              "headline": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
+              "excerpt": "Nintendo Switch 2; Nintendo/Nintendo Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game When the first Nintendo Switch Sports brought the effortless fun of Wii Sports back into my living room in 2022, I was frankly delighted . My small children discovered the pleasure of waving",
+              "imageUrl": "https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=140&quality=85&auto=format&fit=max&s=f938280231472790f2d64e647c3dd28b",
+              "imageAlt": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -866,21 +845,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
-          "imageAlt": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+          "imageUrl": "https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=140&quality=85&auto=format&fit=max&s=f938280231472790f2d64e647c3dd28b",
+          "imageAlt": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-          "summary": "The Apple Watch Ultra 4 brings longer battery life, a faster chip, improved health tracking and new readiness tools. The review says Apple’s largest smartwatch is still waiting for more transformative features, including controversial audio-AI capabilities announced for the device.",
+          "title": "How tech became the villain of the US midterms",
+          "summary": "Big technology has become a target in the U.S. midterm elections as voters react against data centres, artificial intelligence and the billionaires developing them. The Guardian describes campaign advertising that depicts data centres polluting an idyllic stream, reflecting wider public concern about the industry’s effects.",
           "links": [
             {
-              "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
+              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai",
               "source": "The Guardian Technology",
-              "headline": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-              "excerpt": "Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Apple’s biggest and beefiest smartwatch it gets the best kind of spec upgrade – longer battery life – while waiting for something potentially more transformative. That’s because several of the key features annou",
-              "imageUrl": "https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=82909c070641247b4560f99a29553500",
-              "imageAlt": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
+              "headline": "How tech became the villain of the US midterms",
+              "excerpt": "Datacenters, AI and distaste for the billionaires developing it has soured Americans on big tech How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions The campaign ad begins with a clear, idyllic stream that suddenly turns sludge-brown as two concrete datacenters slam on to its banks. An",
+              "imageUrl": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=12783154694bb2037b9eebd91b0c343e",
+              "imageAlt": "How tech became the villain of the US midterms",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -894,21 +873,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=82909c070641247b4560f99a29553500",
-          "imageAlt": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
+          "imageUrl": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=12783154694bb2037b9eebd91b0c343e",
+          "imageAlt": "How tech became the villain of the US midterms",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "The best Kindles in the UK for every bookworm and budget – tested",
-          "summary": "The Guardian tested Amazon’s Kindle range for UK readers with different needs and budgets. Its guide considers options including colour screens, note-taking support and child-friendly models for buyers who want a lighter, more space-efficient alternative to physical books.",
+          "title": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
+          "summary": "The Guardian’s review describes the iPhone 18 Pro Max as Apple’s largest, heaviest and longest-lasting flagship phone, with a price to match. It combines a giant screen, fast chip and high-end cameras with Apple’s biggest Pro iPhone battery upgrade, new Siri AI and a variable-aperture camera, delivering a claimed two days of use.",
           "links": [
             {
-              "url": "https://www.theguardian.com/thefilter/2026/oct/21/best-kindles-tested-uk",
+              "url": "https://www.theguardian.com/technology/2026/oct/12/iphone-18-pro-max-review-apples-biggest-heaviest-and-longest-lasting-superphone",
               "source": "The Guardian Technology",
-              "headline": "The best Kindles in the UK for every bookworm and budget – tested",
-              "excerpt": "Whether you want a colour screen, somewhere to scribble notes or a child-friendly model, here’s what we recommend from Amazon’s e-reader range • The best e-readers From that fresh paperback smell to the wrinkles in the spine, nothing beats a real book. But if you’re sick of the space they take up in your home, or the weight they steal from your holiday luggage allowance,",
-              "imageUrl": "https://i.guim.co.uk/img/media/592239c2bb1dd67d8d31dc53080abc1b4cc9e21a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=939bee4243d318dbf8f09fa5d4390776",
-              "imageAlt": "The best Kindles in the UK for every bookworm and budget – tested",
+              "headline": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
+              "excerpt": "A giant screen, big battery, rapid chip and top cameras push the great iPhone 18 Pro to the max with a price tag to match Apple’s largest Pro iPhone gets its biggest battery upgrade yet to make it a true two-day phone with new Siri AI and a variable aperture camera. The iPhone 18 Pro Max is the supersized sibling of the regular 18 Pro",
+              "imageUrl": "https://i.guim.co.uk/img/media/11819909b0a7df973c02d052fc87d7a251d9767b/1265_717_4498_3598/master/4498.jpg?width=140&quality=85&auto=format&fit=max&s=e9b5caa607beb4b18e174b89b0b936f3",
+              "imageAlt": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -922,8 +901,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/592239c2bb1dd67d8d31dc53080abc1b4cc9e21a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=939bee4243d318dbf8f09fa5d4390776",
-          "imageAlt": "The best Kindles in the UK for every bookworm and budget – tested",
+          "imageUrl": "https://i.guim.co.uk/img/media/11819909b0a7df973c02d052fc87d7a251d9767b/1265_717_4498_3598/master/4498.jpg?width=140&quality=85&auto=format&fit=max&s=e9b5caa607beb4b18e174b89b0b936f3",
+          "imageAlt": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
           "imageCredit": "The Guardian"
         }
       ]
