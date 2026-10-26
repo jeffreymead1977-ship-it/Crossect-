@@ -2,17 +2,35 @@
   "id": "2026-10-26-expanded",
   "date": "2026-10-26",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-10-26T03:00:38.471628",
+  "generatedAt": "2026-10-26T12:30:37.352776",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-10-26T03:00:38",
+  "updatedAt": "2026-10-26T12:30:37",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Venezuela’s opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-          "summary": "Venezuelan opposition leader and Nobel laureate María Corina Machado returned to Venezuela on Sunday, her first appearance in the country since December. BBC, the Washington Examiner and the Washington Times report that she had left shortly before the U.S. military deposed then-president Nicolás Maduro; Machado announced her return on social media with the message, “I am here. With you.”",
+          "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+          "summary": "Venezuelan opposition leader and Nobel Peace Prize winner María Corina Machado has returned home after nearly 11 months in exile, according to Al Jazeera, the BBC and The Washington Times. The BBC says she left Venezuela about a month before the US government seized President Nicolás Maduro, while The Washington Times describes her return as occurring amid a leadership crisis.",
           "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Venezuela’s opposition leader Machado returns after months in exile",
+              "excerpt": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-23.18.27-1792970405.png?resize=1200%2C675",
+              "imageAlt": "Venezuela’s opposition leader Machado returns after months in exile",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
             {
               "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -33,30 +51,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/world/4779011/machado-returns-months-in-exile-as-doubts-over-democracy-deepen/",
-              "source": "Washington Examiner",
-              "headline": "Venezuela’s opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-              "excerpt": "CARACAS, Venezuela (AP) — Opposition leader and Nobel laureate María Corina Machado reappeared in Venezuela on Sunday for the first time since December, about a month before the U.S. military deposed the country’s then-President Nicolás Maduro. Machado announced her arrival on social media, writing “I am here. With you.” Meanwhile, Venezuela’s opposition leader Edmundo Gonzalez […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26145784873457.jpg?w=1024",
-              "imageAlt": "Venezuela’s opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/oct/25/venezuelas-opposition-leader-machado-returns-months-exile-doubts/",
+              "url": "https://www.washingtontimes.com/news/2026/oct/25/maria-corina-machado-returns-venezuela-amid-leadership-crisis/",
               "source": "Washington Times",
-              "headline": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-              "excerpt": "Opposition leader and Nobel laureate Maria Corina Machado reappeared in Venezuela Sunday for the first time since December, about a month before the U.S. military deposed the country's then-President Nicolas Maduro.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/25/Venezuela_Opposition_13336_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+              "headline": "Exiled opposition leader returns to Venezuela amid leadership crisis",
+              "excerpt": "Maria Corina Machado, the opposition leader in Venezuela, returned to the country after nearly 11 months of exile.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/25/Venezuela_Machado_74386_s1080x720.jpg?086a58f88200ea990eceed82bb15371832b55c7b",
+              "imageAlt": "Exiled opposition leader returns to Venezuela amid leadership crisis",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -70,21 +70,85 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
-          "imageAlt": "Venezuelan opposition leader María Machado returns after months in exile",
-          "imageCredit": "BBC"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-23.18.27-1792970405.png?resize=1200%2C675",
+          "imageAlt": "Venezuela’s opposition leader Machado returns after months in exile",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Israel presses ahead with West Bank operation as election approaches",
-          "summary": "Israel continued a large military operation in the occupied West Bank ahead of Tuesday’s election, while announcing election-day crossing closures and restrictions on Palestinian workers. The Washington Times says the operation followed a gun attack that killed two Israeli soldiers and wounded three, and has displaced hundreds of Palestinians while sharply restricting movement.",
+          "title": "Marxist Lula Beats Bolsonaro in Brazil Presidential Election After Unprecedented Voting Time Extension",
+          "summary": "Incumbent Luiz Inácio Lula da Silva narrowly defeated Flávio Bolsonaro in Brazil’s heated presidential runoff, winning a fourth term. Al Jazeera describes a tight race, while Breitbart reports that both sides alleged irregularities and that the Supreme Court extended voting.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Brazil election results 2026 updates: Lula beats Bolsonaro in tight race",
+              "excerpt": "These were the updates on October 25, 2026, when the incumbent Lula beat his right-wing rival in a heated run-off.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ade9c887e-1792973960.jpg?resize=1920%2C1440",
+              "imageAlt": "Brazil election results 2026 updates: Lula beats Bolsonaro in tight race",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/latin-america/2026/10/25/marxist-lula-beats-bolsonaro-brazil-presidential-election-unprecedented-voting-time-extension/",
+              "source": "Breitbart",
+              "headline": "Marxist Lula Beats Bolsonaro in Brazil Presidential Election After Unprecedented Voting Time Extension",
+              "excerpt": "Socialist President Luiz Inácio Lula da Silva, 80, was elected president of Brazil for a fourth term in Sunday's runoff election, narrowly defeating conservative Sen. Flávio Bolsonaro in a tightly contested race in which both sides alleged irregularities and the Supreme Court intervened to extend voting. The post Marx",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/october25-2026-Luiz-Inacio-Lula-da-Silva-Brazil-president-getty-640x335.jpg",
+              "imageAlt": "Marxist Lula Beats Bolsonaro in Brazil Presidential Election After Unprecedented Voting Time Extension",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ade9c887e-1792973960.jpg?resize=1920%2C1440",
+          "imageAlt": "Brazil election results 2026 updates: Lula beats Bolsonaro in tight race",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+          "summary": "Serbia’s student-backed movement claimed a major election victory, prompting celebrations in Belgrade, according to Al Jazeera. The BBC says the Student List grew out of almost two years of anti-corruption protests and became the biggest challenge to President Aleksandar Vučić’s rule in a neck-and-neck contest.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Serbia celebrates historic election win for student-backed movement",
+              "excerpt": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792976292.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Serbia celebrates historic election win for student-backed movement",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-              "excerpt": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg",
-              "imageAlt": "Israel to close West Bank crossings on election day as crackdown escalates",
+              "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+              "excerpt": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg",
+              "imageAlt": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -96,14 +160,42 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792976292.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Serbia celebrates historic election win for student-backed movement",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Israeli election could dramatically impact U.S. economy, military operations, analysts say",
+          "summary": "Israelis vote Tuesday in a contest between Prime Minister Benjamin Netanyahu’s Likud party and Gadi Eisenkot’s Yashar party. Eisenkot held his final campaign rally on Sunday, and analysts cited by The Washington Times say the result could affect US foreign and domestic politics, including the economy and military operations.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+              "excerpt": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-00.54.13-1792976150.png?resize=1200%2C675",
+              "imageAlt": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/oct/25/israel-presses-ahead-west-bank-operation-election-approaches/",
+              "url": "https://www.washingtontimes.com/news/2026/oct/25/israeli-election-could-dramatically-impact-us-economy-military/",
               "source": "Washington Times",
-              "headline": "Israel presses ahead with West Bank operation as election approaches",
-              "excerpt": "The Israeli military pressed ahead with a massive military operation in the occupied West Bank on Sunday that has displaced hundreds of Palestinians and placed major restrictions on movement in response to a gun attack last week that killed two Israeli soldiers and wounded three others.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/24/APTOPIX_Israel_Palestinians_West_Bank_54932_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Israel presses ahead with West Bank operation as election approaches",
+              "headline": "Israeli election could dramatically impact U.S. economy, military operations, analysts say",
+              "excerpt": "Voters go to the polls Tuesday in Israel to decide whether to stay the course with Prime Minister Benjamin Netanyahu and his Likud party or turn to opposition leader Gadi Eisenkot and his Yashar party in a race that will inevitably impact U.S. foreign and domestic politics.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/23/APTOPIX_Israel_Elections_65_2__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Israeli election could dramatically impact U.S. economy, military operations, analysts say",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -117,58 +209,30 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg",
-          "imageAlt": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "imageCredit": "BBC"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-00.54.13-1792976150.png?resize=1200%2C675",
+          "imageAlt": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Top secrets come spilling out",
-          "summary": "A CNN opinion piece recalls how British analysts deciphered the 1917 Zimmermann Telegram, in which Germany proposed unrestricted submarine warfare and sought Mexico’s support if the United States entered the First World War. Its publication caused a sensation and helped propel the United States into the conflict against Germany.",
+          "title": "Are Alaska voters confused by two Dan Sullivans? DOJ sues to find out, Blanche says",
+          "summary": "The US Justice Department has filed a lawsuit concerning whether Alaska voters could confuse two candidates named Dan Sullivan in the Senate race. Attorney General Todd Blanche says the administration wants to prevent voters choosing the wrong candidate, while critics cited by Al Jazeera argue the case is intended to block a Democratic victory.",
           "links": [
             {
-              "url": "https://www.cnn.com/2023/04/16/opinions/top-secrets-come-spilling-out-opinion-column-galant/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Top secrets come spilling out",
-              "excerpt": "In 1917, British analysts deciphered a coded message the German foreign minister sent to one of his country's diplomats vowing to begin \"unrestricted submarine warfare\" and seeking to win over Mexico with a promise to \"reconquer the lost territory in Texas, New Mexico and Arizona\" if the US entered the world war. When it became public, the Zimmerman Telegram caused a sensation, helping propel the US into the conflict against Germany.",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
-              "imageAlt": "Top secrets come spilling out",
-              "outlet": "CNN",
+              "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+              "excerpt": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ade73fdb3f7d-1792963581.jpg?resize=1920%2C1440",
+              "imageAlt": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+              "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
-          "imageAlt": "Top secrets come spilling out",
-          "imageCredit": "CNN"
-        },
-        {
-          "title": "Blanche declines to say if Trump ordered him to file Alaska election lawsuit",
-          "summary": "Attorney General Todd Blanche defended a Justice Department lawsuit over Alaska’s Senate race, saying the government wanted to determine whether voters could be confused because two candidates share the name Dan Sullivan. The Washington Examiner reports that Blanche declined to explain whether President Donald Trump ordered the filing, while Breitbart highlighted his heated response to CNN host Dana Bash’s questioning about the suit.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/clips/2026/10/25/ag-blanche-to-cnns-bash-you-are-not-being-a-real-person-that-is-crazy/",
-              "source": "Breitbart",
-              "headline": "AG Blanche to CNN's Bash: You Are Not Being a Real Person, 'That Is Crazy'",
-              "excerpt": "Sunday on CNN’s “State of the Union,” Attorney General Todd Blanche told anchor Dana Bash she is being “crazy” asking if President Donald Trump wants to overturn the midterm elections while discussing the Department of Justice suing over the Alaska The post AG Blanche to CNN’s Bash: You Are Not Being a Real Person, ‘That Is Crazy’ appeared first",
-              "imageUrl": "https://media.breitbart.com/media/2026/08/Blanche8222026-1-640x335.jpg",
-              "imageAlt": "AG Blanche to CNN's Bash: You Are Not Being a Real Person, 'That Is Crazy'",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
@@ -188,42 +252,70 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ade73fdb3f7d-1792963581.jpg?resize=1920%2C1440",
+          "imageAlt": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Lula holds off far right with victory in Brazil presidential election",
+          "summary": "Brazilian President Luiz Inácio Lula da Silva defeated Senator Flávio Bolsonaro in a tight presidential election. Al Jazeera describes the result as a comeback after an unexpected first-round loss, while Fox News says the conservative wave was stopped short in Brazil.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Lula holds off far right with victory in Brazil presidential election",
+              "excerpt": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ade7eaf-1792966319.jpg?resize=1920%2C1440",
+              "imageAlt": "Lula holds off far right with victory in Brazil presidential election",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Left",
+              "alignment": "Left",
+              "alignmentBasis": "article-text: Left cue(s): (far-right|hard-right|right-wing extremis[mt]|authoritarian)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/justice/4779007/blanche-trump-order-alaska-election-lawsuit/",
-              "source": "Washington Examiner",
-              "headline": "Blanche declines to say if Trump ordered him to file Alaska election lawsuit",
-              "excerpt": "Attorney General Todd Blanche declined to detail the circumstances leading up to the Department of Justice filing a lawsuit challenging the results of Alaska’s Senate race because two candidates share the same name. Blanche appeared on two different programs Sunday morning and was asked about President Donald Trump saying he directed the DOJ to pursue […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26251656156281.jpg?w=1024",
-              "imageAlt": "Blanche declines to say if Trump ordered him to file Alaska election lawsuit",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
+              "url": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
+              "source": "Fox News",
+              "headline": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+              "excerpt": "In a tight election, incumbent President Lula da Silva bested Senator Flavio Bolsonaro in Brazil.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brazil-election-1.png?ve=1&tl=1",
+              "imageAlt": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
               "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/08/Blanche8222026-1-640x335.jpg",
-          "imageAlt": "AG Blanche to CNN's Bash: You Are Not Being a Real Person, 'That Is Crazy'",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ade7eaf-1792966319.jpg?resize=1920%2C1440",
+          "imageAlt": "Lula holds off far right with victory in Brazil presidential election",
+          "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Meghan Markle Responds To Shocking Accusations Against Estranged Father",
-          "summary": "Meghan, Duchess of Sussex, said she was “deeply distressed” by allegations that child sexual abuse material was found at the home of her estranged father. The Daily Wire says her half-brother claimed to have found hundreds or thousands of images, while Breitbart reports that Meghan said she had known about allegations involving her father since 2018.",
+          "title": "Rep. Crow: 'My Priority Number One' Is Ousting Pete Hegseth",
+          "summary": "Democratic Representative Jason Crow says removing Defense Secretary Pete Hegseth would be his top priority if Democrats regain control of the House in the midterm elections. Breitbart, the Washington Examiner and The Washington Times all report Crow’s remarks from an appearance on CBS’s Face the Nation.",
           "links": [
             {
-              "url": "https://www.breitbart.com/entertainment/2026/10/24/meghan-markle-says-she-has-known-about-child-porn-allegations-against-her-father-since-2018/",
+              "url": "https://www.breitbart.com/clips/2026/10/25/rep-crow-my-priority-number-one-is-ousting-pete-hegseth/",
               "source": "Breitbart",
-              "headline": "Meghan Markle Says She Has Known About Child Porn Allegations Against Her Father Since 2018",
-              "excerpt": "Meghan the Duchess of Sussex's response to a probe into child sex abuse material found at her father's former home has drawn scrutiny. The post Meghan Markle Says She Has Known About Child Porn Allegations Against Her Father Since 2018 appeared first on Breitbart</a",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2300494623-640x335.jpg",
-              "imageAlt": "Meghan Markle Says She Has Known About Child Porn Allegations Against Her Father Since 2018",
+              "headline": "Rep. Crow: 'My Priority Number One' Is Ousting Pete Hegseth",
+              "excerpt": "On Sunday’s broadcast of CBS’s “Face the Nation,” Rep. Jason Crow (D-CO) said “priority number one if we retake the majority, to make sure we oust” Secretary of War Pete Hegseth. Partial transcript as follows: MARGARET BRENNAN: I want to The post Rep. Crow: ‘My Priority Number One’ Is Ousting Pete Hegseth appeared first on <a rel=\"nofollow\" href=\"https://www.",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Crow-101-Thumbnail-640x335.jpg",
+              "imageAlt": "Rep. Crow: 'My Priority Number One' Is Ousting Pete Hegseth",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -236,121 +328,46 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/meghan-markle-responds-to-shocking-accusations-against-estranged-father",
-              "source": "Daily Wire",
-              "headline": "Meghan Markle Responds To Shocking Accusations Against Estranged Father",
-              "excerpt": "Meghan Markle has responded to the allegations that her estranged father was in possession of child pornography, after her half-brother revealed this week that he found “hundreds, if not thousands” of child sexual abuse images in their father’s home. Markle said she is “deeply distressed” over the matter, but hopes people now understand why she ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2024/03/Meghan-Markle-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Meghan Markle Responds To Shocking Accusations Against Estranged Father",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4779139/ousting-hegseth-priority-democrats-retake-majority-jason-crow/",
+              "source": "Washington Examiner",
+              "headline": "Ousting Hegseth ‘priority No. 1’ if Democrats retake majority, Rep. Jason Crow says",
+              "excerpt": "Rep. Jason Crow (D-CO) said Sunday that ousting War Secretary Pete Hegseth is his “priority No. 1” if the Democrats retake the House of Representatives in November’s midterm elections. A member of the House Armed Services Committee, Crow was asked by Margaret Brennan on Face the Nation about reports that Director of National Intelligence Jay […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26253636231764.jpg?w=1024",
+              "imageAlt": "Ousting Hegseth ‘priority No. 1’ if Democrats retake majority, Rep. Jason Crow says",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/10/GettyImages-2300494623-640x335.jpg",
-          "imageAlt": "Meghan Markle Says She Has Known About Child Porn Allegations Against Her Father Since 2018",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Vanessa Trump Announces She Is Cancer-Free After Breast Cancer Battle",
-          "summary": "Vanessa Trump announced that she is cancer-free after treatment for breast cancer. The BBC says she disclosed her diagnosis six months earlier, while the Daily Wire reports that the 48-year-old shared the update in a video posted by her daughter Kai.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/vanessa-trump-announces-she-is-cancer-free-after-breast-cancer-battle",
-              "source": "Daily Wire",
-              "headline": "Vanessa Trump Announces She Is Cancer-Free After Breast Cancer Battle",
-              "excerpt": "Vanessa Trump, the ex-wife of Donald Trump Jr., announced Friday that she is cancer-free, sharing the encouraging news months after revealing her breast cancer diagnosis and undergoing treatment. “I am finally cancer-free,” Trump, 48, said in a video shared by her daughter Kai Trump, 19. After her mother delivered the news, Kai leaned over to ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2268071483.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Vanessa Trump Announces She Is Cancer-Free After Breast Cancer Battle",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "medium",
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-              "excerpt": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg",
-              "imageAlt": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2268071483.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Vanessa Trump Announces She Is Cancer-Free After Breast Cancer Battle",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "‘No Enemy Dares to Threaten Me’: Ilhan Omar Shares Video with Somali Diss Track",
-          "summary": "Representative Ilhan Omar posted a short video of herself walking beside a Minnesota lake with a Somali rap song playing in the background. Breitbart and the Daily Wire report that translations of the song describe threatening, humiliating or subjugating enemies, framing the apparently casual video as carrying a hostile message.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/the-violent-message-hidden-in-ilhan-omars-innocent-looking-video",
-              "source": "Daily Wire",
-              "headline": "The Violent Message Hidden In Ilhan Omar’s Innocent-Looking Video",
-              "excerpt": "A Somali rap song that Rep. Ilhan Omar (D-MN), whose real name is “Ilhan Nur Said Elmi,” according to the Department of Justice, set as background music in a video of a lakeside stroll threatens to punish, humiliate, and subjugate the singer’s enemies, according to an English translation. The 27-second clip, which Omar posted to ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-1164448205-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "The Violent Message Hidden In Ilhan Omar’s Innocent-Looking Video",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.washingtontimes.com/news/2026/oct/25/democrats-set-sights-ousting-pete-hegseth-next-year/",
+              "source": "Washington Times",
+              "headline": "Democrats set their sights on ousting Defense Secretary Pete Hegseth next year",
+              "excerpt": "A top House Democrat said he'll make ousting Defense Secretary Pete Hegseth a priority if his party wins control of the majority in next week's midterm election.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/06/APTOPIX_Trump_41873_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Democrats set their sights on ousting Defense Secretary Pete Hegseth next year",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.breitbart.com/politics/2026/10/24/no-enemy-dares-to-threaten-me-ilhan-omar-shares-video-with-somali-diss-track/",
-              "source": "Breitbart",
-              "headline": "‘No Enemy Dares to Threaten Me’: Ilhan Omar Shares Video with Somali Diss Track",
-              "excerpt": "Rep. Ilhan Omar (D-MN) posted a video Friday of herself walking beside a Minnesota lake with her husband, set to a Somali song the lyrics of which describe humiliating enemies and making them “suffer and cry,” according to a translation obtained by the Washington Free Beacon. The post ‘No Enemy Dares to Threaten Me’: Ilhan Omar Shares Vide",
-              "imageUrl": "https://media.breitbart.com/media/2026/10/Ilhan-Omar-Yelling-640x335.jpeg",
-              "imageAlt": "‘No Enemy Dares to Threaten Me’: Ilhan Omar Shares Video with Somali Diss Track",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "medium",
               "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-1164448205-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "The Violent Message Hidden In Ilhan Omar’s Innocent-Looking Video",
-          "imageCredit": "Daily Wire"
+          "imageUrl": "https://media.breitbart.com/media/2026/10/Crow-101-Thumbnail-640x335.jpg",
+          "imageAlt": "Rep. Crow: 'My Priority Number One' Is Ousting Pete Hegseth",
+          "imageCredit": "Breitbart"
         }
       ]
     },
@@ -359,15 +376,15 @@
       "stories": [
         {
           "title": "What Spinoza got right – and wrong",
-          "summary": "The selected story is titled “What Spinoza got right – and wrong,” but its attached Spectator Australia item carries the headline “Let the Brethren hand out.” That excerpt discusses renewed debate over religious freedom in Australia and Allegra Spender’s proposal to restrict exemptions used by religious schools when making decisions.",
+          "summary": "A Spectator Australia commentary considers whether France’s political and social condition amounts to a descent into nihilism. The piece points to the size of government and what it describes as public entitlement while asking how France continues to function.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/10/let-the-brethren-hand-out/",
+              "url": "https://www.spectator.com.au/2026/10/can-we-be-surprised-that-france-has-descended-into-nihilism/",
               "source": "Spectator Australia",
-              "headline": "Let the Brethren hand out",
-              "excerpt": "Australia is talking about religious freedom again. Allegra Spender wants to restrict the exemptions under which religious schools make decisions… The post Let the Brethren hand out appeared first on The Spectator Australia . What to read next: Go directly to jai",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/clegg-24-oct_post.jpg",
-              "imageAlt": "Let the Brethren hand out",
+              "headline": "Can we be surprised that France has descended into nihilism?",
+              "excerpt": "Given its corpulent government and inexplicably entitled populace, I’ve long been in awe of the fact that France functions at… The post Can we be surprised that France has descended into nihilism? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2300122228.LionelShriver.jpg",
+              "imageAlt": "Can we be surprised that France has descended into nihilism?",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -381,21 +398,39 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/clegg-24-oct_post.jpg",
-          "imageAlt": "Let the Brethren hand out",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/10/GettyImages_2300122228.LionelShriver.jpg",
+          "imageAlt": "Can we be surprised that France has descended into nihilism?",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
-          "summary": "ABC News presents a stark economic outlook for 2027, arguing that ordinary workers will bear the costs. The report points to large, prominent institutions cutting staff or clashing with employees as the economy pours resources into job-changing technology that is both enormous and potentially brittle.",
+          "title": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
+          "summary": "Victorian Emergency Services Minister Paul Edbrooke found a bullet bearing the word ‘RAT’ on his car, prompting a police investigation into an apparent death threat. Australian Federal Police Commissioner Krissy Barrett says heated political rhetoric is fuelling threats against MPs and that women are more often targeted, including with sexual violence.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-10-26/economic-outlook-for-2027-feels-shaky/107299778",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+              "excerpt": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email , free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’ rh",
+              "imageUrl": "https://i.guim.co.uk/img/media/f4037d3bd456c829f9760ba38f9317666abf9e42/721_0_5833_4667/master/5833.jpg?width=140&quality=85&auto=format&fit=max&s=a4e0de6fe4f05de0dd7e4e03c3cb4fff",
+              "imageAlt": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-10-26/paul-edbrooke-labor-mp-threat-bullet/107307762",
               "source": "ABC Australia",
-              "headline": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
-              "excerpt": "Right now, some of our largest and most visible institutions are trimming or fighting with employees, in an economy that's powered by the build-out of job-changing technology that is both gargantuan and seemingly brittle at the same time.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/44afee941376b92b142cc4da8c148ec4?impolicy=wcms_crop_resize&cropH=1438&cropW=2556&xPos=29&yPos=285&width=862&height=485",
-              "imageAlt": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
+              "headline": "Police investigating after bullet 'death threat' against Victorian minister",
+              "excerpt": "Emergency Services Minister Paul Edbrooke, a former firefighter, found the bullet on his car on Saturday.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/92e5fb6ea36ffdc5b94ab22706e526de?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=740&width=862&height=485",
+              "imageAlt": "Police investigating after bullet 'death threat' against Victorian minister",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -410,13 +445,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/44afee941376b92b142cc4da8c148ec4?impolicy=wcms_crop_resize&cropH=1438&cropW=2556&xPos=29&yPos=285&width=862&height=485",
-          "imageAlt": "The economic outlook for 2027 is stark. Ordinary workers will wear the costs",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/f4037d3bd456c829f9760ba38f9317666abf9e42/721_0_5833_4667/master/5833.jpg?width=140&quality=85&auto=format&fit=max&s=a4e0de6fe4f05de0dd7e4e03c3cb4fff",
+          "imageAlt": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "Victoria's election will be historic, no matter who wins. Here's why – video",
-          "summary": "Victoria’s 2026 election is shaping up as a consequential and uncertain contest after 12 years of Labor government. The Guardian says corruption allegations burden Labor, but the Coalition still faces a difficult path amid three-way contests involving a resurgent One Nation and the Greens.",
+          "summary": "Victoria’s 2026 election is shaping up as a consequential and uncertain state poll. The Coalition is challenging a 12-year Labor government facing corruption allegations, while three-way contests involving a resurgent One Nation and the Greens complicate its path to victory.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/video/2026/oct/22/victorias-election-will-be-historic-no-matter-who-wins-heres-why-video",
@@ -444,7 +479,7 @@
         },
         {
           "title": "There is a logic to a tourist tax",
-          "summary": "The selected story is titled “There is a logic to a tourist tax,” but the attached Spectator Australia item is headlined “France is a warning – our civilisation is not immortal.” Its excerpt asks whether the unrest the author describes in France could also happen in Australia, without providing details about a tourist tax.",
+          "summary": "A Spectator Australia commentary uses unrest in France to argue that civilisations are not guaranteed to endure. The piece asks whether similar upheaval could happen in Australia as it considers lessons from France.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/10/france-is-a-warning-our-civilisation-is-not-immortal/",
@@ -477,7 +512,7 @@
       "stories": [
         {
           "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-          "summary": "Two critical vulnerabilities in PHP threatened widespread disruption because the programming language is used across much of the web. TechCrunch says the episode was a near miss for the internet and warns that it is unlikely to be the last major software security scare.",
+          "summary": "Two critical vulnerabilities in PHP threatened major disruption because the programming language is used across much of the internet. TechCrunch says the episode is unlikely to be the last major software security scare.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
@@ -505,7 +540,7 @@
         },
         {
           "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
-          "summary": "The Verge reviewed the Crkd Nitro Deck 2 accessory for Nintendo’s Switch 2 and found it narrowly missed being good. The review’s accompanying description identifies the central ergonomic problem: the right analog stick and face buttons sit too close together for comfort.",
+          "summary": "The Verge reviewed the Crkd Nitro Deck 2 accessory for Nintendo’s Switch 2. Its assessment says the right analog stick and face buttons are positioned too close together for comfort, leaving an otherwise promising accessory a few millimetres short of being good.",
           "links": [
             {
               "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
@@ -533,7 +568,7 @@
         },
         {
           "title": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
-          "summary": "Lara Croft has turned 30, marking three decades since the Tomb Raider character first appeared. The Guardian looks beyond the franchise’s celebrated moments to revisit its biggest missteps, noting that more than 100 million Tomb Raider games have been sold.",
+          "summary": "Lara Croft is marking 30 years since her debut in the original Tomb Raider. The Guardian looks back at the character’s less successful moments alongside a franchise that has sold more than 100 million games.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
@@ -561,13 +596,13 @@
         },
         {
           "title": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
-          "summary": "Storylines featuring Margot Robbie in the Australian soap Neighbours are being recut with AI into short vertical episodes designed for phones. The Guardian reports that other cast members say they were not consulted, prompting debate about performers’ rights and the wider reuse of television archives for new content.",
+          "summary": "Storylines featuring Margot Robbie in Neighbours are being recut with AI into vertical micro-episodes designed for phones. The Guardian reports that other cast members say they were not consulted, fuelling debate over the reuse of television archives for new content.",
           "links": [
             {
               "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
               "source": "The Guardian Technology",
               "headline": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
-              "excerpt": "Robbie’s storylines in the famous soap will be recut into vertical micro-episodes to be watched on phones – but her fellow cast members say they haven’t been consulted The long-running Australian soap opera Neighbours is being recut with AI into a microdrama designed to be watched on phones, sparking a debate among the show’s actors and the industry over the wider implications of television archives being mined for new content. RoseBerry Media, which specialises in making “vertica",
+              "excerpt": "Actor’s storylines in the famous soap will be recut into vertical micro-episodes to be watched on phones – but her fellow cast members say they haven’t been consulted The long-running Australian soap opera Neighbours is being recut with AI into a microdrama designed to be watched on phones, sparking a debate among the show’s actors and the industry over the wider implications of television archives being mined for new content. RoseBerry Media, which specialises in making “vertical",
               "imageUrl": "https://i.guim.co.uk/img/media/d850e2558a1a7a06e667ee3f5cb1123b8775f401/189_38_3166_2534/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=fe1cb9d1d4badba3ae6fe42f103a214a",
               "imageAlt": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
               "outlet": "The Guardian",
@@ -589,7 +624,7 @@
         },
         {
           "title": "Cookie theft: how fraudsters get the digital key to your accounts",
-          "summary": "Fraudsters are targeting session cookies, the digital credentials that keep users logged in, to hijack active online accounts. The Guardian explains that a victim can close a laptop after banking or other online tasks without realising an attacker has captured the session and may still be able to access the account.",
+          "summary": "Hackers are targeting session cookies that keep users logged in to online services. Stealing those cookies can let fraudsters hijack active sessions and access accounts, including banking services, even after the victim closes a laptop.",
           "links": [
             {
               "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
@@ -621,16 +656,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Libanan says new social worker posts to bolster 4Ps implementation",
-          "summary": "Philippine House Minority Leader Marcelino Libanan welcomed the creation of 5,703 permanent social-worker positions to strengthen frontline delivery of the Pantawid Pamilyang Pilipino Program. The Philippine Daily Inquirer reports that the Department of Budget and Management approved the posts for the government’s flagship anti-poverty program, known as 4Ps.",
+          "title": "Dizon, Lopez swap agencies in latest Cabinet revamp",
+          "summary": "Philippine President Ferdinand Marcos Jr. has reassigned Vince Dizon to lead the Department of Transportation and appointed Giovanni ‘Banoy’ Lopez to head Public Works and Highways. The administration says Dizon will focus on daily commuting problems while Lopez works to sustain reforms at the public works department.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2329975/libanan-says-new-social-worker-posts-to-bolster-4ps-implementation",
+              "url": "https://newsinfo.inquirer.net/2330206/dizon-lopez-swap-agencies-in-latest-cabinet-revamp",
               "source": "Philippine Daily Inquirer",
-              "headline": "Libanan says new social worker posts to bolster 4Ps implementation",
-              "excerpt": "MANILA, Philippines – House Minority Leader Marcelino Libanan on Sunday welcomed the creation of over 5,000 regular social worker posts to reinforce frontline operations for the government’s flagship anti-poverty Pantawid Pamilyang Pilipino Program (4Ps). In a statement, the 4Ps party-list representative said that the Department of Budget and Management’s (DBM) approval of 5,703 regular posts",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2023/12/House-Minority-Leader-Marcelino-Libanan.png",
-              "imageAlt": "Libanan says new social worker posts to bolster 4Ps implementation",
+              "headline": "Dizon, Lopez swap agencies in latest Cabinet revamp",
+              "excerpt": "MANILA, Philippines — President Marcos has reassigned Vince Dizon to head the Department of Transportation (DOTr) and appointed Giovanni “Banoy” Lopez as secretary of the Department of Public Works and Highways (DPWH), Presidential Communications Office Acting Secretary Lino Cayetano announced on Monday. The agency swap marks the latest shake-up in Marcos’ Cabinet. READ: New PCO",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2025/09/Vince-Dizon-dpwh4-09012025.jpg",
+              "imageAlt": "Dizon, Lopez swap agencies in latest Cabinet revamp",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -639,18 +674,92 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/vince-dizon-returns-dotr-banoy-lopez-dpwh-marcos-cabinet-reshuffle/",
+              "source": "Rappler World",
+              "headline": "Dizon returns to DOTr, Lopez takes over DPWH in Marcos Cabinet reshuffle",
+              "excerpt": "'We are shifting gears to accelerate reform. Secretary Dizon goes to DOTr to fix the daily commute. Secretary Lopez goes to DPWH to make sure the reforms there last,' says President Ferdinand Marcos Jr.",
+              "imageUrl": "https://www.rappler.com/tachyon/2025/10/DPWH-Vince-Dizon-October-20-2025.jpeg",
+              "imageAlt": "Dizon returns to DOTr, Lopez takes over DPWH in Marcos Cabinet reshuffle",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2023/12/House-Minority-Leader-Marcelino-Libanan.png",
-          "imageAlt": "Libanan says new social worker posts to bolster 4Ps implementation",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2025/09/Vince-Dizon-dpwh4-09012025.jpg",
+          "imageAlt": "Dizon, Lopez swap agencies in latest Cabinet revamp",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Northern Samar develops ready-to-eat ‘champorado’",
+          "summary": "Northern Samar’s provincial government is developing a coconut-based, ready-to-eat version of champorado, or chocolate rice porridge. The product is intended as a convenient food option for families affected by typhoons, floods and other disasters that interrupt transport, power and access to cooking facilities.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2330045/northern-samar-develops-ready-to-eat-champorado",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Northern Samar develops ready-to-eat ‘champorado’",
+              "excerpt": "TACLOBAN CITY—The provincial government of Northern Samar is developing a coconut-based, ready-to-eat “champorado” (chocolate rice porridge) that could provide a convenient food option for families affected by typhoons, floods and other disasters that disrupt transportation, electricity and access to cooking facilities. Since the province is frequently exposed to tropical cyclones, flooding and other natural hazards",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/champorado-samar-26October2026.jpg",
+              "imageAlt": "Northern Samar develops ready-to-eat ‘champorado’",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/champorado-samar-26October2026.jpg",
+          "imageAlt": "Northern Samar develops ready-to-eat ‘champorado’",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Police to coordinate closely with schools after bomb threats",
+          "summary": "The National Capital Region Police Office has ordered its units to strengthen bomb-threat awareness campaigns in Metro Manila schools. The directive emphasises coordinated responses, prompt threat assessments and proper emergency procedures to protect school communities while limiting class disruptions.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2330089/police-to-coordinate-closely-with-schools-after-bomb-threats",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Police to coordinate closely with schools after bomb threats",
+              "excerpt": "MANILA, Philippines — The National Capital Region Police Office (NCRPO) ordered all its units on Sunday to intensify bomb threat awareness campaigns in Metro Manila schools, emphasizing coordinated responses, prompt threat assessments, and proper emergency procedures to protect students, teachers, and school personnel while minimizing class disruptions. The directive follows a bomb threat reported on Oct.",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2025/03/National-Capital-Region-Police-Office-NCRPO-facade-file-04112023.jpg",
+              "imageAlt": "Police to coordinate closely with schools after bomb threats",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2025/03/National-Capital-Region-Police-Office-NCRPO-facade-file-04112023.jpg",
+          "imageAlt": "Police to coordinate closely with schools after bomb threats",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Suspension of Estrada, Marcoleta on hold pending MR",
-          "summary": "Suspension orders against Philippine senators Rodante Marcoleta and Jinggoy Estrada will remain on hold while their motions for reconsideration are resolved. Senate President Sherwin Gatchalian told the Philippine Daily Inquirer that the Senate had received the orders issued by the anti-graft court Sandiganbayan.",
+          "summary": "Suspension orders against Philippine senators Rodante Marcoleta and Jinggoy Estrada will remain on hold while their motions for reconsideration are resolved. Senate President Sherwin Gatchalian says the Senate has received the Sandiganbayan anti-graft court’s orders.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2330105/estrada-marcoleta-suspensions-on-hold-pending-mr",
@@ -678,7 +787,7 @@
         },
         {
           "title": "La Union town seeks, gains landowners’ help in easing highway flooding",
-          "summary": "The municipal government of Bauang, La Union, is seeking help from private landowners and businesses to improve drainage and restore waterways along flood-prone sections of the national highway. The Philippine Daily Inquirer says prolonged rain in August and September worsened recurring flooding in Barangays Bakwitsur and Bakwit Norte and submerged parts of the road.",
+          "summary": "The government of Bauang, La Union, is seeking help from private landowners and businesses to improve drainage and restore waterways along flood-prone sections of the national highway. Prolonged rains in August and September worsened recurring flooding in Barangays Bakwitsur and Bakwit Norte.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2330025/la-union-town-seeks-gains-landowners-help-in-easing-highway-flooding",
@@ -703,62 +812,6 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/La-Union-map-filephoto-091122.jpg",
           "imageAlt": "La Union town seeks, gains landowners’ help in easing highway flooding",
           "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Eco concerns raised over land conversion in Tarlac Aeta communities",
-          "summary": "Environmental advocates have raised concerns about extensive land conversion and earth-moving in Capas, Tarlac, where the government is preparing part of New Clark City for a proposed Economic Security Zone. The Philippine Daily Inquirer says more than 50 environmentalists, scientists, engineers and young people warned of possible harm to water sources, farmland and biodiversity in Aeta communities.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2330012/eco-concerns-raised-over-land-conversion-in-tarlac-aeta-communities",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Eco concerns raised over land conversion in Tarlac Aeta communities",
-              "excerpt": "OLONGAPO CITY — Extensive land conversion and earth-moving activities in Capas, Tarlac, have raised concerns over the potential impact on water sources, agricultural lands and biodiversity as the government prepares an area in New Clark City for a proposed Economic Security Zone (ESZ), environmental advocates said on Sunday. More than 50 environmentalists, scientists, engineers, youth,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Ayta-livelihoods-TARLAC-25October2026.jpg",
-              "imageAlt": "Eco concerns raised over land conversion in Tarlac Aeta communities",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Ayta-livelihoods-TARLAC-25October2026.jpg",
-          "imageAlt": "Eco concerns raised over land conversion in Tarlac Aeta communities",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "LTFRB to PUV operators, drivers: Honor fare discounts",
-          "summary": "The Philippines’ Land Transportation Franchising and Regulatory Board warned public-utility vehicle operators and drivers that they could face penalties for refusing mandated fare discounts. The Philippine Daily Inquirer says students, senior citizens and persons with disabilities are entitled to a 20 percent discount.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2329960/ltfrb-to-puv-operators-drivers-honor-fare-discounts",
-              "source": "Philippine Daily Inquirer",
-              "headline": "LTFRB to PUV operators, drivers: Honor fare discounts",
-              "excerpt": "MANILA, Philippines — The Land Transportation Franchising and Regulatory Board (LTFRB) on Sunday warned operators and drivers of public utility vehicles that they may face penalties for not honoring fare discounts provided for students, senior citizens, and persons with disabilities. The 20 percent fare discount for senior citizens, students, and persons with disabilities is mandated",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/IMG_1598-scaled.jpeg",
-              "imageAlt": "LTFRB to PUV operators, drivers: Honor fare discounts",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/IMG_1598-scaled.jpeg",
-          "imageAlt": "LTFRB to PUV operators, drivers: Honor fare discounts",
-          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -766,8 +819,33 @@
       "name": "Business / Finance",
       "stories": [
         {
+          "title": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+          "summary": "UN and Congolese troops are struggling to halt a rapid offensive by the Rwanda-backed M23 rebel group. Aid workers estimate that as many as 300,000 people are fleeing after the rebels captured two strategic towns on approaches to Goma.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c",
+              "source": "Wall Street Journal",
+              "headline": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+              "excerpt": "Aid workers estimate as many as 300,000 people are fleeing advances by the Rwandan-backed M23 rebel group, which has taken two strategic towns on the approaches to Goma over the past several days.",
+              "imageUrl": "",
+              "imageAlt": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
           "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-          "summary": "An Apollo economist says artificial intelligence has produced “zero financial payoff” for most of corporate America outside the technology sector. TechCrunch reports that this assessment comes despite massive investment in AI and widespread hype about its business potential.",
+          "summary": "An Apollo economist says artificial intelligence has produced no financial payoff for most US companies outside the technology sector. The assessment contrasts widespread corporate investment and enthusiasm for AI with a lack of returns across the broader economy.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -795,7 +873,7 @@
         },
         {
           "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
-          "summary": "The UK government plans to create an AI-powered Cobra unit to detect wildfires after a record-hot summer brought prolonged dry spells, extreme heat and destructive blazes. The Guardian says the prime minister will also announce funding for specialised protective equipment and the deployment of military aircraft.",
+          "summary": "The UK government plans to create an AI Cobra unit to detect wildfires after a record-hot summer brought prolonged dry periods, extreme heat and destructive blazes. The prime minister is also expected to announce funding for specialised protective equipment and the deployment of military aircraft.",
           "links": [
             {
               "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
@@ -822,88 +900,54 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
-          "summary": "The Guardian’s review says Nintendo Switch Sports Resort carries forward the accessible appeal of Wii Sports on the Switch 2. With a holiday atmosphere and a broad collection of sports-themed games, it is presented as an easy-to-enjoy family game.",
+          "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+          "summary": "President Trump has proposed moving Palestinians from heavily bombed Gaza to Egypt and Jordan, either temporarily or for the long term. He described the enclave as a ‘demolition site’, while Arab countries have rejected such relocation since the war began.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
-              "source": "The Guardian Technology",
-              "headline": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
-              "excerpt": "Nintendo Switch 2; Nintendo/Nintendo Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game When the first Nintendo Switch Sports brought the effortless fun of Wii Sports back into my living room in 2022, I was frankly delighted . My small children discovered the pleasure of waving",
-              "imageUrl": "https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=140&quality=85&auto=format&fit=max&s=f938280231472790f2d64e647c3dd28b",
-              "imageAlt": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc",
+              "source": "Wall Street Journal",
+              "headline": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+              "excerpt": "The president, calling the heavily bombed enclave “a demolition site,” proposed relocating Palestinians temporarily or long-term, a move rejected by Arab countries since the war began.",
+              "imageUrl": "",
+              "imageAlt": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=140&quality=85&auto=format&fit=max&s=f938280231472790f2d64e647c3dd28b",
-          "imageAlt": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "How tech became the villain of the US midterms",
-          "summary": "Big technology has become a target in the U.S. midterm elections as voters react against data centres, artificial intelligence and the billionaires developing them. The Guardian describes campaign advertising that depicts data centres polluting an idyllic stream, reflecting wider public concern about the industry’s effects.",
+          "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+          "summary": "Kim Jong Un is promoting a ‘shock brigade’ of 300,000 teenagers and young adults drafted into flood-reconstruction work. The effort is presented as part of his push to control North Korean youth and block the influence of Hollywood and K-pop.",
           "links": [
             {
-              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai",
-              "source": "The Guardian Technology",
-              "headline": "How tech became the villain of the US midterms",
-              "excerpt": "Datacenters, AI and distaste for the billionaires developing it has soured Americans on big tech How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions The campaign ad begins with a clear, idyllic stream that suddenly turns sludge-brown as two concrete datacenters slam on to its banks. An",
-              "imageUrl": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=12783154694bb2037b9eebd91b0c343e",
-              "imageAlt": "How tech became the villain of the US midterms",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+              "source": "Wall Street Journal",
+              "headline": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+              "excerpt": "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.",
+              "imageUrl": "",
+              "imageAlt": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=12783154694bb2037b9eebd91b0c343e",
-          "imageAlt": "How tech became the villain of the US midterms",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
-          "summary": "The Guardian’s review describes the iPhone 18 Pro Max as Apple’s largest, heaviest and longest-lasting flagship phone, with a price to match. It combines a giant screen, fast chip and high-end cameras with Apple’s biggest Pro iPhone battery upgrade, new Siri AI and a variable-aperture camera, delivering a claimed two days of use.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/oct/12/iphone-18-pro-max-review-apples-biggest-heaviest-and-longest-lasting-superphone",
-              "source": "The Guardian Technology",
-              "headline": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
-              "excerpt": "A giant screen, big battery, rapid chip and top cameras push the great iPhone 18 Pro to the max with a price tag to match Apple’s largest Pro iPhone gets its biggest battery upgrade yet to make it a true two-day phone with new Siri AI and a variable aperture camera. The iPhone 18 Pro Max is the supersized sibling of the regular 18 Pro",
-              "imageUrl": "https://i.guim.co.uk/img/media/11819909b0a7df973c02d052fc87d7a251d9767b/1265_717_4498_3598/master/4498.jpg?width=140&quality=85&auto=format&fit=max&s=e9b5caa607beb4b18e174b89b0b936f3",
-              "imageAlt": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/11819909b0a7df973c02d052fc87d7a251d9767b/1265_717_4498_3598/master/4498.jpg?width=140&quality=85&auto=format&fit=max&s=e9b5caa607beb4b18e174b89b0b936f3",
-          "imageAlt": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
