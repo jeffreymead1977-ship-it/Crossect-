@@ -2,9 +2,41 @@
   "digests": [
     {
       "id": "today-expanded.json",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "title": "Daily Source Digest",
-      "generatedAt": "2026-11-04T03:00:15.937780",
+      "generatedAt": "2026-11-05T03:00:13.347365",
+      "note": "Daily source-balanced news digest \u2014 morning update.",
+      "sectionCount": 5,
+      "storyCount": 26,
+      "sourceCount": 26,
+      "sections": [
+        {
+          "name": "World / Geopolitics",
+          "storyCount": 7
+        },
+        {
+          "name": "Australia",
+          "storyCount": 4
+        },
+        {
+          "name": "Technology",
+          "storyCount": 5
+        },
+        {
+          "name": "Asia Pacific",
+          "storyCount": 5
+        },
+        {
+          "name": "Business / Finance",
+          "storyCount": 5
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-expanded.json",
+      "date": "2026-11-05",
+      "title": "Daily Source Digest",
+      "generatedAt": "2026-11-05T03:00:13.347365",
       "note": "Daily source-balanced news digest \u2014 morning update.",
       "sectionCount": 5,
       "storyCount": 26,
@@ -36,11 +68,11 @@
       "id": "2026-11-04-expanded.json",
       "date": "2026-11-04",
       "title": "Daily Source Digest",
-      "generatedAt": "2026-11-04T03:00:15.937780",
+      "generatedAt": "2026-11-04T12:30:14.866156",
       "note": "Daily source-balanced news digest \u2014 morning update.",
-      "sectionCount": 5,
-      "storyCount": 26,
-      "sourceCount": 26,
+      "sectionCount": 2,
+      "storyCount": 11,
+      "sourceCount": 11,
       "sections": [
         {
           "name": "World / Geopolitics",
@@ -49,18 +81,6 @@
         {
           "name": "Australia",
           "storyCount": 4
-        },
-        {
-          "name": "Technology",
-          "storyCount": 5
-        },
-        {
-          "name": "Asia Pacific",
-          "storyCount": 5
-        },
-        {
-          "name": "Business / Finance",
-          "storyCount": 5
         }
       ]
     },
@@ -287,39 +307,7 @@
           "storyCount": 5
         }
       ]
-    },
-    {
-      "id": "2026-10-27-expanded.json",
-      "date": "2026-10-27",
-      "title": "Daily Source Digest",
-      "generatedAt": "2026-10-27T12:30:34.908379",
-      "note": "Daily source-balanced news digest \u2014 morning update.",
-      "sectionCount": 5,
-      "storyCount": 26,
-      "sourceCount": 26,
-      "sections": [
-        {
-          "name": "World / Geopolitics",
-          "storyCount": 7
-        },
-        {
-          "name": "Australia",
-          "storyCount": 4
-        },
-        {
-          "name": "Technology",
-          "storyCount": 5
-        },
-        {
-          "name": "Asia Pacific",
-          "storyCount": 5
-        },
-        {
-          "name": "Business / Finance",
-          "storyCount": 5
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-04"
+  "lastUpdated": "2026-11-05"
 }
