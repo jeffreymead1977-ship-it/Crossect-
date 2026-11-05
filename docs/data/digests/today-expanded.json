@@ -2,24 +2,42 @@
   "id": "2026-11-05-expanded",
   "date": "2026-11-05",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-11-05T03:00:13.347365",
+  "generatedAt": "2026-11-05T12:30:12.625181",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-11-05T03:00:13",
+  "updatedAt": "2026-11-05T12:30:12",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Trump-Endorsed Darline Graham Goes Down As Democrats Flip Longtime GOP Senate Seat",
-          "summary": "Democrat Annie Andrews defeated Trump-endorsed Darline Graham in South Carolina's Senate race following Lindsey Graham's death, according to Breitbart. Separately, the Daily Wire reported that Democrat Adam Hamilton defeated Republican Sen. Roger Marshall in Kansas, becoming the state's first Democratic U.S. senator elected since 1932.",
+          "title": "Democrats won Congress. But can they deliver on their promises?",
+          "summary": "Democrats won control of Congress in the midterm elections, with party leaders in both chambers hailing the result as a major victory. Foreign leaders and political parties also reacted to the outcome, according to Al Jazeera and Breitbart. The available reports do not establish how Democrats will use that majority or whether they can fulfill their promises.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/11/03/annie-andrews-defeats-darline-graham-in-south-carolina-senate-race/",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Democrat leaders hail midterm election success",
+              "excerpt": "The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793825425.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Democrat leaders hail midterm election success",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/national-security/2026/11/04/world-leaders-react-democrat-midterm-election-victory/",
               "source": "Breitbart",
-              "headline": "Democrat Annie Andrews Defeats Darline Graham in South Carolina Senate Race",
-              "excerpt": "Democrat Annie Andrews has defeated Darline Graham in South Carolina's Senate race, a shocking result following the death of Lindsey Graham. The post Democrat Annie Andrews Defeats Darline Graham in South Carolina Senate Race appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/GettyImages-2303407550-crop-640x335.jpg",
-              "imageAlt": "Democrat Annie Andrews Defeats Darline Graham in South Carolina Senate Race",
+              "headline": "World Leaders React to Democrat Midterm Election Victory",
+              "excerpt": "Leaders of foreign governments and major political parties around the world responded to the Democrats’ midterm election victory. The post World Leaders React to Democrat Midterm Election Victory appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/newsstand-in-Spain-640x335.jpg",
+              "imageAlt": "World Leaders React to Democrat Midterm Election Victory",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -28,16 +46,229 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
               "confidence": "low",
               "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793825425.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Democrat leaders hail midterm election success",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "summary": "Ukraine says a Russian strike on the village of Komyshuvakha in the Zaporizhia region killed at least 40 people. Kyiv says about 30 more people may remain under rubble, while rescue work has been interrupted by Russian drones. The BBC reports that body-camera footage depicts a deadly double-tap bombing.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+              "excerpt": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeb7dae-1793818030.jpg?resize=1920%2C1440",
+              "imageAlt": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/democrat-adam-hamilton-stuns-gop-flips-senate-seat-for-first-time-since-before-ww2",
+              "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+              "excerpt": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png",
+              "imageAlt": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aeb7dae-1793818030.jpg?resize=1920%2C1440",
+          "imageAlt": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Top secrets come spilling out",
+          "summary": "A CNN opinion article examines the consequences of major secrets becoming public. It recalls the 1917 Zimmermann Telegram, in which Germany proposed unrestricted submarine warfare and sought Mexican support against the United States. Publication of the decoded message caused a sensation and helped propel the US into the First World War against Germany.",
+          "links": [
+            {
+              "url": "https://www.cnn.com/2023/04/16/opinions/top-secrets-come-spilling-out-opinion-column-galant/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Top secrets come spilling out",
+              "excerpt": "In 1917, British analysts deciphered a coded message the German foreign minister sent to one of his country's diplomats vowing to begin \"unrestricted submarine warfare\" and seeking to win over Mexico with a promise to \"reconquer the lost territory in Texas, New Mexico and Arizona\" if the US entered the world war. When it became public, the Zimmerman Telegram caused a sensation, helping propel the US into the conflict against Germany.",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
+              "imageAlt": "Top secrets come spilling out",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230413145300-02-jack-teixeira-super-169.jpg",
+          "imageAlt": "Top secrets come spilling out",
+          "imageCredit": "CNN"
+        },
+        {
+          "title": "Gunman Opens Fire On Employees. A Security Guard Stops Him Cold.",
+          "summary": "A gunman drove into a courtyard at Citibank's campus in Brandon, near Tampa, and opened fire with a rifle, according to the three reports. Authorities said he killed a woman and injured four other people before a security guard fatally shot him. The surviving victims were taken to hospital with injuries described as non-life-threatening.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/gunman-opens-fire-on-employees-a-security-guard-stops-him-cold",
               "source": "Daily Wire",
-              "headline": "Democrat Adam Hamilton Stuns GOP, Flips Senate Seat For First Time Since Before WW2",
-              "excerpt": "Democrat Adam Hamilton defeated incumbent Republican Sen. Roger Marshall in Kansas on Tuesday, delivering one of the midterm election’s biggest upsets and ending nearly a century of Republican dominance in the state’s U.S. Senate delegation. Hamilton’s victory marks the first time since 1932 that Kansas voters have elected a Democrat to the Senate. The result ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2302724093.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Democrat Adam Hamilton Stuns GOP, Flips Senate Seat For First Time Since Before WW2",
+              "headline": "Gunman Opens Fire On Employees. A Security Guard Stops Him Cold.",
+              "excerpt": "A security guard at a Tampa-area Citibank campus fatally shot a gunman who killed a woman Wednesday, stopping an attack that also left four other people injured, authorities said. The four surviving victims were taken to a nearby hospital with non-life-threatening injuries, Hillsborough County Sheriff’s Office Chief Deputy Frank Losat said during a Wednesday afternoon ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/Untitled-Design-1.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Gunman Opens Fire On Employees. A Security Guard Stops Him Cold.",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/crime/4793405/citibank-campus-shooting-tampa-florida/",
+              "source": "Washington Examiner",
+              "headline": "Two dead, including gunman, after shooting at Citibank campus near Tampa, Florida: Police",
+              "excerpt": "Two people were killed, including a gunman who opened fire at a Citibank office campus in the Tampa, Florida, area Wednesday, prompting a massive law enforcement response as employees scrambled for safety, police said. The shooting unfolded shortly after noon at the banking giant’s campus in Brandon, Florida, about 15 miles from Tampa, where approximately […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2024/09/police-tape-crime-scene.webp?w=1024",
+              "imageAlt": "Two dead, including gunman, after shooting at Citibank campus near Tampa, Florida: Police",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/4/florida-authorities-say-2-dead-tampa-office-complex-including-gunman/",
+              "source": "Washington Times",
+              "headline": "Florida authorities say 2 dead at Tampa office complex, including gunman shot by security guard",
+              "excerpt": "A gunman plowed a car into a courtyard on Citibank's sprawling Tampa business campus on Wednesday and opened fire with a rifle, killing a woman before a security guard fatally shot him, authorities said.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/04/APTOPIX_Florida_Office_Complex_Shooting_48949_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Florida authorities say 2 dead at Tampa office complex, including gunman shot by security guard",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/Untitled-Design-1.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Gunman Opens Fire On Employees. A Security Guard Stops Him Cold.",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "Billionaire Leon Black hits Rep. Robert Garcia with defamation suit over Epstein remarks",
+          "summary": "Billionaire and Apollo Global Management co-founder Leon Black filed a federal defamation lawsuit against Democratic California Rep. Robert Garcia. The suit alleges Garcia made maliciously false public statements linking Black to convicted sex offender Jeffrey Epstein. The reports describe these as Black's allegations; they do not provide Garcia's response.",
+          "links": [
+            {
+              "url": "https://www.washingtonexaminer.com/news/justice/4793513/leon-black-robert-garcia-defamation-lawsuit-epstein/",
+              "source": "Washington Examiner",
+              "headline": "Billionaire Leon Black hits Rep. Robert Garcia with defamation suit over Epstein remarks",
+              "excerpt": "Leon Black filed a lawsuit against Rep. Robert Garcia (D-CA) on Wednesday, alleging the congressman defamed him by making statements related to the billionaire’s relationship with late convicted sex offender Jeffrey Epstein. Black, who helped found private equity giant Apollo Global Management, accused Garcia of making maliciously false statements, citing statements the ranking member of […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26246480870989.jpg?w=1024",
+              "imageAlt": "Billionaire Leon Black hits Rep. Robert Garcia with defamation suit over Epstein remarks",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/4/billionaire-leon-black-sues-us-rep-robert-garcia-defamation-epstein/",
+              "source": "Washington Times",
+              "headline": "Billionaire Leon Black sues U.S. Rep. Robert Garcia for defamation over Epstein comments",
+              "excerpt": "Billionaire Leon Black on Wednesday filed a federal defamation lawsuit against California Rep. Robert Garcia for public comments the Democratic congressman made tying him to disgraced financier Jeffrey Epstein.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/04/Epstein_Leon_Black_Defamation_Lawsuit_77_97_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Billionaire Leon Black sues U.S. Rep. Robert Garcia for defamation over Epstein comments",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26246480870989.jpg?w=1024",
+          "imageAlt": "Billionaire Leon Black hits Rep. Robert Garcia with defamation suit over Epstein remarks",
+          "imageCredit": "Washington Examiner"
+        },
+        {
+          "title": "Marsha Blackburn Secures Victory In Tennessee Governor’s Race",
+          "summary": "Republican Sen. Marsha Blackburn won Tennessee's gubernatorial race against Democrat Jerri Green, according to the Daily Wire. With 95% of the expected vote counted, Blackburn led 45% to 43%, while independent David Hatley had nearly 10%; she is set to succeed term-limited Gov. Bill Lee. A separate linked Breitbart report says Democratic Arizona Gov. Katie Hobbs won reelection against Republican Rep. Andy Biggs.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/midterm-election/2026/11/04/democrat-gov-katie-hobbs-secures-victory-arizona-gubernatorial-race/",
+              "source": "Breitbart",
+              "headline": "Democrat Gov. Katie Hobbs Secures Victory in Arizona Gubernatorial Race",
+              "excerpt": "Democrat Arizona Gov. Katie Hobbs won her reelection bid against Republican challenger Rep. Andy Biggs. The post Democrat Gov. Katie Hobbs Secures Victory in Arizona Gubernatorial Race appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/Katie-Hobbs-3-640x335.jpg",
+              "imageAlt": "Democrat Gov. Katie Hobbs Secures Victory in Arizona Gubernatorial Race",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/marsha-blackburn-secures-victory-in-tennessee-governors-race",
+              "source": "Daily Wire",
+              "headline": "Marsha Blackburn Secures Victory In Tennessee Governor’s Race",
+              "excerpt": "Republican Sen. Marsha Blackburn won the race to become Tennessee’s next governor on Tuesday, defeating Democrat Jerri Green. With 95% of the expected vote counted, Blackburn led Green 45% to 43%. Independent David Hatley siphoned off nearly 10% of the vote. The senator will succeed Governor Bill Lee, who is term-limited. Blackburn’s move to the ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2299055777.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Marsha Blackburn Secures Victory In Tennessee Governor’s Race",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -51,21 +282,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/11/GettyImages-2303407550-crop-640x335.jpg",
-          "imageAlt": "Democrat Annie Andrews Defeats Darline Graham in South Carolina Senate Race",
+          "imageUrl": "https://media.breitbart.com/media/2026/11/Katie-Hobbs-3-640x335.jpg",
+          "imageAlt": "Democrat Gov. Katie Hobbs Secures Victory in Arizona Gubernatorial Race",
           "imageCredit": "Breitbart"
         },
         {
-          "title": "Democrat Josh Turek Flips Another Middle America Red Senate Seat",
-          "summary": "Democratic state Rep. Josh Turek won Iowa's U.S. Senate race, defeating Republican Rep. Ashley Hinson for the seat being vacated by retiring Sen. Joni Ernst. The result is a setback for Republicans in a state Donald Trump carried by double digits in 2024.",
+          "title": "Trump Admits Iran War Cost Republicans Votes, Insists: ‘I’d Do It Again’",
+          "summary": "President Donald Trump said the war with Iran cost Republicans votes in the midterm elections but maintained that he would launch the operation again. He argued that preventing Tehran from obtaining nuclear weapons outweighed the political cost, according to Breitbart. Vice President JD Vance likewise attributed Republican losses to the war, the Daily Wire reports.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/11/03/iasen/",
+              "url": "https://www.breitbart.com/midterm-election/2026/11/04/trump-admits-iran-war-cost-republicans-votes-insists-id-do-it-again/",
               "source": "Breitbart",
-              "headline": "Democrat Josh Turek Defeats Republican Ashley Hinson in Iowa Senate Race",
-              "excerpt": "Democratic state Rep. Josh Turek won Iowa's U.S. Senate race Tuesday, defeating Rep. Ashley Hinson for the seat being vacated by retiring Sen. Joni Ernst. The post Democrat Josh Turek Defeats Republican Ashley Hinson in Iowa Senate Race appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/AP26308209183580-crop-640x335.jpg",
-              "imageAlt": "Democrat Josh Turek Defeats Republican Ashley Hinson in Iowa Senate Race",
+              "headline": "Trump Admits Iran War Cost Republicans Votes, Insists: ‘I’d Do It Again’",
+              "excerpt": "President Donald Trump acknowledged Wednesday that the conflict with Iran cost Republicans votes in the midterm elections but insisted he would launch the military operation again, arguing that preventing Tehran from acquiring nuclear weapons outweighed the political consequences. The post Trump Admits Iran War Cost Republicans Votes, Insis",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/Donald-Trump-Iran-War-640x335.jpeg",
+              "imageAlt": "Trump Admits Iran War Cost Republicans Votes, Insists: ‘I’d Do It Again’",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
@@ -77,126 +308,6 @@
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
-            {
-              "url": "https://www.dailywire.com/news/democrat-josh-turek-flips-another-middle-america-red-senate-seat",
-              "source": "Daily Wire",
-              "headline": "Democrat Josh Turek Flips Another Middle America Red Senate Seat",
-              "excerpt": "Iowa voters elected Democrat Josh Turek to the U.S. Senate on Tuesday, delivering a setback to Republicans in a state President Donald Trump carried by double digits in 2024. Turek, a state representative and four-time Paralympic wheelchair basketball competitor, defeated Republican Rep. Ashley Hinson to succeed outgoing GOP Sen. Joni Ernst. His victory marks a ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2302094252-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Democrat Josh Turek Flips Another Middle America Red Senate Seat",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/11/AP26308209183580-crop-640x335.jpg",
-          "imageAlt": "Democrat Josh Turek Defeats Republican Ashley Hinson in Iowa Senate Race",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Trump vows to work with Democrats but has yet to call Schumer or Jeffries after midterm rout",
-          "summary": "Donald Trump pledged to work with Democrats after they won majorities in both chambers of Congress, but Chuck Schumer and Hakeem Jeffries said Wednesday that he had not contacted them. Jeffries said voters had “had enough of the extremism” following the Democratic midterm victories.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/11/03/hakeem-jeffries-says-americans-have-had-enough-of-the-extremism-as-democrats-take-majorities-in-congress/",
-              "source": "Breitbart",
-              "headline": "Hakeem Jeffries Says Americans Have 'Had Enough of the Extremism' as Democrats Take Majorities in Congress",
-              "excerpt": "House Minority Leader Hakeem Jeffries (D-NY) said that Americans across the country have \"had enough of the extremism\" after Democrats took majorities in the House and the Senate in Tuesday's midterm elections. The post Hakeem Jeffries Says Americans Have ‘Had Enough of the Extremism’ as Democrats Take Majoritie",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/GettyImages-2302982350-crop-640x335.jpg",
-              "imageAlt": "Hakeem Jeffries Says Americans Have 'Had Enough of the Extremism' as Democrats Take Majorities in Congress",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/senate/4792375/trump-schumer-jeffries-call/",
-              "source": "Washington Examiner",
-              "headline": "Trump vows to work with Democrats but has yet to call Schumer or Jeffries after midterm rout",
-              "excerpt": "Senate Minority Leader Chuck Schumer (D-NY) and House Minority Leader Hakeem Jeffries (D-NY) said Wednesday that President Donald Trump had yet to call them, despite the president’s pledge to work with Democrats after their sweeping midterm victories. “No, not yet,” Schumer said when asked during a victory press conference whether he had heard from Trump […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2025/09/image-collage-7k2lt19ew-1758389183820-e1758390387881.jpg?1758375992&w=1024",
-              "imageAlt": "Trump vows to work with Democrats but has yet to call Schumer or Jeffries after midterm rout",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/11/GettyImages-2302982350-crop-640x335.jpg",
-          "imageAlt": "Hakeem Jeffries Says Americans Have 'Had Enough of the Extremism' as Democrats Take Majorities in Congress",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Democrats have won. Now they have a choice to make",
-          "summary": "Democrats won control of both chambers of Congress after making major gains in the midterm elections, including victories in red-state Senate races. The results leave the party to decide how to use its new majorities, while a Fox News voter poll linked the sweep to Donald Trump's 38% approval rating and concerns about inflation, tariffs and the Iran war.",
-          "links": [
-            {
-              "url": "https://www.foxnews.com/politics/voter-poll-2026-midterm-elections-usher-blue-wave-democrats-win-control-congress",
-              "source": "Fox News",
-              "headline": "Fox News Voter Poll: 2026 midterm elections usher in a blue wave as Democrats win control of Congress",
-              "excerpt": "President Donald hTrump's job approval sank to 38% as inflation, tariffs and the Iran war drove a historic Democratic sweep of the House and the Senate.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeffries-clark-delbene-dccc-election-watch-party.jpg?ve=1&tl=1",
-              "imageAlt": "Fox News Voter Poll: 2026 midterm elections usher in a blue wave as Democrats win control of Congress",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4791784/democrats-have-choice-to-make/",
-              "source": "Washington Examiner",
-              "headline": "Democrats have won. Now they have a choice to make",
-              "excerpt": "Having won big congressional majorities in a blue tsunami midterm election, Democrats now must decide what to do with them. The party posted historic gains on Tuesday night, easily winning both houses of Congress and tearing through red-state Senate races in a major rebuke of President Donald Trump and Republicans. But the breadth of the […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/jeffries-watch-party-midterms.jpg?w=1024",
-              "imageAlt": "Democrats have won. Now they have a choice to make",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeffries-clark-delbene-dccc-election-watch-party.jpg?ve=1&tl=1",
-          "imageAlt": "Fox News Voter Poll: 2026 midterm elections usher in a blue wave as Democrats win control of Congress",
-          "imageCredit": "Fox News"
-        },
-        {
-          "title": "JD Vance Pins Republican Midterm Losses On Iran War",
-          "summary": "Vice President JD Vance blamed the war in Iran for Republicans' sweeping midterm losses. He said voters who supported Donald Trump in 2024 turned against the party in 2026 because of the conflict.",
-          "links": [
             {
               "url": "https://www.dailywire.com/news/jd-vance-pins-republican-midterm-losses-on-iran-war",
               "source": "Daily Wire",
@@ -214,121 +325,11 @@
               "reliability": "low",
               "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (opinion|op-ed|analysis|sponsored|advertorial|promoted)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/vances-scathing-iran-war-postmortem-puts-potential-2028-gop-showdown-focus-everyone-knows-why",
-              "source": "Fox News",
-              "headline": "Vance's scathing Iran war postmortem puts potential 2028 GOP showdown in focus: 'Everyone knows why'",
-              "excerpt": "JD Vance blamed the war for Republicans' sweeping midterm elections losses, saying voters who backed Trump in 2024 turned against the party in 2026.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/vance-rally-ohio.jpg?ve=1&tl=1",
-              "imageAlt": "Vance's scathing Iran war postmortem puts potential 2028 GOP showdown in focus: 'Everyone knows why'",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2292389868.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "JD Vance Pins Republican Midterm Losses On Iran War",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "The Muslim Brotherhood Gets Their Man In Michigan",
-          "summary": "Democrat Abdul El-Sayed was leading Republican Mike Rogers by more than three points with 75% of ballots counted in Michigan's U.S. Senate race. The reports said his expected victory would make him the first Muslim U.S. senator, one of several historic firsts in the 2026 midterms.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/the-muslim-brotherhood-gets-their-man-in-michigan",
-              "source": "Daily Wire",
-              "headline": "The Muslim Brotherhood Gets Their Man In Michigan",
-              "excerpt": "MICHIGAN — Abdul El-Sayed, a far-left Islamist Democrat from Detroit, clinched victory in one of the biggest races of the 2026 midterms to become the first Muslim senator in U.S. history. El-Sayed was leading his Republican opponent Mike Rogers by over three points with 75% of ballots counted, and that lead is likely to grow ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2299545735.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "The Muslim Brotherhood Gets Their Man In Michigan",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/first-muslim-senator-first-black-female-governor-2026-midterm-election-results-make-history",
-              "source": "Fox News",
-              "headline": "First Muslim senator, first Black female governor: 2026 midterm election results make history",
-              "excerpt": "The 2026 midterms resulted in multiple historic firsts, with Donalds set to become Florida's first Black governor, El-Sayed set to be the first Muslim U.S. senator, and more.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/9bf89f84-byron-donalds-thumbs-up.jpg?ve=1&tl=1",
-              "imageAlt": "First Muslim senator, first Black female governor: 2026 midterm election results make history",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/10/GettyImages-2299545735.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "The Muslim Brotherhood Gets Their Man In Michigan",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "86,000 Private Sector Jobs Added in October, ADP Says",
-          "summary": "U.S. private-sector employers added 86,000 jobs in October, according to payroll processor ADP. ADP economist Nela Richardson said employers of all sizes hired and that job changers were attracted by bonuses, overtime, additional hours and higher base pay.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/economy/2026/11/04/86000-private-sector-jobs-added-in-october-adp-says/",
-              "source": "Breitbart",
-              "headline": "86,000 Private Sector Jobs Added in October, ADP Says",
-              "excerpt": "\"\"Employers of all sizes were hiring last month, and our data suggests that job-changers were lured by a combination of bonuses, overtime, and more hours in addition to higher base pay,\" ADP economist Nela Richardson said. The post 86,000 Private Sector Jobs Added in October, ADP Says appeared first on Breitbar",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/GettyImages-2291645568-e1793800584421-638x335.jpg",
-              "imageAlt": "86,000 Private Sector Jobs Added in October, ADP Says",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://nypost.com/2026/11/04/business/private-sector-added-86000-jobs-in-october-exceeded-expectations-adp/",
-              "source": "New York Post",
-              "headline": "Private sector added 86,000 jobs in October, exceeded expectations: ADP",
-              "excerpt": "Companies in the private sector added 86,000 jobs in October, payroll processing firm ADP said in its latest report on Wednesday.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fclose-up-shot-hand-holding-144375608.jpg?w%3D1024",
-              "imageAlt": "Private sector added 86,000 jobs in October, exceeded expectations: ADP",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/11/GettyImages-2291645568-e1793800584421-638x335.jpg",
-          "imageAlt": "86,000 Private Sector Jobs Added in October, ADP Says",
+          "imageUrl": "https://media.breitbart.com/media/2026/11/Donald-Trump-Iran-War-640x335.jpeg",
+          "imageAlt": "Trump Admits Iran War Cost Republicans Votes, Insists: ‘I’d Do It Again’",
           "imageCredit": "Breitbart"
         }
       ]
@@ -337,16 +338,62 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "Transport minister forced to take back seat at his own press conference",
-          "summary": "South Australia's premier and senior ministers continue to face questions over the state's largest and most expensive road infrastructure project. The scrutiny has fuelled debate about whether the transport minister should resign.",
+          "title": "Has Poland become a banana republic?",
+          "summary": "A Spectator Australia article questions the state of Poland's constitutional order. Its excerpt says police descended on 12A Johann Christian Schuch Alley in Warsaw on Friday evening, but the available text does not explain the purpose or outcome of the operation. The article's characterization of Poland as a possible “banana republic” is presented as commentary rather than an established fact.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-11-04/torrens-to-darlington-controversy-engulfs-sa-government/107344672",
+              "url": "https://www.spectator.com.au/2026/11/has-poland-become-a-banana-republic/",
+              "source": "Spectator Australia",
+              "headline": "Has Poland become a banana republic?",
+              "excerpt": "On Friday evening, policemen descended upon 12A Johann Christian Schuch Alley in Warsaw – the inconspicuous address of the constitutional… The post Has Poland become a banana republic? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/11/polands-constitutional-squa",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2302861679_e1793704721165.jpg",
+              "imageAlt": "Has Poland become a banana republic?",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2302861679_e1793704721165.jpg",
+          "imageAlt": "Has Poland become a banana republic?",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
+          "summary": "Beau Lamarre-Condon has taken the witness box in his trial over the deaths of Jesse Baird and Luke Davies. He has pleaded not guilty to murdering the pair in early 2024, according to the Guardian and ABC News. The Guardian reports that he told the court he suffered daily bullying while working for NSW Police.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police",
+              "excerpt": "Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024 Live updates: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , <a href=\"https:/",
+              "imageUrl": "https://i.guim.co.uk/img/media/44608c2394601d9f8dad83d90b1a5867b69d293a/514_185_992_794/master/992.jpg?width=140&quality=85&auto=format&fit=max&s=2187ec8c32e3445ac5d54778c2d88893",
+              "imageAlt": "Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-11-05/beau-lamarre-condon-gives-evidence-in-murder-trial-live-blog/107348876",
               "source": "ABC Australia",
-              "headline": "Transport minister forced to take back seat at his own press conference",
-              "excerpt": "The premier and his senior lieutenants have been grilled on multiple occasions in the past fortnight about the biggest and most expensive road infrastructure project in SA's history but debate continues over whether it's time for one minister to fall on his sword.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/fcce8c88431ab24ef364b66403c942ec?impolicy=wcms_crop_resize&cropH=1969&cropW=3500&xPos=0&yPos=68&width=862&height=485",
-              "imageAlt": "Transport minister forced to take back seat at his own press conference",
+              "headline": "Live: Beau Lamarre-Condon gives evidence in double murder trial",
+              "excerpt": "Beau Lamarre-Condon, accused of murdering Jesse Baird and Luke Davies in 2024, is in the witness box for the first time.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/230139f2566d6ae094aebde9c21fc1d2?impolicy=wcms_crop_resize&cropH=901&cropW=1602&xPos=29&yPos=412&width=862&height=485",
+              "imageAlt": "Live: Beau Lamarre-Condon gives evidence in double murder trial",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -361,96 +408,65 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/fcce8c88431ab24ef364b66403c942ec?impolicy=wcms_crop_resize&cropH=1969&cropW=3500&xPos=0&yPos=68&width=862&height=485",
-          "imageAlt": "Transport minister forced to take back seat at his own press conference",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/44608c2394601d9f8dad83d90b1a5867b69d293a/514_185_992_794/master/992.jpg?width=140&quality=85&auto=format&fit=max&s=2187ec8c32e3445ac5d54778c2d88893",
+          "imageAlt": "Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "'Doppelganger' may have been mistaken for MP Luke Gosling in bail caution",
-          "summary": "Northern Territory Police acknowledged that a formal caution issued to federal MP Luke Gosling for allegedly breaching bail may have resulted from mistaken identity. His lawyers say the possibility that a lookalike was involved could materially assist his defence.",
+          "title": "Payman asks if PM is ‘waiting for what happened to Helen Haines’ to occur again – video",
+          "summary": "Independent senator Fatima Payman accused Prime Minister Anthony Albanese of being “petty” for not granting her additional staff after she left the Labor Party in 2024. Speaking at a late-night Senate estimates hearing, she said she had requested an extra adviser in line with other independent offices two years earlier. She raised the issue amid escalating threats of political violence and referred to what happened to Helen Haines.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-11-04/luke-gosling-bail-caution-possible-mistaken-identity-police/107336970",
-              "source": "ABC Australia",
-              "headline": "'Doppelganger' may have been mistaken for MP Luke Gosling in bail caution",
-              "excerpt": "Northern Territory Police have admitted a formal caution issued to federal MP Luke Gosling for allegedly breaching his bail in September may have been a case of mistaken identity, which his lawyers say could \"materially assist the defence\".",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/49c70e1014fa7a28b1c0ae2304996372?impolicy=wcms_crop_resize&cropH=1828&cropW=3249&xPos=359&yPos=392&width=862&height=485",
-              "imageAlt": "'Doppelganger' may have been mistaken for MP Luke Gosling in bail caution",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
+              "url": "https://www.theguardian.com/australia-news/video/2026/oct/27/payman-asks-if-pm-is-waiting-for-what-happened-to-helen-haines-to-occur-again-video-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Payman asks if PM is ‘waiting for what happened to Helen Haines’ to occur again – video",
+              "excerpt": "At a late-night Senate estimates hearing, Western Australian independent senator Fatima Payman accuses the Australian prime minister, Anthony Albanese, of being 'petty' by not granting her additional staff members after she defected from the Labor party in 2024, driving the point home amid escalating threats of political violence. Payman said she had requested an additional adviser, in line with other independent political offices, two years ago but the prime minister had yet to process the r",
+              "imageUrl": "https://i.guim.co.uk/img/media/c3d10285db8747f33c64fddffb5611f95b097a87/183_0_3011_2410/master/3011.jpg?width=140&quality=85&auto=format&fit=max&s=4fb33edf5d17fe7b6eae7e78c839d60e",
+              "imageAlt": "Payman asks if PM is ‘waiting for what happened to Helen Haines’ to occur again – video",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
               "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/49c70e1014fa7a28b1c0ae2304996372?impolicy=wcms_crop_resize&cropH=1828&cropW=3249&xPos=359&yPos=392&width=862&height=485",
-          "imageAlt": "'Doppelganger' may have been mistaken for MP Luke Gosling in bail caution",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/c3d10285db8747f33c64fddffb5611f95b097a87/183_0_3011_2410/master/3011.jpg?width=140&quality=85&auto=format&fit=max&s=4fb33edf5d17fe7b6eae7e78c839d60e",
+          "imageAlt": "Payman asks if PM is ‘waiting for what happened to Helen Haines’ to occur again – video",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "Essential workers being priced out of rental market, report shows",
-          "summary": "Anglicare's annual Rental Affordability Snapshot found that essential workers are being priced out of the rental market. Workers in occupations including retail, social work and cleaning could afford fewer than 1% of listed rentals.",
+          "title": "A ‘woke’ TV news channel will never work",
+          "summary": "A Spectator Australia commentary argues that a “woke” television news channel would not succeed. The excerpt refers to MPs questioning Ofcom chairman Sir Ian Cheshire over the regulator's alleged failure to curb bias at GB News. The claim in the headline is the author's opinion, not a reported finding.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-11-05/essential-workers-priced-out-of-rental-market/107346978",
-              "source": "ABC Australia",
-              "headline": "Essential workers being priced out of rental market, report shows",
-              "excerpt": "Anglicare's annual Rental Affordability Snapshot has revealed key occupations, including retail workers, social workers and cleaners, can afford fewer than 1 per cent of rental listings.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/eb91666c5df2e0577a9e7b403d8d830d?impolicy=wcms_crop_resize&cropH=4608&cropW=8192&xPos=0&yPos=219&width=862&height=485",
-              "imageAlt": "Essential workers being priced out of rental market, report shows",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "url": "https://www.spectator.com.au/2026/10/a-woke-tv-news-channel-will-never-work/",
+              "source": "Spectator Australia",
+              "headline": "A ‘woke’ TV news channel will never work",
+              "excerpt": "Quizzed by MPs last week on Ofcom’s alleged failure to rein in bias at the broadcaster GB News, the quango’s chairman Sir Ian… The post A ‘woke’ TV news channel will never work appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/would-a-british-wealth-fund-work",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_1530919382_2.jpg",
+              "imageAlt": "A ‘woke’ TV news channel will never work",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "article-text: Right cue(s): (woke|cancel culture|left-wing extremis[mt]|socialist agenda)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/eb91666c5df2e0577a9e7b403d8d830d?impolicy=wcms_crop_resize&cropH=4608&cropW=8192&xPos=0&yPos=219&width=862&height=485",
-          "imageAlt": "Essential workers being priced out of rental market, report shows",
-          "imageCredit": "ABC News"
-        },
-        {
-          "title": "Judge rules CCTV footage in murder case does not show 'self-harm stabbing'",
-          "summary": "A judge ruled that CCTV footage did not support an argument that an alleged murder victim may have stabbed himself. The accused, who is charged with fatally stabbing his cousin outside an Alice Springs pub last year, has been committed to stand trial.",
-          "links": [
-            {
-              "url": "https://www.abc.net.au/news/2026-11-04/alice-springs-murder-committal-defence-argues-man-self-harmed/107342702",
-              "source": "ABC Australia",
-              "headline": "Judge rules CCTV footage in murder case does not show 'self-harm stabbing'",
-              "excerpt": "A man accused of stabbing his cousin to death outside an Alice Springs pub last year has been committed to stand trial after arguing the alleged murder victim may have self-harmed.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/8fb20970b1bf12df186d329a99d254d5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-              "imageAlt": "Judge rules CCTV footage in murder case does not show 'self-harm stabbing'",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/8fb20970b1bf12df186d329a99d254d5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-          "imageAlt": "Judge rules CCTV footage in murder case does not show 'self-harm stabbing'",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/09/GettyImages_1530919382_2.jpg",
+          "imageAlt": "A ‘woke’ TV news channel will never work",
+          "imageCredit": "Spectator Australia"
         }
       ]
     },
@@ -458,144 +474,144 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-          "summary": "Indian microdrama platform EloElo has raised $80 million from NBCUniversal as the short serialized format grows in the country. More than 118 million people in India watch microdramas monthly, while analysts estimate EloElo's Story TV has over 33 million active users.",
+          "title": "Open source AI is booming. Hugging Face explains who profits.",
+          "summary": "Open-source AI models are becoming more mainstream among businesses, governments and startups seeking lower costs, greater control and flexibility. A TechCrunch discussion with Hugging Face examines how companies can capture value when increasingly capable models are freely available. It also considers whether US developers can keep pace as Chinese open models gain ground.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+              "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
               "source": "TechCrunch",
-              "headline": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-              "excerpt": "More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.32.22-PM.jpeg?resize=1200,675",
-              "imageAlt": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+              "headline": "Open source AI is booming. Hugging Face explains who profits.",
+              "excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+              "imageAlt": "Open source AI is booming. Hugging Face explains who profits.",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.32.22-PM.jpeg?resize=1200,675",
-          "imageAlt": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+          "imageAlt": "Open source AI is booming. Hugging Face explains who profits.",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "ChatGPT will now make you animated GIFs",
-          "summary": "ChatGPT can now create animated GIFs from a text prompt or an uploaded photo. The capability is rolling out alongside OpenAI's Images 2.6 model and includes options for adjusting the output.",
+          "title": "French blood banks hacked in latest cyber-attack on Europe",
+          "summary": "Hackers accessed control systems serving three French cold stores that hold vital blood products, France's national blood service said. Temperature and defrosting thresholds were raised to very high levels in the incident. The Guardian describes it as an apparent escalation in cyberattacks targeting refrigerators and freezers across Europe.",
           "links": [
             {
-              "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-              "source": "The Verge",
-              "headline": "ChatGPT will now make you animated GIFs",
-              "excerpt": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust th",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-              "imageAlt": "ChatGPT will now make you animated GIFs",
-              "outlet": "The Verge",
+              "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+              "source": "The Guardian Technology",
+              "headline": "French blood banks hacked in latest cyber-attack on Europe",
+              "excerpt": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products France’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. <a href=\"https://presse.efs.sante.fr/actualites/l-efs-confirme-l-incident-de-cybersecurite-impactant-un-de-ces-prestataires-d-e",
+              "imageUrl": "https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=140&quality=85&auto=format&fit=max&s=35fae51e2686a84fe83678ec82fcd2a1",
+              "imageAlt": "French blood banks hacked in latest cyber-attack on Europe",
+              "outlet": "The Guardian",
               "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
+              "sourceReliability": "high",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "imageAlt": "ChatGPT will now make you animated GIFs",
-          "imageCredit": "The Verge"
-        },
-        {
-          "title": "Data centers are turning to old jet engines as the wait for power grows",
-          "summary": "Data-centre builders are turning to previously discarded jet engines while facing years-long waits for grid connections and new turbines. The stopgap provides power but is less efficient and less environmentally friendly than conventional alternatives.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-              "source": "TechCrunch",
-              "headline": "Data centers are turning to old jet engines as the wait for power grows",
-              "excerpt": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
-              "imageAlt": "Data centers are turning to old jet engines as the wait for power grows",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
-          "imageAlt": "Data centers are turning to old jet engines as the wait for power grows",
-          "imageCredit": "TechCrunch"
+          "imageUrl": "https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=140&quality=85&auto=format&fit=max&s=35fae51e2686a84fe83678ec82fcd2a1",
+          "imageAlt": "French blood banks hacked in latest cyber-attack on Europe",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "Sequoia hits rewind, undoing 20 years of expansion",
-          "summary": "Sequoia is consolidating into a smaller venture-capital firm centred on the Bay Area after two decades of expansion. It is closing programs and offices while announcing roughly $10 billion in new funds.",
+          "title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+          "summary": "The UK Home Office is preparing a live facial-recognition program for immigration enforcement, according to policy documents reported by the Guardian. The technology could be deployed at transport hubs and public events. The proposed uses include enforcement of non-criminal immigration offences.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-              "source": "TechCrunch",
-              "headline": "Sequoia hits rewind, undoing 20 years of expansion",
-              "excerpt": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649",
-              "imageAlt": "Sequoia hits rewind, undoing 20 years of expansion",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "url": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
+              "source": "The Guardian Technology",
+              "headline": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+              "excerpt": "Documents show Home Office developing programme to use technology for general immigration enforcement The Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British history. Policy documents show the government has been developing a programme to deploy live facial recognition (LFR) cameras for “general immigration enforcement”, including non-criminal immigration offences.<",
+              "imageUrl": "https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=140&quality=85&auto=format&fit=max&s=02a871bd76b3863b7ce46866ab81cc4d",
+              "imageAlt": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649",
-          "imageAlt": "Sequoia hits rewind, undoing 20 years of expansion",
-          "imageCredit": "TechCrunch"
+          "imageUrl": "https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=140&quality=85&auto=format&fit=max&s=02a871bd76b3863b7ce46866ab81cc4d",
+          "imageAlt": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+          "imageCredit": "The Guardian"
         },
         {
-          "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-          "summary": "Cybersecurity researchers had warned for years about North Korea's persistent and patient hacking tactics before a reported $6.3 billion theft from Binance. Despite those warnings, the world's largest cryptocurrency exchange was caught off guard.",
+          "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+          "summary": "Computer scientist and Nobel laureate Geoffrey Hinton has warned that humanity might ultimately have been better off without artificial intelligence. He told the Guardian that AI could trigger a major incident this year or next, such as a temporary shutdown of banking or power systems. Hinton said he does not regard himself as an AI “doomer.”",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-              "source": "TechCrunch",
-              "headline": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-              "excerpt": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/dprk-kim-2252780532.jpg?resize=1200,801",
-              "imageAlt": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+              "source": "The Guardian Technology",
+              "headline": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+              "excerpt": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next, such as a temporary blackout of financial or power systems. The Nobel prize-winning computer scientist told the Guardian he is not a “doomer” about the technology",
+              "imageUrl": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=140&quality=85&auto=format&fit=max&s=72ea6b35d68dbf21a28aa061a29ce3fb",
+              "imageAlt": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/dprk-kim-2252780532.jpg?resize=1200,801",
-          "imageAlt": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-          "imageCredit": "TechCrunch"
+          "imageUrl": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=140&quality=85&auto=format&fit=max&s=72ea6b35d68dbf21a28aa061a29ce3fb",
+          "imageAlt": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘A serious failure’: CPS prosecutor cites imaginary case to court after AI search",
+          "summary": "A senior Crown Prosecution Service lawyer cited a nonexistent legal precedent in court after using an AI search, the Guardian reports. Ravinder Dhillon referred to the invented case during a dispute over whether a child should be prosecuted for allegedly raping a younger child. The incident has intensified concern about AI-generated falsehoods entering court proceedings.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
+              "source": "The Guardian Technology",
+              "headline": "‘A serious failure’: CPS prosecutor cites imaginary case to court after AI search",
+              "excerpt": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedings A senior crown prosecutor acting cited an imaginary legal precedent in an error that has sparked fresh concerns about AI hallucinations infecting the justice system. Ravinder Dhillon, representing the Crown Prosecution Service (CPS), referenced an entirely made-up case during a dispute over whether a child should be prosecuted for the rape of his younger",
+              "imageUrl": "https://i.guim.co.uk/img/media/00c1de4ba03f6807582e6a7932fadc08aaf73c71/676_0_6659_5331/master/6659.jpg?width=140&quality=85&auto=format&fit=max&s=cbc5910c6d63554f48d67327411258dc",
+              "imageAlt": "‘A serious failure’: CPS prosecutor cites imaginary case to court after AI search",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/00c1de4ba03f6807582e6a7932fadc08aaf73c71/676_0_6659_5331/master/6659.jpg?width=140&quality=85&auto=format&fit=max&s=cbc5910c6d63554f48d67327411258dc",
+          "imageAlt": "‘A serious failure’: CPS prosecutor cites imaginary case to court after AI search",
+          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -603,8 +619,54 @@
       "name": "Asia Pacific",
       "stories": [
         {
+          "title": "Duterte impeachment: Ex-law school dean declines to testify for defense",
+          "summary": "Former University of St. La Salle law dean Ralph Sarmiento declined to testify for the defense in Vice President Sara Duterte's impeachment trial. The defense had wanted the constitutional expert to be its first witness, according to Rappler. Sarmiento said he could not testify for either side.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2336325/duterte-trial-ex-law-school-dean-declines-to-testify-as-defense-witness",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Duterte impeachment: Ex-law school dean declines to testify for defense",
+              "excerpt": "DUMAGUETE CITY — Former University of St. La Salle (USLS) law dean Ralph Sarmiento has declined to testify as a defense witness in the impeachment proceedings against Vice President Sara Duterte. “Hindi po ako pwede tumestigo as a witness for either side,” he said. (I cannot testify as a witness for either side.) Sarmiento cited",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Day-32-of-Vice-President-Sara-Dutertes-impeachment-trial-senate-impeachment-court-INQUIRER-PHOTO-NINO-JESUS-ORBETA.png",
+              "imageAlt": "Duterte impeachment: Ex-law school dean declines to testify for defense",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.rappler.com/philippines/why-ralph-sarmiento-refused-testify-sara-duterte-impeachment-trial/",
+              "source": "Rappler World",
+              "headline": "Why Ralph Sarmiento refused to testify at Sara Duterte’s trial",
+              "excerpt": "The defense team had wanted the constitutional expert and former law dean to be their first witness in the Vice President's impeachment trial",
+              "imageUrl": "https://www.rappler.com/tachyon/2026/11/DEAN-RALPH.jpeg",
+              "imageAlt": "Why Ralph Sarmiento refused to testify at Sara Duterte’s trial",
+              "outlet": "Rappler",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Day-32-of-Vice-President-Sara-Dutertes-impeachment-trial-senate-impeachment-court-INQUIRER-PHOTO-NINO-JESUS-ORBETA.png",
+          "imageAlt": "Duterte impeachment: Ex-law school dean declines to testify for defense",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
           "title": "Manila archdiocese orders safety checks on churches, schools",
-          "summary": "The Roman Catholic Archdiocese of Manila ordered churches, schools and other church-run institutions to conduct immediate safety inspections. The checks cover hazards such as unstable crucifixes and statues, hanging fixtures and electrical installations.",
+          "summary": "The Roman Catholic Archdiocese of Manila ordered churches, schools and other church-run institutions to conduct immediate safety inspections. The checks are to cover hazards including unstable crucifixes and statues, hanging fixtures and electrical installations. The directive was issued in a November 3 circular released on Wednesday.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2336272/manila-archdiocese-orders-safety-checks-on-churches-schools",
@@ -631,36 +693,8 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Can Filipino MSMEs keep up with growing digital economy?",
-          "summary": "The Philippines' digital economy contributed 9.8% of national economic output in 2025, according to the Philippine Statistics Authority. Digitalisation can help micro, small and medium enterprises reach more customers, sell online and simplify transactions.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2336144/can-filipino-msmes-keep-up-with-growing-digital-economy",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Can Filipino MSMEs keep up with growing digital economy?",
-              "excerpt": "MANILA, Philippines — The digital economy contributed 9.8% to the Philippine economy in 2025, according to the Philippine Statistics Authority (PSA), highlighting the growing role of digital technologies in the country’s economic activity. For micro, small and medium enterprises (MSMEs), digitalization offers opportunities to reach more customers, sell products online and make business transactions easier.",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2023/04/digital-learning-setup-stock-04032023.jpg",
-              "imageAlt": "Can Filipino MSMEs keep up with growing digital economy?",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2023/04/digital-learning-setup-stock-04032023.jpg",
-          "imageAlt": "Can Filipino MSMEs keep up with growing digital economy?",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
           "title": "DSWD pours P884.7M in aid to sugarcane farmers, laborers in Negros",
-          "summary": "The Philippine Department of Social Welfare and Development released P884,778,900 in disaster assistance for sugarcane farmers and labourers in Negros Island. The recipients were affected by red-striped soft-scale insect infestations, with the reported total current as of Monday, November 2.",
+          "summary": "The Philippines' Department of Social Welfare and Development had released P884,778,900 in disaster assistance across Negros Island as of November 2. The aid is intended for sugarcane farmers and laborers affected by red-striped soft-scale insect infestations. The report says the financial-relief distribution is being carried out across Negros.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2336212/dswd-pours-p884-7m-in-aid-to-sugarcane-farmers-laborers-in-negros",
@@ -688,7 +722,7 @@
         },
         {
           "title": "NTF-Elcac: Nearly 1,500 CTG members neutralized in 2026",
-          "summary": "The National Task Force to End Local Communist Armed Conflict said nearly 1,500 members of what it calls the Communist Terrorist Group were neutralised nationwide in 2026. Executive Director Danilo Pamonag presented the task force's recent accomplishments to President Marcos at its 10th executive committee meeting.",
+          "summary": "The National Task Force to End Local Communist Armed Conflict says nearly 1,500 members of groups it labels the Communist Terrorist Group were “neutralized” nationwide in 2026. Executive Director Danilo Pamonag presented the task force's reported accomplishments to President Marcos during its 10th executive committee meeting at Malacañang. The available excerpt does not define how the task force is using the term “neutralized.”",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2336230/ntf-elcac-nearly-1500-ctg-members-neutralized-in-2026",
@@ -715,16 +749,16 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Butuan experiences scorching 42-45°C heat index for second straight day",
-          "summary": "Butuan City recorded a heat index of 42°C to 45°C for a second consecutive day, according to the regional weather service. Local officials issued health advisories, while residents called online for in-person classes to be suspended.",
+          "title": "Serving sovereignty: How local food is taking center stage in Bulacan",
+          "summary": "A growing number of Filipinos are placing renewed emphasis on local food systems, according to the Philippine Daily Inquirer. The shift is presented as a response to climate change, global market disruption, dependence on imports and increasingly uniform diets. The article focuses on how this approach is taking shape in Bulacan and links it to food security and sovereignty.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2336102/butuan-experiences-scorching-42-45c-heat-index-for-second-straight-day",
+              "url": "https://newsinfo.inquirer.net/2336501/serving-sovereignty-how-local-food-is-taking-center-stage-in-bulacan",
               "source": "Philippine Daily Inquirer",
-              "headline": "Butuan experiences scorching 42-45°C heat index for second straight day",
-              "excerpt": "SAN FRANCISCO, Agusan del Sur — A scorching heat index of 42 to 45 degrees Celsius was recorded in Butuan City since Tuesday, Nov. 3, triggering health advisories from local officials and widespread calls online for in-person class suspensions. Data released by the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) Regional Services Division indicated",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2025/03/summer-heat-heat-index.png",
-              "imageAlt": "Butuan experiences scorching 42-45°C heat index for second straight day",
+              "headline": "Serving sovereignty: How local food is taking center stage in Bulacan",
+              "excerpt": "As climate change, global market disruptions, food import dependence and the homogenization of diets increasingly threaten Philippine food security, a growing number of Filipinos are rediscovering the strategic importance of local food systems. The Food and Agriculture Organization, in its 2024 report on the state of food security and nutrition, has underscored the continuing importance",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/luntiang-diwang-composite-05nov2026.jpg",
+              "imageAlt": "Serving sovereignty: How local food is taking center stage in Bulacan",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -738,8 +772,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2025/03/summer-heat-heat-index.png",
-          "imageAlt": "Butuan experiences scorching 42-45°C heat index for second straight day",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/luntiang-diwang-composite-05nov2026.jpg",
+          "imageAlt": "Serving sovereignty: How local food is taking center stage in Bulacan",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -749,7 +783,7 @@
       "stories": [
         {
           "title": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
-          "summary": "U.N. and Congolese troops are struggling to stop a rapid offensive by the Rwandan-backed M23 rebel group near Goma. Aid workers estimate that as many as 300,000 people are fleeing after the rebels captured two strategic towns on approaches to the city.",
+          "summary": "UN and Congolese forces are struggling to stop a rapid advance by the Rwanda-backed M23 rebel group. The rebels have captured two strategic towns on approaches to Goma over several days, according to the Wall Street Journal. Aid workers estimate that as many as 300,000 people are fleeing the advance.",
           "links": [
             {
               "url": "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c",
@@ -773,16 +807,16 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-          "summary": "Cybersecurity-focused Ballistic Ventures is seeking $490 million across two new investment funds amid an AI-driven boom in the sector. The firm aims to raise $360 million for a flagship fund and $130 million for a separate vehicle.",
+          "title": "Snapchat surpasses 30M paid subscribers",
+          "summary": "Snapchat has surpassed 30 million paid subscribers, TechCrunch reports. The milestone comes a year after the company limited free storage for its Memories feature. Users needing additional storage were told to pay $1.99 a month or subscribe to Snapchat+ to retain their Memories.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+              "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
               "source": "TechCrunch",
-              "headline": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-              "excerpt": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
-              "imageAlt": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+              "headline": "Snapchat surpasses 30M paid subscribers",
+              "excerpt": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
+              "imageAlt": "Snapchat surpasses 30M paid subscribers",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -796,13 +830,41 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
-          "imageAlt": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
+          "imageAlt": "Snapchat surpasses 30M paid subscribers",
           "imageCredit": "TechCrunch"
         },
         {
+          "title": "Mac mini M6 review: truly mighty but now more pricey",
+          "summary": "Apple's latest Mac mini is the first version of the compact desktop to use the company's M6 chip, according to the Guardian's review. The machine is described as small enough to fit almost anywhere while offering enough speed and power for demanding work. Although it remains Apple's cheapest M-series computer, the review says it is no longer the bargain it once was.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/sep/29/mac-mini-m6-review",
+              "source": "The Guardian Technology",
+              "headline": "Mac mini M6 review: truly mighty but now more pricey",
+              "excerpt": "Apple’s cheapest desktop computer is no longer a bargain but its newest, fastest chip makes it a pocket powerhouse Apple’s latest Mac mini brings real speed and power for far more than everyday tasks in a practically pocketable form you can fit almost anywhere. The impressive new desktop machine is the first to receive an update to Apple’s latest M6 chip while remaining smaller than a headphones box. It is the cheapest computer Apple sells with an M-series chip, but like every oth",
+              "imageUrl": "https://i.guim.co.uk/img/media/f89491d99d5dfc150e2e38186c8319330b84ecbe/1241_505_4450_3560/master/4450.jpg?width=140&quality=85&auto=format&fit=max&s=b7ba2cfd063bf8420f499285d1f398ea",
+              "imageAlt": "Mac mini M6 review: truly mighty but now more pricey",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/f89491d99d5dfc150e2e38186c8319330b84ecbe/1241_505_4450_3560/master/4450.jpg?width=140&quality=85&auto=format&fit=max&s=b7ba2cfd063bf8420f499285d1f398ea",
+          "imageAlt": "Mac mini M6 review: truly mighty but now more pricey",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
-          "summary": "Donald Trump proposed moving Palestinians from heavily bombed Gaza to Egypt and Jordan, either temporarily or for the long term. He described the enclave as “a demolition site,” while Arab countries have rejected such relocation since the war began.",
+          "summary": "President Donald Trump proposed moving Palestinians from Gaza to Egypt and Jordan, either temporarily or for the longer term, according to the Wall Street Journal. He described the heavily bombed enclave as “a demolition site.” Arab countries have rejected such relocation proposals since the war began.",
           "links": [
             {
               "url": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc",
@@ -827,7 +889,7 @@
         },
         {
           "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
-          "summary": "Kim Jong Un is promoting a 300,000-member “shock brigade” of teenagers and people in their twenties assigned to flood reconstruction. The effort is presented as part of his campaign to keep North Korean youth aligned with the regime and insulated from Hollywood and K-pop influences.",
+          "summary": "North Korean leader Kim Jong Un is promoting a “shock brigade” of 300,000 teenagers and people in their twenties drafted into flood reconstruction. The Wall Street Journal presents the effort as part of his attempt to keep young North Koreans in line. It says the government is also seeking to shut out the influence of Hollywood and K-pop.",
           "links": [
             {
               "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
@@ -849,34 +911,6 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
-        },
-        {
-          "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-          "summary": "Reddit is testing advertisements in its search results as traffic declines and investors raise concerns about growth. The placements could generate more revenue from existing users as Google's AI search changes how people discover Reddit content.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-              "source": "TechCrunch",
-              "headline": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-              "excerpt": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
-              "imageAlt": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
-          "imageAlt": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-          "imageCredit": "TechCrunch"
         }
       ]
     }
