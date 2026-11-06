@@ -2,9 +2,41 @@
   "digests": [
     {
       "id": "today-expanded.json",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "title": "Daily Source Digest",
-      "generatedAt": "2026-11-06T12:30:10.031009",
+      "generatedAt": "2026-11-07T03:00:08.563729",
+      "note": "Daily source-balanced news digest \u2014 morning update.",
+      "sectionCount": 5,
+      "storyCount": 26,
+      "sourceCount": 26,
+      "sections": [
+        {
+          "name": "World / Geopolitics",
+          "storyCount": 7
+        },
+        {
+          "name": "Australia",
+          "storyCount": 4
+        },
+        {
+          "name": "Technology",
+          "storyCount": 5
+        },
+        {
+          "name": "Asia Pacific",
+          "storyCount": 5
+        },
+        {
+          "name": "Business / Finance",
+          "storyCount": 5
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-expanded.json",
+      "date": "2026-11-07",
+      "title": "Daily Source Digest",
+      "generatedAt": "2026-11-07T03:00:08.563729",
       "note": "Daily source-balanced news digest \u2014 morning update.",
       "sectionCount": 5,
       "storyCount": 26,
@@ -275,39 +307,7 @@
           "storyCount": 5
         }
       ]
-    },
-    {
-      "id": "2026-10-29-expanded.json",
-      "date": "2026-10-29",
-      "title": "Daily Source Digest",
-      "generatedAt": "2026-10-29T12:30:29.952897",
-      "note": "Daily source-balanced news digest \u2014 morning update.",
-      "sectionCount": 5,
-      "storyCount": 26,
-      "sourceCount": 26,
-      "sections": [
-        {
-          "name": "World / Geopolitics",
-          "storyCount": 7
-        },
-        {
-          "name": "Australia",
-          "storyCount": 4
-        },
-        {
-          "name": "Technology",
-          "storyCount": 5
-        },
-        {
-          "name": "Asia Pacific",
-          "storyCount": 5
-        },
-        {
-          "name": "Business / Finance",
-          "storyCount": 5
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-11-06"
+  "lastUpdated": "2026-11-07"
 }
