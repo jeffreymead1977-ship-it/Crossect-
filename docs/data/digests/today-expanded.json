@@ -2,35 +2,81 @@
   "id": "2026-11-07-expanded",
   "date": "2026-11-07",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-11-07T03:00:08.563729",
+  "generatedAt": "2026-11-07T12:30:07.550736",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-11-07T03:00:08",
+  "updatedAt": "2026-11-07T12:30:07",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-          "summary": "A Kenyan court sentenced doomsday cult leader Paul Mackenzie to 200 years in prison for the murders of 191 people, including 190 children. Reports say Mackenzie ordered followers to starve their children in a forest so they could “meet Jesus,” and the cult has been linked to more than 400 deaths.",
+          "title": "Mass Deportation Gets Its Champion In The Chief Of Staff’s Office",
+          "summary": "President Donald Trump has named immigration adviser Stephen Miller to replace Susie Wiles as White House chief of staff following Republican midterm losses. The reports describe Miller as an architect of the administration’s immigration crackdown who has advocated broader immigration arrests, giving him expanded authority in the reshuffled White House.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Kenyan court sentences starvation cult leader to 200 years",
-              "excerpt": "Paul Mackenzie and accomplices were convicted of murdering 190 children and one adult.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T085454Z_240682271_RC28IOAVE6JW_RTRMADP_3_KENYA-RELIGION-1793967703.jpg?resize=1920%2C1440",
-              "imageAlt": "Kenyan court sentences starvation cult leader to 200 years",
+              "headline": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
+              "excerpt": "Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee27282384-1793992488.jpg?resize=1920%2C1440",
+              "imageAlt": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
+            {
+              "url": "https://www.dailywire.com/news/mass-deportation-gets-its-champion-in-the-chief-of-staffs-office",
+              "source": "Daily Wire",
+              "headline": "Mass Deportation Gets Its Champion In The Chief Of Staff’s Office",
+              "excerpt": "President Donald Trump tapped the architect of his immigration policy, Stephen Miller, to replace Susie Wiles as chief of staff, expanding Miller’s authority after an election that exposed voter dissatisfaction with the administration’s immigration enforcement. Miller, who has been serving as Trump’s deputy chief of staff, has pushed for broader immigration arrests, at times clashing ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2302591065.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Mass Deportation Gets Its Champion In The Chief Of Staff’s Office",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/6/susie-wiles-trumps-chief-staff-replaced-stephen-miller/",
+              "source": "Washington Times",
+              "headline": "Susie Wiles out as Trump's chief of staff, replaced by Stephen Miller",
+              "excerpt": "Susie Wiles is leaving as White House chief of staff after staggering Republican losses in the midterm election and will be replaced by Stephen Miller, a key adviser who helped shape the administration's illegal immigration crackdown.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/06/Trump_Chief_of_Staff_5_97_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Susie Wiles out as Trump's chief of staff, replaced by Stephen Miller",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "article-text: Right cue(s): (border security|illegal immigration|tough on crime|law and order)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee27282384-1793992488.jpg?resize=1920%2C1440",
+          "imageAlt": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Cult Leader Sentenced To 200 Years For Mass Murder",
+          "summary": "A Kenyan court sentenced doomsday cult leader Paul Mackenzie to 200 years in prison after convicting him of murdering 190 children and one adult. Reports say Mackenzie ordered followers to starve their children in a forest so they could “meet Jesus”; the BBC characterized the punishment as a life sentence.",
+          "links": [
             {
               "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -51,134 +97,40 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/nov/6/paul-mackenzie-leader-kenyan-doomsday-cult-sentenced-200-years-prison/",
-              "source": "Washington Times",
-              "headline": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
-              "excerpt": "The leader of a Kenyan doomsday cult linked to the deaths of more than 400 people was sentenced on Friday to 200 years in prison for the murders of 191 people.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/06/Kenya_Cult_Leader_1_727_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T085454Z_240682271_RC28IOAVE6JW_RTRMADP_3_KENYA-RELIGION-1793967703.jpg?resize=1920%2C1440",
-          "imageAlt": "Kenyan court sentences starvation cult leader to 200 years",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Obama’s Top Strategist Says He’s Already Talked To Nearly Three Dozen 2028 Options For Dems",
-          "summary": "Former Obama campaign manager Jim Messina says dozens of Democrats are considering campaigns for the 2028 presidential election. He said he had spoken with 29 potential contenders or more than two dozen campaigns, some of which are already hiring staff following Democratic midterm victories.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-              "excerpt": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg",
-              "imageAlt": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.dailywire.com/news/obamas-top-strategist-says-hes-already-talked-to-nearly-three-dozen-2028-options-for-dems",
+              "url": "https://www.dailywire.com/news/cult-leader-sentenced-to-200-years-for-mass-murder",
               "source": "Daily Wire",
-              "headline": "Obama’s Top Strategist Says He’s Already Talked To Nearly Three Dozen 2028 Options For Dems",
-              "excerpt": "A longtime strategist for former President Barack Obama is already looking forward to 2028, saying that he’s spoken to 29 Democrats who are at least toying with the idea of running for president in the next election cycle. Jim Messina, who managed Obama’s 2012 presidential campaign, laid out his thoughts during an Election Day appearance ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2022/06/GettyImages-163635171.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Obama’s Top Strategist Says He’s Already Talked To Nearly Three Dozen 2028 Options For Dems",
+              "headline": "Cult Leader Sentenced To 200 Years For Mass Murder",
+              "excerpt": "A Kenyan doomsday cult leader was sentenced Friday to 200 years in prison for the murders of 191 people after ordering followers to starve themselves to meet Jesus. Pastor Paul Mackenzie was sentenced by Kenya’s High Court in the coastal city of Mombasa after being convicted of murdering 190 children and one adult, according to ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2173378449-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Cult Leader Sentenced To 200 Years For Mass Murder",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg",
-          "imageAlt": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Judge delays work on Trump Triumphal Arch after planning commission approval",
-          "summary": "A federal judge blocked construction of President Trump’s proposed 250-foot Triumphal Arch at the gateway to Washington. The ruling came minutes after the National Capital Planning Commission gave final approval, preventing work that the administration hoped could begin as early as this week.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
-              "excerpt": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
-              "imageAlt": "Judge blocks construction of Trump's massive arch after federal agency approval",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/nov/5/judge-tanya-chutkan-delays-work-trump-triumphal-arch-planning/",
-              "source": "Washington Times",
-              "headline": "Judge delays work on Trump Triumphal Arch after planning commission approval",
-              "excerpt": "A federal judge blocked President Trump from starting construction on his vision of a Triumphal Arch at the gateway to Washington, in a ruling issued just minutes after the project had received final approval Thursday night from the National Capital Planning Commission.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/06/ARCH_s1200x799.jpg?ccd0b582099f78afd7555dc1be87a627b607a232",
-              "imageAlt": "Judge delays work on Trump Triumphal Arch after planning commission approval",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
-          "imageAlt": "Judge blocks construction of Trump's massive arch after federal agency approval",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9676/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg",
+          "imageAlt": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
           "imageCredit": "BBC"
         },
         {
-          "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-          "summary": "Fake bomb threats have targeted flights across Europe for the second time this week, prompting diversions as air traffic controllers passed on the warnings. The string of hoax alerts has also broadened to include European newsrooms.",
+          "title": "Meghan Markle’s Dad Faces Federal Charge After Son Turns Him In",
+          "summary": "Thomas Markle, Meghan Markle’s 82-year-old father, was arrested in Florida and charged with possession of child sexual abuse material. Reports say US authorities found sexually explicit images that appeared to show him with prepubescent girls, and that he could face up to 20 years in federal prison if convicted.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "New bomb threats target European broadcasters, air traffic",
-              "excerpt": "A string of hoax alerts causing flight diversions across Europe this week has broadened to include newsrooms.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aede2ee0a2e-1793975022.jpg?resize=1920%2C1440",
-              "imageAlt": "New bomb threats target European broadcasters, air traffic",
+              "headline": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+              "excerpt": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee2c4940d7-1793993801.jpg?resize=1920%2C1440",
+              "imageAlt": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -191,12 +143,104 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.dailywire.com/news/meghan-markles-dad-faces-federal-charge-after-son-turns-him-in",
+              "source": "Daily Wire",
+              "headline": "Meghan Markle’s Dad Faces Federal Charge After Son Turns Him In",
+              "excerpt": "Meghan Markle’s dad was arrested on Friday morning and charged with possession of child pornography. Thomas Markle, 82, was arrested in Lakeland, Florida, after law enforcement officials said they discovered he was keeping explicit photos of prepubescent girls in storage units in Los Angeles. If convicted, Markle faces up to 20 years in federal prison. ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/gettyimages-2301126202-594x594-1.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Meghan Markle’s Dad Faces Federal Charge After Son Turns Him In",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee2c4940d7-1793993801.jpg?resize=1920%2C1440",
+          "imageAlt": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Measles cases nationwide surpass 5,000 for first time since 1991",
+          "summary": "The US Centers for Disease Control and Prevention has confirmed more than 5,000 measles cases this year, the country’s highest total since 1991. Children and teenagers account for almost 60 percent of the confirmed cases, according to the reports.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+              "excerpt": "Children and teenagers make up almost 60 percent of confirmed cases.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee63dd-1794008029.jpg?resize=1920%2C1440",
+              "imageAlt": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/6/measles-cases-nationwide-surpass-5000-first-time-since-1991/",
+              "source": "Washington Times",
+              "headline": "Measles cases nationwide surpass 5,000 for first time since 1991",
+              "excerpt": "The Centers for Disease Control and Prevention has confirmed more than 5,000 measles cases this year, the most since 1991 when the U.S. saw more than 9,600 measles cases.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/30/Measles-Amish_Country_6_436_s1440x1009.jpg?86bc15d92a0edf20fc46550584af29ebafb22820",
+              "imageAlt": "Measles cases nationwide surpass 5,000 for first time since 1991",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee63dd-1794008029.jpg?resize=1920%2C1440",
+          "imageAlt": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+          "summary": "European prosecutors are investigating EU funds intended to upgrade the Spanish railway line where the Urda train disaster killed 69 people. The inquiry includes probes involving Spain’s rail network administrator, safety agency and state auditors.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "EU prosecutor office investigates fatal train crash in Spain",
+              "excerpt": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/epa_696de2e6eee5-1768809190.jpg?resize=1920%2C1440",
+              "imageAlt": "EU prosecutor office investigates fatal train crash in Spain",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-              "excerpt": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ac/live/89154780-d945-11f1-a701-fddedf244c16.png",
-              "imageAlt": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+              "headline": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+              "excerpt": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg",
+              "imageAlt": "Spain's rail authorities face European fraud probe after Urda rail disaster",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -211,14 +255,79 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aede2ee0a2e-1793975022.jpg?resize=1920%2C1440",
-          "imageAlt": "New bomb threats target European broadcasters, air traffic",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/epa_696de2e6eee5-1768809190.jpg?resize=1920%2C1440",
+          "imageAlt": "EU prosecutor office investigates fatal train crash in Spain",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "After cancer surgery, Pope Leo embarks on Latin America trip with a first stop in secular Uruguay",
-          "summary": "Pope Leo XIV has begun a three-country Latin American tour three weeks after surgery in which part of a lung was removed because of cancer. His first stop is Uruguay, described as the region’s least Catholic and most secular country, before visits to Argentina and Peru.",
+          "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+          "summary": "Tanzanian opposition leader Tundu Lissu has been found guilty of inciting unrest but acquitted of treason. Lissu, 58, has been detained since April last year and says the case against him is politically motivated, a characterization echoed by critics cited in the coverage.",
           "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+              "excerpt": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793994158.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+              "excerpt": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd7/live/43acf9a0-d9df-11f1-bbe5-797ee05bee69.jpg",
+              "imageAlt": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793994158.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "summary": "Pope Leo XIV has arrived in Uruguay to begin a 12-day South American tour shortly after lung surgery. The trip will also take him to Argentina and Peru, weeks after part of a lung was removed.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Pope Leo XIV arrives for South American tour after cancer surgery",
+              "excerpt": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794012915.jpg?resize=1918%2C1080&quality=80",
+              "imageAlt": "Pope Leo XIV arrives for South American tour after cancer surgery",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
             {
               "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
@@ -237,124 +346,12 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/nov/6/pope-leo-embarks-latin-america-trip-first-stop-secular-uruguay/",
-              "source": "Washington Times",
-              "headline": "After cancer surgery, Pope Leo embarks on Latin America trip with a first stop in secular Uruguay",
-              "excerpt": "Pope Leo XIV is kicking off a three-nation tour of Latin America on Friday with a visit to Uruguay, the region's least Catholic and most secular country, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/06/APTOPIX_Italy_Pope_Latam_29669_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "After cancer surgery, Pope Leo embarks on Latin America trip with a first stop in secular Uruguay",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
-          "imageAlt": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Two Killed, 16 Injured in France School Bus Crash",
-          "summary": "A school bus crash in eastern France killed a seven-year-old girl and an 18-year-old boy on Friday morning. Local authorities said more people were injured, with one report putting the number at 16.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Two dead after bus crashes in France, officials say",
-              "excerpt": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
-              "imageAlt": "Two dead after bus crashes in France, officials say",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.breitbart.com/europe/2026/11/06/two-killed-16-injured-in-france-school-bus-crash/",
-              "source": "Breitbart",
-              "headline": "Two Killed, 16 Injured in France School Bus Crash",
-              "excerpt": "A bus carrying children to school crashed Friday morning in eastern France, killing a 7-year-old girl and an 18-year-old boy. The post Two Killed, 16 Injured in France School Bus Crash appeared first on Breitbart .",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/mathias-reding-vocC_NHOUXs-unsplash-e1793973864864-640x335.jpg",
-              "imageAlt": "Two Killed, 16 Injured in France School Bus Crash",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
-          "imageAlt": "Two dead after bus crashes in France, officials say",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Italian chef fired after refusing to put pineapple on pizza, calling it 'insult to his culture'",
-          "summary": "An Italian chef in Australia was fired after repeatedly refusing to prepare ham-and-pineapple pizza. He described putting pineapple on pizza as offensive and an insult to his culture.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-              "excerpt": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272e/live/d04750e0-d903-11f1-93e1-3b657b665bcf.jpg",
-              "imageAlt": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.foxnews.com/food-drink/italian-chef-fired-after-refusing-put-pineapple-pizza-calling-insult-his-culture",
-              "source": "Fox News",
-              "headline": "Italian chef fired after refusing to put pineapple on pizza, calling it 'insult to his culture'",
-              "excerpt": "An Italian chef in Australia was fired from a restaurant after repeatedly refusing to make ham-and-pineapple pizza, calling it an \"insult to his culture.\"",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/faceless-chef-with-pineapple-pizza.jpg?ve=1&tl=1",
-              "imageAlt": "Italian chef fired after refusing to put pineapple on pizza, calling it 'insult to his culture'",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272e/live/d04750e0-d903-11f1-93e1-3b657b665bcf.jpg",
-          "imageAlt": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-          "imageCredit": "BBC"
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794012915.jpg?resize=1918%2C1080&quality=80",
+          "imageAlt": "Pope Leo XIV arrives for South American tour after cancer surgery",
+          "imageCredit": "Al Jazeera"
         }
       ]
     },
@@ -363,7 +360,7 @@
       "stories": [
         {
           "title": "What do the midterms mean for 2028?",
-          "summary": "The story is titled “What do the midterms mean for 2028?”, but its attached source excerpt discusses France’s troubled economy and Jean-Luc Mélenchon’s polling in a fourth presidential bid. The supplied material provides no further detail connecting that discussion to the midterms or the 2028 election.",
+          "summary": "The story title raises the implications of the midterm elections for 2028, but the sole linked item does not provide supporting details on that question. Instead, the Spectator Australia excerpt discusses French presidential contender Jean-Luc Mélenchon and France’s economy.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/11/france-is-on-fire-and-thats-just-its-economy/",
@@ -390,16 +387,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Threatening, sexist messages scrawled on balloons left at MP's office",
-          "summary": "Threatening, sexist and abusive messages written on balloons were left outside South Australian government MP Jayne Stinson’s suburban electorate office. Police confirmed that they are investigating the incident.",
+          "title": "Stricter regulation on the cards for controversial combat sports",
+          "summary": "A New South Wales parliamentary inquiry is examining bare-knuckle boxing, collision running and competitive slapping. Organisers of the controversial sports say they are willing to collaborate on regulation so the competitions can continue.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-11-06/threatening-sexist-messages-on-balloons-target-mp-jayne-stinson/107357628",
+              "url": "https://www.abc.net.au/news/2026-11-07/collision-running-bare-knuckle-boxing-parliament-inquiry/107310954",
               "source": "ABC Australia",
-              "headline": "Threatening, sexist messages scrawled on balloons left at MP's office",
-              "excerpt": "Threatening, sexist and abusive messages scrawled on balloons have been left outside the suburban electorate office of South Australian government MP Jayne Stinson, with police confirming they are investigating the matter.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/6630389d2a509f32dc5e6b790587a42b?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=1166&width=862&height=485",
-              "imageAlt": "Threatening, sexist messages scrawled on balloons left at MP's office",
+              "headline": "Stricter regulation on the cards for controversial combat sports",
+              "excerpt": "Bare-knuckle boxing, collision running and competitive slapping are the subject of a NSW parliamentary inquiry, as organisers of the controversial sports say they are prepared to collaborate on regulation to be able to continue.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/0a5f307bee058e86364ff89e0f0ca537?impolicy=wcms_crop_resize&cropH=761&cropW=1354&xPos=114&yPos=110&width=862&height=485",
+              "imageAlt": "Stricter regulation on the cards for controversial combat sports",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -414,21 +411,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/6630389d2a509f32dc5e6b790587a42b?impolicy=wcms_crop_resize&cropH=1701&cropW=3024&xPos=0&yPos=1166&width=862&height=485",
-          "imageAlt": "Threatening, sexist messages scrawled on balloons left at MP's office",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/0a5f307bee058e86364ff89e0f0ca537?impolicy=wcms_crop_resize&cropH=761&cropW=1354&xPos=114&yPos=110&width=862&height=485",
+          "imageAlt": "Stricter regulation on the cards for controversial combat sports",
           "imageCredit": "ABC News"
         },
         {
-          "title": "Back to Back Barries: Dissecting the One Nation voting blocs – podcast",
-          "summary": "Tony Barry and Shaun Ratcliff divide One Nation voters into four groups: “Red Meat,” “Precariats,” “Triple Haters” and “Hanson Enthusiasts.” Their podcast examines what those blocs reveal about the party and what major parties may need to do to regain disengaged and undecided voters.",
+          "title": "Cornered and dangerous, the lame-duck leader of the free world now poses a greater risk to Australia than ever | Paul Daley",
+          "summary": "A Guardian commentary argues that Donald Trump’s lame-duck presidency creates greater geopolitical uncertainty for Australia and other US allies after midterm losses described as a repudiation of Maga politics. It cites a former Australian ambassador to Washington warning about Trump’s effort to shape his legacy over the next two years, potentially beginning with Iran.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/audio/2026/nov/07/back-to-back-barries-dissecting-the-one-nation-voting-blocs-podcast",
+              "url": "https://www.theguardian.com/commentisfree/2026/nov/05/us-midterms-trump-now-poses-greater-risk-to-australia",
               "source": "The Guardian Australia",
-              "headline": "Back to Back Barries: Dissecting the One Nation voting blocs – podcast",
-              "excerpt": "Tony Barry and Shaun Ratcliff (filling in for Barrie Cassidy) break down the One Nation vote into four categories: ‘Red Meat’, ‘Precariats’, ‘Triple Haters’, and ‘Hanson Enthusiasts’. But what do these swathes of supporters tell us about One Nation, and what must the major parties do to win back the disengaged and undecided? Read more: <a href=\"https://viewer.gutools.co.uk/australia-news/2026/nov/06/victoria-election-melbourne-labor-heartland-one-",
-              "imageUrl": "https://i.guim.co.uk/img/media/c0eafecd02c1544567ad7de41b4ed4fad72e70c4/625_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=5552dbd4569bd951f40faa336eb22c61",
-              "imageAlt": "Back to Back Barries: Dissecting the One Nation voting blocs – podcast",
+              "headline": "Cornered and dangerous, the lame-duck leader of the free world now poses a greater risk to Australia than ever",
+              "excerpt": "America’s allies face geopolitical uncertainty as Trump seeks to self-curate his legacy over the next two years – potentially starting with Iran As the blue wave of unambiguous Maga repudiation crashed over the United States, a former Australian ambassador to Washington issued a warning about what to expect from the newly minted lame-duck leader of the free world, Donald Trump. <",
+              "imageUrl": "https://i.guim.co.uk/img/media/601ee4fd2c1c287f913dcff92c17b896e09f10ed/1397_0_6984_5588/master/6984.jpg?width=140&quality=85&auto=format&fit=max&s=04232a3701f1faf08c76d060070ba51f",
+              "imageAlt": "Cornered and dangerous, the lame-duck leader of the free world now poses a greater risk to Australia than ever | Paul Daley",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -442,13 +439,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/c0eafecd02c1544567ad7de41b4ed4fad72e70c4/625_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=5552dbd4569bd951f40faa336eb22c61",
-          "imageAlt": "Back to Back Barries: Dissecting the One Nation voting blocs – podcast",
+          "imageUrl": "https://i.guim.co.uk/img/media/601ee4fd2c1c287f913dcff92c17b896e09f10ed/1397_0_6984_5588/master/6984.jpg?width=140&quality=85&auto=format&fit=max&s=04232a3701f1faf08c76d060070ba51f",
+          "imageAlt": "Cornered and dangerous, the lame-duck leader of the free world now poses a greater risk to Australia than ever | Paul Daley",
           "imageCredit": "The Guardian"
         },
         {
           "title": "The spectre of anarchism is haunting Europe",
-          "summary": "The story is titled “The spectre of anarchism is haunting Europe,” while its attached Spectator Australia excerpt argues about reparations and compares them with “Danegeld.” The supplied excerpt does not provide further facts about anarchism in Europe.",
+          "summary": "The story title refers to anarchism in Europe, but the sole linked Spectator Australia item does not substantively address that subject. Its excerpt instead argues about reparations, likening them to “Danegeld.”",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/11/if-we-pay-reparations-theyll-only-come-back-for-more/",
@@ -481,7 +478,7 @@
       "stories": [
         {
           "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
-          "summary": "Google, Meta and TikTok have sued California to stop enforcement of a new law aimed at protecting children under 16 from compulsive social-media use. Assembly Bill 1709, due to take effect next year, would bar features described as psychologically exploitative, including autoplay and personalised recommendations.",
+          "summary": "Google, Meta and TikTok have sued California to block a law designed to reduce social-media addiction risks for children under 16. Assembly Bill 1709, due to take effect next year, would restrict features such as autoplay and other mechanisms said to encourage compulsive use.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta",
@@ -526,8 +523,36 @@
           "imageCredit": "The Guardian"
         },
         {
+          "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+          "summary": "Activists from the Dutch direct-action group Geef Tegengas entered the construction site of a Microsoft data centre in Amsterdam’s Westpoort district amid protests over the social and environmental effects of the AI boom. The report says protesters clashed with police, while some climbed a crane and lit flares; related actions also occurred elsewhere in Europe.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+              "source": "The Guardian Technology",
+              "headline": "Activists break into building site of Microsoft datacentre in Amsterdam",
+              "excerpt": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed with police while breaking into a construction site at Westpoort, Amsterdam, where some members climbed a crane, lit flares and tied heliu",
+              "imageUrl": "https://i.guim.co.uk/img/media/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/master/1702.jpg?width=140&quality=85&auto=format&fit=max&s=bb42d3281a9656f57f4b7088d7e894e0",
+              "imageAlt": "Activists break into building site of Microsoft datacentre in Amsterdam",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/master/1702.jpg?width=140&quality=85&auto=format&fit=max&s=bb42d3281a9656f57f4b7088d7e894e0",
+          "imageAlt": "Activists break into building site of Microsoft datacentre in Amsterdam",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Is a job guarantee the solution to mass AI unemployment?",
-          "summary": "A renewed debate is considering whether a job guarantee could address mass unemployment if artificial intelligence displaces large numbers of workers. The proposal is an older idea returning to attention as influential voices warn that AI could trigger crises on a vast scale.",
+          "summary": "A renewed debate is considering whether a government job guarantee could respond to mass unemployment if advances in artificial intelligence displace workers. The linked analysis presents the proposal as an old, once-fringe idea returning as influential voices warn that AI could trigger a crisis of vast magnitude.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
@@ -554,16 +579,16 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
-          "summary": "Plans for legally binding international rules on autonomous weapons face opposition at a UN conference this month. A group of countries led by Russia and the United States is seeking to block negotiations intended to fill a gap in governance of AI weapons systems.",
+          "title": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
+          "summary": "Research cited by the Guardian says Apple restricts its predictive text from completing more than 100,000 words and phrases. The restrictions affect swipe-typing and include terms and expressions such as “male chauvinist pig,” along with words related to sexuality, drugs and intelligence agencies.",
           "links": [
             {
-              "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+              "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
               "source": "The Guardian Technology",
-              "headline": "Russia and US seek to block plan for binding rules on autonomous weapons",
-              "excerpt": "UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systems Plans to fill a gap in the global governance of autonomous weapons are in jeopardy as a group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules. The scale of the opposition will become clear at a diplomatic retreat starting on Friday before the seventh review conference on “certain",
-              "imageUrl": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=140&quality=85&auto=format&fit=max&s=3dc5cfabfab5dd9995ff8599e96cea6a",
-              "imageAlt": "Russia and US seek to block plan for binding rules on autonomous weapons",
+              "headline": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
+              "excerpt": "There are more than 100,000 words and phrases that the tech giant has restricted its predictive text from completing, research shows “Australia is a very bad place to question your sexuality on MDMA with NSA spies” might be a text you would wish to send to your friends, if you have had an extraordinarily complicated night out in Sydney. But your iPhone won’t help you spell any of it if you try to swipe-type it – that is, by gliding a finger across a keyboard as opposed to pecking",
+              "imageUrl": "https://i.guim.co.uk/img/media/28e97d03d0abcd9f1e2eb53b873f17079a1a7f82/998_270_3911_3129/master/3911.jpg?width=140&quality=85&auto=format&fit=max&s=c3306471f1180373ae3a5fed24d1cac7",
+              "imageAlt": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -577,13 +602,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=140&quality=85&auto=format&fit=max&s=3dc5cfabfab5dd9995ff8599e96cea6a",
-          "imageAlt": "Russia and US seek to block plan for binding rules on autonomous weapons",
+          "imageUrl": "https://i.guim.co.uk/img/media/28e97d03d0abcd9f1e2eb53b873f17079a1a7f82/998_270_3911_3129/master/3911.jpg?width=140&quality=85&auto=format&fit=max&s=c3306471f1180373ae3a5fed24d1cac7",
+          "imageAlt": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
           "imageCredit": "The Guardian"
         },
         {
           "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-          "summary": "A UK parliamentary investigation found that the country is dangerously dependent on China for critical raw materials used in defence, renewable-energy infrastructure and artificial intelligence. MPs called for a centralised policy, more diversified supplies and a finance facility to support rare-earth and other critical-mineral projects.",
+          "summary": "A UK parliamentary investigation has found the country is dangerously dependent on China for critical raw materials used in defence, renewable-energy infrastructure and artificial intelligence. MPs called for a centralised policy, more diversified supplies and a finance facility to support rare-earth and other critical-mineral projects.",
           "links": [
             {
               "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
@@ -608,34 +633,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/cb4db687d218902c0710319b5c22a27ce31c84f2/446_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=0f3485761702bce981808ccca6ab31bd",
           "imageAlt": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook",
-          "summary": "A Facebook group called Crunchy Moms has attracted nearly half a million members and regularly promotes misinformation, including during a measles outbreak in Lancaster County, Pennsylvania. Meta says it removes content that could cause imminent physical harm, but parents have continued turning to the group for health and vaccination advice.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines",
-              "source": "The Guardian Technology",
-              "headline": "Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook",
-              "excerpt": "Meta says it removes content that could cause imminent physical harm – but nearly half a million members have joined a group that regularly promotes misinformation As a measles outbreak spread through Lancaster county, Pennsylvania, in August, a parent turned to a massive public Facebook group, Crunchy Moms, for advice. They were considering getting their three-year-old vaccinated, in part to protect their six-month-old. “I’m nervous for my baby,” the parent wrote. <a href=\"ht",
-              "imageUrl": "https://i.guim.co.uk/img/media/03a82c3073c26abbf8d1d9523115a15b393db5e5/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=ba8c493aa12711e4a90c560fe46fcde2",
-              "imageAlt": "Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/03a82c3073c26abbf8d1d9523115a15b393db5e5/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=ba8c493aa12711e4a90c560fe46fcde2",
-          "imageAlt": "Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook",
-          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -643,82 +640,8 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "SC affirms 5-year term for barangay, SK execs; next polls in Nov. 2028",
-          "summary": "The Philippine Supreme Court upheld the constitutionality of Republic Act 12326, extending the terms of barangay and Sangguniang Kabataan officials to five years. The law also schedules the next barangay and SK elections for November 2028.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2337234/sc-affirms-5-year-term-for-barangay-sk-execs-next-polls-in-nov-2028",
-              "source": "Philippine Daily Inquirer",
-              "headline": "SC affirms 5-year term for barangay, SK execs; next polls in Nov. 2028",
-              "excerpt": "MANILA, Philippines–The Supreme Court (SC) has upheld the constitutionality of Republic Act No. (RA) 12326, affirming the extension of terms of office for barangay officials and Sangguniang Kabataan (SK) members to five years and scheduling the next Barangay and Sangguniang Kabataan Elections (BSKE) for November 2028. In a decision written by now Chief Justice Rodil",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Front-Page1319440.jpg",
-              "imageAlt": "SC affirms 5-year term for barangay, SK execs; next polls in Nov. 2028",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/supreme-court-upholds-law-extending-terms-barangay-sk-officials/",
-              "source": "Rappler World",
-              "headline": "Supreme Court upholds law extending terms of barangay, SK officials",
-              "excerpt": "The same law also schedules the next barangay and Sangguniang Kabataan elections for November 2028",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/08/supreme-court.jpeg",
-              "imageAlt": "Supreme Court upholds law extending terms of barangay, SK officials",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Front-Page1319440.jpg",
-          "imageAlt": "SC affirms 5-year term for barangay, SK execs; next polls in Nov. 2028",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "La Union prepares for worst of El Niño",
-          "summary": "La Union’s provincial government is preparing for a potential Super El Niño by distributing drought-resilient seeds and farm inputs. It is also installing solar-powered irrigation, rehabilitating water impounding structures and expanding rainwater harvesting to protect production and farmers’ livelihoods.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2337246/la-union-prepares-for-worst-of-el-nino",
-              "source": "Philippine Daily Inquirer",
-              "headline": "La Union prepares for worst of El Niño",
-              "excerpt": "SAN FERNANDO CITY, La Union — The La Union provincial government is distributing drought-resilient crop seeds and farm inputs, installing solar-powered irrigation systems, rehabilitating water impounding structures and expanding rainwater harvesting facilities as it prepares for the anticipated effects of a Super El Niño. These interventions aim to sustain agricultural production, protect farmers’ livelihoods and",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/La-Union-map-filephoto-091122.jpg",
-              "imageAlt": "La Union prepares for worst of El Niño",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/La-Union-map-filephoto-091122.jpg",
-          "imageAlt": "La Union prepares for worst of El Niño",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
           "title": "Baguio promotes recycled materials in Ibag-iw, Christmas festivities",
-          "summary": "Baguio is incorporating its circular-economy program into the Ibag-iw Creative Festival and Christmas celebrations. The initiative aims to reduce waste and encourage the reuse of discarded materials during major public events.",
+          "summary": "Baguio’s city government is incorporating its circular-economy program into the Ibag-iw Creative Festival and Christmas celebrations to reduce waste and encourage material reuse. Mayor Benjamin Magalong said the effort forms part of the city’s “Pansa-nopen Tayo” program for responsible resource use.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2337410/baguio-promotes-recycled-materials-in-ibag-iw-christmas-festivities",
@@ -746,35 +669,35 @@
         },
         {
           "title": "Remulla to BJMP: Report on Romualdez’s personal aide within 48 hours",
-          "summary": "Remulla called on the Bureau of Jail Management and Penology to report within 48 hours on former Speaker Martin Romualdez’s personal aide. Malacañang also sought a deeper investigation into why Romualdez was allowed a staff member to assist him around the clock inside a Quezon City jail.",
+          "summary": "Philippine Interior Secretary Jonvic Remulla ordered the Bureau of Jail Management and Penology to submit a comprehensive report within 48 hours on the authorization given to former House Speaker Ferdinand Martin Romualdez’s personal helper. The order followed the bureau’s admission before the Sandiganbayan Third Division that it had allowed a member of Romualdez’s staff to attend to him.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2337278/inqtoday-palace-wants-probe-into-romualdezs-24-7-qc-jail-aide",
+              "url": "https://newsinfo.inquirer.net/2337342/remulla-to-bjmp-report-on-romualdezs-personal-aide-within-48-hours",
               "source": "Philippine Daily Inquirer",
-              "headline": "INQToday: Palace wants probe into Romualdez’s 24/7 QC jail aide",
-              "excerpt": "MANILA, Philippines — Here are INQToday’s top stories on Friday, Nov. 6, 2026, as of 6 p.m. Palace wants probe into Romualdez’s 24/7 QC jail aide Malacañang called for a deeper investigation on Friday into why former Speaker Martin Romualdez was allowed to have a personal staff member to assist him inside the city jail.",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/INQToday-TitleCard-06Nov2026.jpg",
-              "imageAlt": "INQToday: Palace wants probe into Romualdez’s 24/7 QC jail aide",
+              "headline": "Remulla to BJMP: Report on Romualdez’s personal aide within 48 hours",
+              "excerpt": "MANILA, Philippines — Interior Secretary Jonvic Remulla on Friday directed the Bureau of Jail Management and Penology (BJMP) to submit a comprehensive report regarding the authorization of former House Speaker Ferdinand Martin Romualdez’s personal helper within 48 hours. His directive follows BJMP’s admission before the Sandiganbayan Third Division that it allowed Romualdez’s staff to attend",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/News1282678.jpg",
+              "imageAlt": "Remulla to BJMP: Report on Romualdez’s personal aide within 48 hours",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/INQToday-TitleCard-06Nov2026.jpg",
-          "imageAlt": "INQToday: Palace wants probe into Romualdez’s 24/7 QC jail aide",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/News1282678.jpg",
+          "imageAlt": "Remulla to BJMP: Report on Romualdez’s personal aide within 48 hours",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Romblon logs 793 dengue cases, 7 deaths in 10 months",
-          "summary": "Romblon recorded 793 dengue cases and seven deaths from January through October 2026. Provincial surveillance data for morbidity weeks 1 to 44 showed that 786 patients recovered, while health authorities urged residents to strengthen disease-prevention measures.",
+          "summary": "Romblon recorded 793 dengue cases and seven deaths from January through October 2026, according to provincial surveillance data covering morbidity weeks 1 to 44. Health authorities urged residents to strengthen infectious-disease prevention measures, while the data showed that 786 patients recovered.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2337403/romblon-logs-793-dengue-cases-7-deaths-in-10-months",
@@ -799,6 +722,62 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Romblon-map-filephoto-091222.jpg",
           "imageAlt": "Romblon logs 793 dengue cases, 7 deaths in 10 months",
           "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Maguindanao del Sur village councilman survives ambush",
+          "summary": "Village councilman Abdul Manab Guialodin survived an ambush by an unidentified gunman in Datu Piang, Maguindanao del Sur, on November 6, police said. The Barangay Liong official sustained several gunshot wounds in the attack.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2337477/maguindanao-del-sur-village-councilman-survives-ambush",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Maguindanao del Sur village councilman survives ambush",
+              "excerpt": "COTABATO CITY — An unidentified gunman tried, but failed, to kill a village councilman in Datu Piang, Maguindanao del Sur on Friday, Nov. 6, police said. Capt. Steffi Salanguit, spokesperson of Police Regional Office-Bangsamoro Autonomous Region (PRO-BAR), identified the victim as Abdul Manab Guialodin, village councilor of Barangay Liong. Liong sustained several gunshot wounds from",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/02/Maguindanao-del-Sur-ph-maps-2024.png",
+              "imageAlt": "Maguindanao del Sur village councilman survives ambush",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/02/Maguindanao-del-Sur-ph-maps-2024.png",
+          "imageAlt": "Maguindanao del Sur village councilman survives ambush",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Police, DepEd ink school safety pact in Zamboanga Sibugay province",
+          "summary": "The Zamboanga Sibugay police and the provincial Department of Education division signed an agreement launching Project AKLAT on November 5. The initiative is intended to protect schools from growing physical-safety threats and digital risks.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2337384/police-deped-ink-school-safety-pact-in-zamboanga-sibugay-province",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Police, DepEd ink school safety pact in Zamboanga Sibugay province",
+              "excerpt": "IPIL, Zamboanga Sibugay — In a pioneering move to safeguard schools against rising safety threats and digital risks, the Zamboanga Sibugay Police Provincial Office (ZSBPPO) and the Department of Education (DepEd) Zamboanga Sibugay Division signed a memorandum of understanding (MOU) Thursday afternoon, Nov. 5, launching “Project AKLAT.” Short for Project Alalay ang Kapulisan para sa",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/IMG_20261105_172514-scaled.jpg",
+              "imageAlt": "Police, DepEd ink school safety pact in Zamboanga Sibugay province",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/IMG_20261105_172514-scaled.jpg",
+          "imageAlt": "Police, DepEd ink school safety pact in Zamboanga Sibugay province",
+          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -807,7 +786,7 @@
       "stories": [
         {
           "title": "Germany's Economic Model Is Broken, and No One Has a Plan B",
-          "summary": "Germany’s export-focused economic model is under pressure as China slows its imports and the threat of US tariffs grows. The attached report says German politicians are offering few alternatives.",
+          "summary": "Germany’s export-focused economic model is under pressure as China slows its imports and the United States threatens tariffs. The Wall Street Journal reports that German politicians are offering few alternatives to the country’s existing approach.",
           "links": [
             {
               "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
@@ -832,7 +811,7 @@
         },
         {
           "title": "After the midterms, is the AI industry in for a rough two years?",
-          "summary": "Democratic victories in the US midterm elections could bring tighter conditions for the artificial-intelligence industry and data-centre development. Voters considered 41 data-centre-related ballot measures, and all but one produced majorities favouring additional restrictions.",
+          "summary": "Democratic victories in the US midterm elections could bring a more difficult policy environment for the artificial-intelligence industry. Voters considered 41 ballot measures related to data centres, and all but one produced majorities favoring tighter restrictions on data-centre development.",
           "links": [
             {
               "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
@@ -859,16 +838,16 @@
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
-          "summary": "A review describes Nintendo’s Switch 2 remake of The Legend of Zelda: Ocarina of Time as a modern transformation of the landmark game. It praises clearer navigation, improved visuals and playful musical touches while saying the original’s melancholy remains.",
+          "title": "EU charges TikTok with failing to protect users’ mental health",
+          "summary": "The European Commission has preliminarily found that TikTok failed to protect users’ mental health, saying its recommendation algorithm can harm young and vulnerable viewers. The regulator said the platform’s continuous content stream can draw users into hard-to-escape rabbit holes and risk worsening eating disorders and anxiety.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+              "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
               "source": "The Guardian Technology",
-              "headline": "The Legend of Zelda: Ocarina of Time review – a dream come true",
-              "excerpt": "Nintendo Switch 2; Nintendo This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches. Yet the melancholy remains It’s always a worry, returning to a formative piece of art from your childhood. Will your jaded adult sensibilities render you unable to locate the magic that captivated your child self? Will revisiting it reveal that it was never actually that",
-              "imageUrl": "https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/558_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f166b0e3b10b4ea26c6403380c9173ac",
-              "imageAlt": "The Legend of Zelda: Ocarina of Time review – a dream come true",
+              "headline": "EU charges TikTok with failing to protect users’ mental health",
+              "excerpt": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’ TikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model. Issuing a preliminary ruling on Friday, the EU regulator said TikTok’s algorithm “can be harmf",
+              "imageUrl": "https://i.guim.co.uk/img/media/73530bb71968af6a5b5d2dca4fd682c0f680fd80/0_253_3524_2819/master/3524.jpg?width=140&quality=85&auto=format&fit=max&s=d05db8a6116ac1b16f99fce1b22ac8e5",
+              "imageAlt": "EU charges TikTok with failing to protect users’ mental health",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -877,18 +856,18 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/558_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f166b0e3b10b4ea26c6403380c9173ac",
-          "imageAlt": "The Legend of Zelda: Ocarina of Time review – a dream come true",
+          "imageUrl": "https://i.guim.co.uk/img/media/73530bb71968af6a5b5d2dca4fd682c0f680fd80/0_253_3524_2819/master/3524.jpg?width=140&quality=85&auto=format&fit=max&s=d05db8a6116ac1b16f99fce1b22ac8e5",
+          "imageAlt": "EU charges TikTok with failing to protect users’ mental health",
           "imageCredit": "The Guardian"
         },
         {
           "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
-          "summary": "Hamas released four female Israeli soldiers under the multiphase Gaza ceasefire agreement. They are the second group of hostages released since the deal took effect, raising hopes that the agreement could lead to a lasting end to the war.",
+          "summary": "Hamas has released four female Israeli soldiers under the multiphase Gaza ceasefire agreement. They are the second group of hostages freed since the deal took effect, raising hopes that the agreement could lead to a lasting end to the war.",
           "links": [
             {
               "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
@@ -913,7 +892,7 @@
         },
         {
           "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-          "summary": "The world’s three largest container operators remain wary of returning to Red Sea routes despite a Houthi pledge to stop targeting ships. They say instability in Gaza and wider regional tensions continue to pose a danger.",
+          "summary": "The world’s three largest container operators remain wary of returning to Red Sea routes despite a Houthi pledge to stop targeting ships. They cite instability in Gaza and broader regional tensions as reasons the danger may persist.",
           "links": [
             {
               "url": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
