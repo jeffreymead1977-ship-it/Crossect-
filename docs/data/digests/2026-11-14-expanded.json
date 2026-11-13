@@ -1,0 +1,931 @@
+{
+  "id": "2026-11-14-expanded",
+  "date": "2026-11-14",
+  "title": "Daily Source Digest",
+  "generatedAt": "2026-11-14T03:00:55.442328",
+  "note": "Daily source-balanced news digest — morning update.",
+  "updatedAt": "2026-11-14T03:00:55",
+  "sections": [
+    {
+      "name": "World / Geopolitics",
+      "stories": [
+        {
+          "title": "Nvidia Scandal Hits Capitol Hill As Senator Wants Answers From Two Big Names",
+          "summary": "Congressional scrutiny of Nvidia-related technology exports to China is intensifying, with senators seeking testimony from Commerce Secretary Howard Lutnick, Treasury Secretary Scott Bessent and former Nvidia chief Jensen Huang. Reports say the inquiry concerns alleged leakage of advanced chips to a China-linked firm and whether the Commerce Department adequately enforced export controls.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+              "excerpt": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+              "imageAlt": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/13/scott-bessent-commerce-dept-enforce-export-controls-nvidia-chips/",
+              "source": "Washington Times",
+              "headline": "Bessent to Commerce Dept.: Enforce export controls on Nvidia chips",
+              "excerpt": "Treasury Scott Bessent says \"any leakage\" of advanced computer chips to China is frustrating, and he hopes the Commerce Department will stop it.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2025/04/02/Trump_87379_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Bessent to Commerce Dept.: Enforce export controls on Nvidia chips",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/clips/2026/11/12/gop-sen-kennedy-bessent-lutnick-need-to-testify-before-congress-on-china-chips/",
+              "source": "Breitbart",
+              "headline": "GOP Sen. Kennedy: Bessent, Lutnick Need to Testify Before Congress on China Chips",
+              "excerpt": "On Thursday’s broadcast of CNN’s “The Arena,” Sen. John Kennedy (R-LA) stated that Secretary of Commerce Howard Lutnick and Secretary of the Treasury Scott Bessent need to testify before Congress, along with former NVIDIA CEO Jensen Huang and said that The post GOP Sen. Kennedy: Bessent, Lutnick Need to Testify Before Congress on China Chip",
+              "imageUrl": "https://media.breitbart.com/media/2026/10/Kennedy10112026-640x335.jpg",
+              "imageAlt": "GOP Sen. Kennedy: Bessent, Lutnick Need to Testify Before Congress on China Chips",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/nvidia-scandal-hits-capitol-hill-as-senator-wants-answers-from-two-big-names",
+              "source": "Daily Wire",
+              "headline": "Nvidia Scandal Hits Capitol Hill As Senator Wants Answers From Two Big Names",
+              "excerpt": "Senate Banking Committee Chairman Tim Scott (R-SC) is demanding testimony from former Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick as Congress investigates allegations that a businesswoman linked to the chipmaker may have helped China obtain sensitive American technology. Scott sent letters Thursday requesting that Huang and Lutnick voluntarily appear at separate public hearings ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2287545403.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Nvidia Scandal Hits Capitol Hill As Senator Wants Answers From Two Big Names",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+          "imageAlt": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Peltola Inches Toward Victory As ‘Decoy Dan’ Drama Deepens",
+          "summary": "Mary Peltola widened her lead over incumbent Republican senator Dan Sullivan to 5,800 votes with 88% of ballots reported in Alaska's still-uncalled Senate race. The prolonged count has left Alaskans waiting for a final result in one of the state's closely watched contests.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Why midterm vote-counting is taking so long in America's largest state",
+              "excerpt": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/a2f3fa00-ded3-11f1-8afb-c1f8fc064db2.jpg",
+              "imageAlt": "Why midterm vote-counting is taking so long in America's largest state",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/peltola-inches-toward-victory-as-decoy-dan-drama-deepens",
+              "source": "Daily Wire",
+              "headline": "Peltola Inches Toward Victory As ‘Decoy Dan’ Drama Deepens",
+              "excerpt": "Democrat Alaska Senate candidate Mary Peltola inched closer to victory Friday, widening her lead in the latest ballot drop in a wild-card race defined by shady tactics and scandal. With 88% of the vote reported, Peltola’s lead has grown to 5,800 votes over incumbent Republican Senator Dan Sullivan as Democrats look to expand their largest ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2302985546-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Peltola Inches Toward Victory As ‘Decoy Dan’ Drama Deepens",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/a2f3fa00-ded3-11f1-8afb-c1f8fc064db2.jpg",
+          "imageAlt": "Why midterm vote-counting is taking so long in America's largest state",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+          "summary": "European governments are seeking representation in talks aimed at ending the Russia-Ukraine war. EU leaders fear a US-backed process could leave Europe and Kyiv sidelined while Washington and Moscow shape the outcome, but Europe has yet to settle on a unified voice.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+              "excerpt": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af72b2c48-1794583340.jpg?resize=1920%2C1440",
+              "imageAlt": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/13/europe-pushes-seat-ukraine-peace-talks-leaders-lack-unified-voice/",
+              "source": "Washington Times",
+              "headline": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+              "excerpt": "European nations are seeking an envoy to represent them in talks on ending the Russia-Ukraine war, concerned that a U.S.-backed process will leave them sidelined and Kyiv vulnerable as Moscow and Washington decide the fate of a conflict that has roiled the continent.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/13/Ireland_EU_Summit_83892_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af72b2c48-1794583340.jpg?resize=1920%2C1440",
+          "imageAlt": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Senate majority leader race: Van Hollen jumps in, but Schumer says he has the votes",
+          "summary": "Maryland senator Chris Van Hollen is challenging Charles Schumer for the Democratic Senate leadership, arguing that the party needs new leadership after its midterm successes. Schumer, however, says he has enough support to retain the position.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Democratic Senate leader Schumer set to face leadership challenge",
+              "excerpt": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+              "imageAlt": "Democratic Senate leader Schumer set to face leadership challenge",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/13/senate-majority-leader-race-chris-van-hollen-jumps-chuck-schumer-says/",
+              "source": "Washington Times",
+              "headline": "Senate majority leader race: Van Hollen jumps in, but Schumer says he has the votes",
+              "excerpt": "The Senate majority leader race is on. Sen. Chris Van Hollen of Maryland is answering the calls of his Democratic colleagues who want new leadership when they take back control of Congress next year and is offering himself as an alternative to Charles E. Schumer.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/06/25/Election_2_26_Michigan_Senate_88521_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Senate majority leader race: Van Hollen jumps in, but Schumer says he has the votes",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+          "imageAlt": "Democratic Senate leader Schumer set to face leadership challenge",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+          "summary": "At least 24 people were killed when a bus collided with a truck in Assam in north-east India. Officials said children, college students and the bus driver were among the dead, and warned that the toll could rise.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Truck and bus crash in India’s Assam state kills at least 24 people",
+              "excerpt": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7237d46344-1794581373.jpg?resize=1920%2C1440",
+              "imageAlt": "Truck and bus crash in India’s Assam state kills at least 24 people",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "At least 24 killed after bus collides with truck in north-east India",
+              "excerpt": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg",
+              "imageAlt": "At least 24 killed after bus collides with truck in north-east India",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7237d46344-1794581373.jpg?resize=1920%2C1440",
+          "imageAlt": "Truck and bus crash in India’s Assam state kills at least 24 people",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "summary": "A global Microsoft outage disrupted Outlook, Teams and the Copilot AI service, preventing workers from using email and other workplace tools. Reports described a server outage but did not establish how long recovery would take or whether emails would be lost.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "No emails, no problem? Workers joke about Microsoft outage",
+              "excerpt": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794592461.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "No emails, no problem? Workers joke about Microsoft outage",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Watch: How a server outage took down Microsoft Teams and Outlook",
+              "excerpt": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
+              "imageAlt": "Watch: How a server outage took down Microsoft Teams and Outlook",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794592461.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "No emails, no problem? Workers joke about Microsoft outage",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Microsoft's Email Meltdown Extends into Second Day, Company Reports 'Progress' Towards Recovery",
+          "summary": "A Microsoft 365 outage continued into a second day, disrupting Outlook, Teams, SharePoint, Copilot and Defender for organisations worldwide. Microsoft reported progress toward recovery, but the affected services had not yet been fully restored.",
+          "links": [
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/13/costly-microsoft-outage-stretches-second-day-disrupting-organizations/",
+              "source": "Washington Times",
+              "headline": "Costly Microsoft outage stretches into second day, disrupting organizations worldwide",
+              "excerpt": "A costly outage of all Microsoft 365 services -- including Outlook, Teams, SharePoint, Copilot and Defender -- continued into Friday morning.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/12/Microsoft-Outage__9733_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Costly Microsoft outage stretches into second day, disrupting organizations worldwide",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.breitbart.com/tech/2026/11/13/microsofts-email-meltdown-extends-into-second-day-company-reports-progress-towards-recovery/",
+              "source": "Breitbart",
+              "headline": "Microsoft's Email Meltdown Extends into Second Day, Company Reports 'Progress' Towards Recovery",
+              "excerpt": "The Microsoft outage that began Thursday has stretched into Friday morning, leaving Outlook, Teams and Copilot unreachable for millions of users at businesses and government agencies across the globe. Microsoft claims it is making \"encouraging recovery process\" but has not fully repaired the systems that many organizations rely on to conduct business. The post <a rel=\"nofollow\" href=\"https://www.breitbart.com/tech/2026/11/13/microsofts-email-meltdown-extends-into-second-day-company-rep",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/Satya-Nadellas-Microsoft-epicly-fails-640x335.jpg",
+              "imageAlt": "Microsoft's Email Meltdown Extends into Second Day, Company Reports 'Progress' Towards Recovery",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/12/Microsoft-Outage__9733_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+          "imageAlt": "Costly Microsoft outage stretches into second day, disrupting organizations worldwide",
+          "imageCredit": "Washington Times"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "title": "Season of spice: a selection of cook books",
+          "summary": "The digest presents a selection of cookbooks under the title “Season of spice.” The sole linked item instead discusses a photographic movement and an exhibition at Tate Modern, so it provides no details about the books in the selection.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/11/a-photographic-movement-with-soul-poetry-and-style/",
+              "source": "Spectator Australia",
+              "headline": "A photographic movement with soul, poetry and style",
+              "excerpt": "Tate Modern feels vast and forlorn at the moment, as if not enough art could be found to fill it.… The post A photographic movement with soul, poetry and style appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2025/09/magnificent-vampas-marie-antoinette-s",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/14Noveexhib.png",
+              "imageAlt": "A photographic movement with soul, poetry and style",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/14Noveexhib.png",
+          "imageAlt": "A photographic movement with soul, poetry and style",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "Registered psychologist accused of recruiting for Universal Medicine cult",
+          "summary": "A Victorian survivor of childhood sexual abuse alleges that a registered psychologist recruited her into Universal Medicine after she sought professional help. The linked report describes the organisation as having previously been found to be “socially dangerous” and “sexually manipulative.”",
+          "links": [
+            {
+              "url": "https://www.abc.net.au/news/2026-11-14/universal-medicine-cult-registered-health-professionals/107313996",
+              "source": "ABC Australia",
+              "headline": "Registered psychologist accused of recruiting for Universal Medicine cult",
+              "excerpt": "A Victorian survivor of childhood sexual abuse went to a psychologist seeking help. Instead, she alleges she was recruited to a cult found to be \"socially dangerous\" and \"sexually manipulative\".",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/94e99547bbabe64ae6f510396dbedc31?impolicy=wcms_crop_resize&cropH=701&cropW=1246&xPos=196&yPos=0&width=862&height=485",
+              "imageAlt": "Registered psychologist accused of recruiting for Universal Medicine cult",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/94e99547bbabe64ae6f510396dbedc31?impolicy=wcms_crop_resize&cropH=701&cropW=1246&xPos=196&yPos=0&width=862&height=485",
+          "imageAlt": "Registered psychologist accused of recruiting for Universal Medicine cult",
+          "imageCredit": "ABC News"
+        },
+        {
+          "title": "Anthony Albanese’s coffee diplomacy can’t remove shadow of domestic politics at Cop31",
+          "summary": "Prime Minister Anthony Albanese used coffee diplomacy, including free flat whites, during the Cop31 climate summit in Antalya, Turkey. The report says the effort brought some success but could not escape scrutiny of Australia's fossil-fuel industry and domestic culture wars.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/environment/2026/nov/13/anthony-albaneses-coffee-diplomacy-cant-remove-shadow-of-domestic-politics-at-cop31",
+              "source": "The Guardian Australia",
+              "headline": "Anthony Albanese’s coffee diplomacy can’t remove shadow of domestic politics at Cop31",
+              "excerpt": "The Australian prime minister’s use of traditional skills – and free flat whites – has brought success in Turkey. But his country’s fossil fuel industry and its culture wars remain a problem Being cynical comes easy at a UN climate summit, but there was a faint glimmer of something else on the face of the Australian prime minister Anthony Albanese. Pride. Standing to face journalists at his only press conference here at Cop31 in Antalya on Thursday, Albanese was flanked by seven l",
+              "imageUrl": "https://i.guim.co.uk/img/media/e2f64bcf28b5e9a2ec34ec9c7843343e6c57f56c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=70f75709f3e55d3fc8595e9b47571970",
+              "imageAlt": "Anthony Albanese’s coffee diplomacy can’t remove shadow of domestic politics at Cop31",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/e2f64bcf28b5e9a2ec34ec9c7843343e6c57f56c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=70f75709f3e55d3fc8595e9b47571970",
+          "imageAlt": "Anthony Albanese’s coffee diplomacy can’t remove shadow of domestic politics at Cop31",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘It is not just a narrow welfare reform package. This is a new settlement’: Pat McFadden on his plans to get the young into work",
+          "summary": "The title frames Pat McFadden's plans to help young people into work as a broad new settlement rather than a narrow welfare-reform package. The sole linked item instead concerns the gratification of petty revenge and Thucydides, offering no further details about McFadden's proposals.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/11/of-course-revenge-is-sweet-just-ask-thucydides/",
+              "source": "Spectator Australia",
+              "headline": "Of course revenge is sweet, just ask Thucydides",
+              "excerpt": "Research has revealed that petty acts of revenge yield considerable gratification. The best commentary on revenge is that of Thucydides… The post Of course revenge is sweet, just ask Thucydides appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/11/if-the-",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/AM_iStock_185102154.png",
+              "imageAlt": "Of course revenge is sweet, just ask Thucydides",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/AM_iStock_185102154.png",
+          "imageAlt": "Of course revenge is sweet, just ask Thucydides",
+          "imageCredit": "Spectator Australia"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "stories": [
+        {
+          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "summary": "Nebius plans a $40 billion expansion of its AI infrastructure, financed through customer prepayments and loans. Delays at a Microsoft data centre have raised questions about the viability of that financing model.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+              "source": "TechCrunch",
+              "headline": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+              "excerpt": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2300447831.jpg?w=1024",
+              "imageAlt": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2300447831.jpg?w=1024",
+          "imageAlt": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
+          "summary": "Tesla plans to end Cybertruck production next year to make room for increased Cybercab output, according to Elon Musk. The report portrays the eccentric, heavily promoted vehicle as a symbol of Musk's political ascent and argues that its winding down reflects a changing moment after US midterm gains by Democrats.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end",
+              "source": "The Guardian Technology",
+              "headline": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
+              "excerpt": "Eccentric and overhyped, Tesla’s Cybertruck became a stand-in for Elon Musk during his ascent in the Republican party. It will join the ranks of other vehicles symbolic of their eras – for better or for worse Three days after a historic blue tsunami changed America’s political landscape, Elon Musk announced Tesla would end production of its hulking Cybertruck next year. Was it a coincidence? Maybe. Musk said the move was “to make room for increased Cybercab production”, referring",
+              "imageUrl": "https://i.guim.co.uk/img/media/97cc90b0a69f0679476b1cbbe7720f9d590ea754/232_406_2528_2020/master/2528.jpg?width=140&quality=85&auto=format&fit=max&s=112e07c27ef76fc6fb9dbe9721db2c09",
+              "imageAlt": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/97cc90b0a69f0679476b1cbbe7720f9d590ea754/232_406_2528_2020/master/2528.jpg?width=140&quality=85&auto=format&fit=max&s=112e07c27ef76fc6fb9dbe9721db2c09",
+          "imageAlt": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+          "summary": "Reported misuse of messaging features and sellers' photos on resale apps has prompted ministers to consider banning under-16s from online marketplaces. One example involved a man apparently sexualising a swimming costume listed by the mother of a seven-year-old girl.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
+              "source": "The Guardian Technology",
+              "headline": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+              "excerpt": "Ministers consider banning under-16s from online marketplaces amid reported misuse of messaging functions and users’ photos In June, Hannah* listed her seven-year-old daughter’s pink swimming costume for sale on Vinted, hoping other parents surfing the reselling site would snap up the £1 offer. Her inbox pinged. “So a little girl wore this yh [yeah]?” wrote a user with a male handle. <a href=\"https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-soci",
+              "imageUrl": "https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/339_0_3505_2804/master/3505.jpg?width=140&quality=85&auto=format&fit=max&s=648540e4a3d008e232d45e912d354b3a",
+              "imageAlt": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/339_0_3505_2804/master/3505.jpg?width=140&quality=85&auto=format&fit=max&s=648540e4a3d008e232d45e912d354b3a",
+          "imageAlt": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+          "summary": "AI is helping researchers examine 1,009 pages of notes left by Austrian logician Kurt Gödel, much of them written in an obsolete shorthand. The notebooks are said to contain hundreds of proved theorems, adding to the legacy of the thinker whose incompleteness theorems transformed mathematics and helped pave the way for the digital age.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+              "source": "The Guardian Technology",
+              "headline": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+              "excerpt": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems , published in 1931, transformed mathematics and paved the way for the digital age. After his seminal re",
+              "imageUrl": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=e95b645a4c0a5af395dfec056a8ec751",
+              "imageAlt": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=e95b645a4c0a5af395dfec056a8ec751",
+          "imageAlt": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
+          "summary": "A 2026 UK gift guide offers tested Christmas ideas for dads, grandads, uncles and friends who may be difficult to shop for. Its suggestions range from fiery condiments and chef's knives to slippers and portable speakers.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/thefilter/2026/nov/05/best-christmas-gifts-dads-grandads-uncles-friends-uk",
+              "source": "The Guardian Technology",
+              "headline": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
+              "excerpt": "What do you get the man who doesn’t seem to want anything? From fiery condiments to chef’s knives, slippers to portable speakers, these ideas are sure to hit the spot • The best Christmas gifts for mums in 2026 Gifts for dads, grandads and other father figures can often feel like a shot in the dark. What do you get",
+              "imageUrl": "https://i.guim.co.uk/img/media/837ec3d7500d5e5a1162a916c5bacf44dfac1141/0_104_3885_3106/master/3885.jpg?width=140&quality=85&auto=format&fit=max&s=37279828e970a95153eea86281ac385b",
+              "imageAlt": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/837ec3d7500d5e5a1162a916c5bacf44dfac1141/0_104_3885_3106/master/3885.jpg?width=140&quality=85&auto=format&fit=max&s=37279828e970a95153eea86281ac385b",
+          "imageAlt": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Bong Go seeks hassle-free registration under unified PWD ID system",
+          "summary": "Senator Christopher “Bong” Go called for efficient and compassionate implementation of the Philippines' Unified Persons with Disabilities Identification System. He said legitimate beneficiaries should not face unnecessary paperwork, repeated medical certifications or barriers to receiving their legally mandated benefits.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2341031/bong-go-seeks-hassle-free-registration-under-unified-pwd-id-system",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Bong Go seeks hassle-free registration under unified PWD ID system",
+              "excerpt": "MANILA, Philippines – Senator Christopher “Bong” Go called for the efficient and compassionate implementation of the Unified Persons with Disabilities Identification System (UPWDIS), emphasizing the need to protect legitimate beneficiaries from unnecessary paperwork, repeated medical certifications, and barriers to accessing their legally mandated benefits. “Wag na nating pahirapan ang ating mga kababayang may kapansanan. Marami",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Bong-go-13november2026.jpg",
+              "imageAlt": "Bong Go seeks hassle-free registration under unified PWD ID system",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Bong-go-13november2026.jpg",
+          "imageAlt": "Bong Go seeks hassle-free registration under unified PWD ID system",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Angara cites private sector support as Metro schools get 133 ICT units",
+          "summary": "Public schools in Metro Manila, including schools in Navotas and Caloocan, received 133 information and communications technology units. Education Secretary Sonny Angara cited the contribution of public-private partnerships to the Department of Education's nationwide digital transformation.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2341000/angara-cites-private-sector-support-as-metro-schools-get-133-ict-units",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Angara cites private sector support as Metro schools get 133 ICT units",
+              "excerpt": "MANILA, Philippines – The Department of Education (DepEd) emphasized the vital role of public-private partnerships in driving nationwide digital transformation, as public schools in Metro Manila, including those in Navotas City and Caloocan City, received 133 information and communications technology (ICT) units. Education Secretary Sonny Angara, together with officials from the IT and Business Process",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Sonny-Angara-laptop-10November2026.jpg",
+              "imageAlt": "Angara cites private sector support as Metro schools get 133 ICT units",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Sonny-Angara-laptop-10November2026.jpg",
+          "imageAlt": "Angara cites private sector support as Metro schools get 133 ICT units",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Church network backs rehab push for Marcopper-hit Marinduque",
+          "summary": "The ecumenical Philippine-Misereor Partnership Inc. backed calls for Marinduque's provincial government to prepare a comprehensive ecological rehabilitation and restoration plan. The proposal targets communities and ecosystems damaged by decades of mining operations by Marcopper Mining Corp.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2340843/church-network-backs-rehab-push-for-marcopper-hit-marinduque",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Church network backs rehab push for Marcopper-hit Marinduque",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — The ecumenical network Philippine-Misereor Partnership Inc. (PMPI) has backed a call for the Marinduque provincial government to initiate a comprehensive ecological rehabilitation and restoration plan for communities and ecosystems damaged by decades of mining operations by Marcopper Mining Corp. In a statement issued on Thursday (Nov. 12), PMPI supported Resolution",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Oriental-Mindoro-map-filephoto-091222.jpg",
+              "imageAlt": "Church network backs rehab push for Marcopper-hit Marinduque",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Oriental-Mindoro-map-filephoto-091222.jpg",
+          "imageAlt": "Church network backs rehab push for Marcopper-hit Marinduque",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "DOST pushes ‘future-proof’ startups, regional innovation in Butuan",
+          "summary": "Science and Technology Secretary Renato Solidum Jr. urged startups, universities and local governments in Butuan to focus on scaling ventures, commercialising research and building “future-proof” enterprises. He delivered the challenge at the 10th National Technology Business Incubation Summit.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2340899/dost-pushes-future-proof-startups-regional-innovation-in-butuan",
+              "source": "Philippine Daily Inquirer",
+              "headline": "DOST pushes ‘future-proof’ startups, regional innovation in Butuan",
+              "excerpt": "BUTUAN CITY, Agusan del Norte — Science and Technology Secretary Renato Solidum Jr. has challenged local startups, universities, and local governments to move beyond simply launching new ventures and focus instead on scaling up, commercializing research, and building “future-proof” enterprises. Delivering the keynote message at the 10th National Technology Business Incubation (TBI) Summit at the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/IMG_2942-scaled.jpeg",
+              "imageAlt": "DOST pushes ‘future-proof’ startups, regional innovation in Butuan",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/IMG_2942-scaled.jpeg",
+          "imageAlt": "DOST pushes ‘future-proof’ startups, regional innovation in Butuan",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Negros police officer dies in accidental firearm discharge",
+          "summary": "A 27-year-old police non-commissioned officer died after his firearm accidentally discharged in Barangay Caranoche, Santa Catalina, Negros Oriental. Local police responded shortly after 12:30 a.m. on Friday following a report from a concerned citizen.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2340836/negros-police-officer-dies-in-accidental-firearm-discharge",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Negros police officer dies in accidental firearm discharge",
+              "excerpt": "BACOLOD CITY — A 27-year-old Police Non-Commissioned Officer (PNCO) died after his firearm was accidentally discharged at 12:30 a.m. on Friday in Barangay Caranoche, Santa Catalina, Negros Oriental. According to an initial investigation by the Santa Catalina Municipal Police Station, personnel responded to the scene after a concerned citizen reported the incident. Witness accounts indicate",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Negros-Oriental-map-filephoto-091322.jpg",
+              "imageAlt": "Negros police officer dies in accidental firearm discharge",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Negros-Oriental-map-filephoto-091322.jpg",
+          "imageAlt": "Negros police officer dies in accidental firearm discharge",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "summary": "A report added another allegation to the unfolding scandal involving Nvidia's Jensen Huang, saying he had a third affair with an Nvidia employee. Reuters withheld the employee's name, and the available linked material provides no further timeline details.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+              "source": "TechCrunch",
+              "headline": "Jensen Huang was having a third affair, Reuters reports",
+              "excerpt": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+              "imageAlt": "Jensen Huang was having a third affair, Reuters reports",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+          "imageAlt": "Jensen Huang was having a third affair, Reuters reports",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+          "summary": "US Commerce Secretary Howard Lutnick is under growing pressure over an alleged lack of action involving Nvidia, a suspected Chinese spy and the company Megaspeed. The report says warnings had emerged about ties to Jensen Huang and delays in adding Megaspeed to a trade blacklist, with Lutnick facing the possibility of dismissal.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+              "source": "The Guardian Technology",
+              "headline": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+              "excerpt": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the <a href=\"https://",
+              "imageUrl": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=62c117f622bf4e5987845906efdee2f7",
+              "imageAlt": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=62c117f622bf4e5987845906efdee2f7",
+          "imageAlt": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Are walking pads worth it? We put the best under-desk treadmills to the test",
+          "summary": "A review tests under-desk walking pads for comfort, noise and ease of storage while working or watching television. It presents the devices as one way to increase daily movement, while noting that health benefits do not necessarily require reaching 10,000 steps a day.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
+              "source": "The Guardian Technology",
+              "headline": "Are walking pads worth it? We put the best under-desk treadmills to the test",
+              "excerpt": "Want to get your steps in while working or watching TV? Our expert puts walking pads through their paces to find the best for comfort, noise and ease of storage • The best treadmills for your home You don’t necessarily need to walk 10,000 steps a day to improve your health and wellbeing. In fact, the N",
+              "imageUrl": "https://i.guim.co.uk/img/media/8e8fc881ee5a3127acfb23dfbfa456080b2946a1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=10fb23fa6bb7e7c4e830c95305e66128",
+              "imageAlt": "Are walking pads worth it? We put the best under-desk treadmills to the test",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/8e8fc881ee5a3127acfb23dfbfa456080b2946a1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=10fb23fa6bb7e7c4e830c95305e66128",
+          "imageAlt": "Are walking pads worth it? We put the best under-desk treadmills to the test",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Nvidia shaken by scandal amid wider political new order for big tech",
+          "summary": "A scandal is testing Nvidia's dominance as major technology figures reassess their political relationships after the US midterm elections. The report says tech billionaires are seeking to repair ties with Democrats amid a broader shift in the political order surrounding big tech.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/global/2026/nov/10/nvidias-silicon-valley-political-power",
+              "source": "The Guardian Technology",
+              "headline": "Nvidia shaken by scandal amid wider political new order for big tech",
+              "excerpt": "A scandal tests Nvidia’s dominance as tech billionaires seek to mend ties with Democrats after the midterm elections This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here Today in tech, we’re talking about Nvidia ’s s",
+              "imageUrl": "https://i.guim.co.uk/img/media/1797818fdcdde90e5abd60f32156a3275cad043f/245_0_2435_1949/master/2435.jpg?width=140&quality=85&auto=format&fit=max&s=db0b4c77e663cde9f705242a0a8ece6c",
+              "imageAlt": "Nvidia shaken by scandal amid wider political new order for big tech",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/1797818fdcdde90e5abd60f32156a3275cad043f/245_0_2435_1949/master/2435.jpg?width=140&quality=85&auto=format&fit=max&s=db0b4c77e663cde9f705242a0a8ece6c",
+          "imageAlt": "Nvidia shaken by scandal amid wider political new order for big tech",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
+          "summary": "The title describes Megaspeed as a company linked through Australia and Singapore to the downfall of Nvidia's Jensen Huang. The sole linked item instead concerns a rise in teen extremism in Australia and provides no supporting information about Megaspeed or Huang.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+              "source": "The Guardian Technology",
+              "headline": "What’s behind Australia’s surge in teen extremism?",
+              "excerpt": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people <a href=\"https://www.theguardian.com/a",
+              "imageUrl": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
+              "imageAlt": "What’s behind Australia’s surge in teen extremism?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
+          "imageAlt": "What’s behind Australia’s surge in teen extremism?",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    }
+  ]
+}
