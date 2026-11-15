@@ -1,0 +1,893 @@
+{
+  "id": "2026-11-16-expanded",
+  "date": "2026-11-16",
+  "title": "Daily Source Digest",
+  "generatedAt": "2026-11-16T03:00:51.562658",
+  "note": "Daily source-balanced news digest — morning update.",
+  "updatedAt": "2026-11-16T03:00:51",
+  "sections": [
+    {
+      "name": "World / Geopolitics",
+      "stories": [
+        {
+          "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
+          "summary": "Hundreds of thousands of people rallied in Prague against the Czech government's plan to change how public broadcasters are funded. Critics cited by Al Jazeera, the BBC and The Washington Times say the changes could increase government control and weaken media independence, while the government says broadcasters need to cut costs.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Thousands rally in Czech Republic against state media funding changes",
+              "excerpt": "Critics say proposed funding changes will give the government more control of state media.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af9c44d-1794753613.jpg?resize=1920%2C1440",
+              "imageAlt": "Thousands rally in Czech Republic against state media funding changes",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Czechs rally against plan to switch funding of public media",
+              "excerpt": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg",
+              "imageAlt": "Czechs rally against plan to switch funding of public media",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/15/czechs-gather-big-numbers-reject-governments-plan-overhaul-funding/",
+              "source": "Washington Times",
+              "headline": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
+              "excerpt": "Hundreds of thousands of people rallied in Prague on Sunday against a plan by the government of Czech billionaire Andrej Babis to overhaul funding for public broadcasters that many say will erode media independence and democracy.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/15/Czech_Republic_Protest_79851_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af9c44d-1794753613.jpg?resize=1920%2C1440",
+          "imageAlt": "Thousands rally in Czech Republic against state media funding changes",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Fifth Canadian soldier dies from injuries suffered in military training fire",
+          "summary": "Canadian soldier William Douglas Dal Bianco has died from injuries sustained when a wind-driven grass fire swept through troops during a training exercise at CFB Wainwright. The BBC and Washington Examiner report that he died in an Ontario hospital about a month after the fire, becoming the fifth soldier to die from the incident.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+              "excerpt": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
+              "imageAlt": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4804223/fifth-canadian-soldier-dies-military-base-fire/",
+              "source": "Washington Examiner",
+              "headline": "Fifth Canadian soldier dies from injuries suffered in military training fire",
+              "excerpt": "EDMONTON, Alberta (AP) — A fifth Canadian soldier has died from injuries suffered when a wind-driven grass fire swept through troops during a military training exercise last month, the Canadian Armed Forces said Saturday. Pvt. William Douglas Dal Bianco died Friday at a hospital in Ontario, where he had been receiving treatment since the Oct. […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26292064933525.jpg?w=1024",
+              "imageAlt": "Fifth Canadian soldier dies from injuries suffered in military training fire",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
+          "imageAlt": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "summary": "New Orleans port officials have filed a $1 million lawsuit over a tanker collision with a cruise ship on the Mississippi. According to the BBC excerpt, the lawsuit also asks for the tanker to be seized and sold to cover damages.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+              "excerpt": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
+              "imageAlt": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
+          "imageAlt": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
+          "summary": "A CNN opinion piece asks why the House Judiciary Committee is not examining Thomas while it holds a New York field hearing on violent crime in Manhattan. The committee, chaired by Republican Rep. Jim Jordan, says the hearing will examine claims that District Attorney Alvin Bragg's policies have increased violent crime and endangered residents.",
+          "links": [
+            {
+              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
+              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
+              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
+          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
+          "imageCredit": "CNN"
+        },
+        {
+          "title": "Two planes collide on Miami runway one day after full ground stop",
+          "summary": "A UPS cargo aircraft and a Copa Airlines passenger jet collided while taxiing at Miami International Airport on Saturday evening. The FAA is investigating the collision, which reports place at about 9:15 p.m., one day after a telecommunications problem triggered a nationwide ground stop.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/ups-plane-and-commercial-flight-collide-on-miami-runway",
+              "source": "Daily Wire",
+              "headline": "UPS Plane And Commercial Flight Collide On Miami Runway",
+              "excerpt": "A UPS cargo plane collided with a passenger jet on a Miami runway on Saturday, less than one day after a telecommunications issue had grounded all flights nationwide for hours. The UPS plane, bound for Bogota, Colombia, was taxiing at the time of the collision — as was Copa Airlines said Flight CM427, which was ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/copa-427.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "UPS Plane And Commercial Flight Collide On Miami Runway",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/policy/infrastructure/4804126/plane-collision-miami-international-airport-runway/",
+              "source": "Washington Examiner",
+              "headline": "Two planes collide on Miami runway one day after full ground stop",
+              "excerpt": "A cargo and passenger plane collided on the tarmac of Miami International Airport on Saturday evening while both planes were taxiing. The Federal Aviation Administration said it is investigating the collision incident, which occurred around 9:15 p.m. Saturday evening, just one day after a nationwide ground stop across all U.S. airports. “The wingtip of a […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26319561863143-e1794759434360.jpg?w=982",
+              "imageAlt": "Two planes collide on Miami runway one day after full ground stop",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/copa-427.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "UPS Plane And Commercial Flight Collide On Miami Runway",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "Senator Launches Bid To Overthrow Schumer As Dem Civil War Begins",
+          "summary": "Senator Chris Van Hollen says he has a path to defeat Senate Minority Leader Chuck Schumer in the contest to lead the Democratic caucus next year. Sen.-elect Scott Colom says he remains undecided between the two candidates and is still listening before making a choice.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/far-left-challenger-says-he-has-a-path-to-oust-schumer",
+              "source": "Daily Wire",
+              "headline": "Far Left Challenger Says He Has ‘A Path’ To Oust Schumer",
+              "excerpt": "Senator Chris Van Hollen (D-MD) said on Sunday that he has “a path” to victory in his bid to oust Senate Minority Leader Chuck Schumer (D-NY) from his leadership role. Van Hollen, who recently announced his plan to run for Senate Majority Leader ahead of his party taking control in January, told CNN anchor Dana ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2025/04/GettyImages-2210198987.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Far Left Challenger Says He Has ‘A Path’ To Oust Schumer",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/senate/4804203/scott-colom-van-hollen-schumer-listening-mode/",
+              "source": "Washington Examiner",
+              "headline": "Sen.-elect Scott Colom undecided in Van Hollen-Schumer race: ‘I’m in listening mode’",
+              "excerpt": "Sen.-elect Scott Colom (D-MS) said he is not yet prepared to make a decision between supporting Senate Minority Leader Chuck Schumer (D-NY) and Sen. Chris Van Hollen (D-MD) in their race to lead the Democratic caucus next year. “I had a senator that I developed a relationship with during my campaign suggesting me to be […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26316221150293.jpg?w=1024",
+              "imageAlt": "Sen.-elect Scott Colom undecided in Van Hollen-Schumer race: ‘I’m in listening mode’",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2025/04/GettyImages-2210198987.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Far Left Challenger Says He Has ‘A Path’ To Oust Schumer",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+          "summary": "A Lexington County deputy working security at a South Carolina gun show fatally shot a customer who had fired at him, according to reports citing authorities. The deputy underwent surgery and was reported in stable condition, while the sheriff's office released no further details.",
+          "links": [
+            {
+              "url": "https://www.washingtonexaminer.com/news/crime/4804218/south-carolina-gun-show-shooting/",
+              "source": "Washington Examiner",
+              "headline": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+              "excerpt": "COLUMBIA, South Carolina (AP) — A deputy working security at a gun show in South Carolina fatally shot someone who fired on him Saturday, authorities said. The Lexington County deputy was taken into surgery and was in stable condition, the sheriff’s office said in a statement. The sheriff’s office did not release any additional information […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318770539126.jpg?w=1024",
+              "imageAlt": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/14/deputy-working-security-gun-show-south-carolina-fatally-shoots/",
+              "source": "Washington Times",
+              "headline": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+              "excerpt": "A deputy working security at a gun show in South Carolina fatally shot someone who fired on him Saturday, authorities said.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/14/South_Carolina_Deputy_Shot_39126_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318770539126.jpg?w=1024",
+          "imageAlt": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+          "imageCredit": "Washington Examiner"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "title": "This is what opera should be like",
+          "summary": "The selected story is titled “This is what opera should be like,” but its only linked Spectator Australia item is an article titled “Does Jacob Rees-Mogg mog?” The available excerpt discusses Jacob Rees-Mogg reclining on a House of Commons bench in 2019 and provides no information about opera.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/11/does-jacob-rees-mogg-mog/",
+              "source": "Spectator Australia",
+              "headline": "Does Jacob Rees-Mogg mog?",
+              "excerpt": "When in 2019 Jacob Rees-Mogg reclined languidly on a green bench of the Commons, like a would-be Fred Burnaby on… The post Does Jacob Rees-Mogg mog? appeared first on The Spectator Australia .",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2025/12/dot_stock_image_1000x642_1.png",
+              "imageAlt": "Does Jacob Rees-Mogg mog?",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2025/12/dot_stock_image_1000x642_1.png",
+          "imageAlt": "Does Jacob Rees-Mogg mog?",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
+          "summary": "The Federal Court has ruled that a tourism permit for Lorella Springs Wilderness Park in the Northern Territory is invalid. Native title holders called the decision a hard-fought win, and the court ordered the Pastoral Land Board to reassess the permit application.",
+          "links": [
+            {
+              "url": "https://www.abc.net.au/news/2026-11-15/lorella-springs-wilderness-park-tourism-permit-invalid/107385958",
+              "source": "ABC Australia",
+              "headline": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
+              "excerpt": "Northern Territory native title holders are claiming a \"hard fought win\" after a Federal Court judge ruled a tourism permit for Lorella Springs Wilderness Park is invalid, and ordered the Pastoral Land Board to reassess the application.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/12e224eb32d223b66e582ecfd7675c3e?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=315&width=862&height=485",
+              "imageAlt": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/12e224eb32d223b66e582ecfd7675c3e?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=315&width=862&height=485",
+          "imageAlt": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
+          "imageCredit": "ABC News"
+        },
+        {
+          "title": "Victoria election 2026: could Labor's loyal heartland flip to One Nation? - video",
+          "summary": "Labor's once-secure Victorian seat of St Albans is being examined as a possible One Nation gain ahead of the 2026 state election. The Guardian notes that Labor MP Natalie Suleyman's primary vote fell 18.4% in 2022 and says dissatisfaction after 12 years of Labor government is coinciding with growing One Nation support.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/video/2026/nov/06/victoria-election-2026-could-labors-loyal-heartland-flip-to-one-nation",
+              "source": "The Guardian Australia",
+              "headline": "Victoria election 2026: could Labor's loyal heartland flip to One Nation? - video",
+              "excerpt": "At the 2022 Victorian state election, sitting Labor MP Natalie Suleyman saw her primary vote fall by 18.4%. Her seat of St Albans was previously thought to be unassailable Labor heartland, its mix of multicultural communities and working-class voters insulating it against wider trends across the state. But with Labor facing growing dissatisfaction after 12 years in government, and One Nation gaining support, could the party's heartland be flipped orange? <a href=\"https://www.the",
+              "imageUrl": "https://i.guim.co.uk/img/media/d15e7d19c599a42dc90cee8beeef9ee36cfa1b1a/394_14_1217_974/master/1217.jpg?width=140&quality=85&auto=format&fit=max&s=d219bad1b01c3d96f45b029bd8367efd",
+              "imageAlt": "Victoria election 2026: could Labor's loyal heartland flip to One Nation? - video",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/d15e7d19c599a42dc90cee8beeef9ee36cfa1b1a/394_14_1217_974/master/1217.jpg?width=140&quality=85&auto=format&fit=max&s=d219bad1b01c3d96f45b029bd8367efd",
+          "imageAlt": "Victoria election 2026: could Labor's loyal heartland flip to One Nation? - video",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Rejoining the EU would cost £750m a week",
+          "summary": "The selected story is titled “Rejoining the EU would cost £750m a week,” but its linked Spectator Australia item is titled “A White House at war… with itself.” The available excerpt concerns the US president and vice-president at Arlington National Cemetery on Veterans Day and does not provide support for the stated EU cost.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/11/a-white-house-at-war-with-itself/",
+              "source": "Spectator Australia",
+              "headline": "A White House at war… with itself",
+              "excerpt": "On Wednesday, Veterans Day, the President and Vice President walked almost alongside each other at Arlington National Cemetery. The First… The post A White House at war… with itself appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/11/should-we-listen-to-tucker-carlso",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2304623706.jpg",
+              "imageAlt": "A White House at war… with itself",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2304623706.jpg",
+          "imageAlt": "A White House at war… with itself",
+          "imageCredit": "Spectator Australia"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "stories": [
+        {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "summary": "TechCrunch has compiled a running list of AI projects and startups that shut down, were delayed or failed to meet expectations. Its examples include Apple's repeatedly delayed Siri AI and OpenAI's troubled “super app” launch.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+              "source": "TechCrunch",
+              "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
+              "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+              "imageAlt": "The AI graveyard: a running list of projects and startups that didn’t make it",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+          "imageAlt": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "The tech products we enthusiastically recommend this holiday season",
+          "summary": "TechCrunch has published a selection of gadgets its reviewers recommend for holiday and Black Friday shopping. The story is paired with a Verge item highlighting favourite deals from REI's holiday sale, presenting two sets of seasonal product recommendations.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+              "source": "The Verge",
+              "headline": "Here are our favorite deals from REI’s giant Holiday Sale",
+              "excerpt": "Black Friday has become a shopping season of its own, with retailers once again offer",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0%2C10.752556637471%2C100%2C78.494886725057&w=1200",
+              "imageAlt": "Here are our favorite deals from REI’s giant Holiday Sale",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+              "source": "TechCrunch",
+              "headline": "The tech products we enthusiastically recommend this holiday season",
+              "excerpt": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1350065490.jpg?resize=1200,800",
+              "imageAlt": "The tech products we enthusiastically recommend this holiday season",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0%2C10.752556637471%2C100%2C78.494886725057&w=1200",
+          "imageAlt": "Here are our favorite deals from REI’s giant Holiday Sale",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+          "summary": "Grand Theft Auto VI arrives after a decade of development involving thousands of staff and a reported billion-dollar budget. The Guardian says its hands-on visit to Rockstar Games found that the Scotland-made instalment lives up to the enormous expectations surrounding its release.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+              "source": "The Guardian Technology",
+              "headline": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+              "excerpt": "The latest instalment of the epic crime saga is finally here. We visit Rockstar Games for a hands-on encounter with the cultural event of the decade – and can confirm it more than lives up to the hype It still comes as a surprise for many to learn that Grand Theft Auto, the brazenly American crime series that has been one of the world’s most popular and most controversial video games for the past 20 years, is mainly made in Scotland. But if you grow up in Edinburgh, developer Rockstar N",
+              "imageUrl": "https://i.guim.co.uk/img/media/bcaf21a5ea7f320d200cf89cb3e6d93d0bd16a0b/0_2377_7101_5677/master/7101.jpg?width=140&quality=85&auto=format&fit=max&s=993448de6a2c38a18864b8b50d5fd385",
+              "imageAlt": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/bcaf21a5ea7f320d200cf89cb3e6d93d0bd16a0b/0_2377_7101_5677/master/7101.jpg?width=140&quality=85&auto=format&fit=max&s=993448de6a2c38a18864b8b50d5fd385",
+          "imageAlt": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+          "summary": "The top scorer in South Korea's national exam for aspiring tax accountants has admitted using generative AI to cheat. The Guardian reports that the candidate sent photographs of questions to an AI tool and had drawn suspicion after missing only one of 160 questions across exams held in April and July.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+              "source": "The Guardian Technology",
+              "headline": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+              "excerpt": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July",
+              "imageUrl": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
+              "imageAlt": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (rumours|unverified|alleged without evidence|speculation|conspiracy)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
+          "imageAlt": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+          "summary": "Fraudsters are disguising malware installation instructions as unusual “prove you are not a robot” tests. Unlike a normal CAPTCHA, the scam directs users to press a sequence of keys, which The Guardian warns can give attackers a way to install malicious software on the computer.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+              "source": "The Guardian Technology",
+              "headline": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+              "excerpt": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software You are looking for some gifts for Christmas and want to support small businesses when you shop. When you visit the site of one you’ve heard good things about you are asked to verify that you are human. Instead of clicking on a series of images, or typing letters that appear, just as you have seen before, you are asked to press a series of ke",
+              "imageUrl": "https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=3e9246160e867f88ad574ac58ef48a00",
+              "imageAlt": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=3e9246160e867f88ad574ac58ef48a00",
+          "imageAlt": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Palace to protesters: Don’t tarnish PH’s reputation during Asean Summit",
+          "summary": "The available Inquirer report says at least 22 journalists covering protests during the 2026 ASEAN Summit reported police harassment. The National Union of Journalists of the Philippines said arrests, attempted arrests and harassment of protesters and journalists violated rights to peaceful assembly; the linked material does not include the Palace response named in the selected title.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2341835/over-22-media-members-covering-asean-protests-experienced-police-harassment",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Over 22 journos covering Asean protests subjected to police harassment",
+              "excerpt": "MANILA, Philippines—The National Union of Journalists of the Philippines (NUJP) documented at least 22 media workers who reported experiencing police harassment during the demonstrations on Sunday amid the 2026 Association of Southeast Asian Nations (Asean) Summit. “The arrests, attempted arrests, and harassment of protesters and journalists constitute violations of the people’s right to peaceful assembly",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/ASEAN-Protesters-15Nov2026.jpg",
+              "imageAlt": "Over 22 journos covering Asean protests subjected to police harassment",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/ASEAN-Protesters-15Nov2026.jpg",
+          "imageAlt": "Over 22 journos covering Asean protests subjected to police harassment",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Macacua vows to closely monitor Bangsamoro funds, financial obligations",
+          "summary": "Bangsamoro Chief Minister Abdulraof Macacua has pledged to personally monitor the finances and payment obligations of BARMM ministries and offices as an anti-corruption measure. The announcement followed a memorandum of agreement between the Bangsamoro government and Land Bank.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2341761/macacua-vows-to-closely-monitor-bangsamoro-funds-financial-obligations",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Macacua vows to closely monitor Bangsamoro funds, financial obligations",
+              "excerpt": "COTABATO CITY – As an anti-corruption strategy, Bangsamoro Chief Minister Abdulraof Macacua vowed on Sunday to personally monitor the financial standing and payment obligations of the ministries and offices under the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). His pronouncement followed the signing of Memorandum of Agreement between the Bangsamoro Government and the Land Bank",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Macacua-vows-to-closely-monitor-Bangsamoro-funds-15November2026.jpg",
+              "imageAlt": "Macacua vows to closely monitor Bangsamoro funds, financial obligations",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Macacua-vows-to-closely-monitor-Bangsamoro-funds-15November2026.jpg",
+          "imageAlt": "Macacua vows to closely monitor Bangsamoro funds, financial obligations",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Bukidnon cops nab 10 wanted persons in manhunt ops",
+          "summary": "Police in Bukidnon arrested 10 wanted people during coordinated operations across the province from November 12 to 14. The arrests included a person described as the province's topmost wanted suspect and involved several municipal police stations.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2341717/bukidnon-cops-nab-10-wanted-persons-in-manhunt-ops",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Bukidnon cops nab 10 wanted persons in manhunt ops",
+              "excerpt": "MALAYBALAY CITY, Bukidnon — In a series of coordinated law enforcement operations conducted across the province from November 12 to 14, police units apprehended 10 wanted individuals, highlighted by the capture of a provincial topmost wanted person. The operations were executed by various municipal police stations, including Manolo Fortich, Impasugong, San Fernando, Quezon, Valencia City,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Bukidnon-map-filephoto-091422.jpg",
+              "imageAlt": "Bukidnon cops nab 10 wanted persons in manhunt ops",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Bukidnon-map-filephoto-091422.jpg",
+          "imageAlt": "Bukidnon cops nab 10 wanted persons in manhunt ops",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Some unused vaccine funds diverted to patient aid – Deputy Speaker Garin",
+          "summary": "The Philippine House of Representatives redirected part of the proposed 2027 immunisation budget to medical assistance after billions of pesos in vaccine funds went unused, according to Deputy Speaker Garin. The former health secretary said money allocated for influenza and pneumococcal vaccines remained unspent despite the need to prevent disease.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2341765/some-unused-vaccine-funds-diverted-to-patient-aid-deputy-speaker-garin",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Some unused vaccine funds diverted to patient aid – Deputy Speaker Garin",
+              "excerpt": "MANILA, Philippines — Billions of pesos in unused vaccine funds prompted the House of Representatives to redirect part of the proposed 2027 immunization budget to medical assistance for patients. Garin, a former health secretary, said funds for influenza and pneumococcal vaccines remained unused despite the urgent need to protect Filipinos against preventable diseases. “For example, the",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/05/DOH-stock-image.png",
+              "imageAlt": "Some unused vaccine funds diverted to patient aid – Deputy Speaker Garin",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/05/DOH-stock-image.png",
+          "imageAlt": "Some unused vaccine funds diverted to patient aid – Deputy Speaker Garin",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Over 200 arrested for illegal demonstrations in Muntinlupa – SPD",
+          "summary": "More than 200 people were arrested over demonstrations in Barangay Sucat, Muntinlupa, according to Southern Police District director Brig. Gen. Rodel Pastor. Police said the rally was held without a permit outside a designated freedom park and obstructed roads, affecting other people.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2341932/over-200-arrested-for-illegal-demonstrations-in-muntinlupa-spd-2",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Over 200 arrested for illegal demonstrations in Muntinlupa – SPD",
+              "excerpt": "MANILA, Philippines — Over 200 individuals were arrested for participating in illegal demonstrations in Barangay Sucat, Muntinlupa, according to Southern Police District (SPD) Director Brig. Gen. Rodel Pastor. “They conducted a protest rally in Barangay Sucat, Muntinlupa, wherein it is not a freedom park and without permit, daming naabala kasi nabarahan ang kalsada, daming apektadong",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-muntinlupa.jpg",
+              "imageAlt": "Over 200 arrested for illegal demonstrations in Muntinlupa – SPD",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-muntinlupa.jpg",
+          "imageAlt": "Over 200 arrested for illegal demonstrations in Muntinlupa – SPD",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "summary": "TechCrunch has identified nine settings intended to make Apple's foldable iPhone Duo easier to use. The recommended adjustments cover Touch ID shortcuts, smarter uses for volume buttons and camera features.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+              "source": "TechCrunch",
+              "headline": "Got an iPhone Duo? These 9 settings make it easier to use",
+              "excerpt": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
+              "imageAlt": "Got an iPhone Duo? These 9 settings make it easier to use",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
+          "imageAlt": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+          "summary": "The release of Grand Theft Auto VI on November 19 has prompted claims that mass absenteeism could disrupt workplaces and the global economy. The Guardian questions the scale of the predicted “Grand Theft Auto Flu” while noting the exceptional anticipation for the first new GTA title in 13 years.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
+              "source": "The Guardian Technology",
+              "headline": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+              "excerpt": "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behind A new pandemic is threatening planet Earth. It’s scheduled to hit 19 November. Entire offices and worksites will be emptied; employees struck down by a mysterious illness. But you need not panic: it isn’t fatal. It should pass in a few days. The anticipation for Grand Theft Auto VI, the first new game in the",
+              "imageUrl": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
+              "imageAlt": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
+          "imageAlt": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
+          "summary": "The selected story asks about Megaspeed, a company described in its title as having an Australia-to-Singapore trail and being implicated in Nvidia chief Jensen Huang's downfall. Its only linked Guardian item instead discusses a rise in teenage extremism in Australia, including young people found with hard drives containing graphic material, so the available excerpt provides no further information about Megaspeed or Nvidia.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+              "source": "The Guardian Technology",
+              "headline": "What’s behind Australia’s surge in teen extremism?",
+              "excerpt": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people <a href=\"https://www.theguardian.com/a",
+              "imageUrl": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
+              "imageAlt": "What’s behind Australia’s surge in teen extremism?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
+          "imageAlt": "What’s behind Australia’s surge in teen extremism?",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
+          "summary": "A Guardian Politics Weekly America episode examines why an Nvidia cheating scandal could be politically damaging for Donald Trump. Jonathan Freedland speaks with New Yorker writer Susan Glasser about what the episode may indicate about Trump's judgment of prominent men.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/politics/video/2026/nov/13/why-the-nvidia-cheating-scandal-is-bad-for-trump-politics-weekly-america",
+              "source": "The Guardian Technology",
+              "headline": "Why the Nvidia cheating scandal is bad for Trump",
+              "excerpt": "Jonathan Freedland speaks to Susan Glasser of the New Yorker about why Trump’s judgment of high-profile men is questionable Continue reading...",
+              "imageUrl": "https://i.guim.co.uk/img/media/7f571bba7cd9bc06e27cf2a4ab996e1f11d17244/258_0_3574_2859/master/3574.jpg?width=140&quality=85&auto=format&fit=max&s=0f9f4a0c35320430d2c184a302cc8171",
+              "imageAlt": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/7f571bba7cd9bc06e27cf2a4ab996e1f11d17244/258_0_3574_2859/master/3574.jpg?width=140&quality=85&auto=format&fit=max&s=0f9f4a0c35320430d2c184a302cc8171",
+          "imageAlt": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+          "summary": "TechCrunch Mobility is examining a backup to Nvidia technology for China's self-driving industry. The newsletter frames the subject within the growing role of artificial intelligence in transportation, but the available excerpt gives no further detail about the alternative plan.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+              "source": "TechCrunch",
+              "headline": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+              "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
+              "imageAlt": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
+          "imageAlt": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+          "imageCredit": "TechCrunch"
+        }
+      ]
+    }
+  ]
+}
