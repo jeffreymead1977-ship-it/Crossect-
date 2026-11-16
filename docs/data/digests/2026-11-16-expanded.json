@@ -2,24 +2,201 @@
   "id": "2026-11-16-expanded",
   "date": "2026-11-16",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-11-16T03:00:51.562658",
+  "generatedAt": "2026-11-16T12:30:51.217438",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-11-16T03:00:51",
+  "updatedAt": "2026-11-16T12:30:51",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
-          "summary": "Hundreds of thousands of people rallied in Prague against the Czech government's plan to change how public broadcasters are funded. Critics cited by Al Jazeera, the BBC and The Washington Times say the changes could increase government control and weaken media independence, while the government says broadcasters need to cut costs.",
+          "title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
+          "summary": "Pope Leo XIV crossed Peru near the end of his 12-day Latin American tour, visiting communities in the Andes and Amazon before arriving in Cusco. Reports said he emphasized preserving Indigenous traditions and protecting the environment during the trip.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+              "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Thousands rally in Czech Republic against state media funding changes",
-              "excerpt": "Critics say proposed funding changes will give the government more control of state media.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af9c44d-1794753613.jpg?resize=1920%2C1440",
-              "imageAlt": "Thousands rally in Czech Republic against state media funding changes",
+              "headline": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+              "excerpt": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af9eede3237-1794764510.jpg?resize=1920%2C1440",
+              "imageAlt": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Pope Leo rides in helicopter cockpit during Peru trip",
+              "excerpt": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg",
+              "imageAlt": "Pope Leo rides in helicopter cockpit during Peru trip",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/15/leo-crosses-peru-finale-trip-home-visit-flock-high-andes-deep-amazon/",
+              "source": "Washington Times",
+              "headline": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
+              "excerpt": "Pope Leo XIV traveled across Peru on Sunday to visit communities high in the Andes mountains and deep in the Amazon rainforest, as the plight of Indigenous peoples and the protection of the environment took center stage on his South American odyssey.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/15/APTOPIX_Peru_Pope_24983_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af9eede3237-1794764510.jpg?resize=1920%2C1440",
+          "imageAlt": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+          "summary": "Miguel Angel Felix Gallardo, the former Guadalajara cartel leader known as the ‘Boss of Bosses,’ has died in hospital at 80. He was convicted over the 1985 murders of US drug-enforcement agent Enrique ‘Kiki’ Camarena and a Mexican pilot, and his arrest later fractured his trafficking organization.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+              "excerpt": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e43a/live/4a4493e0-e169-11f1-89b7-092cfa4897c7.jpg",
+              "imageAlt": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
+              "source": "Fox News",
+              "headline": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+              "excerpt": "The Guadalajara cartel boss convicted in DEA agent Enrique \"Kiki\" Camarena's murder died at 80, decades after the killing triggered Operation Leyenda.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/miguel-angel-felix-gallardo-mugshot-mexican-soldiers.jpg?ve=1&tl=1",
+              "imageAlt": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+              "excerpt": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afa53127f28-1794790162.jpg?resize=1920%2C1440",
+              "imageAlt": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e43a/live/4a4493e0-e169-11f1-89b7-092cfa4897c7.jpg",
+          "imageAlt": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+          "summary": "Prince Harry made his fourth surprise visit to Ukraine since 2022 to meet wounded veterans and prospective Invictus Games participants. He praised the veterans and Ukraine’s resilience while acknowledging that the trip involved risk.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+              "excerpt": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AA2hud31-1794760305.jpg?resize=1200%2C675",
+              "imageAlt": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Prince Harry praises war veterans on surprise visit to Ukraine",
+              "excerpt": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3f/live/22cfe9d0-e115-11f1-a7db-d90284d21c62.jpg",
+              "imageAlt": "Prince Harry praises war veterans on surprise visit to Ukraine",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AA2hud31-1794760305.jpg?resize=1200%2C675",
+          "imageAlt": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Czechs rally against plan to switch funding of public media",
+          "summary": "Czechs rallied in Prague against a plan to shift public-media funding to the state. Protesters warned that the change could weaken media freedom and increase government influence, while the government said broadcasters need to reduce costs.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Czechs rally against gov’t threat to media independence",
+              "excerpt": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/2wide-thumb-czechs-rally-1794788727.png?resize=1920%2C1080&quality=80",
+              "imageAlt": "Czechs rally against gov’t threat to media independence",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -49,164 +226,42 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/nov/15/czechs-gather-big-numbers-reject-governments-plan-overhaul-funding/",
-              "source": "Washington Times",
-              "headline": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
-              "excerpt": "Hundreds of thousands of people rallied in Prague on Sunday against a plan by the government of Czech billionaire Andrej Babis to overhaul funding for public broadcasters that many say will erode media independence and democracy.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/15/Czech_Republic_Protest_79851_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af9c44d-1794753613.jpg?resize=1920%2C1440",
-          "imageAlt": "Thousands rally in Czech Republic against state media funding changes",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/2wide-thumb-czechs-rally-1794788727.png?resize=1920%2C1080&quality=80",
+          "imageAlt": "Czechs rally against gov’t threat to media independence",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Fifth Canadian soldier dies from injuries suffered in military training fire",
-          "summary": "Canadian soldier William Douglas Dal Bianco has died from injuries sustained when a wind-driven grass fire swept through troops during a training exercise at CFB Wainwright. The BBC and Washington Examiner report that he died in an Ontario hospital about a month after the fire, becoming the fifth soldier to die from the incident.",
+          "title": "Resolution backing AOC 2028 presidential run passes at NYC Democratic Socialists of America meeting",
+          "summary": "The New York City chapter of the Democratic Socialists of America passed a resolution urging Representative Alexandria Ocasio-Cortez to run for president in 2028. Supporters described a potential candidacy as an opportunity to advance the organization’s democratic-socialist agenda and said they would work to create the conditions for a campaign.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-              "excerpt": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
-              "imageAlt": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/world/4804223/fifth-canadian-soldier-dies-military-base-fire/",
-              "source": "Washington Examiner",
-              "headline": "Fifth Canadian soldier dies from injuries suffered in military training fire",
-              "excerpt": "EDMONTON, Alberta (AP) — A fifth Canadian soldier has died from injuries suffered when a wind-driven grass fire swept through troops during a military training exercise last month, the Canadian Armed Forces said Saturday. Pvt. William Douglas Dal Bianco died Friday at a hospital in Ontario, where he had been receiving treatment since the Oct. […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26292064933525.jpg?w=1024",
-              "imageAlt": "Fifth Canadian soldier dies from injuries suffered in military training fire",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
-          "imageAlt": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-          "summary": "New Orleans port officials have filed a $1 million lawsuit over a tanker collision with a cruise ship on the Mississippi. According to the BBC excerpt, the lawsuit also asks for the tanker to be seized and sold to cover damages.",
-          "links": [
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-              "excerpt": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
-              "imageAlt": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
-          "imageAlt": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "summary": "A CNN opinion piece asks why the House Judiciary Committee is not examining Thomas while it holds a New York field hearing on violent crime in Manhattan. The committee, chaired by Republican Rep. Jim Jordan, says the hearing will examine claims that District Attorney Alvin Bragg's policies have increased violent crime and endangered residents.",
-          "links": [
-            {
-              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
-              "source": "CNN Top Stories",
-              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
-              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-              "outlet": "CNN",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
-          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "imageCredit": "CNN"
-        },
-        {
-          "title": "Two planes collide on Miami runway one day after full ground stop",
-          "summary": "A UPS cargo aircraft and a Copa Airlines passenger jet collided while taxiing at Miami International Airport on Saturday evening. The FAA is investigating the collision, which reports place at about 9:15 p.m., one day after a telecommunications problem triggered a nationwide ground stop.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/ups-plane-and-commercial-flight-collide-on-miami-runway",
-              "source": "Daily Wire",
-              "headline": "UPS Plane And Commercial Flight Collide On Miami Runway",
-              "excerpt": "A UPS cargo plane collided with a passenger jet on a Miami runway on Saturday, less than one day after a telecommunications issue had grounded all flights nationwide for hours. The UPS plane, bound for Bogota, Colombia, was taxiing at the time of the collision — as was Copa Airlines said Flight CM427, which was ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/copa-427.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "UPS Plane And Commercial Flight Collide On Miami Runway",
-              "outlet": "Daily Wire",
+              "url": "https://www.breitbart.com/politics/2026/11/15/democratic-socialists-of-americas-nyc-chapter-officially-encourages-leftist-aoc-to-run-for-president/",
+              "source": "Breitbart",
+              "headline": "Democratic Socialists of America's NYC Chapter Officially Encourages Leftist AOC to Run for President",
+              "excerpt": "The New York City chapter of the Democratic Socialists of America (DSA) has put forward their choice for president in 2028, CNN reported Saturday. The post Democratic Socialists of America’s NYC Chapter Officially Encourages Leftist AOC to Run for President appeared first on <a rel=\"nofollow\" href=\"https://www.b",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/AP26222407665568-640x335.jpg",
+              "imageAlt": "Democratic Socialists of America's NYC Chapter Officially Encourages Leftist AOC to Run for President",
+              "outlet": "Breitbart",
               "sourceBias": "Right",
-              "sourceReliability": "medium",
+              "sourceReliability": "low",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/policy/infrastructure/4804126/plane-collision-miami-international-airport-runway/",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4804331/resolution-aoc-2028-run-passes-nyc-democratic-socialists-meeting/",
               "source": "Washington Examiner",
-              "headline": "Two planes collide on Miami runway one day after full ground stop",
-              "excerpt": "A cargo and passenger plane collided on the tarmac of Miami International Airport on Saturday evening while both planes were taxiing. The Federal Aviation Administration said it is investigating the collision incident, which occurred around 9:15 p.m. Saturday evening, just one day after a nationwide ground stop across all U.S. airports. “The wingtip of a […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26319561863143-e1794759434360.jpg?w=982",
-              "imageAlt": "Two planes collide on Miami runway one day after full ground stop",
+              "headline": "Resolution backing AOC 2028 presidential run passes at NYC Democratic Socialists of America meeting",
+              "excerpt": "The New York City chapter of the Democratic Socialists of America passed a resolution on Saturday urging Rep. Alexandria Ocasio-Cortez (D-NY) to run for president in the 2028 presidential election. “AOC and New York City DSA are committed to building a stronger democratic socialist movement and DSA will create the conditions for a presidential campaign […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/aoc-maine-troy-jackson.jpg?w=1024",
+              "imageAlt": "Resolution backing AOC 2028 presidential run passes at NYC Democratic Socialists of America meeting",
               "outlet": "Washington Examiner",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -217,88 +272,14 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/copa-427.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "UPS Plane And Commercial Flight Collide On Miami Runway",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Senator Launches Bid To Overthrow Schumer As Dem Civil War Begins",
-          "summary": "Senator Chris Van Hollen says he has a path to defeat Senate Minority Leader Chuck Schumer in the contest to lead the Democratic caucus next year. Sen.-elect Scott Colom says he remains undecided between the two candidates and is still listening before making a choice.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/far-left-challenger-says-he-has-a-path-to-oust-schumer",
-              "source": "Daily Wire",
-              "headline": "Far Left Challenger Says He Has ‘A Path’ To Oust Schumer",
-              "excerpt": "Senator Chris Van Hollen (D-MD) said on Sunday that he has “a path” to victory in his bid to oust Senate Minority Leader Chuck Schumer (D-NY) from his leadership role. Van Hollen, who recently announced his plan to run for Senate Majority Leader ahead of his party taking control in January, told CNN anchor Dana ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2025/04/GettyImages-2210198987.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Far Left Challenger Says He Has ‘A Path’ To Oust Schumer",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/senate/4804203/scott-colom-van-hollen-schumer-listening-mode/",
-              "source": "Washington Examiner",
-              "headline": "Sen.-elect Scott Colom undecided in Van Hollen-Schumer race: ‘I’m in listening mode’",
-              "excerpt": "Sen.-elect Scott Colom (D-MS) said he is not yet prepared to make a decision between supporting Senate Minority Leader Chuck Schumer (D-NY) and Sen. Chris Van Hollen (D-MD) in their race to lead the Democratic caucus next year. “I had a senator that I developed a relationship with during my campaign suggesting me to be […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26316221150293.jpg?w=1024",
-              "imageAlt": "Sen.-elect Scott Colom undecided in Van Hollen-Schumer race: ‘I’m in listening mode’",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2025/04/GettyImages-2210198987.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Far Left Challenger Says He Has ‘A Path’ To Oust Schumer",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
-          "summary": "A Lexington County deputy working security at a South Carolina gun show fatally shot a customer who had fired at him, according to reports citing authorities. The deputy underwent surgery and was reported in stable condition, while the sheriff's office released no further details.",
-          "links": [
-            {
-              "url": "https://www.washingtonexaminer.com/news/crime/4804218/south-carolina-gun-show-shooting/",
-              "source": "Washington Examiner",
-              "headline": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
-              "excerpt": "COLUMBIA, South Carolina (AP) — A deputy working security at a gun show in South Carolina fatally shot someone who fired on him Saturday, authorities said. The Lexington County deputy was taken into surgery and was in stable condition, the sheriff’s office said in a statement. The sheriff’s office did not release any additional information […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318770539126.jpg?w=1024",
-              "imageAlt": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/nov/14/deputy-working-security-gun-show-south-carolina-fatally-shoots/",
+              "url": "https://www.washingtontimes.com/news/2026/nov/15/nyc-democratic-socialists-america-kick-aoc-2028-recruitment-drive/",
               "source": "Washington Times",
-              "headline": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
-              "excerpt": "A deputy working security at a gun show in South Carolina fatally shot someone who fired on him Saturday, authorities said.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/14/South_Carolina_Deputy_Shot_39126_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+              "headline": "NYC Democratic Socialists of America kick off AOC 2028 recruitment drive",
+              "excerpt": "One of the nation's largest gatherings of democratic socialists on Saturday launched the recruitment of Rep. Alexandria Ocasio-Cortez for the 2028 presidential race, calling her candidacy \"an enormous opportunity\" to deliver the party's agenda.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2025/04/12/AOC_Bernie_Sanders_75613_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "NYC Democratic Socialists of America kick off AOC 2028 recruitment drive",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -312,9 +293,101 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318770539126.jpg?w=1024",
-          "imageAlt": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+          "imageUrl": "https://media.breitbart.com/media/2026/11/AP26222407665568-640x335.jpg",
+          "imageAlt": "Democratic Socialists of America's NYC Chapter Officially Encourages Leftist AOC to Run for President",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Bahrain intercepts Iranian drone attack on US air base",
+          "summary": "Bahrain said it intercepted an Iranian drone attack on Sunday, the second assault on the country in three days. An Iranian Revolutionary Guard Corps statement said six drones targeted the US air-defense radar system at Bahrain’s Al-Riffa helicopter base, while Bahraini authorities said the drones were shot down before reaching their targets.",
+          "links": [
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4804290/bahrain-intercepts-iranian-drone-attack/",
+              "source": "Washington Examiner",
+              "headline": "Bahrain intercepts Iranian drone attack on US air base",
+              "excerpt": "Bahrain intercepted an Iranian drone attack on Sunday for the second time in two days after not having been targeted since September. “The U.S. air defense radar system at the Al-Riffa helicopter base in Bahrain was targeted by six drones belonging to the [Iranian Revolutionary Guard Corps] Aerospace Force,” the IRGC said in a statement […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26203620113317.jpg?w=1024",
+              "imageAlt": "Bahrain intercepts Iranian drone attack on US air base",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/15/iran-launches-second-attack-three-days-bahrain-drones-shot-hitting/",
+              "source": "Washington Times",
+              "headline": "Iran launches second attack in three days on Bahrain; drones shot down before hitting targets",
+              "excerpt": "Bahrain said it repelled an Iranian attack on Sunday, the second such assault in three days.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/09/29/Iran_War_63226_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Iran launches second attack in three days on Bahrain; drones shot down before hitting targets",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26203620113317.jpg?w=1024",
+          "imageAlt": "Bahrain intercepts Iranian drone attack on US air base",
           "imageCredit": "Washington Examiner"
+        },
+        {
+          "title": "President Trump: Congress Must Approve 'Desperately Needed Money' to Update Air Traffic Control System",
+          "summary": "President Donald Trump urged Congress to approve funding for a full upgrade of the US air-traffic-control system. He made the push after a nationwide ground stop on Friday disrupted airline travel through the weekend.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/politics/2026/11/15/president-trump-congress-must-approve-desperately-needed-money-to-update-air-traffic-control/",
+              "source": "Breitbart",
+              "headline": "President Trump: Congress Must Approve 'Desperately Needed Money' to Update Air Traffic Control System",
+              "excerpt": "President Donald Trump is urging Congress to approve funds to update the nation's Air Traffic Control system after the nationwide ground stop on Friday. The post President Trump: Congress Must Approve ‘Desperately Needed Money’ to Update Air Traffic Control System appeared first on <a rel=\"nofollow\" href=\"https://www.br",
+              "imageUrl": "https://media.breitbart.com/media/2025/03/Air-Traffic-Controller-640x335.jpeg",
+              "imageAlt": "President Trump: Congress Must Approve 'Desperately Needed Money' to Update Air Traffic Control System",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/15/trump-breaks-silence-nationwide-ground-stop-demands-money-congress/",
+              "source": "Washington Times",
+              "headline": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
+              "excerpt": "President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America's air traffic control system.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/15/US_Nationwide_Ground_Stop_75654_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2025/03/Air-Traffic-Controller-640x335.jpeg",
+          "imageAlt": "President Trump: Congress Must Approve 'Desperately Needed Money' to Update Air Traffic Control System",
+          "imageCredit": "Breitbart"
         }
       ]
     },
@@ -323,15 +396,15 @@
       "stories": [
         {
           "title": "This is what opera should be like",
-          "summary": "The selected story is titled “This is what opera should be like,” but its only linked Spectator Australia item is an article titled “Does Jacob Rees-Mogg mog?” The available excerpt discusses Jacob Rees-Mogg reclining on a House of Commons bench in 2019 and provides no information about opera.",
+          "summary": "The story is titled ‘This is what opera should be like,’ but its only attached source concerns Americans’ views of Donald Trump, fuel and grocery costs. The supplied headline and excerpt provide no factual detail about an opera production, so the title cannot be substantiated from the linked material.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/11/does-jacob-rees-mogg-mog/",
+              "url": "https://www.spectator.com.au/2026/11/americans-care-less-about-trump-and-more-about-gas-and-groceries/",
               "source": "Spectator Australia",
-              "headline": "Does Jacob Rees-Mogg mog?",
-              "excerpt": "When in 2019 Jacob Rees-Mogg reclined languidly on a green bench of the Commons, like a would-be Fred Burnaby on… The post Does Jacob Rees-Mogg mog? appeared first on The Spectator Australia .",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2025/12/dot_stock_image_1000x642_1.png",
-              "imageAlt": "Does Jacob Rees-Mogg mog?",
+              "headline": "Americans care less about Trump and more about gas and groceries",
+              "excerpt": "Having been told by a colleague last year that I was ‘The Spectator’s fiercest Trump critic’ (it was a less… The post Americans care less about Trump and more about gas and groceries appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/05/",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/AOB_GettyImages_2302915557.png",
+              "imageAlt": "Americans care less about Trump and more about gas and groceries",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -345,21 +418,39 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2025/12/dot_stock_image_1000x642_1.png",
-          "imageAlt": "Does Jacob Rees-Mogg mog?",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/AOB_GettyImages_2302915557.png",
+          "imageAlt": "Americans care less about Trump and more about gas and groceries",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
-          "summary": "The Federal Court has ruled that a tourism permit for Lorella Springs Wilderness Park in the Northern Territory is invalid. Native title holders called the decision a hard-fought win, and the court ordered the Pastoral Land Board to reassess the permit application.",
+          "title": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
+          "summary": "Victoria Police charged 36-year-old Hells Angels member Kane Montebello over alleged threats against investigative reporter Nick McKenzie. Police allege that Montebello, suspected of being a chapter president, sent threatening, offensive, abusive and harassing text messages to the Nine journalist.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-11-15/lorella-springs-wilderness-park-tourism-permit-invalid/107385958",
+              "url": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
+              "excerpt": "Victoria police allege man, suspected of being a chapter president of the gang, sent ‘threats and harassing text messages’ to Nine journalist Get our breaking news email , free app or daily news podcast A senior Hells Angel has been charged with threatening to k",
+              "imageUrl": "https://i.guim.co.uk/img/media/93e7eda603ca70d4bfe48b71dfc10e9ea3313b30/1484_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=6d0d9a62a63173e95c2475485ed309ce",
+              "imageAlt": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-11-16/hells-angels-bikie-kane-montebello-charged-threat-journalist/107390122",
               "source": "ABC Australia",
-              "headline": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
-              "excerpt": "Northern Territory native title holders are claiming a \"hard fought win\" after a Federal Court judge ruled a tourism permit for Lorella Springs Wilderness Park is invalid, and ordered the Pastoral Land Board to reassess the application.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/12e224eb32d223b66e582ecfd7675c3e?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=315&width=862&height=485",
-              "imageAlt": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
+              "headline": "Hells Angels bikie charged with threatening journalist Nick McKenzie",
+              "excerpt": "Police allege 36-year-old Kane Montebello sent a number of threatening, offensive and abusive text messages to investigative reporter Nick McKenzie.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/5d8713d8a665c41965e8d10d4beac085?impolicy=wcms_crop_resize&cropH=230&cropW=408&xPos=0&yPos=11&width=862&height=485",
+              "imageAlt": "Hells Angels bikie charged with threatening journalist Nick McKenzie",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -368,19 +459,19 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/12e224eb32d223b66e582ecfd7675c3e?impolicy=wcms_crop_resize&cropH=810&cropW=1440&xPos=0&yPos=315&width=862&height=485",
-          "imageAlt": "Federal Court rules Lorella Springs Wilderness Park tourism permit invalid",
-          "imageCredit": "ABC News"
+          "imageUrl": "https://i.guim.co.uk/img/media/93e7eda603ca70d4bfe48b71dfc10e9ea3313b30/1484_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=6d0d9a62a63173e95c2475485ed309ce",
+          "imageAlt": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
+          "imageCredit": "The Guardian"
         },
         {
           "title": "Victoria election 2026: could Labor's loyal heartland flip to One Nation? - video",
-          "summary": "Labor's once-secure Victorian seat of St Albans is being examined as a possible One Nation gain ahead of the 2026 state election. The Guardian notes that Labor MP Natalie Suleyman's primary vote fell 18.4% in 2022 and says dissatisfaction after 12 years of Labor government is coinciding with growing One Nation support.",
+          "summary": "Labor’s hold on the Victorian seat of St Albans is under scrutiny ahead of the 2026 state election as One Nation gains support. Sitting Labor MP Natalie Suleyman’s primary vote fell by 18.4% in 2022, and dissatisfaction after 12 years of Labor government has raised questions about whether the multicultural, working-class stronghold could change hands.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/video/2026/nov/06/victoria-election-2026-could-labors-loyal-heartland-flip-to-one-nation",
@@ -408,7 +499,7 @@
         },
         {
           "title": "Rejoining the EU would cost £750m a week",
-          "summary": "The selected story is titled “Rejoining the EU would cost £750m a week,” but its linked Spectator Australia item is titled “A White House at war… with itself.” The available excerpt concerns the US president and vice-president at Arlington National Cemetery on Veterans Day and does not provide support for the stated EU cost.",
+          "summary": "The story title claims that rejoining the EU would cost £750 million a week, but the only attached source is about tensions within the White House. The supplied headline and excerpt contain no information about EU membership or its costs, so the claim cannot be substantiated from the linked material.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/11/a-white-house-at-war-with-itself/",
@@ -440,16 +531,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "summary": "TechCrunch has compiled a running list of AI projects and startups that shut down, were delayed or failed to meet expectations. Its examples include Apple's repeatedly delayed Siri AI and OpenAI's troubled “super app” launch.",
+          "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+          "summary": "Saturday Night Live assembled its recurring portrayals of awkward and unsettling technology executives in a single sketch. The episode gave cast members a chance to perform several tech-tycoon impressions while framing the segment around dating and spycraft.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+              "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
               "source": "TechCrunch",
-              "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
-              "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-              "imageAlt": "The AI graveyard: a running list of projects and startups that didn’t make it",
+              "headline": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+              "excerpt": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+              "imageAlt": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -463,59 +554,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-          "imageAlt": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+          "imageAlt": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "The tech products we enthusiastically recommend this holiday season",
-          "summary": "TechCrunch has published a selection of gadgets its reviewers recommend for holiday and Black Friday shopping. The story is paired with a Verge item highlighting favourite deals from REI's holiday sale, presenting two sets of seasonal product recommendations.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-              "source": "The Verge",
-              "headline": "Here are our favorite deals from REI’s giant Holiday Sale",
-              "excerpt": "Black Friday has become a shopping season of its own, with retailers once again offer",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0%2C10.752556637471%2C100%2C78.494886725057&w=1200",
-              "imageAlt": "Here are our favorite deals from REI’s giant Holiday Sale",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-              "source": "TechCrunch",
-              "headline": "The tech products we enthusiastically recommend this holiday season",
-              "excerpt": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1350065490.jpg?resize=1200,800",
-              "imageAlt": "The tech products we enthusiastically recommend this holiday season",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0%2C10.752556637471%2C100%2C78.494886725057&w=1200",
-          "imageAlt": "Here are our favorite deals from REI’s giant Holiday Sale",
-          "imageCredit": "The Verge"
-        },
-        {
           "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-          "summary": "Grand Theft Auto VI arrives after a decade of development involving thousands of staff and a reported billion-dollar budget. The Guardian says its hands-on visit to Rockstar Games found that the Scotland-made instalment lives up to the enormous expectations surrounding its release.",
+          "summary": "Grand Theft Auto VI arrived after a reported decade of development involving thousands of staff and a billion-dollar budget. A hands-on visit to Rockstar Games described the Scotland-made installment as living up to the intense anticipation surrounding the first new entry in the series in 13 years.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
@@ -543,7 +588,7 @@
         },
         {
           "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-          "summary": "The top scorer in South Korea's national exam for aspiring tax accountants has admitted using generative AI to cheat. The Guardian reports that the candidate sent photographs of questions to an AI tool and had drawn suspicion after missing only one of 160 questions across exams held in April and July.",
+          "summary": "The top scorer on South Korea’s national exam for aspiring tax accountants admitted using generative AI to cheat after missing only one of 160 questions. He said he sent photographs of exam questions to an AI tool, intensifying concerns ahead of the country’s national college entrance exam.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
@@ -571,7 +616,7 @@
         },
         {
           "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
-          "summary": "Fraudsters are disguising malware installation instructions as unusual “prove you are not a robot” tests. Unlike a normal CAPTCHA, the scam directs users to press a sequence of keys, which The Guardian warns can give attackers a way to install malicious software on the computer.",
+          "summary": "A malicious fake-Captcha scam asks visitors to press a sequence of keyboard keys rather than solve a familiar image or text challenge. Following those instructions can let fraudsters install malicious software on the victim’s computer.",
           "links": [
             {
               "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
@@ -596,6 +641,34 @@
           "imageUrl": "https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=3e9246160e867f88ad574ac58ef48a00",
           "imageAlt": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
           "imageCredit": "The Guardian"
+        },
+        {
+          "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+          "summary": "The release of Grand Theft Auto VI on 19 November has prompted claims that large numbers of employees will take time off work to play it. The first new GTA game in 13 years is being cast as a potential disruption to workplaces and the wider economy, though the article questions the scale of those predictions.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
+              "source": "The Guardian Technology",
+              "headline": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+              "excerpt": "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behind A new pandemic is threatening planet Earth. It’s scheduled to hit 19 November. Entire offices and worksites will be emptied; employees struck down by a mysterious illness. But you need not panic: it isn’t fatal. It should pass in a few days. The anticipation for Grand Theft Auto VI, the first new game in the",
+              "imageUrl": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
+              "imageAlt": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
+          "imageAlt": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -603,8 +676,8 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "Palace to protesters: Don’t tarnish PH’s reputation during Asean Summit",
-          "summary": "The available Inquirer report says at least 22 journalists covering protests during the 2026 ASEAN Summit reported police harassment. The National Union of Journalists of the Philippines said arrests, attempted arrests and harassment of protesters and journalists violated rights to peaceful assembly; the linked material does not include the Palace response named in the selected title.",
+          "title": "Over 22 journos covering Asean protests subjected to police harassment",
+          "summary": "The National Union of Journalists of the Philippines documented at least 22 media workers who reported police harassment while covering demonstrations during the 2026 ASEAN Summit. The group said arrests, attempted arrests and harassment of protesters and journalists violated rights to peaceful assembly.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2341835/over-22-media-members-covering-asean-protests-experienced-police-harassment",
@@ -632,7 +705,7 @@
         },
         {
           "title": "Macacua vows to closely monitor Bangsamoro funds, financial obligations",
-          "summary": "Bangsamoro Chief Minister Abdulraof Macacua has pledged to personally monitor the finances and payment obligations of BARMM ministries and offices as an anti-corruption measure. The announcement followed a memorandum of agreement between the Bangsamoro government and Land Bank.",
+          "summary": "Bangsamoro Chief Minister Abdulraof Macacua said he would personally monitor the financial position and payment obligations of ministries and offices across BARMM. He presented the measure as an anti-corruption strategy after the Bangsamoro Government signed an agreement with Land Bank.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2341761/macacua-vows-to-closely-monitor-bangsamoro-funds-financial-obligations",
@@ -659,16 +732,16 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Bukidnon cops nab 10 wanted persons in manhunt ops",
-          "summary": "Police in Bukidnon arrested 10 wanted people during coordinated operations across the province from November 12 to 14. The arrests included a person described as the province's topmost wanted suspect and involved several municipal police stations.",
+          "title": "Puerto Princesa bishop raises alarm over mining in Palawan",
+          "summary": "The story is titled as a warning from the Puerto Princesa bishop about mining in Palawan, but its only attached source reports that Mansalay canceled most Mangyan Festival and foundation-day activities because of the Super El Niño threat. The supplied headline and excerpt contain no information about the bishop, mining or Palawan, so the title cannot be substantiated from the linked material.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2341717/bukidnon-cops-nab-10-wanted-persons-in-manhunt-ops",
+              "url": "https://newsinfo.inquirer.net/2341963/el-nino-threat-forces-mansalay-to-cancel-mangyan-festival",
               "source": "Philippine Daily Inquirer",
-              "headline": "Bukidnon cops nab 10 wanted persons in manhunt ops",
-              "excerpt": "MALAYBALAY CITY, Bukidnon — In a series of coordinated law enforcement operations conducted across the province from November 12 to 14, police units apprehended 10 wanted individuals, highlighted by the capture of a provincial topmost wanted person. The operations were executed by various municipal police stations, including Manolo Fortich, Impasugong, San Fernando, Quezon, Valencia City,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Bukidnon-map-filephoto-091422.jpg",
-              "imageAlt": "Bukidnon cops nab 10 wanted persons in manhunt ops",
+              "headline": "El Niño threat forces Mansalay to cancel Mangyan Festival",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — Mansalay has canceled most secular and civic activities for its Mangyan Festival and 98th Foundation Day celebrations due to the threat posed by Super El Niño. In Memorandum Order No. 227, series of 2026, the local government said activities scheduled for Nov. 22, 23 and 25 for the Mangyan Festival,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-oriental-mindoro.jpg",
+              "imageAlt": "El Niño threat forces Mansalay to cancel Mangyan Festival",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -682,41 +755,41 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Bukidnon-map-filephoto-091422.jpg",
-          "imageAlt": "Bukidnon cops nab 10 wanted persons in manhunt ops",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-oriental-mindoro.jpg",
+          "imageAlt": "El Niño threat forces Mansalay to cancel Mangyan Festival",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Some unused vaccine funds diverted to patient aid – Deputy Speaker Garin",
-          "summary": "The Philippine House of Representatives redirected part of the proposed 2027 immunisation budget to medical assistance after billions of pesos in vaccine funds went unused, according to Deputy Speaker Garin. The former health secretary said money allocated for influenza and pneumococcal vaccines remained unspent despite the need to prevent disease.",
+          "title": "Laborer arrested over P680,000 ‘shabu’ in Pagadian buy-bust",
+          "summary": "Anti-narcotics officers arrested a 40-year-old laborer during a buy-bust operation in Pagadian City, Zamboanga del Sur. Authorities said they seized about 100 grams of suspected shabu, or crystal methamphetamine, valued at P680,000.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2341765/some-unused-vaccine-funds-diverted-to-patient-aid-deputy-speaker-garin",
+              "url": "https://newsinfo.inquirer.net/2342104/laborer-arrested-over-p680000-shabu-in-pagadian-buy-bust",
               "source": "Philippine Daily Inquirer",
-              "headline": "Some unused vaccine funds diverted to patient aid – Deputy Speaker Garin",
-              "excerpt": "MANILA, Philippines — Billions of pesos in unused vaccine funds prompted the House of Representatives to redirect part of the proposed 2027 immunization budget to medical assistance for patients. Garin, a former health secretary, said funds for influenza and pneumococcal vaccines remained unused despite the urgent need to protect Filipinos against preventable diseases. “For example, the",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/05/DOH-stock-image.png",
-              "imageAlt": "Some unused vaccine funds diverted to patient aid – Deputy Speaker Garin",
+              "headline": "Laborer arrested over P680,000 ‘shabu’ in Pagadian buy-bust",
+              "excerpt": "PAGADIAN CITY, Zamboanga del Sur —Anti-narcotics operatives arrested a 40-year-old laborer in Pagadian City during a buy-bust operation on Saturday, netting around 100 grams of suspected shabu (crystal meth) worth P680,000. Philippine Drug Enforcement Agency-9 (PDEA-9) director Bryan Babang, in a statement, identified the suspect only as alias “Ben,” a resident of Barangay Bus-bus in",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/27444.jpg",
+              "imageAlt": "Laborer arrested over P680,000 ‘shabu’ in Pagadian buy-bust",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/05/DOH-stock-image.png",
-          "imageAlt": "Some unused vaccine funds diverted to patient aid – Deputy Speaker Garin",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/27444.jpg",
+          "imageAlt": "Laborer arrested over P680,000 ‘shabu’ in Pagadian buy-bust",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Over 200 arrested for illegal demonstrations in Muntinlupa – SPD",
-          "summary": "More than 200 people were arrested over demonstrations in Barangay Sucat, Muntinlupa, according to Southern Police District director Brig. Gen. Rodel Pastor. Police said the rally was held without a permit outside a designated freedom park and obstructed roads, affecting other people.",
+          "summary": "More than 200 people were arrested over demonstrations in Barangay Sucat, Muntinlupa, according to Southern Police District director Brigadier General Rodel Pastor. Police said the rally was held without a permit outside a designated freedom park and obstructed roads, affecting other people.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2341932/over-200-arrested-for-illegal-demonstrations-in-muntinlupa-spd-2",
@@ -748,16 +821,41 @@
       "name": "Business / Finance",
       "stories": [
         {
-          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-          "summary": "TechCrunch has identified nine settings intended to make Apple's foldable iPhone Duo easier to use. The recommended adjustments cover Touch ID shortcuts, smarter uses for volume buttons and camera features.",
+          "title": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+          "summary": "Germany’s export-focused economic model is under pressure as Chinese demand slows and the threat of US tariffs grows. The country’s political leaders are offering few alternatives to replace that model.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+              "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+              "source": "Wall Street Journal",
+              "headline": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+              "excerpt": "The country is focused on exports, but China is slowing imports and U.S. tariff threats are growing. Politicians are offering few alternatives.",
+              "imageUrl": "",
+              "imageAlt": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "summary": "A growing list of artificial-intelligence ventures records projects and startups that shut down or failed to meet expectations. Examples include Apple’s repeatedly delayed Siri AI and OpenAI’s troubled ‘super app’ launch.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
               "source": "TechCrunch",
-              "headline": "Got an iPhone Duo? These 9 settings make it easier to use",
-              "excerpt": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
-              "imageAlt": "Got an iPhone Duo? These 9 settings make it easier to use",
+              "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
+              "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+              "imageAlt": "The AI graveyard: a running list of projects and startups that didn’t make it",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -771,21 +869,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
-          "imageAlt": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+          "imageAlt": "The AI graveyard: a running list of projects and startups that didn’t make it",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
-          "summary": "The release of Grand Theft Auto VI on November 19 has prompted claims that mass absenteeism could disrupt workplaces and the global economy. The Guardian questions the scale of the predicted “Grand Theft Auto Flu” while noting the exceptional anticipation for the first new GTA title in 13 years.",
+          "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+          "summary": "Reports of AI-related child sexual abuse material increased by more than 8,400% in two years, according to research from the Edinburgh-based Childlight Global Child Safety Institute. The report said cases, including deepfakes created with ‘nudify’ apps, rose from about 4,700 in 2023 to more than 400,000 in 2025, prompting calls for governments to treat child sexual exploitation as a preventable public-health emergency.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
+              "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
               "source": "The Guardian Technology",
-              "headline": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
-              "excerpt": "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behind A new pandemic is threatening planet Earth. It’s scheduled to hit 19 November. Entire offices and worksites will be emptied; employees struck down by a mysterious illness. But you need not panic: it isn’t fatal. It should pass in a few days. The anticipation for Grand Theft Auto VI, the first new game in the",
-              "imageUrl": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
-              "imageAlt": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+              "headline": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+              "excerpt": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency Reports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found. A report by the Edinburgh-based Childlight – Global Child Safety Institute says AI-related child abuse material, including deepfakes using “nudify apps”, had risen from about 4,700 in 2023 to more than 400,000 in 2025. <a href=\"https:/",
+              "imageUrl": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=140&quality=85&auto=format&fit=max&s=f5ee8eea520d92549e7558481c7ad85a",
+              "imageAlt": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -794,98 +892,64 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
-          "imageAlt": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+          "imageUrl": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=140&quality=85&auto=format&fit=max&s=f5ee8eea520d92549e7558481c7ad85a",
+          "imageAlt": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
-          "summary": "The selected story asks about Megaspeed, a company described in its title as having an Australia-to-Singapore trail and being implicated in Nvidia chief Jensen Huang's downfall. Its only linked Guardian item instead discusses a rise in teenage extremism in Australia, including young people found with hard drives containing graphic material, so the available excerpt provides no further information about Megaspeed or Nvidia.",
+          "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+          "summary": "Hamas released four female Israeli soldiers under the multiphase Gaza cease-fire agreement. They were the second group of hostages freed since the deal took effect, raising hopes that the arrangement could support a lasting end to the war.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
-              "source": "The Guardian Technology",
-              "headline": "What’s behind Australia’s surge in teen extremism?",
-              "excerpt": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people <a href=\"https://www.theguardian.com/a",
-              "imageUrl": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
-              "imageAlt": "What’s behind Australia’s surge in teen extremism?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
+              "source": "Wall Street Journal",
+              "headline": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+              "excerpt": "The hostages are the second set to be released since the multiphase agreement came into effect, raising hopes for a lasting end to the war.",
+              "imageUrl": "",
+              "imageAlt": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
-          "imageAlt": "What’s behind Australia’s surge in teen extremism?",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         },
         {
-          "title": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
-          "summary": "A Guardian Politics Weekly America episode examines why an Nvidia cheating scandal could be politically damaging for Donald Trump. Jonathan Freedland speaks with New Yorker writer Susan Glasser about what the episode may indicate about Trump's judgment of prominent men.",
+          "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+          "summary": "Major shipping companies remain wary of returning to Red Sea routes despite a Houthi pledge to stop targeting vessels. The world’s three largest container operators said instability in Gaza and broader regional tensions continue to pose a danger.",
           "links": [
             {
-              "url": "https://www.theguardian.com/politics/video/2026/nov/13/why-the-nvidia-cheating-scandal-is-bad-for-trump-politics-weekly-america",
-              "source": "The Guardian Technology",
-              "headline": "Why the Nvidia cheating scandal is bad for Trump",
-              "excerpt": "Jonathan Freedland speaks to Susan Glasser of the New Yorker about why Trump’s judgment of high-profile men is questionable Continue reading...",
-              "imageUrl": "https://i.guim.co.uk/img/media/7f571bba7cd9bc06e27cf2a4ab996e1f11d17244/258_0_3574_2859/master/3574.jpg?width=140&quality=85&auto=format&fit=max&s=0f9f4a0c35320430d2c184a302cc8171",
-              "imageAlt": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+              "source": "Wall Street Journal",
+              "headline": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+              "excerpt": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
+              "imageUrl": "",
+              "imageAlt": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/7f571bba7cd9bc06e27cf2a4ab996e1f11d17244/258_0_3574_2859/master/3574.jpg?width=140&quality=85&auto=format&fit=max&s=0f9f4a0c35320430d2c184a302cc8171",
-          "imageAlt": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-          "summary": "TechCrunch Mobility is examining a backup to Nvidia technology for China's self-driving industry. The newsletter frames the subject within the growing role of artificial intelligence in transportation, but the available excerpt gives no further detail about the alternative plan.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-              "source": "TechCrunch",
-              "headline": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-              "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
-              "imageAlt": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
-          "imageAlt": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-          "imageCredit": "TechCrunch"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
