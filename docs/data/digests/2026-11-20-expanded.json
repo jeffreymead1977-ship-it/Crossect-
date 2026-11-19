@@ -1,0 +1,931 @@
+{
+  "id": "2026-11-20-expanded",
+  "date": "2026-11-20",
+  "title": "Daily Source Digest",
+  "generatedAt": "2026-11-20T03:00:46.897061",
+  "note": "Daily source-balanced news digest — morning update.",
+  "updatedAt": "2026-11-20T03:00:46",
+  "sections": [
+    {
+      "name": "World / Geopolitics",
+      "stories": [
+        {
+          "title": "ICJ rules Myanmar committed genocide against Rohingya",
+          "summary": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya in northern Rakhine State, in a landmark case brought by Gambia over the military's 2017 campaign. The UN court reached its finding by a 9-6 vote, with reports noting that the crackdown killed thousands.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "ICJ rules Myanmar committed genocide against the Rohingya",
+              "excerpt": "The ICJ has ruled that Myanmar committed genocide against the Rohingya in northern Rakhine State.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795090707.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "ICJ rules Myanmar committed genocide against the Rohingya",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+              "excerpt": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+              "imageAlt": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/",
+              "source": "Washington Examiner",
+              "headline": "ICJ rules Myanmar committed genocide against Rohingya",
+              "excerpt": "The International Court of Justice ruled Tuesday that Myanmar committed genocide against the Rohingya minority, marking a landmark judgment in a case brought by Gambia over a 2017 campaign of violence against the Rohingya ethnic group. The United Nations’ top judicial body found, in a 9-6 vote, that Myanmar committed genocide against the Rohingya population […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26323457502358.jpg?w=1024",
+              "imageAlt": "ICJ rules Myanmar committed genocide against Rohingya",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795090707.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "ICJ rules Myanmar committed genocide against the Rohingya",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "UN reform, denuclearization, and friendship: Takeaways from historic Trump-Putin-Xi meeting",
+          "summary": "Donald Trump, Vladimir Putin and Xi Jinping held an unprecedented trilateral meeting after the APEC summit in Shenzhen, with Trump greeting Putin as “my friend.” The leaders issued a joint statement touting four areas of commitment, including UN reform and denuclearization, amid declarations of cooperation.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump greets 'my friend' Putin as pair shake hands",
+              "excerpt": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a0/live/61fabc20-e3f9-11f1-99a1-253766e7ad8b.jpg",
+              "imageAlt": "Trump greets 'my friend' Putin as pair shake hands",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/world/4808504/takeaways-trump-putin-xi-trilateral-meeting-china/",
+              "source": "Washington Examiner",
+              "headline": "UN reform, denuclearization, and friendship: Takeaways from historic Trump-Putin-Xi meeting",
+              "excerpt": "The unprecedented trilateral meeting between President Donald Trump, Russian President Vladimir Putin, and Chinese leader Xi Jinping this week drew much pomp and declarations of cooperation. Shortly after the Asia-Pacific Economic Cooperation summit in Shenzhen, China, the leaders released a joint statement in Chinese and Russian media, before U.S. media, touting four areas of commitment […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26323359192069.jpg?w=1024",
+              "imageAlt": "UN reform, denuclearization, and friendship: Takeaways from historic Trump-Putin-Xi meeting",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a0/live/61fabc20-e3f9-11f1-99a1-253766e7ad8b.jpg",
+          "imageAlt": "Trump greets 'my friend' Putin as pair shake hands",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Susan Smith seeks parole for 1994 murders of her two young sons",
+          "summary": "Susan Smith was denied parole again, 32 years after killing her three-year-old and one-year-old sons by rolling her car into a South Carolina lake. At the hearing, Smith said she wished she could change the past and that her children “did not deserve to die.”",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
+              "excerpt": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+              "imageAlt": "Susan Smith denied parole again 32 years after drowning her two sons",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/19/susan-smith-seeks-parole-1994-murders-two-young-sons/",
+              "source": "Washington Times",
+              "headline": "Susan Smith seeks parole for 1994 murders of her two young sons",
+              "excerpt": "South Carolina murderer Susan Smith, who killed her 3- and 1-year-old sons in 1994 by rolling her car into a lake, was to argue for her parole once again Thursday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/19/Susan_Smith_Parole_89725_s1144x929.jpg?9e1588a6af9b8783f71ece8753281ea15a510172",
+              "imageAlt": "Susan Smith seeks parole for 1994 murders of her two young sons",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+          "imageAlt": "Susan Smith denied parole again 32 years after drowning her two sons",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
+          "summary": "A CNN opinion piece questions why the Republican-controlled House Judiciary Committee, chaired by Jim Jordan, was not examining Thomas. Instead, the committee was preparing a New York City field hearing on violent crime and Manhattan District Attorney Alvin Bragg's policies.",
+          "links": [
+            {
+              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
+              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
+              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
+              "outlet": "CNN",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
+          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
+          "imageCredit": "CNN"
+        },
+        {
+          "title": "Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea",
+          "summary": "Vladimir Putin vowed that Russia's response would be “far more painful” after a Ukrainian attack damaged the Kerch Strait bridge earlier this week. The bridge is a symbol of Russia's occupation of Crimea, and reports describe the incident as a combined Ukrainian strike.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+              "excerpt": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg",
+              "imageAlt": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.foxnews.com/world/russia-putin-vows-response-far-more-painful-ukraine-attacks-prized-bridge-crimea",
+              "source": "Fox News",
+              "headline": "Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea",
+              "excerpt": "Russian President Vladimir Putin said I \"believe our response will be far more painful than what the Kyiv regime did\" to the Kerch Strait bridge this week.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/vladimir-putin-apec-press-conference-shenzhen.jpg?ve=1&tl=1",
+              "imageAlt": "Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg",
+          "imageAlt": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Waymo Abruptly Hits The Brakes On Freeway Rides After Alarming Robotaxi Behavior",
+          "summary": "Waymo paused driverless taxi operations on freeways nationwide after California barred its autonomous vehicles from the state's highways. Regulators acted following traffic incidents and reports of robotaxis entering active construction zones, which California officials called an imminent hazard.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Waymo pulls driverless taxis from all US freeways",
+              "excerpt": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
+              "imageAlt": "Waymo pulls driverless taxis from all US freeways",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/tech/2026/11/19/california-bars-waymo-self-driving-cars-from-freeways-after-close-calls-in-construction-zones/",
+              "source": "Breitbart",
+              "headline": "California Bars Waymo Self-Driving Cars from Freeways After Close Calls in Construction Zones",
+              "excerpt": "California regulators have banned Waymo's driverless cars from the state's freeways after a string of close calls in which the vehicles drove into active construction zones, prompting the company to pause freeway service across all of its markets nationwide. The post California Bars Waymo Self-Driving Cars from Freeways After",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/Waymo-self-driving-cars-on-road-640x335.jpg",
+              "imageAlt": "California Bars Waymo Self-Driving Cars from Freeways After Close Calls in Construction Zones",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/waymo-abruptly-hits-the-brakes-on-freeway-rides-after-alarming-robotaxi-behavior",
+              "source": "Daily Wire",
+              "headline": "Waymo Abruptly Hits The Brakes On Freeway Rides After Alarming Robotaxi Behavior",
+              "excerpt": "Waymo has temporarily banned its self-driving cars from all freeways nationwide after California officials ordered the company to take action following reports of its robotaxis driving into construction zones. Last week, the California Department of Motor Vehicles ordered Waymo to prohibit its vehicles from driving on freeways throughout the state, calling it “an imminent hazard ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2299306510.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Waymo Abruptly Hits The Brakes On Freeway Rides After Alarming Robotaxi Behavior",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
+          "imageAlt": "Waymo pulls driverless taxis from all US freeways",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Chase Bank Hackers Went After A Specific Group Of Customers",
+          "summary": "JPMorgan Chase said third-party service providers were targeted in a cyberattack that may have exposed some customers' names, email addresses and other marketing data. The bank said the incident put personal information at risk but was unrelated to Monday's outage.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/chase-drops-a-cyberattack-alert-with-an-outage-disclaimer",
+              "source": "Daily Wire",
+              "headline": "Chase Bank Hackers Went After A Specific Group Of Customers",
+              "excerpt": "JPMorgan Chase revealed on Thursday that “third parties who provide services to the firm were the target of a cyber attack.” Chase confirmed the attack put customers’ personal information at risk. “Based on our investigation so far, we believe the attackers accessed certain marketing data held by those vendors, which may include some customer names ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2023/05/GettyImages-1459409712-scaled-e1683129657895.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Chase Bank Hackers Went After A Specific Group Of Customers",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/19/chase-says-vendor-cyberattack-may-exposed-customer-names-email/",
+              "source": "Washington Times",
+              "headline": "Chase says vendor cyberattack may have exposed customer names, email addresses",
+              "excerpt": "JPMorgan Chase said Thursday that attackers may have accessed some customer names and email addresses held by third-party vendors, but the bank said the cyberattack was unrelated to Monday's outage.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/16/Bank_Outage__2665_s1440x810.jpg?b902618a5575a8db94b5c0b671b87a203a26ff30",
+              "imageAlt": "Chase says vendor cyberattack may have exposed customer names, email addresses",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2023/05/GettyImages-1459409712-scaled-e1683129657895.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Chase Bank Hackers Went After A Specific Group Of Customers",
+          "imageCredit": "Daily Wire"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "title": "Letters: Stephen Hawking’s real legacy",
+          "summary": "The selected story is titled “Letters: Stephen Hawking's real legacy,” but its only supplied source item is a Spectator Australia advice column about a reader worried that a masseuse may feel betrayed. The available headline and excerpt provide no information about Stephen Hawking or his legacy.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/11/dear-mary-how-can-i-stop-a-masseuse-feeling-betrayed/",
+              "source": "Spectator Australia",
+              "headline": "Dear Mary: how can I stop a masseuse feeling betrayed?",
+              "excerpt": "Q. From various comments she has made, I fear a dear friend may be expecting me to ‘remember’ her in… The post Dear Mary: how can I stop a masseuse feeling betrayed? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/dear-mary-how-can-i-stop-my-f",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/Dear_Mary_iStock_1175433234.png",
+              "imageAlt": "Dear Mary: how can I stop a masseuse feeling betrayed?",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/Dear_Mary_iStock_1175433234.png",
+          "imageAlt": "Dear Mary: how can I stop a masseuse feeling betrayed?",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "Sydney Marathon winner banned for three years, stripped of title",
+          "summary": "Peres Jepchirchir has been banned for three years and stripped of her Sydney Marathon title after testing positive for EPO in an out-of-competition test. The Kenyan runner has won four World Marathon Major titles and the 2021 Olympic Games marathon.",
+          "links": [
+            {
+              "url": "https://www.abc.net.au/news/2026-11-19/sydney-marathon-winner-peres-jepchirchir-three-year-doping-ban/107405856",
+              "source": "ABC Australia",
+              "headline": "Sydney Marathon winner banned for three years, stripped of title",
+              "excerpt": "Peres Jepchirchir, winner of four World Marathon Major titles and the 2021 Olympic Games, joined the lengthening list of Kenyan athletes to be banned for doping after testing positive for EPO in an out-of-competition test.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/60ce87c1320be5ebf42d05860309e4d1?impolicy=wcms_crop_resize&cropH=974&cropW=1731&xPos=616&yPos=0&width=862&height=485",
+              "imageAlt": "Sydney Marathon winner banned for three years, stripped of title",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/60ce87c1320be5ebf42d05860309e4d1?impolicy=wcms_crop_resize&cropH=974&cropW=1731&xPos=616&yPos=0&width=862&height=485",
+          "imageAlt": "Sydney Marathon winner banned for three years, stripped of title",
+          "imageCredit": "ABC News"
+        },
+        {
+          "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+          "summary": "Guardian Australia journalists won two Walkley awards for stories about Pauline Hanson's US trip with Gina Rinehart and the systemic failures before Kardell Lomas was killed by her partner. Investigative reporter Sarah Martin received the print/text news report award for the Hanson-Rinehart exclusive.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+              "source": "The Guardian Australia",
+              "headline": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+              "excerpt": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was killed by her partner, and another for an exclusive story that revealed Pauline Hanson had travelled to the US with mining billionaire Gina Rinehart. Investigative reporter Sarah Martin won the award for print/text news report fo",
+              "imageUrl": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=bd44ca33648d7c2025b5d4ba54d2e799",
+              "imageAlt": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=bd44ca33648d7c2025b5d4ba54d2e799",
+          "imageAlt": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Rising energy costs are driving inflation",
+          "summary": "Rising energy costs are contributing to inflation, according to a Spectator Australia report citing newly released Office for National Statistics figures. The figures show inflation continuing to tick upward.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/11/rising-energy-costs-are-driving-inflation/",
+              "source": "Spectator Australia",
+              "headline": "Rising energy costs are driving inflation",
+              "excerpt": "Inflation continues to tick up. Figures just released by the Office for National Statistics (ONS) show that the Consumer Price… The post Rising energy costs are driving inflation appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/11/the-bank-of-england-is-taki",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2301082462.jpg",
+              "imageAlt": "Rising energy costs are driving inflation",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2301082462.jpg",
+          "imageAlt": "Rising energy costs are driving inflation",
+          "imageCredit": "Spectator Australia"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "stories": [
+        {
+          "title": "Gemini on Mac can now use your computer",
+          "summary": "Google's Gemini app for macOS can now operate across local files, desktop applications and the web to complete multistep tasks. The update allows the AI agent to perform work such as organizing files and filling out forms on a user's Mac.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+              "source": "The Verge",
+              "headline": "Gemini on Mac can now use your computer",
+              "excerpt": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" <a href=\"https://blog",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200",
+              "imageAlt": "Gemini on Mac can now use your computer",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+              "source": "TechCrunch",
+              "headline": "Google gives Gemini the ability to use your Mac for you",
+              "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+              "imageAlt": "Google gives Gemini the ability to use your Mac for you",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200",
+          "imageAlt": "Gemini on Mac can now use your computer",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+          "summary": "The selected story is titled as a Black Friday Paramount Plus offer of two months for $2.99. Its only supplied source item instead concerns leaked images of Motorola's next wide folding smartphone, so the available excerpt provides no details about the streaming offer.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+              "source": "The Verge",
+              "headline": "Leaked images reveal Motorola’s wide foldable",
+              "excerpt": "SammyGuru \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&strip=all&crop=0,0,100,100\" /> New leaked images of Motorola's next folding smartphone <a href=\"https://",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&strip=all&crop=0%2C10.76530282464%2C100%2C78.469394350721&w=1200",
+              "imageAlt": "Leaked images reveal Motorola’s wide foldable",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&strip=all&crop=0%2C10.76530282464%2C100%2C78.469394350721&w=1200",
+          "imageAlt": "Leaked images reveal Motorola’s wide foldable",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+          "summary": "Datacentres are projected to produce 70% more carbon emissions by 2030 as the United States and China use fossil fuels to support expanding AI infrastructure, the International Energy Agency warns. The global energy watchdog also forecasts that datacentre electricity consumption will double from today's level by 2030.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+              "source": "The Guardian Technology",
+              "headline": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+              "excerpt": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog. The International Energy Agency (IEA) warned that datacentres will consume twice as much electricity by 2030 compared with today, with the global expansion of artificial i",
+              "imageUrl": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
+              "imageAlt": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
+          "imageAlt": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Parents: please don’t buy Grand Theft Auto VI for your child",
+          "summary": "A Guardian commentary urges parents not to buy Grand Theft Auto VI for children, describing the 18-rated game as containing explicit sex, drugs and violence. The writer argues that Rockstar Games' criminal caper is not suitable for young players.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
+              "source": "The Guardian Technology",
+              "headline": "Parents: please don’t buy Grand Theft Auto VI for your child",
+              "excerpt": "Rockstar Games’ brilliant 18-rated criminal caper is stuffed with sex, drugs and violence. It is the most explicit game I’ve ever played – and it really is not for kids I am haunted still by an interaction I had at my stepson’s ninth birthday party in 2014, where one of the kids asked if I could put on Grand Theft Auto V for them all. “I have it at home!”, he said, giving me the puppy-dog eyes. Mentally replaying that game in my head, flashing back to the many scenes involving",
+              "imageUrl": "https://i.guim.co.uk/img/media/5edb70773e55b1b78706ab8ee865fd8e8d045c6f/196_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=c42641e7a457c2f8b8ba74e5f64fcdbf",
+              "imageAlt": "Parents: please don’t buy Grand Theft Auto VI for your child",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/5edb70773e55b1b78706ab8ee865fd8e8d045c6f/196_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=c42641e7a457c2f8b8ba74e5f64fcdbf",
+          "imageAlt": "Parents: please don’t buy Grand Theft Auto VI for your child",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+          "summary": "Thousands of users reported disruptions to Apple services including Apple Pay and iCloud, while Google's Gmail was also reported affected. Apple confirmed that its outages had been resolved, whereas Google said it had found no internal signs of an outage.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption",
+              "source": "The Guardian Technology",
+              "headline": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+              "excerpt": "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwide Thousands reported disruptions to Google’s Gmail and Apple’s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector . Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen internal signs of outages. Apple’s own <a href=\"https://www.apple.com/support/systems",
+              "imageUrl": "https://i.guim.co.uk/img/media/913decd727f709e9f1ff0eb5f14571df37d51344/349_0_3475_2781/master/3475.jpg?width=140&quality=85&auto=format&fit=max&s=accff7931ec6624cdfcc46dbaa4da493",
+              "imageAlt": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/913decd727f709e9f1ff0eb5f14571df37d51344/349_0_3475_2781/master/3475.jpg?width=140&quality=85&auto=format&fit=max&s=accff7931ec6624cdfcc46dbaa4da493",
+          "imageAlt": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Vlogger Francis Leo Marcos arrested anew over ‘illegal use of uniforms’",
+          "summary": "Philippine authorities arrested vlogger Norman Mangusin, known as Francis Leo Marcos, again over the alleged illegal use of uniforms. The National Police Commission said the police Criminal Investigation and Detection Group apprehended him and transported him to Camp Crame in Quezon City.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2343940/vlogger-francis-leo-marcos-arrested-anew-over-illegal-use-of-uniforms",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Vlogger Francis Leo Marcos arrested anew over ‘illegal use of uniforms’",
+              "excerpt": "MANILA, Philippines — Vlogger Norman Mangusin, also known as “Francis Leo Marcos,” has been arrested again over alleged illegal use of uniforms, the National Police Commission (Napolcom) confirmed on Thursday. According to Napolcom Commissioner Rafael Calinisan, the Philippine National Police–Criminal Investigation and Detection Group apprehended Mangusin, who was transported to Camp Crame in Quezon City",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/viber_image_2026-02-11_12-49-53-597.jpg",
+              "imageAlt": "Vlogger Francis Leo Marcos arrested anew over ‘illegal use of uniforms’",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/viber_image_2026-02-11_12-49-53-597.jpg",
+          "imageAlt": "Vlogger Francis Leo Marcos arrested anew over ‘illegal use of uniforms’",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Calax, CCLink seen boosting economic activity in Cavite, Laguna",
+          "summary": "Government officials expect the opening of the Cavite-Laguna Expressway and the Cavitex-Calax Link to stimulate economic activity in Cavite and Laguna. They said the roads should improve connectivity and give motorists alternatives to heavily congested routes.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2344126/calax-cclink-seen-boosting-economic-activity-in-cavite-laguna",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Calax, CCLink seen boosting economic activity in Cavite, Laguna",
+              "excerpt": "MANILA, Philippines — The opening of the Cavite-Laguna Expressway (Calax) and the Cavite Expressway (Cavitex)-Calax Link (CCLink) is expected to boost economic activity in Cavite and Laguna by improving connectivity and providing motorists with alternatives to heavily congested roads, government officials said during an inspection on Thursday. The officials made the remarks during an inspection",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/viber_image_2026-11-19_15-51-40-531.jpg",
+              "imageAlt": "Calax, CCLink seen boosting economic activity in Cavite, Laguna",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/viber_image_2026-11-19_15-51-40-531.jpg",
+          "imageAlt": "Calax, CCLink seen boosting economic activity in Cavite, Laguna",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Cordillera rights group hails acquittal of community doctor, IP advocate",
+          "summary": "The Cordillera Human Rights Alliance welcomed the acquittal of several activists in the Ilocos and Cordillera regions, including community doctor Ana Marie Rilloraza-Leung and an Indigenous peoples' rights advocate. The group described the cases as fabricated efforts to silence people who support marginalized communities.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2343905/cordillera-based-group-welcomes-acquittal-of-community-doctor-ip-advocate",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Cordillera rights group hails acquittal of community doctor, IP advocate",
+              "excerpt": "MANILA, Philippines — The Cordillera Human Rights Alliance (CHRA) welcomed the acquittal of several activists in the Ilocos region and the Cordillera Administrative Region in what it described as fabricated cases meant to silence those “who stand with marginalized communities.” Attorney Randy Kinaud, counsel for community doctor Ana Marie Rilloraza-Leung and an Indigenous peoples’ rights",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/WhatsApp-Image-2026-11-19-at-2.50.15-PM-1.jpg",
+              "imageAlt": "Cordillera rights group hails acquittal of community doctor, IP advocate",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/WhatsApp-Image-2026-11-19-at-2.50.15-PM-1.jpg",
+          "imageAlt": "Cordillera rights group hails acquittal of community doctor, IP advocate",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Highlights: Day 44 of Sara Duterte impeachment trial | Nov. 19, 2026",
+          "summary": "A defense witness in Vice President Sara Duterte's impeachment trial acknowledged that P2.7 billion in bank transactions linked to Duterte from 2009 to 2013 merit further investigation. Senate President Sherwin Gatchalian challenged lawyer and certified public accountant Rainer Dela Fuente with transaction figures during Thursday's hearing.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2343985/defense-witness-vps-p2-7b-transactions-merit-further-probe",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Defense witness: VP’s P2.7B transactions merit further probe",
+              "excerpt": "MANILA, Philippines — A defense witness acknowledged the need for further investigation into the P2.7 billion worth of bank transactions involving Vice President Sara Duterte from 2009 to 2013. During Thursday’s impeachment trial, Senate President Sherwin Gatchalian confronted the defense witness, lawyer and certified public accountant Rainer Dela Fuente, with transaction figures he cited from",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/20261119NJO-10.jpg",
+              "imageAlt": "Defense witness: VP’s P2.7B transactions merit further probe",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/20261119NJO-10.jpg",
+          "imageAlt": "Defense witness: VP’s P2.7B transactions merit further probe",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "DBM, LGU leagues unite to fast-track local projects",
+          "summary": "The Department of Budget and Management and Philippine local-government leagues agreed to strengthen coordination to accelerate local development projects. Their joint statement said they would also address concerns about the 2026 Collective Negotiation Agreement Incentive guidelines.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2344014/dbm-lgu-leagues-unite-to-fast-track-local-projects",
+              "source": "Philippine Daily Inquirer",
+              "headline": "DBM, LGU leagues unite to fast-track local projects",
+              "excerpt": "MANILA, Philippines — The Department of Budget and Management (DBM) and local government leagues agreed on Thursday to strengthen coordination to speed up local development projects and address concerns regarding the 2026 Collective Negotiation Agreement (CNA) Incentive guidelines. According to a joint statement issued on Thursday, the agreement was the result of a meeting between",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/KimRobert-de-Leon-6October2026.jpg",
+              "imageAlt": "DBM, LGU leagues unite to fast-track local projects",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/KimRobert-de-Leon-6October2026.jpg",
+          "imageAlt": "DBM, LGU leagues unite to fast-track local projects",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+          "summary": "Meta's AI agent Muse has reportedly mixed up employee conversations and exposed information belonging to other people. Employees said it surfaced unrelated childcare requests, career advice, product orders and bank-account balances that were not theirs.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+              "source": "TechCrunch",
+              "headline": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+              "excerpt": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+              "imageAlt": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+          "imageAlt": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+          "imageCredit": "TechCrunch"
+        },
+        {
+          "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+          "summary": "California voters rejected Proposition 40, a proposed one-time tax on billionaires' wealth. The campaign was the most expensive in state history and attracted substantial Silicon Valley spending as tech billionaires and Democratic leaders fought over the measure.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+              "source": "The Guardian Technology",
+              "headline": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+              "excerpt": "Campaign over Prop 40, as measure was known, was most expensive in state history, flush with Silicon Valley dollars California billionaires won a contentious ballot measure campaign, defeating a proposed one-time tax on their wealth. The bruising campaign over Proposition 40 was the most expensive in state history and witness to back-and-forth dealing from tech billionaires and Democratic leaders, including <a href=\"http",
+              "imageUrl": "https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=962fb4fb032105acbfe9d9031d8ba874",
+              "imageAlt": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=962fb4fb032105acbfe9d9031d8ba874",
+          "imageAlt": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+          "summary": "A £10 million Wellcome-led study will examine whether banning social media for children can meaningfully improve the mental health and wellbeing of people under 16. Ten research projects will investigate the practical effects of such bans as countries around the world consider introducing them.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
+              "source": "The Guardian Technology",
+              "headline": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+              "excerpt": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore topics ranging fr",
+              "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
+              "imageAlt": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
+          "imageAlt": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "You Can See Everything review – unblinking, unhinged and unmissable",
+          "summary": "The Guardian praises “You Can See Everything,” Nathan Fielder and Lance Oppenheim's close-range docu-hybrid about convicted fraudster Elizabeth Holmes, as gripping as a thriller. The spoiler-containing review calls the film reckless, irresponsible and unmissable.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
+              "source": "The Guardian Technology",
+              "headline": "You Can See Everything review – unblinking, unhinged and unmissable",
+              "excerpt": "Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller • This review contains spoilers Thrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist docu-hybrid masterpiece from co-directors Nathan Fielder and Lance Oppenheim gets up close and personal with convicted fraudster Elizab",
+              "imageUrl": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=a3031460c5110feb8e6e4ffca7c4749e",
+              "imageAlt": "You Can See Everything review – unblinking, unhinged and unmissable",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=a3031460c5110feb8e6e4ffca7c4749e",
+          "imageAlt": "You Can See Everything review – unblinking, unhinged and unmissable",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "How GTA started its own moral panic – video",
+          "summary": "Grand Theft Auto's role in moral panic over graphic video games has been described by some experts as the “grand theft fallacy.” A Guardian video says the studio seeded the original controversy in 1997 to generate hype and taboo curiosity, with the effects still evident nearly 30 years later.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/video/2026/nov/19/how-gta-grand-theft-auto-started-its-own-moral-panic-video",
+              "source": "The Guardian Technology",
+              "headline": "How GTA started its own moral panic – video",
+              "excerpt": "Grand Theft Auto has been so central to the moral panic over graphic video games that some experts have called it the \"grand theft fallacy\". Yet the outrage was originally seeded by the studio itself in 1997 to drum up hype and taboo curiosity for its clunky-looking debut. Nearly 30 years on, that engineered scandal is still bearing fruit. Grand Theft Auto VI rev",
+              "imageUrl": "https://i.guim.co.uk/img/media/8e952022e31ad5bdd36846576e1a446ad470b1b9/0_135_5334_4262/master/5334.jpg?width=140&quality=85&auto=format&fit=max&s=706f0e2fd11a7d983e6740e95373f5cc",
+              "imageAlt": "How GTA started its own moral panic – video",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/8e952022e31ad5bdd36846576e1a446ad470b1b9/0_135_5334_4262/master/5334.jpg?width=140&quality=85&auto=format&fit=max&s=706f0e2fd11a7d983e6740e95373f5cc",
+          "imageAlt": "How GTA started its own moral panic – video",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    }
+  ]
+}

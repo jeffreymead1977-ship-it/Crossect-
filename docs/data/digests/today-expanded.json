@@ -1,25 +1,25 @@
 {
-  "id": "2026-11-19-expanded",
-  "date": "2026-11-19",
+  "id": "2026-11-20-expanded",
+  "date": "2026-11-20",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-11-19T12:30:47.677095",
+  "generatedAt": "2026-11-20T03:00:46.897061",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-11-19T12:30:47",
+  "updatedAt": "2026-11-20T03:00:46",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "China's Xi Greets Trump with a Hug Ahead of Trilateral Talks with Putin",
-          "summary": "Chinese President Xi Jinping personally greeted US President Donald Trump with an embrace when Trump arrived in Shenzhen for talks involving Russian President Vladimir Putin. The three-way summit gives Putin a prominent international stage, although the BBC notes that it does not itself bring him closer to victory in Ukraine.",
+          "title": "ICJ rules Myanmar committed genocide against Rohingya",
+          "summary": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya in northern Rakhine State, in a landmark case brought by Gambia over the military's 2017 campaign. The UN court reached its finding by a 9-6 vote, with reports noting that the crackdown killed thousands.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
-              "excerpt": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26322592600688-1795065441.jpg?resize=1920%2C1440",
-              "imageAlt": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+              "headline": "ICJ rules Myanmar committed genocide against the Rohingya",
+              "excerpt": "The ICJ has ruled that Myanmar committed genocide against the Rohingya in northern Rakhine State.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795090707.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "ICJ rules Myanmar committed genocide against the Rohingya",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,12 +32,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-              "excerpt": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
-              "imageAlt": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+              "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+              "excerpt": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+              "imageAlt": "Myanmar committed genocide against Rohingya minority, top UN court rules",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -46,63 +46,45 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/europe/2026/11/18/chinas-xi-greets-trump-with-a-hug-ahead-of-trilateral-talks-with-putin/",
-              "source": "Breitbart",
-              "headline": "China's Xi Greets Trump with a Hug Ahead of Trilateral Talks with Putin",
-              "excerpt": "President Donald Trump touched down in Shenzen, China, on Wednesday morning and there on the tarmac to greet him personally was President Xi Jinping who profered a warm hug to his U.S. counterpart in an an unprecedented honor. The post China’s Xi Greets Trump with a Hug Ahead of Trilateral Talks with Putin appeared first on <a rel=\"nofollow\" h",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/trump-xi-hug-640x335.jpg",
-              "imageAlt": "China's Xi Greets Trump with a Hug Ahead of Trilateral Talks with Putin",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/xi-breaks-precedent-for-trump-as-world-leaders-meet-in-china",
-              "source": "Daily Wire",
-              "headline": "Xi Breaks Precedent For Trump As World Leaders Meet In China",
-              "excerpt": "Chinese President Xi Jinping broke with diplomatic precedent on Wednesday by personally greeting President Donald Trump with an embrace as he arrived in Shenzhen, China, ahead of a three-way meeting involving Russian President Vladimir Putin. Xi waited on the tarmac to welcome Trump, marking an unusual gesture by the Chinese leader, who did not personally ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2305160371.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Xi Breaks Precedent For Trump As World Leaders Meet In China",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.washingtonexaminer.com/news/world/4808809/icj-rule-myanmar-genocide-rohingya/",
+              "source": "Washington Examiner",
+              "headline": "ICJ rules Myanmar committed genocide against Rohingya",
+              "excerpt": "The International Court of Justice ruled Tuesday that Myanmar committed genocide against the Rohingya minority, marking a landmark judgment in a case brought by Gambia over a 2017 campaign of violence against the Rohingya ethnic group. The United Nations’ top judicial body found, in a 9-6 vote, that Myanmar committed genocide against the Rohingya population […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26323457502358.jpg?w=1024",
+              "imageAlt": "ICJ rules Myanmar committed genocide against Rohingya",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26322592600688-1795065441.jpg?resize=1920%2C1440",
-          "imageAlt": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795090707.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "ICJ rules Myanmar committed genocide against the Rohingya",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Jeffries Cruises To Speaker Nomination. Schumer Faces A Rougher Ride.",
-          "summary": "House Democrats nominated Hakeem Jeffries for speaker in a 251-11 closed-door vote, putting him on course to lead the chamber when the party takes control in January. Eleven Democrats opposed him, but the size of his support left his allies confident about his path to the speakership.",
+          "title": "UN reform, denuclearization, and friendship: Takeaways from historic Trump-Putin-Xi meeting",
+          "summary": "Donald Trump, Vladimir Putin and Xi Jinping held an unprecedented trilateral meeting after the APEC summit in Shenzhen, with Trump greeting Putin as “my friend.” The leaders issued a joint statement touting four areas of commitment, including UN reform and denuclearization, amid declarations of cooperation.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-              "excerpt": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-              "imageAlt": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+              "headline": "Trump greets 'my friend' Putin as pair shake hands",
+              "excerpt": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a0/live/61fabc20-e3f9-11f1-99a1-253766e7ad8b.jpg",
+              "imageAlt": "Trump greets 'my friend' Putin as pair shake hands",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -116,31 +98,60 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.dailywire.com/news/dems-fall-in-line-to-pick-house-speaker-in-lopsided-vote",
-              "source": "Daily Wire",
-              "headline": "Dems Fall In Line To Pick House Speaker In Lopsided Vote",
-              "excerpt": "House Democrats overwhelmingly backed Rep. Hakeem Jeffries (D-NY) to become the next speaker of the House on Wednesday, brushing aside scattered challenges to his leadership from the far-Left and putting him on track to become the speaker in January once Democrats take control. Jeffries won the party’s closed-door leadership vote 251-11. He will still need ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2024/06/GettyImages-2153283356-scaled-e1717357089197.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Dems Fall In Line To Pick House Speaker In Lopsided Vote",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.washingtonexaminer.com/news/world/4808504/takeaways-trump-putin-xi-trilateral-meeting-china/",
+              "source": "Washington Examiner",
+              "headline": "UN reform, denuclearization, and friendship: Takeaways from historic Trump-Putin-Xi meeting",
+              "excerpt": "The unprecedented trilateral meeting between President Donald Trump, Russian President Vladimir Putin, and Chinese leader Xi Jinping this week drew much pomp and declarations of cooperation. Shortly after the Asia-Pacific Economic Cooperation summit in Shenzhen, China, the leaders released a joint statement in Chinese and Russian media, before U.S. media, touting four areas of commitment […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26323359192069.jpg?w=1024",
+              "imageAlt": "UN reform, denuclearization, and friendship: Takeaways from historic Trump-Putin-Xi meeting",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a0/live/61fabc20-e3f9-11f1-99a1-253766e7ad8b.jpg",
+          "imageAlt": "Trump greets 'my friend' Putin as pair shake hands",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Susan Smith seeks parole for 1994 murders of her two young sons",
+          "summary": "Susan Smith was denied parole again, 32 years after killing her three-year-old and one-year-old sons by rolling her car into a South Carolina lake. At the hearing, Smith said she wished she could change the past and that her children “did not deserve to die.”",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
+              "excerpt": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+              "imageAlt": "Susan Smith denied parole again 32 years after drowning her two sons",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/house/4807739/jeffries-allies-laugh-off-speaker-dissents/",
-              "source": "Washington Examiner",
-              "headline": "Jeffries and allies, with majority of 40, laugh off 11 speaker dissents",
-              "excerpt": "Eleven House Democrats sought to send Hakeem Jeffries a message Wednesday by opposing his nomination for speaker, but the Democratic leader had a message of his own: The other 251 votes speak for themselves. The vote puts Jeffries on a glide path to become the next speaker of the House when the next session convenes […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/111826_WEX_JEFFRIES_LEADER-12-e1795025404846.jpg?w=1024",
-              "imageAlt": "Jeffries and allies, with majority of 40, laugh off 11 speaker dissents",
-              "outlet": "Washington Examiner",
+              "url": "https://www.washingtontimes.com/news/2026/nov/19/susan-smith-seeks-parole-1994-murders-two-young-sons/",
+              "source": "Washington Times",
+              "headline": "Susan Smith seeks parole for 1994 murders of her two young sons",
+              "excerpt": "South Carolina murderer Susan Smith, who killed her 3- and 1-year-old sons in 1994 by rolling her car into a lake, was to argue for her parole once again Thursday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/19/Susan_Smith_Parole_89725_s1144x929.jpg?9e1588a6af9b8783f71ece8753281ea15a510172",
+              "imageAlt": "Susan Smith seeks parole for 1994 murders of her two young sons",
+              "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
@@ -153,115 +164,49 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-          "imageAlt": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+          "imageAlt": "Susan Smith denied parole again 32 years after drowning her two sons",
           "imageCredit": "BBC"
         },
         {
-          "title": "Iranian Operative Who Plotted To Kill Trump Learns His Fate In Court",
-          "summary": "Asif Merchant was sentenced to 330 months, or more than 27 years, in prison after being convicted over a plot to hire hitmen to kill US officials, including President Donald Trump. The Pakistani man was found guilty in March after attempting to recruit undercover FBI agents for the planned attacks.",
+          "title": "Why isn't the House Judiciary Committee looking into Thomas?",
+          "summary": "A CNN opinion piece questions why the Republican-controlled House Judiciary Committee, chaired by Jim Jordan, was not examining Thomas. Instead, the committee was preparing a New York City field hearing on violent crime and Manhattan District Attorney Alvin Bragg's policies.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-              "excerpt": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb6/live/fc391e70-e2f6-11f1-99a1-253766e7ad8b.jpg",
-              "imageAlt": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.dailywire.com/news/iranian-operative-who-plotted-to-kill-trump-learns-his-fate-in-court",
-              "source": "Daily Wire",
-              "headline": "Iranian Operative Who Plotted To Kill Trump Learns His Fate In Court",
-              "excerpt": "An Iranian intelligence officer convicted of attempting to hire hitmen to assassinate President Donald Trump and other U.S. officials was sentenced Tuesday to more than 27 years in prison. He faced life in prison. U.S. District Judge Eric R. Komitee, a Trump appointee, sentenced Asif Merchant, 48, to 330 months in prison for attempted terrorism. ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2024/08/Asif-Raza-Merchant.webp?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Iranian Operative Who Plotted To Kill Trump Learns His Fate In Court",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb6/live/fc391e70-e2f6-11f1-99a1-253766e7ad8b.jpg",
-          "imageAlt": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-          "summary": "Israeli tanks advanced beyond Gaza's Yellow Line in a rare ground operation that displaced Palestinians again. Israel's military said the incursion was intended to dismantle a tunnel used for terrorism, while Hamas condemned it as a flagrant ceasefire violation.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-              "excerpt": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe04c1c782-1795032257.jpg?resize=1920%2C1440",
-              "imageAlt": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-              "outlet": "Al Jazeera",
+              "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
+              "source": "CNN Top Stories",
+              "headline": "Why isn't the House Judiciary Committee looking into Thomas?",
+              "excerpt": "On Monday, the GOP-controlled House Judiciary Committee — chaired by Donald Trump ally Rep. Jim Jordan — is set to hold a field hearing in New York City called \"Victims of Violent Crime in Manhattan.\" A statement bills the hearing as an examination of how, the Judiciary Committee says, Manhattan District Attorney Alvin Bragg's policies have \"led to an increase in violent crime and a dangerous community for New York City residents.\"",
+              "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
+              "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
+              "outlet": "CNN",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-              "excerpt": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-              "imageAlt": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe04c1c782-1795032257.jpg?resize=1920%2C1440",
-          "imageAlt": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-          "imageCredit": "Al Jazeera"
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/230406092847-justice-clarence-thomas-221007-super-169.jpg",
+          "imageAlt": "Why isn't the House Judiciary Committee looking into Thomas?",
+          "imageCredit": "CNN"
         },
         {
-          "title": "Iran Fires on Kuwait After U.S. Self-Defense Strike on Iranian Island",
-          "summary": "Kuwait said it repelled an Iranian attack after US forces struck a missile launch site on Iran's Qeshm Island, describing the US action as self-defence following attacks on American targets in Bahrain. Bahrain also reported an Iranian attack, while the strike on Kuwait was described as Iran's first against the country since September.",
+          "title": "Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea",
+          "summary": "Vladimir Putin vowed that Russia's response would be “far more painful” after a Ukrainian attack damaged the Kerch Strait bridge earlier this week. The bridge is a symbol of Russia's occupation of Crimea, and reports describe the incident as a combined Ukrainian strike.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-              "excerpt": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg",
-              "imageAlt": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+              "headline": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+              "excerpt": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg",
+              "imageAlt": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -275,40 +220,12 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.breitbart.com/middle-east/2026/11/18/iran-fires-on-kuwait-after-u-s-self-defense-strike-on-iranian-island/",
-              "source": "Breitbart",
-              "headline": "Iran Fires on Kuwait After U.S. Self-Defense Strike on Iranian Island",
-              "excerpt": "U.S. forces struck a missile launch site on Iran’s Qeshm Island on Tuesday night in “self defense” after Iran attacked U.S. targets in Bahrain. Iran’s Islamic Revolutionary Guard Corps (IRGC) responded by attacking U.S. ally Kuwait for the first time since September. The post Iran Fires on Kuwait After U.S. Self-Defense Strike on Iranian Island",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/AP26265463998638-640x335.jpg",
-              "imageAlt": "Iran Fires on Kuwait After U.S. Self-Defense Strike on Iranian Island",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg",
-          "imageAlt": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Jeff Bezos Brags About The Major Role He Has In The Next James Bond",
-          "summary": "Amazon founder Jeff Bezos said he was heavily involved in choosing Robert Pattinson as the next James Bond. He said Pattinson's existing fame initially counted against him, but screen tests persuaded the casting decision-makers.",
-          "links": [
-            {
-              "url": "https://www.foxnews.com/entertainment/jeff-bezos-says-he-heavily-involved-picking-robert-pattinson-james-bond",
+              "url": "https://www.foxnews.com/world/russia-putin-vows-response-far-more-painful-ukraine-attacks-prized-bridge-crimea",
               "source": "Fox News",
-              "headline": "Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond",
-              "excerpt": "Jeff Bezos says Robert Pattinson's fame initially worked against him in the James Bond casting until old-fashioned screen tests made it obvious.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeff-bezos-roebrt-pattinson.jpg?ve=1&tl=1",
-              "imageAlt": "Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond",
+              "headline": "Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea",
+              "excerpt": "Russian President Vladimir Putin said I \"believe our response will be far more painful than what the Kyiv regime did\" to the Kerch Strait bridge this week.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/vladimir-putin-apec-press-conference-shenzhen.jpg?ve=1&tl=1",
+              "imageAlt": "Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea",
               "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
@@ -319,94 +236,123 @@
               "reliability": "medium",
               "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.breitbart.com/entertainment/2026/11/18/shaken-and-stirred-jeff-bezos-reveals-he-was-heavily-involved-in-casting-robert-pattinson-as-james-bond/",
-              "source": "Breitbart",
-              "headline": "Shaken and Stirred: Jeff Bezos Reveals He Was 'Heavily Involved' in Casting Robert Pattinson as James Bond",
-              "excerpt": "Who knew? Amazon founder and CEO Jeff Bezos has revealed he took on the new role of deputy-assistant casting director to be \"heavily involved\" in choosing Robert Pattinson as the new James Bond. The post Shaken and Stirred: Jeff Bezos Reveals He Was ‘Heavily Involved’ in Casting Robert Pattinson as James Bon",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/jeff-bezos-640x335.jpg",
-              "imageAlt": "Shaken and Stirred: Jeff Bezos Reveals He Was 'Heavily Involved' in Casting Robert Pattinson as James Bond",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/jeff-bezos-brags-about-the-major-role-he-has-in-the-next-james-bond",
-              "source": "Daily Wire",
-              "headline": "Jeff Bezos Brags About The Major Role He Has In The Next James Bond",
-              "excerpt": "Billionaire Amazon founder Jeff Bezos said he was “heavily involved” in selecting Robert Pattinson as the next James Bond. The tech exec explained his role during a recent appearance at Semafor’s Silicon Valley & The World, Variety reported. Bezos said the casting decision-makers were initially “slightly biased” against choosing Pattinson because he’s already “so famous” ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/Jeff-Bezos.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Jeff Bezos Brags About The Major Role He Has In The Next James Bond",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeff-bezos-roebrt-pattinson.jpg?ve=1&tl=1",
-          "imageAlt": "Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond",
-          "imageCredit": "Fox News"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg",
+          "imageAlt": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+          "imageCredit": "BBC"
         },
         {
-          "title": "Top Democrat Gives Preview Of His Party’s Priorities In Ominous Warning To Trump Officials",
-          "summary": "Representative Robert Garcia, the top Democrat on the House Oversight Committee and its expected next chairman, sent 12 letters warning members of President Donald Trump's family, aides and former officials about prospective investigations. The move signals that oversight of people in Trump's orbit is likely to be a priority when Democrats control the House.",
+          "title": "Waymo Abruptly Hits The Brakes On Freeway Rides After Alarming Robotaxi Behavior",
+          "summary": "Waymo paused driverless taxi operations on freeways nationwide after California barred its autonomous vehicles from the state's highways. Regulators acted following traffic incidents and reports of robotaxis entering active construction zones, which California officials called an imminent hazard.",
           "links": [
             {
-              "url": "https://www.breitbart.com/politics/2026/11/18/gayest-member-congress-robert-garcia-sends-dozen-letters-trump-family-members-and-others-close-him-warning-investigations/",
+              "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Waymo pulls driverless taxis from all US freeways",
+              "excerpt": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
+              "imageAlt": "Waymo pulls driverless taxis from all US freeways",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.breitbart.com/tech/2026/11/19/california-bars-waymo-self-driving-cars-from-freeways-after-close-calls-in-construction-zones/",
               "source": "Breitbart",
-              "headline": "'Gayest' Member of Congress Robert Garcia Sends a Dozen Letters to Trump Family Members and Others Close to Him Warning of Investigations",
-              "excerpt": "Rep. Robert Garcia (D-CA), who is expected to be chairman of the House Oversight Committee, is warning some in Trump's family and orbit of coming investigations. The post ‘Gayest’ Member of Congress Robert Garcia Sends a Dozen Letters to Trump Family Members and Others Close to Him Warning of In",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/Robert-Garcia-1-640x335.jpg",
-              "imageAlt": "'Gayest' Member of Congress Robert Garcia Sends a Dozen Letters to Trump Family Members and Others Close to Him Warning of Investigations",
+              "headline": "California Bars Waymo Self-Driving Cars from Freeways After Close Calls in Construction Zones",
+              "excerpt": "California regulators have banned Waymo's driverless cars from the state's freeways after a string of close calls in which the vehicles drove into active construction zones, prompting the company to pause freeway service across all of its markets nationwide. The post California Bars Waymo Self-Driving Cars from Freeways After",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/Waymo-self-driving-cars-on-road-640x335.jpg",
+              "imageAlt": "California Bars Waymo Self-Driving Cars from Freeways After Close Calls in Construction Zones",
               "outlet": "Breitbart",
               "sourceBias": "Right",
               "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
               "confidence": "low",
               "reliability": "low",
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.dailywire.com/news/top-democrat-gives-preview-of-his-partys-priorities-in-ominous-warning-to-trump-officials",
+              "url": "https://www.dailywire.com/news/waymo-abruptly-hits-the-brakes-on-freeway-rides-after-alarming-robotaxi-behavior",
               "source": "Daily Wire",
-              "headline": "Top Democrat Gives Preview Of His Party’s Priorities In Ominous Warning To Trump Officials",
-              "excerpt": "The top Democrat on the House Oversight Committee is putting President Donald Trump’s family members, senior aides, and former administration officials on notice, giving Americans a glimpse at what the incoming Democrat-controlled House will prioritize. Rep. Robert Garcia (D-CA), who is expected to become chairman of the powerful committee, sent 12 letters Wednesday to figures ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2025/02/GettyImages-2166797197.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Top Democrat Gives Preview Of His Party’s Priorities In Ominous Warning To Trump Officials",
+              "headline": "Waymo Abruptly Hits The Brakes On Freeway Rides After Alarming Robotaxi Behavior",
+              "excerpt": "Waymo has temporarily banned its self-driving cars from all freeways nationwide after California officials ordered the company to take action following reports of its robotaxis driving into construction zones. Last week, the California Department of Motor Vehicles ordered Waymo to prohibit its vehicles from driving on freeways throughout the state, calling it “an imminent hazard ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2299306510.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Waymo Abruptly Hits The Brakes On Freeway Rides After Alarming Robotaxi Behavior",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
+          "imageAlt": "Waymo pulls driverless taxis from all US freeways",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Chase Bank Hackers Went After A Specific Group Of Customers",
+          "summary": "JPMorgan Chase said third-party service providers were targeted in a cyberattack that may have exposed some customers' names, email addresses and other marketing data. The bank said the incident put personal information at risk but was unrelated to Monday's outage.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/chase-drops-a-cyberattack-alert-with-an-outage-disclaimer",
+              "source": "Daily Wire",
+              "headline": "Chase Bank Hackers Went After A Specific Group Of Customers",
+              "excerpt": "JPMorgan Chase revealed on Thursday that “third parties who provide services to the firm were the target of a cyber attack.” Chase confirmed the attack put customers’ personal information at risk. “Based on our investigation so far, we believe the attackers accessed certain marketing data held by those vendors, which may include some customer names ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2023/05/GettyImages-1459409712-scaled-e1683129657895.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Chase Bank Hackers Went After A Specific Group Of Customers",
               "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/19/chase-says-vendor-cyberattack-may-exposed-customer-names-email/",
+              "source": "Washington Times",
+              "headline": "Chase says vendor cyberattack may have exposed customer names, email addresses",
+              "excerpt": "JPMorgan Chase said Thursday that attackers may have accessed some customer names and email addresses held by third-party vendors, but the bank said the cyberattack was unrelated to Monday's outage.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/16/Bank_Outage__2665_s1440x810.jpg?b902618a5575a8db94b5c0b671b87a203a26ff30",
+              "imageAlt": "Chase says vendor cyberattack may have exposed customer names, email addresses",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=medium; article-text lowers reliability: (shocking|bombshell|you won't believe|secret plot|exposed)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/11/Robert-Garcia-1-640x335.jpg",
-          "imageAlt": "'Gayest' Member of Congress Robert Garcia Sends a Dozen Letters to Trump Family Members and Others Close to Him Warning of Investigations",
-          "imageCredit": "Breitbart"
+          "imageUrl": "https://dw-wp-production.imgix.net/2023/05/GettyImages-1459409712-scaled-e1683129657895.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Chase Bank Hackers Went After A Specific Group Of Customers",
+          "imageCredit": "Daily Wire"
         }
       ]
     },
@@ -414,44 +360,44 @@
       "name": "Australia",
       "stories": [
         {
-          "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
-          "summary": "Grand Theft Auto VI has drawn Australian players into its Miami-inspired Vice City, with some beginning late-night sessions as soon as it became available. The game presents a densely detailed world in which players can renovate houses, repair cars, lift weights and follow the main story.",
+          "title": "Letters: Stephen Hawking’s real legacy",
+          "summary": "The selected story is titled “Letters: Stephen Hawking's real legacy,” but its only supplied source item is a Spectator Australia advice column about a reader worried that a masseuse may feel betrayed. The available headline and excerpt provide no information about Stephen Hawking or his legacy.",
           "links": [
             {
-              "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
-              "source": "The Guardian Australia",
-              "headline": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
-              "excerpt": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City Tell us: are you playing Grand Theft Auto VI? Gamers across Australia woke up Thursday morning feeling like Christmas had come early, some bleary-eyed from late-night sessions on the PlayStation, others with grand plans for a weekend foray",
-              "imageUrl": "https://i.guim.co.uk/img/media/e5ce165329932836314e73aaa1608c379bc0f198/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bc6c883bc7739c7c41e75c2a5cdd55f7",
-              "imageAlt": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "article-text: Right cue(s): (woke|cancel culture|left-wing extremis[mt]|socialist agenda)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "url": "https://www.spectator.com.au/2026/11/dear-mary-how-can-i-stop-a-masseuse-feeling-betrayed/",
+              "source": "Spectator Australia",
+              "headline": "Dear Mary: how can I stop a masseuse feeling betrayed?",
+              "excerpt": "Q. From various comments she has made, I fear a dear friend may be expecting me to ‘remember’ her in… The post Dear Mary: how can I stop a masseuse feeling betrayed? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/10/dear-mary-how-can-i-stop-my-f",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/Dear_Mary_iStock_1175433234.png",
+              "imageAlt": "Dear Mary: how can I stop a masseuse feeling betrayed?",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/e5ce165329932836314e73aaa1608c379bc0f198/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bc6c883bc7739c7c41e75c2a5cdd55f7",
-          "imageAlt": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/Dear_Mary_iStock_1175433234.png",
+          "imageAlt": "Dear Mary: how can I stop a masseuse feeling betrayed?",
+          "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Northern Territory pub at centre of outback mystery up for sale again",
-          "summary": "The Larrimah Hotel, also known as the Pink Panther pub, is for sale for the third time since local resident Paddy Moriarty and his dog Kellie disappeared in 2017. The Northern Territory pub remains closely associated with the still-unsolved outback mystery.",
+          "title": "Sydney Marathon winner banned for three years, stripped of title",
+          "summary": "Peres Jepchirchir has been banned for three years and stripped of her Sydney Marathon title after testing positive for EPO in an out-of-competition test. The Kenyan runner has won four World Marathon Major titles and the 2021 Olympic Games marathon.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-11-19/pink-panther-pub-for-sale/107403284",
+              "url": "https://www.abc.net.au/news/2026-11-19/sydney-marathon-winner-peres-jepchirchir-three-year-doping-ban/107405856",
               "source": "ABC Australia",
-              "headline": "Northern Territory pub at centre of outback mystery up for sale again",
-              "excerpt": "The Larrimah Hotel — also known as the Pink Panther pub — has been at the centre of a global mystery since Paddy Moriarty and his dog Kellie vanished from the tiny Northern Territory town in 2017. Now it's up for sale for the third time since his disappearance.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/388f64acfd363daaa76a15ee337ceda8?impolicy=wcms_crop_resize&cropH=576&cropW=1024&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Northern Territory pub at centre of outback mystery up for sale again",
+              "headline": "Sydney Marathon winner banned for three years, stripped of title",
+              "excerpt": "Peres Jepchirchir, winner of four World Marathon Major titles and the 2021 Olympic Games, joined the lengthening list of Kenyan athletes to be banned for doping after testing positive for EPO in an out-of-competition test.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/60ce87c1320be5ebf42d05860309e4d1?impolicy=wcms_crop_resize&cropH=974&cropW=1731&xPos=616&yPos=0&width=862&height=485",
+              "imageAlt": "Sydney Marathon winner banned for three years, stripped of title",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -466,21 +412,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/388f64acfd363daaa76a15ee337ceda8?impolicy=wcms_crop_resize&cropH=576&cropW=1024&xPos=0&yPos=0&width=862&height=485",
-          "imageAlt": "Northern Territory pub at centre of outback mystery up for sale again",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/60ce87c1320be5ebf42d05860309e4d1?impolicy=wcms_crop_resize&cropH=974&cropW=1731&xPos=616&yPos=0&width=862&height=485",
+          "imageAlt": "Sydney Marathon winner banned for three years, stripped of title",
           "imageCredit": "ABC News"
         },
         {
-          "title": "Cameron Bancroft breaks his silence on sandpapergate: who will be next? - podcast",
-          "summary": "Former Australian opener Cameron Bancroft has issued a statement that challenges the official account that only three players were responsible for the 2018 Cape Town ball-tampering scandal. His comments implicate senior coaches, while current Test captain Pat Cummins firmly denies knowing about the scheme, renewing questions about who else may speak publicly.",
+          "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+          "summary": "Guardian Australia journalists won two Walkley awards for stories about Pauline Hanson's US trip with Gina Rinehart and the systemic failures before Kardell Lomas was killed by her partner. Investigative reporter Sarah Martin received the print/text news report award for the Hanson-Rinehart exclusive.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/audio/2026/nov/19/cameron-bancroft-breaks-his-silence-on-sandpapergate-who-next-full-story-podcast",
+              "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
               "source": "The Guardian Australia",
-              "headline": "Cameron Bancroft breaks his silence on sandpapergate: who will be next? - podcast",
-              "excerpt": "Eight years after the Cape Town ball-tampering scandal, the former Australia opening batter Cameron Bancroft’s latest statement has blown open the official story that only three players were responsible. With senior coaches implicated and the current Test captain, Pat Cummins, firmly denying any knowledge, which teammates or officials will speak out next? Sports broadcaster Geoff Lemon joins Reged Ahmad to unpack the competing narratives and wha",
-              "imageUrl": "https://i.guim.co.uk/img/media/1b8467f35fc45eb3e6a4ee4ae26f33bcce66dc2a/313_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=2bc5a86b5fc9b1944baed9b41ca660c1",
-              "imageAlt": "Cameron Bancroft breaks his silence on sandpapergate: who will be next? - podcast",
+              "headline": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+              "excerpt": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was killed by her partner, and another for an exclusive story that revealed Pauline Hanson had travelled to the US with mining billionaire Gina Rinehart. Investigative reporter Sarah Martin won the award for print/text news report fo",
+              "imageUrl": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=bd44ca33648d7c2025b5d4ba54d2e799",
+              "imageAlt": "Guardian Australia takes home two Walkley awards for excellence in journalism",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -494,21 +440,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/1b8467f35fc45eb3e6a4ee4ae26f33bcce66dc2a/313_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=2bc5a86b5fc9b1944baed9b41ca660c1",
-          "imageAlt": "Cameron Bancroft breaks his silence on sandpapergate: who will be next? - podcast",
+          "imageUrl": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=bd44ca33648d7c2025b5d4ba54d2e799",
+          "imageAlt": "Guardian Australia takes home two Walkley awards for excellence in journalism",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "A staggered age of consent is a bad idea",
-          "summary": "A Spectator Australia commentary argues against introducing a staggered age of consent. Its excerpt offers no substantive details about the proposal or the writer's reasoning.",
+          "title": "Rising energy costs are driving inflation",
+          "summary": "Rising energy costs are contributing to inflation, according to a Spectator Australia report citing newly released Office for National Statistics figures. The figures show inflation continuing to tick upward.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/11/a-staggered-age-of-consent-is-a-bad-idea/",
+              "url": "https://www.spectator.com.au/2026/11/rising-energy-costs-are-driving-inflation/",
               "source": "Spectator Australia",
-              "headline": "A staggered age of consent is a bad idea",
-              "excerpt": "Lucy Beaumont is, I have to say, someone I’d never heard of until she surfaced in the aftermath of the… The post A staggered age of consent is a bad idea appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/11/why-did-anyone-think-david-walliams-kids-books-were-a",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2303452828.jpg",
-              "imageAlt": "A staggered age of consent is a bad idea",
+              "headline": "Rising energy costs are driving inflation",
+              "excerpt": "Inflation continues to tick up. Figures just released by the Office for National Statistics (ONS) show that the Consumer Price… The post Rising energy costs are driving inflation appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/11/the-bank-of-england-is-taki",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2301082462.jpg",
+              "imageAlt": "Rising energy costs are driving inflation",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -522,8 +468,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2303452828.jpg",
-          "imageAlt": "A staggered age of consent is a bad idea",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2301082462.jpg",
+          "imageAlt": "Rising energy costs are driving inflation",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -532,16 +478,34 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Elon Musk says: ‘I’m not MAGA’",
-          "summary": "Elon Musk said at the New York Times DealBook Summit that he does not identify as MAGA and was unsure what the term meant. He also said he felt foolish for spending so much money during the US midterm elections.",
+          "title": "Gemini on Mac can now use your computer",
+          "summary": "Google's Gemini app for macOS can now operate across local files, desktop applications and the web to complete multistep tasks. The update allows the AI agent to perform work such as organizing files and filling out forms on a user's Mac.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+              "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+              "source": "The Verge",
+              "headline": "Gemini on Mac can now use your computer",
+              "excerpt": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" <a href=\"https://blog",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200",
+              "imageAlt": "Gemini on Mac can now use your computer",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
               "source": "TechCrunch",
-              "headline": "Elon Musk says: ‘I’m not MAGA’",
-              "excerpt": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305778019.jpg?resize=1200,800",
-              "imageAlt": "Elon Musk says: ‘I’m not MAGA’",
+              "headline": "Google gives Gemini the ability to use your Mac for you",
+              "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+              "imageAlt": "Google gives Gemini the ability to use your Mac for you",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -555,21 +519,311 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305778019.jpg?resize=1200,800",
-          "imageAlt": "Elon Musk says: ‘I’m not MAGA’",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200",
+          "imageAlt": "Gemini on Mac can now use your computer",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+          "summary": "The selected story is titled as a Black Friday Paramount Plus offer of two months for $2.99. Its only supplied source item instead concerns leaked images of Motorola's next wide folding smartphone, so the available excerpt provides no details about the streaming offer.",
+          "links": [
+            {
+              "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+              "source": "The Verge",
+              "headline": "Leaked images reveal Motorola’s wide foldable",
+              "excerpt": "SammyGuru \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&strip=all&crop=0,0,100,100\" /> New leaked images of Motorola's next folding smartphone <a href=\"https://",
+              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&strip=all&crop=0%2C10.76530282464%2C100%2C78.469394350721&w=1200",
+              "imageAlt": "Leaked images reveal Motorola’s wide foldable",
+              "outlet": "The Verge",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&strip=all&crop=0%2C10.76530282464%2C100%2C78.469394350721&w=1200",
+          "imageAlt": "Leaked images reveal Motorola’s wide foldable",
+          "imageCredit": "The Verge"
+        },
+        {
+          "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+          "summary": "Datacentres are projected to produce 70% more carbon emissions by 2030 as the United States and China use fossil fuels to support expanding AI infrastructure, the International Energy Agency warns. The global energy watchdog also forecasts that datacentre electricity consumption will double from today's level by 2030.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+              "source": "The Guardian Technology",
+              "headline": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+              "excerpt": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog. The International Energy Agency (IEA) warned that datacentres will consume twice as much electricity by 2030 compared with today, with the global expansion of artificial i",
+              "imageUrl": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
+              "imageAlt": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
+          "imageAlt": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Parents: please don’t buy Grand Theft Auto VI for your child",
+          "summary": "A Guardian commentary urges parents not to buy Grand Theft Auto VI for children, describing the 18-rated game as containing explicit sex, drugs and violence. The writer argues that Rockstar Games' criminal caper is not suitable for young players.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
+              "source": "The Guardian Technology",
+              "headline": "Parents: please don’t buy Grand Theft Auto VI for your child",
+              "excerpt": "Rockstar Games’ brilliant 18-rated criminal caper is stuffed with sex, drugs and violence. It is the most explicit game I’ve ever played – and it really is not for kids I am haunted still by an interaction I had at my stepson’s ninth birthday party in 2014, where one of the kids asked if I could put on Grand Theft Auto V for them all. “I have it at home!”, he said, giving me the puppy-dog eyes. Mentally replaying that game in my head, flashing back to the many scenes involving",
+              "imageUrl": "https://i.guim.co.uk/img/media/5edb70773e55b1b78706ab8ee865fd8e8d045c6f/196_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=c42641e7a457c2f8b8ba74e5f64fcdbf",
+              "imageAlt": "Parents: please don’t buy Grand Theft Auto VI for your child",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/5edb70773e55b1b78706ab8ee865fd8e8d045c6f/196_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=c42641e7a457c2f8b8ba74e5f64fcdbf",
+          "imageAlt": "Parents: please don’t buy Grand Theft Auto VI for your child",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+          "summary": "Thousands of users reported disruptions to Apple services including Apple Pay and iCloud, while Google's Gmail was also reported affected. Apple confirmed that its outages had been resolved, whereas Google said it had found no internal signs of an outage.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption",
+              "source": "The Guardian Technology",
+              "headline": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+              "excerpt": "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwide Thousands reported disruptions to Google’s Gmail and Apple’s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector . Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen internal signs of outages. Apple’s own <a href=\"https://www.apple.com/support/systems",
+              "imageUrl": "https://i.guim.co.uk/img/media/913decd727f709e9f1ff0eb5f14571df37d51344/349_0_3475_2781/master/3475.jpg?width=140&quality=85&auto=format&fit=max&s=accff7931ec6624cdfcc46dbaa4da493",
+              "imageAlt": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/913decd727f709e9f1ff0eb5f14571df37d51344/349_0_3475_2781/master/3475.jpg?width=140&quality=85&auto=format&fit=max&s=accff7931ec6624cdfcc46dbaa4da493",
+          "imageAlt": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+          "imageCredit": "The Guardian"
+        }
+      ]
+    },
+    {
+      "name": "Asia Pacific",
+      "stories": [
+        {
+          "title": "Vlogger Francis Leo Marcos arrested anew over ‘illegal use of uniforms’",
+          "summary": "Philippine authorities arrested vlogger Norman Mangusin, known as Francis Leo Marcos, again over the alleged illegal use of uniforms. The National Police Commission said the police Criminal Investigation and Detection Group apprehended him and transported him to Camp Crame in Quezon City.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2343940/vlogger-francis-leo-marcos-arrested-anew-over-illegal-use-of-uniforms",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Vlogger Francis Leo Marcos arrested anew over ‘illegal use of uniforms’",
+              "excerpt": "MANILA, Philippines — Vlogger Norman Mangusin, also known as “Francis Leo Marcos,” has been arrested again over alleged illegal use of uniforms, the National Police Commission (Napolcom) confirmed on Thursday. According to Napolcom Commissioner Rafael Calinisan, the Philippine National Police–Criminal Investigation and Detection Group apprehended Mangusin, who was transported to Camp Crame in Quezon City",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/viber_image_2026-02-11_12-49-53-597.jpg",
+              "imageAlt": "Vlogger Francis Leo Marcos arrested anew over ‘illegal use of uniforms’",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/02/viber_image_2026-02-11_12-49-53-597.jpg",
+          "imageAlt": "Vlogger Francis Leo Marcos arrested anew over ‘illegal use of uniforms’",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Calax, CCLink seen boosting economic activity in Cavite, Laguna",
+          "summary": "Government officials expect the opening of the Cavite-Laguna Expressway and the Cavitex-Calax Link to stimulate economic activity in Cavite and Laguna. They said the roads should improve connectivity and give motorists alternatives to heavily congested routes.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2344126/calax-cclink-seen-boosting-economic-activity-in-cavite-laguna",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Calax, CCLink seen boosting economic activity in Cavite, Laguna",
+              "excerpt": "MANILA, Philippines — The opening of the Cavite-Laguna Expressway (Calax) and the Cavite Expressway (Cavitex)-Calax Link (CCLink) is expected to boost economic activity in Cavite and Laguna by improving connectivity and providing motorists with alternatives to heavily congested roads, government officials said during an inspection on Thursday. The officials made the remarks during an inspection",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/viber_image_2026-11-19_15-51-40-531.jpg",
+              "imageAlt": "Calax, CCLink seen boosting economic activity in Cavite, Laguna",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/viber_image_2026-11-19_15-51-40-531.jpg",
+          "imageAlt": "Calax, CCLink seen boosting economic activity in Cavite, Laguna",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Cordillera rights group hails acquittal of community doctor, IP advocate",
+          "summary": "The Cordillera Human Rights Alliance welcomed the acquittal of several activists in the Ilocos and Cordillera regions, including community doctor Ana Marie Rilloraza-Leung and an Indigenous peoples' rights advocate. The group described the cases as fabricated efforts to silence people who support marginalized communities.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2343905/cordillera-based-group-welcomes-acquittal-of-community-doctor-ip-advocate",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Cordillera rights group hails acquittal of community doctor, IP advocate",
+              "excerpt": "MANILA, Philippines — The Cordillera Human Rights Alliance (CHRA) welcomed the acquittal of several activists in the Ilocos region and the Cordillera Administrative Region in what it described as fabricated cases meant to silence those “who stand with marginalized communities.” Attorney Randy Kinaud, counsel for community doctor Ana Marie Rilloraza-Leung and an Indigenous peoples’ rights",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/WhatsApp-Image-2026-11-19-at-2.50.15-PM-1.jpg",
+              "imageAlt": "Cordillera rights group hails acquittal of community doctor, IP advocate",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/WhatsApp-Image-2026-11-19-at-2.50.15-PM-1.jpg",
+          "imageAlt": "Cordillera rights group hails acquittal of community doctor, IP advocate",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Highlights: Day 44 of Sara Duterte impeachment trial | Nov. 19, 2026",
+          "summary": "A defense witness in Vice President Sara Duterte's impeachment trial acknowledged that P2.7 billion in bank transactions linked to Duterte from 2009 to 2013 merit further investigation. Senate President Sherwin Gatchalian challenged lawyer and certified public accountant Rainer Dela Fuente with transaction figures during Thursday's hearing.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2343985/defense-witness-vps-p2-7b-transactions-merit-further-probe",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Defense witness: VP’s P2.7B transactions merit further probe",
+              "excerpt": "MANILA, Philippines — A defense witness acknowledged the need for further investigation into the P2.7 billion worth of bank transactions involving Vice President Sara Duterte from 2009 to 2013. During Thursday’s impeachment trial, Senate President Sherwin Gatchalian confronted the defense witness, lawyer and certified public accountant Rainer Dela Fuente, with transaction figures he cited from",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/20261119NJO-10.jpg",
+              "imageAlt": "Defense witness: VP’s P2.7B transactions merit further probe",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/20261119NJO-10.jpg",
+          "imageAlt": "Defense witness: VP’s P2.7B transactions merit further probe",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "DBM, LGU leagues unite to fast-track local projects",
+          "summary": "The Department of Budget and Management and Philippine local-government leagues agreed to strengthen coordination to accelerate local development projects. Their joint statement said they would also address concerns about the 2026 Collective Negotiation Agreement Incentive guidelines.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2344014/dbm-lgu-leagues-unite-to-fast-track-local-projects",
+              "source": "Philippine Daily Inquirer",
+              "headline": "DBM, LGU leagues unite to fast-track local projects",
+              "excerpt": "MANILA, Philippines — The Department of Budget and Management (DBM) and local government leagues agreed on Thursday to strengthen coordination to speed up local development projects and address concerns regarding the 2026 Collective Negotiation Agreement (CNA) Incentive guidelines. According to a joint statement issued on Thursday, the agreement was the result of a meeting between",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/KimRobert-de-Leon-6October2026.jpg",
+              "imageAlt": "DBM, LGU leagues unite to fast-track local projects",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/KimRobert-de-Leon-6October2026.jpg",
+          "imageAlt": "DBM, LGU leagues unite to fast-track local projects",
+          "imageCredit": "Philippine Daily Inquirer"
+        }
+      ]
+    },
+    {
+      "name": "Business / Finance",
+      "stories": [
+        {
+          "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+          "summary": "Meta's AI agent Muse has reportedly mixed up employee conversations and exposed information belonging to other people. Employees said it surfaced unrelated childcare requests, career advice, product orders and bank-account balances that were not theirs.",
+          "links": [
+            {
+              "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+              "source": "TechCrunch",
+              "headline": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+              "excerpt": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+              "imageAlt": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+              "outlet": "TechCrunch",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+          "imageAlt": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback",
-          "summary": "MapQuest briefly became the top-ranked navigation app after refusing to follow President Donald Trump's Lake Ontario order. The once-dominant directions service is also finding a new role among US anti-surveillance activists seeking to avoid Flock systems.",
+          "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+          "summary": "California voters rejected Proposition 40, a proposed one-time tax on billionaires' wealth. The campaign was the most expensive in state history and attracted substantial Silicon Valley spending as tech billionaires and Democratic leaders fought over the measure.",
           "links": [
             {
-              "url": "https://www.theguardian.com/us-news/2026/nov/18/mapquest-google-apple-navigation-app-flock",
+              "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
               "source": "The Guardian Technology",
-              "headline": "Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback",
-              "excerpt": "After refusing to obey the president’s Lake Ontario order, MapQuest briefly rose to No 1 in navigation apps. It’s now a tool in the US anti-surveillance movement I am among the legion of former PC desk occupants with warm memories of MapQuest, the Y2K-era travel website that kept millennial drivers on course with sheaves of printed-out directions – a quantum leap over the ungainly glovebox map. But I assumed it had long since gone the way of AIM and Skype, its manual turn-by-turn guidan",
-              "imageUrl": "https://i.guim.co.uk/img/media/a6747b5a057c449317f63b1bafa3cd8aad85d566/0_1079_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=89d50c0f174ca1e9e8333fb00a183e2a",
-              "imageAlt": "Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback",
+              "headline": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+              "excerpt": "Campaign over Prop 40, as measure was known, was most expensive in state history, flush with Silicon Valley dollars California billionaires won a contentious ballot measure campaign, defeating a proposed one-time tax on their wealth. The bruising campaign over Proposition 40 was the most expensive in state history and witness to back-and-forth dealing from tech billionaires and Democratic leaders, including <a href=\"http",
+              "imageUrl": "https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=962fb4fb032105acbfe9d9031d8ba874",
+              "imageAlt": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -583,77 +837,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/a6747b5a057c449317f63b1bafa3cd8aad85d566/0_1079_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=89d50c0f174ca1e9e8333fb00a183e2a",
-          "imageAlt": "Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback",
+          "imageUrl": "https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=962fb4fb032105acbfe9d9031d8ba874",
+          "imageAlt": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
           "imageCredit": "The Guardian"
         },
         {
-          "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-          "summary": "US Secretary of State Marco Rubio said there was no evidence that a wave of technology outages was connected or caused by hostile actors, and rejected the idea that the country was under systemic attack. The disruptions affected flights, workplaces, banks, Apple services and classified communications as a Java vulnerability also drew attention.",
+          "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+          "summary": "A £10 million Wellcome-led study will examine whether banning social media for children can meaningfully improve the mental health and wellbeing of people under 16. Ten research projects will investigate the practical effects of such bans as countries around the world consider introducing them.",
           "links": [
             {
-              "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+              "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
               "source": "The Guardian Technology",
-              "headline": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-              "excerpt": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are related to each other or are the work of malign actors, according to the US secretary of state. Marco Rubio said the US was “not under systemic attack” and a cascade of network problems was “not inter-rel",
-              "imageUrl": "https://i.guim.co.uk/img/media/d8053b9038ce3a18aaa3b2cbcffef1cb0d77b18b/475_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=e5092406fa7775e712f7bb56780148a3",
-              "imageAlt": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/d8053b9038ce3a18aaa3b2cbcffef1cb0d77b18b/475_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=e5092406fa7775e712f7bb56780148a3",
-          "imageAlt": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
-          "summary": "Technology companies are being urged to tailor image moderation to local risks after ostensibly ordinary photos were said to endanger women in countries including Pakistan. One teenager from a conservative Pakistani town said a private selfie showing her without the hijab and clothing she wears outside could expose her to the risk of an honour killing if her family saw it.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms",
-              "source": "The Guardian Technology",
-              "headline": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
-              "excerpt": "Tech companies urged to adapt moderation of photos online that can trigger violence against women in some countries It was just a photo of a smiling girl in jeans and a vest top, the kind of outfit any young woman might wear in any country. But for Maniza*, a teenager from a conservative town in Pakistan who never leaves the house without her hijab, the selfie she took at home put her at very real risk of an “honour” killing. “My family are really strict and I always wore a hijab.",
-              "imageUrl": "https://i.guim.co.uk/img/media/ceaabe2595faa970113beac9b7ef9a7c2ce48c36/276_0_2346_1877/master/2346.jpg?width=140&quality=85&auto=format&fit=max&s=2797a910cb2349e81cf06c4ac533791f",
-              "imageAlt": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/ceaabe2595faa970113beac9b7ef9a7c2ce48c36/276_0_2346_1877/master/2346.jpg?width=140&quality=85&auto=format&fit=max&s=2797a910cb2349e81cf06c4ac533791f",
-          "imageAlt": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes",
-          "summary": "A relatively simple hack that caused French refrigerators to defrost has been attributed to Iran and is presumed to be connected to other incidents across Europe. The episode follows earlier messaging operations by Iranian-linked hackers, while the prospect of AI-enabled attacks raises concern about more capable future campaigns.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-              "source": "The Guardian Technology",
-              "headline": "The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes",
-              "excerpt": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the screens of <a href=\"https://www.sophos.com/en-us/blog/iranian-cyber-av3ngers-compro",
-              "imageUrl": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f",
-              "imageAlt": "The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes",
+              "headline": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+              "excerpt": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore topics ranging fr",
+              "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
+              "imageAlt": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -667,242 +865,49 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f",
-          "imageAlt": "The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes",
+          "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
+          "imageAlt": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
           "imageCredit": "The Guardian"
-        }
-      ]
-    },
-    {
-      "name": "Asia Pacific",
-      "stories": [
-        {
-          "title": "WATCH: Defense witness in Germany seeks postponement of testimony",
-          "summary": "A defence witness in Vice President Sara Duterte's impeachment trial has asked to postpone her testimony because she is in Germany. Senate presiding officer Francis Escudero said on day 44 of the trial that Rowena Mendoza, a department manager at the Center for International Expositions and Missions, had acknowledged receiving the impeachment court's subpoena.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2343710/watch-defense-witness-in-germany-seeks-postponement-of-testimony",
-              "source": "Philippine Daily Inquirer",
-              "headline": "WATCH: Defense witness in Germany seeks postponement of testimony",
-              "excerpt": "MANILA, Philippines — Presiding Officer Francis Escudero says on Day 44 of Vice President Sara Duterte’s impeachment trial that defense witness Rowena Mendoza, Department Manager III of the Center for International Expositions and Missions (Citem), has acknowledged receiving the subpoena issued by the Senate impeachment court but is currently in Germany. Mendoza has requested additional",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/maxresdefault-1.jpg",
-              "imageAlt": "WATCH: Defense witness in Germany seeks postponement of testimony",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-              "source": "Rappler World",
-              "headline": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-              "excerpt": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/11/idw_gdqxbfq.jpg",
-              "imageAlt": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-              "outlet": "Rappler",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/maxresdefault-1.jpg",
-          "imageAlt": "WATCH: Defense witness in Germany seeks postponement of testimony",
-          "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Ilocos Sur RTC acquits community doc, IP advocate of attempted murder",
-          "summary": "An Ilocos Sur regional trial court acquitted community doctor Ana Marie Rilloraza-Leung and Indigenous rights advocate Alpha Sungay of attempted murder in a case alleging links to the communist rebellion. The court ruled that prosecutors had failed to establish their identities and participation in the alleged crimes.",
+          "title": "You Can See Everything review – unblinking, unhinged and unmissable",
+          "summary": "The Guardian praises “You Can See Everything,” Nathan Fielder and Lance Oppenheim's close-range docu-hybrid about convicted fraudster Elizabeth Holmes, as gripping as a thriller. The spoiler-containing review calls the film reckless, irresponsible and unmissable.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2343618/ilocos-sur-rtc-acquits-community-doc-ip-advocate-of-attempted-murder",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Ilocos Sur RTC acquits community doc, IP advocate of attempted murder",
-              "excerpt": "BAGUIO CITY, Philippines — An Ilocos Sur regional trial court has acquitted community doctor Ana Marie Rilloraza-Leung and indigenous rights advocate Alpha Sungay of attempted murder in relation to their supposed ties to the communist rebellion, ruling that prosecutors failed to establish their identities and participation in these supposed crimes. Leung and Sungay were among",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Ilocos-Sur-map-filephoto-091122.jpg",
-              "imageAlt": "Ilocos Sur RTC acquits community doc, IP advocate of attempted murder",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Left",
-              "alignment": "Left",
-              "alignmentBasis": "article-text: Left cue(s): (police brutality|racial justice|indigenous rights|refugee rights)",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Ilocos-Sur-map-filephoto-091122.jpg",
-          "imageAlt": "Ilocos Sur RTC acquits community doc, IP advocate of attempted murder",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Manila Water’s Luntiang La Mesa plants over 13,000 native trees",
-          "summary": "Manila Water Foundation's Luntiang La Mesa program planted 13,068 native and endemic trees with public and private organisations, schools and institutions. From June through October 2026, the initiative recorded 25,593 volunteer hours across 84 organisational engagements.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2343524/manila-waters-luntiang-la-mesa-plants-over-13000-native-trees",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Manila Water’s Luntiang La Mesa plants over 13,000 native trees",
-              "excerpt": "MANILA, Philippines — Manila Water Foundation’s Luntiang La Mesa program continues to transform environmental stewardship into meaningful action, planting 13,068 native and endemic trees through sustained partnerships with public and private organizations, schools, and institutions Luntiang La Mesa clocked 25,593 volunteer hours across 84 organizational engagements from June to October 2026, transforming environmental stewardship into a",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/LuntiangLaMesaVolunteers-18Nov2026.jpg",
-              "imageAlt": "Manila Water’s Luntiang La Mesa plants over 13,000 native trees",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/LuntiangLaMesaVolunteers-18Nov2026.jpg",
-          "imageAlt": "Manila Water’s Luntiang La Mesa plants over 13,000 native trees",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Puerto Galera proposes community-based mental health program",
-          "summary": "Puerto Galera's municipal government is developing a community-based mental health program that would expand support, establish barangay referral systems and promote awareness in schools and workplaces. Proposed Municipal Ordinance No. 009-2026, authored by Councilor Aristotle Von Atienza, would institutionalise local mental health awareness, promotion and support programs.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2343624/puerto-galera-proposes-community-based-mental-health-program",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Puerto Galera proposes community-based mental health program",
-              "excerpt": "CALAPAN CITY, Oriental Mindoro — The municipal government of Puerto Galera is crafting a comprehensive mental health program to expand community-based support, establish barangay referral systems, and raise awareness in schools and workplaces. Proposed Municipal Ordinance No. 009-2026, authored by Councilor Aristotle Von Atienza, seeks to institutionalize mental health awareness, promotion, and support programs throughout",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-oriental-mindoro.jpg",
-              "imageAlt": "Puerto Galera proposes community-based mental health program",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2021/06/map-oriental-mindoro.jpg",
-          "imageAlt": "Puerto Galera proposes community-based mental health program",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Urgent probe into cyberattacks vs gov’t agencies needed, says ex-solon",
-          "summary": "Former Philippine lawmaker Robert Ace Barbers called for a comprehensive government investigation into reported cyberattacks against public agencies and private institutions. He described the issue as a national-security concern amid reports that hackers had recently compromised 20 Philippine institutions.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2343554/urgent-probe-into-cyberattacks-vs-govt-agencies-needed-says-ex-solon",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Urgent probe into cyberattacks vs gov’t agencies needed, says ex-solon",
-              "excerpt": "MANILA, Philippines — Former lawmaker Robert Ace Barbers on Wednesday called on the government to conduct a comprehensive investigation into the reported cyberattacks targeting government agencies and private institutions, warning that it has become a national security concern. Barbers made the pronouncement amid reports that 20 Philippine institutions have been allegedly compromised recently by hackers.",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/RobertAceBarbers-23Sep2026-1.jpg",
-              "imageAlt": "Urgent probe into cyberattacks vs gov’t agencies needed, says ex-solon",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/RobertAceBarbers-23Sep2026-1.jpg",
-          "imageAlt": "Urgent probe into cyberattacks vs gov’t agencies needed, says ex-solon",
-          "imageCredit": "Philippine Daily Inquirer"
-        }
-      ]
-    },
-    {
-      "name": "Business / Finance",
-      "stories": [
-        {
-          "title": "Palestinians Stream Back to Northern Gaza on Foot",
-          "summary": "Displaced Palestinians began returning on foot to northern Gaza after Israel allowed them to cross the military zone dividing the enclave. The crossing opened after a deadlock over hostage releases was resolved.",
-          "links": [
-            {
-              "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-              "source": "Wall Street Journal",
-              "headline": "Palestinians Stream Back to Northern Gaza on Foot",
-              "excerpt": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
-              "imageUrl": "",
-              "imageAlt": "Palestinians Stream Back to Northern Gaza on Foot",
-              "outlet": "Wall Street Journal",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "high",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
-        },
-        {
-          "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-          "summary": "OpenAI leaders Sam Altman and Greg Brockman pushed back against a growing Silicon Valley debate about an artificial-intelligence takeover. At the same time, they acknowledged the difficulty of ensuring that increasingly advanced models remain under human control.",
-          "links": [
-            {
-              "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-              "source": "TechCrunch",
-              "headline": "Sam Altman warns against a future where AI, not humans, calls the shots",
-              "excerpt": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594",
-              "imageAlt": "Sam Altman warns against a future where AI, not humans, calls the shots",
-              "outlet": "TechCrunch",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594",
-          "imageAlt": "Sam Altman warns against a future where AI, not humans, calls the shots",
-          "imageCredit": "TechCrunch"
-        },
-        {
-          "title": "'More fun being chased': GTA6 co-creator reflects on franchise's evolution – video",
-          "summary": "Grand Theft Auto VI has launched, returning players to Vice City as Rockstar Games tries to follow one of the bestselling games ever made. Series co-creator Dave Jones said players' preference for being criminals and evading pursuit helped shape the direction of the original game.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/games/video/2026/nov/19/more-fun-being-chased-grand-theft-auto-co-creator-reflects-on-franchises-evolution-video",
+              "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
               "source": "The Guardian Technology",
-              "headline": "'More fun being chased': GTA6 co-creator reflects on franchise's evolution – video",
-              "excerpt": "Grand Theft Auto VI has launched, sending players back to Vice City and testing whether Rockstar Games can follow one of the bestselling video games ever made with another cultural and commercial phenomenon. GTA co-creator Dave Jones reflected on the evolution of the popular video game franchise, saying players' preference for playing criminals helped shape the direction of the original game <a href=\"https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-",
-              "imageUrl": "https://i.guim.co.uk/img/media/48138fb26f42165580ed2eeb86194a7f2e3088fc/285_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=755cc3683578ba3af61f2ebacba1b65d",
-              "imageAlt": "'More fun being chased': GTA6 co-creator reflects on franchise's evolution – video",
+              "headline": "You Can See Everything review – unblinking, unhinged and unmissable",
+              "excerpt": "Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller • This review contains spoilers Thrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist docu-hybrid masterpiece from co-directors Nathan Fielder and Lance Oppenheim gets up close and personal with convicted fraudster Elizab",
+              "imageUrl": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=a3031460c5110feb8e6e4ffca7c4749e",
+              "imageAlt": "You Can See Everything review – unblinking, unhinged and unmissable",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=a3031460c5110feb8e6e4ffca7c4749e",
+          "imageAlt": "You Can See Everything review – unblinking, unhinged and unmissable",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "How GTA started its own moral panic – video",
+          "summary": "Grand Theft Auto's role in moral panic over graphic video games has been described by some experts as the “grand theft fallacy.” A Guardian video says the studio seeded the original controversy in 1997 to generate hype and taboo curiosity, with the effects still evident nearly 30 years later.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/video/2026/nov/19/how-gta-grand-theft-auto-started-its-own-moral-panic-video",
+              "source": "The Guardian Technology",
+              "headline": "How GTA started its own moral panic – video",
+              "excerpt": "Grand Theft Auto has been so central to the moral panic over graphic video games that some experts have called it the \"grand theft fallacy\". Yet the outrage was originally seeded by the studio itself in 1997 to drum up hype and taboo curiosity for its clunky-looking debut. Nearly 30 years on, that engineered scandal is still bearing fruit. Grand Theft Auto VI rev",
+              "imageUrl": "https://i.guim.co.uk/img/media/8e952022e31ad5bdd36846576e1a446ad470b1b9/0_135_5334_4262/master/5334.jpg?width=140&quality=85&auto=format&fit=max&s=706f0e2fd11a7d983e6740e95373f5cc",
+              "imageAlt": "How GTA started its own moral panic – video",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -916,59 +921,9 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/48138fb26f42165580ed2eeb86194a7f2e3088fc/285_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=755cc3683578ba3af61f2ebacba1b65d",
-          "imageAlt": "'More fun being chased': GTA6 co-creator reflects on franchise's evolution – video",
+          "imageUrl": "https://i.guim.co.uk/img/media/8e952022e31ad5bdd36846576e1a446ad470b1b9/0_135_5334_4262/master/5334.jpg?width=140&quality=85&auto=format&fit=max&s=706f0e2fd11a7d983e6740e95373f5cc",
+          "imageAlt": "How GTA started its own moral panic – video",
           "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-          "summary": "Major Chinese property developer Vanke has reported a large loss, adding to signs that the country's real-estate crisis is spreading. Its difficulties raise fresh questions about whether the Chinese state will intervene.",
-          "links": [
-            {
-              "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-              "source": "Wall Street Journal",
-              "headline": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-              "excerpt": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
-              "imageUrl": "",
-              "imageAlt": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-              "outlet": "Wall Street Journal",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "high",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
-        },
-        {
-          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-          "summary": "Some freed Israeli women hostages still had shrapnel in their bodies from the October 7 attack, according to an Israeli medical official. The official said some had been held alone for long periods and spent eight months in tunnels.",
-          "links": [
-            {
-              "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
-              "source": "Wall Street Journal",
-              "headline": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-              "excerpt": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
-              "imageUrl": "",
-              "imageAlt": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-              "outlet": "Wall Street Journal",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "high",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
