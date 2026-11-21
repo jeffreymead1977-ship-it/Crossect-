@@ -2,24 +2,89 @@
   "id": "2026-11-21-expanded",
   "date": "2026-11-21",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-11-21T03:00:45.656059",
+  "generatedAt": "2026-11-21T12:30:44.955686",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-11-21T03:00:45",
+  "updatedAt": "2026-11-21T12:30:44",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills",
-          "summary": "A Russian missile came down in Poland while European troops were taking part in an exercise connected to preparations for a possible postwar mission in Ukraine. Polish Prime Minister Donald Tusk described the incident as a likely deliberate provocation by Moscow; no injuries or damage were reported.",
+          "title": "Trump Floats A Price For Taking America’s AI Boom Overseas",
+          "summary": "President Donald Trump threatened a “tremendous tax” or possible ban on US technology companies building AI data centres overseas, saying he wants the infrastructure built in the United States. The BBC noted that he offered little policy detail and that members of his team were hearing about the proposal for the first time.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Poland condemns Russian ‘provocation’ after airspace violations",
-              "excerpt": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=1800%2C1013",
-              "imageAlt": "Poland condemns Russian ‘provocation’ after airspace violations",
+              "headline": "Trump threatens tax on US tech firms building AI data centres abroad",
+              "excerpt": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "Trump threatens tax on US tech firms building AI data centres abroad",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Trump threatens ban on US firms building AI data centres overseas",
+              "excerpt": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+              "imageAlt": "Trump threatens ban on US firms building AI data centres overseas",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.dailywire.com/news/trump-floats-a-price-for-taking-americas-ai-boom-overseas",
+              "source": "Daily Wire",
+              "headline": "Trump Floats A Price For Taking America’s AI Boom Overseas",
+              "excerpt": "President Donald Trump threatened to impose a “tremendous tax” on American tech companies building artificial intelligence data centers overseas, saying he wants the infrastructure powering the AI boom exclusively built in the United States. “We’re not going to allow companies to build data centers in other countries,” Trump said during a Friday White House press ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/01/GettyImages-2257274748.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump Floats A Price For Taking America’s AI Boom Overseas",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "Trump threatens tax on US tech firms building AI data centres abroad",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+          "summary": "Nikhil Gupta was sentenced to just over 19 years in prison for a murder-for-hire plot targeting New York-based Sikh separatist leader Gurpatwant Singh Pannun. Gupta had pleaded guilty in February to murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+              "excerpt": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-06-17T180407Z_156680698_RC2ZC8AK45JD_RTRMADP_3_USA-INDIA-SIKH-1795199072.jpg?resize=1920%2C1440",
+              "imageAlt": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,31 +97,31 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-              "excerpt": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-              "imageAlt": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+              "headline": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+              "excerpt": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
+              "imageAlt": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=high; article-text lowers reliability: (rumours|unverified|alleged without evidence|speculation|conspiracy)",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/nov/20/tusk-says-russian-missile-landing-poland-appears-intentional/",
+              "url": "https://www.washingtontimes.com/news/2026/nov/20/man-sentenced-19-12-years-prison-plot-kill-sikh-separatist-leader-new/",
               "source": "Washington Times",
-              "headline": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills",
-              "excerpt": "A Russian missile came down in Poland on Friday in what Polish Prime Minister Donald Tusk said was likely a deliberate provocation coinciding with European military exercises in the country, part of preparations for a potential postwar mission in Ukraine.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/20/APTOPIX_Russia_Ukraine_War_263_8_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills",
+              "headline": "Man gets 19 1/2 years in prison for plot to kill Sikh separatist leader in New York",
+              "excerpt": "A man from India was sentenced Friday to just over 19 1/2 years in prison in a murder-for-hire plot targeting a prominent Sikh separatist leader living in New York City.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/20/India-Sikh_Assassination_Plot_48595_s1440x916.jpg?451c6ec31ea2f7470321a630ef8e1c8ba50ca73b",
+              "imageAlt": "Man gets 19 1/2 years in prison for plot to kill Sikh separatist leader in New York",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -70,31 +135,32 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=1800%2C1013",
-          "imageAlt": "Poland condemns Russian ‘provocation’ after airspace violations",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-06-17T180407Z_156680698_RC2ZC8AK45JD_RTRMADP_3_USA-INDIA-SIKH-1795199072.jpg?resize=1920%2C1440",
+          "imageAlt": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "Four New Jails, $16 Billion And Mamdani Still Has A Math Problem",
-          "summary": "New York City Mayor Zohran Mamdani has announced a plan to close the Rikers Island jail complex by 2032. The plan would replace it with four smaller borough-based jails, with the transition beginning in 2029, while reducing the number of people held behind bars.",
+          "summary": "New York Mayor Zohran Mamdani announced a plan to close the Rikers Island jail complex by 2032 and replace it with four smaller borough-based jails, with the transition beginning in 2029. The city council first voted to close Rikers in 2019, but the effort was delayed by questions about where inmates would be held.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
-              "excerpt": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b007fd203283-1795194834.jpg?resize=1920%2C1440",
-              "imageAlt": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
+              "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+              "excerpt": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
+              "imageAlt": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
             },
             {
               "url": "https://www.breitbart.com/politics/2026/11/20/mamdani-launches-plan-to-empty-and-close-rikers-island-jail/",
@@ -134,13 +200,107 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b007fd203283-1795194834.jpg?resize=1920%2C1440",
-          "imageAlt": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
+          "imageAlt": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Texas inmate's execution by lethal injection takes more than one hour",
+          "summary": "Texas inmate Reinaldo Dennes was executed by lethal injection on Thursday in a process that lasted more than an hour as prison staff struggled to find a suitable vein. The BBC reported that Dennes screamed during the prolonged execution and noted that it followed another case in which Christa Pike survived an injection of the same drug.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "Texas death-row inmate screams as execution takes more than one hour",
+              "excerpt": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
+              "imageAlt": "Texas death-row inmate screams as execution takes more than one hour",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/20/texas-inmates-execution-lethal-injection-takes-one-hour/",
+              "source": "Washington Times",
+              "headline": "Texas inmate's execution by lethal injection takes more than one hour",
+              "excerpt": "Texas inmate Reinaldo Dennes' execution by lethal injection lasted more than an hour on Thursday when prison staff struggled to find a suitable vein.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/19/Executions_37377_s929x929.jpg?662e400a5f0cea65e6dd19b0294e9c34872dc743",
+              "imageAlt": "Texas inmate's execution by lethal injection takes more than one hour",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
+          "imageAlt": "Texas death-row inmate screams as execution takes more than one hour",
+          "imageCredit": "BBC"
+        },
+        {
+          "title": "Three French police officers sentenced over racist assault on Black man",
+          "summary": "Three French police officers were sentenced over the 2020 beating of Black music producer Michel Zecler. A Paris criminal court found that racism was an aggravating factor in the assault.",
+          "links": [
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Three French police officers sentenced over racist assault on Black man",
+              "excerpt": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00f269-1795224169.jpg?resize=1920%2C1440",
+              "imageAlt": "Three French police officers sentenced over racist assault on Black man",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC World",
+              "headline": "French police officers sentenced for beating of music producer Michel Zecler",
+              "excerpt": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+              "imageAlt": "French police officers sentenced for beating of music producer Michel Zecler",
+              "outlet": "BBC",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00f269-1795224169.jpg?resize=1920%2C1440",
+          "imageAlt": "Three French police officers sentenced over racist assault on Black man",
           "imageCredit": "Al Jazeera"
         },
         {
           "title": "From premature baby to social media star - Famed hippo Fiona dies",
-          "summary": "Fiona, the Cincinnati Zoo hippopotamus who became a social-media star after being born prematurely, has died at age nine. Reports say she died days after swallowing a knitted child's hat that had fallen into her enclosure, leaving her keeper in disbelief over the animal's death.",
+          "summary": "Fiona, the Cincinnati Zoo hippopotamus who became a social-media star after being born prematurely, died at age nine. The zoo said she died days after swallowing a child’s knitted hat that had accidentally entered her enclosure.",
           "links": [
             {
               "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
@@ -178,24 +338,6 @@
               "reliability": "low",
               "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://nypost.com/2026/11/20/us-news/fiona-the-hippos-handler-reveals-shes-still-in-disbelief-over-beloved-animals-tragic-ending/",
-              "source": "New York Post",
-              "headline": "Fiona the hippo’s handler reveals she’s ‘still in disbelief’ over beloved animal’s ‘tragic ending’",
-              "excerpt": "Fiona the hippo’s keeper mourns her tragic death after she swallowed a knitted hat at Cincinnati Zoo.",
-              "imageUrl": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ffiona-hippo-handler-comp-1.jpg?quality%3D90%26strip%3Dall",
-              "imageAlt": "Fiona the hippo’s handler reveals she’s ‘still in disbelief’ over beloved animal’s ‘tragic ending’",
-              "outlet": "New York Post",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
@@ -204,62 +346,16 @@
           "imageCredit": "BBC"
         },
         {
-          "title": "Senate passes bipartisan permitting overhaul but without changes senators sought",
-          "summary": "The US Senate passed bipartisan legislation to overhaul federal permitting and accelerate approvals for domestic energy projects. Supporters say the measure is intended to lower consumer energy costs, while its provisions also limit court challenges; the final bill omitted changes some senators had sought.",
+          "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
+          "summary": "Thousands of Gen Z protesters marched across cities in 25 European countries on Friday. Demonstrators raised concerns including the cost of living, wars, military spending and climate change.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "US Senate passes bill to speed up energy project approvals",
-              "excerpt": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b006722d46b5-1795188514.jpg?resize=1920%2C1440",
-              "imageAlt": "US Senate passes bill to speed up energy project approvals",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/nov/19/senate-passes-bipartisan-american-affordability-jobs-act-without/",
-              "source": "Washington Times",
-              "headline": "Senate passes bipartisan permitting overhaul but without changes senators sought",
-              "excerpt": "The Senate late Thursday passed bipartisan legislation to overhaul the federal permitting process in an effort to speed up domestic energy development and lower costs for consumers.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/19/AP25197625627961_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Senate passes bipartisan permitting overhaul but without changes senators sought",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b006722d46b5-1795188514.jpg?resize=1920%2C1440",
-          "imageAlt": "US Senate passes bill to speed up energy project approvals",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Protests held across Europe over wages, services, high living costs",
-          "summary": "Thousands of workers and students marched in cities across Europe over living costs, wages and public services. The protests, partly inspired by continuing demonstrations in France, showed no sign of abating on Friday.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Protests held across Europe over wages, services, high living costs",
-              "excerpt": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=1920%2C1440",
-              "imageAlt": "Protests held across Europe over wages, services, high living costs",
+              "headline": "Gen Z protests sweep Europe over wars, rising costs and climate",
+              "excerpt": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-EUROPE-2011-1795229308.png?resize=1920%2C1080&quality=80",
+              "imageAlt": "Gen Z protests sweep Europe over wars, rising costs and climate",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -292,101 +388,9 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=1920%2C1440",
-          "imageAlt": "Protests held across Europe over wages, services, high living costs",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-EUROPE-2011-1795229308.png?resize=1920%2C1080&quality=80",
+          "imageAlt": "Gen Z protests sweep Europe over wars, rising costs and climate",
           "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Incoming Texas Governor Hints At Turning Her Massive Border State Into A Sanctuary For Illegals",
-          "summary": "Texas Governor-elect Gina Hinojosa was asked whether state cooperation with US Immigration and Customs Enforcement would end when she takes office. She did not rule out ending that cooperation and said she would not facilitate actions that result in people being killed, while citing criticism that the Trump administration had gone too far.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/clips/2026/11/19/hinojosa-on-if-shell-end-ice-cooperation-i-will-not-facilitate-people-being-killed-trump-said-they-went-too-far/",
-              "source": "Breitbart",
-              "headline": "Hinojosa on if She'll End ICE Cooperation: 'I Will Not Facilitate' People Being Killed, Trump Said They Went Too Far",
-              "excerpt": "On Thursday’s broadcast of the Fox News Channel’s “Special Report,” Texas Gov.-elect Gina Hinojosa (D) responded to a question on if she will end cooperation with ICE by saying that “We have had people killed, Americans killed, people mowed down The post Hinojosa on if She’ll End ICE Cooperation: ‘I Will Not",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/Gina-Hinojosa-1119-Thumbnail-640x335.jpg",
-              "imageAlt": "Hinojosa on if She'll End ICE Cooperation: 'I Will Not Facilitate' People Being Killed, Trump Said They Went Too Far",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=low; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/incoming-texas-governor-hints-at-turning-her-massive-border-state-into-a-sanctuary-for-illegals",
-              "source": "Daily Wire",
-              "headline": "Incoming Texas Governor Hints At Turning Her Massive Border State Into A Sanctuary For Illegals",
-              "excerpt": "Democrat Texas Governor-elect Gina Hinojosa weighed in on whether she would turn Texas into a sanctuary state. During an appearance on Fox News’ “Special Report” with Bret Baier Thursday night, Hinojosa did not rule out ending state cooperation with Immigration and Customs Enforcement (ICE). “Does state cooperation with ICE end on day one?” Baier asked. ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2303887439.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Incoming Texas Governor Hints At Turning Her Massive Border State Into A Sanctuary For Illegals",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/11/Gina-Hinojosa-1119-Thumbnail-640x335.jpg",
-          "imageAlt": "Hinojosa on if She'll End ICE Cooperation: 'I Will Not Facilitate' People Being Killed, Trump Said They Went Too Far",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "SEE IT: Mamdani Was Arrested By Anti-Terror Unit He Just Scrapped",
-          "summary": "Resurfaced footage appears to show New York City Mayor Zohran Mamdani being detained by the NYPD Strategic Response Group. Mamdani has ordered the unit, which handled terrorism threats and protests, dismantled; one report says the unit arrested him at least twice.",
-          "links": [
-            {
-              "url": "https://www.dailywire.com/news/see-it-mamdani-was-arrested-by-anti-terror-unit-he-just-scrapped",
-              "source": "Daily Wire",
-              "headline": "SEE IT: Mamdani Was Arrested By Anti-Terror Unit He Just Scrapped",
-              "excerpt": "New York City Mayor Zohran Mamdani was arrested at least twice by the NYPD’s anti-terrorism unit he just disbanded, a report revealed this week. After Mamdani announced on Monday that he was dismantling the Strategic Response Group (SRG) — the unit tasked with responding to terror threats and protests — Crain’s New York Business found ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2305555616.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "SEE IT: Mamdani Was Arrested By Anti-Terror Unit He Just Scrapped",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/us/michael-ruiz-resurfaced-video-appears-show-nyc-mayor-arrested-nypd-group-disbanding",
-              "source": "Fox News",
-              "headline": "MICHAEL RUIZ: Resurfaced video appears to show NYC mayor arrested by NYPD group he is disbanding",
-              "excerpt": "Resurfaced video shows Zohran Mamdani being detained by the NYPD Strategic Response Group, the same unit he later ordered dismantled as mayor.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mamdani-cuffed.png?ve=1&tl=1",
-              "imageAlt": "MICHAEL RUIZ: Resurfaced video appears to show NYC mayor arrested by NYPD group he is disbanding",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2305555616.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "SEE IT: Mamdani Was Arrested By Anti-Terror Unit He Just Scrapped",
-          "imageCredit": "Daily Wire"
         }
       ]
     },
@@ -395,15 +399,15 @@
       "stories": [
         {
           "title": "The greatness of Zaha Hadid",
-          "summary": "The selected Spectator Australia item is headlined “A hot new James Bond?” and opens with the Roman Catholic adage “Fat Pope/Thin Pope.” Its supplied headline and excerpt do not provide factual support for the story title about architect Zaha Hadid.",
+          "summary": "The supplied story is titled “The greatness of Zaha Hadid,” but its only linked report reviews the family comedy Ilford Boy, set in London’s suburbs in the 1980s and 1990s. The available headline and excerpt provide no information about Zaha Hadid, so the title cannot be substantiated from the supplied source material.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/11/a-hot-new-james-bond/",
+              "url": "https://www.spectator.com.au/2026/11/a-life-affirming-family-comedy-donmars-ilford-boy-reviewed/",
               "source": "Spectator Australia",
-              "headline": "A hot new James Bond?",
-              "excerpt": "There is an adage in Roman Catholicism known as ‘Fat Pope/Thin Pope’. Although it’s not specifically about the weight of… The post A hot new James Bond? appeared first on The Spectator Australia . What to read next: Bond’s identity crisis mirrors Br",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/Maddie_Amazon_Studios_1.jpg",
-              "imageAlt": "A hot new James Bond?",
+              "headline": "A life-affirming family comedy: Donmar’s Ilford Boy reviewed",
+              "excerpt": "Ilford Boy is a family saga set in the London suburbs in the 1980s and 1990s. The Salvatores are a… The post A life-affirming family comedy: Donmar’s Ilford Boy reviewed appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/09/one-for-hardcore-fa",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/The_company_of_ILFORD_BOY_Donmar_Warehouse_2026_Photo_by_Helen_Murray_1_.png",
+              "imageAlt": "A life-affirming family comedy: Donmar’s Ilford Boy reviewed",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -417,21 +421,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/Maddie_Amazon_Studios_1.jpg",
-          "imageAlt": "A hot new James Bond?",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/The_company_of_ILFORD_BOY_Donmar_Warehouse_2026_Photo_by_Helen_Murray_1_.png",
+          "imageAlt": "A life-affirming family comedy: Donmar’s Ilford Boy reviewed",
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "Australian Rohingya hope world will listen after UN court's genocide ruling",
-          "summary": "Rohingya Australians have welcomed an International Court of Justice judgment finding that Myanmar committed genocide against the Muslim minority. They say the ruling must be followed by action from the international community, including Australia.",
+          "title": "Liberal voters expected to 'come home' in Victorian leader's seat of Kew",
+          "summary": "Liberal voters in the Victorian seat of Kew are expected to weigh a returning independent candidate against high-profile local member Jess Wilson. The independent is optimistic, while Wilson’s profile may help the Liberals regain voters in what was formerly a safe Liberal electorate.",
           "links": [
             {
-              "url": "https://www.abc.net.au/news/2026-11-20/icj-rohingya-genocide-case-community-reactions/107408880",
+              "url": "https://www.abc.net.au/news/2026-11-21/jess-wilson-kew-district-sophie-torney-victorian-electorate/107400636",
               "source": "ABC Australia",
-              "headline": "Australian Rohingya hope world will listen after UN court's genocide ruling",
-              "excerpt": "Rohingya Australians welcome the International Court of Justice's judgement that Myanmar committed genocide against the Muslim minority group but say the decision must be backed up by action from the international community including Australia.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a58c1e3bc24fd69c77665a92f43f0ab3?impolicy=wcms_crop_resize&cropH=2025&cropW=3600&xPos=0&yPos=188&width=862&height=485",
-              "imageAlt": "Australian Rohingya hope world will listen after UN court's genocide ruling",
+              "headline": "Liberal voters expected to 'come home' in Victorian leader's seat of Kew",
+              "excerpt": "A returning independent candidate in Jess Wilson's home electorate is optimistic about her chances, but the local member's high profile may help the Liberals claw back voters in the formerly safe Liberal seat.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/937ee310e3a2c1e0fc9abd950c90b0c9?impolicy=wcms_crop_resize&cropH=1687&cropW=2999&xPos=1&yPos=0&width=862&height=485",
+              "imageAlt": "Liberal voters expected to 'come home' in Victorian leader's seat of Kew",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -440,27 +444,27 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/a58c1e3bc24fd69c77665a92f43f0ab3?impolicy=wcms_crop_resize&cropH=2025&cropW=3600&xPos=0&yPos=188&width=862&height=485",
-          "imageAlt": "Australian Rohingya hope world will listen after UN court's genocide ruling",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/937ee310e3a2c1e0fc9abd950c90b0c9?impolicy=wcms_crop_resize&cropH=1687&cropW=2999&xPos=1&yPos=0&width=862&height=485",
+          "imageAlt": "Liberal voters expected to 'come home' in Victorian leader's seat of Kew",
           "imageCredit": "ABC News"
         },
         {
-          "title": "‘It gives me power’: the swimming class that’s changing lives",
-          "summary": "A swimming class in Melbourne's west is helping people who arrived in Australia without having learned to swim overcome their fear of water. For Splash of Colour students, early steps such as submerging the face and blowing bubbles can be major achievements that build confidence and a sense of personal power.",
+          "title": "‘We don’t talk about the God stuff’: a day with Padre Dave, the outback’s flying minister",
+          "summary": "David “Padre Dave” Shrimpton flies to remote outback properties, where he has spent decades helping with work such as drafting cattle and dehorning bulls. Despite being a minister, religion rarely features in his visits, which focus on practical support and longstanding community ties.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/nov/21/splash-of-colour-swimming-classes-changing-lives-australia-ntwnfb",
+              "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/nov/21/padre-dave-the-minister-flies-to-outback-stations",
               "source": "The Guardian Australia",
-              "headline": "‘It gives me power’: the swimming class that’s changing lives",
-              "excerpt": "People who arrive in Australia not having learned to swim often fear the water. For these Splash of Colour students, even blowing bubbles ‘is Everest’ In a public pool in Melbourne’s west, where the smell of chlorine hangs thick in the air, Dharmveer Kaur practises blowing bubbles in the shallow pool. Sounds echo across the enormous indoor aquatic centre, as people fresh from school and work mingle in the pools, spas and water slides. Kaur quietly concentrates on submerging her face in",
-              "imageUrl": "https://i.guim.co.uk/img/media/d955ecd035f7710fd8f0f6d6ff3a3d86958f3a04/397_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=71ac8cabdb05ca779b6425841409b482",
-              "imageAlt": "‘It gives me power’: the swimming class that’s changing lives",
+              "headline": "‘We don’t talk about the God stuff’: a day with Padre Dave, the outback’s flying minister",
+              "excerpt": "David Shrimpton has helped draft cattle and dehorn bulls in his decades visiting remote properties. Religion rarely gets a mention The plane rattles as it bounces in the wind. Olive vinyl and carpet line the doors and floor, and a faded sticker on the dashboard reads: “Smoking is permitted.” At the yoke of the 1970s Cessna, smiling through a white moustache and glasses, sits a man in a suit and tie patterned with cartoon aeroplanes. Padre Dave is on his way to marry two old friend",
+              "imageUrl": "https://i.guim.co.uk/img/media/d57b85ad0e0d4993afc4b06f22d856295916e269/0_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=4fcf024a9187ebfd333811441f12f26b",
+              "imageAlt": "‘We don’t talk about the God stuff’: a day with Padre Dave, the outback’s flying minister",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -474,21 +478,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/d955ecd035f7710fd8f0f6d6ff3a3d86958f3a04/397_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=71ac8cabdb05ca779b6425841409b482",
-          "imageAlt": "‘It gives me power’: the swimming class that’s changing lives",
+          "imageUrl": "https://i.guim.co.uk/img/media/d57b85ad0e0d4993afc4b06f22d856295916e269/0_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=4fcf024a9187ebfd333811441f12f26b",
+          "imageAlt": "‘We don’t talk about the God stuff’: a day with Padre Dave, the outback’s flying minister",
           "imageCredit": "The Guardian"
         },
         {
           "title": "Letters: Stephen Hawking’s real legacy",
-          "summary": "The selected Spectator Australia item is headlined “From Brussels with love: they’ve been expecting you, Mr Burnham” and refers to the aftermath of Vote Leave's 2016 EU referendum victory. Its supplied headline and excerpt do not contain factual material about Stephen Hawking or his legacy.",
+          "summary": "The supplied story is titled “Letters: Stephen Hawking’s real legacy,” but its only linked item is a Spectator Australia article titled “Jimbo should go. Jimbo won’t go” about unemployment and an unidentified Jimbo. The available headline and excerpt contain no information about Stephen Hawking, so the title cannot be substantiated from the supplied source material.",
           "links": [
             {
-              "url": "https://www.spectator.com.au/2026/11/from-brussels-with-love-theyve-been-expecting-you-mr-burnham/",
+              "url": "https://www.spectator.com.au/2026/11/jimbo-should-go-jimbo-wont-go/",
               "source": "Spectator Australia",
-              "headline": "From Brussels with love: they’ve been expecting you, Mr Burnham",
-              "excerpt": "The day after Vote Leave’s victory in the 2016 EU referendum, the campaign director Dominic Cummings turned to a colleague… The post From Brussels with love: they’ve been expecting you, Mr Burnham appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.a",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/CMYK_unbrexit_coluor_0002.png",
-              "imageAlt": "From Brussels with love: they’ve been expecting you, Mr Burnham",
+              "headline": "Jimbo should go. Jimbo won’t go",
+              "excerpt": "Cast your mind back to late August last year. The rate of unemployment is just over 4 per cent, and… The post Jimbo should go. Jimbo won’t go appeared first on The Spectator Australia . What to read next: Jimbo is toast | <a href=\"https://www.spectator.com.au/",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/sloan-21-nov_post.jpg",
+              "imageAlt": "Jimbo should go. Jimbo won’t go",
               "outlet": "Spectator Australia",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -502,8 +506,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/CMYK_unbrexit_coluor_0002.png",
-          "imageAlt": "From Brussels with love: they’ve been expecting you, Mr Burnham",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/sloan-21-nov_post.jpg",
+          "imageAlt": "Jimbo should go. Jimbo won’t go",
           "imageCredit": "Spectator Australia"
         }
       ]
@@ -512,16 +516,16 @@
       "name": "Technology",
       "stories": [
         {
-          "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-          "summary": "Everful, a factory-direct sourcing platform led by a former Alibaba executive, has raised $48.5 million. The company plans to use the funding to expand a service that connects retailers with overseas manufacturers, including Chinese factories.",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "summary": "Security experts warn that people working in AI are vulnerable to honey-trap schemes that exploit romantic or emotional interest. The concern is that technologists building powerful systems may still expose themselves, their organisations or sensitive information through personal relationships.",
           "links": [
             {
-              "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+              "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
               "source": "TechCrunch",
-              "headline": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-              "excerpt": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
-              "imageAlt": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+              "headline": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+              "excerpt": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+              "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
+              "imageAlt": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
               "outlet": "TechCrunch",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -535,41 +539,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
-          "imageAlt": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
+          "imageAlt": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-          "summary": "The International Court of Justice found Myanmar guilty of genocide against its Rohingya Muslim minority. In reaching its ruling, the UN court cited Facebook posts made by the military, while Rohingya refugees in Bangladesh watched the judgment.",
-          "links": [
-            {
-              "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
-              "source": "The Verge",
-              "headline": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-              "excerpt": "<img alt=\"A photo showing Rohingya refugees watching the ICJ’s ruling on Myanmar’s genocide\" data-caption=\"Rohingya refugees in Bangladesh watch the International Court of Justice’s ruling on Myanmar’s genocide against its Muslim minority. | Photo by Salahuddin Ahmed / AFP via Getty Images\" data-portal-copyright=\"Photo by Salahuddin Ahmed / AFP via Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305286110.j",
-              "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305286110.jpg?quality=90&strip=all&crop=0%2C10.729709585854%2C100%2C78.540580828291&w=1200",
-              "imageAlt": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-              "outlet": "The Verge",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305286110.jpg?quality=90&strip=all&crop=0%2C10.729709585854%2C100%2C78.540580828291&w=1200",
-          "imageAlt": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-          "imageCredit": "The Verge"
-        },
-        {
           "title": "‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel",
-          "summary": "Peter Gabriel discusses his long-running fascination with technology, from sampling and streaming to questions about superintelligence, as he returns with a new album. He also shares footage of himself playing a keyboard duet with Kanzi, a bonobo involved in primate communication research.",
+          "summary": "Peter Gabriel reflects on technology’s role in music, from sampling to streaming, while questioning whether superintelligence may be a step too far. His interest extends to communication with other apes, illustrated by footage of him playing a keyboard duet with the bonobo Kanzi.",
           "links": [
             {
               "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
@@ -597,7 +573,7 @@
         },
         {
           "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-          "summary": "AI is increasing the mental burden on workers already dealing with unstable pay, insecure housing and debt, with the lowest-paid workers described as bearing the heaviest cost. The Guardian commentary argues that welfare policy should be reconsidered as AI reshapes work and adds to vulnerable workers' cognitive load.",
+          "summary": "AI is increasing the cognitive burden on low-paid workers already dealing with unpredictable income, insecure housing and debt, according to a Guardian commentary. It argues that welfare policy should be reconsidered as AI reshapes work and places additional mental strain on vulnerable employees.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
@@ -625,7 +601,7 @@
         },
         {
           "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
-          "summary": "California voters rejected Proposition 40, a proposed one-time tax on billionaires' wealth. The campaign became the most expensive ballot-measure contest in state history and attracted heavy spending and involvement from Silicon Valley figures and Democratic leaders.",
+          "summary": "California voters rejected Proposition 40, a proposed one-time tax on billionaires’ wealth. The campaign became the most expensive ballot-measure contest in state history and drew heavy Silicon Valley spending along with involvement from technology billionaires and Democratic leaders.",
           "links": [
             {
               "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
@@ -650,6 +626,34 @@
           "imageUrl": "https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=962fb4fb032105acbfe9d9031d8ba874",
           "imageAlt": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
           "imageCredit": "The Guardian"
+        },
+        {
+          "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+          "summary": "Wellcome is leading a £10 million study into whether bans on children’s social-media use can improve mental health and wellbeing among people under 16. Ten research projects will examine the issue as governments around the world debate whether such bans would work in practice.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
+              "source": "The Guardian Technology",
+              "headline": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+              "excerpt": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore topics ranging fr",
+              "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
+              "imageAlt": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
+          "imageAlt": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+          "imageCredit": "The Guardian"
         }
       ]
     },
@@ -657,16 +661,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "NBI: Romualdez’s co-accused surrendered in Forbes Park",
-          "summary": "Felicito Cristobal Guevarra, a co-accused with former House Speaker Martin Romualdez in a plunder case, surrendered to the National Bureau of Investigation. The NBI said the surrender to its public-corruption division in Forbes Park, Makati, was peaceful and orderly.",
+          "title": "School supply, stipend woes hound BARMM education ministry",
+          "summary": "Bangsamoro Education Minister Naguib Sinarimbo inspected two warehouses operated by the region’s education ministry and found thousands of undistributed school supplies and learning materials. The inspection highlighted supply-distribution and stipend problems and pointed to a need for institutional reform in the ministry.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2344533/nbi-romualdezs-co-accused-surrendered-in-forbes-park",
+              "url": "https://newsinfo.inquirer.net/2344541/school-supply-stipend-woes-hound-barmm-education-ministry",
               "source": "Philippine Daily Inquirer",
-              "headline": "NBI: Romualdez’s co-accused surrendered in Forbes Park",
-              "excerpt": "MANILA, Philippines — The co-accused in the plunder case of former House Speaker Martin Romualdez surrendered “peacefully” in Forbes Park in Makati City, the National Bureau of Investigation (NBI) said on Friday. Felicito Cristobal Guevarra’s “surrender” to the NBI’s public corruption division on Thursday morning was “peaceful and orderly,” according to the bureau. READ: Romualdez co-accused",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/romualdez-26sept2026.jpg",
-              "imageAlt": "NBI: Romualdez’s co-accused surrendered in Forbes Park",
+              "headline": "School supply, stipend woes hound BARMM education ministry",
+              "excerpt": "COTABATO CITY—Bangsamoro Education Minister Naguib Sinarimbo on Thursday inspected two warehouses of the Ministry of Basic, Higher and Technical Education (MBHTE), giving him pointers on the necessary institutional reforms to undertake in the largest agency of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) bureaucracy. The team discovered thousands of undistributed school supplies and learning",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Regions1333409-scaled.jpg",
+              "imageAlt": "School supply, stipend woes hound BARMM education ministry",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -675,36 +679,102 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Regions1333409-scaled.jpg",
+          "imageAlt": "School supply, stipend woes hound BARMM education ministry",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Vandals cut cables at Phivolcs station, disrupting Kanlaon monitoring",
+          "summary": "A remote Phivolcs station monitoring Kanlaon Volcano temporarily stopped transmitting data after vandals cut cables linking its equipment to solar panels. The VKMH observation station in Sitio Manghumay has since resumed operations after the disruption was detected on November 13.",
+          "links": [
             {
-              "url": "https://www.rappler.com/philippines/martin-romualdez-co-accused-surrenders-nbi/",
-              "source": "Rappler World",
-              "headline": "Martin Romualdez’s co-accused surrenders to NBI",
-              "excerpt": "Felicito Guevarra faces a plunder case alongside Martin Romualdez",
-              "imageUrl": "https://www.rappler.com/tachyon/2026/11/photo_2026-11-20-22.05.32.jpeg",
-              "imageAlt": "Martin Romualdez’s co-accused surrenders to NBI",
-              "outlet": "Rappler",
+              "url": "https://newsinfo.inquirer.net/2344540/vandals-cut-cables-at-phivolcs-remote-station-disrupting-kanlaon-monitoring",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Vandals cut cables at Phivolcs station, disrupting Kanlaon monitoring",
+              "excerpt": "BACOLOD CITY—A remote monitoring station critical to tracking Kanlaon Volcano’s unrest has resumed operations after vandals cut cables connecting its equipment to solar panels, temporarily disrupting the transmission of monitoring data. The Philippine Institute of Volcanology and Seismology (Phivolcs) detected the interruption on Nov. 13 at its VKMH observation station in Sitio Manghumay, Barangay Mailum,",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Regions1333398.jpg",
+              "imageAlt": "Vandals cut cables at Phivolcs station, disrupting Kanlaon monitoring",
+              "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/09/romualdez-26sept2026.jpg",
-          "imageAlt": "NBI: Romualdez’s co-accused surrendered in Forbes Park",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Regions1333398.jpg",
+          "imageAlt": "Vandals cut cables at Phivolcs station, disrupting Kanlaon monitoring",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Environmental advocate opposes proposed Mindoro mineral reservation",
+          "summary": "The supplied story is titled “Environmental advocate opposes proposed Mindoro mineral reservation,” but its only linked report concerns a DENR Mimaropa appeal for residents to report water leaks, overflowing water and forest fires during El Niño. The available headline and excerpt provide no details about a mineral reservation or an advocate’s opposition, so the title cannot be substantiated from the supplied source material.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2344524/denr-mimaropa-to-public-report-water-leaks-forest-fires-amid-el-nino",
+              "source": "Philippine Daily Inquirer",
+              "headline": "DENR Mimaropa to public: Report water leaks, forest fires amid El Niño",
+              "excerpt": "CALAPAN CITY, Oriental Mindoro — The Department of Environment and Natural Resources (DENR) in Mimaropa (Mindoro, Marinduque, Romblon, and Palawan) has urged residents to report water leaks, overflowing water, forest fires and other incidents linked to the El Niño phenomenon to help protect water sources, forests and communities. In an advisory on Friday, DENR Mimaropa",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/MIMAROPA-MAP-09082022.jpeg",
+              "imageAlt": "DENR Mimaropa to public: Report water leaks, forest fires amid El Niño",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified), (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/MIMAROPA-MAP-09082022.jpeg",
+          "imageAlt": "DENR Mimaropa to public: Report water leaks, forest fires amid El Niño",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Southern Palawan forest loss mostly due to ‘kaingin’ – study",
+          "summary": "A study identified kaingin, or slash-and-burn farming, as the leading cause of extensive forest loss in southern Palawan. The finding challenges the assumption that mining is chiefly responsible, with the Palawan Council for Sustainable Development saying mining-related activity accounted for only a smaller share.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2344537/southern-palawan-forest-loss-mostly-due-to-kaingin-study",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Southern Palawan forest loss mostly due to ‘kaingin’ – study",
+              "excerpt": "BAGUIO CITY—A study has identified “kaingin,” or slash-and-burn farming, as the leading driver of massive deforestation in southern Palawan, challenging widespread assumptions that mining is primarily responsible for the loss of forest cover. Teodoro Jose Matta, a lawyer and executive director of the Palawan Council for Sustainable Development (PCSD), said mining-related activities accounted for only",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/11/Palawan-map-filephoto-091222.jpg",
+              "imageAlt": "Southern Palawan forest loss mostly due to ‘kaingin’ – study",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/11/Palawan-map-filephoto-091222.jpg",
+          "imageAlt": "Southern Palawan forest loss mostly due to ‘kaingin’ – study",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "DepEd pairs teacher laptops rollout with hands-on training",
-          "summary": "The Philippine Department of Education is pairing its nationwide distribution of teacher laptops with hands-on technology training for public-school educators. Education Secretary Sonny Angara launched the customised GuroXL professional-development program during a laptop rollout at the Ynares Center in Antipolo City.",
+          "summary": "The Philippine Department of Education is pairing a nationwide teacher-laptop rollout with hands-on technology training for public-school educators. Education Secretary Sonny Angara launched the customised GuroXL professional-development program during a distribution event at the Ynares Center in Antipolo City.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2344512/deped-pairs-teacher-laptops-rollout-with-hands-on-training",
@@ -729,90 +799,6 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/SonnyAngara-20Nov2026.jpg",
           "imageAlt": "DepEd pairs teacher laptops rollout with hands-on training",
           "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "9 airports, major railway projects eyed for PPPs before Marcos exits",
-          "summary": "The Philippine government is preparing nine airports and three major railway projects for potential public-private partnership arrangements. Transportation Secretary Vince Dizon said the projects are being targeted before President Marcos's term ends in June 2028.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2344559/9-airports-major-railway-projects-eyed-for-ppps-before-marcos-exits",
-              "source": "Philippine Daily Inquirer",
-              "headline": "9 airports, major railway projects eyed for PPPs before Marcos exits",
-              "excerpt": "MANILA, Philippines – The government is lining up nine airports and three major railway projects for public-private partnership (PPP) arrangements before President Marcos ends his term in June 2028, Transportation Secretary Vince Dizon said Friday. Dizon announced the plans during the 11th Pilipinas Conference organized by think tank Stratbase Institute, where he outlined the administration’s",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/IMG_9805.jpg",
-              "imageAlt": "9 airports, major railway projects eyed for PPPs before Marcos exits",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/IMG_9805.jpg",
-          "imageAlt": "9 airports, major railway projects eyed for PPPs before Marcos exits",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "LMP welcomes DBM-LGU agreement on CNA incentive rules",
-          "summary": "The League of Municipalities of the Philippines welcomed an agreement with the Department of Budget and Management on implementing the 2026 Collective Negotiation Agreement incentive guidelines. The arrangement is intended to help local government units apply the incentive rules fairly following talks with local-government league representatives.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2344500/lmp-welcomes-dbm-lgu-agreement-on-cna-incentive-rules",
-              "source": "Philippine Daily Inquirer",
-              "headline": "LMP welcomes DBM-LGU agreement on CNA incentive rules",
-              "excerpt": "MANILA, Philippines — The League of Municipalities of the Philippines (LMP) welcomed the agreement with the Department of Budget and Management (DBM), which seeks to ensure that the 2026 Collective Negotiation Agreement (CNA) incentive guidelines are fairly implemented by local government units (LGUs). The agreement followed a meeting between representatives of the local government leagues",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/League-of-Municipalities-23March2026.jpg",
-              "imageAlt": "LMP welcomes DBM-LGU agreement on CNA incentive rules",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/03/League-of-Municipalities-23March2026.jpg",
-          "imageAlt": "LMP welcomes DBM-LGU agreement on CNA incentive rules",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "3 suspects yield guns, ‘shabu’ in Ilocos Norte town",
-          "summary": "Police arrested three people while executing a search warrant in Barangay Madupayas, Badoc, Ilocos Norte, on November 19. Officers reported seizing firearms, ammunition, a rifle grenade and suspected shabu during the operation.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2344522/3-suspects-yield-guns-shabu-in-ilocos-norte-town",
-              "source": "Philippine Daily Inquirer",
-              "headline": "3 suspects yield guns, ‘shabu’ in Ilocos Norte town",
-              "excerpt": "SAN ILDEFONSO, Ilocos Sur — Three individuals were arrested after police implemented a search warrant in Barangay Madupayas, Badoc, Ilocos Norte, on Thursday, Nov. 19, resulting in the seizure of several firearms, ammunition, a rifle grenade and suspected illegal drugs. The operation was carried out by personnel from the Provincial Intelligence Unit, Provincial Investigation and",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Ilocos-Norte-map-filephoto-091122.jpg",
-              "imageAlt": "3 suspects yield guns, ‘shabu’ in Ilocos Norte town",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/Ilocos-Norte-map-filephoto-091122.jpg",
-          "imageAlt": "3 suspects yield guns, ‘shabu’ in Ilocos Norte town",
-          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -821,7 +807,7 @@
       "stories": [
         {
           "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-          "summary": "IconSwapper is a Mac app that can display live information, including AI usage, through app icons. It also adds real-time data, animations and customisation options intended to make the desktop more dynamic.",
+          "summary": "IconSwapper is a Mac app that turns application icons into live displays using real-time data and animations. It also offers playful icon customisations intended to make the desktop more informative and engaging.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
@@ -848,36 +834,8 @@
           "imageCredit": "TechCrunch"
         },
         {
-          "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-          "summary": "Wellcome is leading a £10 million study into whether banning social media for children under 16 can meaningfully improve mental health and wellbeing. Ten research projects will examine the effects as governments around the world debate whether such bans would work in practice.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
-              "source": "The Guardian Technology",
-              "headline": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-              "excerpt": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore topics ranging fr",
-              "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
-              "imageAlt": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
-          "imageAlt": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-          "imageCredit": "The Guardian"
-        },
-        {
           "title": "I’m a tech expert and new mum. Here’s what I learned testing 17 baby monitors",
-          "summary": "A Guardian technology reviewer and new mother tested 17 baby monitors for picture quality, battery life and reliability. The comparison grew from the practical anxiety of moving her baby into a separate room and is intended to identify which monitors perform best.",
+          "summary": "A Guardian technology expert and new mother tested 17 baby monitors for picture quality, battery life and reliability. The review grew from her search for a dependable video monitor when moving her baby into a separate room and presents recommendations based on those tests.",
           "links": [
             {
               "url": "https://www.theguardian.com/thefilter/2026/nov/20/best-baby-monitor-tested-uk",
@@ -905,7 +863,7 @@
         },
         {
           "title": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
-          "summary": "The Guardian tested 14 dehumidifiers aimed at reducing condensation, mould and musty smells in homes. The review also considers their usefulness as a lower-cost way to dry laundry compared with tumble dryers.",
+          "summary": "A Guardian review tested 14 dehumidifiers aimed at reducing condensation, mould and musty smells. It also assessed their usefulness as a potentially cheaper way to dry laundry than using a tumble dryer.",
           "links": [
             {
               "url": "https://www.theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
@@ -933,7 +891,7 @@
         },
         {
           "title": "‘Light therapy without remortgaging the house’: the best LED face masks – tested",
-          "summary": "The Guardian tested LED face masks that claim to reduce fine lines, blemishes and redness, after consulting dermatologists. The review compares these costly at-home beauty devices and selects a new top-rated model based on that scrutiny and testing.",
+          "summary": "A Guardian review assessed LED face masks that claim to reduce fine lines, blemishes and redness. After consulting dermatologists and testing the products, the reviewers selected a new top-rated model while noting that these masks are among the more expensive at-home beauty devices.",
           "links": [
             {
               "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
@@ -957,6 +915,34 @@
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/dcb3cc35a861de987165a14b91cbd345e81b0006/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6aa28926831680ff4204b20c9d0e77b0",
           "imageAlt": "‘Light therapy without remortgaging the house’: the best LED face masks – tested",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "How GTA started its own moral panic – video",
+          "summary": "Grand Theft Auto became central to a moral panic over graphic video games, but the controversy was initially encouraged by the game’s own studio in 1997 to generate publicity and taboo appeal. Nearly 30 years later, that engineered scandal continues to shape debate around the series as Grand Theft Auto VI approaches.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/games/video/2026/nov/19/how-gta-grand-theft-auto-started-its-own-moral-panic-video",
+              "source": "The Guardian Technology",
+              "headline": "How GTA started its own moral panic – video",
+              "excerpt": "Grand Theft Auto has been so central to the moral panic over graphic video games that some experts have called it the \"grand theft fallacy\". Yet the outrage was originally seeded by the studio itself in 1997 to drum up hype and taboo curiosity for its clunky-looking debut. Nearly 30 years on, that engineered scandal is still bearing fruit. Grand Theft Auto VI rev",
+              "imageUrl": "https://i.guim.co.uk/img/media/8e952022e31ad5bdd36846576e1a446ad470b1b9/0_135_5334_4262/master/5334.jpg?width=140&quality=85&auto=format&fit=max&s=706f0e2fd11a7d983e6740e95373f5cc",
+              "imageAlt": "How GTA started its own moral panic – video",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/8e952022e31ad5bdd36846576e1a446ad470b1b9/0_135_5334_4262/master/5334.jpg?width=140&quality=85&auto=format&fit=max&s=706f0e2fd11a7d983e6740e95373f5cc",
+          "imageAlt": "How GTA started its own moral panic – video",
           "imageCredit": "The Guardian"
         }
       ]
