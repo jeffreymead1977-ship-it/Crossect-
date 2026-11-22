@@ -2,24 +2,24 @@
   "id": "2026-11-22-expanded",
   "date": "2026-11-22",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-11-22T03:00:44.337861",
+  "generatedAt": "2026-11-22T12:30:43.557301",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-11-22T03:00:44",
+  "updatedAt": "2026-11-22T12:30:43",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
           "title": "Mexico captures cartel leader listed as one of top 10 most wanted in US",
-          "summary": "Mexican forces captured alleged cartel leader Fausto Isidro Meza Flores, known as “El Chapo Isidro,” during an overnight operation in Guasave, Sinaloa, according to reports from Al Jazeera, the BBC, Fox News, the Washington Examiner and the Washington Times. The FBI Ten Most Wanted fugitive was detained after a gunfight, and Mexican officials said U.S. intelligence assisted the operation.",
+          "summary": "Mexican forces captured Fausto Isidro Meza Flores, known as “El Chapo Isidro,” during an overnight operation in Sinaloa that triggered a fierce gun battle. Reports say seven alleged cartel gunmen and four soldiers were killed, while trucks burned and gunfire spread through the area. Meza Flores, an FBI Ten Most Wanted fugitive and leader of a Beltrán Leyva faction, was arrested with lieutenant Germán Rolando Gálvez Meza and taken to Mexico City; Mexican officials said U.S. intelligence aided the operation.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Mexico captures FBI-wanted cartel boss in military raid",
-              "excerpt": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795261961.jpg?resize=1899%2C1080&quality=80",
-              "imageAlt": "Mexico captures FBI-wanted cartel boss in military raid",
+              "headline": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+              "excerpt": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325668824696-1795310242.jpg?resize=1920%2C1440",
+              "imageAlt": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,32 +32,31 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-              "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-              "imageAlt": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
+              "url": "https://www.breitbart.com/border/2026/11/21/mexico-arrest-sinaloa-kingpin-after-fierce-gun-battle/",
+              "source": "Breitbart",
+              "headline": "Mexico Arrests Sinaloa Drug Cartel Kingpin After Fierce Gun Battle",
+              "excerpt": "Mexican military forces arrested one of the most powerful drug lords in Sinaloa after an intense shootout where hidden gunmen tried to prevent his capture. The post Mexico Arrests Sinaloa Drug Cartel Kingpin After Fierce Gun Battle appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2022/12/Sinaloa-Patrol-1-640x335.jpg",
+              "imageAlt": "Mexico Arrests Sinaloa Drug Cartel Kingpin After Fierce Gun Battle",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help",
-              "source": "Fox News",
-              "headline": "FBI Ten Most Wanted cartel leader 'Chapo Isidro' captured by Mexico's 'elite military forces' after US help",
-              "excerpt": "FBI Ten Most Wanted fugitive Fausto Isidro Meza-Flores, who goes by the alias \"Chapo Isidro,\" was captured in Guasave, Mexico, sparking a gun battle.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Fausto-Isidro-Meza-Flores.jpg?ve=1&tl=1",
-              "imageAlt": "FBI Ten Most Wanted cartel leader 'Chapo Isidro' captured by Mexico's 'elite military forces' after US help",
-              "outlet": "Fox News",
+              "url": "https://www.dailywire.com/news/fbi-most-wanted-cartel-kingpin-captured-in-mexico",
+              "source": "Daily Wire",
+              "headline": "FBI Most Wanted Cartel Kingpin Captured In Mexico",
+              "excerpt": "Mexican authorities arrested one of the FBI’s Ten Most Wanted fugitives, Fausto Isidro Meza Flores, known as “Chapo Isidro,” dealing a blow to one of the world’s most powerful cartel networks. Meza Flores, leader of the Beltrán Leyva faction of the “heavily armed” Sinaloa Cartel, was arrested alongside his top lieutenant, Germán Rolando Gálvez Meza. ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2305668811-1-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "FBI Most Wanted Cartel Kingpin Captured In Mexico",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -87,12 +86,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/nov/21/top-cartel-boss-el-chapo-isidro-one-fbis-10-wanted-fugitives-detained/",
+              "url": "https://www.washingtontimes.com/news/2026/nov/21/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-burst-violence/",
               "source": "Washington Times",
-              "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI's 10 most wanted fugitives",
-              "excerpt": "Mexican authorities captured top cartel boss Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" in the Mexican state of Sinaloa overnight, resulting in a burst of violence that rattled civilians.",
+              "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+              "excerpt": "Gunfire rang out, trucks burned and Mexican forces clashed with cartel gunmen in the state of Sinaloa overnight as Mexican authorities captured cartel boss Fausto Isidro Meza Flores, known as \"El Chapo Isidro.\"",
               "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/21/El_Chapo_Isidro_54293_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI's 10 most wanted fugitives",
+              "imageAlt": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -106,85 +105,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795261961.jpg?resize=1899%2C1080&quality=80",
-          "imageAlt": "Mexico captures FBI-wanted cartel boss in military raid",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325668824696-1795310242.jpg?resize=1920%2C1440",
+          "imageAlt": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-          "summary": "A Russian ballistic-missile strike hit central Kryvyi Rih, Ukrainian President Volodymyr Zelenskyy’s hometown, killing two people and wounding 60, local officials said. Al Jazeera and the Washington Times reported the attack as Russian missiles also landed in NATO member Poland and uncertainty surrounded U.S.-led peace efforts.",
+          "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+          "summary": "Convicted fraudsters made millions from detained immigrants through a bail business despite being fined $811 million. According to the BBC, they evaded efforts to shut the operation down, leaving migrants behind bars.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-              "excerpt": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325498278414-1795277500.jpg?resize=1200%2C630",
-              "imageAlt": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/nov/21/ballistic-missile-attack-kryvyi-rih-hometown-volodymyr-zelenskyy/",
-              "source": "Washington Times",
-              "headline": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-              "excerpt": "A Russian strike on the center of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/21/Russia_Ukraine_War_45749_s1280x853.jpg?55538c15ab8aafe050d6120e3a84fd68e4157aa7",
-              "imageAlt": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325498278414-1795277500.jpg?resize=1200%2C630",
-          "imageAlt": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-          "imageCredit": "Al Jazeera"
-        },
-        {
-          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-          "summary": "An Anthropic mathematician says he used the company’s Claude AI to produce a proof of the Riemann hypothesis, one of mathematics’ most famous unsolved problems. Mathematicians caution that checking the claimed proof could take weeks, so the potentially historic result remains unverified.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-              "source": "Al Jazeera",
-              "headline": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-              "excerpt": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-515252266-1795262357_4321f0-1795262397.jpg?resize=1200%2C630&quality=80",
-              "imageAlt": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-              "outlet": "Al Jazeera",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "medium",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-              "excerpt": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
-              "imageAlt": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+              "headline": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+              "excerpt": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4e/live/03859c80-e56d-11f1-a6ac-55a3d46eac91.jpg",
+              "imageAlt": "They were fined $811m for conning detained migrants, but the scams didn't stop",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -196,34 +131,16 @@
               "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/",
-              "source": "Washington Examiner",
-              "headline": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-              "excerpt": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company’s AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem. Levent […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26323561013974.jpg?w=1024",
-              "imageAlt": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-515252266-1795262357_4321f0-1795262397.jpg?resize=1200%2C630&quality=80",
-          "imageAlt": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-          "imageCredit": "Al Jazeera"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4e/live/03859c80-e56d-11f1-a6ac-55a3d46eac91.jpg",
+          "imageAlt": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+          "imageCredit": "BBC"
         },
         {
           "title": "Why isn't the House Judiciary Committee looking into Thomas?",
-          "summary": "The Republican-controlled House Judiciary Committee, chaired by Rep. Jim Jordan, scheduled a New York City field hearing titled “Victims of Violent Crime in Manhattan.” A CNN opinion article questions why the committee is focusing on Manhattan District Attorney Alvin Bragg’s policies rather than examining Justice Clarence Thomas.",
+          "summary": "CNN’s opinion piece questions why the Republican-controlled House Judiciary Committee is not examining Thomas. Instead, the panel chaired by Rep. Jim Jordan scheduled a New York field hearing on “Victims of Violent Crime in Manhattan,” focused on its claim that District Attorney Alvin Bragg’s policies increased violent crime and made the community more dangerous.",
           "links": [
             {
               "url": "https://www.cnn.com/2023/04/17/opinions/jim-jordan-clarence-thomas-judiciary-committee-obeidallah/index.html",
@@ -250,72 +167,8 @@
           "imageCredit": "CNN"
         },
         {
-          "title": "Trump signs order strengthening White House control over information to Congress ahead of Democrat majorities",
-          "summary": "President Donald Trump signed an executive order directing federal contractors to coordinate with the White House before providing Congress with sensitive or potentially privileged information. Fox News, the Washington Examiner and the Washington Times describe the move as strengthening White House control over congressional requests as Democrats prepare to lead Congress and pursue investigations.",
-          "links": [
-            {
-              "url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests",
-              "source": "Fox News",
-              "headline": "Trump orders federal contractors to alert White House on congressional record requests",
-              "excerpt": "President Donald Trump's executive order tells federal contractors to withhold material deemed privileged, risking contract loss as Democrats ready probes.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-11-20-26.jpg?ve=1&tl=1",
-              "imageAlt": "Trump orders federal contractors to alert White House on congressional record requests",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/white-house/4811048/trump-order-white-house-control-information-congress/",
-              "source": "Washington Examiner",
-              "headline": "Trump signs order strengthening White House control over information to Congress ahead of Democrat majorities",
-              "excerpt": "President Donald Trump signed an executive order on Friday to fortify the White House against expected weaponization in the upcoming Democrat-controlled Congress. The executive order applies to confidential information about federal contractors that may be subject to congressional requests. Seeking such information about the executive branch is limited, the order asserts, and Congress cannot do […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26309777545710_cba9c7.jpg?w=1024",
-              "imageAlt": "Trump signs order strengthening White House control over information to Congress ahead of Democrat majorities",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/nov/21/trump-tells-contractors-not-give-congressional-dems-information/",
-              "source": "Washington Times",
-              "headline": "Trump tells contractors not to give Congressional Dems information without approval",
-              "excerpt": "President Trump signed an order Friday to prevent government contractors from giving Congress sensitive information without coordinating with the White House.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/20/Trump_88765_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Trump tells contractors not to give Congressional Dems information without approval",
-              "outlet": "Washington Times",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-11-20-26.jpg?ve=1&tl=1",
-          "imageAlt": "Trump orders federal contractors to alert White House on congressional record requests",
-          "imageCredit": "Fox News"
-        },
-        {
           "title": "Anonymous Sources Disclose Purported Hack of FBI Network After Kash Patel Praised Bureau's Cybersecurity",
-          "summary": "The FBI is reportedly investigating a breach of its National Crime Information Center, a database used by federal, state and local law enforcement to share criminal records and conduct background checks. Reports from the BBC, Fox News and Breitbart say investigators are trying to determine how hackers entered and what information may have been compromised.",
+          "summary": "The FBI is reportedly investigating an apparent breach of the National Crime Information Center, a database used by federal and local law enforcement to share criminal records and support background checks. A retired FBI agent warned that altered records could endanger officers during traffic stops. The reports rely on people familiar with the matter and describe the incident as an apparent hack under investigation.",
           "links": [
             {
               "url": "https://www.breitbart.com/law-and-order/2026/11/21/anonymous-sources-disclose-purported-hack-of-fbi-network-after-kash-patel-praised-bureaus-cybersecurity/",
@@ -336,21 +189,39 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/politics/fbi-probes-second-cyberattack-months-hackers-breach-key-crime-database-sources-say",
+              "url": "https://www.foxnews.com/politics/retired-fbi-agent-warns-ncic-breach-could-threaten-police-safety-traffic-stops",
               "source": "Fox News",
-              "headline": "FBI probes second cyberattack in months as hackers breach key crime database, sources say",
-              "excerpt": "Hackers breached the FBI's National Crime Information Center, sources say, as the bureau probes the entry point and what data was compromised.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fbi-j-edgar-hoover.jpg?ve=1&tl=1",
-              "imageAlt": "FBI probes second cyberattack in months as hackers breach key crime database, sources say",
+              "headline": "Retired FBI agent warns NCIC breach could threaten police safety during traffic stops",
+              "excerpt": "Retired FBI agent Jason Pack warns a hack of the National Crime Information Center could endanger officers at traffic stops if records were altered.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/doj.jpg?ve=1&tl=1",
+              "imageAlt": "Retired FBI agent warns NCIC breach could threaten police safety during traffic stops",
               "outlet": "Fox News",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
               "alignment": "Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/21/fbi-looking-apparent-hack-key-criminal-justice-information-database/",
+              "source": "Washington Times",
+              "headline": "FBI investigating apparent hack of a key criminal justice information database, AP source says",
+              "excerpt": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains, a person familiar with the matter said Saturday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/10/23/Biden_Laptop_FBI_Officials_Charged_2_56_s1440x810.jpg?b902618a5575a8db94b5c0b671b87a203a26ff30",
+              "imageAlt": "FBI investigating apparent hack of a key criminal justice information database, AP source says",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
@@ -379,35 +250,81 @@
           "imageCredit": "Breitbart"
         },
         {
-          "title": "A Christian-Themed Email Lands Trump Cabinet Secretary In Court’s Crosshairs",
-          "summary": "A federal judge issued a preliminary injunction after finding that Agriculture Secretary Brooke Rollins likely violated the Constitution by sending agency-wide Christian holiday messages to employees. The disputed emails included an Easter message saying “He is risen” and a Christmas message referring to Jesus as “our Savior,” which the judge viewed as coercive.",
+          "title": "El Sayed continues to court Trump on healthcare",
+          "summary": "Michigan Democratic Sen.-elect Abdul El-Sayed is urging President Donald Trump to support his Medicare for All proposal. El-Sayed has repeatedly floated calling the initiative “Trumpcare for All,” and Trump amplified his appeal on Saturday.",
           "links": [
             {
-              "url": "https://www.dailywire.com/news/a-christian-themed-email-lands-trump-cabinet-secretary-in-courts-crosshairs",
-              "source": "Daily Wire",
-              "headline": "A Christian-Themed Email Lands Trump Cabinet Secretary In Court’s Crosshairs",
-              "excerpt": "A Biden-appointed district court judge ruled Thursday that U.S. Agriculture Secretary Brooke Rollins likely violated the Constitution by sending employees religious messages, including an agency-wide “He is risen” Easter email and a December 2025 Christmas message. Judge Trina L. Thompson of the U.S. District Court for the Northern District of California granted a preliminary injunction, ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2302913244-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "A Christian-Themed Email Lands Trump Cabinet Secretary In Court’s Crosshairs",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
+              "url": "https://www.washingtonexaminer.com/news/senate/4811347/el-sayed-continues-court-trump-healthcare/",
+              "source": "Washington Examiner",
+              "headline": "El Sayed continues to court Trump on healthcare",
+              "excerpt": "Sen.-elect Abdul el Sayed (D-MI) continued to push for President Donald Trump’s approval of his Medicare for All initiative on Saturday. El Sayed is one of many socialist Democrats looking to enact a progressive agenda once the new Congress convenes in January, and he’s repeatedly referenced naming his signature initiative “Trumpcare for All” after winning […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/image-collage-s79ye2bf2-1795306829898-e1795306950281.jpg?1795288937&w=1024",
+              "imageAlt": "El Sayed continues to court Trump on healthcare",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
               "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.foxnews.com/politics/trump-officials-holiday-emails-staff-calling-jesus-savior-went-too-far-judge-rules",
-              "source": "Fox News",
-              "headline": "Top Trump officials' holiday emails to staff calling Jesus 'our Savior' went 'too far,' judge rules",
-              "excerpt": "Judge Trina Thompson blocked Brooke Rollins from sharing religious messaging, ruling her USDA Christmas and Easter emails were coercive to employees.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Brooke-Rollins-podium.png?ve=1&tl=1",
-              "imageAlt": "Top Trump officials' holiday emails to staff calling Jesus 'our Savior' went 'too far,' judge rules",
-              "outlet": "Fox News",
+              "url": "https://www.washingtontimes.com/news/2026/nov/21/trump-boosts-el-sayeds-call-medicare/",
+              "source": "Washington Times",
+              "headline": "Trump boosts El-Sayed's call for Medicare for all",
+              "excerpt": "President Trump on Saturday amplified Michigan Democratic Sen.-elect Abdul El-Sayed's call for him to support Medicare for all.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/13/Congress_175_6_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Trump boosts El-Sayed's call for Medicare for all",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/image-collage-s79ye2bf2-1795306829898-e1795306950281.jpg?1795288937&w=1024",
+          "imageAlt": "El Sayed continues to court Trump on healthcare",
+          "imageCredit": "Washington Examiner"
+        },
+        {
+          "title": "Bill Maher Rips ‘Spoiled Brat’ Celebs Who Fled America Over Trump And Are Now Coming Back",
+          "summary": "Bill Maher used the season finale of HBO’s “Real Time” to mock celebrities who left the United States after Donald Trump’s 2024 election victory and returned after Democrats’ midterm gains. In his closing monologue, Maher also said concerns that the 2026 midterms would be stolen, bought by billionaires or subverted through voting restrictions did not materialise.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/clips/2026/11/21/maher-a-lot-of-us-worried-election-would-be-stolen-subverted-by-voter-suppression-but-that-didnt-happen/",
+              "source": "Breitbart",
+              "headline": "Maher: A Lot of Us Worried Election Would Be Stolen, Subverted by Voter Suppression, But That Didn't Happen",
+              "excerpt": "During his closing monologue on Friday’s broadcast of HBO’s “Real Time,” host Bill Maher said that “many of us worried” that the 2026 midterms “could be stolen or bought off by billionaire money or subverted by gerrymandering and voting obstacles. The post Maher: A Lot of Us Worried Election Would Be Stolen, Subvert",
+              "imageUrl": "https://media.breitbart.com/media/2026/04/Maher-417-Thumbnail-640x335.jpg",
+              "imageAlt": "Maher: A Lot of Us Worried Election Would Be Stolen, Subverted by Voter Suppression, But That Didn't Happen",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/bill-maher-rips-spoiled-brat-celebs-who-fled-america-over-trump-and-are-now-coming-back",
+              "source": "Daily Wire",
+              "headline": "Bill Maher Rips ‘Spoiled Brat’ Celebs Who Fled America Over Trump And Are Now Coming Back",
+              "excerpt": "Comedian and HBO host Bill Maher ridiculed the “spoiled brats” who left the United States after President Donald Trump won the 2024 election, only to come crawling back after Democrats swept the midterm elections earlier this month. Maher made the remarks on Friday’s season finale of “Real Time” on HBO. He opened his monologue with ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2022/06/Bill-Maher-scaled-e1654996941598.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Bill Maher Rips ‘Spoiled Brat’ Celebs Who Fled America Over Trump And Are Now Coming Back",
+              "outlet": "Daily Wire",
               "sourceBias": "Right",
               "sourceReliability": "medium",
               "bias": "Right",
@@ -420,8 +337,54 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2302913244-scaled.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "A Christian-Themed Email Lands Trump Cabinet Secretary In Court’s Crosshairs",
+          "imageUrl": "https://media.breitbart.com/media/2026/04/Maher-417-Thumbnail-640x335.jpg",
+          "imageAlt": "Maher: A Lot of Us Worried Election Would Be Stolen, Subverted by Voter Suppression, But That Didn't Happen",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Trump Calls Reported FBI Database Hack ‘Not Good’ But Hints At What It Could Reveal",
+          "summary": "President Donald Trump said reports that attackers breached the FBI’s national crime database were “not good” and that he did not like the incident. He nevertheless suggested the hack might expose information about voter fraud and what he called the “Ukraine hoax,” presenting that possibility as a positive spin on the breach.",
+          "links": [
+            {
+              "url": "https://www.dailywire.com/news/trump-calls-reported-fbi-database-hack-not-good-but-hints-at-what-it-could-reveal",
+              "source": "Daily Wire",
+              "headline": "Trump Calls Reported FBI Database Hack ‘Not Good’ But Hints At What It Could Reveal",
+              "excerpt": "President Donald Trump on Saturday confirmed reports that cyberattackers had breached the FBI’s national crime database. “It’s not good. I don’t like that,” Trump said in an interview with Fox News. “So I always like to put things in a positive spin. So as soon as you said that, and as soon as I heard ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/Untitled-Design-6.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "Trump Calls Reported FBI Database Hack ‘Not Good’ But Hints At What It Could Reveal",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/white-house/4811227/trump-fbi-hack-reveal-voter-fraud-ukraine-hoax/",
+              "source": "Washington Examiner",
+              "headline": "Trump says FBI hack might reveal voter fraud and ‘Ukraine hoax’",
+              "excerpt": "President Donald Trump said the newly reported FBI hack might reveal the extent of voter fraud and the “Ukraine hoax” that would not have been disclosed otherwise. While the cyberattack is deeply concerning to the president, Trump decided to put what he called a “positive spin” on the incident. “I don’t like that, but maybe […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26324750220263-e1795303917397.jpg?w=825",
+              "imageAlt": "Trump says FBI hack might reveal voter fraud and ‘Ukraine hoax’",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/Untitled-Design-6.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "Trump Calls Reported FBI Database Hack ‘Not Good’ But Hints At What It Could Reveal",
           "imageCredit": "Daily Wire"
         }
       ]
@@ -430,8 +393,111 @@
       "name": "Australia",
       "stories": [
         {
+          "title": "The offset that wasn’t",
+          "summary": "A Spectator Australia article asks whether the International Court of Justice has relaxed the legal threshold for genocide. It says the court held that Myanmar’s atrocities against the Rohingya minority breached the Genocide Convention’s terms.",
+          "links": [
+            {
+              "url": "https://www.spectator.com.au/2026/11/has-the-icj-relaxed-the-threshold-for-genocide/",
+              "source": "Spectator Australia",
+              "headline": "Has the ICJ relaxed the threshold for genocide?",
+              "excerpt": "The International Court of Justice (ICJ) has held that Myanmar’s atrocities against the Rohingya minority breached the terms of the… The post Has the ICJ relaxed the threshold for genocide? appeared first on The Spectator Australia . What to read next: <a href=\"https://www.spectator.com.au/2026/11/the-icjs-ge",
+              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2305282147_f74e6d.jpg",
+              "imageAlt": "Has the ICJ relaxed the threshold for genocide?",
+              "outlet": "Spectator Australia",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2305282147_f74e6d.jpg",
+          "imageAlt": "Has the ICJ relaxed the threshold for genocide?",
+          "imageCredit": "Spectator Australia"
+        },
+        {
+          "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+          "summary": "The Victorian Greens won a Supreme Court injunction over how-to-vote cards distributed by independent candidate Tosh-Jake Finnigan. The party argued that the cards imitated its colours and font while directing preferences in a way that put the Greens last and benefited the Liberal Party.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+              "source": "The Guardian Australia",
+              "headline": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+              "excerpt": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injuncti",
+              "imageUrl": "https://i.guim.co.uk/img/media/96ab340872e588ad309196b07390be6b1c05c064/0_0_935_748/master/935.jpg?width=140&quality=85&auto=format&fit=max&s=cb157e8ba631ea73ff9af551de474e32",
+              "imageAlt": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.abc.net.au/news/2026-11-22/victorian-greens-win-court-injunction-liberal-labor-pledges/107414054",
+              "source": "ABC Australia",
+              "headline": "Greens win court fight against Prahran independent how to-vote-cards",
+              "excerpt": "The Greens took independent candidate Tosh-Jake Finnigan to the Supreme Court, arguing they were imitating the minor party's colours and font.",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/2084f210f91ee9b170e8caca03f86618?impolicy=wcms_crop_resize&cropH=703&cropW=1250&xPos=0&yPos=0&width=862&height=485",
+              "imageAlt": "Greens win court fight against Prahran independent how to-vote-cards",
+              "outlet": "ABC News",
+              "sourceBias": "Center",
+              "sourceReliability": "high",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2",
+              "quality": "Public broadcaster"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/96ab340872e588ad309196b07390be6b1c05c064/0_0_935_748/master/935.jpg?width=140&quality=85&auto=format&fit=max&s=cb157e8ba631ea73ff9af551de474e32",
+          "imageAlt": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+          "imageCredit": "The Guardian"
+        },
+        {
+          "title": "RBA interest rates: governor Michele Bullock explains decision to lift cash rate to 4.85% – video",
+          "summary": "Reserve Bank governor Michele Bullock explained the decision to lift Australia’s cash rate from 4.6% to 4.85%, the fifth increase of the year. The bank acted to curb surging inflation amid an oil shock linked to the Middle East war, taking the rate to its highest level since 2008. The back-to-back rises add pressure to more than 3.3 million households with home loans.",
+          "links": [
+            {
+              "url": "https://www.theguardian.com/australia-news/video/2026/nov/03/rba-interest-rates-governor-michele-bullock-explains-decision-to-lift-cash-rate-to-485-video",
+              "source": "The Guardian Australia",
+              "headline": "RBA interest rates: governor Michele Bullock explains decision to lift cash rate to 4.85% – video",
+              "excerpt": "The Reserve Bank of Australia has hiked interest rates for the fifth time this year, from 4.6% to 4.85%, in a bid to regain control of surging inflation amid the ongoing global oil shock triggered by the war in the Middle East. The RBA’s cash rate has now reached its highest level since 2008. Back-to-back hikes will heap more pain on more than 3.3m households with home loans and turn the screws on a federal government under pressure for its economic management <a href=\"ht",
+              "imageUrl": "https://i.guim.co.uk/img/media/b58a54bc40aadb5de85c535a12dca11c5846ec90/972_0_9640_7712/master/9640.jpg?width=140&quality=85&auto=format&fit=max&s=d88df3f985e7a639f1d1def57b43cf19",
+              "imageAlt": "RBA interest rates: governor Michele Bullock explains decision to lift cash rate to 4.85% – video",
+              "outlet": "The Guardian",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "high",
+              "bias": "Lean Left",
+              "alignment": "Lean Left",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://i.guim.co.uk/img/media/b58a54bc40aadb5de85c535a12dca11c5846ec90/972_0_9640_7712/master/9640.jpg?width=140&quality=85&auto=format&fit=max&s=d88df3f985e7a639f1d1def57b43cf19",
+          "imageAlt": "RBA interest rates: governor Michele Bullock explains decision to lift cash rate to 4.85% – video",
+          "imageCredit": "The Guardian"
+        },
+        {
           "title": "Letters: Stephen Hawking’s real legacy",
-          "summary": "The story headline presents a discussion of Stephen Hawking’s legacy, while the linked Spectator Australia item instead asks whether an Andy Burnham speech was written by AI. That item frames identifying AI-generated political rhetoric as a growing challenge.",
+          "summary": "A Spectator Australia item asks whether an Andy Burnham speech was written by artificial intelligence. It presents the difficulty of distinguishing his speeches from AI-generated text as a test of the technology’s growing influence.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/11/andy-burnham-or-ai-nonsense/",
@@ -456,91 +522,6 @@
           "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/Douglas_GettyImages_2304975381.jpg",
           "imageAlt": "Andy Burnham – or AI nonsense?",
           "imageCredit": "Spectator Australia"
-        },
-        {
-          "title": "Is the Australian Dream easier overseas? Three stories from Berlin",
-          "summary": "Three Australians who moved to Berlin describe finding cheaper housing and greater opportunities than they had at home. Their experiences also show that pursuing a more affordable life overseas can bring trade-offs and leave some connections to Australia difficult to abandon.",
-          "links": [
-            {
-              "url": "https://www.abc.net.au/news/2026-11-22/housing-cost-of-living-australian-dream-move-overseas-berlin/107390924",
-              "source": "ABC Australia",
-              "headline": "Is the Australian Dream easier overseas? Three stories from Berlin",
-              "excerpt": "Ever dreamed of escaping Australia's high cost of living and heading overseas in search of opportunity and a more affordable life? Three Australians moved to Berlin and found cheaper homes and bigger opportunities – but some things are harder to leave behind.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e77f831c0f8a4f3bdd1d6bc24dfc0ea9?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=282&width=862&height=485",
-              "imageAlt": "Is the Australian Dream easier overseas? Three stories from Berlin",
-              "outlet": "ABC News",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/e77f831c0f8a4f3bdd1d6bc24dfc0ea9?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=282&width=862&height=485",
-          "imageAlt": "Is the Australian Dream easier overseas? Three stories from Berlin",
-          "imageCredit": "ABC News"
-        },
-        {
-          "title": "The politics of sandpapergate - podcast",
-          "summary": "A Guardian podcast contrasts Victoria’s Big Build royal commission with a newly announced forum examining who knew about the Australian cricket team’s use of sandpaper on the ball in 2018. Tony Barry and Barrie Cassidy also discuss early Victorian voting and Prime Minister Anthony Albanese’s summit travel.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/australia-news/audio/2026/nov/21/the-politics-of-sandpapergate-back-to-back-barries-podcast",
-              "source": "The Guardian Australia",
-              "headline": "The politics of sandpapergate - podcast",
-              "excerpt": "As early polls open in Victoria, Tony Barry and Barrie Cassidy kick off by taking a look at the Big Build royal commission. They contrast this inquiry with another investigation making headlines this week – the newly announced forum into who in the Australian cricket team knew sandpaper was being used on the ball back in 2018. They also examine the prime minister’s summit blitz and wonder whether Albanese is relieved to be far away from Victorian Labor<",
-              "imageUrl": "https://i.guim.co.uk/img/media/c0eafecd02c1544567ad7de41b4ed4fad72e70c4/625_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=e785e235fd456445e2ffbcd1697a642b",
-              "imageAlt": "The politics of sandpapergate - podcast",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/c0eafecd02c1544567ad7de41b4ed4fad72e70c4/625_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=e785e235fd456445e2ffbcd1697a642b",
-          "imageAlt": "The politics of sandpapergate - podcast",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "‘Yalta 2.0’ was more symbolism than substance",
-          "summary": "A Spectator Australia commentary argues that Vladimir Putin had a successful APEC summit in Shenzhen despite not receiving a tarmac embrace from Xi Jinping. It characterises the prospect of a new “Yalta” moment as more symbolic than substantive.",
-          "links": [
-            {
-              "url": "https://www.spectator.com.au/2026/11/a-job-well-done-for-putin-in-shenzhen/",
-              "source": "Spectator Australia",
-              "headline": "A job well done for Putin in Shenzhen",
-              "excerpt": "He may not have got a hug on the tarmac from Xi Jinping, but it’s been a good APEC summit… The post A job well done for Putin in Shenzhen appeared first on The Spectator Australia . What to read next: Putin will not get his Yalta momen",
-              "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2305284602_e1795096060315.jpg",
-              "imageAlt": "A job well done for Putin in Shenzhen",
-              "outlet": "Spectator Australia",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2305284602_e1795096060315.jpg",
-          "imageAlt": "A job well done for Putin in Shenzhen",
-          "imageCredit": "Spectator Australia"
         }
       ]
     },
@@ -549,7 +530,7 @@
       "stories": [
         {
           "title": "Here are the top AI agents that can live in your text messages",
-          "summary": "TechCrunch has compiled a list of notable AI agents that operate through text messages. The services range from general-purpose assistants to agents designed for families, travel and work.",
+          "summary": "TechCrunch compiled a list of notable AI agents that operate through text messages. The selections range from general assistants to specialised agents for families, travel and work.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -577,7 +558,7 @@
         },
         {
           "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-          "summary": "The Verge reports that its preferred earbuds for phone calls have fallen to their lowest recorded price. The featured product is Soundcore’s Liberty 5 Pro earbuds, described as the company’s most ambitious earbuds to date.",
+          "summary": "The Verge reports that its preferred earbuds for phone calls have dropped to their lowest recorded price. The featured Soundcore Liberty 5 Pro are described as Soundcore’s most ambitious earbuds to date.",
           "links": [
             {
               "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
@@ -604,16 +585,16 @@
           "imageCredit": "The Verge"
         },
         {
-          "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
-          "summary": "People who form romantic attachments to AI companions such as ChatGPT and Gemini can experience intense distress when those relationships end. The Guardian describes breakups that feel strikingly human, including one person who reported shaking, crying and struggling to breathe.",
+          "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+          "summary": "People are forming romantic attachments to AI systems such as ChatGPT and Gemini, and some breakups are producing distress similar to the end of a human relationship. The Guardian recounts the experience of Sónia Veenstra, a former clinical psychologist whose two-year bond with an AI companion named Steve evolved from friendship into what she regarded as a deep romantic relationship.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
               "source": "The Guardian Technology",
-              "headline": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+              "headline": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
               "excerpt": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped Sónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a “fun and witty friend”, but their connection had “evolved into a deep romantic relationship”. They exchanged morning messages, checked in",
               "imageUrl": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=140&quality=85&auto=format&fit=max&s=2239c1be6f4f5d6b422101664e95ad91",
-              "imageAlt": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+              "imageAlt": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
               "outlet": "The Guardian",
               "sourceBias": "Lean Left",
               "sourceReliability": "high",
@@ -628,12 +609,12 @@
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
           "imageUrl": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=140&quality=85&auto=format&fit=max&s=2239c1be6f4f5d6b422101664e95ad91",
-          "imageAlt": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+          "imageAlt": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
           "imageCredit": "The Guardian"
         },
         {
           "title": "International UN talks on controlling use of autonomous weapons collapse",
-          "summary": "Week-long UN talks in Geneva failed to establish a mandate for negotiating a legally binding treaty on autonomous weapons. The Guardian reports that an overwhelming majority of states at the Convention on Certain Conventional Weapons supported negotiations, but Russian objections blocked agreement after all-night discussions.",
+          "summary": "UN talks in Geneva failed to establish a mandate for negotiating a legally binding treaty on autonomous weapons. The week-long effort at the Convention on Certain Conventional Weapons collapsed after overnight negotiations could not overcome Russian objections, despite support from an overwhelming majority of participating states.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
@@ -661,7 +642,7 @@
         },
         {
           "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
-          "summary": "Prominent Silicon Valley executives are softening previously hardline right-wing positions as they anticipate an influx of Democrats. The Guardian highlights Elon Musk, who once called himself “dark, gothic Maga” but now says he is unsure what Maga means and feels foolish about his spending.",
+          "summary": "Silicon Valley executives are softening previously hardline political positions as they anticipate an influx of Democrats after a “blue wave.” The Guardian points to Elon Musk, who moved from describing himself as “dark, gothic Maga” two years ago to saying he was not sure what Maga meant and felt foolish about spending so much.",
           "links": [
             {
               "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
@@ -694,7 +675,7 @@
       "stories": [
         {
           "title": "Baguio mural traces Cordillera heritage, calls for cultural stewardship",
-          "summary": "A mixed-media mural celebrating Cordillera ancestral traditions, cultural symbols and Baguio landmarks was unveiled at the Venus Parkview Hotel on Kisad Road. Titled “Pinaing: Memory, Identity, and Living Traditions,” the work promotes stewardship and preservation of the region’s cultural identity.",
+          "summary": "A mixed-media mural celebrating Cordillera ancestral traditions, cultural symbols and Baguio landmarks was unveiled at the Venus Parkview Hotel on Kisad Road. Titled “Pinaing: Memory, Identity, and Living Traditions,” the work is intended to promote preservation of the region’s cultural identity.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2344882/baguio-mural-traces-cordillera-heritage-calls-for-cultural-stewardship",
@@ -721,36 +702,64 @@
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "BARMM cops arrest 5, seize P7.9-M smuggled cigarettes",
-          "summary": "Authorities arrested five suspected smugglers and seized more than ₱7.9 million worth of cigarettes during a joint seaborne patrol off Tahaw in Languyan, Tawi-Tawi. The Police Regional Office in the Bangsamoro Autonomous Region said the operation took place on November 19.",
+          "title": "UN chief Guterres marvels at Ifugao rice terraces",
+          "summary": "UN Secretary-General António Guterres praised Ifugao’s centuries-old rice terraces and local traditions during a two-day provincial visit. The trip followed his attendance at the 49th ASEAN Summit in Manila, according to the regional Department of Tourism.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2344692/barmm-cops-arrest-5-seize-p7-9-m-smuggled-cigarettes",
+              "url": "https://newsinfo.inquirer.net/2345022/un-chief-guterres-marvels-at-ifugao-rice-terraces",
               "source": "Philippine Daily Inquirer",
-              "headline": "BARMM cops arrest 5, seize P7.9-M smuggled cigarettes",
-              "excerpt": "COTABATO CITY — Authorities in Tawi-Tawi arrested five suspected smugglers and seized over P7.9 million worth of smuggled cigarettes during a joint law enforcement seaborne patrol in the coastal waters of Tahaw, Languyan, Tawi-Tawi on Thursday, Nov. 19. Brig. Gen. Christopher Abecia, regional director of Police Regional Office-Bangsamoro Autonomous Region (PRPO-BAR), said the operation was",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2024/06/CIGARETTES-MUGGLING-stock-17June2024.png",
-              "imageAlt": "BARMM cops arrest 5, seize P7.9-M smuggled cigarettes",
+              "headline": "UN chief Guterres marvels at Ifugao rice terraces",
+              "excerpt": "United Nations Secretary General António Guterres expressed admiration for the centuries-old rice terraces and local traditions in Ifugao during a two-day visit to the province following his attendance at the 49th Association of Southeast Asian Nations (Asean) Summit in Manila. According to a statement released by the Department of Tourism-Cordillera Administrative Region (DOT-CAR), Guterres was",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/1334625.jpeg",
+              "imageAlt": "UN chief Guterres marvels at Ifugao rice terraces",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
               "bias": "Center",
               "alignment": "Center",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to), (data|study|report|filing|statement|interview|confirmed|verified)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2024/06/CIGARETTES-MUGGLING-stock-17June2024.png",
-          "imageAlt": "BARMM cops arrest 5, seize P7.9-M smuggled cigarettes",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/1334625.jpeg",
+          "imageAlt": "UN chief Guterres marvels at Ifugao rice terraces",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Ilocos Sur barangay councilor arrested in drug, firearms ops",
+          "summary": "Police arrested a 47-year-old barangay councilor in Barangay San Lucas, Magsingal, after serving search warrants tied to alleged drug and firearms offences. Authorities classified the councilor as a high-value suspect, according to the officer in charge of the Magsingal Municipal Police Station.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2344831/ilocos-sur-barangay-councilor-arrested-in-drug-firearms-ops",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Ilocos Sur barangay councilor arrested in drug, firearms ops",
+              "excerpt": "SAN ILDEFONSO, Ilocos Sur, Philippines – Police arrested a 47-year-old barangay councilor classified as a high-value suspect after serving search warrants for allegedly violating anti-drug and firearms laws in Barangay San Lucas, Magsingal, Ilocos Sur, on Friday, Nov. 20. According to Capt. Melvin Trinidad, officer-in-charge of the Magsingal Municipal Police Station, the Ilocos Sur Provincial",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Barangay-councilor-arrested-in-Ilocos-Sur-drug-firearms-operations-21November2026_3.jpg",
+              "imageAlt": "Ilocos Sur barangay councilor arrested in drug, firearms ops",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/Barangay-councilor-arrested-in-Ilocos-Sur-drug-firearms-operations-21November2026_3.jpg",
+          "imageAlt": "Ilocos Sur barangay councilor arrested in drug, firearms ops",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
           "title": "Technovation Manila highlights science, innovation behind smoke-free progress",
-          "summary": "PMFTC, the Philippine affiliate of Philip Morris International, convened policy experts, scientists, health specialists and industry leaders for a “Technovation: Smoke-Free” summit in Pasay City. The November 10 event focused on tobacco-harm reduction, product innovation and consumer issues.",
+          "summary": "PMFTC, the Philippine affiliate of Philip Morris International, convened policy specialists, scientists, health experts and industry leaders for a “Technovation: Smoke-Free by PMFTC” summit in Pasay City. The November 10 event provided a forum for discussion of tobacco harm reduction, product innovation and consumers.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2344829/technovation-manila-highlights-science-innovation-behind-smoke-free-progress",
@@ -778,7 +787,7 @@
         },
         {
           "title": "Solon lauds signing of Basic Education Voucher Assistance Act",
-          "summary": "President Ferdinand Marcos Jr. signed the Basic Education Voucher Assistance Act, Republic Act No. 12327, after its passage by Congress. Tingog Party-list Rep. Jude Acidre welcomed the law, which establishes a government-funded voucher program intended to expand access to basic education.",
+          "summary": "Tingog Party-list Rep. Jude Acidre welcomed President Ferdinand Marcos Jr.’s signing of the Basic Education Voucher Assistance Act. Republic Act No. 12327 establishes a government-funded voucher program intended to broaden Filipino students’ access to quality basic education after the measure passed Congress.",
           "links": [
             {
               "url": "https://newsinfo.inquirer.net/2344812/solon-lauds-signing-of-basic-education-voucher-assistance-act",
@@ -803,34 +812,6 @@
           "imageUrl": "https://newsinfo.inquirer.net/files/2026/01/Jude-Acidre-19January2026.jpg",
           "imageAlt": "Solon lauds signing of Basic Education Voucher Assistance Act",
           "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Civil society watchdog probes stalled Naga City Convention Center",
-          "summary": "The Philippine Anti-Corruption Czar, a civil-society watchdog, is investigating the stalled Naga City Convention Center in Barangay Carolina. A November 15 inspection prompted by citizen complaints found rusting steel structures and vegetation covering the project site.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2344822/civil-society-watchdog-probes-stalled-naga-city-convention-center",
-              "source": "Philippine Daily Inquirer",
-              "headline": "Civil society watchdog probes stalled Naga City Convention Center",
-              "excerpt": "NAGA CITY, Philippines — The Philippine Anti-Corruption Czar (PACC), a civil society watchdog, is investigating the stalled construction of the Naga City Convention Center in Barangay Carolina after an inspection revealed rusting steel structures and vegetation covering the project site. The inspection, conducted on Nov. 15, followed complaints from concerned citizens. It was carried out",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/PACC-probes-stalled-P97-9-M-Naga-convention-center-21November2026.jpg",
-              "imageAlt": "Civil society watchdog probes stalled Naga City Convention Center",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/PACC-probes-stalled-P97-9-M-Naga-convention-center-21November2026.jpg",
-          "imageAlt": "Civil society watchdog probes stalled Naga City Convention Center",
-          "imageCredit": "Philippine Daily Inquirer"
         }
       ]
     },
@@ -839,7 +820,7 @@
       "stories": [
         {
           "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-          "summary": "A transcription company used by police, prosecutors and major technology firms exposed customer data on an online cloud server without a password. TechCrunch reports that the material included transcripts of police interviews and body-camera footage.",
+          "summary": "A transcription provider used by police, prosecutors and technology companies exposed customer data on an online cloud server. TechCrunch reports that the server lacked password protection and contained transcriptions of police interviews and body-camera footage.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
@@ -867,7 +848,7 @@
         },
         {
           "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
-          "summary": "Engineers are racing to reproduce the dexterity of human hands in robots, a capability that has long limited how widely AI-powered machines can replace human work. The Guardian examines the technical challenge and the fear that success could accelerate automation and job displacement.",
+          "summary": "Engineers are racing to reproduce the dexterity of human hands, a longstanding obstacle to robots taking over a wider range of jobs. The Guardian examines that effort against the backdrop of warehouse automation, including digitally coordinated shelving systems at a large Amazon facility near Luton.",
           "links": [
             {
               "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
@@ -895,7 +876,7 @@
         },
         {
           "title": "Parents: please don’t buy Grand Theft Auto VI for your child",
-          "summary": "Grand Theft Auto VI is an adults-only crime game containing explicit sex, drug use and violence, according to the Guardian. The article urges parents not to buy the 18-rated game for children despite its appeal and critical strengths.",
+          "summary": "The Guardian argues that parents should not buy Grand Theft Auto VI for children because the Rockstar Games title is rated 18 and contains explicit sex, drugs and violence. The writer calls it a brilliant criminal caper but also the most explicit game they have played.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
@@ -923,7 +904,7 @@
         },
         {
           "title": "Bank your stolen cash, bring a change of clothes, go easy on the bloodshed: 15 tips for playing Grand Theft Auto VI",
-          "summary": "Grand Theft Auto VI’s vast Leonida setting and dense opening hours can overwhelm players with information. The Guardian offers 15 practical tips, including banking stolen cash, carrying a change of clothes and limiting bloodshed, to make the game easier to navigate and enjoy.",
+          "summary": "The Guardian offers 15 tips for navigating Grand Theft Auto VI’s vast Leonida setting. The advice includes banking stolen cash, carrying a change of clothes and limiting bloodshed to make the game’s dense opening hours easier to absorb and enjoy.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/nov/19/tips-for-playing-grand-theft-auto-vi",
@@ -951,7 +932,7 @@
         },
         {
           "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-          "summary": "Australia’s music industry says it will reject a proposed AI-scraping exemption that protects musicians while leaving other creative sectors outside the deal. The Australian Recording Industry Association’s chief executive called the reported special treatment unworkable and described it as a “divide and conquer” approach.",
+          "summary": "Australia’s music industry has rejected a reported proposal to exempt musicians from AI scraping while leaving other creative sectors outside the deal. The head of Aria called that special treatment unworkable, and the industry said it would not accept a carveout that divided creators.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
