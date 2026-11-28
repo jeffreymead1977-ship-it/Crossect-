@@ -2,24 +2,24 @@
   "id": "2026-11-28-expanded",
   "date": "2026-11-28",
   "title": "Daily Source Digest",
-  "generatedAt": "2026-11-28T03:00:35.382824",
+  "generatedAt": "2026-11-28T12:30:34.866768",
   "note": "Daily source-balanced news digest — morning update.",
-  "updatedAt": "2026-11-28T03:00:35",
+  "updatedAt": "2026-11-28T12:30:34",
   "sections": [
     {
       "name": "World / Geopolitics",
       "stories": [
         {
-          "title": "Pakistan hosts defense talks with Saudi Arabia and Turkey under Mecca pact",
-          "summary": "Pakistan, Saudi Arabia and Turkey held talks in Islamabad on Middle East developments, including attacks on Saudi Arabia by Yemen's Iran-backed Houthi rebels. Officials from the three countries pledged to protect the kingdom's security, while the BBC reported that Riyadh's markets and restaurants remained busy despite the strikes.",
+          "title": "Parts of the U.S. clean up, power outages being restored after Thanksgiving storm soaks East Coast",
+          "summary": "Severe Thanksgiving storms brought heavy rain, wind and snow to both U.S. coasts, flooding roads, toppling trees and leaving hundreds of thousands of people without power. By Friday, rain was easing and electricity was gradually being restored, although some East Coast communities remained alert for high-tide flooding.",
           "links": [
             {
-              "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+              "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
-              "excerpt": "Officials from Pakistan, Saudi Arabia and Turkiye pledge to protect the kingdom's security during talks in Islamabad.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T174040Z_425394469_RC2HWOAU45OQ_RTRMADP_3_SAUDI-DEFENCE-AGREEMENT-1-1795806164.jpg?resize=1920%2C1440",
-              "imageAlt": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+              "headline": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+              "excerpt": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331673311397-1795832472.jpg?resize=1920%2C1440",
+              "imageAlt": "Parts of US clean up after Thanksgiving storm lashes East Coast",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
@@ -32,12 +32,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-              "excerpt": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
-              "imageAlt": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+              "headline": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+              "excerpt": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/b600e9f0-ea81-11f1-a094-5fdc692f3e33.jpg",
+              "imageAlt": "Severe Thanksgiving storms leave roads flooded and trees fallen",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -51,105 +51,104 @@
               "quality": "Public broadcaster"
             },
             {
-              "url": "https://www.washingtontimes.com/news/2026/nov/27/pakistan-hosting-defense-talks-saudi-arabia-turkey-mecca-pact/",
+              "url": "https://www.washingtontimes.com/news/2026/nov/27/parts-us-clean-power-outages-slowly-restored-thanksgiving-storm-soaks/",
               "source": "Washington Times",
-              "headline": "Pakistan hosts defense talks with Saudi Arabia and Turkey under Mecca pact",
-              "excerpt": "Pakistan, Saudi Arabia and Turkey are holding talks on Friday to discuss developments in the Middle East, including ongoing attacks on Saudi Arabia by Yemen's Iran-backed Houthi rebels, two security officials said.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/27/Pakistan_ECO_Meeting_44312_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "Pakistan hosts defense talks with Saudi Arabia and Turkey under Mecca pact",
+              "headline": "Parts of the U.S. clean up, power outages being restored after Thanksgiving storm soaks East Coast",
+              "excerpt": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers as some places stayed on guard for high-tide flooding following a round of holiday storms.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/27/APTOPIX_New_Jersey_Extreme_Weather_11397_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Parts of the U.S. clean up, power outages being restored after Thanksgiving storm soaks East Coast",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
               "bias": "Lean Right",
               "alignment": "Lean Right",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T174040Z_425394469_RC2HWOAU45OQ_RTRMADP_3_SAUDI-DEFENCE-AGREEMENT-1-1795806164.jpg?resize=1920%2C1440",
-          "imageAlt": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331673311397-1795832472.jpg?resize=1920%2C1440",
+          "imageAlt": "Parts of US clean up after Thanksgiving storm lashes East Coast",
           "imageCredit": "Al Jazeera"
         },
         {
-          "title": "Zelensky chides the Trump-Putin friendship as ‘strange’",
-          "summary": "Ukrainian President Volodymyr Zelensky called President Donald Trump's friendship with Russian President Vladimir Putin “strange” in a BBC interview. He also voiced frustration that the United States was not pushing Russia hard enough in peace talks aimed at ending the war.",
+          "title": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from ‘Air and Sea’",
+          "summary": "U.S. Central Command said American forces disabled a commercial vessel in the Gulf of Oman after it left an Iranian port and ignored warnings to stop under the blockade of Iranian ports. Tehran subsequently threatened military action from the air and sea, according to the linked reports.",
           "links": [
             {
-              "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC World",
-              "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-              "excerpt": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
-              "imageAlt": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-              "outlet": "BBC",
-              "sourceBias": "Center",
-              "sourceReliability": "high",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2",
-              "quality": "Public broadcaster"
-            },
-            {
-              "url": "https://www.washingtonexaminer.com/news/world/4816476/zelensky-trump-putin-friendship-russia-ukraine-war/",
-              "source": "Washington Examiner",
-              "headline": "Zelensky chides the Trump-Putin friendship as ‘strange’",
-              "excerpt": "Ukrainian President Volodymyr Zelensky called President Donald Trump’s friendship with Russian President Vladimir Putin “strange” in a BBC interview that was published Friday. Trump made headlines last week when he called Putin his “friend” during a trip to the Asia-Pacific Economic Cooperation summit in Shenzhen, China, where he held an unprecedented trilateral meeting with the […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/AP26104392160765.jpg?w=1024",
-              "imageAlt": "Zelensky chides the Trump-Putin friendship as ‘strange’",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
-          "imageAlt": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-          "imageCredit": "BBC"
-        },
-        {
-          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-          "summary": "Canada's top court largely upheld Quebec's ban on public servants including teachers and police wearing religious symbols such as hijabs and turbans at work. Muslim, Sikh and Catholic teachers were among those who challenged the law on the ground that it violated fundamental rights.",
-          "links": [
-            {
-              "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
               "source": "Al Jazeera",
-              "headline": "Canada’s top court largely upholds Quebec’s religious symbols ban",
-              "excerpt": "Quebec’s ban on teachers and police wearing religious symbols such as hijabs and turbans on the job remains in place.",
-              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2020/10/2019-06-17T232122Z_1159317181_RC17A021DBA0_RTRMADP_3_CANADA-QUEBEC-RELIGION-1.jpg?resize=1920%2C1440",
-              "imageAlt": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+              "headline": "US disables ship attempting to breach Iran blockade",
+              "excerpt": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80",
+              "imageAlt": "US disables ship attempting to breach Iran blockade",
               "outlet": "Al Jazeera",
               "sourceBias": "Lean Left",
               "sourceReliability": "medium",
               "bias": "Lean Left",
               "alignment": "Lean Left",
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+              "url": "https://www.breitbart.com/politics/2026/11/27/u-s-disables-ship-attempting-to-breach-iran-blockade-tehran-threatens-military-action-from-air-and-sea/",
+              "source": "Breitbart",
+              "headline": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from ‘Air and Sea’",
+              "excerpt": "U.S. forces struck and disabled a commercial vessel attempting to breach the naval blockade of Iranian ports, U.S. Central Command (CENTCOM) announced Friday, as Tehran threatened military action from “the air and sea.” The post U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Acti",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/Vessel-Attempts-to-Breach-Strait-of-Hormuz-640x335.jpeg",
+              "imageAlt": "U.S. Disables Ship Attempting to Breach Iran Blockade — Tehran Threatens Military Action from ‘Air and Sea’",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/27/us-military-says-disabled-another-ship-attempted-breach-naval/",
+              "source": "Washington Times",
+              "headline": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+              "excerpt": "The U.S. military has disabled a merchant ship in the Gulf of Oman that was trying to run its blockade of Iranian ports, U.S. Central Command said Friday.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/18/Iran_Strait_of_Hormuz_92767_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80",
+          "imageAlt": "US disables ship attempting to breach Iran blockade",
+          "imageCredit": "Al Jazeera"
+        },
+        {
+          "title": "Kenya cult leader found guilty of manslaughter of over 100 followers asked to starve to meet Jesus",
+          "summary": "Kenyan cult leader Paul Mackenzie was found guilty of manslaughter over the starvation deaths of 123 followers. The Good News International Church founder was already serving a 200-year sentence and had recently been jailed over the mass murder of children.",
+          "links": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
               "source": "BBC World",
-              "headline": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-              "excerpt": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
-              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
-              "imageAlt": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+              "headline": "Kenyan doomsday cult leader convicted over further 123 deaths",
+              "excerpt": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+              "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
+              "imageAlt": "Kenyan doomsday cult leader convicted over further 123 deaths",
               "outlet": "BBC",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -158,19 +157,55 @@
               "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
               "confidence": "high",
               "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text raises reliability: (public broadcaster|regulator|court|ministry|department)",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
               "ratingMethod": "deterministic-local-article-heuristic-v2",
               "quality": "Public broadcaster"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/27/kenya-cult-leader-found-guilty-manslaughter-100-followers-asked/",
+              "source": "Washington Times",
+              "headline": "Kenya cult leader found guilty of manslaughter of over 100 followers asked to starve to meet Jesus",
+              "excerpt": "Kenyan cult leader Paul Mackenzie was on Friday found guilty of the manslaughter of 123 of his followers, the latest in a series of convictions against him for the deaths of hundreds of his followers.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/06/Kenya_Cult_Leader_95811_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Kenya cult leader found guilty of manslaughter of over 100 followers asked to starve to meet Jesus",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+              "source": "Al Jazeera",
+              "headline": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+              "excerpt": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+              "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b09fbef6bcd-1795816431.jpg?resize=1920%2C1440",
+              "imageAlt": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+              "outlet": "Al Jazeera",
+              "sourceBias": "Lean Left",
+              "sourceReliability": "medium",
+              "bias": "Company",
+              "alignment": "Company",
+              "alignmentBasis": "article-text: company provenance cue(s): (ceo|founder|investors|funding round|acquisition|merger)",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2020/10/2019-06-17T232122Z_1159317181_RC17A021DBA0_RTRMADP_3_CANADA-QUEBEC-RELIGION-1.jpg?resize=1920%2C1440",
-          "imageAlt": "Canada’s top court largely upholds Quebec’s religious symbols ban",
-          "imageCredit": "Al Jazeera"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
+          "imageAlt": "Kenyan doomsday cult leader convicted over further 123 deaths",
+          "imageCredit": "BBC"
         },
         {
           "title": "Review: 'Barry' takes a whack at its farewell season",
-          "summary": "The fourth and final season of “Barry” begins with its hitman-turned-aspiring actor under arrest. CNN's review describes a darker, more ensemble-focused season, while arguing that it leans too heavily on flights of fancy and blurred lines.",
+          "summary": "The fourth and final season of “Barry” begins with its hitman-turned-aspiring actor under arrest, continuing the risks taken by the series from its outset. CNN’s review says the season grows darker and gives more weight to the ensemble, but leans too heavily on blurred reality and flights of fancy.",
           "links": [
             {
               "url": "https://www.cnn.com/2023/04/14/entertainment/barry-season-4-review/index.html",
@@ -197,9 +232,191 @@
           "imageCredit": "CNN"
         },
         {
-          "title": "Republican Senator Discloses Her Husband Committed Suicide",
-          "summary": "Senator Deb Fischer's office said her husband, Bruce Fischer, died by suicide, revising an earlier announcement that he had died peacefully at home. Reports said the update followed further investigation, and the family asked for understanding.",
+          "title": "NBC pulls controversial ad aired during SNL following backlash from Jewish groups",
+          "summary": "NBC pulled a paid advocacy advertisement that aired during its Thanksgiving-themed “Saturday Night Live” special after Jewish groups condemned it as antisemitic. The linked reports describe the spot as anti-Israel and identify its sponsor as a Middle East-focused advocacy organisation; FCC chair Brendan Carr confirmed that NBC would stop airing it.",
           "links": [
+            {
+              "url": "https://www.dailywire.com/news/nbc-took-the-check-and-aired-a-blood-libel-against-israel",
+              "source": "Daily Wire",
+              "headline": "NBC Took The Check — And Aired A Blood Libel Against Israel",
+              "excerpt": "On the eve of Thanksgiving, while American families gathered around the table, NBC decided to serve up pure poison. The network ran a paid advocacy ad from the Institute for Middle East Understanding Policy Project during its “Saturday Night Live” Thanksgiving special that effectively accused Israel, and by extension American taxpayers, of deliberately maiming Palestinian ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2289912849.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "NBC Took The Check — And Aired A Blood Libel Against Israel",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/media/nbc-pulls-controversial-anti-israel-ad-after-igniting-fury-from-jewish-groups",
+              "source": "Fox News",
+              "headline": "NBC pulls controversial anti-Israel ad after igniting fury from Jewish groups",
+              "excerpt": "NBC pulled a controversial anti-Israel ad that aired during a primetime \"Saturday Night Live\" Thanksgiving special, sparking backlash among Jewish groups.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/NBC-Building.jpg?ve=1&tl=1",
+              "imageAlt": "NBC pulls controversial anti-Israel ad after igniting fury from Jewish groups",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/news/entertainment/4816770/nbc-pulls-controversial-ad-backlash-jewish-groups/",
+              "source": "Washington Examiner",
+              "headline": "NBC pulls controversial ad aired during SNL following backlash from Jewish groups",
+              "excerpt": "NBC is pulling a controversial advertisement that aired during a Thanksgiving-themed Saturday Night Live special after Jewish advocacy groups condemned the spot as antisemitic. Federal Communications Commission Chairman Brendan Carr confirmed that NBC decided to stop airing the advertisement, which was paid for by the Washington-based Middle East Institute, a nonprofit organization focused on providing […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26298641579305.jpg?w=1024",
+              "imageAlt": "NBC pulls controversial ad aired during SNL following backlash from Jewish groups",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (data|study|report|filing|statement|interview|confirmed|verified)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtontimes.com/news/2026/nov/27/nbc-yanks-controversial-anti-israel-ad/",
+              "source": "Washington Times",
+              "headline": "NBC yanks controversial anti-Israel ad",
+              "excerpt": "NBC has pulled an anti-Israel commercial that ran on the \"Saturday Night Live\" Thanksgiving special and that sparked heavy backlash from critics calling it antisemitic.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2019/09/17/NBC-Peacock_91695.jpg-a1268_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "NBC yanks controversial anti-Israel ad",
+              "outlet": "Washington Times",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2289912849.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+          "imageAlt": "NBC Took The Check — And Aired A Blood Libel Against Israel",
+          "imageCredit": "Daily Wire"
+        },
+        {
+          "title": "American Airlines Jet Clips Another At Reagan National, Breaking Off Piece Of Wing",
+          "summary": "Two American Airlines Boeing 737s clipped wings while taxiing for departure at Reagan National Airport on Friday evening. Both aircraft returned to their gates, an arriving plane aborted its landing, and the Federal Aviation Administration said it would investigate.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/economy/2026/11/27/two-american-airlines-planes-clip-wings-reagan-national-airport/",
+              "source": "Breitbart",
+              "headline": "Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport",
+              "excerpt": "One American Airlines plane clipped the wing of another on Friday evening while both were taxiing on the tarmac at Reagan National Airport in Washington, DC. The post Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/American-Airlines-airplanes-Ronald-Reagan-Washington-National-Airport-Nov7-26-getty-640x335.jpg",
+              "imageAlt": "Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.dailywire.com/news/american-airlines-jet-clips-another-at-reagan-national-breaking-off-piece-of-wing",
+              "source": "Daily Wire",
+              "headline": "American Airlines Jet Clips Another At Reagan National, Breaking Off Piece Of Wing",
+              "excerpt": "Two American Airlines jets clipped wings on the ground at Ronald Reagan Washington National Airport on Friday evening, as one aircraft clipped the wing of another while taxiing for departure, according to the Federal Aviation Administration (FAA). The collision occurred at approximately 5:10 p.m. ET. The FAA identified the jets involved as Dallas-bound American Airlines ...",
+              "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2303978925.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+              "imageAlt": "American Airlines Jet Clips Another At Reagan National, Breaking Off Piece Of Wing",
+              "outlet": "Daily Wire",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.foxnews.com/us/american-airlines-planes-clip-wings-busy-holiday-travel-weekend-reagan-national-dc",
+              "source": "Fox News",
+              "headline": "American Airlines planes clip wings during busy holiday travel weekend at Reagan National in DC",
+              "excerpt": "The FAA will investigate after two American Airlines Boeing 737s clipped wings at Reagan National Airport in Washington, D.C., sending both back to gates.",
+              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dca-american-planes.png?ve=1&tl=1",
+              "imageAlt": "American Airlines planes clip wings during busy holiday travel weekend at Reagan National in DC",
+              "outlet": "Fox News",
+              "sourceBias": "Right",
+              "sourceReliability": "medium",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
+            {
+              "url": "https://www.washingtonexaminer.com/travel/4816749/american-airlines-planes-clip-wings-washington-national-airport/",
+              "source": "Washington Examiner",
+              "headline": "Two American Airlines planes clip wings at Reagan National Airport",
+              "excerpt": "Two American Airlines planes clipped wings while preparing for departure at Ronald Reagan Washington National Airport on Friday evening, prompting an arriving aircraft to abort its landing. Dallas-bound American Airlines Flight 638 struck the wing of Chicago-bound Flight 2152 at approximately 5:10 p.m. near Runway 19, according to the Federal Aviation Administration. An airport spokesperson […]",
+              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26318479707595.jpg?w=1024",
+              "imageAlt": "Two American Airlines planes clip wings at Reagan National Airport",
+              "outlet": "Washington Examiner",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "medium",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://media.breitbart.com/media/2026/11/American-Airlines-airplanes-Ronald-Reagan-Washington-National-Airport-Nov7-26-getty-640x335.jpg",
+          "imageAlt": "Two American Airlines Planes Clip Wings on Tarmac at Reagan National Airport",
+          "imageCredit": "Breitbart"
+        },
+        {
+          "title": "Republican Senator Discloses Her Husband Committed Suicide",
+          "summary": "Nebraska Republican senator Deb Fischer said her husband, Bruce Fischer, died by suicide after she had initially announced that he passed away peacefully while outdoors. He was 76, according to the Washington Times report.",
+          "links": [
+            {
+              "url": "https://www.breitbart.com/health/2026/11/27/republican-senator-deb-fischers-husband-bruce-dies-by-suicide-a-sad-update/",
+              "source": "Breitbart",
+              "headline": "Republican Senator Deb Fischer's Husband, Bruce, Dies by Suicide: 'a Sad Update'",
+              "excerpt": "Sen. Deb Fischer's (R-NE) office on Friday updated information about her husband's recent death, stating he took his own life. The post Republican Senator Deb Fischer’s Husband, Bruce, Dies by Suicide: ‘a Sad Update’ appeared first on Breitbart .",
+              "imageUrl": "https://media.breitbart.com/media/2026/11/AP26043689405071-640x335.png",
+              "imageAlt": "Republican Senator Deb Fischer's Husband, Bruce, Dies by Suicide: 'a Sad Update'",
+              "outlet": "Breitbart",
+              "sourceBias": "Right",
+              "sourceReliability": "low",
+              "bias": "Right",
+              "alignment": "Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
+              "confidence": "low",
+              "reliability": "low",
+              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            },
             {
               "url": "https://www.dailywire.com/news/republican-senator-discloses-her-husband-committed-suicide",
               "source": "Daily Wire",
@@ -219,76 +436,12 @@
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             },
             {
-              "url": "https://www.washingtonexaminer.com/news/senate/4816538/deb-fischer-husband-suicide/",
-              "source": "Washington Examiner",
-              "headline": "Sen. Deb Fischer’s husband died by suicide, her office announces",
-              "excerpt": "Sen. Deb Fischer (R-NE) announced Friday that her husband, Bruce Fischer, died by suicide in an update posted on social media. “There has been a sad update in the death of Senator Fischer’s husband, Bruce,” Fischer’s spokesperson said. “Initially, it was believed that Bruce passed peacefully at home. Upon further investigation, it was learned that […]",
-              "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2024/11/JD-Vance-NH.webp?w=1024",
-              "imageAlt": "Sen. Deb Fischer’s husband died by suicide, her office announces",
-              "outlet": "Washington Examiner",
-              "sourceBias": "Lean Right",
-              "sourceReliability": "medium",
-              "bias": "Lean Right",
-              "alignment": "Lean Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.foxnews.com/politics/gop-senator-shares-tragic-update-about-husbands-death",
-              "source": "Fox News",
-              "headline": "GOP senator shares tragic update about husband's death",
-              "excerpt": "Sen. Deb Fischer's office says Bruce Fischer died by suicide, revising the belief he passed peacefully at home as the family asks for understanding.",
-              "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/deb-fischer.jpg?ve=1&tl=1",
-              "imageAlt": "GOP senator shares tragic update about husband's death",
-              "outlet": "Fox News",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Company",
-              "alignment": "Company",
-              "alignmentBasis": "article-text: company provenance cue(s): (company|startup|earnings|shares|stock|ipo|product launch|quarterly results)",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://dw-wp-production.imgix.net/2026/11/GettyImages-2222118652.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-          "imageAlt": "Republican Senator Discloses Her Husband Committed Suicide",
-          "imageCredit": "Daily Wire"
-        },
-        {
-          "title": "Trump Tells U.S. Troops Victory over Iran Is ‘at Hand’: Tehran Has ‘Every Chance’ to Make Deal",
-          "summary": "President Donald Trump told American troops during Thanksgiving calls that the United States had a “victory at hand” in the war against Iran. He said Tehran was being given every chance to reach a deal and save lives, while questioning whether it would take the opportunity.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/11/26/trump-u-s-troops-victory-iran-hand/",
-              "source": "Breitbart",
-              "headline": "Trump Tells U.S. Troops Victory over Iran Is ‘at Hand’: Tehran Has ‘Every Chance’ to Make Deal",
-              "excerpt": "President Donald Trump told American troops during a Thanksgiving call Thursday that victory over Iran was “at hand,” saying his administration was giving Tehran “every chance to make a deal and save a lot of lives” but questioning whether the regime would seize the opportunity. The post Trump Tells U.S. Troops Victory over Iran Is ‘at Hand’: Tehran Has ‘Every Chance’ to Make Deal",
-              "imageUrl": "https://media.breitbart.com/media/2025/11/nov14-2025-President-Donald-Trump-whflickr-640x335.jpg",
-              "imageAlt": "Trump Tells U.S. Troops Victory over Iran Is ‘at Hand’: Tehran Has ‘Every Chance’ to Make Deal",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.washingtontimes.com/news/2026/nov/26/trump-phones-troops-thanksgiving-victory-hand-iran/",
+              "url": "https://www.washingtontimes.com/news/2026/nov/27/sen-deb-fischers-husband-died-suicide/",
               "source": "Washington Times",
-              "headline": "'We have a victory at hand' over Iran, Trump says during Thanksgiving calls to troops",
-              "excerpt": "President Trump said Thursday that the U.S. has a \"victory at hand\" in the war against Iran.",
-              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2026/11/26/AP26331009221107_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-              "imageAlt": "'We have a victory at hand' over Iran, Trump says during Thanksgiving calls to troops",
+              "headline": "Sen. Deb Fischer's husband died by suicide",
+              "excerpt": "Sen. Deb Fischer's husband, Bruce Fischer, died by suicide, a spokesperson for the Nebraska Republican said Friday. He was 76.",
+              "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2024/10/26/Election_2024_Nebraska_Senate_75729_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+              "imageAlt": "Sen. Deb Fischer's husband died by suicide",
               "outlet": "Washington Times",
               "sourceBias": "Lean Right",
               "sourceReliability": "medium",
@@ -302,54 +455,8 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2025/11/nov14-2025-President-Donald-Trump-whflickr-640x335.jpg",
-          "imageAlt": "Trump Tells U.S. Troops Victory over Iran Is ‘at Hand’: Tehran Has ‘Every Chance’ to Make Deal",
-          "imageCredit": "Breitbart"
-        },
-        {
-          "title": "Trump’s Thanksgiving Roast Comes With Side Of ‘We Miss You Dearly’",
-          "summary": "President Donald Trump's Thanksgiving message thanked American patriots before turning into a lengthy political roast. Reports highlighted his remarks about critics and his reference to the small share of the Somali population that he said had jobs.",
-          "links": [
-            {
-              "url": "https://www.breitbart.com/politics/2026/11/27/trump-thanksgiving-message-thanks-american-patriots-2-of-somalians-that-have-a-job/",
-              "source": "Breitbart",
-              "headline": "Trump Thanksgiving Message Thanks American Patriots, 2% of Somalians 'That Have a Job'",
-              "excerpt": "President Donald Trump issued a Thanksgiving message thanking “AMERICAN PATRIOTS” who have worked hard to make the nation great, and the “two percent of our Somalian population that have a job.” In a post on Truth Social, Trump also referenced The post Trump Thanksgiving Message Thanks American Patriots, 2% of Somalians ‘That Have a",
-              "imageUrl": "https://media.breitbart.com/media/2026/11/Donald-Trump-8-640x335.jpg",
-              "imageAlt": "Trump Thanksgiving Message Thanks American Patriots, 2% of Somalians 'That Have a Job'",
-              "outlet": "Breitbart",
-              "sourceBias": "Right",
-              "sourceReliability": "low",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "low",
-              "reliability": "low",
-              "reliabilityBasis": "source-prior=low; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.dailywire.com/news/trumps-thanksgiving-roast-comes-with-side-of-we-miss-you-dearly",
-              "source": "Daily Wire",
-              "headline": "Trump’s Thanksgiving Roast Comes With Side Of ‘We Miss You Dearly’",
-              "excerpt": "President Donald Trump delivered a lengthy Thanksgiving Day message on Thursday, but it quickly turned into a roast — and almost no one was safe. “HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT!” the president began, after which he immediately turned his attention to those he believed ...",
-              "imageUrl": "https://dw-wp-production.imgix.net/2026/09/GettyImages-2296586210.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
-              "imageAlt": "Trump’s Thanksgiving Roast Comes With Side Of ‘We Miss You Dearly’",
-              "outlet": "Daily Wire",
-              "sourceBias": "Right",
-              "sourceReliability": "medium",
-              "bias": "Right",
-              "alignment": "Right",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Right",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://media.breitbart.com/media/2026/11/Donald-Trump-8-640x335.jpg",
-          "imageAlt": "Trump Thanksgiving Message Thanks American Patriots, 2% of Somalians 'That Have a Job'",
+          "imageUrl": "https://media.breitbart.com/media/2026/11/AP26043689405071-640x335.png",
+          "imageAlt": "Republican Senator Deb Fischer's Husband, Bruce, Dies by Suicide: 'a Sad Update'",
           "imageCredit": "Breitbart"
         }
       ]
@@ -359,7 +466,7 @@
       "stories": [
         {
           "title": "Is Britain ready for war in 1,000 days?",
-          "summary": "The story title asks whether Britain is ready for war within 1,000 days, but the only linked item does not provide supporting material on that question. The linked Spectator Australia excerpt instead argues that Australia's national decline is tied to the condition of its constitutional and political institutions under the Albanese government.",
+          "summary": "The story’s title asks whether Britain could be ready for war within 1,000 days. Its sole linked item, however, is a Spectator Australia commentary arguing that Australia’s national decline is tied to corruption in its constitutional and political institutions, so the supplied source material does not substantiate the Britain-focused premise.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/11/australias-decline-is-accelerating-under-albanese/",
@@ -386,34 +493,16 @@
           "imageCredit": "Spectator Australia"
         },
         {
-          "title": "When, where and how to vote in Victoria’s 2026 state election: what voters need to know on polling day",
-          "summary": "Victorians headed to the polls with Labor seeking a fourth consecutive term and the Liberals hoping to break through after a turbulent term for both parties. The contest also raised the possibility that One Nation could hold the balance of power.",
+          "title": "With the Top End rocked by several strong quakes, we look at the risk",
+          "summary": "Two earthquakes stronger than magnitude 6 have shaken Australia’s Top End in recent weeks, with thousands of people reportedly feeling the tremors. ABC News examines the region’s underlying earthquake risk and whether seismic events there are becoming more frequent.",
           "links": [
             {
-              "url": "https://www.theguardian.com/australia-news/2026/nov/27/victorian-election-2026-when-is-it-how-to-vote-date-where-victoria-state-polls-candidates-voting-near-count-ntwnfb",
-              "source": "The Guardian Australia",
-              "headline": "When, where and how to vote in Victoria’s 2026 state election: what voters need to know on polling day",
-              "excerpt": "Labor is chasing a fourth consecutive term and the Liberals are hoping for a breakthrough – but could One Nation end up with the balance of power? And how, when and where can people vote in Victoria? Confused about who to vote for? Check the parties’ key promises and policies",
-              "imageUrl": "https://i.guim.co.uk/img/media/ecc3acb1b21f1c2f22c58810097150d354618d9f/619_304_1738_1391/master/1738.jpg?width=140&quality=85&auto=format&fit=max&s=c67fe6773493df44678a1d86139aef1f",
-              "imageAlt": "When, where and how to vote in Victoria’s 2026 state election: what voters need to know on polling day",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            },
-            {
-              "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-day-arrives-ben-carroll-jess-wilson/107422598",
+              "url": "https://www.abc.net.au/news/2026-11-28/nt-are-earthquakes-becoming-more-common-in-darwin-tremors/107432208",
               "source": "ABC Australia",
-              "headline": "Victoria's election day arrives, as state appears poised to dump Labor",
-              "excerpt": "Victoria's election day has finally arrived, after a tumultuous term for both the Labor and Liberal parties.",
-              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/fa864eafbc44015ccb5a784aa0075421?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485",
-              "imageAlt": "Victoria's election day arrives, as state appears poised to dump Labor",
+              "headline": "With the Top End rocked by several strong quakes, we look at the risk",
+              "excerpt": "Two earthquakes over magnitude-6 strength have shaken the Top End in recent weeks, with thousands of people reportedly feeling tremors. So what is the region's earthquake risk, and are quakes becoming more frequent?",
+              "imageUrl": "https://live-production.wcms.abc-cdn.net.au/288804790b194127a89ab412242de4dd?impolicy=wcms_crop_resize&cropH=1126&cropW=2000&xPos=0&yPos=182&width=862&height=485",
+              "imageAlt": "With the Top End rocked by several strong quakes, we look at the risk",
               "outlet": "ABC News",
               "sourceBias": "Center",
               "sourceReliability": "high",
@@ -428,13 +517,13 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/ecc3acb1b21f1c2f22c58810097150d354618d9f/619_304_1738_1391/master/1738.jpg?width=140&quality=85&auto=format&fit=max&s=c67fe6773493df44678a1d86139aef1f",
-          "imageAlt": "When, where and how to vote in Victoria’s 2026 state election: what voters need to know on polling day",
-          "imageCredit": "The Guardian"
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/288804790b194127a89ab412242de4dd?impolicy=wcms_crop_resize&cropH=1126&cropW=2000&xPos=0&yPos=182&width=862&height=485",
+          "imageAlt": "With the Top End rocked by several strong quakes, we look at the risk",
+          "imageCredit": "ABC News"
         },
         {
           "title": "As bad polling dims his parliamentary wins, Albanese faces a long summer of political heat | Tom McIlroy",
-          "summary": "Anthony Albanese pointed to a run of legislation passed in parliament's final sitting days and said he was not considering major frontbench changes before the next election. The Guardian commentary says poor polling is overshadowing those wins as Coalition MPs become more confident that their message is cutting through.",
+          "summary": "Anthony Albanese ended parliament’s final sitting days of the year by highlighting a run of legislative victories and saying he was not considering major frontbench changes before the next election. The Guardian’s analysis says poor polling is overshadowing those wins while Coalition MPs believe their attacks are cutting through more effectively.",
           "links": [
             {
               "url": "https://www.theguardian.com/australia-news/2026/nov/28/as-bad-polling-dims-his-parliamentary-wins-albanese-faces-a-long-summer-of-political-heat",
@@ -462,7 +551,7 @@
         },
         {
           "title": "Victorian Labor’s very own State Funeral",
-          "summary": "The story title refers to Victorian Labor, but the only linked excerpt does not contain details supporting that subject. The linked Spectator Australia item instead argues that COP31's failure to produce new commitments exposes the climate policies of Anthony Albanese and Chris Bowen.",
+          "summary": "The story is titled “Victorian Labor’s very own State Funeral,” but the sole supplied link is a Spectator Australia commentary about COP31. That linked piece argues the conference’s failure to produce new commitments exposes what it calls the climate extremism of Anthony Albanese and Chris Bowen, leaving the title unsupported by the available excerpt.",
           "links": [
             {
               "url": "https://www.spectator.com.au/2026/11/cop31-failure-reveals-albanese-and-bowens-climate-extremism/",
@@ -495,7 +584,7 @@
       "stories": [
         {
           "title": "X finally gets parental controls after 20 years",
-          "summary": "X has added parental controls for teenage users after two decades without them. TechCrunch reports that the tools give parents and guardians a way to manage what their children see on the social network.",
+          "summary": "X has introduced parental controls for teenage users, two decades after the social network’s launch. The new tools give parents and guardians a way to manage what their children can see on the platform.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
@@ -523,7 +612,7 @@
         },
         {
           "title": "GTA in Istanbul? Meet the game developers bringing virtual crime chaos to their home cities",
-          "summary": "Independent developers from Helsinki to Istanbul are creating Grand Theft Auto-style games set in their own cities without billion-dollar budgets. The Guardian reports that the projects transplant open-world crime action into familiar local streets, accents and driving conventions.",
+          "summary": "Independent developers from Helsinki to Istanbul are creating Grand Theft Auto-style games set in their own cities without blockbuster budgets. The Guardian traces the idea through developers such as Eamonn Swayah, who imagined a crime sandbox on a Manchester council estate with local accents and left-side driving.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/nov/27/gta-grand-theft-auto-clones",
@@ -551,7 +640,7 @@
         },
         {
           "title": "It’s the biggest ever month for video games – so why am I playing a title from 2006? | Dominik Diamond",
-          "summary": "In a major month for new video games, columnist Dominik Diamond writes that he is instead playing an older Nintendo Wii title from 2006. He says he has yet to play Grand Theft Auto VI and has also missed the excitement around the latest Zelda release.",
+          "summary": "In a major month for new games including GTA VI and Zelda, columnist Dominik Diamond says he has instead been playing an older Nintendo Wii title from 2006. The piece presents his deliberately out-of-step choice as a contrast with the gaming world’s current excitement.",
           "links": [
             {
               "url": "https://www.theguardian.com/games/2026/nov/27/legend-zelda-ocarina-of-time-grand-theft-auto-vi-six-dominik-diamond",
@@ -579,7 +668,7 @@
         },
         {
           "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
-          "summary": "Labor leaders and advocates are calling for protections for workers and consumers as artificial intelligence becomes more common in United States retail. The Guardian reports that shoppers and employees were already seeing the technology reshape the sector during the Black Friday period, including at Walmart.",
+          "summary": "Labour leaders and consumer advocates are calling for safeguards as artificial intelligence becomes more common in U.S. retail. The Guardian reports that shoppers and workers are already seeing its effects during the Black Friday period, including criticism from a Walmart cashier and organiser concerned about the technology’s workplace impact.",
           "links": [
             {
               "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
@@ -607,7 +696,7 @@
         },
         {
           "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
-          "summary": "Belgian authorities ordered Google to stop work on a large datacentre after finding that proposed changes to its planning permission had not been approved. Inspectors reportedly found the building nearly finished despite an unresolved planning appeal, while Greenpeace publicised the case in a report.",
+          "summary": "Belgian authorities ordered Google to stop construction on a large datacentre because proposed changes to its original planning permission had not been approved. Inspectors reportedly found the building nearly finished while a planning appeal remained unresolved, prompting Greenpeace to publicise the case.",
           "links": [
             {
               "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
@@ -639,44 +728,16 @@
       "name": "Asia Pacific",
       "stories": [
         {
-          "title": "BOC chief inspects P661M worth of illegal drugs seized at Naia",
-          "summary": "Customs Commissioner Charlito Martin Mendoza and Philippine Drug Enforcement Agency director Arnold Carreon inspected more than 350 kilograms of illegal drugs seized at Ninoy Aquino International Airport. The Bureau of Customs estimated the haul, which included high-grade marijuana, at P661 million.",
+          "title": "Congress urged to redirect flood control funding to Mindanao",
+          "summary": "Philippine presidential peace adviser Mel Senen Sarmiento asked Congress to increase funding for peacebuilding in Mindanao by redirecting money cut from public-works flood-control projects. He said the additional support would help formerly war-torn communities become peaceful and productive as the Senate approved a P9.4 billion budget for his office.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2348107/boc-chief-inspects-p661m-worth-of-illegal-drugs-seized-at-naia",
+              "url": "https://newsinfo.inquirer.net/2348279/congress-urged-to-redirect-flood-control-funding-to-mindanao",
               "source": "Philippine Daily Inquirer",
-              "headline": "BOC chief inspects P661M worth of illegal drugs seized at Naia",
-              "excerpt": "MANILA, Philippines — Customs Commissioner Charlito Martin R. Mendoza, together with Director Arnold C. Carreon of the Philippine Drug Enforcement Agency (PDEA), inspected on Friday over 350 kilograms of illegal drugs worth an estimated P661 million. They were accompanied by representatives from partner agencies. The Bureau of Customs–Ninoy Aquino International Airport (BOC-Naia) intercepted high-grade marijuana,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/CharlitoMendoza-IllegalDrugsInspection-NAIA-27Nov2026.jpg",
-              "imageAlt": "BOC chief inspects P661M worth of illegal drugs seized at Naia",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/CharlitoMendoza-IllegalDrugsInspection-NAIA-27Nov2026.jpg",
-          "imageAlt": "BOC chief inspects P661M worth of illegal drugs seized at Naia",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "DENR halts Catanduanes coal mining project over violations",
-          "summary": "The Department of Environment and Natural Resources suspended the environmental compliance certificate of a small-scale coal mining project in Caramoran, Catanduanes. The cited violations included unauthorised clearing outside the project's permitted area.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2348087/denr-halts-catanduanes-coal-mining-project-over-violations",
-              "source": "Philippine Daily Inquirer",
-              "headline": "DENR halts Catanduanes coal mining project over violations",
-              "excerpt": "LEGAZPI CITY – The Department of Environment and Natural Resources (DENR) has suspended the environmental compliance certificate (ECC) of a small-scale coal mining project in Barangay Obi, Caramoran, Catanduanes, following violations of regulations, including unauthorized clearing operations outside its permitted area. In a November 25 letter, DENR Region V Director Geri-Gerónimo Sañez informed project proponent",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2023/06/DENR-LOGO.png",
-              "imageAlt": "DENR halts Catanduanes coal mining project over violations",
+              "headline": "Congress urged to redirect flood control funding to Mindanao",
+              "excerpt": "COTABATO CITY—Presidential Peace Adviser Mel Senen Sarmiento had asked Congress to boost government’s funding for peacebuilding initiatives to help transition once war-torn communities into peaceful and productive zones, using funds cut from flood control projects of the Department of Public Works and Highways (DPWH). This developed as the Senate on Friday approved its P9.4-billion budget",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Mel-Senen-Sarmiento-20October2026.jpg",
+              "imageAlt": "Congress urged to redirect flood control funding to Mindanao",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -690,77 +751,21 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2023/06/DENR-LOGO.png",
-          "imageAlt": "DENR halts Catanduanes coal mining project over violations",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/10/Mel-Senen-Sarmiento-20October2026.jpg",
+          "imageAlt": "Congress urged to redirect flood control funding to Mindanao",
           "imageCredit": "Philippine Daily Inquirer"
         },
         {
-          "title": "Virtual assistant nabbed for forcing ‘GFs’ in ‘sexual’ livestream",
-          "summary": "The National Bureau of Investigation arrested a 22-year-old virtual assistant in Guiguinto, Bulacan, over allegations that he forced women described as his girlfriends to perform sexual acts on livestreams for foreign viewers. Complaints from two alleged former girlfriends led investigators to conduct an entrapment operation.",
+          "title": "Tulfo flags P71M in DOH-procured meds expiring in March 2027",
+          "summary": "Philippine senator Raffy Tulfo raised concerns over about P71 million in government-procured medicines due to expire by March 2027. During deliberations on the Department of Health’s P274 billion 2027 budget, he identified stocks including HIV/AIDS and family-planning medicines.",
           "links": [
             {
-              "url": "https://newsinfo.inquirer.net/2348145/virtual-assistant-nabbed-for-forcing-gfs-in-sexual-livestream",
+              "url": "https://newsinfo.inquirer.net/2348189/tulfo-flags-p71m-in-doh-procured-meds-expiring-in-march-2027",
               "source": "Philippine Daily Inquirer",
-              "headline": "Virtual assistant nabbed for forcing ‘GFs’ in ‘sexual’ livestream",
-              "excerpt": "MANILA, Philippines — A 22-year-old virtual assistant was arrested in Guiguinto, Bulacan, for allegedly forcing his “girlfriends” to conduct sexual acts in a livestreaming platform with foreign viewers, according to the National Bureau of Investigation (NBI). Two supposed ex-girlfriends of the suspect filed the complaint before the NBI, leading operatives to conduct an entrapment operation",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/bulacan-virtual-assistant-27nov2026.png",
-              "imageAlt": "Virtual assistant nabbed for forcing ‘GFs’ in ‘sexual’ livestream",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=medium; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/bulacan-virtual-assistant-27nov2026.png",
-          "imageAlt": "Virtual assistant nabbed for forcing ‘GFs’ in ‘sexual’ livestream",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "MMDA suspends coding scheme on Monday, Nov. 30",
-          "summary": "The Metropolitan Manila Development Authority suspended the expanded number coding scheme for Monday, November 30. The suspension coincided with the observance of Bonifacio Day, declared a regular holiday under President Ferdinand Marcos Jr.'s Proclamation No. 1006.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2348147/mmda-suspends-coding-scheme-on-monday-nov-30",
-              "source": "Philippine Daily Inquirer",
-              "headline": "MMDA suspends coding scheme on Monday, Nov. 30",
-              "excerpt": "MANILA, Philippines — The Metropolitan Manila Development Authority (MMDA) suspended the implementation of the expanded number coding scheme on Monday, Nov. 30. This is amid the observation of Bonifacio Day, which is declared a regular holiday under President Ferdinand Marcos Jr.’s Proclamation No. 1006.“Suspendido ang pagpapatupad ng Expanded Number Coding Scheme sa Lunes, Nobyembre 30,",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/MMDA-logo-filephoto-091322-02.jpeg",
-              "imageAlt": "MMDA suspends coding scheme on Monday, Nov. 30",
-              "outlet": "Philippine Daily Inquirer",
-              "sourceBias": "Center",
-              "sourceReliability": "medium",
-              "bias": "Center",
-              "alignment": "Center",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
-              "confidence": "medium",
-              "reliability": "medium",
-              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2022/09/MMDA-logo-filephoto-091322-02.jpeg",
-          "imageAlt": "MMDA suspends coding scheme on Monday, Nov. 30",
-          "imageCredit": "Philippine Daily Inquirer"
-        },
-        {
-          "title": "Sandiganbayan affirms Revilla’s bail in malversation case",
-          "summary": "The story title says the Sandiganbayan affirmed Revilla's bail in a malversation case, but the linked item provides no details supporting that event. Its excerpt instead says the court's Third Division asked the National Bureau of Investigation to identify someone accused of posing as a justice to solicit money from the son of a co-accused in a separate plunder case.",
-          "links": [
-            {
-              "url": "https://newsinfo.inquirer.net/2348345/nbi-urged-to-probe-individual-posing-as-court-justice-to-solicit-money",
-              "source": "Philippine Daily Inquirer",
-              "headline": "NBI urged to probe individual posing as court justice to solicit money",
-              "excerpt": "MANILA, Philippines – The Sandiganbayan Third Division on Friday ordered the National Bureau of Investigation (NBI) to identify the individual who posed as one of the court’s justices in order to solicit money from the son of a co-accused in the plunder case of former Speaker Martin Romualdez. In its order, the court said it",
-              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/NBI-Director-Melvin-Matibag-ons-that-facilitated-human-trafficking-activities-including-the-installation-of-concealed-doors-hidden-stairways-and-private-rooms.-Matibag-announced-that-they-wil.png",
-              "imageAlt": "NBI urged to probe individual posing as court justice to solicit money",
+              "headline": "Tulfo flags P71M in DOH-procured meds expiring in March 2027",
+              "excerpt": "MANILA, Philippines – Sen. Raffy Tulfo flagged on Friday around P71-million worth of government-procured medicines set to expire by March 2027. Tulfo expressed concern over expiring medicines during the deliberations on the Department of Health’s P274-billion budget for fiscal year 2027. “P11-million worth of HIV/AIDS medicine, P43 million for family planning medicine, and 15 million",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Screenshot-2026-08-11-at-9.03.31-PM.jpg",
+              "imageAlt": "Tulfo flags P71M in DOH-procured meds expiring in March 2027",
               "outlet": "Philippine Daily Inquirer",
               "sourceBias": "Center",
               "sourceReliability": "medium",
@@ -774,8 +779,92 @@
             }
           ],
           "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/NBI-Director-Melvin-Matibag-ons-that-facilitated-human-trafficking-activities-including-the-installation-of-concealed-doors-hidden-stairways-and-private-rooms.-Matibag-announced-that-they-wil.png",
-          "imageAlt": "NBI urged to probe individual posing as court justice to solicit money",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/08/Screenshot-2026-08-11-at-9.03.31-PM.jpg",
+          "imageAlt": "Tulfo flags P71M in DOH-procured meds expiring in March 2027",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "P24.3M smuggled cigarettes seized in Negros warehouse raid",
+          "summary": "Philippine authorities seized 429 master cases of suspected smuggled cigarettes worth more than P24.3 million during a raid on a warehouse in Murcia, Negros Occidental. The Friday operation followed intelligence that illicit tobacco products were being stored at the Barangay Santa Rosa site.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2348439/p24-3m-smuggled-cigarettes-seized-in-negros-warehouse-raid",
+              "source": "Philippine Daily Inquirer",
+              "headline": "P24.3M smuggled cigarettes seized in Negros warehouse raid",
+              "excerpt": "MURCIA, Negros Occidental — A warehouse in Barangay Santa Rosa yielded more than P24.3 million worth of suspected smuggled cigarettes after law enforcement operatives raided the facility on Friday morning, Nov. 27. Operatives seized 429 master cases of cigarettes during the operation in Purok Ipil-Ipil, following intelligence reports that illicit tobacco products were being stored",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2024/06/CIGARETTES-MUGGLING-stock-17June2024.png",
+              "imageAlt": "P24.3M smuggled cigarettes seized in Negros warehouse raid",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2024/06/CIGARETTES-MUGGLING-stock-17June2024.png",
+          "imageAlt": "P24.3M smuggled cigarettes seized in Negros warehouse raid",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Unlocking the genetic secrets of the Philippines’ lesser-known eagle",
+          "summary": "Researchers are examining the genetics of the South Philippine hawk-eagle, an endangered species found only in the Philippines that has received less attention than the Philippine eagle. The bird is described as the country’s second most threatened eagle, with an estimated 600 to 800 mature individuals remaining.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2348446/unlocking-the-genetic-secrets-of-the-philippines-lesser-known-eagle",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Unlocking the genetic secrets of the Philippines’ lesser-known eagle",
+              "excerpt": "MANILA, Philippines — In the forests of the southern Philippines lives another endangered eagle that has received far less scientific and public attention than the critically endangered Philippine eagle. The South Philippine hawk-eagle (Nisaetus pinskeri), found only in the Philippines, is considered the country’s second most threatened eagle, with an estimated 600 to 800 mature",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/South-Philippine-Hawk-eagle-28nov26.png",
+              "imageAlt": "Unlocking the genetic secrets of the Philippines’ lesser-known eagle",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/South-Philippine-Hawk-eagle-28nov26.png",
+          "imageAlt": "Unlocking the genetic secrets of the Philippines’ lesser-known eagle",
+          "imageCredit": "Philippine Daily Inquirer"
+        },
+        {
+          "title": "Manila Water sets desludging schedule for a cleaner holiday season",
+          "summary": "Manila Water released its December desludging schedule for selected barangays in Metro Manila’s East Zone and Rizal. The utility is encouraging households in scheduled areas to use the service before their septic tanks fill during the holiday season.",
+          "links": [
+            {
+              "url": "https://newsinfo.inquirer.net/2348213/manila-water-sets-desludging-schedule-for-a-cleaner-holiday-season",
+              "source": "Philippine Daily Inquirer",
+              "headline": "Manila Water sets desludging schedule for a cleaner holiday season",
+              "excerpt": "MANILA, Philippines —Manila Water releases its December desludging schedule for selected barangays in the East Zone of Metro Manila and Rizal, helping households maintain properly functioning septic tanks during the holiday season. The water and wastewater service provider is encouraging customers in scheduled areas to avail of the service before their septic tanks reach full",
+              "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/ManilaWater-DesludgingTruck-27Nov2026.jpg",
+              "imageAlt": "Manila Water sets desludging schedule for a cleaner holiday season",
+              "outlet": "Philippine Daily Inquirer",
+              "sourceBias": "Center",
+              "sourceReliability": "medium",
+              "bias": "Center",
+              "alignment": "Center",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Center",
+              "confidence": "medium",
+              "reliability": "medium",
+              "reliabilityBasis": "source-prior=medium; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
+          "imageUrl": "https://newsinfo.inquirer.net/files/2026/11/ManilaWater-DesludgingTruck-27Nov2026.jpg",
+          "imageAlt": "Manila Water sets desludging schedule for a cleaner holiday season",
           "imageCredit": "Philippine Daily Inquirer"
         }
       ]
@@ -784,8 +873,33 @@
       "name": "Business / Finance",
       "stories": [
         {
+          "title": "Palestinians Stream Back to Northern Gaza on Foot",
+          "summary": "Displaced Palestinians began returning on foot to northern Gaza after Israel allowed them to cross the military zone dividing the enclave. The movement followed the resolution of a deadlock over hostage releases.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+              "source": "Wall Street Journal",
+              "headline": "Palestinians Stream Back to Northern Gaza on Foot",
+              "excerpt": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+              "imageUrl": "",
+              "imageAlt": "Palestinians Stream Back to Northern Gaza on Foot",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
           "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-          "summary": "United States prosecutors accused a former cyber executive of defrauding ransomware victims by secretly paying the hackers. The Justice Department alleges that the executive charged victims more than the ransom payments and kept the difference.",
+          "summary": "U.S. prosecutors accused a former cybersecurity executive of secretly paying ransomware hackers while handling incidents for victims. The Justice Department alleges that the executive charged victims more than the payments and kept the difference.",
           "links": [
             {
               "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
@@ -813,7 +927,7 @@
         },
         {
           "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
-          "summary": "Natural England urged Bristol City Council to reject a proposed 40-megawatt artificial-intelligence datacentre at Avonmouth because of risks to nearby protected wildlife and habitats. Weeks after that objection, ministers threatened to abolish the independent environmental adviser.",
+          "summary": "Natural England urged Bristol City Council to reject a proposed 40-megawatt AI datacentre at Avonmouth because of risks to nearby protected wildlife and habitats. Weeks after the independent environmental adviser made the objection, government ministers threatened to abolish the agency.",
           "links": [
             {
               "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
@@ -840,88 +954,54 @@
           "imageCredit": "The Guardian"
         },
         {
-          "title": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
-          "summary": "The Guardian examines how Generation Z is reshaping Friendsgiving, a social tradition associated with millennials, amid concerns about loneliness and last-minute cancellations. One viral example featured two hosts left with only one guest after others withdrew, despite preparations that included a six-pound ham.",
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "summary": "Major Chinese property developer Vanke reported a large loss, deepening concerns about the country’s real-estate crisis. The result raises questions about whether the sector’s troubles are spreading further and whether the Chinese state will intervene.",
           "links": [
             {
-              "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z",
-              "source": "The Guardian Technology",
-              "headline": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
-              "excerpt": "A generation known for loneliness is putting their own spin on a millennial-made tradition that requires socializing It’s a TikTok scene straight out of a stress dream: two men stand in their freshly cleaned apartment, explaining how all but one of the people they invited to Friendsgiving flaked out at the last minute. There is a can of whipped cream on the table and a 6lb ham in the oven. According to the vid",
-              "imageUrl": "https://i.guim.co.uk/img/media/0cc0c758dfb88ba1a8c777776c384c80b2bd0b7c/186_0_7652_6123/master/7652.jpg?width=140&quality=85&auto=format&fit=max&s=660dec1972324f76bc926022b4b3f46d",
-              "imageAlt": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
+              "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+              "source": "Wall Street Journal",
+              "headline": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "excerpt": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+              "imageUrl": "",
+              "imageAlt": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
               "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
+              "confidence": "high",
+              "reliability": "high",
+              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
+              "ratingMethod": "deterministic-local-article-heuristic-v2"
+            }
+          ],
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
+        },
+        {
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "summary": "Some freed Israeli women still had shrapnel in their bodies from the October 7 attack, according to an Israeli medical official. The official said some had been held alone for extended periods and spent eight months in tunnels.",
+          "links": [
+            {
+              "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+              "source": "Wall Street Journal",
+              "headline": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "excerpt": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+              "imageUrl": "",
+              "imageAlt": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+              "outlet": "Wall Street Journal",
+              "sourceBias": "Lean Right",
+              "sourceReliability": "high",
+              "bias": "Lean Right",
+              "alignment": "Lean Right",
+              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Right",
               "confidence": "high",
               "reliability": "high",
               "reliabilityBasis": "source-prior=high; article-text raises reliability: (reuters|associated press|ap news|court documents|officials said|according to)",
               "ratingMethod": "deterministic-local-article-heuristic-v2"
             }
           ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/0cc0c758dfb88ba1a8c777776c384c80b2bd0b7c/186_0_7652_6123/master/7652.jpg?width=140&quality=85&auto=format&fit=max&s=660dec1972324f76bc926022b4b3f46d",
-          "imageAlt": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Slow internet? The best wifi extenders and mesh systems to boost your home network – tested",
-          "summary": "The Guardian tested 11 Wi-Fi range extenders and mesh systems for speed and reliability in streaming, gaming and working from home. The review focuses on improving coverage where a provider-supplied router cannot reach parts of a home.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2026/nov/26/best-wifi-extender-repeater-uk",
-              "source": "The Guardian Technology",
-              "headline": "Slow internet? The best wifi extenders and mesh systems to boost your home network – tested",
-              "excerpt": "We put 11 range extenders and mesh systems to the test to find the fastest and most reliable for streaming, gaming and working from home • The best office chairs Fast fibre broadband is fantastic – if the wifi signal reaches the part of your home where you need it. Most of us use the router provided by our broadband provider, often tucked away in a hallway or corner of the lounge",
-              "imageUrl": "https://i.guim.co.uk/img/media/593be969b42029b62c32996c24e46a5d2eedb6df/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=71cbd1dbee593f3eacc901c0e45b1530",
-              "imageAlt": "Slow internet? The best wifi extenders and mesh systems to boost your home network – tested",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/593be969b42029b62c32996c24e46a5d2eedb6df/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=71cbd1dbee593f3eacc901c0e45b1530",
-          "imageAlt": "Slow internet? The best wifi extenders and mesh systems to boost your home network – tested",
-          "imageCredit": "The Guardian"
-        },
-        {
-          "title": "Which gaming headsets are worth the cost? I put 20 to the test – here are the best for 2026",
-          "summary": "The Guardian tested 20 gaming headsets across wired, wireless, noise-cancelling and budget categories. The review assesses which models best improve sound for personal-computer and console games, where dialogue and environmental audio can matter as much as graphics.",
-          "links": [
-            {
-              "url": "https://www.theguardian.com/thefilter/2026/nov/25/best-gaming-headsets-tested-uk",
-              "source": "The Guardian Technology",
-              "headline": "Which gaming headsets are worth the cost? I put 20 to the test – here are the best for 2026",
-              "excerpt": "Wired, wireless, noise cancelling and budget … here are the headphones to level up your PC and console gaming • The best gaming chairs We talk a lot about graphics in video games; we know how important it is to play on a decent screen so we can see what we’re shooting at … or running away from. But what about sound? Explosions, dialogue, the wheezy breathing of a nearby mo",
-              "imageUrl": "https://i.guim.co.uk/img/media/3a276f2e93b202239afa2ec435374399390e14f5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=abc7a8bc3b5ad3562638fcde41a3f43d",
-              "imageAlt": "Which gaming headsets are worth the cost? I put 20 to the test – here are the best for 2026",
-              "outlet": "The Guardian",
-              "sourceBias": "Lean Left",
-              "sourceReliability": "high",
-              "bias": "Lean Left",
-              "alignment": "Lean Left",
-              "alignmentBasis": "source-default-fallback: no article alignment cues; source prior=Lean Left",
-              "confidence": "high",
-              "reliability": "high",
-              "reliabilityBasis": "source-prior=high; article-text: no reliability modifier cues",
-              "ratingMethod": "deterministic-local-article-heuristic-v2"
-            }
-          ],
-          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1",
-          "imageUrl": "https://i.guim.co.uk/img/media/3a276f2e93b202239afa2ec435374399390e14f5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=abc7a8bc3b5ad3562638fcde41a3f43d",
-          "imageAlt": "Which gaming headsets are worth the cost? I put 20 to the test – here are the best for 2026",
-          "imageCredit": "The Guardian"
+          "summaryMethod": "barry-openai-codex-multi-source-mini-story-v1"
         }
       ]
     }
